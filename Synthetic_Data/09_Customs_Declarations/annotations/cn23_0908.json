@@ -1,0 +1,75 @@
+{
+  "document_id": "cn23_0908",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Christian Spencer",
+    "addressee_company": "Global Barrett GmbH",
+    "addressee_address": "65947 Jackson Walks, Lake Theresa, PA 67499, Brazil",
+    "addressee_country": "Brazil",
+    "total_weight_kg": 14.78,
+    "total_value": 2075.32,
+    "currency": "SGD",
+    "issue_date": "2026-04-22",
+    "reference": "REF-277215",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.828,
+        "value": 68.32,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 2,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.169,
+        "value": 83.4,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 6,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.838,
+        "value": 14.88,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 1,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.897,
+        "value": 138.68,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 15,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.805,
+        "value": 1541.4,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 8,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.243,
+        "value": 228.64,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Daniel Ross",
+    "sender_company": "Murray Commerce Pte Ltd",
+    "sender_address": "34020 Glover Lane Apt. 259, Riveraberg, NY 16211, United Kingdom",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 69.03,
+    "tracking_number": "GS731517416GV"
+  }
+}

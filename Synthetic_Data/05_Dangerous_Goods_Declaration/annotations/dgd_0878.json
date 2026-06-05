@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0878",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Morgan Co.",
+    "shipper_address": "1424 Knox Light, Santosview, CT 03792, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Industry Mathews Inc.",
+    "consignee_address": "4376 Michael Mills Suite 243, Bushville, WA 78429, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+41 616-415-5150",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 49,
+        "pkg_type": "Steel Drum",
+        "net_qty": 44.27,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-348693",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 14,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 64.44,
+        "qty_unit": "kg",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-365288",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Daniel Wells",
+    "signature_date": "2026-04-15",
+    "signature_place": "Sweden",
+    "vessel": "EVER GOLDEN",
+    "voyage": "356W",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Busan, KR"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "document_id": "vgm_0968",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Pacific Long Pte Ltd",
+    "shipper_address": "PSC 0618, Box 9584, APO AA 42149, South Korea",
+    "shipper_country": "South Korea",
+    "container_number": "IWAI4851936",
+    "seal_number": "CL669170",
+    "container_size": "45'HC",
+    "iso_type_code": "L5G0",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 10441.8,
+    "packing_materials_kg": 280.5,
+    "vgm_kg": 15522.3,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "114N",
+    "bl_number": "DHLG129285494",
+    "booking_reference": "BKG-578705",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-78475",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-27",
+    "signature_date": "2026-05-13",
+    "signatory_name": "Kristin Obrien",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 7,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Carton",
+        "n_units": 9,
+        "gross_wt_kg": 911.0
+      },
+      {
+        "item_no": 2,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Crate",
+        "n_units": 3,
+        "gross_wt_kg": 2266.3
+      },
+      {
+        "item_no": 3,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Drum",
+        "n_units": 3,
+        "gross_wt_kg": 1217.5
+      },
+      {
+        "item_no": 4,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Crate",
+        "n_units": 11,
+        "gross_wt_kg": 359.2
+      },
+      {
+        "item_no": 5,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Case",
+        "n_units": 3,
+        "gross_wt_kg": 2510.1
+      },
+      {
+        "item_no": 6,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Bag",
+        "n_units": 5,
+        "gross_wt_kg": 689.6
+      },
+      {
+        "item_no": 7,
+        "description": "Textile Fabrics - Woven Polyester",
+        "pkg_type": "Bag",
+        "n_units": 3,
+        "gross_wt_kg": 2488.1
+      }
+    ]
+  }
+}

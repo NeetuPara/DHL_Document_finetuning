@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0866",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Lisa Poole",
+    "addressee_company": "Davis Trade Inc.",
+    "addressee_address": "3072 Vernon Neck, Stephaniestad, AZ 03233, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 4.027,
+    "total_value": 2305.4,
+    "currency": "USD",
+    "issue_date": "2026-04-24",
+    "reference": "REF-661006",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.778,
+        "value": 1765.1,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 6,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.249,
+        "value": 540.3,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_name": "Angelica Martinez",
+    "sender_company": "Williams Pacific Co.",
+    "sender_address": "2482 Herrera Cliffs, West Stacey, RI 84192, Sweden",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 51.05,
+    "tracking_number": "AA379357961KP"
+  }
+}

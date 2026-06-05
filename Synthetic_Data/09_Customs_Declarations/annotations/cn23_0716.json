@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0716",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Justin Gilmore",
+    "addressee_company": "International Braun Pte Ltd",
+    "addressee_address": "9789 Gay Overpass, Port Lisa, MA 02466, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 1.565,
+    "total_value": 974.4,
+    "currency": "AUD",
+    "issue_date": "2025-09-23",
+    "reference": "REF-164740",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.565,
+        "value": 974.4,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_name": "Billy Wallace",
+    "sender_company": "Long Pacific GmbH",
+    "sender_address": "11846 Hernandez Drive Suite 790, Brooksport, NJ 02330, India",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 15.77,
+    "tracking_number": "QZ141802860LH"
+  }
+}

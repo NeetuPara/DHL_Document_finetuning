@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0829",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Mccormick Industry Corp.",
+    "shipper_address": "3816 Tammy Prairie Apt. 203, New Alexander, NY 05978, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Trade Miller Pte Ltd",
+    "consignee_address": "3145 Andrew Vista, New Timothy, MP 94320, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+59 802-955-4360",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 6,
+        "pkg_type": "Steel Drum",
+        "net_qty": 34.89,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 27,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 88.02,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-712571",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Jacob Sharp",
+    "signature_date": "2026-04-14",
+    "signature_place": "Sweden",
+    "awb_number": "618-47123763",
+    "flight_number": "SQ6919",
+    "flight_date": "2026-04-23",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International"
+  }
+}

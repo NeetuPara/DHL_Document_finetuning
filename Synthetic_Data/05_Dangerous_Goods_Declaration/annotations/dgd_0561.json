@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0561",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Thomas Industry Ltd",
+    "shipper_address": "5859 Martin Square, West Whitney, AS 70725, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Castaneda Trade AG",
+    "consignee_address": "021 Emily Fork, West Antonio, NV 01275, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+48 980-163-3517",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 49,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 84.96,
+        "qty_unit": "L",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-430848",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Kathleen Conley",
+    "signature_date": "2026-04-28",
+    "signature_place": "United States",
+    "awb_number": "006-47820968",
+    "flight_number": "DL5856",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

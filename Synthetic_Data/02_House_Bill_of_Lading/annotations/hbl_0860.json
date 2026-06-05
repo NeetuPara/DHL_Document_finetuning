@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0860",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU200917791",
+    "shipper_name": "International Flores LLC",
+    "shipper_address": "USS Griffith, FPO AP 27074, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Trade Howe Ltd",
+    "consignee_address": "30806 Ho Station Apt. 322, Johnsonmouth, NY 78131, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party_name": "Kaiser Global Inc.",
+    "notify_party_address": "5958 Brown Isle Suite 196, Fitzpatricktown, AR 02268, Spain",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "918S",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2024-11-16",
+    "issue_place": "New York",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "PJBM0896040",
+        "seal_no": "BL763249",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "EDDM9788550",
+        "seal_no": "CL652051",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 463,
+    "package_type": "Bundle",
+    "gross_weight_kg": 5687.5,
+    "net_weight_kg": 5236.2,
+    "cbm": 49.26,
+    "marks_and_numbers": "ABC/40"
+  }
+}

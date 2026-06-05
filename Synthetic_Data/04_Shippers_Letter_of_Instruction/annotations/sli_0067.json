@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0067",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202007-9487",
+    "usppi_name": "Thompson Industry GmbH",
+    "usppi_address": "9124 Roberson Path Apt. 412, Toddshire, CA 56873, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "97-1487717",
+    "consignee_name": "Industry Harris Corp.",
+    "consignee_address": "23585 Villanueva Springs Apt. 390, Lake Eric, VT 16228, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Robinson Commerce Co.",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Carla Hill",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/14",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 97,
+        "unit": "PCS",
+        "weight_kg": 5.13,
+        "value_usd": 19137.66
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 42,
+        "unit": "PCS",
+        "weight_kg": 4.71,
+        "value_usd": 2208.9
+      },
+      {
+        "marks": "EXP/16",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 44,
+        "unit": "CTN",
+        "weight_kg": 86.5,
+        "value_usd": 2054.36
+      }
+    ],
+    "total_weight_kg": 96.34,
+    "total_value_usd": 23400.92,
+    "service": "Ground",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 24647.07,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-658957",
+    "destination_country": "Japan"
+  }
+}

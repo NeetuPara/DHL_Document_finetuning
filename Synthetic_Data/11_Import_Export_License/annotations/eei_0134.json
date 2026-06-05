@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0134",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240710052305",
+    "export_date": "2026-01-09",
+    "aes_option": "EEI Exception",
+    "usppi_name": "International Bailey AG",
+    "usppi_ein": "16-6463288",
+    "usppi_address": "391 Andre Canyon Suite 157, East Melissa, HI 73215, Sweden",
+    "ultimate_consignee": "Rhodes Tech GmbH",
+    "intermediate_consignee": "Trade Rodgers Inc.",
+    "forwarding_agent": "Andersen Commerce AG",
+    "destination_country": "Poland",
+    "carrier": "UPS",
+    "bl_awb": "618-93347554",
+    "total_value": 361823.02,
+    "currency": "USD",
+    "signatory": "Monica Odom",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Sweden",
+        "qty": 424,
+        "unit": "CTN",
+        "entered_value": 172033.76,
+        "duty_rate": 21.3,
+        "duty_amount": 36643.19,
+        "eccn": "0A919",
+        "schedule_b": "9018.31.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "France",
+        "qty": 70,
+        "unit": "PCS",
+        "entered_value": 5019.7,
+        "duty_rate": 24.5,
+        "duty_amount": 1229.83,
+        "eccn": "9A515",
+        "schedule_b": "9401.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Netherlands",
+        "qty": 51,
+        "unit": "CTN",
+        "entered_value": 6874.8,
+        "duty_rate": 7.9,
+        "duty_amount": 543.11,
+        "eccn": "9A515",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Malaysia",
+        "qty": 284,
+        "unit": "CTN",
+        "entered_value": 115644.8,
+        "duty_rate": 22.2,
+        "duty_amount": 25673.15,
+        "eccn": "0A919",
+        "schedule_b": "9018.31.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Malaysia",
+        "qty": 284,
+        "unit": "LTR",
+        "entered_value": 62249.96,
+        "duty_rate": 3.9,
+        "duty_amount": 2427.75,
+        "eccn": "2B350",
+        "schedule_b": "2901.10.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

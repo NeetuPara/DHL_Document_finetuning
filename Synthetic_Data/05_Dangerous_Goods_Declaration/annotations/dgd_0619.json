@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0619",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Thomas AG",
+    "shipper_address": "963 Richard Field Suite 327, Sarafurt, MA 50863, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Industry Wilkinson S.A.",
+    "consignee_address": "9810 Andrea Highway Suite 602, New Heather, AL 81522, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+4 967-580-7915",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 36,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 6.14,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-637821",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 13,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 92.53,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-122429",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Andrew Moyer",
+    "signature_date": "2026-05-10",
+    "signature_place": "Hong Kong",
+    "awb_number": "085-65800699",
+    "flight_number": "EK3793",
+    "flight_date": "2026-05-30",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "LHR",
+    "destination_airport_name": "London Heathrow"
+  }
+}

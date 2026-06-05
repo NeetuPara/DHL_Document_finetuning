@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0674",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Grant Tech GmbH",
+    "shipper_address": "110 Samuel Mountains, Lake Brittany, OK 29411, India",
+    "shipper_country": "India",
+    "consignee_name": "Industry Carlson Corp.",
+    "consignee_address": "88215 Martin Station, Scottland, OR 41886, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+51 287-636-6758",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 29,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 96.27,
+        "qty_unit": "L",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Dylan Jackson Jr.",
+    "signature_date": "2026-05-02",
+    "signature_place": "India",
+    "vessel": "MSC GULSUN",
+    "voyage": "671N",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Qingdao, CN"
+  }
+}

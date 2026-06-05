@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0071",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202012-8185",
+    "usppi_name": "Hoffman Industry B.V.",
+    "usppi_address": "1679 Herrera Motorway Apt. 408, East Jacobstad, IL 91414, Germany",
+    "usppi_country": "Germany",
+    "ein": "40-1050112",
+    "consignee_name": "Bowen Industry Co.",
+    "consignee_address": "125 Tiffany Dam, Andreaborough, ND 85992, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Brennan Pacific Pte Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Eric Mcintyre Jr.",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/37",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 61,
+        "unit": "PKG",
+        "weight_kg": 106.21,
+        "value_usd": 4333.52
+      },
+      {
+        "marks": "EXP/9",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 86,
+        "unit": "LTR",
+        "weight_kg": 93.71,
+        "value_usd": 1750.36
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 21,
+        "unit": "PCS",
+        "weight_kg": 263.96,
+        "value_usd": 3627.48
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 50,
+        "unit": "PCS",
+        "weight_kg": 2.94,
+        "value_usd": 3644.85
+      }
+    ],
+    "total_weight_kg": 466.82,
+    "total_value_usd": 13356.21,
+    "service": "Ground",
+    "named_port": "Seoul Incheon",
+    "insurance_value_usd": 47007.64,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-125828",
+    "destination_country": "Italy"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0775",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Tony Kelly",
+    "addressee_company": "Mcdaniel Trade Corp.",
+    "addressee_address": "505 Soto Knoll, Port Hannahshire, ND 11623, France",
+    "addressee_country": "France",
+    "total_weight_kg": 10.392,
+    "total_value": 4387.29,
+    "currency": "SGD",
+    "issue_date": "2025-06-08",
+    "reference": "REF-592159",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.001,
+        "value": 2147.38,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 1,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.878,
+        "value": 112.97,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 12,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.477,
+        "value": 1666.2,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 7,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.036,
+        "value": 460.74,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Scott Snyder",
+    "sender_company": "Roberts Industry Corp.",
+    "sender_address": "Unit 0265 Box 8252, DPO AA 51524, Sweden",
+    "sender_phone": "001-643-980-5059",
+    "sender_email": "moralessharon@example.org",
+    "addressee_phone": "(882)311-8464",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 4826.02,
+    "postal_charges": 35.31,
+    "tracking_number": "BC775718374GB"
+  }
+}

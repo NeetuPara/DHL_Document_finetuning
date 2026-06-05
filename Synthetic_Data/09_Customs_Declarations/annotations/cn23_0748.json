@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0748",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Dawn Montes",
+    "addressee_company": "Johnson Trade Inc.",
+    "addressee_address": "6287 Stephanie Centers Suite 708, South Eugene, AL 31507, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 16.07,
+    "total_value": 2233.95,
+    "currency": "CNY",
+    "issue_date": "2025-07-25",
+    "reference": "REF-163679",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.501,
+        "value": 506.9,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 2,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.974,
+        "value": 69.22,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 11,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.026,
+        "value": 439.56,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 8,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.38,
+        "value": 27.04,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 19,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.801,
+        "value": 755.63,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 5,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.388,
+        "value": 435.6,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Joseph Flores",
+    "sender_company": "Roberts Tech Corp.",
+    "sender_address": "Unit 9426 Box 8999, DPO AP 23705, Sweden",
+    "sender_phone": "880.500.3872x291",
+    "sender_email": "bendermichael@example.org",
+    "addressee_phone": "+1-419-593-9213x236",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 2457.34,
+    "postal_charges": 30.61,
+    "tracking_number": "QA897089707DO"
+  }
+}

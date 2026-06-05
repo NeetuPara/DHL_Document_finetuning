@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0320",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202210-3804",
+    "usppi_name": "Hernandez Global AG",
+    "usppi_address": "784 Jamie Turnpike, Rickyfort, TN 77159, India",
+    "usppi_country": "India",
+    "ein": "11-3371530",
+    "consignee_name": "Trade Fitzgerald Ltd",
+    "consignee_address": "46434 Benton Avenue, North Aaronshire, FM 34924, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Clark Industry S.A.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "James Cook",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/38",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 148,
+        "unit": "KGS",
+        "weight_kg": 148.0,
+        "value_usd": 353.58
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 141,
+        "unit": "PCS",
+        "weight_kg": 75.2,
+        "value_usd": 225951.28
+      },
+      {
+        "marks": "SLI/23",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 65,
+        "unit": "CTN",
+        "weight_kg": 155.35,
+        "value_usd": 860.3
+      }
+    ],
+    "total_weight_kg": 378.55,
+    "total_value_usd": 227165.16,
+    "service": "Air Freight",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 13564.29,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Italy"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0986",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV347692504",
+    "shipper_name": "Rogers International AG",
+    "shipper_address": "2818 Patterson Valley, Crystalshire, CA 39321, China",
+    "shipper_country": "China",
+    "consignee_name": "Ford Trade AG",
+    "consignee_address": "Unit 0112 Box 2883, DPO AA 76800, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party_name": "Trade Roberts AG",
+    "notify_party_address": "6963 Rivera Island, Lake Jessica, DC 32506, Brazil",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "744W",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2025-07-06",
+    "issue_place": "Busan",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "NNEK8022559",
+        "seal_no": "BL412851",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "HGAR2131832",
+        "seal_no": "BL627825",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "VHCL0127281",
+        "seal_no": "SL194565",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "number_of_packages": 280,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 741.3,
+    "net_weight_kg": 705.0,
+    "cbm": 28.296,
+    "marks_and_numbers": "ABC/48"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0764",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220305109806",
+    "export_date": "2025-10-01",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Robinson Global LLC",
+    "usppi_ein": "67-3456854",
+    "usppi_address": "72987 John Heights Apt. 723, Mooreberg, WV 84621, Malaysia",
+    "ultimate_consignee": "Reyes Commerce Corp.",
+    "intermediate_consignee": "Anderson Tech Inc.",
+    "forwarding_agent": "Williams International AG",
+    "destination_country": "Mexico",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "045-20264959",
+    "total_value": 372563.74,
+    "currency": "USD",
+    "signatory": "Terry Richards",
+    "line_items": [
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Malaysia",
+        "qty": 324,
+        "unit": "PCS",
+        "entered_value": 44196.84,
+        "duty_rate": 23.8,
+        "duty_amount": 10518.85,
+        "eccn": "9A515",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "France",
+        "qty": 360,
+        "unit": "KGS",
+        "entered_value": 83811.6,
+        "duty_rate": 21.3,
+        "duty_amount": 17851.87,
+        "eccn": "7A994",
+        "schedule_b": "7208.37.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Netherlands",
+        "qty": 338,
+        "unit": "PCS",
+        "entered_value": 167401.26,
+        "duty_rate": 9.7,
+        "duty_amount": 16237.92,
+        "eccn": "3A992",
+        "schedule_b": "8483.40.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Sweden",
+        "qty": 157,
+        "unit": "KGS",
+        "entered_value": 72356.59,
+        "duty_rate": 24.6,
+        "duty_amount": 17799.72,
+        "eccn": "9A515",
+        "schedule_b": "7208.37.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "South Korea",
+        "qty": 21,
+        "unit": "PKG",
+        "entered_value": 4797.45,
+        "duty_rate": 22.3,
+        "duty_amount": 1069.83,
+        "eccn": "9A515",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

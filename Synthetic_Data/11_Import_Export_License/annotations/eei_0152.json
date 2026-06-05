@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0152",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20260315015695",
+    "export_date": "2026-02-27",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Ramos Global Ltd",
+    "usppi_ein": "76-7137349",
+    "usppi_address": "512 Wagner Village, Wendyview, AZ 07106, France",
+    "ultimate_consignee": "Patterson International S.A.",
+    "intermediate_consignee": "Wilson Trade Pte Ltd",
+    "forwarding_agent": "Smith Commerce Pte Ltd",
+    "destination_country": "Australia",
+    "carrier": "DHL Express",
+    "bl_awb": "074-34205029",
+    "total_value": 152468.22,
+    "currency": "CHF",
+    "signatory": "Jennifer Mathews",
+    "line_items": [
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Singapore",
+        "qty": 59,
+        "unit": "CTN",
+        "entered_value": 19695.97,
+        "duty_rate": 22.4,
+        "duty_amount": 4411.9,
+        "eccn": "1A002",
+        "schedule_b": "4819.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "China",
+        "qty": 230,
+        "unit": "PCS",
+        "entered_value": 111706.4,
+        "duty_rate": 15.9,
+        "duty_amount": 17761.32,
+        "eccn": "1A002",
+        "schedule_b": "9401.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Canada",
+        "qty": 277,
+        "unit": "PCS",
+        "entered_value": 21065.85,
+        "duty_rate": 16.9,
+        "duty_amount": 3560.13,
+        "eccn": "1A002",
+        "schedule_b": "8518.30.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

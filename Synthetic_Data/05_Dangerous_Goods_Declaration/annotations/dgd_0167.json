@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0167",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Richard LLC",
+    "shipper_address": "97763 Arellano Orchard Suite 938, New Andrea, WV 82556, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Pacific Collins Ltd",
+    "consignee_address": "38921 Mary Well, Port John, PW 58342, China",
+    "consignee_country": "China",
+    "emergency_telephone": "+9 558-726-9787",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 12,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 45.45,
+        "qty_unit": "g",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-348616",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Sandra Olson",
+    "signature_date": "2026-05-07",
+    "signature_place": "Mexico",
+    "vessel": "EVER GOLDEN",
+    "voyage": "388N",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Dubai, AE"
+  }
+}

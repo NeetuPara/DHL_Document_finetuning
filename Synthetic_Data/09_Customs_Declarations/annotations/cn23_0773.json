@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0773",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kenneth Castro",
+    "addressee_company": "Park Trade Ltd",
+    "addressee_address": "1732 Austin Lodge, Hallview, GU 28307, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 6.399,
+    "total_value": 2962.37,
+    "currency": "AED",
+    "issue_date": "2025-06-11",
+    "reference": "REF-588377",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.347,
+        "value": 691.8,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 18,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.864,
+        "value": 869.04,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 13,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.188,
+        "value": 1401.53,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "Jacob Martin",
+    "sender_company": "Parker Pacific Corp.",
+    "sender_address": "873 John Crest, Lake Michaelmouth, MA 52518, India",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 9.7,
+    "tracking_number": "UV514597615GP"
+  }
+}

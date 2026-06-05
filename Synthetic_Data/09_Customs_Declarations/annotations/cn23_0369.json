@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0369",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Anthony Thomas",
+    "addressee_company": "Mills Industry GmbH",
+    "addressee_address": "6420 Compton Isle Suite 472, Greenhaven, NE 10808, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 10.433,
+    "total_value": 1542.95,
+    "currency": "AED",
+    "issue_date": "2026-05-11",
+    "reference": "REF-243665",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.275,
+        "value": 551.67,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 6,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.161,
+        "value": 842.16,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 1,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.614,
+        "value": 46.0,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 2,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.383,
+        "value": 103.12,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_country": "Australia",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "450-88840593-6",
+    "entry_type": "Informal Entry",
+    "duty_rate": 24.0,
+    "estimated_duty": 370.31,
+    "importer_ein": "34-3100259",
+    "customs_broker": "Tech Short GmbH"
+  }
+}

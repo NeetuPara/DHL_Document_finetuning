@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0401",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20200716665273",
+    "export_date": "2025-10-11",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Trade Watson B.V.",
+    "usppi_ein": "54-6772294",
+    "usppi_address": "20547 Carmen Spring, North Kevin, AL 30815, China",
+    "ultimate_consignee": "Mcclain International B.V.",
+    "intermediate_consignee": "Mcmahon Industry GmbH",
+    "forwarding_agent": "Mcmillan Trade AG",
+    "destination_country": "India",
+    "carrier": "UPS",
+    "bl_awb": "085-89239180",
+    "total_value": 228722.38,
+    "currency": "EUR",
+    "signatory": "John Liu",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Italy",
+        "qty": 28,
+        "unit": "CTN",
+        "entered_value": 2871.12,
+        "duty_rate": 13.8,
+        "duty_amount": 396.21,
+        "eccn": "7A994",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Malaysia",
+        "qty": 219,
+        "unit": "KGS",
+        "entered_value": 95873.82,
+        "duty_rate": 2.4,
+        "duty_amount": 2300.97,
+        "eccn": "2B350",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "China",
+        "qty": 65,
+        "unit": "PCS",
+        "entered_value": 15798.9,
+        "duty_rate": 16.8,
+        "duty_amount": 2654.22,
+        "eccn": "2B350",
+        "schedule_b": "9002.11.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Brazil",
+        "qty": 119,
+        "unit": "PCS",
+        "entered_value": 33441.38,
+        "duty_rate": 5.0,
+        "duty_amount": 1672.07,
+        "eccn": "2B350",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "China",
+        "qty": 427,
+        "unit": "PCS",
+        "entered_value": 80737.16,
+        "duty_rate": 1.4,
+        "duty_amount": 1130.32,
+        "eccn": "3A992",
+        "schedule_b": "3926.90.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

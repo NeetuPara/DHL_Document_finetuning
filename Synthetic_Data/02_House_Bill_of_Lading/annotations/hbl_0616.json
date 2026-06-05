@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0616",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV296766002",
+    "shipper_name": "Peters Commerce Pte Ltd",
+    "shipper_address": "3870 Willie Curve Apt. 061, West Carlstad, NV 44616, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Johnson Tech Inc.",
+    "consignee_address": "84519 Thomas Shores Suite 055, Holtfort, VI 29127, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party_name": "French Industry Inc.",
+    "notify_party_address": "465 Phillips Road Suite 670, West Zachary, MT 24800, United Kingdom",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "356E",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2026-01-28",
+    "issue_place": "Colombo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "KCYO3223230",
+        "seal_no": "BL993254",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "YIYU5283776",
+        "seal_no": "BL393465",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "number_of_packages": 75,
+    "package_type": "Roll",
+    "gross_weight_kg": 6943.5,
+    "net_weight_kg": 6656.9,
+    "cbm": 6.026,
+    "marks_and_numbers": "XYZ/9"
+  }
+}

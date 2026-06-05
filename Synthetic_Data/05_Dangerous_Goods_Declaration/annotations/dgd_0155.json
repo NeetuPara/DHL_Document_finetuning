@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0155",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Morris Trade Co.",
+    "shipper_address": "6362 Wyatt Ferry Suite 853, South Annaview, MA 23113, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Global Rogers Corp.",
+    "consignee_address": "2652 Taylor Light, South Ronald, SD 36113, United States",
+    "consignee_country": "United States",
+    "emergency_telephone": "+51 982-781-9500",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 6,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 29.76,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-994471",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Kimberly Sparks",
+    "signature_date": "2026-05-12",
+    "signature_place": "United Arab Emirates",
+    "vessel": "MADRID MAERSK",
+    "voyage": "543E",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Dubai, AE"
+  }
+}

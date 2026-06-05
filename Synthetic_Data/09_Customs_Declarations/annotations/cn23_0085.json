@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0085",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Melanie Howard",
+    "addressee_company": "Davis Pacific GmbH",
+    "addressee_address": "551 Rodriguez Corner, Port Danielside, NJ 54042, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 11.538,
+    "total_value": 4554.14,
+    "currency": "CNY",
+    "issue_date": "2025-07-20",
+    "reference": "REF-682809",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.255,
+        "value": 111.12,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 13,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.291,
+        "value": 289.9,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 16,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.806,
+        "value": 2316.0,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 16,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.186,
+        "value": 1837.12,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Stacey Bowers",
+    "sender_company": "Anderson Global S.A.",
+    "sender_address": "3566 Nash Ramp Apt. 395, East Kenneth, VA 52899, Singapore",
+    "sender_phone": "+1-715-370-3179x18738",
+    "sender_email": "bradmartin@example.org",
+    "addressee_phone": "686.340.9823",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 26.46,
+    "tracking_number": "TU808399938BA"
+  }
+}

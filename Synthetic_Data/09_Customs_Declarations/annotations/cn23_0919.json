@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0919",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Maria Reilly",
+    "addressee_company": "Richardson International Co.",
+    "addressee_address": "USCGC Harvey, FPO AE 33387, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 3.234,
+    "total_value": 1922.6,
+    "currency": "EUR",
+    "issue_date": "2025-08-13",
+    "reference": "REF-242748",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.384,
+        "value": 1392.0,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 20,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.85,
+        "value": 530.6,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "James Lewis",
+    "sender_company": "International Carroll B.V.",
+    "sender_address": "Unit 5685 Box 9949, DPO AE 76220, Japan",
+    "sender_phone": "+1-450-931-4168x91203",
+    "sender_email": "albertbrooks@example.net",
+    "addressee_phone": "(920)769-8403x48236",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 2114.86,
+    "postal_charges": 45.21,
+    "tracking_number": "LS526582885HI"
+  }
+}

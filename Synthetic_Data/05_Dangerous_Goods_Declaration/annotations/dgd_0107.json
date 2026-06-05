@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0107",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Diaz Corp.",
+    "shipper_address": "330 Charles Stream Suite 996, North Kelly, PW 14752, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Commerce Snyder AG",
+    "consignee_address": "277 Heather Coves, North Kevin, TX 46425, Thailand",
+    "consignee_country": "Thailand",
+    "emergency_telephone": "+88 109-695-8626",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 22,
+        "pkg_type": "Steel Drum",
+        "net_qty": 20.27,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-300707",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Jessica Summers",
+    "signature_date": "2026-05-12",
+    "signature_place": "Canada",
+    "vessel": "EVER GOLDEN",
+    "voyage": "722E",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Antwerp, BE"
+  }
+}

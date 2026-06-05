@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0408",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Amanda Washington",
+    "addressee_company": "Tech Evans AG",
+    "addressee_address": "4138 Sanders Circle Apt. 688, Lynnmouth, VT 20203, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 2.808,
+    "total_value": 904.61,
+    "currency": "AUD",
+    "issue_date": "2026-01-17",
+    "reference": "REF-001258",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.246,
+        "value": 121.08,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 17,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.562,
+        "value": 783.53,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Poland"
+      }
+    ],
+    "sender_country": "Mexico",
+    "port_of_entry": "Chicago, IL",
+    "entry_number": "075-05553304-1",
+    "entry_type": "Informal Entry",
+    "duty_rate": 22.0,
+    "estimated_duty": 199.01,
+    "importer_ein": "32-8344200",
+    "customs_broker": "Thomas Industry LLC"
+  }
+}

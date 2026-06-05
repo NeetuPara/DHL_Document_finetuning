@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0343",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "699-01383790-0",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2026-03-31",
+    "port_of_entry": "BOS - Boston",
+    "transport_mode": "Air",
+    "carrier": "UPS",
+    "bl_awb": "006-44180900",
+    "importer_name": "Industry Richards Corp.",
+    "importer_ein": "41-6623751",
+    "consignee_name": "Commerce Phillips Corp.",
+    "customs_broker": "Johnson International Co.",
+    "broker_filer_code": "wjk",
+    "country_of_origin": "United Kingdom",
+    "total_value": 129617.94,
+    "total_duty": 19661.74,
+    "currency": "CAD",
+    "signatory": "Joshua Sparks",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "United States",
+        "qty": 199,
+        "unit": "PCS",
+        "entered_value": 53248.42,
+        "duty_rate": 9.4,
+        "duty_amount": 5005.35,
+        "eccn": "0A919",
+        "schedule_b": "8518.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 134,
+        "unit": "PCS",
+        "entered_value": 1295.78,
+        "duty_rate": 12.9,
+        "duty_amount": 167.16,
+        "eccn": "2B350",
+        "schedule_b": "9002.11.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Australia",
+        "qty": 259,
+        "unit": "KGS",
+        "entered_value": 75073.74,
+        "duty_rate": 19.3,
+        "duty_amount": 14489.23,
+        "eccn": "2B350",
+        "schedule_b": "2008.19.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

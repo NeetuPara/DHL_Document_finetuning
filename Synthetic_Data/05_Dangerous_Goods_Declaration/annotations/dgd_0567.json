@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0567",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Moon Pte Ltd",
+    "shipper_address": "50381 Paige Ville Apt. 269, Jasmineland, WI 25753, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Pacific White Corp.",
+    "consignee_address": "5493 Julia Prairie, Henryburgh, VT 00714, Belgium",
+    "consignee_country": "Belgium",
+    "emergency_telephone": "+4 975-402-6843",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 41,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 62.66,
+        "qty_unit": "mL",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Nicole Mosley",
+    "signature_date": "2026-05-05",
+    "signature_place": "United Arab Emirates",
+    "awb_number": "020-58587885",
+    "flight_number": "DL348",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "LHR",
+    "destination_airport_name": "London Heathrow",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0041",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Schultz Global Co.",
+    "shipper_address": "88641 Ruiz Dam Apt. 561, Jamesberg, PR 73274, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Guerrero Trade Ltd",
+    "consignee_address": "Unit 3007 Box 7985, DPO AE 43292, Poland",
+    "consignee_country": "Poland",
+    "emergency_telephone": "+38 369-441-1919",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 30,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 3.91,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-290038",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Cody Sanford",
+    "signature_date": "2026-05-06",
+    "signature_place": "Mexico",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "726E",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Tanjung Pelepas, MY"
+  }
+}

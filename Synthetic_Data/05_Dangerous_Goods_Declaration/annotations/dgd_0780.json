@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0780",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Wyatt Commerce S.A.",
+    "shipper_address": "7338 Ashley Well Apt. 219, Johnborough, MO 66696, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Barker Industry AG",
+    "consignee_address": "8611 Bennett Lane Suite 346, Mccarthyfurt, CO 26871, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+71 924-477-3037",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 44,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 49.89,
+        "qty_unit": "mL",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-755527",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 41,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 81.38,
+        "qty_unit": "g",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-377077",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Scott Phillips",
+    "signature_date": "2026-05-02",
+    "signature_place": "Spain",
+    "awb_number": "045-86971614",
+    "flight_number": "EK7990",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong",
+    "non_dg_reason": "Excepted quantities (EQ) per IATA DGR 2.6"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0467",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Rachael Gonzalez",
+    "addressee_company": "Brooks International Ltd",
+    "addressee_address": "5456 Janet Grove Apt. 552, Brooksville, GA 25764, Malaysia",
+    "addressee_country": "Malaysia",
+    "total_weight_kg": 2.702,
+    "total_value": 1054.43,
+    "currency": "SGD",
+    "issue_date": "2025-07-18",
+    "reference": "REF-687175",
+    "line_items": [
+      {
+        "qty": 13,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 0.392,
+        "value": 420.03,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 20,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.31,
+        "value": 634.4,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_name": "Steven Anderson",
+    "sender_company": "Fox Commerce S.A.",
+    "sender_address": "1113 Porter Crossroad, Joshualand, WY 70142, Germany",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 1159.87,
+    "postal_charges": 21.8,
+    "tracking_number": "FX658177856WY"
+  }
+}

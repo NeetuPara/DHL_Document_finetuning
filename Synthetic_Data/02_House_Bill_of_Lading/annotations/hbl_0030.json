@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0030",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV765472883",
+    "shipper_name": "Global Stewart Ltd",
+    "shipper_address": "5085 Stephanie Meadow Apt. 161, Malikport, AL 81964, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Sanchez Commerce Ltd",
+    "consignee_address": "10713 Michael Neck, Matthewstown, NY 16311, India",
+    "consignee_country": "India",
+    "notify_party_name": "Martinez Industry Ltd",
+    "notify_party_address": "0472 Robert Harbor Apt. 197, Vanessaport, NV 49617, Mexico",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "699E",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2025-04-26",
+    "issue_place": "New York",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "CTFG5586245",
+        "seal_no": "CL515208",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "OPRX8398258",
+        "seal_no": "SL318627",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "XLNB5572087",
+        "seal_no": "SL726866",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "VXRX7128495",
+        "seal_no": "BL939360",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 212,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 15106.3,
+    "net_weight_kg": 13829.9,
+    "cbm": 12.732,
+    "marks_and_numbers": "XYZ/29"
+  }
+}

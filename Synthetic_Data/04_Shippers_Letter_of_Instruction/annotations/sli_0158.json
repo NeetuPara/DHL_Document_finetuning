@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0158",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202107-6893",
+    "usppi_name": "Lowery Commerce Corp.",
+    "usppi_address": "5310 Gregory Camp, Wangview, TN 31714, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "28-7914822",
+    "consignee_name": "Smith Pacific Pte Ltd",
+    "consignee_address": "518 Wright Island, Port Margaretchester, OH 03336, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Holmes Commerce Co.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "7A994",
+    "signatory_name": "Scott Freeman",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/38",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 142,
+        "unit": "PCS",
+        "weight_kg": 140.67,
+        "value_usd": 27372.05
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 158,
+        "unit": "PCS",
+        "weight_kg": 72.63,
+        "value_usd": 35021.31
+      },
+      {
+        "marks": "SLI/23",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 63,
+        "unit": "PCS",
+        "weight_kg": 929.31,
+        "value_usd": 8333.02
+      },
+      {
+        "marks": "EXP/10",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 33,
+        "unit": "SET",
+        "weight_kg": 28.75,
+        "value_usd": 1951.82
+      },
+      {
+        "marks": "EXP/12",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 158,
+        "unit": "CTN",
+        "weight_kg": 177.06,
+        "value_usd": 326.5
+      }
+    ],
+    "total_weight_kg": 1348.42,
+    "total_value_usd": 73004.7,
+    "service": "Ground",
+    "named_port": "Sydney Kingsford Smith",
+    "insurance_value_usd": 47242.8,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-665740",
+    "destination_country": "South Korea"
+  }
+}

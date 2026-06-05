@@ -1,0 +1,61 @@
+{
+  "document_id": "vgm_0755",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Jimenez Industry GmbH",
+    "shipper_address": "340 Tiffany Mount, South Paul, FL 64374, Germany",
+    "shipper_country": "Germany",
+    "container_number": "UYJU7606413",
+    "seal_number": "SL572368",
+    "container_size": "20'RF",
+    "iso_type_code": "22R1",
+    "tare_weight_kg": 3100,
+    "cargo_weight_kg": 6785.8,
+    "packing_materials_kg": 313.2,
+    "vgm_kg": 10199.0,
+    "vessel": "CSCL GLOBE",
+    "voyage": "261W",
+    "bl_number": "OOLU471608110",
+    "booking_reference": "BKG-516441",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-77648",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-15",
+    "signature_date": "2026-05-08",
+    "signatory_name": "David Rojas",
+    "signatory_title": "Export Manager",
+    "number_of_packages": 4,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Drum",
+        "n_units": 14,
+        "gross_wt_kg": 1501.4
+      },
+      {
+        "item_no": 2,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Pallet",
+        "n_units": 14,
+        "gross_wt_kg": 1204.4
+      },
+      {
+        "item_no": 3,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Case",
+        "n_units": 6,
+        "gross_wt_kg": 2706.8
+      },
+      {
+        "item_no": 4,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Drum",
+        "n_units": 9,
+        "gross_wt_kg": 1373.2
+      }
+    ]
+  }
+}

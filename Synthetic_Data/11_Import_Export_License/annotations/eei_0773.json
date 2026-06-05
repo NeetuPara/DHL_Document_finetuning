@@ -1,0 +1,103 @@
+{
+  "document_id": "eei_0773",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20221019095982",
+    "export_date": "2026-02-04",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Industry Sharp Inc.",
+    "usppi_ein": "61-4813168",
+    "usppi_address": "8272 Travis Ville, Jonestown, WI 83102, South Korea",
+    "ultimate_consignee": "Pacific Horton S.A.",
+    "intermediate_consignee": "Price International AG",
+    "forwarding_agent": "International Jenkins LLC",
+    "destination_country": "Netherlands",
+    "carrier": "Maersk",
+    "bl_awb": "160-44284086",
+    "total_value": 748477.4,
+    "currency": "JPY",
+    "signatory": "Linda Wilson",
+    "line_items": [
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Spain",
+        "qty": 404,
+        "unit": "PKG",
+        "entered_value": 185448.12,
+        "duty_rate": 16.7,
+        "duty_amount": 30969.84,
+        "eccn": "7A994",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Thailand",
+        "qty": 457,
+        "unit": "SET",
+        "entered_value": 220264.86,
+        "duty_rate": 14.2,
+        "duty_amount": 31277.61,
+        "eccn": "3A992",
+        "schedule_b": "8708.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Thailand",
+        "qty": 9,
+        "unit": "PCS",
+        "entered_value": 331.38,
+        "duty_rate": 9.4,
+        "duty_amount": 31.15,
+        "eccn": "2B350",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Malaysia",
+        "qty": 301,
+        "unit": "PCS",
+        "entered_value": 75918.22,
+        "duty_rate": 23.9,
+        "duty_amount": 18144.45,
+        "eccn": "3A992",
+        "schedule_b": "3926.90.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Switzerland",
+        "qty": 386,
+        "unit": "PCS",
+        "entered_value": 149354.98,
+        "duty_rate": 5.1,
+        "duty_amount": 7617.1,
+        "eccn": "5E992",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Switzerland",
+        "qty": 394,
+        "unit": "PCS",
+        "entered_value": 117159.84,
+        "duty_rate": 19.3,
+        "duty_amount": 22611.85,
+        "eccn": "EAR99",
+        "schedule_b": "8518.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

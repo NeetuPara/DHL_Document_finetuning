@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0027",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG291280593",
+    "shipper_name": "Commerce Jones Co.",
+    "shipper_address": "432 Jessica Islands, Port Ryanside, VT 65695, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Baker International LLC",
+    "consignee_address": "550 Smith Court Apt. 689, Port Staceyview, TX 17543, China",
+    "consignee_country": "China",
+    "notify_party_name": "Townsend Global Corp.",
+    "notify_party_address": "14041 Williams Mission Suite 895, Port Hector, SD 15657, Spain",
+    "vessel": "PIL PACIFIC",
+    "voyage": "763N",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Singapore, SG",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Hong Kong, HK",
+    "issue_date": "2024-07-09",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "JKXT8645239",
+        "seal_no": "SL941497",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "YCDX7873549",
+        "seal_no": "CL829633",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 455,
+    "package_type": "Crate",
+    "gross_weight_kg": 1075.5,
+    "net_weight_kg": 1043.0,
+    "cbm": 21.833,
+    "marks_and_numbers": "ABC/37"
+  }
+}

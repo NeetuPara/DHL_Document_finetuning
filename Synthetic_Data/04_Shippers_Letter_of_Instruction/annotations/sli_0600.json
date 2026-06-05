@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0600",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202204-3477",
+    "usppi_name": "Wade Global Inc.",
+    "usppi_address": "8387 Brian Views Apt. 449, Brianshire, OK 85586, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "13-4514134",
+    "consignee_name": "Industry Rogers Ltd",
+    "consignee_address": "4160 Anita Terrace, Vanessaview, NM 09142, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "International Holmes Corp.",
+    "forwarder": "Expeditors",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Theresa Flowers",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/47",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 198,
+        "unit": "PCS",
+        "weight_kg": 50.28,
+        "value_usd": 38871.91
+      },
+      {
+        "marks": "ABC/37",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 16,
+        "unit": "PCS",
+        "weight_kg": 21.79,
+        "value_usd": 27574.03
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 75,
+        "unit": "LTR",
+        "weight_kg": 74.73,
+        "value_usd": 1177.52
+      },
+      {
+        "marks": "SLI/27",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 51,
+        "unit": "PCS",
+        "weight_kg": 56.79,
+        "value_usd": 1242.56
+      }
+    ],
+    "total_weight_kg": 203.59,
+    "total_value_usd": 68866.02,
+    "vessel": "MSC OSCAR",
+    "voyage": "547S",
+    "booking_ref": "BKG-747049",
+    "bl_number": "YMLU579689410",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Tokyo, JP",
+    "container_number": "FWMX4217521",
+    "seal_number": "CL312258",
+    "container_type": "40'HC",
+    "cbm": 11.28
+  }
+}

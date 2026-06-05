@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0101",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Collins Pte Ltd",
+    "shipper_address": "8718 Nicholas Drive, Fowlerville, MT 82161, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Rose Tech Corp.",
+    "consignee_address": "862 Willie Street, Danielfort, MP 41111, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "emergency_telephone": "+47 112-444-9609",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 39,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 1.26,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-296494",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 28,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 98.13,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Brian Davis",
+    "signature_date": "2026-05-06",
+    "signature_place": "Canada",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "411S",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Antwerp, BE"
+  }
+}

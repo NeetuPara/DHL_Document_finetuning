@@ -1,0 +1,75 @@
+{
+  "document_id": "cn23_0842",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Sabrina Jones",
+    "addressee_company": "Industry Meyer B.V.",
+    "addressee_address": "Unit 2186 Box 1589, DPO AA 65572, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 20.226,
+    "total_value": 5459.63,
+    "currency": "AUD",
+    "issue_date": "2025-10-07",
+    "reference": "REF-320615",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.028,
+        "value": 24.38,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 9,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.278,
+        "value": 147.6,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 17,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.276,
+        "value": 958.29,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 19,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.936,
+        "value": 2656.77,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 9,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.504,
+        "value": 1333.89,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 5,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.204,
+        "value": 338.7,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_name": "Dawn Smith",
+    "sender_company": "Leonard Pacific Inc.",
+    "sender_address": "93007 Shaun Vista Suite 149, North Danielle, ME 72907, China",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 6005.59,
+    "postal_charges": 54.67,
+    "tracking_number": "EP535711693AN"
+  }
+}

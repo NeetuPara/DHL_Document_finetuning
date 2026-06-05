@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0711",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-17064791",
+    "mawb_number": "074-85399232",
+    "shipper_name": "Morris Tech Corp.",
+    "shipper_address": "089 Ponce Pass Apt. 761, North Eric, FM 68267, India",
+    "consignee_name": "Global French S.A.",
+    "consignee_address": "633 Ramirez Land Apt. 009, Port Christopherfurt, OH 03608, Australia",
+    "agent_name": "Osborn Pacific AG",
+    "airport_departure": "ORD",
+    "airport_destination": "SIN",
+    "currency": "CHF",
+    "charge_code": "PP",
+    "declared_value_carriage": "CHF 12,202.10",
+    "declared_value_customs": "CHF 11,467.33",
+    "n_pieces": 13,
+    "gross_weight_kg": 318.1,
+    "chargeable_weight": 362.1,
+    "rate": 11.92,
+    "total_charge": 4316.23,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "TEMP CONTROLLED: 5\u00b0C - 18\u00b0C",
+    "issue_date": "2025-06-18",
+    "signatory": "Casey Roberts",
+    "iata_code": "04-492",
+    "agent_cass": "5006-1970",
+    "consolidation_ref": "CONS-8214-683914",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-10496408",
+        "pieces": 4,
+        "weight": 42.1,
+        "destination": "ORD",
+        "consignee": "Commerce Black S.A.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "085-39087914",
+        "pieces": 4,
+        "weight": 61.4,
+        "destination": "SIN",
+        "consignee": "Miranda International Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "057-78707432",
+        "pieces": 10,
+        "weight": 71.6,
+        "destination": "LAX",
+        "consignee": "Berry Tech B.V.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "006-59462764",
+        "pieces": 10,
+        "weight": 36.8,
+        "destination": "HKG",
+        "consignee": "Commerce Evans GmbH",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "057-28557339",
+        "pieces": 20,
+        "weight": 53.9,
+        "destination": "AMS",
+        "consignee": "Trade Vance AG",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "020-92805979",
+        "pieces": 17,
+        "weight": 58.7,
+        "destination": "JFK",
+        "consignee": "Johnson Industry Corp.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "176-83442032",
+        "pieces": 8,
+        "weight": 56.9,
+        "destination": "MIA",
+        "consignee": "Moore Trade Pte Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0516",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU802160313",
+    "shipper_name": "Trade Sharp B.V.",
+    "shipper_address": "895 Holly Key Suite 448, Thomasfurt, VT 61958, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Global Fox Corp.",
+    "consignee_address": "58168 Robin Brooks Suite 011, North Jessicabury, CO 57343, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party_name": "Ferrell International AG",
+    "notify_party_address": "0054 Cabrera Glen Apt. 183, Lake Jenniferton, OH 15727, Switzerland",
+    "vessel": "EVER GOLDEN",
+    "voyage": "297S",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2026-02-15",
+    "issue_place": "New York",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "HBKT4644891",
+        "seal_no": "CL603783",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "WBKX9650290",
+        "seal_no": "SL606928",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "TZIK0535492",
+        "seal_no": "CL195296",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 472,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 4170.4,
+    "net_weight_kg": 3780.7,
+    "cbm": 22.287,
+    "marks_and_numbers": "ABC/47"
+  }
+}

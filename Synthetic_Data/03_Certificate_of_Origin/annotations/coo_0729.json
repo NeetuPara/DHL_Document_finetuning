@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0729",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202111-6741",
+    "exporter_name": "Dougherty Pacific Inc.",
+    "exporter_address": "845 White Crescent, Davismouth, HI 83256, Hong Kong",
+    "exporter_country": "Hong Kong",
+    "consignee_name": "International Sullivan Inc.",
+    "consignee_address": "748 Jay Walks Suite 645, Lawsonville, WV 55714, Italy",
+    "consignee_country": "Italy",
+    "country_of_origin": "Hong Kong",
+    "country_of_destination": "Italy",
+    "bl_or_awb": "MAEU360405010",
+    "issue_date": "2025-04-05",
+    "certifier_name": "Johnny Miles",
+    "goods": [
+      {
+        "description": "Optical Equipment - Camera Lenses",
+        "hs_code": "9002.11.00",
+        "qty": 28,
+        "unit": "PCS",
+        "weight_kg": 31.18,
+        "origin_criterion": "F",
+        "value": 48529.15
+      },
+      {
+        "description": "Steel Products - Hot Rolled Coils",
+        "hs_code": "7208.37.00",
+        "qty": 89,
+        "unit": "KGS",
+        "weight_kg": 89.0,
+        "origin_criterion": "A",
+        "value": 69.23
+      },
+      {
+        "description": "Chemical Compounds - Industrial Solvents",
+        "hs_code": "2901.10.00",
+        "qty": 282,
+        "unit": "LTR",
+        "weight_kg": 309.44,
+        "origin_criterion": "D",
+        "value": 3557.68
+      }
+    ],
+    "fta_agreement": "Australia-US FTA",
+    "chamber": "Export Council"
+  }
+}

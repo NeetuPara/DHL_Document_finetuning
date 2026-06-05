@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0451",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "583-75812749-8",
+    "entry_type": "01 - Free and Dutiable",
+    "entry_date": "2026-02-09",
+    "port_of_entry": "BOS - Boston",
+    "transport_mode": "Ocean",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "057-66535893",
+    "importer_name": "International Figueroa AG",
+    "importer_ein": "01-4818096",
+    "consignee_name": "Smith International Corp.",
+    "customs_broker": "International Rojas S.A.",
+    "broker_filer_code": "Orh",
+    "country_of_origin": "United Arab Emirates",
+    "total_value": 555300.93,
+    "total_duty": 66356.31,
+    "currency": "SGD",
+    "signatory": "Courtney Griffith",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Switzerland",
+        "qty": 197,
+        "unit": "LTR",
+        "entered_value": 76372.96,
+        "duty_rate": 22.4,
+        "duty_amount": 17107.54,
+        "eccn": "0A919",
+        "schedule_b": "2901.10.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "China",
+        "qty": 197,
+        "unit": "LTR",
+        "entered_value": 89211.45,
+        "duty_rate": 3.2,
+        "duty_amount": 2854.77,
+        "eccn": "1A002",
+        "schedule_b": "2901.10.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Germany",
+        "qty": 343,
+        "unit": "SET",
+        "entered_value": 157522.75,
+        "duty_rate": 15.6,
+        "duty_amount": 24573.55,
+        "eccn": "9A515",
+        "schedule_b": "8708.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Sweden",
+        "qty": 453,
+        "unit": "PCS",
+        "entered_value": 153363.15,
+        "duty_rate": 7.7,
+        "duty_amount": 11808.96,
+        "eccn": "1A002",
+        "schedule_b": "8534.00.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Germany",
+        "qty": 209,
+        "unit": "BOX",
+        "entered_value": 78830.62,
+        "duty_rate": 12.7,
+        "duty_amount": 10011.49,
+        "eccn": "9A515",
+        "schedule_b": "2936.90.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

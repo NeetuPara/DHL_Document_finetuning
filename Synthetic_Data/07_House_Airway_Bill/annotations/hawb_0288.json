@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0288",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-56859555",
+    "mawb_number": "020-19609351",
+    "shipper_name": "Weaver Trade B.V.",
+    "shipper_address": "59601 Becker Estate Apt. 623, Timothyberg, NY 94154, Netherlands",
+    "consignee_name": "Tech Williams Corp.",
+    "consignee_address": "18172 Acevedo Fort, Aguilarburgh, CA 98944, Spain",
+    "agent_name": "Industry Green B.V.",
+    "airport_departure": "JFK",
+    "airport_destination": "NRT",
+    "currency": "JPY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CHF 9,550.35",
+    "n_pieces": 25,
+    "gross_weight_kg": 414.8,
+    "chargeable_weight": 507.4,
+    "rate": 1.63,
+    "total_charge": 827.06,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-01-31",
+    "signatory": "Mike Holmes",
+    "iata_code": "95-069",
+    "agent_cass": "1410-9663",
+    "consolidation_ref": "CONS-7647-701176",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-92362754",
+        "pieces": 16,
+        "weight": 21.1,
+        "destination": "PVG",
+        "consignee": "Armstrong Tech LLC",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "057-83173299",
+        "pieces": 11,
+        "weight": 92.8,
+        "destination": "YYZ",
+        "consignee": "Thomas Global Inc.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "006-21486201",
+        "pieces": 10,
+        "weight": 49.6,
+        "destination": "SYD",
+        "consignee": "Tech Shannon S.A.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "125-38307125",
+        "pieces": 3,
+        "weight": 14.9,
+        "destination": "JFK",
+        "consignee": "Wright Tech Pte Ltd",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "618-41820240",
+        "pieces": 7,
+        "weight": 53.2,
+        "destination": "HKG",
+        "consignee": "Taylor Commerce AG",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "074-69148962",
+        "pieces": 12,
+        "weight": 39.0,
+        "destination": "HKG",
+        "consignee": "Parker Industry B.V.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "006-95682334",
+        "pieces": 4,
+        "weight": 54.1,
+        "destination": "ICN",
+        "consignee": "Trade Torres Co.",
+        "description": "Rubber Goods - Industrial Seals and"
+      }
+    ]
+  }
+}

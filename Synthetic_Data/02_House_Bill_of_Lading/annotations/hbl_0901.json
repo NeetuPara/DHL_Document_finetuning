@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0901",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU950756897",
+    "shipper_name": "Little Trade Ltd",
+    "shipper_address": "82430 Henry Spring Apt. 219, North Eric, NE 86733, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Miller Tech GmbH",
+    "consignee_address": "30955 Meadows Crest Apt. 690, Monroeborough, NY 23323, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "International Jones S.A.",
+    "notify_party_address": "485 Scott Cape Suite 903, Port Alexview, TN 08227, United Arab Emirates",
+    "vessel": "MADRID MAERSK",
+    "voyage": "756S",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2025-12-23",
+    "issue_place": "Hamburg",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "UYAH3269693",
+        "seal_no": "SL629462",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "AICO1775106",
+        "seal_no": "CL225481",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "BHXU1106964",
+        "seal_no": "BL953800",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 372,
+    "package_type": "Crate",
+    "gross_weight_kg": 23976.0,
+    "net_weight_kg": 21538.1,
+    "cbm": 27.079,
+    "marks_and_numbers": "ABC/37"
+  }
+}

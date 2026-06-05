@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0166",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202205-9827",
+    "usppi_name": "Pacific Wilkerson LLC",
+    "usppi_address": "344 William Track Apt. 105, Brownview, TN 23323, Poland",
+    "usppi_country": "Poland",
+    "ein": "44-4828427",
+    "consignee_name": "Vang Trade B.V.",
+    "consignee_address": "8659 Lydia Island, West William, SC 02615, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Small International Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Justin Jordan",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/40",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 112,
+        "unit": "BOX",
+        "weight_kg": 120.28,
+        "value_usd": 9835.16
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 13,
+        "unit": "LTR",
+        "weight_kg": 12.11,
+        "value_usd": 166.52
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 45,
+        "unit": "KGS",
+        "weight_kg": 45.0,
+        "value_usd": 534.68
+      },
+      {
+        "marks": "ABC/31",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 117,
+        "unit": "PCS",
+        "weight_kg": 267.16,
+        "value_usd": 44746.44
+      }
+    ],
+    "total_weight_kg": 444.55,
+    "total_value_usd": 55282.8,
+    "service": "Ocean Freight",
+    "named_port": "Qingdao, CN",
+    "insurance_value_usd": 5599.05,
+    "license_type": "Distributor License",
+    "license_number": "LIC-960512",
+    "destination_country": "Malaysia"
+  }
+}

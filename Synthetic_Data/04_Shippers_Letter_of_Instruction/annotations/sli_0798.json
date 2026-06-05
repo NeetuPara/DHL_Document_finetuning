@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0798",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202104-4060",
+    "usppi_name": "Pacific Rose Ltd",
+    "usppi_address": "465 Lucero Ridge Suite 105, West Gail, GA 29407, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "28-6809196",
+    "consignee_name": "Global Mata B.V.",
+    "consignee_address": "USCGC Gallagher, FPO AA 38509, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Industry Martinez AG",
+    "forwarder": "Expeditors",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Ms. Kathleen Jones DVM",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/18",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 49,
+        "unit": "KGS",
+        "weight_kg": 49.0,
+        "value_usd": 510.96
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 97,
+        "unit": "PCS",
+        "weight_kg": 141.23,
+        "value_usd": 117208.02
+      },
+      {
+        "marks": "ABC/6",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 78,
+        "unit": "PKG",
+        "weight_kg": 153.17,
+        "value_usd": 7177.1
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 147,
+        "unit": "BOX",
+        "weight_kg": 237.54,
+        "value_usd": 2602.07
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 48,
+        "unit": "MTR",
+        "weight_kg": 40.48,
+        "value_usd": 632.89
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 195,
+        "unit": "PCS",
+        "weight_kg": 1349.35,
+        "value_usd": 13202.61
+      }
+    ],
+    "total_weight_kg": 1970.77,
+    "total_value_usd": 141333.65,
+    "vessel": "PIL PACIFIC",
+    "voyage": "841N",
+    "booking_ref": "BKG-478031",
+    "bl_number": "DHLG311502591",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Busan, KR",
+    "container_number": "POVX6823265",
+    "seal_number": "BL563857",
+    "container_type": "40'GP",
+    "cbm": 28.006
+  }
+}

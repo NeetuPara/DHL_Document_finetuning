@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0733",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Cox Global GmbH",
+    "shipper_address": "PSC 2574, Box 5497, APO AE 14668, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Pacific Smith GmbH",
+    "consignee_address": "5939 Lindsey Isle, Scottside, KY 12945, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+82 735-422-7248",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 25,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 25.78,
+        "qty_unit": "L",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 31,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 13.18,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-103800",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Brittney Rivera",
+    "signature_date": "2026-05-01",
+    "signature_place": "Italy",
+    "awb_number": "160-87623408",
+    "flight_number": "LH3199",
+    "flight_date": "2026-05-13",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol"
+  }
+}

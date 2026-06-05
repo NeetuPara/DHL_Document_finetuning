@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0869",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU171483229",
+    "shipper_name": "Pacific Bailey Pte Ltd",
+    "shipper_address": "565 Hoover Common, South Cody, IA 83049, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Floyd Global Corp.",
+    "consignee_address": "USNS Gomez, FPO AA 05276, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party_name": "Anderson International Pte Ltd",
+    "notify_party_address": "06582 Jose Vista, South Gail, IN 63836, South Korea",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "911W",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2025-09-06",
+    "issue_place": "Felixstowe",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "TIXR2804991",
+        "seal_no": "SL287479",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "KTDS1442568",
+        "seal_no": "SL971979",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "LQKR8243212",
+        "seal_no": "SL930643",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 125,
+    "package_type": "Bag",
+    "gross_weight_kg": 11641.3,
+    "net_weight_kg": 10262.2,
+    "cbm": 14.872,
+    "marks_and_numbers": "XYZ/49"
+  }
+}

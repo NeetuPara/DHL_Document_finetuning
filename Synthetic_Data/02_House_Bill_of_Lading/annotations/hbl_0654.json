@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0654",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU633525757",
+    "shipper_name": "International Delgado Inc.",
+    "shipper_address": "304 Jones Parkways Apt. 390, Ericburgh, ME 18262, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Global Howard Corp.",
+    "consignee_address": "632 Taylor Drive, Ramirezbury, OH 99401, France",
+    "consignee_country": "France",
+    "notify_party_name": "Commerce Tran B.V.",
+    "notify_party_address": "886 Robert Fields Suite 893, Port Adam, KS 43294, Spain",
+    "vessel": "MSC GULSUN",
+    "voyage": "422S",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Felixstowe, GB",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2025-08-15",
+    "issue_place": "Antwerp",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "YMTG5574847",
+        "seal_no": "CL787860",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "IHLK0244498",
+        "seal_no": "BL563825",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "OOJD9241371",
+        "seal_no": "SL670628",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 77,
+    "package_type": "Drum",
+    "gross_weight_kg": 17315.1,
+    "net_weight_kg": 15936.2,
+    "cbm": 8.509,
+    "marks_and_numbers": "ABC/49"
+  }
+}

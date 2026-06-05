@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0071",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU894616008",
+    "shipper_name": "Tech Hodges AG",
+    "shipper_address": "6241 Daniel Fields, New Taylor, VI 34547, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Henderson Tech S.A.",
+    "consignee_address": "8344 Jason Island, Ellisshire, FL 35804, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "Campbell Tech Ltd",
+    "notify_party_address": "19918 Nicholas Shoal, West Johnathanfort, AZ 46442, Singapore",
+    "vessel": "EVER GOLDEN",
+    "voyage": "433E",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Singapore, SG",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2026-02-22",
+    "issue_place": "Qingdao",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "JNCV9879970",
+        "seal_no": "SL337105",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "SGKY1153175",
+        "seal_no": "SL882464",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 16,
+    "package_type": "Pallet",
+    "gross_weight_kg": 8308.3,
+    "net_weight_kg": 7600.5,
+    "cbm": 1.79,
+    "marks_and_numbers": "XYZ/34"
+  }
+}

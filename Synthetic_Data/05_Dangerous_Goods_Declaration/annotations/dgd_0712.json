@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0712",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Alvarez Inc.",
+    "shipper_address": "277 Cummings Expressway Apt. 570, Abigailborough, ND 48364, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Harvey Global Corp.",
+    "consignee_address": "886 Philip Run, Andersonhaven, DE 18863, Japan",
+    "consignee_country": "Japan",
+    "emergency_telephone": "+72 615-767-8131",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 4,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 74.64,
+        "qty_unit": "g",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Steve Garcia",
+    "signature_date": "2026-04-24",
+    "signature_place": "Sweden",
+    "awb_number": "074-73715270",
+    "flight_number": "CX5923",
+    "flight_date": "2026-05-19",
+    "departure_airport_code": "AMS",
+    "departure_airport_name": "Amsterdam Schiphol",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare"
+  }
+}

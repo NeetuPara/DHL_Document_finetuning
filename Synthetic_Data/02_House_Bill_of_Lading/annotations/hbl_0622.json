@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0622",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU999286817",
+    "shipper_name": "International Rivera Inc.",
+    "shipper_address": "611 Kirsten Street Apt. 304, Toddton, ID 49254, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Commerce Weber B.V.",
+    "consignee_address": "128 Brandon Lakes, South Luis, IA 59055, Spain",
+    "consignee_country": "Spain",
+    "notify_party_name": "Curry Pacific LLC",
+    "notify_party_address": "68269 Kenneth Cape, Briannaburgh, GA 85985, Singapore",
+    "vessel": "EVER GOLDEN",
+    "voyage": "651E",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2025-03-29",
+    "issue_place": "Busan",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "PEZA2399319",
+        "seal_no": "CL999722",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "NIGI6967041",
+        "seal_no": "CL766347",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "TAYR0757963",
+        "seal_no": "SL379797",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "GRKQ3238711",
+        "seal_no": "SL887312",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 255,
+    "package_type": "Case",
+    "gross_weight_kg": 3531.4,
+    "net_weight_kg": 3283.5,
+    "cbm": 14.672,
+    "marks_and_numbers": "GLB/35"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0706",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202502-8472",
+    "usppi_name": "Bridges Trade AG",
+    "usppi_address": "8385 Laura Overpass Apt. 998, Bushview, MA 93918, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "73-3001727",
+    "consignee_name": "Global Phillips Corp.",
+    "consignee_address": "763 Jackson Valleys, New Michael, DC 36915, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Pacific Mcdonald Pte Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DPU",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Megan Bowers",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/8",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 43,
+        "unit": "PCS",
+        "weight_kg": 8.99,
+        "value_usd": 2784.8
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 152,
+        "unit": "KGS",
+        "weight_kg": 152.0,
+        "value_usd": 2311.38
+      },
+      {
+        "marks": "ABC/28",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 190,
+        "unit": "PCS",
+        "weight_kg": 2566.08,
+        "value_usd": 136347.99
+      }
+    ],
+    "total_weight_kg": 2727.07,
+    "total_value_usd": 141444.17,
+    "service": "Express Courier",
+    "named_port": "Seoul Incheon",
+    "insurance_value_usd": 13422.2,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-789281",
+    "destination_country": "Belgium"
+  }
+}

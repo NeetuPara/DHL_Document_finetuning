@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0928",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "734-32271889-8",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2025-10-11",
+    "port_of_entry": "BOS - Boston",
+    "transport_mode": "Hand-Carried",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "618-23390576",
+    "importer_name": "International Diaz S.A.",
+    "importer_ein": "52-4303186",
+    "consignee_name": "Industry Mitchell Inc.",
+    "customs_broker": "Tech Tate Corp.",
+    "broker_filer_code": "fbx",
+    "country_of_origin": "Singapore",
+    "total_value": 313205.5,
+    "total_duty": 21591.17,
+    "currency": "CAD",
+    "signatory": "Dawn Olson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Australia",
+        "qty": 133,
+        "unit": "PCS",
+        "entered_value": 59255.49,
+        "duty_rate": 15.2,
+        "duty_amount": 9006.83,
+        "eccn": "1A002",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "China",
+        "qty": 485,
+        "unit": "PCS",
+        "entered_value": 185231.2,
+        "duty_rate": 5.7,
+        "duty_amount": 10558.18,
+        "eccn": "0A919",
+        "schedule_b": "8518.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Japan",
+        "qty": 318,
+        "unit": "PCS",
+        "entered_value": 46234.02,
+        "duty_rate": 0.2,
+        "duty_amount": 92.47,
+        "eccn": "7A994",
+        "schedule_b": "9002.11.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Australia",
+        "qty": 243,
+        "unit": "SET",
+        "entered_value": 22484.79,
+        "duty_rate": 8.6,
+        "duty_amount": 1933.69,
+        "eccn": "1A002",
+        "schedule_b": "8708.30.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

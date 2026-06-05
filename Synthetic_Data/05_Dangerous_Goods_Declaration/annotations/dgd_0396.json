@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0396",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Banks International LLC",
+    "shipper_address": "461 Sarah Curve, New Jackstad, DE 90836, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Nguyen International Pte Ltd",
+    "consignee_address": "0635 Miller Orchard Apt. 953, Lake Sarah, FM 38510, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+63 144-681-4757",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 18,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 59.97,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-137578",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Patricia Hobbs",
+    "signature_date": "2026-04-24",
+    "signature_place": "South Korea",
+    "awb_number": "160-14512824",
+    "flight_number": "SQ2498",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "JFK",
+    "destination_airport_name": "JFK New York",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

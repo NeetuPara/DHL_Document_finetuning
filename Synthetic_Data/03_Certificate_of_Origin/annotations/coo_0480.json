@@ -1,0 +1,42 @@
+{
+  "document_id": "coo_0480",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202407-9197",
+    "exporter_name": "Pacific Fisher Inc.",
+    "exporter_address": "29206 Gonzales Station Suite 801, Osborneside, TN 23960, Japan",
+    "exporter_country": "Japan",
+    "consignee_name": "Trade Jordan AG",
+    "consignee_address": "945 Brown Neck Apt. 885, Lake Frank, KY 65870, Brazil",
+    "consignee_country": "Brazil",
+    "country_of_origin": "Japan",
+    "country_of_destination": "Brazil",
+    "bl_or_awb": "MAEU332252906",
+    "issue_date": "2025-06-15",
+    "certifier_name": "Alyssa Rowland",
+    "goods": [
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 22,
+        "unit": "KGS",
+        "weight_kg": 22.0,
+        "origin_criterion": "F",
+        "value": 242.27
+      },
+      {
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "hs_code": "8518.30.00",
+        "qty": 210,
+        "unit": "PCS",
+        "weight_kg": 18.17,
+        "origin_criterion": "E",
+        "value": 15473.84
+      }
+    ],
+    "fta_agreement": "RCEP",
+    "chamber": "Board of Trade"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0821",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Hutchinson Tech S.A.",
+    "shipper_address": "43626 Cooper Summit Suite 898, Jennifertown, SC 69467, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Commerce Graham Co.",
+    "consignee_address": "40648 Austin Throughway Apt. 797, Port Jessica, MN 53108, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "emergency_telephone": "+94 407-132-6265",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 8,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 79.78,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Michele Jordan",
+    "signature_date": "2026-05-05",
+    "signature_place": "South Korea",
+    "vessel": "EVER GOLDEN",
+    "voyage": "715E",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Colombo, LK"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0585",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG521865085",
+    "shipper_name": "Smith International LLC",
+    "shipper_address": "02157 Pamela Camp Apt. 811, Sydneyside, DE 37731, China",
+    "shipper_country": "China",
+    "consignee_name": "Wilson Pacific GmbH",
+    "consignee_address": "2623 Hannah Inlet Suite 426, Adkinsmouth, VA 03830, Australia",
+    "consignee_country": "Australia",
+    "notify_party_name": "Trade Torres Pte Ltd",
+    "notify_party_address": "650 Clark Squares, North Jennifer, OH 52710, Italy",
+    "vessel": "PIL PACIFIC",
+    "voyage": "849N",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2026-03-21",
+    "issue_place": "Long Beach",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "YUCM0794545",
+        "seal_no": "CL857692",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "NXZL8674568",
+        "seal_no": "SL286735",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "KZKY7441609",
+        "seal_no": "BL454596",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "CSIF9021712",
+        "seal_no": "BL710079",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 254,
+    "package_type": "Crate",
+    "gross_weight_kg": 19475.7,
+    "net_weight_kg": 17812.6,
+    "cbm": 19.957,
+    "marks_and_numbers": "ABC/31"
+  }
+}

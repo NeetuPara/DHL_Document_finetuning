@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0753",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Massey Inc.",
+    "shipper_address": "676 Cunningham Tunnel, Albertfort, ME 92167, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Trade Raymond LLC",
+    "consignee_address": "0245 Lam Spring, Pamelamouth, NV 65555, Germany",
+    "consignee_country": "Germany",
+    "emergency_telephone": "+22 875-605-9246",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 35,
+        "pkg_type": "Steel Drum",
+        "net_qty": 36.44,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-761227",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Rachel Sims",
+    "signature_date": "2026-05-06",
+    "signature_place": "United Arab Emirates",
+    "awb_number": "125-22417829",
+    "flight_number": "UA2819",
+    "departure_airport_code": "LAX",
+    "departure_airport_name": "Los Angeles International",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

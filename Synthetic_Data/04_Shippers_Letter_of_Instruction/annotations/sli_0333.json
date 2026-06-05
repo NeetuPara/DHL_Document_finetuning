@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0333",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202503-1394",
+    "usppi_name": "Nguyen Trade Corp.",
+    "usppi_address": "9649 Chad Village, Williamchester, CO 76339, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "43-1811240",
+    "consignee_name": "Pacific Banks Corp.",
+    "consignee_address": "57914 Peterson Ways Apt. 718, New Amyton, AS 63924, United States",
+    "consignee_country": "United States",
+    "notify_party": "Tech Abbott Corp.",
+    "forwarder": "Expeditors",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Shannon Lewis",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/11",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 135,
+        "unit": "BOX",
+        "weight_kg": 215.87,
+        "value_usd": 15447.33
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 147,
+        "unit": "MTR",
+        "weight_kg": 59.26,
+        "value_usd": 2552.49
+      },
+      {
+        "marks": "EXP/7",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 190,
+        "unit": "CTN",
+        "weight_kg": 795.18,
+        "value_usd": 13971.86
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 140,
+        "unit": "PCS",
+        "weight_kg": 60.58,
+        "value_usd": 10058.87
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 71,
+        "unit": "PCS",
+        "weight_kg": 1503.55,
+        "value_usd": 21530.23
+      },
+      {
+        "marks": "ABC/28",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 71,
+        "unit": "PCS",
+        "weight_kg": 10.05,
+        "value_usd": 3252.21
+      }
+    ],
+    "total_weight_kg": 2644.49,
+    "total_value_usd": 66812.99,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "693N",
+    "booking_ref": "BKG-278933",
+    "bl_number": "COSU963900834",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Busan, KR",
+    "container_number": "QWZT2825234",
+    "seal_number": "SL299948",
+    "container_type": "40'HC",
+    "cbm": 24.171
+  }
+}

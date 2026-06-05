@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0911",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kristine Allen",
+    "addressee_company": "Arnold Commerce AG",
+    "addressee_address": "Unit 8597 Box 4007, DPO AA 70814, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 10.083,
+    "total_value": 1317.64,
+    "currency": "CAD",
+    "issue_date": "2025-08-01",
+    "reference": "REF-505015",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.477,
+        "value": 95.2,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 4,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.479,
+        "value": 499.44,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 20,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.127,
+        "value": 723.0,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Canada"
+      }
+    ],
+    "sender_name": "Matthew Smith",
+    "sender_company": "Spears Tech B.V.",
+    "sender_address": "566 Michael Squares, North Caleb, PR 85059, Italy",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 65.58,
+    "tracking_number": "ON087852776GX"
+  }
+}

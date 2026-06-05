@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0944",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU118412770",
+    "shipper_name": "Global Schneider Corp.",
+    "shipper_address": "114 Jacobs Ridge Apt. 324, Romerostad, ND 20397, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Global Smith LLC",
+    "consignee_address": "1089 Adams Cliffs Suite 400, Coryton, GA 58176, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "King Tech Co.",
+    "notify_party_address": "9715 George Avenue, Port Gregory, OR 40747, Italy",
+    "vessel": "PIL PACIFIC",
+    "voyage": "142E",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Hong Kong, HK",
+    "issue_date": "2024-12-01",
+    "issue_place": "Singapore",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "IIPE6555262",
+        "seal_no": "CL597893",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "HYZL9510022",
+        "seal_no": "SL899249",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "ZINY5204030",
+        "seal_no": "CL274974",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "KWHJ4204089",
+        "seal_no": "BL898491",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 91,
+    "package_type": "Carton",
+    "gross_weight_kg": 14479.4,
+    "net_weight_kg": 12838.8,
+    "cbm": 4.429,
+    "marks_and_numbers": "GLB/42"
+  }
+}

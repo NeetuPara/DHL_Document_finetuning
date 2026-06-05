@@ -1,0 +1,219 @@
+{
+  "total": 1800,
+  "base": {
+    "cls_ok": 1546,
+    "cls_total": 1800,
+    "pos_ok": 1565,
+    "pos_total": 1800,
+    "both_ok": 1394,
+    "parse_fail": 0,
+    "cls_by_class": {
+      "Certificate of Origin": {
+        "ok": 109,
+        "total": 109
+      },
+      "Dangerous Goods Declaration": {
+        "ok": 144,
+        "total": 144
+      },
+      "Packing List": {
+        "ok": 342,
+        "total": 386
+      },
+      "House Bill of Lading": {
+        "ok": 122,
+        "total": 170
+      },
+      "Cargo Manifest": {
+        "ok": 98,
+        "total": 98
+      },
+      "Shipper's Letter of Instruction": {
+        "ok": 70,
+        "total": 117
+      },
+      "Commercial Invoice": {
+        "ok": 430,
+        "total": 430
+      },
+      "Verified Gross Mass": {
+        "ok": 63,
+        "total": 120
+      },
+      "House Airway Bill": {
+        "ok": 121,
+        "total": 121
+      },
+      "Import/Export License": {
+        "ok": 10,
+        "total": 68
+      },
+      "Customs Declaration": {
+        "ok": 16,
+        "total": 16
+      },
+      "Power of Attorney": {
+        "ok": 21,
+        "total": 21
+      }
+    },
+    "pos_by_pos": {
+      "START": {
+        "ok": 1191,
+        "total": 1292
+      },
+      "CONTINUATION": {
+        "ok": 374,
+        "total": 508
+      }
+    },
+    "by_source": {
+      "splitting_packet": {
+        "cls_ok": 1192,
+        "pos_ok": 1220,
+        "both_ok": 1106,
+        "total": 1343
+      },
+      "single_doc": {
+        "cls_ok": 126,
+        "pos_ok": 125,
+        "both_ok": 116,
+        "total": 139
+      },
+      "multi_doc": {
+        "cls_ok": 228,
+        "pos_ok": 220,
+        "both_ok": 172,
+        "total": 318
+      }
+    },
+    "ext_sum": {
+      "shipper_name": 1102.5674603174602,
+      "consignee_name": 1015.2047619047618,
+      "description_of_goods": 507.86171680562984,
+      "document_date": 974.0,
+      "document_number": 902.0,
+      "country_of_origin": 376.0,
+      "country_of_destination": 416.0,
+      "gross_weight_kg": 399.0
+    },
+    "ext_count": {
+      "shipper_name": 1240,
+      "consignee_name": 1145,
+      "description_of_goods": 959,
+      "document_date": 1222,
+      "document_number": 1292,
+      "country_of_origin": 819,
+      "country_of_destination": 861,
+      "gross_weight_kg": 888
+    }
+  },
+  "finetuned": {
+    "cls_ok": 1800,
+    "cls_total": 1800,
+    "pos_ok": 1800,
+    "pos_total": 1800,
+    "both_ok": 1800,
+    "parse_fail": 0,
+    "cls_by_class": {
+      "Certificate of Origin": {
+        "ok": 109,
+        "total": 109
+      },
+      "Dangerous Goods Declaration": {
+        "ok": 144,
+        "total": 144
+      },
+      "Packing List": {
+        "ok": 386,
+        "total": 386
+      },
+      "House Bill of Lading": {
+        "ok": 170,
+        "total": 170
+      },
+      "Cargo Manifest": {
+        "ok": 98,
+        "total": 98
+      },
+      "Shipper's Letter of Instruction": {
+        "ok": 117,
+        "total": 117
+      },
+      "Commercial Invoice": {
+        "ok": 430,
+        "total": 430
+      },
+      "Verified Gross Mass": {
+        "ok": 120,
+        "total": 120
+      },
+      "House Airway Bill": {
+        "ok": 121,
+        "total": 121
+      },
+      "Import/Export License": {
+        "ok": 68,
+        "total": 68
+      },
+      "Customs Declaration": {
+        "ok": 16,
+        "total": 16
+      },
+      "Power of Attorney": {
+        "ok": 21,
+        "total": 21
+      }
+    },
+    "pos_by_pos": {
+      "START": {
+        "ok": 1292,
+        "total": 1292
+      },
+      "CONTINUATION": {
+        "ok": 508,
+        "total": 508
+      }
+    },
+    "by_source": {
+      "splitting_packet": {
+        "cls_ok": 1343,
+        "pos_ok": 1343,
+        "both_ok": 1343,
+        "total": 1343
+      },
+      "single_doc": {
+        "cls_ok": 139,
+        "pos_ok": 139,
+        "both_ok": 139,
+        "total": 139
+      },
+      "multi_doc": {
+        "cls_ok": 318,
+        "pos_ok": 318,
+        "both_ok": 318,
+        "total": 318
+      }
+    },
+    "ext_sum": {
+      "shipper_name": 1183.3333333333333,
+      "consignee_name": 1093.4761904761906,
+      "description_of_goods": 885.2763693994347,
+      "document_date": 1163.0,
+      "document_number": 1182.0,
+      "country_of_origin": 804.0,
+      "country_of_destination": 819.0,
+      "gross_weight_kg": 560.0
+    },
+    "ext_count": {
+      "shipper_name": 1240,
+      "consignee_name": 1145,
+      "description_of_goods": 959,
+      "document_date": 1222,
+      "document_number": 1292,
+      "country_of_origin": 819,
+      "country_of_destination": 861,
+      "gross_weight_kg": 888
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0012",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-44643337",
+    "mawb_number": "085-53382332",
+    "shipper_name": "International Thompson Corp.",
+    "shipper_address": "1484 Montes Isle Apt. 085, Staceyshire, MP 29379, Canada",
+    "consignee_name": "Baxter International Ltd",
+    "consignee_address": "41470 Kevin Branch, East Kellyfort, AR 03940, Belgium",
+    "agent_name": "Spears Pacific Co.",
+    "airport_departure": "PVG",
+    "airport_destination": "CDG",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "EUR 44,054.58",
+    "declared_value_customs": "NCV",
+    "n_pieces": 23,
+    "gross_weight_kg": 360.4,
+    "chargeable_weight": 384.8,
+    "rate": 3.14,
+    "total_charge": 1208.27,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-07-22",
+    "signatory": "Elizabeth Gutierrez",
+    "iata_code": "48-488",
+    "agent_cass": "1479-9956",
+    "consolidation_ref": "CONS-0713-384813",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-48766864",
+        "pieces": 12,
+        "weight": 90.4,
+        "destination": "HKG",
+        "consignee": "Hernandez Industry LLC",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "006-53120914",
+        "pieces": 17,
+        "weight": 79.9,
+        "destination": "FRA",
+        "consignee": "Gamble Commerce AG",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "074-75951507",
+        "pieces": 12,
+        "weight": 56.4,
+        "destination": "SYD",
+        "consignee": "Baker Industry AG",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "176-88256215",
+        "pieces": 20,
+        "weight": 12.6,
+        "destination": "CDG",
+        "consignee": "International Leblanc AG",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "020-98052504",
+        "pieces": 8,
+        "weight": 78.2,
+        "destination": "DXB",
+        "consignee": "Global Dougherty LLC",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "125-37066295",
+        "pieces": 4,
+        "weight": 63.6,
+        "destination": "CDG",
+        "consignee": "Global Robinson Inc.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "074-33250506",
+        "pieces": 5,
+        "weight": 68.4,
+        "destination": "SYD",
+        "consignee": "Martinez Pacific S.A.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

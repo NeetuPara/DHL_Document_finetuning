@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0516",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Harvey Co.",
+    "shipper_address": "252 Rangel Stream, Jameshaven, OH 96813, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Commerce Rivera Corp.",
+    "consignee_address": "206 Chapman Islands Suite 786, Manningland, VI 54065, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+10 751-930-2714",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 49,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 36.2,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Brenda Cortez",
+    "signature_date": "2026-04-15",
+    "signature_place": "United States",
+    "awb_number": "125-21794728",
+    "flight_number": "EK3524",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

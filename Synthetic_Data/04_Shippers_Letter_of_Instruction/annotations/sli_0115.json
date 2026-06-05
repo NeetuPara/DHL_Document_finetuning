@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0115",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202502-7922",
+    "usppi_name": "Edwards Tech B.V.",
+    "usppi_address": "632 Brian Shoal Apt. 816, Laurafort, ND 70962, Canada",
+    "usppi_country": "Canada",
+    "ein": "72-4617313",
+    "consignee_name": "Dennis Trade Co.",
+    "consignee_address": "016 Zachary Courts, North Bethshire, NM 15269, France",
+    "consignee_country": "France",
+    "notify_party": "Tech Melton S.A.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Mark Ward",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/21",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 174,
+        "unit": "PCS",
+        "weight_kg": 3143.69,
+        "value_usd": 16501.54
+      },
+      {
+        "marks": "EXP/32",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 129,
+        "unit": "PCS",
+        "weight_kg": 1525.57,
+        "value_usd": 61294.51
+      },
+      {
+        "marks": "ABC/35",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 30,
+        "unit": "MTR",
+        "weight_kg": 34.5,
+        "value_usd": 204.34
+      },
+      {
+        "marks": "SLI/18",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 112,
+        "unit": "CTN",
+        "weight_kg": 170.24,
+        "value_usd": 770.49
+      },
+      {
+        "marks": "ABC/3",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 88,
+        "unit": "BOX",
+        "weight_kg": 32.33,
+        "value_usd": 8404.67
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 105,
+        "unit": "KGS",
+        "weight_kg": 105.0,
+        "value_usd": 242.49
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 136,
+        "unit": "KGS",
+        "weight_kg": 136.0,
+        "value_usd": 2330.92
+      },
+      {
+        "marks": "ABC/20",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 75,
+        "unit": "LTR",
+        "weight_kg": 77.08,
+        "value_usd": 2817.74
+      }
+    ],
+    "total_weight_kg": 5224.41,
+    "total_value_usd": 92566.7,
+    "service": "Express Courier",
+    "named_port": "Tokyo Narita",
+    "insurance_value_usd": 42966.74,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-143950",
+    "destination_country": "France"
+  }
+}

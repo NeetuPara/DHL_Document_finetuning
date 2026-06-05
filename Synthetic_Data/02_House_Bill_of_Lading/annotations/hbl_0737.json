@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0737",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU539432342",
+    "shipper_name": "Manning Trade Corp.",
+    "shipper_address": "97625 Osborne Club Apt. 622, East Tracy, TN 43073, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "International Rose Pte Ltd",
+    "consignee_address": "458 Bradley Turnpike, Joshuaside, NJ 67838, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party_name": "Pacific Miller LLC",
+    "notify_party_address": "40344 Elizabeth Harbor Suite 153, Jonesville, UT 86307, Mexico",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "702N",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Hong Kong, HK",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2025-07-01",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "VXUB4030441",
+        "seal_no": "CL140845",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "FJYG5048955",
+        "seal_no": "SL869338",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 417,
+    "package_type": "Roll",
+    "gross_weight_kg": 23487.3,
+    "net_weight_kg": 21172.8,
+    "cbm": 33.997,
+    "marks_and_numbers": "GLB/8"
+  }
+}

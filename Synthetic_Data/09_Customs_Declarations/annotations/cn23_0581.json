@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0581",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "David Barron",
+    "addressee_company": "Yoder Global LLC",
+    "addressee_address": "9398 Bush Place, Madelineland, CA 29593, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 9.431,
+    "total_value": 1758.48,
+    "currency": "JPY",
+    "issue_date": "2025-09-06",
+    "reference": "REF-403089",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.505,
+        "value": 257.2,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 11,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.926,
+        "value": 1501.28,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_name": "Joseph Smith",
+    "sender_company": "Wilkins Industry B.V.",
+    "sender_address": "668 Silva Spurs, South Matthewland, TX 31200, Germany",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 61.77,
+    "tracking_number": "TT125294011FB"
+  }
+}

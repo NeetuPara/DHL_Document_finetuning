@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0365",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20230305310364",
+    "export_date": "2026-03-17",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Rojas International S.A.",
+    "usppi_ein": "75-6500734",
+    "usppi_address": "2801 Vicki Plaza, Seanton, CO 93436, Spain",
+    "ultimate_consignee": "Perez Industry Ltd",
+    "intermediate_consignee": "International Wang Pte Ltd",
+    "forwarding_agent": "Trade Ryan Corp.",
+    "destination_country": "Malaysia",
+    "carrier": "Maersk",
+    "bl_awb": "160-54176903",
+    "total_value": 245453.6,
+    "currency": "JPY",
+    "signatory": "Kathryn Brock",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Switzerland",
+        "qty": 354,
+        "unit": "CTN",
+        "entered_value": 79133.16,
+        "duty_rate": 5.0,
+        "duty_amount": 3956.66,
+        "eccn": "5E992",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "United States",
+        "qty": 436,
+        "unit": "PKG",
+        "entered_value": 77682.12,
+        "duty_rate": 22.1,
+        "duty_amount": 17167.75,
+        "eccn": "0A919",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "France",
+        "qty": 482,
+        "unit": "PCS",
+        "entered_value": 12859.76,
+        "duty_rate": 10.3,
+        "duty_amount": 1324.56,
+        "eccn": "5E992",
+        "schedule_b": "9002.11.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Canada",
+        "qty": 177,
+        "unit": "PKG",
+        "entered_value": 60045.48,
+        "duty_rate": 18.5,
+        "duty_amount": 11108.41,
+        "eccn": "2B350",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Belgium",
+        "qty": 319,
+        "unit": "PCS",
+        "entered_value": 15733.08,
+        "duty_rate": 15.9,
+        "duty_amount": 2501.56,
+        "eccn": "5E992",
+        "schedule_b": "8534.00.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

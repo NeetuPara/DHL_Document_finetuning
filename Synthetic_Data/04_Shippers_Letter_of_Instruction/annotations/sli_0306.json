@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0306",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202312-2372",
+    "usppi_name": "Industry Ortiz AG",
+    "usppi_address": "40297 Jason Meadows Suite 286, South Nancyside, NE 57085, Italy",
+    "usppi_country": "Italy",
+    "ein": "95-9968425",
+    "consignee_name": "Global Hernandez Pte Ltd",
+    "consignee_address": "385 Mccarthy Row Suite 192, Lake Rebeccaland, IA 06565, United States",
+    "consignee_country": "United States",
+    "notify_party": "Ortiz International Inc.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Steven Peters",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/43",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 38,
+        "unit": "KGS",
+        "weight_kg": 38.0,
+        "value_usd": 806.07
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 97,
+        "unit": "MTR",
+        "weight_kg": 107.14,
+        "value_usd": 930.52
+      }
+    ],
+    "total_weight_kg": 145.14,
+    "total_value_usd": 1736.59,
+    "vessel": "MADRID MAERSK",
+    "voyage": "138N",
+    "booking_ref": "BKG-744932",
+    "bl_number": "MAEU640262752",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Busan, KR",
+    "container_number": "HKBF6205397",
+    "seal_number": "BL466378",
+    "container_type": "40'HC",
+    "cbm": 8.083
+  }
+}

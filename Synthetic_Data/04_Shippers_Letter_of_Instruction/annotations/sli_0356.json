@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0356",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202302-1722",
+    "usppi_name": "Chambers Global S.A.",
+    "usppi_address": "04567 Colleen Rest Apt. 454, West Paulatown, IL 99047, Australia",
+    "usppi_country": "Australia",
+    "ein": "55-7349821",
+    "consignee_name": "Taylor Trade GmbH",
+    "consignee_address": "693 Allen Shores, Port Nicholasfurt, ND 93019, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Hayes Industry Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "7A994",
+    "signatory_name": "Deanna Rush",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/47",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 182,
+        "unit": "BOX",
+        "weight_kg": 345.22,
+        "value_usd": 1646.45
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 127,
+        "unit": "PCS",
+        "weight_kg": 60.3,
+        "value_usd": 197675.47
+      },
+      {
+        "marks": "ABC/11",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 14,
+        "unit": "PCS",
+        "weight_kg": 1.55,
+        "value_usd": 1461.63
+      },
+      {
+        "marks": "SLI/5",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 99,
+        "unit": "MTR",
+        "weight_kg": 94.06,
+        "value_usd": 1529.69
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 19,
+        "unit": "CTN",
+        "weight_kg": 40.49,
+        "value_usd": 1012.88
+      }
+    ],
+    "total_weight_kg": 541.62,
+    "total_value_usd": 203326.12,
+    "service": "Ocean Freight",
+    "named_port": "New York, US",
+    "insurance_value_usd": 47699.97,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-511914",
+    "destination_country": "Netherlands"
+  }
+}

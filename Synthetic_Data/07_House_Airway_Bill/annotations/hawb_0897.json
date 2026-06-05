@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0897",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-63716525",
+    "mawb_number": "125-82533303",
+    "shipper_name": "Tech Thompson Co.",
+    "shipper_address": "73173 Laura Haven Suite 178, Khanborough, MI 86562, Switzerland",
+    "consignee_name": "West International GmbH",
+    "consignee_address": "PSC 2693, Box 1985, APO AP 22188, Sweden",
+    "agent_name": "Pacific Chang Ltd",
+    "airport_departure": "SIN",
+    "airport_destination": "SYD",
+    "currency": "GBP",
+    "charge_code": "PP",
+    "declared_value_carriage": "EUR 21,149.00",
+    "declared_value_customs": "NCV",
+    "n_pieces": 8,
+    "gross_weight_kg": 17.9,
+    "chargeable_weight": 22.1,
+    "rate": 1.69,
+    "total_charge": 37.35,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-03-05",
+    "signatory": "Valerie James",
+    "iata_code": "12-283",
+    "agent_cass": "1224-8346",
+    "consolidation_ref": "CONS-9253-576817",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-20741091",
+        "pieces": 7,
+        "weight": 17.3,
+        "destination": "ICN",
+        "consignee": "Nguyen Commerce Co.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "057-22068245",
+        "pieces": 2,
+        "weight": 49.9,
+        "destination": "LAX",
+        "consignee": "Pacific Palmer B.V.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "057-84683782",
+        "pieces": 19,
+        "weight": 6.0,
+        "destination": "NRT",
+        "consignee": "Commerce Baker Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

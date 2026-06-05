@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0539",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Cisneros Trade AG",
+    "shipper_address": "Unit 7260 Box 7925, DPO AE 92026, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Mathis Trade Inc.",
+    "consignee_address": "79233 White Locks Apt. 232, Simsville, ME 08924, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+31 120-840-4347",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 13,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 66.89,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-875775",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Tamara Stanley",
+    "signature_date": "2026-05-05",
+    "signature_place": "South Korea",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "320S",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Long Beach, US"
+  }
+}

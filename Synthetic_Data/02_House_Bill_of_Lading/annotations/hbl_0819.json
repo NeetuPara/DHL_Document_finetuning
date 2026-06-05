@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0819",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU934973342",
+    "shipper_name": "Lambert Industry AG",
+    "shipper_address": "1400 Terrell Burgs, West Hannah, CA 03639, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Trade Berg Corp.",
+    "consignee_address": "PSC 7281, Box 6160, APO AA 95878, China",
+    "consignee_country": "China",
+    "notify_party_name": "Global Dalton Ltd",
+    "notify_party_address": "USCGC Strickland, FPO AA 05816, India",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "867W",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Qingdao, CN",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2024-11-04",
+    "issue_place": "Colombo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "KQAB9302360",
+        "seal_no": "BL512091",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "NUYW9541986",
+        "seal_no": "CL257708",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "MFZB2813671",
+        "seal_no": "CL345898",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "JEIF8503915",
+        "seal_no": "CL352490",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 370,
+    "package_type": "Crate",
+    "gross_weight_kg": 1912.0,
+    "net_weight_kg": 1740.8,
+    "cbm": 40.695,
+    "marks_and_numbers": "GLB/13"
+  }
+}

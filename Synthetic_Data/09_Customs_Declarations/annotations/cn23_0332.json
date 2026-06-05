@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0332",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Joshua Fields",
+    "addressee_company": "Perkins Trade Ltd",
+    "addressee_address": "PSC 9404, Box 7996, APO AE 34790, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 7.618,
+    "total_value": 5811.55,
+    "currency": "AED",
+    "issue_date": "2025-12-10",
+    "reference": "REF-905166",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.859,
+        "value": 553.69,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 16,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.42,
+        "value": 2317.44,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 6,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.805,
+        "value": 647.04,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 18,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.534,
+        "value": 2293.38,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_name": "Nicole Delgado",
+    "sender_company": "International May Pte Ltd",
+    "sender_address": "61711 Melissa Groves Apt. 990, Davisstad, CA 28853, Spain",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 8.06,
+    "tracking_number": "VQ404634173BU"
+  }
+}

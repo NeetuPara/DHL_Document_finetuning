@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0072",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202101-5806",
+    "exporter_name": "Duke Tech B.V.",
+    "exporter_address": "30993 Tyler Parkways, Johnsonstad, NV 24081, Thailand",
+    "exporter_country": "Thailand",
+    "consignee_name": "International White B.V.",
+    "consignee_address": "7101 Kelsey Crossroad Apt. 936, Gabrielashire, FL 95022, China",
+    "consignee_country": "China",
+    "country_of_origin": "Thailand",
+    "country_of_destination": "China",
+    "bl_or_awb": "085-77815338",
+    "issue_date": "2025-01-07",
+    "certifier_name": "Jordan Garcia",
+    "goods": [
+      {
+        "description": "Wooden Furniture - Office Chairs",
+        "hs_code": "9401.30.00",
+        "qty": 313,
+        "unit": "PCS",
+        "weight_kg": 3498.09,
+        "origin_criterion": "F",
+        "value": 96658.34
+      },
+      {
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "hs_code": "4016.93.00",
+        "qty": 141,
+        "unit": "PKG",
+        "weight_kg": 213.97,
+        "origin_criterion": "B",
+        "value": 13338.93
+      },
+      {
+        "description": "Electronic Components - Printed Circuit Boards",
+        "hs_code": "8534.00.00",
+        "qty": 498,
+        "unit": "PCS",
+        "weight_kg": 149.64,
+        "origin_criterion": "B",
+        "value": 19640.93
+      }
+    ],
+    "fta_agreement": "EU-Canada CETA",
+    "chamber": "Board of Trade"
+  }
+}

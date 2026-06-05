@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0862",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Alvarez Global Pte Ltd",
+    "shipper_address": "339 Chandler Motorway Suite 938, Sarafort, OR 66169, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Global Villanueva B.V.",
+    "consignee_address": "677 Guerrero Plaza Suite 033, Hawkinschester, DE 24422, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+94 870-171-9057",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 21,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 98.04,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-323246",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Jesse Mosley",
+    "signature_date": "2026-05-10",
+    "signature_place": "Singapore",
+    "awb_number": "020-26126929",
+    "flight_number": "DL1596",
+    "flight_date": "2026-04-22",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International"
+  }
+}

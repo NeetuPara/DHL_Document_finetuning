@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0595",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Gary Lewis",
+    "addressee_company": "Global Sanchez Co.",
+    "addressee_address": "2323 Tracey Path, Nathanmouth, MH 76608, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 7.43,
+    "total_value": 2214.75,
+    "currency": "AED",
+    "issue_date": "2025-12-20",
+    "reference": "REF-407826",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.589,
+        "value": 576.9,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 15,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.841,
+        "value": 1637.85,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "Wendy Benson",
+    "sender_company": "Garner Industry Inc.",
+    "sender_address": "523 Heather Common, West Barbaraburgh, MA 96888, Brazil",
+    "sender_phone": "(750)444-9705x56832",
+    "sender_email": "chapmanleslie@example.com",
+    "addressee_phone": "290.639.1316x375",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 42.99,
+    "tracking_number": "AQ703261021AW"
+  }
+}

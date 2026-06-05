@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0249",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-90026681",
+    "mawb_number": "618-42911938",
+    "shipper_name": "Tech Davis AG",
+    "shipper_address": "1900 Marissa Summit Suite 412, Lake Brian, VA 47621, United Arab Emirates",
+    "consignee_name": "Perkins Pacific Ltd",
+    "consignee_address": "51369 Thompson Manors, Gregorytown, TX 59849, Singapore",
+    "agent_name": "Edwards Tech Ltd",
+    "airport_departure": "CDG",
+    "airport_destination": "SIN",
+    "currency": "CNY",
+    "charge_code": "CC",
+    "declared_value_carriage": "USD 26,803.49",
+    "declared_value_customs": "CHF 19,542.54",
+    "n_pieces": 29,
+    "gross_weight_kg": 160.0,
+    "chargeable_weight": 192.6,
+    "rate": 7.99,
+    "total_charge": 1538.87,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "TEMP CONTROLLED: 2\u00b0C - 19\u00b0C",
+    "issue_date": "2026-03-24",
+    "signatory": "Kenneth Cline",
+    "iata_code": "00-198",
+    "agent_cass": "7882-8550",
+    "consolidation_ref": "CONS-8787-510992",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-87574728",
+        "pieces": 16,
+        "weight": 23.3,
+        "destination": "CDG",
+        "consignee": "Tech Mcconnell AG",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "085-42184785",
+        "pieces": 2,
+        "weight": 87.8,
+        "destination": "HKG",
+        "consignee": "Commerce Mckinney GmbH",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "125-98247795",
+        "pieces": 16,
+        "weight": 89.2,
+        "destination": "CDG",
+        "consignee": "Pacific Cooper LLC",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "085-90084541",
+        "pieces": 3,
+        "weight": 28.2,
+        "destination": "YYZ",
+        "consignee": "House Global Inc.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "160-47534411",
+        "pieces": 1,
+        "weight": 85.2,
+        "destination": "NRT",
+        "consignee": "Pacific Duncan Co.",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

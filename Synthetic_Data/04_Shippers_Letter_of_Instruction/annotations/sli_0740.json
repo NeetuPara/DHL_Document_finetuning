@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0740",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202006-9038",
+    "usppi_name": "Williams Pacific Ltd",
+    "usppi_address": "061 Steven Dale Apt. 212, Ericview, DC 26211, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "76-7791421",
+    "consignee_name": "Lawrence Tech LLC",
+    "consignee_address": "10770 Foley Vista Apt. 003, Brownburgh, OR 23742, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Odonnell Pacific Inc.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Amanda Harrison",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/4",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 36,
+        "unit": "MTR",
+        "weight_kg": 26.08,
+        "value_usd": 563.8
+      },
+      {
+        "marks": "ABC/35",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 188,
+        "unit": "SET",
+        "weight_kg": 667.3,
+        "value_usd": 29312.25
+      },
+      {
+        "marks": "ABC/20",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 175,
+        "unit": "PCS",
+        "weight_kg": 3226.71,
+        "value_usd": 15362.38
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 104,
+        "unit": "KGS",
+        "weight_kg": 104.0,
+        "value_usd": 2057.64
+      },
+      {
+        "marks": "ABC/41",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 90,
+        "unit": "PCS",
+        "weight_kg": 29.54,
+        "value_usd": 2391.06
+      },
+      {
+        "marks": "SLI/6",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 120,
+        "unit": "CTN",
+        "weight_kg": 447.46,
+        "value_usd": 5834.07
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 154,
+        "unit": "PKG",
+        "weight_kg": 83.27,
+        "value_usd": 5236.45
+      },
+      {
+        "marks": "EXP/48",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 14,
+        "unit": "PCS",
+        "weight_kg": 14.8,
+        "value_usd": 10107.96
+      }
+    ],
+    "total_weight_kg": 4599.16,
+    "total_value_usd": 70865.61,
+    "service": "LCL Ocean",
+    "named_port": "Tokyo, JP",
+    "insurance_value_usd": 21283.53,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-533525",
+    "destination_country": "Canada"
+  }
+}

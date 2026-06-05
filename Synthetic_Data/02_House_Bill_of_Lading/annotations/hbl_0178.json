@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0178",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU640128250",
+    "shipper_name": "Commerce Wheeler Inc.",
+    "shipper_address": "72229 Melissa Via Suite 176, Port Dennis, IA 26724, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Espinoza Industry S.A.",
+    "consignee_address": "394 Steve Mountains Apt. 439, Port Linda, GA 98865, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party_name": "Howard Tech B.V.",
+    "notify_party_address": "PSC 7369, Box 8087, APO AA 83923, Mexico",
+    "vessel": "MSC OSCAR",
+    "voyage": "985E",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2025-10-15",
+    "issue_place": "Rotterdam",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "FGOM4185788",
+        "seal_no": "BL946759",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "MQUN9490536",
+        "seal_no": "SL446300",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "LSXU3114513",
+        "seal_no": "SL612681",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "RVJA8679084",
+        "seal_no": "CL103195",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 168,
+    "package_type": "Roll",
+    "gross_weight_kg": 2136.0,
+    "net_weight_kg": 1907.0,
+    "cbm": 12.136,
+    "marks_and_numbers": "ABC/8"
+  }
+}

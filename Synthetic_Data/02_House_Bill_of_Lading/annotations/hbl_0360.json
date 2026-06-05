@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0360",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV567265323",
+    "shipper_name": "Tech Brewer Ltd",
+    "shipper_address": "9435 Johnson Neck, Howardmouth, MA 03276, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Global Barnett Inc.",
+    "consignee_address": "30318 Pearson Manor, Griffinfurt, CO 53554, China",
+    "consignee_country": "China",
+    "notify_party_name": "Pacific Maynard Pte Ltd",
+    "notify_party_address": "167 Johnson Union, New Pamelahaven, WI 32555, Malaysia",
+    "vessel": "MSC OSCAR",
+    "voyage": "424S",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2026-03-05",
+    "issue_place": "Antwerp",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "DXCV7989603",
+        "seal_no": "BL561104",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "PAYE3573355",
+        "seal_no": "BL982074",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "KIDD3322152",
+        "seal_no": "SL643107",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 246,
+    "package_type": "Crate",
+    "gross_weight_kg": 5585.9,
+    "net_weight_kg": 5187.0,
+    "cbm": 27.612,
+    "marks_and_numbers": "XYZ/31"
+  }
+}

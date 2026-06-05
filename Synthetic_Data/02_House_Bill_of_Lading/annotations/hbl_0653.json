@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0653",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU141285650",
+    "shipper_name": "Owens Tech LLC",
+    "shipper_address": "82509 Ryan Union Apt. 224, East Andrew, IN 59535, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Smith Global S.A.",
+    "consignee_address": "990 Marissa Fork Suite 897, Lake Amandaland, NJ 96742, France",
+    "consignee_country": "France",
+    "notify_party_name": "International Strong Inc.",
+    "notify_party_address": "0703 Jennifer Mill, Burgessburgh, DC 66632, Canada",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "356N",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Qingdao, CN",
+    "place_of_receipt": "Los Angeles, US",
+    "place_of_delivery": "Qingdao, CN",
+    "issue_date": "2025-10-24",
+    "issue_place": "Los Angeles",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "MQKG4327376",
+        "seal_no": "BL665245",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "AENZ6496124",
+        "seal_no": "BL672293",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "XIAZ6747632",
+        "seal_no": "BL149476",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "JDVR1254306",
+        "seal_no": "CL466969",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "number_of_packages": 391,
+    "package_type": "Bundle",
+    "gross_weight_kg": 9836.8,
+    "net_weight_kg": 9356.1,
+    "cbm": 44.765,
+    "marks_and_numbers": "XYZ/48"
+  }
+}

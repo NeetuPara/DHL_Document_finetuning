@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0719",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202207-1421",
+    "usppi_name": "Trade Hancock LLC",
+    "usppi_address": "88409 Coleman Lodge Apt. 030, Sabrinaville, WV 83861, China",
+    "usppi_country": "China",
+    "ein": "65-4350239",
+    "consignee_name": "Trade Tucker Inc.",
+    "consignee_address": "461 Chad Road, Robinville, ME 98679, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Stone Tech LLC",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Ashley Peters",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/49",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 145,
+        "unit": "PCS",
+        "weight_kg": 1537.06,
+        "value_usd": 20215.56
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 16,
+        "unit": "CTN",
+        "weight_kg": 28.33,
+        "value_usd": 323.81
+      },
+      {
+        "marks": "ABC/13",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 156,
+        "unit": "PKG",
+        "weight_kg": 459.82,
+        "value_usd": 3253.52
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 143,
+        "unit": "PCS",
+        "weight_kg": 144.44,
+        "value_usd": 178422.32
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 59,
+        "unit": "PCS",
+        "weight_kg": 557.37,
+        "value_usd": 23790.73
+      },
+      {
+        "marks": "ABC/3",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 160,
+        "unit": "BOX",
+        "weight_kg": 62.78,
+        "value_usd": 1589.57
+      },
+      {
+        "marks": "SLI/10",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 64,
+        "unit": "CTN",
+        "weight_kg": 167.18,
+        "value_usd": 481.72
+      },
+      {
+        "marks": "EXP/32",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 127,
+        "unit": "PCS",
+        "weight_kg": 28.44,
+        "value_usd": 28028.18
+      }
+    ],
+    "total_weight_kg": 2985.42,
+    "total_value_usd": 256105.41,
+    "service": "Ocean Freight",
+    "named_port": "Rotterdam, NL",
+    "insurance_value_usd": 14779.37,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-293386",
+    "destination_country": "United Arab Emirates"
+  }
+}

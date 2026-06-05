@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0683",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250730228758",
+    "export_date": "2025-07-16",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Pacific Lopez Co.",
+    "usppi_ein": "40-3081692",
+    "usppi_address": "594 Martinez Forge Apt. 794, New Billy, OH 63115, South Korea",
+    "ultimate_consignee": "Harris International LLC",
+    "intermediate_consignee": "Matthews Industry LLC",
+    "forwarding_agent": "International Carey Corp.",
+    "destination_country": "United Kingdom",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "057-96137021",
+    "total_value": 408764.42,
+    "currency": "GBP",
+    "signatory": "Lauren Mann",
+    "line_items": [
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Brazil",
+        "qty": 3,
+        "unit": "KGS",
+        "entered_value": 1264.17,
+        "duty_rate": 23.8,
+        "duty_amount": 300.87,
+        "eccn": "9A515",
+        "schedule_b": "7208.37.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Brazil",
+        "qty": 134,
+        "unit": "PKG",
+        "entered_value": 49491.56,
+        "duty_rate": 16.0,
+        "duty_amount": 7918.65,
+        "eccn": "EAR99",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Hong Kong",
+        "qty": 387,
+        "unit": "PCS",
+        "entered_value": 161847.27,
+        "duty_rate": 24.6,
+        "duty_amount": 39814.43,
+        "eccn": "EAR99",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Brazil",
+        "qty": 481,
+        "unit": "CTN",
+        "entered_value": 196161.42,
+        "duty_rate": 16.0,
+        "duty_amount": 31385.83,
+        "eccn": "7A994",
+        "schedule_b": "9018.31.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

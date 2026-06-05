@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0414",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202105-3189",
+    "exporter_name": "Young Commerce Co.",
+    "exporter_address": "48152 Valerie Landing Apt. 907, Palmerstad, TX 63337, India",
+    "exporter_country": "India",
+    "consignee_name": "Global Wright Co.",
+    "consignee_address": "3186 Melissa Port Suite 616, Thompsonfort, NJ 79641, Japan",
+    "consignee_country": "Japan",
+    "country_of_origin": "India",
+    "country_of_destination": "Japan",
+    "bl_or_awb": "DHLG264938888",
+    "issue_date": "2024-09-15",
+    "certifier_name": "William Mendoza",
+    "goods": [
+      {
+        "description": "Steel Products - Hot Rolled Coils",
+        "hs_code": "7208.37.00",
+        "qty": 175,
+        "unit": "KGS",
+        "weight_kg": 175.0,
+        "origin_criterion": "C",
+        "value": 422.11
+      },
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 357,
+        "unit": "KGS",
+        "weight_kg": 357.0,
+        "origin_criterion": "E",
+        "value": 6442.54
+      },
+      {
+        "description": "Plastic Products - Injection Moulded Components",
+        "hs_code": "3926.90.00",
+        "qty": 314,
+        "unit": "PCS",
+        "weight_kg": 78.14,
+        "origin_criterion": "E",
+        "value": 9035.68
+      }
+    ],
+    "fta_agreement": "EU-Japan EPA",
+    "chamber": "Trade Association"
+  }
+}

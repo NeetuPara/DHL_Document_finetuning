@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0981",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-30240808",
+    "mawb_number": "057-10665725",
+    "shipper_name": "Tech Terry Inc.",
+    "shipper_address": "076 Goodman Stream Suite 866, New Kariborough, HI 01677, Poland",
+    "consignee_name": "Trade Webster Pte Ltd",
+    "consignee_address": "082 Mccoy Point, Port Cynthiastad, KS 91467, China",
+    "agent_name": "Wallace Global Pte Ltd",
+    "airport_departure": "FRA",
+    "airport_destination": "CDG",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "SGD 18,926.47",
+    "declared_value_customs": "CAD 40,232.67",
+    "n_pieces": 35,
+    "gross_weight_kg": 361.6,
+    "chargeable_weight": 374.7,
+    "rate": 6.73,
+    "total_charge": 2521.73,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-01-05",
+    "signatory": "Ryan Perry",
+    "iata_code": "71-010",
+    "agent_cass": "5324-5436",
+    "consolidation_ref": "CONS-2516-092862",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-19339800",
+        "pieces": 18,
+        "weight": 14.9,
+        "destination": "NRT",
+        "consignee": "Commerce Fields Co.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "085-35545219",
+        "pieces": 12,
+        "weight": 22.7,
+        "destination": "CDG",
+        "consignee": "Tech Mcdonald Pte Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "160-31137054",
+        "pieces": 12,
+        "weight": 23.7,
+        "destination": "ICN",
+        "consignee": "Global Jones Inc.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "618-44867396",
+        "pieces": 14,
+        "weight": 53.7,
+        "destination": "SIN",
+        "consignee": "Pacific Moore B.V.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "006-52697076",
+        "pieces": 1,
+        "weight": 73.6,
+        "destination": "LHR",
+        "consignee": "Scott Trade Pte Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "057-63653556",
+        "pieces": 13,
+        "weight": 65.2,
+        "destination": "ORD",
+        "consignee": "Wagner Industry Pte Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "618-47706149",
+        "pieces": 19,
+        "weight": 39.5,
+        "destination": "SYD",
+        "consignee": "Hicks Tech S.A.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "057-31954828",
+        "pieces": 18,
+        "weight": 30.8,
+        "destination": "ICN",
+        "consignee": "Global Villanueva Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      }
+    ]
+  }
+}

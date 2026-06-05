@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0931",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "004-81640878-4",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2025-05-18",
+    "port_of_entry": "ORD - Chicago",
+    "transport_mode": "Truck",
+    "carrier": "UPS",
+    "bl_awb": "057-59127933",
+    "importer_name": "Thomas Commerce AG",
+    "importer_ein": "90-9647447",
+    "consignee_name": "International Yu Co.",
+    "customs_broker": "Olsen Pacific B.V.",
+    "broker_filer_code": "WGq",
+    "country_of_origin": "Thailand",
+    "total_value": 182692.05,
+    "total_duty": 18784.07,
+    "currency": "USD",
+    "signatory": "Theresa Buckley",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Thailand",
+        "qty": 167,
+        "unit": "PCS",
+        "entered_value": 69747.55,
+        "duty_rate": 12.0,
+        "duty_amount": 8369.71,
+        "eccn": "0A919",
+        "schedule_b": "8518.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "France",
+        "qty": 23,
+        "unit": "PCS",
+        "entered_value": 1303.64,
+        "duty_rate": 19.4,
+        "duty_amount": 252.91,
+        "eccn": "EAR99",
+        "schedule_b": "9002.11.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Japan",
+        "qty": 88,
+        "unit": "BOX",
+        "entered_value": 14509.44,
+        "duty_rate": 0.1,
+        "duty_amount": 14.51,
+        "eccn": "5E992",
+        "schedule_b": "2936.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Thailand",
+        "qty": 162,
+        "unit": "CTN",
+        "entered_value": 50840.46,
+        "duty_rate": 17.5,
+        "duty_amount": 8897.08,
+        "eccn": "5E992",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "United States",
+        "qty": 232,
+        "unit": "KGS",
+        "entered_value": 46290.96,
+        "duty_rate": 2.7,
+        "duty_amount": 1249.86,
+        "eccn": "EAR99",
+        "schedule_b": "2008.19.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

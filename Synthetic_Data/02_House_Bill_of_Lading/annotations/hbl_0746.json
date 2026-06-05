@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0746",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU431343300",
+    "shipper_name": "Simon Industry S.A.",
+    "shipper_address": "88550 Sarah Plain Suite 709, Brownhaven, MO 07120, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Jones International AG",
+    "consignee_address": "PSC 2151, Box 2708, APO AP 05410, Italy",
+    "consignee_country": "Italy",
+    "notify_party_name": "Daniels Global B.V.",
+    "notify_party_address": "5599 Bailey Isle, North Stephanie, DE 69235, Thailand",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "923E",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2026-03-11",
+    "issue_place": "Long Beach",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "BWUK2074618",
+        "seal_no": "CL372140",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "SXGK7412097",
+        "seal_no": "BL122918",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "PCCH6919285",
+        "seal_no": "SL213918",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "KUCK2259657",
+        "seal_no": "SL123899",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "number_of_packages": 173,
+    "package_type": "Bundle",
+    "gross_weight_kg": 9630.9,
+    "net_weight_kg": 8895.9,
+    "cbm": 19.654,
+    "marks_and_numbers": "ABC/50"
+  }
+}

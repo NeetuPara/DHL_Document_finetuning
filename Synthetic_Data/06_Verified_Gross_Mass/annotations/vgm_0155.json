@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0155",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "International Howell Ltd",
+    "shipper_address": "418 Michael Divide, Valerieshire, DC 83048, Singapore",
+    "shipper_country": "Singapore",
+    "container_number": "SYFS2629607",
+    "seal_number": "SL131247",
+    "container_size": "20'GP",
+    "iso_type_code": "22G0",
+    "tare_weight_kg": 2200,
+    "cargo_weight_kg": 10123.9,
+    "packing_materials_kg": 404.1,
+    "vgm_kg": 12728.0,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "931S",
+    "bl_number": "YMLU359614941",
+    "booking_reference": "BKG-276710",
+    "weighing_scale_type": "Certified Electronic Scale",
+    "scale_serial": "Unit-64946",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-25",
+    "signature_date": "2026-05-13",
+    "signatory_name": "Michelle Hughes",
+    "signatory_title": "VGM Officer",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Drum",
+        "n_units": 4,
+        "gross_wt_kg": 1877.3
+      },
+      {
+        "item_no": 2,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Pallet",
+        "n_units": 7,
+        "gross_wt_kg": 2031.3
+      },
+      {
+        "item_no": 3,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Pallet",
+        "n_units": 2,
+        "gross_wt_kg": 1368.2
+      },
+      {
+        "item_no": 4,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Bag",
+        "n_units": 20,
+        "gross_wt_kg": 1065.2
+      },
+      {
+        "item_no": 5,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Cylinder",
+        "n_units": 1,
+        "gross_wt_kg": 3781.9
+      }
+    ]
+  }
+}

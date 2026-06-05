@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0217",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU360435626",
+    "shipper_name": "Smith Trade AG",
+    "shipper_address": "8816 Tyler Motorway, East Crystalport, AR 95964, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "International Grant Co.",
+    "consignee_address": "582 Escobar Port, Bakerbury, NE 79357, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party_name": "Dunn International LLC",
+    "notify_party_address": "641 Morgan Vista Apt. 100, Hernandezhaven, TX 51120, Canada",
+    "vessel": "CSCL GLOBE",
+    "voyage": "961E",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2025-01-11",
+    "issue_place": "Felixstowe",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "GUBA9714251",
+        "seal_no": "SL814185",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "PNPV8278474",
+        "seal_no": "SL485391",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "VPAF4354117",
+        "seal_no": "CL375076",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "OWHB9833456",
+        "seal_no": "CL106482",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "number_of_packages": 141,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 8116.4,
+    "net_weight_kg": 7281.2,
+    "cbm": 5.654,
+    "marks_and_numbers": "GLB/6"
+  }
+}

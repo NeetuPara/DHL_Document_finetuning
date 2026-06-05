@@ -1,0 +1,103 @@
+{
+  "document_id": "eei_0614",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240714500434",
+    "export_date": "2025-07-09",
+    "aes_option": "AES Filing",
+    "usppi_name": "Global Gray GmbH",
+    "usppi_ein": "98-6115532",
+    "usppi_address": "388 Williams Inlet, Emilybury, NM 56575, Germany",
+    "ultimate_consignee": "Commerce Gray Co.",
+    "intermediate_consignee": "Martinez Commerce GmbH",
+    "forwarding_agent": "Martinez International GmbH",
+    "destination_country": "Hong Kong",
+    "carrier": "UPS",
+    "bl_awb": "020-66230852",
+    "total_value": 223501.62,
+    "currency": "JPY",
+    "signatory": "Michelle Lopez",
+    "line_items": [
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Japan",
+        "qty": 154,
+        "unit": "LTR",
+        "entered_value": 26631.22,
+        "duty_rate": 3.9,
+        "duty_amount": 1038.62,
+        "eccn": "EAR99",
+        "schedule_b": "2901.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Australia",
+        "qty": 65,
+        "unit": "BOX",
+        "entered_value": 18526.3,
+        "duty_rate": 14.7,
+        "duty_amount": 2723.37,
+        "eccn": "3A992",
+        "schedule_b": "2936.90.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Singapore",
+        "qty": 39,
+        "unit": "KGS",
+        "entered_value": 5268.12,
+        "duty_rate": 16.2,
+        "duty_amount": 853.44,
+        "eccn": "2B350",
+        "schedule_b": "2008.19.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "United States",
+        "qty": 362,
+        "unit": "PCS",
+        "entered_value": 144253.38,
+        "duty_rate": 13.7,
+        "duty_amount": 19762.71,
+        "eccn": "2B350",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "China",
+        "qty": 186,
+        "unit": "SET",
+        "entered_value": 9368.82,
+        "duty_rate": 7.8,
+        "duty_amount": 730.77,
+        "eccn": "EAR99",
+        "schedule_b": "8708.30.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "United Kingdom",
+        "qty": 493,
+        "unit": "KGS",
+        "entered_value": 19453.78,
+        "duty_rate": 10.7,
+        "duty_amount": 2081.55,
+        "eccn": "9A515",
+        "schedule_b": "2008.19.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

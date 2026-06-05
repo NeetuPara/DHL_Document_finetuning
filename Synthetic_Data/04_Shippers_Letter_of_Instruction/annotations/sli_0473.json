@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0473",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202302-8940",
+    "usppi_name": "Harding Tech B.V.",
+    "usppi_address": "34796 Nguyen Village, Port Rickyfort, RI 49802, Germany",
+    "usppi_country": "Germany",
+    "ein": "26-7729386",
+    "consignee_name": "Industry Price GmbH",
+    "consignee_address": "25304 Sanchez Knoll, Hortonview, VI 95304, France",
+    "consignee_country": "France",
+    "notify_party": "Industry Snyder S.A.",
+    "forwarder": "DB Schenker",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Jody Martin",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/49",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 18,
+        "unit": "PCS",
+        "weight_kg": 13.17,
+        "value_usd": 10929.38
+      },
+      {
+        "marks": "SLI/11",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 180,
+        "unit": "CTN",
+        "weight_kg": 343.75,
+        "value_usd": 993.2
+      },
+      {
+        "marks": "ABC/43",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 42,
+        "unit": "PCS",
+        "weight_kg": 413.0,
+        "value_usd": 4921.11
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 187,
+        "unit": "PCS",
+        "weight_kg": 73.04,
+        "value_usd": 13740.57
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 139,
+        "unit": "BOX",
+        "weight_kg": 72.49,
+        "value_usd": 12853.29
+      },
+      {
+        "marks": "SLI/46",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 8,
+        "unit": "PCS",
+        "weight_kg": 23.21,
+        "value_usd": 4584.18
+      },
+      {
+        "marks": "EXP/40",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 121,
+        "unit": "PKG",
+        "weight_kg": 270.23,
+        "value_usd": 3983.21
+      },
+      {
+        "marks": "ABC/43",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 109,
+        "unit": "LTR",
+        "weight_kg": 100.81,
+        "value_usd": 2514.79
+      }
+    ],
+    "total_weight_kg": 1309.7,
+    "total_value_usd": 54519.73,
+    "service": "LCL Ocean",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 11271.11,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-964248",
+    "destination_country": "France"
+  }
+}

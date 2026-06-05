@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0679",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Bradley Moore",
+    "addressee_company": "Henry Global Corp.",
+    "addressee_address": "8661 Erin Mill Apt. 984, West Tiffany, VT 89640, Brazil",
+    "addressee_country": "Brazil",
+    "total_weight_kg": 11.053,
+    "total_value": 7464.33,
+    "currency": "CAD",
+    "issue_date": "2026-01-17",
+    "reference": "REF-083057",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.248,
+        "value": 917.77,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 9,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 1.925,
+        "value": 529.47,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 7,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.026,
+        "value": 808.71,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 20,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 0.151,
+        "value": 2810.2,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 7,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.325,
+        "value": 404.25,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 17,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.378,
+        "value": 1993.93,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_name": "Tara King",
+    "sender_company": "Oliver Global B.V.",
+    "sender_address": "360 Williams Loaf, Stanleyton, OR 01930, Australia",
+    "sender_phone": "296-375-3796",
+    "sender_email": "frankfitzgerald@example.com",
+    "addressee_phone": "585-834-8314",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 8210.76,
+    "postal_charges": 11.78,
+    "tracking_number": "IT682228809SB"
+  }
+}

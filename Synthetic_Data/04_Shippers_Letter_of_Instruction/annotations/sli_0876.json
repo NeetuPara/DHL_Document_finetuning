@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0876",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202110-8661",
+    "usppi_name": "Pacific Chandler AG",
+    "usppi_address": "5011 Lee Ford, South Kendra, NC 19059, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "34-1229509",
+    "consignee_name": "Nichols Commerce Pte Ltd",
+    "consignee_address": "754 Jose Trail, Carrieberg, AS 10362, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "International Schneider Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Todd Norton",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/14",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 106,
+        "unit": "SET",
+        "weight_kg": 354.22,
+        "value_usd": 9308.63
+      },
+      {
+        "marks": "ABC/46",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 53,
+        "unit": "PCS",
+        "weight_kg": 7.26,
+        "value_usd": 7013.44
+      }
+    ],
+    "total_weight_kg": 361.48,
+    "total_value_usd": 16322.07,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "685N",
+    "booking_ref": "BKG-520607",
+    "bl_number": "DHLG780551997",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Los Angeles, US",
+    "container_number": "RDPS7868885",
+    "seal_number": "BL473339",
+    "container_type": "20'GP",
+    "cbm": 11.778
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0784",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202211-7797",
+    "usppi_name": "Trade Bradley GmbH",
+    "usppi_address": "1614 Hall Neck Suite 210, New Bryan, OK 02640, China",
+    "usppi_country": "China",
+    "ein": "25-4161608",
+    "consignee_name": "Pope Pacific AG",
+    "consignee_address": "7172 Huerta Walks, South Angela, WA 40904, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Hayden Trade Inc.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Tracy Johnston",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/18",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 117,
+        "unit": "KGS",
+        "weight_kg": 117.0,
+        "value_usd": 277.97
+      },
+      {
+        "marks": "ABC/13",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 110,
+        "unit": "CTN",
+        "weight_kg": 148.61,
+        "value_usd": 1913.43
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 58,
+        "unit": "CTN",
+        "weight_kg": 46.84,
+        "value_usd": 522.5
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 128,
+        "unit": "BOX",
+        "weight_kg": 234.85,
+        "value_usd": 6718.96
+      }
+    ],
+    "total_weight_kg": 547.3,
+    "total_value_usd": 9432.86,
+    "service": "Ground",
+    "named_port": "Paris CDG",
+    "insurance_value_usd": 35176.81,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-632488",
+    "destination_country": "United Kingdom"
+  }
+}

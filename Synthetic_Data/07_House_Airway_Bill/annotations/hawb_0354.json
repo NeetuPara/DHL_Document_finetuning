@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0354",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-65133073",
+    "mawb_number": "085-57259583",
+    "shipper_name": "Pacific Smith AG",
+    "shipper_address": "68982 David Square, Anthonyfort, OH 09927, France",
+    "consignee_name": "Global Brown GmbH",
+    "consignee_address": "366 Jessica Stravenue, North Heatherland, PA 86674, Sweden",
+    "agent_name": "Murphy Trade LLC",
+    "airport_departure": "MIA",
+    "airport_destination": "YYZ",
+    "currency": "JPY",
+    "charge_code": "PP",
+    "declared_value_carriage": "USD 49,070.85",
+    "declared_value_customs": "EUR 49,263.60",
+    "n_pieces": 5,
+    "gross_weight_kg": 348.5,
+    "chargeable_weight": 429.4,
+    "rate": 7.65,
+    "total_charge": 3284.91,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-06-06",
+    "signatory": "Mr. Travis Melton",
+    "iata_code": "49-003",
+    "agent_cass": "6352-3615",
+    "consolidation_ref": "CONS-5767-185863",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-38667500",
+        "pieces": 3,
+        "weight": 12.4,
+        "destination": "YYZ",
+        "consignee": "Reynolds Global Pte Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "085-90360965",
+        "pieces": 15,
+        "weight": 66.1,
+        "destination": "SIN",
+        "consignee": "Castro Global Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "125-46326087",
+        "pieces": 20,
+        "weight": 33.1,
+        "destination": "ICN",
+        "consignee": "Commerce Johnson S.A.",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

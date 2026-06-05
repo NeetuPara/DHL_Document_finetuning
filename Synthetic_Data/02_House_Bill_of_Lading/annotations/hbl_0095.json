@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0095",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG340279011",
+    "shipper_name": "Pacific Carter LLC",
+    "shipper_address": "2696 Ross Plaza, Lake Anthony, IN 15240, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Martinez Industry S.A.",
+    "consignee_address": "17944 Michael Rapids, Margaretbury, MO 26173, India",
+    "consignee_country": "India",
+    "notify_party_name": "International Zuniga Pte Ltd",
+    "notify_party_address": "8911 Cynthia Rue, Ericmouth, FL 90195, China",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "340S",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2025-11-11",
+    "issue_place": "Tokyo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "KYSM3295472",
+        "seal_no": "BL909745",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "CAPB0307945",
+        "seal_no": "BL558013",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "FCBS3980422",
+        "seal_no": "BL395385",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "ZXGD1984132",
+        "seal_no": "SL611921",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 77,
+    "package_type": "Case",
+    "gross_weight_kg": 20028.4,
+    "net_weight_kg": 18211.4,
+    "cbm": 2.529,
+    "marks_and_numbers": "XYZ/44"
+  }
+}

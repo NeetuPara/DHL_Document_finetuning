@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0824",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Arnold B.V.",
+    "shipper_address": "PSC 1576, Box 1791, APO AA 50107, India",
+    "shipper_country": "India",
+    "consignee_name": "Gibson Trade B.V.",
+    "consignee_address": "7416 Ramos Mills Apt. 548, Lake Ashleyview, PA 13589, Thailand",
+    "consignee_country": "Thailand",
+    "emergency_telephone": "+41 102-536-8076",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 47,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 61.73,
+        "qty_unit": "mL",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 34,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 53.41,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-197749",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Amber Cochran",
+    "signature_date": "2026-04-23",
+    "signature_place": "India",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "113S",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Shanghai, CN"
+  }
+}

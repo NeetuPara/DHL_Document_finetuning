@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0501",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202304-5047",
+    "exporter_name": "Trade Finley Pte Ltd",
+    "exporter_address": "5635 James Skyway, East Ryanshire, OR 63130, Belgium",
+    "exporter_country": "Belgium",
+    "consignee_name": "Industry Ford GmbH",
+    "consignee_address": "586 Gibson Harbors Suite 449, West Ryanmouth, OR 28585, Australia",
+    "consignee_country": "Australia",
+    "country_of_origin": "Belgium",
+    "country_of_destination": "Australia",
+    "bl_or_awb": "OOLU179242500",
+    "issue_date": "2024-07-26",
+    "certifier_name": "Brian Jordan",
+    "goods": [
+      {
+        "description": "Plastic Products - Injection Moulded Components",
+        "hs_code": "3926.90.00",
+        "qty": 53,
+        "unit": "PCS",
+        "weight_kg": 22.97,
+        "origin_criterion": "B",
+        "value": 636.74
+      },
+      {
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "hs_code": "4016.93.00",
+        "qty": 221,
+        "unit": "PKG",
+        "weight_kg": 583.01,
+        "origin_criterion": "D",
+        "value": 13815.7
+      },
+      {
+        "description": "Chemical Compounds - Industrial Solvents",
+        "hs_code": "2901.10.00",
+        "qty": 485,
+        "unit": "LTR",
+        "weight_kg": 532.01,
+        "origin_criterion": "B",
+        "value": 11959.11
+      }
+    ],
+    "fta_agreement": "CPTPP",
+    "chamber": "Trade Association"
+  }
+}

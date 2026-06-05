@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0682",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kyle Roberts",
+    "addressee_company": "Pacific Friedman Corp.",
+    "addressee_address": "045 Clark Avenue, Lake Tristan, SD 34377, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 23.336,
+    "total_value": 5174.5,
+    "currency": "USD",
+    "issue_date": "2025-06-28",
+    "reference": "REF-520966",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.26,
+        "value": 72.76,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 19,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.619,
+        "value": 2094.75,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 4,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.302,
+        "value": 590.08,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 9,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.92,
+        "value": 40.59,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 19,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.822,
+        "value": 2219.96,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 12,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.413,
+        "value": 156.36,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_name": "Elaine Young",
+    "sender_company": "Ross Tech S.A.",
+    "sender_address": "0293 Welch Coves, Port Paulland, VT 48463, Brazil",
+    "sender_phone": "850-521-5345x2726",
+    "sender_email": "james58@example.org",
+    "addressee_phone": "001-568-471-0481x562",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 74.18,
+    "tracking_number": "DG846993818SQ"
+  }
+}

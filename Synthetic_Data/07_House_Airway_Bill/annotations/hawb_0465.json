@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0465",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-35987524",
+    "mawb_number": "057-72933585",
+    "shipper_name": "Ramirez Tech Inc.",
+    "shipper_address": "0375 Tim Parks, Coreymouth, NY 01558, United Arab Emirates",
+    "consignee_name": "Reed Tech Corp.",
+    "consignee_address": "14545 Michelle Village, South Ashley, AL 14991, Japan",
+    "agent_name": "Pacific Jackson B.V.",
+    "airport_departure": "HKG",
+    "airport_destination": "ICN",
+    "currency": "CNY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 49,
+    "gross_weight_kg": 209.4,
+    "chargeable_weight": 236.9,
+    "rate": 10.07,
+    "total_charge": 2385.58,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "HANDLING CODE: HEA",
+    "issue_date": "2025-05-16",
+    "signatory": "Kara Jenkins",
+    "iata_code": "06-279",
+    "agent_cass": "6817-4394",
+    "consolidation_ref": "CONS-1362-545582",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-25006572",
+        "pieces": 5,
+        "weight": 36.3,
+        "destination": "AMS",
+        "consignee": "Commerce Sexton Corp.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "125-44938720",
+        "pieces": 17,
+        "weight": 89.2,
+        "destination": "MIA",
+        "consignee": "Hansen International Corp.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "125-51184398",
+        "pieces": 10,
+        "weight": 39.9,
+        "destination": "NRT",
+        "consignee": "Fuller Pacific Inc.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "618-96971885",
+        "pieces": 1,
+        "weight": 79.0,
+        "destination": "CDG",
+        "consignee": "Walker Pacific S.A.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "176-45703242",
+        "pieces": 2,
+        "weight": 56.1,
+        "destination": "JFK",
+        "consignee": "Tran Pacific B.V.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "160-13908180",
+        "pieces": 2,
+        "weight": 72.6,
+        "destination": "AMS",
+        "consignee": "Shea Pacific S.A.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "020-99427203",
+        "pieces": 1,
+        "weight": 75.6,
+        "destination": "ORD",
+        "consignee": "Pacific Grant Inc.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "176-52163587",
+        "pieces": 4,
+        "weight": 81.9,
+        "destination": "SIN",
+        "consignee": "Hamilton Commerce Corp.",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

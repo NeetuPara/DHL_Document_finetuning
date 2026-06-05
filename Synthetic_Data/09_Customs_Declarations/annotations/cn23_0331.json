@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0331",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Tiffany Bowers",
+    "addressee_company": "Trade Rodgers Pte Ltd",
+    "addressee_address": "05064 Jordan Centers, West Jesse, IA 75376, China",
+    "addressee_country": "China",
+    "total_weight_kg": 10.024,
+    "total_value": 2004.44,
+    "currency": "CHF",
+    "issue_date": "2026-05-06",
+    "reference": "REF-562536",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.722,
+        "value": 708.1,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 7,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.651,
+        "value": 640.22,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 5,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.224,
+        "value": 58.6,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 11,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.427,
+        "value": 597.52,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Theresa Bennett",
+    "sender_company": "Tech Sampson Corp.",
+    "sender_address": "49290 Smith Cliffs, Kaylaborough, WY 84774, Canada",
+    "sender_phone": "001-303-412-1909x329",
+    "sender_email": "heidi37@example.org",
+    "addressee_phone": "261-373-7172x156",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 78.28,
+    "tracking_number": "JU064887436UC"
+  }
+}

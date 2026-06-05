@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0418",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202403-8968",
+    "usppi_name": "Reyes Commerce LLC",
+    "usppi_address": "309 Campbell Court Suite 301, Lake Michael, PW 59308, United States",
+    "usppi_country": "United States",
+    "ein": "52-1769261",
+    "consignee_name": "Garcia Industry Corp.",
+    "consignee_address": "7671 Smith Canyon Apt. 584, Thomasview, MI 49724, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Tech Mason AG",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Michelle Petty",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/49",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 103,
+        "unit": "PCS",
+        "weight_kg": 112.22,
+        "value_usd": 14382.18
+      },
+      {
+        "marks": "EXP/3",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 68,
+        "unit": "KGS",
+        "weight_kg": 68.0,
+        "value_usd": 136.1
+      },
+      {
+        "marks": "EXP/4",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 189,
+        "unit": "LTR",
+        "weight_kg": 189.28,
+        "value_usd": 4400.53
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 25,
+        "unit": "PCS",
+        "weight_kg": 36.77,
+        "value_usd": 676.22
+      }
+    ],
+    "total_weight_kg": 406.27,
+    "total_value_usd": 19595.03,
+    "service": "Express Courier",
+    "named_port": "Shanghai Pudong",
+    "insurance_value_usd": 20003.35,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-692342",
+    "destination_country": "Belgium"
+  }
+}

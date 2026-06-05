@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0120",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-18097410",
+    "mawb_number": "125-40446874",
+    "shipper_name": "Global Benson S.A.",
+    "shipper_address": "Unit 5691 Box 5644, DPO AP 79468, South Korea",
+    "consignee_name": "Industry Harris Pte Ltd",
+    "consignee_address": "07733 Natalie Turnpike, North Matthew, WI 12422, United Arab Emirates",
+    "agent_name": "Tech Sharp Co.",
+    "airport_departure": "YYZ",
+    "airport_destination": "ORD",
+    "currency": "JPY",
+    "charge_code": "PP",
+    "declared_value_carriage": "AED 37,896.33",
+    "declared_value_customs": "CHF 32,578.01",
+    "n_pieces": 20,
+    "gross_weight_kg": 220.7,
+    "chargeable_weight": 224.5,
+    "rate": 2.42,
+    "total_charge": 543.29,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "HANDLING CODE: VAL",
+    "issue_date": "2026-03-02",
+    "signatory": "Andrew Hudson",
+    "iata_code": "23-606",
+    "agent_cass": "5569-6078",
+    "consolidation_ref": "CONS-0268-120182",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-42306389",
+        "pieces": 1,
+        "weight": 17.6,
+        "destination": "LAX",
+        "consignee": "Pacific Stewart Co.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "057-39254526",
+        "pieces": 6,
+        "weight": 99.6,
+        "destination": "JFK",
+        "consignee": "Russell Industry LLC",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "085-88292769",
+        "pieces": 5,
+        "weight": 93.8,
+        "destination": "DXB",
+        "consignee": "International Harris S.A.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "618-66756185",
+        "pieces": 16,
+        "weight": 75.3,
+        "destination": "SYD",
+        "consignee": "International Hill Inc.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "074-96872834",
+        "pieces": 1,
+        "weight": 55.0,
+        "destination": "AMS",
+        "consignee": "Industry Ray B.V.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "045-74151667",
+        "pieces": 13,
+        "weight": 20.7,
+        "destination": "ORD",
+        "consignee": "Global Armstrong Ltd",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "160-45161209",
+        "pieces": 9,
+        "weight": 24.3,
+        "destination": "AMS",
+        "consignee": "Hall International LLC",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

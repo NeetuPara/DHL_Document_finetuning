@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0887",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Wilson Inc.",
+    "shipper_address": "6936 Howard Roads Suite 386, Riceberg, MO 83745, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Cook Pacific B.V.",
+    "consignee_address": "669 Tiffany Village, East Scottfurt, PA 69796, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+77 223-777-8300",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 37,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 80.3,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Christine Bell",
+    "signature_date": "2026-04-29",
+    "signature_place": "Hong Kong",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "689S",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Tanjung Pelepas, MY"
+  }
+}

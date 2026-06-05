@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0892",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU690292564",
+    "shipper_name": "Richardson Commerce S.A.",
+    "shipper_address": "USCGC Guerra, FPO AP 18783, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Trade Stewart Ltd",
+    "consignee_address": "74004 Dawn Mount, South Marktown, GU 52964, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party_name": "International Perry GmbH",
+    "notify_party_address": "121 Crystal Trail, North Scottstad, NJ 87058, South Korea",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "420N",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Tanjung Pelepas, MY",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2025-06-24",
+    "issue_place": "Los Angeles",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "QCPW4846347",
+        "seal_no": "BL614918",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "OCME0874146",
+        "seal_no": "SL785172",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "RNDE0138355",
+        "seal_no": "CL154294",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 268,
+    "package_type": "Carton",
+    "gross_weight_kg": 11720.9,
+    "net_weight_kg": 10497.8,
+    "cbm": 10.27,
+    "marks_and_numbers": "GLB/17"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0905",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202508-4497",
+    "usppi_name": "International Martin Co.",
+    "usppi_address": "161 Jesse Trail, Jonesstad, CT 57677, France",
+    "usppi_country": "France",
+    "ein": "55-9407750",
+    "consignee_name": "Hunter Pacific Ltd",
+    "consignee_address": "48801 Stephen Crossroad, East Teresafurt, ID 89311, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Chapman International Corp.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Samantha Smith",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/42",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 117,
+        "unit": "PCS",
+        "weight_kg": 40.01,
+        "value_usd": 19313.7
+      },
+      {
+        "marks": "EXP/23",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 121,
+        "unit": "KGS",
+        "weight_kg": 121.0,
+        "value_usd": 141.25
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 142,
+        "unit": "LTR",
+        "weight_kg": 141.36,
+        "value_usd": 436.69
+      },
+      {
+        "marks": "SLI/49",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 178,
+        "unit": "PKG",
+        "weight_kg": 172.79,
+        "value_usd": 13672.56
+      },
+      {
+        "marks": "ABC/28",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 162,
+        "unit": "PCS",
+        "weight_kg": 1899.34,
+        "value_usd": 89414.5
+      },
+      {
+        "marks": "ABC/20",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 183,
+        "unit": "MTR",
+        "weight_kg": 86.63,
+        "value_usd": 3126.29
+      },
+      {
+        "marks": "SLI/20",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 136,
+        "unit": "PCS",
+        "weight_kg": 2345.67,
+        "value_usd": 56246.07
+      }
+    ],
+    "total_weight_kg": 4806.8,
+    "total_value_usd": 182351.06,
+    "service": "Express Courier",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 47356.43,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-728121",
+    "destination_country": "Japan"
+  }
+}

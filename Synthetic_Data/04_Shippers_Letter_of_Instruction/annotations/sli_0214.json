@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0214",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202405-9305",
+    "usppi_name": "Jennings International GmbH",
+    "usppi_address": "26719 Smith Avenue Suite 586, Clarkton, KS 47751, Spain",
+    "usppi_country": "Spain",
+    "ein": "27-1203976",
+    "consignee_name": "Tech Noble Pte Ltd",
+    "consignee_address": "625 Weeks Forges Apt. 067, Mccannhaven, NM 52479, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Pacific Nguyen Pte Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Theodore Jefferson",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/44",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 112,
+        "unit": "LTR",
+        "weight_kg": 104.23,
+        "value_usd": 4149.37
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 128,
+        "unit": "PCS",
+        "weight_kg": 20.17,
+        "value_usd": 26738.5
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 87,
+        "unit": "PCS",
+        "weight_kg": 9.61,
+        "value_usd": 4439.5
+      },
+      {
+        "marks": "ABC/15",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 186,
+        "unit": "PCS",
+        "weight_kg": 76.05,
+        "value_usd": 236656.95
+      },
+      {
+        "marks": "EXP/49",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 194,
+        "unit": "PKG",
+        "weight_kg": 417.11,
+        "value_usd": 2122.94
+      },
+      {
+        "marks": "SLI/38",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 108,
+        "unit": "KGS",
+        "weight_kg": 108.0,
+        "value_usd": 133.64
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 147,
+        "unit": "CTN",
+        "weight_kg": 92.29,
+        "value_usd": 1261.3
+      }
+    ],
+    "total_weight_kg": 827.46,
+    "total_value_usd": 275502.2,
+    "service": "Express Courier",
+    "named_port": "Amsterdam Schiphol",
+    "insurance_value_usd": 31286.54,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Germany"
+  }
+}

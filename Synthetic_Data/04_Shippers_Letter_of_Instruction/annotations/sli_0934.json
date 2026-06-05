@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0934",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202602-7644",
+    "usppi_name": "Trade Landry S.A.",
+    "usppi_address": "4161 Montgomery Drives, Martinstad, HI 43246, France",
+    "usppi_country": "France",
+    "ein": "89-1681452",
+    "consignee_name": "Pacific Clark Co.",
+    "consignee_address": "733 Smith Square Suite 044, West Elizabeth, MN 76289, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Bush International Inc.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Robin King",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/48",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 103,
+        "unit": "SET",
+        "weight_kg": 232.83,
+        "value_usd": 6431.04
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 131,
+        "unit": "CTN",
+        "weight_kg": 284.48,
+        "value_usd": 829.99
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 180,
+        "unit": "BOX",
+        "weight_kg": 253.38,
+        "value_usd": 9876.73
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 90,
+        "unit": "KGS",
+        "weight_kg": 90.0,
+        "value_usd": 1613.09
+      },
+      {
+        "marks": "SLI/2",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 188,
+        "unit": "PCS",
+        "weight_kg": 1674.85,
+        "value_usd": 118914.75
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 43,
+        "unit": "PKG",
+        "weight_kg": 125.79,
+        "value_usd": 2852.58
+      },
+      {
+        "marks": "EXP/15",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 198,
+        "unit": "PCS",
+        "weight_kg": 81.63,
+        "value_usd": 24160.31
+      }
+    ],
+    "total_weight_kg": 2742.96,
+    "total_value_usd": 164678.49,
+    "service": "Express Courier",
+    "named_port": "Shanghai Pudong",
+    "insurance_value_usd": 23861.14,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Sweden"
+  }
+}

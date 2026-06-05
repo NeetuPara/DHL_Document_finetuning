@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0417",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202603-7072",
+    "usppi_name": "Quinn Tech Inc.",
+    "usppi_address": "39471 Bobby Branch Suite 665, East Taylorville, TX 40748, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "83-6241640",
+    "consignee_name": "Commerce Robinson S.A.",
+    "consignee_address": "34950 Edwards Expressway Suite 576, Matthewchester, IA 02479, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Carter Tech AG",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Hannah Lozano",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/1",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 61,
+        "unit": "PCS",
+        "weight_kg": 21.17,
+        "value_usd": 1639.63
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 75,
+        "unit": "BOX",
+        "weight_kg": 79.88,
+        "value_usd": 6145.13
+      },
+      {
+        "marks": "SLI/19",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 132,
+        "unit": "PCS",
+        "weight_kg": 1232.2,
+        "value_usd": 40486.92
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 13,
+        "unit": "CTN",
+        "weight_kg": 22.31,
+        "value_usd": 125.83
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 29,
+        "unit": "PCS",
+        "weight_kg": 210.95,
+        "value_usd": 18836.62
+      },
+      {
+        "marks": "SLI/11",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 127,
+        "unit": "PKG",
+        "weight_kg": 198.5,
+        "value_usd": 10541.78
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 7,
+        "unit": "KGS",
+        "weight_kg": 7.0,
+        "value_usd": 86.55
+      }
+    ],
+    "total_weight_kg": 1772.01,
+    "total_value_usd": 77862.46,
+    "vessel": "MSC OSCAR",
+    "voyage": "372N",
+    "booking_ref": "BKG-935034",
+    "bl_number": "COSU407353116",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Hong Kong, HK",
+    "container_number": "BEFM7557028",
+    "seal_number": "SL824320",
+    "container_type": "40'GP",
+    "cbm": 12.446
+  }
+}

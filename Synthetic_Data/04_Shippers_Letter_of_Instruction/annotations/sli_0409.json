@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0409",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202005-9480",
+    "usppi_name": "Hubbard Tech Ltd",
+    "usppi_address": "609 Lisa Oval, East Christopher, TN 53189, India",
+    "usppi_country": "India",
+    "ein": "51-5320986",
+    "consignee_name": "Sanchez Trade S.A.",
+    "consignee_address": "4236 Brian Extensions Suite 537, North Royton, OK 19169, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Industry Jackson LLC",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Sarah Lee",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/3",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 88,
+        "unit": "KGS",
+        "weight_kg": 88.0,
+        "value_usd": 1500.96
+      },
+      {
+        "marks": "ABC/6",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 103,
+        "unit": "BOX",
+        "weight_kg": 78.79,
+        "value_usd": 11630.06
+      },
+      {
+        "marks": "SLI/28",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 166,
+        "unit": "CTN",
+        "weight_kg": 677.63,
+        "value_usd": 3259.41
+      },
+      {
+        "marks": "SLI/29",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 106,
+        "unit": "MTR",
+        "weight_kg": 86.45,
+        "value_usd": 971.04
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 183,
+        "unit": "SET",
+        "weight_kg": 518.42,
+        "value_usd": 11979.12
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 119,
+        "unit": "CTN",
+        "weight_kg": 289.35,
+        "value_usd": 1481.46
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 140,
+        "unit": "PCS",
+        "weight_kg": 71.83,
+        "value_usd": 3810.83
+      },
+      {
+        "marks": "SLI/6",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 147,
+        "unit": "KGS",
+        "weight_kg": 147.0,
+        "value_usd": 219.26
+      }
+    ],
+    "total_weight_kg": 1957.47,
+    "total_value_usd": 34852.14,
+    "service": "Air Freight",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 3546.41,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Japan"
+  }
+}

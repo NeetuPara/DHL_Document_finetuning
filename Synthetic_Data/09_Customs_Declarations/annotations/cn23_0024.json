@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0024",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Sarah Lane",
+    "addressee_company": "Global Foster GmbH",
+    "addressee_address": "737 Aaron Mews, Peterfurt, TX 37747, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 7.74,
+    "total_value": 839.49,
+    "currency": "GBP",
+    "issue_date": "2025-11-06",
+    "reference": "REF-633437",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.531,
+        "value": 107.61,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 18,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.209,
+        "value": 731.88,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Italy"
+      }
+    ],
+    "sender_country": "Sweden",
+    "port_of_entry": "Los Angeles, CA",
+    "entry_number": "340-01505011-0",
+    "entry_type": "Formal Entry",
+    "duty_rate": 3.7,
+    "estimated_duty": 31.06,
+    "importer_ein": "07-3269927",
+    "customs_broker": "Carroll Commerce S.A."
+  }
+}

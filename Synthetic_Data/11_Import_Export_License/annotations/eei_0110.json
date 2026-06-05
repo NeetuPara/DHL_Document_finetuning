@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0110",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240825377690",
+    "export_date": "2025-12-17",
+    "aes_option": "AES Filing",
+    "usppi_name": "Clements International Inc.",
+    "usppi_ein": "12-9050392",
+    "usppi_address": "520 Smith Cliff Apt. 362, East Peggy, ME 09009, Italy",
+    "ultimate_consignee": "Pacific Gilbert GmbH",
+    "intermediate_consignee": "Weber International Corp.",
+    "forwarding_agent": "Pacific Smith Ltd",
+    "destination_country": "Malaysia",
+    "carrier": "DHL Express",
+    "bl_awb": "160-96112170",
+    "total_value": 224397.6,
+    "currency": "AED",
+    "signatory": "David Thomas",
+    "line_items": [
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Germany",
+        "qty": 304,
+        "unit": "BOX",
+        "entered_value": 76063.84,
+        "duty_rate": 14.2,
+        "duty_amount": 10801.07,
+        "eccn": "EAR99",
+        "schedule_b": "2936.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Poland",
+        "qty": 17,
+        "unit": "PCS",
+        "entered_value": 386.92,
+        "duty_rate": 24.1,
+        "duty_amount": 93.25,
+        "eccn": "5E992",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Singapore",
+        "qty": 316,
+        "unit": "PKG",
+        "entered_value": 81221.48,
+        "duty_rate": 22.0,
+        "duty_amount": 17868.73,
+        "eccn": "0A919",
+        "schedule_b": "4016.93.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Poland",
+        "qty": 221,
+        "unit": "MTR",
+        "entered_value": 58357.26,
+        "duty_rate": 23.0,
+        "duty_amount": 13422.17,
+        "eccn": "1A002",
+        "schedule_b": "5407.42.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "India",
+        "qty": 26,
+        "unit": "CTN",
+        "entered_value": 8368.1,
+        "duty_rate": 20.7,
+        "duty_amount": 1732.2,
+        "eccn": "7A994",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

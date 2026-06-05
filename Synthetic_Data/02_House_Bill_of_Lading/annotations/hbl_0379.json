@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0379",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV503369388",
+    "shipper_name": "Barrett Trade Pte Ltd",
+    "shipper_address": "862 Vega Turnpike Apt. 169, Curryland, IA 59320, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Martin Global Pte Ltd",
+    "consignee_address": "5775 Landry Island Apt. 369, New Hannahfort, CA 06388, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party_name": "Tech Sullivan Inc.",
+    "notify_party_address": "97991 Clark Locks, East Matthewshire, FL 58132, Mexico",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "664S",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2025-06-10",
+    "issue_place": "Tokyo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "TPAM2712037",
+        "seal_no": "BL504049",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "AXDM3041533",
+        "seal_no": "SL202061",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 182,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 13691.7,
+    "net_weight_kg": 12426.8,
+    "cbm": 13.199,
+    "marks_and_numbers": "GLB/21"
+  }
+}

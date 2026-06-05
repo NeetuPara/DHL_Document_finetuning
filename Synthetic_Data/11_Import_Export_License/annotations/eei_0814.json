@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0814",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "944-57463347-2",
+    "entry_type": "01 - Free and Dutiable",
+    "entry_date": "2025-08-04",
+    "port_of_entry": "BOS - Boston",
+    "transport_mode": "Truck",
+    "carrier": "MSC",
+    "bl_awb": "057-83595762",
+    "importer_name": "Foster Global Ltd",
+    "importer_ein": "52-1849956",
+    "consignee_name": "Commerce Thomas S.A.",
+    "customs_broker": "Global Donaldson Pte Ltd",
+    "broker_filer_code": "IXi",
+    "country_of_origin": "Singapore",
+    "total_value": 198446.01,
+    "total_duty": 44005.73,
+    "currency": "AED",
+    "signatory": "Roy Gibson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Thailand",
+        "qty": 93,
+        "unit": "MTR",
+        "entered_value": 43436.58,
+        "duty_rate": 24.8,
+        "duty_amount": 10772.27,
+        "eccn": "7A994",
+        "schedule_b": "5407.42.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Sweden",
+        "qty": 262,
+        "unit": "KGS",
+        "entered_value": 129603.54,
+        "duty_rate": 22.8,
+        "duty_amount": 29549.61,
+        "eccn": "3A992",
+        "schedule_b": "7208.37.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Poland",
+        "qty": 183,
+        "unit": "PCS",
+        "entered_value": 25405.89,
+        "duty_rate": 14.5,
+        "duty_amount": 3683.85,
+        "eccn": "2B350",
+        "schedule_b": "9401.30.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

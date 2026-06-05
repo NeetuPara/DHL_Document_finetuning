@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0971",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202404-7677",
+    "usppi_name": "Industry Montes LLC",
+    "usppi_address": "605 Michael Bypass Suite 226, Markstad, KS 67968, Germany",
+    "usppi_country": "Germany",
+    "ein": "92-1080090",
+    "consignee_name": "Tech Pennington GmbH",
+    "consignee_address": "564 Sarah Dale, South Alexandriaville, KS 91795, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Global Dominguez Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Jamie Morrison",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/2",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 199,
+        "unit": "BOX",
+        "weight_kg": 103.17,
+        "value_usd": 21604.89
+      },
+      {
+        "marks": "EXP/41",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 196,
+        "unit": "LTR",
+        "weight_kg": 180.64,
+        "value_usd": 2365.26
+      },
+      {
+        "marks": "EXP/14",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 12,
+        "unit": "PCS",
+        "weight_kg": 202.86,
+        "value_usd": 1725.41
+      }
+    ],
+    "total_weight_kg": 486.67,
+    "total_value_usd": 25695.56,
+    "service": "Express Courier",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 43737.31,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-703053",
+    "destination_country": "Singapore"
+  }
+}

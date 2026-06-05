@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0269",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250914662547",
+    "export_date": "2025-09-17",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Carlson International S.A.",
+    "usppi_ein": "56-8804749",
+    "usppi_address": "55742 Johnson Canyon Suite 342, Tracyhaven, MN 50183, Mexico",
+    "ultimate_consignee": "Tech Lopez B.V.",
+    "intermediate_consignee": "Trade Stanley Inc.",
+    "forwarding_agent": "Harvey Tech Co.",
+    "destination_country": "France",
+    "carrier": "FedEx",
+    "bl_awb": "020-54837789",
+    "total_value": 402567.51,
+    "currency": "CNY",
+    "signatory": "Dr. Joseph Mann MD",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Singapore",
+        "qty": 444,
+        "unit": "CTN",
+        "entered_value": 41847.0,
+        "duty_rate": 18.2,
+        "duty_amount": 7616.15,
+        "eccn": "EAR99",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Switzerland",
+        "qty": 378,
+        "unit": "PCS",
+        "entered_value": 101852.1,
+        "duty_rate": 10.4,
+        "duty_amount": 10592.62,
+        "eccn": "7A994",
+        "schedule_b": "8534.00.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Switzerland",
+        "qty": 171,
+        "unit": "PCS",
+        "entered_value": 84757.86,
+        "duty_rate": 2.7,
+        "duty_amount": 2288.46,
+        "eccn": "EAR99",
+        "schedule_b": "3926.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Belgium",
+        "qty": 453,
+        "unit": "PCS",
+        "entered_value": 174110.55,
+        "duty_rate": 13.3,
+        "duty_amount": 23156.7,
+        "eccn": "9A515",
+        "schedule_b": "8518.30.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

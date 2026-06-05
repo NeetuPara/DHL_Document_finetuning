@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0661",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Lisa Freeman",
+    "addressee_company": "Sanchez Trade Pte Ltd",
+    "addressee_address": "0850 Andre Course Apt. 229, Williamsshire, WV 72407, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 15.04,
+    "total_value": 2670.06,
+    "currency": "JPY",
+    "issue_date": "2025-05-15",
+    "reference": "REF-648006",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.418,
+        "value": 1600.72,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 3,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.387,
+        "value": 333.12,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 1,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 4.162,
+        "value": 88.58,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 7,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.073,
+        "value": 647.64,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "John Carpenter",
+    "sender_company": "Trade Wilson Co.",
+    "sender_address": "835 Benson Corners, Brandtburgh, VT 03158, Singapore",
+    "sender_phone": "+1-950-334-4009",
+    "sender_email": "cynthia19@example.org",
+    "addressee_phone": "763-434-7373",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 2937.07,
+    "postal_charges": 64.92,
+    "tracking_number": "TY670292934ME"
+  }
+}

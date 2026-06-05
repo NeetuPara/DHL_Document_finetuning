@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0546",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202104-5026",
+    "usppi_name": "Johnston Global Pte Ltd",
+    "usppi_address": "148 Todd Brook Suite 836, West Diana, KS 28951, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "83-4028218",
+    "consignee_name": "White Commerce GmbH",
+    "consignee_address": "2756 Carrie Trace, Port Tinaland, OH 46734, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Tanner Tech B.V.",
+    "forwarder": "Expeditors",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Lisa Schmidt",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/15",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 128,
+        "unit": "PCS",
+        "weight_kg": 1119.13,
+        "value_usd": 42786.21
+      },
+      {
+        "marks": "SLI/49",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 173,
+        "unit": "PCS",
+        "weight_kg": 84.96,
+        "value_usd": 277209.69
+      }
+    ],
+    "total_weight_kg": 1204.09,
+    "total_value_usd": 319995.9,
+    "vessel": "YANG MING MYTH",
+    "voyage": "318S",
+    "booking_ref": "BKG-945341",
+    "bl_number": "DHLG152467854",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Qingdao, CN",
+    "container_number": "PFSS9086609",
+    "seal_number": "SL803060",
+    "container_type": "45'HC",
+    "cbm": 6.516
+  }
+}

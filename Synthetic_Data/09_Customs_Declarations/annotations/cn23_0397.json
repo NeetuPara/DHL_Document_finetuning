@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0397",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Wesley Carpenter",
+    "addressee_company": "Commerce Perry Inc.",
+    "addressee_address": "944 Vance Shore Suite 856, North Tiffanychester, VA 23418, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 6.141,
+    "total_value": 647.62,
+    "currency": "AED",
+    "issue_date": "2026-02-03",
+    "reference": "REF-898277",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.487,
+        "value": 46.26,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 8,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.475,
+        "value": 484.24,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 6,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.179,
+        "value": 117.12,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "William Williams",
+    "sender_company": "Trade Miller S.A.",
+    "sender_address": "39870 Nolan Vista Apt. 032, Sanchezview, NY 72044, Poland",
+    "sender_phone": "826.576.8926x2632",
+    "sender_email": "ihoward@example.org",
+    "addressee_phone": "8725343870",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 30.8,
+    "tracking_number": "CH349979777SE"
+  }
+}

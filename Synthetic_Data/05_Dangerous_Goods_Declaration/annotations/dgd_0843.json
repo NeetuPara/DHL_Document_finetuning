@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0843",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Estes Pte Ltd",
+    "shipper_address": "7039 Katherine Overpass Suite 156, East Thomasland, WV 26462, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Trade Boyd Co.",
+    "consignee_address": "451 Bradley Course, Lake Diana, FL 25094, Poland",
+    "consignee_country": "Poland",
+    "emergency_telephone": "+44 808-691-4870",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 39,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 99.13,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Elizabeth Hawkins",
+    "signature_date": "2026-04-26",
+    "signature_place": "Australia",
+    "awb_number": "618-60599325",
+    "flight_number": "CX6282",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong",
+    "non_dg_reason": "Excepted quantities (EQ) per IATA DGR 2.6"
+  }
+}

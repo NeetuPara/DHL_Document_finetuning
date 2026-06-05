@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0960",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Smith AG",
+    "shipper_address": "9224 Baldwin Place Apt. 447, North Taylorport, WV 94498, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "International Wolf Ltd",
+    "consignee_address": "63401 Joyce Trail Suite 842, North Timothyport, SC 15698, United States",
+    "consignee_country": "United States",
+    "emergency_telephone": "+30 858-990-4901",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 47,
+        "pkg_type": "Steel Drum",
+        "net_qty": 48.88,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-367826",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Anthony Jackson",
+    "signature_date": "2026-05-06",
+    "signature_place": "Thailand",
+    "awb_number": "074-73952406",
+    "flight_number": "DL5133",
+    "departure_airport_code": "FRA",
+    "departure_airport_name": "Frankfurt Airport",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare",
+    "non_dg_reason": "Excepted quantities (EQ) per IATA DGR 2.6"
+  }
+}

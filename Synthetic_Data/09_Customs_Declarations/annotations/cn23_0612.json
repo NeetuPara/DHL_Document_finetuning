@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0612",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jennifer Brewer",
+    "addressee_company": "Williams Tech GmbH",
+    "addressee_address": "65014 Douglas Island Suite 398, Lunaside, WV 44261, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 7.357,
+    "total_value": 1967.19,
+    "currency": "AED",
+    "issue_date": "2025-07-28",
+    "reference": "REF-360251",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.319,
+        "value": 339.08,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 11,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.684,
+        "value": 1210.33,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 6,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.354,
+        "value": 417.78,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_country": "South Korea",
+    "port_of_entry": "Miami, FL",
+    "entry_number": "396-11309979-6",
+    "entry_type": "Informal Entry",
+    "duty_rate": 15.1,
+    "estimated_duty": 297.05,
+    "importer_ein": "46-0785906",
+    "customs_broker": "Tech Short Pte Ltd"
+  }
+}

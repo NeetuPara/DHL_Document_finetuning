@@ -1,0 +1,82 @@
+{
+  "document_id": "vgm_0935",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Marquez Global Inc.",
+    "shipper_address": "887 Emily Roads Suite 309, East Elaine, VI 33321, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "container_number": "DGCQ1364538",
+    "seal_number": "CL617493",
+    "container_size": "40'RF",
+    "iso_type_code": "42R1",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 6531.1,
+    "packing_materials_kg": 487.4,
+    "vgm_kg": 11818.5,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "655E",
+    "bl_number": "EGLV252414886",
+    "booking_reference": "BKG-386688",
+    "weighing_scale_type": "Certified Electronic Scale",
+    "scale_serial": "Unit-25726",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-17",
+    "signature_date": "2026-05-07",
+    "signatory_name": "Jeffrey Wright",
+    "signatory_title": "Shipping Coordinator",
+    "number_of_packages": 7,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Carton",
+        "n_units": 1,
+        "gross_wt_kg": 170.1
+      },
+      {
+        "item_no": 2,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Case",
+        "n_units": 3,
+        "gross_wt_kg": 173.5
+      },
+      {
+        "item_no": 3,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Cylinder",
+        "n_units": 3,
+        "gross_wt_kg": 1393.9
+      },
+      {
+        "item_no": 4,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Carton",
+        "n_units": 12,
+        "gross_wt_kg": 1255.0
+      },
+      {
+        "item_no": 5,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Pallet",
+        "n_units": 20,
+        "gross_wt_kg": 818.1
+      },
+      {
+        "item_no": 6,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Drum",
+        "n_units": 5,
+        "gross_wt_kg": 895.5
+      },
+      {
+        "item_no": 7,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Pallet",
+        "n_units": 16,
+        "gross_wt_kg": 1825.0
+      }
+    ]
+  }
+}

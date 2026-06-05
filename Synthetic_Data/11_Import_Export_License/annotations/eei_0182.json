@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0182",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20231216173588",
+    "export_date": "2025-08-09",
+    "aes_option": "AES Filing",
+    "usppi_name": "Suarez International GmbH",
+    "usppi_ein": "44-0703240",
+    "usppi_address": "510 Pittman Station, Brittanychester, NM 24517, United States",
+    "ultimate_consignee": "Trade Pierce Ltd",
+    "intermediate_consignee": "White Industry Co.",
+    "forwarding_agent": "Little Tech B.V.",
+    "destination_country": "Thailand",
+    "carrier": "DHL Express",
+    "bl_awb": "074-24181514",
+    "total_value": 251276.46,
+    "currency": "AUD",
+    "signatory": "Crystal Gilbert",
+    "line_items": [
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Netherlands",
+        "qty": 483,
+        "unit": "SET",
+        "entered_value": 123556.23,
+        "duty_rate": 10.5,
+        "duty_amount": 12973.4,
+        "eccn": "7A994",
+        "schedule_b": "8708.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Malaysia",
+        "qty": 218,
+        "unit": "PCS",
+        "entered_value": 45649.2,
+        "duty_rate": 9.0,
+        "duty_amount": 4108.43,
+        "eccn": "3A992",
+        "schedule_b": "3926.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Sweden",
+        "qty": 213,
+        "unit": "KGS",
+        "entered_value": 82071.03,
+        "duty_rate": 19.9,
+        "duty_amount": 16332.13,
+        "eccn": "1A002",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

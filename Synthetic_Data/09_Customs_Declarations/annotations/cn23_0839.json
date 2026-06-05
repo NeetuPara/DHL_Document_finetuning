@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0839",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Tracey Carrillo",
+    "addressee_company": "Global Chapman GmbH",
+    "addressee_address": "367 Bradley Mission Apt. 046, Schroederville, IL 86610, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 11.186,
+    "total_value": 2691.6,
+    "currency": "USD",
+    "issue_date": "2025-09-21",
+    "reference": "REF-677287",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.821,
+        "value": 197.14,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 11,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.2,
+        "value": 480.37,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 7,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.334,
+        "value": 421.05,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 12,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.498,
+        "value": 629.76,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 8,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.333,
+        "value": 963.28,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Jacob Chavez",
+    "sender_company": "International Mercer GmbH",
+    "sender_address": "034 Amanda Spring, South Shaneland, GA 74198, Italy",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 2960.76,
+    "postal_charges": 58.04,
+    "tracking_number": "XA082813005QZ"
+  }
+}

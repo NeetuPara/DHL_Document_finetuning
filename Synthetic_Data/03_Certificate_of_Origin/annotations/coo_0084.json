@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0084",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202507-1653",
+    "exporter_name": "Pacific Gonzalez Inc.",
+    "exporter_address": "626 Angela Fall Apt. 540, Stewartland, GU 05917, South Korea",
+    "exporter_country": "South Korea",
+    "consignee_name": "Trade Higgins Co.",
+    "consignee_address": "527 Christopher Underpass Apt. 877, Port Michael, UT 37710, United States",
+    "consignee_country": "United States",
+    "country_of_origin": "South Korea",
+    "country_of_destination": "United States",
+    "bl_or_awb": "020-92123764",
+    "issue_date": "2026-01-06",
+    "certifier_name": "Justin Morgan",
+    "goods": [
+      {
+        "description": "Optical Equipment - Camera Lenses",
+        "hs_code": "9002.11.00",
+        "qty": 400,
+        "unit": "PCS",
+        "weight_kg": 489.69,
+        "origin_criterion": "B",
+        "value": 467695.97
+      },
+      {
+        "description": "Plastic Products - Injection Moulded Components",
+        "hs_code": "3926.90.00",
+        "qty": 11,
+        "unit": "PCS",
+        "weight_kg": 3.33,
+        "origin_criterion": "C",
+        "value": 255.88
+      },
+      {
+        "description": "Steel Products - Hot Rolled Coils",
+        "hs_code": "7208.37.00",
+        "qty": 319,
+        "unit": "KGS",
+        "weight_kg": 319.0,
+        "origin_criterion": "F",
+        "value": 427.94
+      }
+    ],
+    "fta_agreement": "Australia-US FTA",
+    "chamber": "Export Council"
+  }
+}

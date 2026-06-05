@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0774",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202211-9985",
+    "usppi_name": "Ramirez Global GmbH",
+    "usppi_address": "7875 Andrade Meadows, Mannchester, PR 57055, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "30-1711935",
+    "consignee_name": "Tech Wilson S.A.",
+    "consignee_address": "7611 Cassandra Viaduct Suite 941, Archerport, AZ 90720, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Johnson Commerce Pte Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Teresa Skinner",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/12",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 155,
+        "unit": "KGS",
+        "weight_kg": 155.0,
+        "value_usd": 386.71
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 152,
+        "unit": "PCS",
+        "weight_kg": 64.24,
+        "value_usd": 7435.55
+      },
+      {
+        "marks": "SLI/37",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 85,
+        "unit": "PCS",
+        "weight_kg": 853.77,
+        "value_usd": 28115.39
+      }
+    ],
+    "total_weight_kg": 1073.01,
+    "total_value_usd": 35937.65,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "574N",
+    "booking_ref": "BKG-787899",
+    "bl_number": "OOLU823624973",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Hong Kong, HK",
+    "container_number": "HJCZ3851307",
+    "seal_number": "SL176327",
+    "container_type": "40'HC",
+    "cbm": 10.404
+  }
+}

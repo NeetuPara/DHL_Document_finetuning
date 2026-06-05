@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0288",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Riley Perez",
+    "addressee_company": "Stone Commerce LLC",
+    "addressee_address": "USCGC Smith, FPO AP 53532, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 14.325,
+    "total_value": 2495.92,
+    "currency": "CNY",
+    "issue_date": "2026-04-12",
+    "reference": "REF-490167",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.118,
+        "value": 1272.0,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 4,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.798,
+        "value": 446.08,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 6,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.574,
+        "value": 627.42,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 2,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.835,
+        "value": 150.42,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_country": "South Korea",
+    "port_of_entry": "Chicago, IL",
+    "entry_number": "087-21261909-7",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 13.9,
+    "estimated_duty": 346.93,
+    "importer_ein": "04-4045893",
+    "customs_broker": "Sandoval Commerce S.A."
+  }
+}

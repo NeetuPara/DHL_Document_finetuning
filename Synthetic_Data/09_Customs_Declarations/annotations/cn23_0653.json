@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0653",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "James Robinson",
+    "addressee_company": "Liu Pacific B.V.",
+    "addressee_address": "16162 Tiffany Glen Apt. 222, West Davidton, KY 17957, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 12.621,
+    "total_value": 3640.33,
+    "currency": "SGD",
+    "issue_date": "2026-01-04",
+    "reference": "REF-264259",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.153,
+        "value": 2058.2,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 7,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.849,
+        "value": 335.79,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 2,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.357,
+        "value": 252.34,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 1,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.812,
+        "value": 41.05,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 15,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.45,
+        "value": 952.95,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "Patricia White",
+    "sender_company": "Taylor Trade Co.",
+    "sender_address": "946 Paul Throughway, Nicholasfort, NJ 55404, Spain",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 4004.36,
+    "postal_charges": 52.79,
+    "tracking_number": "CL813280128MP"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0558",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-70361924",
+    "mawb_number": "176-33031293",
+    "shipper_name": "Commerce Cervantes Ltd",
+    "shipper_address": "9862 Teresa Divide, Lake Colinchester, OK 01648, Belgium",
+    "consignee_name": "Warner Global S.A.",
+    "consignee_address": "2131 Nelson Land Suite 818, Shanefort, KS 89153, Switzerland",
+    "agent_name": "Commerce Simmons Ltd",
+    "airport_departure": "MIA",
+    "airport_destination": "FRA",
+    "currency": "GBP",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 34,
+    "gross_weight_kg": 237.5,
+    "chargeable_weight": 237.6,
+    "rate": 10.89,
+    "total_charge": 2587.46,
+    "nature_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-07-30",
+    "signatory": "Ryan Lopez",
+    "iata_code": "53-172",
+    "agent_cass": "7353-5690",
+    "consolidation_ref": "CONS-3097-015508",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-56245573",
+        "pieces": 16,
+        "weight": 40.3,
+        "destination": "NRT",
+        "consignee": "Cook Tech Corp.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "160-42289546",
+        "pieces": 6,
+        "weight": 26.8,
+        "destination": "PVG",
+        "consignee": "International Hudson Co.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "176-38452367",
+        "pieces": 17,
+        "weight": 99.4,
+        "destination": "JFK",
+        "consignee": "Hall Industry Co.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "085-41817525",
+        "pieces": 14,
+        "weight": 100.0,
+        "destination": "CDG",
+        "consignee": "Trade Mcintyre B.V.",
+        "description": "Industrial Machinery Parts - Steel "
+      }
+    ]
+  }
+}

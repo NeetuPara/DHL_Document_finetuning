@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0495",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Johnston Inc.",
+    "shipper_address": "PSC 8136, Box 8247, APO AE 55192, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "International Hudson Co.",
+    "consignee_address": "56961 Jackson Mountain, New Thomas, AR 26828, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "emergency_telephone": "+71 775-166-5464",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 21,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 42.75,
+        "qty_unit": "mL",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-202902",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 46,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 90.26,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-500594",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Gary Evans",
+    "signature_date": "2026-05-02",
+    "signature_place": "Singapore",
+    "awb_number": "006-68167235",
+    "flight_number": "CX6474",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport",
+    "non_dg_reason": "Lithium Ion Batteries \u2014 Section II (PI 967/Section II)"
+  }
+}

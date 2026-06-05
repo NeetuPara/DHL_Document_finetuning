@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0968",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202604-2144",
+    "usppi_name": "Pacific Massey Ltd",
+    "usppi_address": "2461 Olson Ports Suite 840, New Ashleyport, MI 80188, Spain",
+    "usppi_country": "Spain",
+    "ein": "16-9123544",
+    "consignee_name": "Tech Krause Ltd",
+    "consignee_address": "4755 Joseph View Apt. 010, West Maryborough, GU 27317, India",
+    "consignee_country": "India",
+    "notify_party": "Kim Tech Pte Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Victoria Smith",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/30",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 17,
+        "unit": "PCS",
+        "weight_kg": 24.63,
+        "value_usd": 110.16
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 172,
+        "unit": "MTR",
+        "weight_kg": 83.29,
+        "value_usd": 2358.1
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 200,
+        "unit": "PKG",
+        "weight_kg": 576.82,
+        "value_usd": 13916.19
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 25,
+        "unit": "KGS",
+        "weight_kg": 25.0,
+        "value_usd": 483.88
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 80,
+        "unit": "PCS",
+        "weight_kg": 4.9,
+        "value_usd": 2949.0
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 127,
+        "unit": "KGS",
+        "weight_kg": 127.0,
+        "value_usd": 266.16
+      }
+    ],
+    "total_weight_kg": 841.64,
+    "total_value_usd": 20083.49,
+    "service": "Air Freight",
+    "named_port": "Amsterdam Schiphol",
+    "insurance_value_usd": 23611.71,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-667949",
+    "destination_country": "India"
+  }
+}

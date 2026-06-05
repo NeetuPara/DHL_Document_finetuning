@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0292",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Martinez Commerce AG",
+    "shipper_address": "Unit 7076 Box 2180, DPO AA 73532, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Chen Tech S.A.",
+    "consignee_address": "098 Sarah Glen Apt. 387, North Ericton, CA 09565, Belgium",
+    "consignee_country": "Belgium",
+    "emergency_telephone": "+26 984-344-5237",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 31,
+        "pkg_type": "Steel Drum",
+        "net_qty": 72.28,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 34,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 65.4,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "John Gonzalez",
+    "signature_date": "2026-05-04",
+    "signature_place": "United States",
+    "awb_number": "176-95827623",
+    "flight_number": "SQ7727",
+    "flight_date": "2026-04-22",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "NRT",
+    "destination_airport_name": "Tokyo Narita"
+  }
+}

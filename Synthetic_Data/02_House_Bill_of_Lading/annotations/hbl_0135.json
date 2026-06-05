@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0135",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG254185549",
+    "shipper_name": "Martin Industry GmbH",
+    "shipper_address": "129 Kirby Dam, South Michellefort, MH 26851, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Roberts Industry Ltd",
+    "consignee_address": "0145 Joseph Road Suite 528, Watsonport, PR 79856, Canada",
+    "consignee_country": "Canada",
+    "notify_party_name": "Global Fernandez Ltd",
+    "notify_party_address": "82724 Scott Glen, East Stephanieside, MH 02302, Malaysia",
+    "vessel": "MADRID MAERSK",
+    "voyage": "474W",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Los Angeles, US",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2025-03-25",
+    "issue_place": "Los Angeles",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "CKNO3211743",
+        "seal_no": "SL500556",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "PGJJ0172458",
+        "seal_no": "BL164673",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "GCON4633313",
+        "seal_no": "CL301354",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "BWUE8309544",
+        "seal_no": "BL597154",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "number_of_packages": 317,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 9401.9,
+    "net_weight_kg": 8654.1,
+    "cbm": 34.867,
+    "marks_and_numbers": "GLB/43"
+  }
+}

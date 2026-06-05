@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0133",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Sandra Thomas",
+    "addressee_company": "Global Allen Corp.",
+    "addressee_address": "0912 Marshall Point Suite 986, Lindseyton, AL 78479, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 1.764,
+    "total_value": 3090.03,
+    "currency": "SGD",
+    "issue_date": "2026-01-12",
+    "reference": "REF-018008",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.684,
+        "value": 830.17,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 19,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.08,
+        "value": 2259.86,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Italy"
+      }
+    ],
+    "sender_name": "Ronald Kirk",
+    "sender_company": "Beck Tech Pte Ltd",
+    "sender_address": "Unit 5395 Box 2536, DPO AA 68052, Malaysia",
+    "sender_phone": "420.252.1038x21779",
+    "sender_email": "royamanda@example.com",
+    "addressee_phone": "450.220.0804",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 3399.03,
+    "postal_charges": 43.6,
+    "tracking_number": "EK616182855IY"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0662",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU943595162",
+    "shipper_name": "Hull Industry S.A.",
+    "shipper_address": "509 Teresa Forks Suite 261, East Scott, AR 59020, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "International Underwood Corp.",
+    "consignee_address": "262 Christopher Locks, Lake Jessicastad, GA 05467, France",
+    "consignee_country": "France",
+    "notify_party_name": "Tech Chaney Ltd",
+    "notify_party_address": "82620 Ross Freeway, Christinaburgh, OH 08612, Canada",
+    "vessel": "MADRID MAERSK",
+    "voyage": "601E",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Felixstowe, GB",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2024-07-30",
+    "issue_place": "Tanjung Pelepas",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "DXYN6457494",
+        "seal_no": "SL374885",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "OLUX1043623",
+        "seal_no": "SL490191",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "GXPW5795047",
+        "seal_no": "CL388208",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "LLKA4732942",
+        "seal_no": "CL431998",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 19,
+    "package_type": "Bag",
+    "gross_weight_kg": 15611.7,
+    "net_weight_kg": 14956.1,
+    "cbm": 1.887,
+    "marks_and_numbers": "XYZ/30"
+  }
+}

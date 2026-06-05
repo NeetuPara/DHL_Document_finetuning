@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0853",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202410-3155",
+    "usppi_name": "Wright Commerce AG",
+    "usppi_address": "09128 Gomez Rest, Berrybury, OK 64866, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "56-1706709",
+    "consignee_name": "Commerce Johnson S.A.",
+    "consignee_address": "8034 Stacey Route Apt. 789, Jaredside, PR 83611, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Commerce Brady GmbH",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Laura Rasmussen",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/19",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 77,
+        "unit": "PKG",
+        "weight_kg": 80.99,
+        "value_usd": 2085.62
+      },
+      {
+        "marks": "EXP/42",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 17,
+        "unit": "PCS",
+        "weight_kg": 20.24,
+        "value_usd": 5493.1
+      },
+      {
+        "marks": "SLI/34",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 112,
+        "unit": "LTR",
+        "weight_kg": 122.81,
+        "value_usd": 3487.19
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 178,
+        "unit": "PCS",
+        "weight_kg": 145.49,
+        "value_usd": 748.7
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 113,
+        "unit": "BOX",
+        "weight_kg": 212.15,
+        "value_usd": 7760.61
+      }
+    ],
+    "total_weight_kg": 581.68,
+    "total_value_usd": 19575.22,
+    "service": "Air Freight",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 13831.8,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Thailand"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0086",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240726187133",
+    "export_date": "2025-10-05",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Johnson Industry B.V.",
+    "usppi_ein": "57-5462532",
+    "usppi_address": "PSC 8289, Box 9294, APO AP 91292, Canada",
+    "ultimate_consignee": "Yu Global S.A.",
+    "intermediate_consignee": "Industry Armstrong Inc.",
+    "forwarding_agent": "Francis Pacific Ltd",
+    "destination_country": "Germany",
+    "carrier": "FedEx",
+    "bl_awb": "074-77017871",
+    "total_value": 208381.39,
+    "currency": "AED",
+    "signatory": "Stuart Allen",
+    "line_items": [
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Japan",
+        "qty": 177,
+        "unit": "KGS",
+        "entered_value": 30263.46,
+        "duty_rate": 19.3,
+        "duty_amount": 5840.85,
+        "eccn": "9A515",
+        "schedule_b": "7208.37.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "India",
+        "qty": 83,
+        "unit": "KGS",
+        "entered_value": 33086.29,
+        "duty_rate": 2.8,
+        "duty_amount": 926.42,
+        "eccn": "9A515",
+        "schedule_b": "7208.37.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "China",
+        "qty": 372,
+        "unit": "KGS",
+        "entered_value": 145031.64,
+        "duty_rate": 15.3,
+        "duty_amount": 22189.84,
+        "eccn": "0A919",
+        "schedule_b": "2008.19.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0909",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-83617663",
+    "mawb_number": "020-70132180",
+    "shipper_name": "Reeves Tech Corp.",
+    "shipper_address": "2616 Carter Ports, West Timothymouth, MP 04473, Thailand",
+    "consignee_name": "Weber International Corp.",
+    "consignee_address": "1120 Kimberly Spring, East Ryan, AK 05568, Canada",
+    "agent_name": "Clements Trade S.A.",
+    "airport_departure": "SYD",
+    "airport_destination": "ICN",
+    "currency": "CAD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CHF 27,494.82",
+    "n_pieces": 2,
+    "gross_weight_kg": 156.6,
+    "chargeable_weight": 157.8,
+    "rate": 5.98,
+    "total_charge": 943.64,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "HANDLING CODE: VAL",
+    "issue_date": "2025-07-24",
+    "signatory": "Paige Chapman",
+    "iata_code": "10-520",
+    "agent_cass": "2346-9337",
+    "consolidation_ref": "CONS-5760-940720",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-92618897",
+        "pieces": 18,
+        "weight": 62.7,
+        "destination": "FRA",
+        "consignee": "Parker International GmbH",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "160-87708388",
+        "pieces": 9,
+        "weight": 46.3,
+        "destination": "ORD",
+        "consignee": "International Ramirez Corp.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "085-15642287",
+        "pieces": 4,
+        "weight": 92.2,
+        "destination": "ORD",
+        "consignee": "Pacific Shields Inc.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "085-96449765",
+        "pieces": 20,
+        "weight": 79.6,
+        "destination": "NRT",
+        "consignee": "Pacific Reid Corp.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "057-73986579",
+        "pieces": 15,
+        "weight": 91.3,
+        "destination": "HKG",
+        "consignee": "Kelley Pacific LLC",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0014",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20231213294346",
+    "export_date": "2025-10-13",
+    "aes_option": "AES Filing",
+    "usppi_name": "Douglas Tech S.A.",
+    "usppi_ein": "58-2565357",
+    "usppi_address": "02834 Terry Trail Apt. 937, Carterview, PA 76792, Spain",
+    "ultimate_consignee": "Gutierrez Pacific Corp.",
+    "intermediate_consignee": "Roach Pacific Ltd",
+    "forwarding_agent": "Rocha Pacific Inc.",
+    "destination_country": "Poland",
+    "carrier": "Maersk",
+    "bl_awb": "160-56456727",
+    "total_value": 13683.35,
+    "currency": "CNY",
+    "signatory": "William Watson",
+    "line_items": [
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Switzerland",
+        "qty": 109,
+        "unit": "BOX",
+        "entered_value": 4005.75,
+        "duty_rate": 24.0,
+        "duty_amount": 961.38,
+        "eccn": "3A992",
+        "schedule_b": "2936.90.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Germany",
+        "qty": 80,
+        "unit": "PCS",
+        "entered_value": 9677.6,
+        "duty_rate": 13.3,
+        "duty_amount": 1287.12,
+        "eccn": "5E992",
+        "schedule_b": "8518.30.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

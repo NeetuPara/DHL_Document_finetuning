@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0818",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Daniel Castro",
+    "addressee_company": "Smith Commerce Pte Ltd",
+    "addressee_address": "7909 Anderson Lake Suite 192, Port Morgan, MD 36229, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 3.577,
+    "total_value": 3864.3,
+    "currency": "USD",
+    "issue_date": "2025-07-07",
+    "reference": "REF-284402",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.259,
+        "value": 1336.7,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 20,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.318,
+        "value": 2527.6,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Vincent Fitzgerald",
+    "sender_company": "Nelson Pacific LLC",
+    "sender_address": "10299 Murphy Roads, Stephaniebury, MP 10381, Sweden",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 19.28,
+    "tracking_number": "ZY712137886MB"
+  }
+}

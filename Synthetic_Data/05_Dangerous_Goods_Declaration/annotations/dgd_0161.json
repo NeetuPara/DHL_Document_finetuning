@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0161",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Rivera GmbH",
+    "shipper_address": "106 Ashley Knolls Suite 544, Matthewfort, WV 31026, France",
+    "shipper_country": "France",
+    "consignee_name": "International Jacobs Corp.",
+    "consignee_address": "293 Weber Mountain Suite 701, Pennystad, KS 34287, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+39 415-931-2628",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 5,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 59.73,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Rachel Braun",
+    "signature_date": "2026-04-21",
+    "signature_place": "France",
+    "vessel": "PIL PACIFIC",
+    "voyage": "893N",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Shanghai, CN"
+  }
+}

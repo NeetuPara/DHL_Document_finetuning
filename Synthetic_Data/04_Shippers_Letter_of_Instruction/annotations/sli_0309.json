@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0309",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202511-2597",
+    "usppi_name": "Trade Lucero Ltd",
+    "usppi_address": "6070 Misty Isle, Natalieview, WY 36943, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "55-1743773",
+    "consignee_name": "Davidson Pacific Corp.",
+    "consignee_address": "588 John Point Suite 953, Brownburgh, CO 64396, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Nelson Global Inc.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "7A994",
+    "signatory_name": "Nicole Simmons",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/34",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 136,
+        "unit": "PCS",
+        "weight_kg": 171.35,
+        "value_usd": 3964.43
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 66,
+        "unit": "PCS",
+        "weight_kg": 17.95,
+        "value_usd": 4965.36
+      },
+      {
+        "marks": "EXP/48",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 109,
+        "unit": "CTN",
+        "weight_kg": 219.41,
+        "value_usd": 1358.32
+      },
+      {
+        "marks": "ABC/50",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 110,
+        "unit": "PCS",
+        "weight_kg": 8.26,
+        "value_usd": 3638.72
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 130,
+        "unit": "CTN",
+        "weight_kg": 438.65,
+        "value_usd": 5119.96
+      },
+      {
+        "marks": "SLI/33",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 165,
+        "unit": "MTR",
+        "weight_kg": 86.4,
+        "value_usd": 2215.28
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 118,
+        "unit": "KGS",
+        "weight_kg": 118.0,
+        "value_usd": 97.55
+      }
+    ],
+    "total_weight_kg": 1060.02,
+    "total_value_usd": 21359.62,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "810E",
+    "booking_ref": "BKG-888406",
+    "bl_number": "COSU691842096",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Long Beach, US",
+    "container_number": "UEIH3536022",
+    "seal_number": "CL550422",
+    "container_type": "40'HC",
+    "cbm": 36.376
+  }
+}

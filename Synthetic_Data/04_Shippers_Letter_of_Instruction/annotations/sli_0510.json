@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0510",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202007-1364",
+    "usppi_name": "Industry Gonzalez Corp.",
+    "usppi_address": "PSC 6653, Box 0733, APO AA 32103, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "97-2702602",
+    "consignee_name": "Lamb Industry B.V.",
+    "consignee_address": "311 Elizabeth Union Suite 714, Brianchester, ID 43636, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Mcgrath Industry LLC",
+    "forwarder": "Panalpina",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Riley Lewis",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/26",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 16,
+        "unit": "PCS",
+        "weight_kg": 17.23,
+        "value_usd": 158.45
+      },
+      {
+        "marks": "SLI/17",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 156,
+        "unit": "KGS",
+        "weight_kg": 156.0,
+        "value_usd": 1888.81
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 131,
+        "unit": "LTR",
+        "weight_kg": 125.33,
+        "value_usd": 4041.16
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 199,
+        "unit": "MTR",
+        "weight_kg": 202.43,
+        "value_usd": 1032.48
+      }
+    ],
+    "total_weight_kg": 500.99,
+    "total_value_usd": 7120.9,
+    "vessel": "MSC OSCAR",
+    "voyage": "730S",
+    "booking_ref": "BKG-472409",
+    "bl_number": "EGLV307635001",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Rotterdam, NL",
+    "container_number": "NEQP1807126",
+    "seal_number": "CL648659",
+    "container_type": "20'GP",
+    "cbm": 29.587
+  }
+}

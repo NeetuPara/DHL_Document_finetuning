@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0238",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202312-7635",
+    "usppi_name": "Commerce Stanley AG",
+    "usppi_address": "1211 Henson Stream Apt. 625, Tracihaven, MA 64129, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "10-4286014",
+    "consignee_name": "Pacific Juarez Co.",
+    "consignee_address": "5360 Tammie Drives, East Bradley, WV 18909, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Barr International AG",
+    "forwarder": "DB Schenker",
+    "incoterm": "CFR",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Rose Wyatt",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/8",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 25,
+        "unit": "PCS",
+        "weight_kg": 6.55,
+        "value_usd": 703.13
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 53,
+        "unit": "CTN",
+        "weight_kg": 96.06,
+        "value_usd": 1809.15
+      }
+    ],
+    "total_weight_kg": 102.61,
+    "total_value_usd": 2512.28,
+    "service": "Air Freight",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 1185.09,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-973968",
+    "destination_country": "Germany"
+  }
+}

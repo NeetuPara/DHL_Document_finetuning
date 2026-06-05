@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0533",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202212-6256",
+    "usppi_name": "Villegas Tech Corp.",
+    "usppi_address": "648 Michelle Mount Suite 714, Oliverfort, MH 59413, Italy",
+    "usppi_country": "Italy",
+    "ein": "51-9278524",
+    "consignee_name": "Global Smith Co.",
+    "consignee_address": "04486 Mendoza Station, South Timothy, AK 28780, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Tech Myers Pte Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Joseph Green",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/4",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 70,
+        "unit": "PKG",
+        "weight_kg": 134.62,
+        "value_usd": 4591.93
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 89,
+        "unit": "PCS",
+        "weight_kg": 7.76,
+        "value_usd": 14661.22
+      },
+      {
+        "marks": "SLI/21",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 39,
+        "unit": "KGS",
+        "weight_kg": 39.0,
+        "value_usd": 73.55
+      },
+      {
+        "marks": "EXP/17",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 162,
+        "unit": "KGS",
+        "weight_kg": 162.0,
+        "value_usd": 944.12
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 127,
+        "unit": "PCS",
+        "weight_kg": 2069.91,
+        "value_usd": 42350.12
+      }
+    ],
+    "total_weight_kg": 2413.29,
+    "total_value_usd": 62620.94,
+    "service": "Ground",
+    "named_port": "London Heathrow",
+    "insurance_value_usd": 41644.47,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-522029",
+    "destination_country": "Canada"
+  }
+}

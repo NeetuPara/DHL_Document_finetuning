@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0807",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Allen International Inc.",
+    "shipper_address": "PSC 9320, Box 7627, APO AE 92245, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Pacific Roy GmbH",
+    "consignee_address": "4947 Gabrielle Keys Suite 135, South Megan, CT 99349, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+23 742-466-2649",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 44,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 35.06,
+        "qty_unit": "g",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 16,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 66.23,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "James Salazar",
+    "signature_date": "2026-04-23",
+    "signature_place": "Spain",
+    "awb_number": "057-38864946",
+    "flight_number": "SQ8922",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "JFK",
+    "destination_airport_name": "JFK New York",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

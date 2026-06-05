@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0460",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Rodriguez Industry Pte Ltd",
+    "shipper_address": "1718 Lori Ford Suite 474, West Jeffreyland, CT 40182, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Foley Tech B.V.",
+    "consignee_address": "70532 Jennifer Common, Lewisshire, AK 38789, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+12 215-814-2335",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 14,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 75.31,
+        "qty_unit": "g",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Susan Black MD",
+    "signature_date": "2026-05-12",
+    "signature_place": "Germany",
+    "awb_number": "085-73033948",
+    "flight_number": "CX487",
+    "flight_date": "2026-05-27",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi"
+  }
+}

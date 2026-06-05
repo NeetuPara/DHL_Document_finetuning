@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0273",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Mary Harvey",
+    "addressee_company": "Tech Holmes B.V.",
+    "addressee_address": "53390 Robert Gardens Suite 858, Durhamside, SC 07735, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 12.174,
+    "total_value": 1133.93,
+    "currency": "JPY",
+    "issue_date": "2026-01-31",
+    "reference": "REF-691426",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.839,
+        "value": 512.1,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 1,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.167,
+        "value": 44.83,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 20,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.168,
+        "value": 577.0,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Italy"
+      }
+    ],
+    "sender_country": "Singapore",
+    "port_of_entry": "Miami, FL",
+    "entry_number": "843-92003274-8",
+    "entry_type": "Informal Entry",
+    "duty_rate": 19.5,
+    "estimated_duty": 221.12,
+    "importer_ein": "69-9293650",
+    "customs_broker": "Pacific Dean AG"
+  }
+}

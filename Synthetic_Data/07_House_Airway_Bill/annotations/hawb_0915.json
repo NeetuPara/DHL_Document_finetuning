@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0915",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-91477822",
+    "mawb_number": "125-33155571",
+    "shipper_name": "Williams Tech LLC",
+    "shipper_address": "USNS Drake, FPO AE 46891, South Korea",
+    "consignee_name": "Trade Lee Ltd",
+    "consignee_address": "055 Townsend Camp Apt. 551, Walkerburgh, NM 46846, Sweden",
+    "agent_name": "Tech Davis AG",
+    "airport_departure": "ICN",
+    "airport_destination": "LAX",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "SGD 34,655.75",
+    "declared_value_customs": "NCV",
+    "n_pieces": 9,
+    "gross_weight_kg": 416.1,
+    "chargeable_weight": 471.0,
+    "rate": 5.37,
+    "total_charge": 2529.27,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-12-17",
+    "signatory": "Michele Dixon",
+    "iata_code": "23-900",
+    "agent_cass": "3210-8670",
+    "consolidation_ref": "CONS-7993-793555",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-59942648",
+        "pieces": 20,
+        "weight": 12.9,
+        "destination": "JFK",
+        "consignee": "Global Stokes B.V.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "160-77088001",
+        "pieces": 4,
+        "weight": 84.6,
+        "destination": "HKG",
+        "consignee": "Industry Escobar GmbH",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "085-81867657",
+        "pieces": 15,
+        "weight": 48.5,
+        "destination": "FRA",
+        "consignee": "Dominguez Industry Corp.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "057-16615503",
+        "pieces": 18,
+        "weight": 31.6,
+        "destination": "JFK",
+        "consignee": "Novak Trade Inc.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "045-64095542",
+        "pieces": 3,
+        "weight": 33.5,
+        "destination": "YYZ",
+        "consignee": "Lewis Pacific LLC",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

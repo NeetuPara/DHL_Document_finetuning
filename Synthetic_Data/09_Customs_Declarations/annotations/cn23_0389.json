@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0389",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Joshua Lewis",
+    "addressee_company": "Global Martinez Corp.",
+    "addressee_address": "8929 Glass Run Suite 975, North Katherine, MD 72437, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 12.555,
+    "total_value": 1916.06,
+    "currency": "USD",
+    "issue_date": "2026-04-09",
+    "reference": "REF-636517",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.309,
+        "value": 99.96,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 14,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.808,
+        "value": 1120.7,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 2,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 1.822,
+        "value": 299.78,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 4,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.287,
+        "value": 141.08,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 13,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.329,
+        "value": 254.54,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Billy Williams",
+    "sender_company": "Global Smith Inc.",
+    "sender_address": "215 Lisa Landing, Port Chrisland, ND 61927, South Korea",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 2107.67,
+    "postal_charges": 13.88,
+    "tracking_number": "TD942407618QE"
+  }
+}

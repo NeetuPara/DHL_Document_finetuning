@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0308",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250124684581",
+    "export_date": "2025-11-13",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Bowman Tech Pte Ltd",
+    "usppi_ein": "42-8429486",
+    "usppi_address": "290 Foster Islands Apt. 407, Elizabethbury, AS 68693, Switzerland",
+    "ultimate_consignee": "Lewis Tech Pte Ltd",
+    "intermediate_consignee": "Tech Wood S.A.",
+    "forwarding_agent": "Global Dalton LLC",
+    "destination_country": "Sweden",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "160-59397492",
+    "total_value": 258381.44,
+    "currency": "JPY",
+    "signatory": "Dana Jenkins",
+    "line_items": [
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Italy",
+        "qty": 273,
+        "unit": "PCS",
+        "entered_value": 89612.25,
+        "duty_rate": 19.2,
+        "duty_amount": 17205.55,
+        "eccn": "9A515",
+        "schedule_b": "8518.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Mexico",
+        "qty": 393,
+        "unit": "PCS",
+        "entered_value": 121012.56,
+        "duty_rate": 0.7,
+        "duty_amount": 847.09,
+        "eccn": "1A002",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "United Kingdom",
+        "qty": 35,
+        "unit": "PCS",
+        "entered_value": 11944.1,
+        "duty_rate": 11.8,
+        "duty_amount": 1409.4,
+        "eccn": "0A919",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 179,
+        "unit": "PCS",
+        "entered_value": 35812.53,
+        "duty_rate": 18.0,
+        "duty_amount": 6446.26,
+        "eccn": "5E992",
+        "schedule_b": "8483.40.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

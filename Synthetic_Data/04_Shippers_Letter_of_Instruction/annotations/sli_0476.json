@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0476",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202110-7912",
+    "usppi_name": "Jones Commerce Corp.",
+    "usppi_address": "9819 Sweeney Streets Apt. 253, North Mark, MN 35541, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "93-8264665",
+    "consignee_name": "Harris Trade GmbH",
+    "consignee_address": "37523 Greene Bypass, South Crystal, DC 83000, India",
+    "consignee_country": "India",
+    "notify_party": "Trade Conley Corp.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "John Campbell",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/12",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 198,
+        "unit": "LTR",
+        "weight_kg": 188.42,
+        "value_usd": 5278.32
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 195,
+        "unit": "PCS",
+        "weight_kg": 110.3,
+        "value_usd": 128588.43
+      },
+      {
+        "marks": "SLI/23",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 157,
+        "unit": "MTR",
+        "weight_kg": 182.33,
+        "value_usd": 1344.83
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 146,
+        "unit": "CTN",
+        "weight_kg": 219.47,
+        "value_usd": 8229.88
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 190,
+        "unit": "PCS",
+        "weight_kg": 110.67,
+        "value_usd": 878.07
+      },
+      {
+        "marks": "SLI/2",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 129,
+        "unit": "KGS",
+        "weight_kg": 129.0,
+        "value_usd": 1092.79
+      }
+    ],
+    "total_weight_kg": 940.19,
+    "total_value_usd": 145412.32,
+    "service": "Express Courier",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 11148.36,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-594139",
+    "destination_country": "India"
+  }
+}

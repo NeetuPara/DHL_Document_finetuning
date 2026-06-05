@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0177",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Mr. Michael Bates Jr.",
+    "addressee_company": "Nichols Global Corp.",
+    "addressee_address": "28961 Luna Crescent, East Nancyfurt, SD 08189, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 7.781,
+    "total_value": 753.37,
+    "currency": "CAD",
+    "issue_date": "2025-05-16",
+    "reference": "REF-519340",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.541,
+        "value": 16.69,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 8,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.204,
+        "value": 589.76,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 4,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.036,
+        "value": 146.92,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_country": "South Korea",
+    "port_of_entry": "Los Angeles, CA",
+    "entry_number": "951-51170069-0",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 22.7,
+    "estimated_duty": 171.01,
+    "importer_ein": "55-7348235",
+    "customs_broker": "Mitchell Pacific Co."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0993",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Foster S.A.",
+    "shipper_address": "Unit 5817 Box 8671, DPO AA 04958, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Mitchell International Pte Ltd",
+    "consignee_address": "10149 Michael Lake Suite 724, Schwartzport, ME 92711, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+10 498-536-4770",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 33,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 75.89,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 31,
+        "pkg_type": "Steel Drum",
+        "net_qty": 74.75,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "James Tate",
+    "signature_date": "2026-05-04",
+    "signature_place": "Spain",
+    "awb_number": "074-13141864",
+    "flight_number": "LH3478",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

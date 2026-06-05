@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0796",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202305-3071",
+    "usppi_name": "Global Richardson AG",
+    "usppi_address": "57991 Montoya Glen, Taylormouth, AR 79693, Italy",
+    "usppi_country": "Italy",
+    "ein": "69-1798284",
+    "consignee_name": "Guzman Global S.A.",
+    "consignee_address": "PSC 9914, Box 5022, APO AP 97378, France",
+    "consignee_country": "France",
+    "notify_party": "Hill Commerce B.V.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "EXW",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Mary Larson",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/49",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 151,
+        "unit": "PKG",
+        "weight_kg": 48.9,
+        "value_usd": 4287.63
+      },
+      {
+        "marks": "EXP/42",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 149,
+        "unit": "PCS",
+        "weight_kg": 219.75,
+        "value_usd": 1877.86
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 9,
+        "unit": "KGS",
+        "weight_kg": 9.0,
+        "value_usd": 160.8
+      },
+      {
+        "marks": "EXP/33",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 132,
+        "unit": "PCS",
+        "weight_kg": 187.76,
+        "value_usd": 174001.33
+      },
+      {
+        "marks": "SLI/2",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 195,
+        "unit": "BOX",
+        "weight_kg": 156.7,
+        "value_usd": 9209.59
+      }
+    ],
+    "total_weight_kg": 622.11,
+    "total_value_usd": 189537.21,
+    "service": "Air Freight",
+    "named_port": "Sydney Kingsford Smith",
+    "insurance_value_usd": 3859.87,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-991363",
+    "destination_country": "France"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0790",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Frederick Co.",
+    "shipper_address": "9074 Bullock Prairie, East Sara, CO 58512, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Global Hill Co.",
+    "consignee_address": "76758 Sherri Isle, North Alan, OK 83454, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+51 533-554-9766",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 4,
+        "pkg_type": "Steel Drum",
+        "net_qty": 15.3,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 40,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 62.01,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Nicole Gallagher",
+    "signature_date": "2026-04-28",
+    "signature_place": "United States",
+    "awb_number": "176-45670563",
+    "flight_number": "DL5411",
+    "flight_date": "2026-04-28",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare"
+  }
+}

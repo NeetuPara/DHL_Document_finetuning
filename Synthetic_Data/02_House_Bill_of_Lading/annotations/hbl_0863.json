@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0863",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU626334921",
+    "shipper_name": "Industry Rice Corp.",
+    "shipper_address": "3783 Rachel Knoll Apt. 899, West Kathleenstad, MA 38030, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Clark International S.A.",
+    "consignee_address": "5570 Erin Locks Apt. 916, Williamsonmouth, MP 60479, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Lutz International Inc.",
+    "notify_party_address": "9827 Samantha Shore, East James, WY 85740, Malaysia",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "291S",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2025-05-29",
+    "issue_place": "Singapore",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "EBLX9149380",
+        "seal_no": "SL804004",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "SHSO1642066",
+        "seal_no": "BL760534",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "KKSY2721253",
+        "seal_no": "BL205967",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "number_of_packages": 32,
+    "package_type": "Bundle",
+    "gross_weight_kg": 21227.0,
+    "net_weight_kg": 20171.3,
+    "cbm": 1.795,
+    "marks_and_numbers": "XYZ/3"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0360",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-84889867",
+    "mawb_number": "020-20870576",
+    "shipper_name": "Hicks Commerce GmbH",
+    "shipper_address": "547 Alexander Mews Apt. 087, Carolmouth, MS 43704, Thailand",
+    "consignee_name": "Smith Trade Pte Ltd",
+    "consignee_address": "PSC 8569, Box 0312, APO AE 76042, Italy",
+    "agent_name": "Quinn Industry LLC",
+    "airport_departure": "DXB",
+    "airport_destination": "MIA",
+    "currency": "USD",
+    "charge_code": "PP",
+    "declared_value_carriage": "USD 34,872.56",
+    "declared_value_customs": "NCV",
+    "n_pieces": 29,
+    "gross_weight_kg": 52.2,
+    "chargeable_weight": 66.4,
+    "rate": 7.11,
+    "total_charge": 472.1,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-02-01",
+    "signatory": "Diana Morton",
+    "iata_code": "55-734",
+    "agent_cass": "3636-4445",
+    "consolidation_ref": "CONS-9297-711672",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-20733624",
+        "pieces": 16,
+        "weight": 17.8,
+        "destination": "ICN",
+        "consignee": "Williams Trade AG",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "176-87472939",
+        "pieces": 17,
+        "weight": 25.7,
+        "destination": "SIN",
+        "consignee": "Garcia Industry Co.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "057-72094636",
+        "pieces": 4,
+        "weight": 48.2,
+        "destination": "YYZ",
+        "consignee": "International Wong Pte Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "020-13407559",
+        "pieces": 18,
+        "weight": 87.9,
+        "destination": "NRT",
+        "consignee": "International Mcdonald LLC",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "085-27376682",
+        "pieces": 2,
+        "weight": 50.2,
+        "destination": "PVG",
+        "consignee": "Hoover Global Pte Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "006-69964760",
+        "pieces": 6,
+        "weight": 77.7,
+        "destination": "HKG",
+        "consignee": "Freeman Tech GmbH",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "074-20416872",
+        "pieces": 7,
+        "weight": 75.7,
+        "destination": "SIN",
+        "consignee": "Mcgee Global Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "057-62742341",
+        "pieces": 8,
+        "weight": 13.8,
+        "destination": "AMS",
+        "consignee": "Trade Johnson Ltd",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "document_id": "vgm_0854",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Jones International Ltd",
+    "shipper_address": "8072 Stewart Pike Apt. 038, Beasleybury, NM 63759, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "container_number": "DVPD0001547",
+    "seal_number": "BL444737",
+    "container_size": "40'GP",
+    "iso_type_code": "42G0",
+    "tare_weight_kg": 3800,
+    "cargo_weight_kg": 4523.7,
+    "packing_materials_kg": 292.4,
+    "vgm_kg": 8616.1,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "190W",
+    "bl_number": "DHLG498222365",
+    "booking_reference": "BKG-703081",
+    "weighing_scale_type": "Certified Static Scale",
+    "scale_serial": "Serial No.-55622",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-26",
+    "signature_date": "2026-05-09",
+    "signatory_name": "Dana Ross",
+    "signatory_title": "Operations Director",
+    "number_of_packages": 8,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Drum",
+        "n_units": 18,
+        "gross_wt_kg": 551.1
+      },
+      {
+        "item_no": 2,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Bundle",
+        "n_units": 1,
+        "gross_wt_kg": 260.3
+      },
+      {
+        "item_no": 3,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Cylinder",
+        "n_units": 7,
+        "gross_wt_kg": 359.2
+      },
+      {
+        "item_no": 4,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Carton",
+        "n_units": 11,
+        "gross_wt_kg": 300.5
+      },
+      {
+        "item_no": 5,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Case",
+        "n_units": 16,
+        "gross_wt_kg": 455.6
+      },
+      {
+        "item_no": 6,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Pallet",
+        "n_units": 6,
+        "gross_wt_kg": 362.0
+      },
+      {
+        "item_no": 7,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Bag",
+        "n_units": 19,
+        "gross_wt_kg": 942.9
+      },
+      {
+        "item_no": 8,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Pallet",
+        "n_units": 14,
+        "gross_wt_kg": 1292.1
+      }
+    ]
+  }
+}

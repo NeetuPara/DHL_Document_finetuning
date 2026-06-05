@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0996",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-36827862",
+    "mawb_number": "125-25955785",
+    "shipper_name": "Trade Schneider Corp.",
+    "shipper_address": "92828 Banks Lock Apt. 475, South Mariastad, RI 32378, Australia",
+    "consignee_name": "Jacobson Tech B.V.",
+    "consignee_address": "20984 Gray Causeway Apt. 022, North Sarahstad, IN 17011, United States",
+    "agent_name": "Cortez Trade Ltd",
+    "airport_departure": "AMS",
+    "airport_destination": "LAX",
+    "currency": "USD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 40,
+    "gross_weight_kg": 348.3,
+    "chargeable_weight": 373.2,
+    "rate": 12.0,
+    "total_charge": 4478.4,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-01-10",
+    "signatory": "Jasmine Clark",
+    "iata_code": "91-265",
+    "agent_cass": "6686-9668",
+    "consolidation_ref": "CONS-2585-071318",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-24115389",
+        "pieces": 7,
+        "weight": 39.6,
+        "destination": "ORD",
+        "consignee": "Commerce Hall GmbH",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "045-99676712",
+        "pieces": 19,
+        "weight": 68.6,
+        "destination": "ORD",
+        "consignee": "Global Miller S.A.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "125-27410135",
+        "pieces": 20,
+        "weight": 96.3,
+        "destination": "ORD",
+        "consignee": "Global Knox LLC",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "160-32328271",
+        "pieces": 20,
+        "weight": 35.5,
+        "destination": "ORD",
+        "consignee": "Dougherty Industry GmbH",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

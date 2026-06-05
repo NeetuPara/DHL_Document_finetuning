@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0530",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kelly King",
+    "addressee_company": "Gray Trade Pte Ltd",
+    "addressee_address": "196 Acosta Tunnel, Shawnton, NC 22501, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 0.602,
+    "total_value": 1650.24,
+    "currency": "GBP",
+    "issue_date": "2026-01-29",
+    "reference": "REF-663447",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.602,
+        "value": 1650.24,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Canada"
+      }
+    ],
+    "sender_name": "Steven Gibson",
+    "sender_company": "Industry Thompson Ltd",
+    "sender_address": "227 Kelly Alley, Howellburgh, GU 53267, Brazil",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 62.45,
+    "tracking_number": "QP248047670UA"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0265",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG225761842",
+    "shipper_name": "Pacific Moon Co.",
+    "shipper_address": "84879 Tapia Centers, New Josephburgh, NC 34897, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Hughes Trade GmbH",
+    "consignee_address": "1347 Thomas Fork, New Gary, VT 10737, France",
+    "consignee_country": "France",
+    "notify_party_name": "Dudley Trade B.V.",
+    "notify_party_address": "129 Arias Mews, North Cathy, MS 76859, Japan",
+    "vessel": "MADRID MAERSK",
+    "voyage": "613W",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2025-10-23",
+    "issue_place": "Tanjung Pelepas",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "FGCZ0967009",
+        "seal_no": "CL664355",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "AQNK1003898",
+        "seal_no": "SL638251",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "LDTX1748960",
+        "seal_no": "BL986167",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "YONH0614974",
+        "seal_no": "CL224367",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 201,
+    "package_type": "Pallet",
+    "gross_weight_kg": 6160.1,
+    "net_weight_kg": 5716.5,
+    "cbm": 23.058,
+    "marks_and_numbers": "XYZ/44"
+  }
+}

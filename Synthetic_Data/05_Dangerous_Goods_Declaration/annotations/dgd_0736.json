@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0736",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Clayton International Inc.",
+    "shipper_address": "139 Carlos Squares, East Brittany, KS 71644, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Global Dixon Corp.",
+    "consignee_address": "58097 Sharon Causeway, Josephview, AK 92718, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+49 260-773-9403",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 19,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 48.89,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Eric Rodriguez",
+    "signature_date": "2026-05-04",
+    "signature_place": "Sweden",
+    "awb_number": "045-11904530",
+    "flight_number": "EK1776",
+    "flight_date": "2026-04-30",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "SYD",
+    "destination_airport_name": "Sydney Kingsford Smith"
+  }
+}

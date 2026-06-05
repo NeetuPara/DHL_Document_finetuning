@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0406",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Cortez Tech Inc.",
+    "shipper_address": "177 Steven Coves Suite 368, Rosstown, AR 51355, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Romero International Ltd",
+    "consignee_address": "74277 Christopher Mission, South Ross, MH 35866, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+87 496-327-4208",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 39,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 46.85,
+        "qty_unit": "g",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 11,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 93.81,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-299904",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Ruth Walker",
+    "signature_date": "2026-04-25",
+    "signature_place": "Canada",
+    "awb_number": "020-85563825",
+    "flight_number": "EK3670",
+    "flight_date": "2026-06-10",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "HKG",
+    "destination_airport_name": "Hong Kong International"
+  }
+}

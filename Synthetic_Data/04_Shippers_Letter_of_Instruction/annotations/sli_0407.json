@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0407",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202102-2895",
+    "usppi_name": "International Jones AG",
+    "usppi_address": "1677 Davis Plain Suite 943, Hillchester, RI 42222, Germany",
+    "usppi_country": "Germany",
+    "ein": "81-4475509",
+    "consignee_name": "Commerce Smith Ltd",
+    "consignee_address": "29334 Denise Stream, New Jasonbury, PW 18548, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Industry Farrell GmbH",
+    "forwarder": "Expeditors",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "EAR99",
+    "signatory_name": "Hannah Richardson",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/25",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 69,
+        "unit": "PKG",
+        "weight_kg": 68.85,
+        "value_usd": 814.87
+      },
+      {
+        "marks": "ABC/12",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 117,
+        "unit": "PCS",
+        "weight_kg": 2069.57,
+        "value_usd": 26095.6
+      },
+      {
+        "marks": "EXP/48",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 108,
+        "unit": "PCS",
+        "weight_kg": 41.11,
+        "value_usd": 11332.13
+      },
+      {
+        "marks": "SLI/19",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 45,
+        "unit": "KGS",
+        "weight_kg": 45.0,
+        "value_usd": 628.21
+      }
+    ],
+    "total_weight_kg": 2224.53,
+    "total_value_usd": 38870.81,
+    "service": "LCL Ocean",
+    "named_port": "Colombo, LK",
+    "insurance_value_usd": 15157.32,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-565458",
+    "destination_country": "Spain"
+  }
+}

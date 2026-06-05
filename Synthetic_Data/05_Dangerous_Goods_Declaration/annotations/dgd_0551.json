@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0551",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Kelly AG",
+    "shipper_address": "13886 Richardson Run, East Lynnside, LA 59675, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Hernandez Commerce Corp.",
+    "consignee_address": "Unit 4729 Box 1462, DPO AE 77067, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+31 264-742-2500",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 7,
+        "pkg_type": "Steel Drum",
+        "net_qty": 37.25,
+        "qty_unit": "g",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-449695",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "David Yang",
+    "signature_date": "2026-05-11",
+    "signature_place": "United Kingdom",
+    "vessel": "CSCL GLOBE",
+    "voyage": "853W",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Long Beach, US"
+  }
+}

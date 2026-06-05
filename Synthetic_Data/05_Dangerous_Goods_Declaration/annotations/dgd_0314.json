@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0314",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Paul Corp.",
+    "shipper_address": "161 Hartman Crossing Apt. 186, Williamberg, GA 30993, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "International Mooney Ltd",
+    "consignee_address": "29164 Powell Views Apt. 920, Melissaburgh, MT 57853, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+79 481-263-1987",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 28,
+        "pkg_type": "Steel Drum",
+        "net_qty": 6.81,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 25,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 40.86,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Kristen Williams",
+    "signature_date": "2026-04-14",
+    "signature_place": "South Korea",
+    "vessel": "PIL PACIFIC",
+    "voyage": "775W",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Long Beach, US"
+  }
+}

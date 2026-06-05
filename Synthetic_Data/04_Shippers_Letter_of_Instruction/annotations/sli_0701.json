@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0701",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202509-3837",
+    "usppi_name": "Price Commerce GmbH",
+    "usppi_address": "9047 Ivan Way Suite 044, South Angelaville, MD 90848, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "95-7875552",
+    "consignee_name": "International Hunt Inc.",
+    "consignee_address": "PSC 0161, Box 0762, APO AP 21323, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Jones Industry GmbH",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIP",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Jessica Thompson",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/5",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 187,
+        "unit": "PCS",
+        "weight_kg": 251.75,
+        "value_usd": 225460.03
+      },
+      {
+        "marks": "ABC/6",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 122,
+        "unit": "PCS",
+        "weight_kg": 2263.73,
+        "value_usd": 48937.87
+      }
+    ],
+    "total_weight_kg": 2515.48,
+    "total_value_usd": 274397.9,
+    "service": "Air Freight",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 45418.73,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-968181",
+    "destination_country": "United Arab Emirates"
+  }
+}

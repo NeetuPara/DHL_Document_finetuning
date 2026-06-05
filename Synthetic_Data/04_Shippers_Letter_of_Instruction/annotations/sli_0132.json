@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0132",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202310-2127",
+    "usppi_name": "Moore Trade Pte Ltd",
+    "usppi_address": "54735 Amy Grove Apt. 742, Huffmanland, MT 28897, Spain",
+    "usppi_country": "Spain",
+    "ein": "82-6422882",
+    "consignee_name": "Global Olsen B.V.",
+    "consignee_address": "51988 Alex Mountains, Robinsonfort, NE 46661, United States",
+    "consignee_country": "United States",
+    "notify_party": "Carroll Industry S.A.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Samuel Trujillo",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/16",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 40,
+        "unit": "PCS",
+        "weight_kg": 534.78,
+        "value_usd": 27614.57
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 142,
+        "unit": "CTN",
+        "weight_kg": 139.08,
+        "value_usd": 1910.85
+      },
+      {
+        "marks": "SLI/37",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 86,
+        "unit": "BOX",
+        "weight_kg": 159.58,
+        "value_usd": 6160.19
+      },
+      {
+        "marks": "SLI/15",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 50,
+        "unit": "PCS",
+        "weight_kg": 7.35,
+        "value_usd": 3074.39
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 54,
+        "unit": "PKG",
+        "weight_kg": 104.38,
+        "value_usd": 3282.16
+      },
+      {
+        "marks": "ABC/49",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 116,
+        "unit": "PCS",
+        "weight_kg": 18.2,
+        "value_usd": 24463.83
+      }
+    ],
+    "total_weight_kg": 963.37,
+    "total_value_usd": 66505.99,
+    "vessel": "CSCL GLOBE",
+    "voyage": "827W",
+    "booking_ref": "BKG-500161",
+    "bl_number": "YMLU120366713",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "NATK5583077",
+    "seal_number": "BL675654",
+    "container_type": "40'HC",
+    "cbm": 20.483
+  }
+}

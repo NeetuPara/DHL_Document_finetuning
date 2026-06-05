@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0148",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202206-1059",
+    "usppi_name": "Industry Rice S.A.",
+    "usppi_address": "45877 Howell Trace, Knappfurt, KS 97683, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "12-9457380",
+    "consignee_name": "Commerce Mendoza LLC",
+    "consignee_address": "280 Silva Fort, West Emily, DE 10640, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Hess Tech Corp.",
+    "forwarder": "Panalpina",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Mr. Keith Rodriguez PhD",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/12",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 42,
+        "unit": "SET",
+        "weight_kg": 69.29,
+        "value_usd": 7497.28
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 106,
+        "unit": "PCS",
+        "weight_kg": 1399.76,
+        "value_usd": 82606.88
+      }
+    ],
+    "total_weight_kg": 1469.05,
+    "total_value_usd": 90104.16,
+    "service": "Air Freight",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 4965.72,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-532005",
+    "destination_country": "Poland"
+  }
+}

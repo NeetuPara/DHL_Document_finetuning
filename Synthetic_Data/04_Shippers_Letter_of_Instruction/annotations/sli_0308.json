@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0308",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202110-9488",
+    "usppi_name": "Duncan International Ltd",
+    "usppi_address": "0721 Ortega Hill Suite 552, East Tonya, NM 70973, Italy",
+    "usppi_country": "Italy",
+    "ein": "13-1038696",
+    "consignee_name": "Alvarez Commerce Pte Ltd",
+    "consignee_address": "PSC 1178, Box 0267, APO AA 40412, China",
+    "consignee_country": "China",
+    "notify_party": "International Bowman Pte Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Sarah Gomez",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/40",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 89,
+        "unit": "PCS",
+        "weight_kg": 126.68,
+        "value_usd": 2152.09
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 33,
+        "unit": "KGS",
+        "weight_kg": 33.0,
+        "value_usd": 351.14
+      },
+      {
+        "marks": "ABC/43",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 28,
+        "unit": "PCS",
+        "weight_kg": 9.56,
+        "value_usd": 38320.72
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 143,
+        "unit": "PCS",
+        "weight_kg": 57.63,
+        "value_usd": 4344.12
+      },
+      {
+        "marks": "EXP/32",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 90,
+        "unit": "SET",
+        "weight_kg": 174.15,
+        "value_usd": 4515.52
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 24,
+        "unit": "MTR",
+        "weight_kg": 22.99,
+        "value_usd": 374.44
+      }
+    ],
+    "total_weight_kg": 424.01,
+    "total_value_usd": 50058.03,
+    "service": "Express Courier",
+    "named_port": "Seoul Incheon",
+    "insurance_value_usd": 35765.36,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-640311",
+    "destination_country": "China"
+  }
+}

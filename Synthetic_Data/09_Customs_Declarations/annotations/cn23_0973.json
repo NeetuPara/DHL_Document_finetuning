@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0973",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "James Gordon",
+    "addressee_company": "Mcmillan International B.V.",
+    "addressee_address": "Unit 0716 Box 2774, DPO AP 81825, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 9.103,
+    "total_value": 3540.96,
+    "currency": "USD",
+    "issue_date": "2025-11-20",
+    "reference": "REF-926816",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.751,
+        "value": 580.65,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 14,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.961,
+        "value": 1021.44,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 17,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.622,
+        "value": 1588.65,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 13,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 0.769,
+        "value": 350.22,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_name": "Emily Martinez",
+    "sender_company": "Trade Preston Pte Ltd",
+    "sender_address": "3879 Kelly River, Robintown, AL 62462, Mexico",
+    "sender_phone": "(699)416-7859",
+    "sender_email": "martinwest@example.com",
+    "addressee_phone": "(919)457-6429x855",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 26.3,
+    "tracking_number": "WC329960854FJ"
+  }
+}

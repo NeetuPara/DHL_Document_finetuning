@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0039",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202604-4936",
+    "usppi_name": "Pacific Medina Inc.",
+    "usppi_address": "5127 Houston Village Apt. 242, Washingtonville, AR 04980, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "89-9795579",
+    "consignee_name": "Global Woods GmbH",
+    "consignee_address": "335 Kristen Freeway, East Tammy, MP 10984, France",
+    "consignee_country": "France",
+    "notify_party": "Pacific Davies Corp.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Timothy Butler",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/2",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 58,
+        "unit": "PCS",
+        "weight_kg": 49.29,
+        "value_usd": 21335.47
+      },
+      {
+        "marks": "EXP/35",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 25,
+        "unit": "PCS",
+        "weight_kg": 3.19,
+        "value_usd": 2181.91
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 124,
+        "unit": "PCS",
+        "weight_kg": 1799.3,
+        "value_usd": 20577.5
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 45,
+        "unit": "PCS",
+        "weight_kg": 3.67,
+        "value_usd": 2407.25
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 140,
+        "unit": "BOX",
+        "weight_kg": 193.78,
+        "value_usd": 9945.7
+      },
+      {
+        "marks": "EXP/9",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 58,
+        "unit": "CTN",
+        "weight_kg": 57.31,
+        "value_usd": 454.11
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 35,
+        "unit": "KGS",
+        "weight_kg": 35.0,
+        "value_usd": 670.53
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 132,
+        "unit": "PCS",
+        "weight_kg": 68.45,
+        "value_usd": 397.87
+      }
+    ],
+    "total_weight_kg": 2209.99,
+    "total_value_usd": 57970.34,
+    "vessel": "EVER GOLDEN",
+    "voyage": "874E",
+    "booking_ref": "BKG-597859",
+    "bl_number": "MAEU236998030",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Tokyo, JP",
+    "container_number": "AKLU8885978",
+    "seal_number": "BL616175",
+    "container_type": "40'HC",
+    "cbm": 23.179
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0145",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU493642056",
+    "shipper_name": "Tech Peters Inc.",
+    "shipper_address": "896 Jennifer Grove Apt. 665, New Margaretfort, TX 02967, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Brooks Tech Pte Ltd",
+    "consignee_address": "PSC 4628, Box 0170, APO AE 16441, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "International Rodriguez Inc.",
+    "notify_party_address": "250 Maynard Trail Apt. 237, East Lisabury, ID 56898, France",
+    "vessel": "MADRID MAERSK",
+    "voyage": "162N",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Dubai, AE",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2024-12-22",
+    "issue_place": "Felixstowe",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "VMME2428659",
+        "seal_no": "CL786646",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "HIIA2862127",
+        "seal_no": "BL627191",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "YNIH3252167",
+        "seal_no": "BL905926",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "HXQR8947408",
+        "seal_no": "SL345316",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 211,
+    "package_type": "Roll",
+    "gross_weight_kg": 7072.4,
+    "net_weight_kg": 6715.1,
+    "cbm": 12.427,
+    "marks_and_numbers": "GLB/48"
+  }
+}

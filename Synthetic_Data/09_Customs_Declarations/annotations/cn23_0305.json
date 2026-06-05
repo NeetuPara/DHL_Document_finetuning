@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0305",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Charlotte Kline",
+    "addressee_company": "Pacific Johnson Corp.",
+    "addressee_address": "USNS Hensley, FPO AA 08096, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 5.509,
+    "total_value": 1232.54,
+    "currency": "GBP",
+    "issue_date": "2026-05-05",
+    "reference": "REF-881596",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.841,
+        "value": 288.12,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 6,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.777,
+        "value": 113.22,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 8,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.891,
+        "value": 831.2,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_name": "Ashley Johnson",
+    "sender_company": "Jones Pacific Co.",
+    "sender_address": "98793 Ellis Port, North Davidburgh, VA 21657, India",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 27.14,
+    "tracking_number": "HA828332644XJ"
+  }
+}

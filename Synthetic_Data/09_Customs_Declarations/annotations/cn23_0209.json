@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0209",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Lauren Green",
+    "addressee_company": "Sanders Industry Corp.",
+    "addressee_address": "807 Carrillo Greens Apt. 904, New Edwardland, WI 13666, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 2.499,
+    "total_value": 1483.6,
+    "currency": "CAD",
+    "issue_date": "2025-09-15",
+    "reference": "REF-991055",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.499,
+        "value": 1483.6,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Lauren Doyle",
+    "sender_company": "International Daniel Inc.",
+    "sender_address": "95030 Scott Junction Apt. 118, Johnborough, WV 37456, Belgium",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 1631.96,
+    "postal_charges": 35.46,
+    "tracking_number": "OJ298419185HV"
+  }
+}

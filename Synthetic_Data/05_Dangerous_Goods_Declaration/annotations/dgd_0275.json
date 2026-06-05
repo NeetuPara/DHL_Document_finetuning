@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0275",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Barnes GmbH",
+    "shipper_address": "38848 Priscilla View Suite 105, Bridgetshire, NM 87496, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Global French B.V.",
+    "consignee_address": "46843 Perry Orchard Suite 880, Parsonsmouth, FL 18854, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+66 130-486-8966",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 8,
+        "pkg_type": "Steel Drum",
+        "net_qty": 17.33,
+        "qty_unit": "L",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-495016",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 5,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 55.88,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-630031",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Kathy Galloway",
+    "signature_date": "2026-05-06",
+    "signature_place": "United Arab Emirates",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "928N",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Qingdao, CN"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0036",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Brittany Cook",
+    "addressee_company": "Allen Commerce Inc.",
+    "addressee_address": "2742 Janet Causeway, East Jennifermouth, MO 14658, China",
+    "addressee_country": "China",
+    "total_weight_kg": 4.628,
+    "total_value": 653.89,
+    "currency": "EUR",
+    "issue_date": "2025-11-17",
+    "reference": "REF-041779",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.694,
+        "value": 426.57,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 4,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.934,
+        "value": 227.32,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_country": "Netherlands",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "671-28744534-2",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 5.6,
+    "estimated_duty": 36.62,
+    "importer_ein": "90-6434360",
+    "customs_broker": "Commerce Neal GmbH"
+  }
+}

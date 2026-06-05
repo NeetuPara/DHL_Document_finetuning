@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0993",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Michael Hogan",
+    "addressee_company": "Global Roberts Inc.",
+    "addressee_address": "1699 Melissa Drives, Tammyborough, CA 70311, United Kingdom",
+    "addressee_country": "United Kingdom",
+    "total_weight_kg": 11.011,
+    "total_value": 2222.65,
+    "currency": "SGD",
+    "issue_date": "2025-09-07",
+    "reference": "REF-541437",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.252,
+        "value": 979.5,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 11,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.376,
+        "value": 612.15,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 20,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.383,
+        "value": 631.0,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_country": "Singapore",
+    "port_of_entry": "Chicago, IL",
+    "entry_number": "269-50111542-5",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 0.7,
+    "estimated_duty": 15.56,
+    "importer_ein": "02-1376106",
+    "customs_broker": "Taylor Commerce Inc."
+  }
+}

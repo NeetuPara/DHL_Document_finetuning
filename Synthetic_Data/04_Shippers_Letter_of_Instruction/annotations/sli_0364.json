@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0364",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202210-9334",
+    "usppi_name": "Deleon Commerce B.V.",
+    "usppi_address": "PSC 1633, Box 3056, APO AA 39100, Canada",
+    "usppi_country": "Canada",
+    "ein": "76-9153666",
+    "consignee_name": "International Benjamin S.A.",
+    "consignee_address": "722 Peggy Shores Apt. 626, East Aliciaborough, OR 56371, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Commerce Olson S.A.",
+    "forwarder": "Panalpina",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "7A994",
+    "signatory_name": "Laura Lewis",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/3",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 10,
+        "unit": "CTN",
+        "weight_kg": 18.25,
+        "value_usd": 129.06
+      },
+      {
+        "marks": "EXP/42",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 106,
+        "unit": "LTR",
+        "weight_kg": 96.73,
+        "value_usd": 2152.81
+      }
+    ],
+    "total_weight_kg": 114.98,
+    "total_value_usd": 2281.87,
+    "service": "Air Freight",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 37492.34,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-263380",
+    "destination_country": "Sweden"
+  }
+}

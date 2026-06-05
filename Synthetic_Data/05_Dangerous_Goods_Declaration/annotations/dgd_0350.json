@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0350",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Martinez LLC",
+    "shipper_address": "031 Jessica Track Apt. 646, Tranbury, VA 17458, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Commerce Jenkins GmbH",
+    "consignee_address": "69380 Barron Causeway Apt. 488, Port Michael, NJ 27155, China",
+    "consignee_country": "China",
+    "emergency_telephone": "+22 772-612-6839",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 16,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 48.75,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 34,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 71.79,
+        "qty_unit": "mL",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Emily Ho",
+    "signature_date": "2026-05-08",
+    "signature_place": "Canada",
+    "vessel": "PIL PACIFIC",
+    "voyage": "785W",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Colombo, LK"
+  }
+}

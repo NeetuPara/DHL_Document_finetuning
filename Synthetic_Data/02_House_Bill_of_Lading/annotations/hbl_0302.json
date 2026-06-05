@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0302",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU237079186",
+    "shipper_name": "Davis Global Pte Ltd",
+    "shipper_address": "324 Tina Shores Apt. 009, South Manuel, IN 25662, India",
+    "shipper_country": "India",
+    "consignee_name": "Rice Trade Co.",
+    "consignee_address": "6800 Brown Meadow Suite 531, Lake Manuelshire, WV 03102, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party_name": "Industry Kim Pte Ltd",
+    "notify_party_address": "595 White Views, West Sharon, CO 47004, Spain",
+    "vessel": "EVER GOLDEN",
+    "voyage": "781W",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2024-11-17",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "MOPO1260043",
+        "seal_no": "CL145313",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "QETU9177444",
+        "seal_no": "SL930107",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 368,
+    "package_type": "Carton",
+    "gross_weight_kg": 16289.7,
+    "net_weight_kg": 15202.1,
+    "cbm": 27.61,
+    "marks_and_numbers": "ABC/2"
+  }
+}

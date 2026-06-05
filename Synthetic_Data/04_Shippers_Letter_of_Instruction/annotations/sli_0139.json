@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0139",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202102-7627",
+    "usppi_name": "Clayton Trade Ltd",
+    "usppi_address": "5680 Stacey Forest, Dannystad, FM 66948, United Kingdom",
+    "usppi_country": "United Kingdom",
+    "ein": "96-9226455",
+    "consignee_name": "International Smith Pte Ltd",
+    "consignee_address": "53561 Elliott Track Suite 212, Timothytown, GU 48419, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Global Jones Pte Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Charles Poole",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/22",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 71,
+        "unit": "PCS",
+        "weight_kg": 692.04,
+        "value_usd": 26573.43
+      },
+      {
+        "marks": "EXP/1",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 48,
+        "unit": "PKG",
+        "weight_kg": 98.47,
+        "value_usd": 703.21
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 183,
+        "unit": "BOX",
+        "weight_kg": 58.8,
+        "value_usd": 3191.93
+      },
+      {
+        "marks": "SLI/28",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 166,
+        "unit": "CTN",
+        "weight_kg": 805.51,
+        "value_usd": 6743.64
+      }
+    ],
+    "total_weight_kg": 1654.82,
+    "total_value_usd": 37212.21,
+    "service": "Air Freight",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 46883.59,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Singapore"
+  }
+}

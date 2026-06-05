@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0049",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Stephenson B.V.",
+    "shipper_address": "Unit 1868 Box 0544, DPO AP 74597, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Hernandez Global Co.",
+    "consignee_address": "547 Patricia Manors, Mitchellstad, VA 85203, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+87 277-935-9418",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 26,
+        "pkg_type": "Steel Drum",
+        "net_qty": 0.92,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Denise White",
+    "signature_date": "2026-04-26",
+    "signature_place": "Germany",
+    "awb_number": "074-53871964",
+    "flight_number": "UA5741",
+    "flight_date": "2026-05-25",
+    "departure_airport_code": "AMS",
+    "departure_airport_name": "Amsterdam Schiphol",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare"
+  }
+}

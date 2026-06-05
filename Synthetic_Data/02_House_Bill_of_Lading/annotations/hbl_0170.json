@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0170",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU883809765",
+    "shipper_name": "Page Commerce AG",
+    "shipper_address": "2361 Peterson Dam, South Amy, DE 91996, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Arnold Tech S.A.",
+    "consignee_address": "USS Hodge, FPO AP 28170, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "Tech Hernandez Corp.",
+    "notify_party_address": "4949 Davidson Wall, Jamesstad, AZ 49406, United Kingdom",
+    "vessel": "MSC OSCAR",
+    "voyage": "889N",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Hong Kong, HK",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Hong Kong, HK",
+    "issue_date": "2025-08-07",
+    "issue_place": "Antwerp",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "HLOR5586990",
+        "seal_no": "SL740580",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "KNLT6897953",
+        "seal_no": "BL270511",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 435,
+    "package_type": "Drum",
+    "gross_weight_kg": 1294.6,
+    "net_weight_kg": 1162.1,
+    "cbm": 21.535,
+    "marks_and_numbers": "ABC/36"
+  }
+}

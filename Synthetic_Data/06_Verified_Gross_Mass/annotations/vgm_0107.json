@@ -1,0 +1,75 @@
+{
+  "document_id": "vgm_0107",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Global Jordan Pte Ltd",
+    "shipper_address": "5441 Christine Neck Apt. 325, Ashleymouth, NE 31816, France",
+    "shipper_country": "France",
+    "container_number": "XJAP0668647",
+    "seal_number": "SL831500",
+    "container_size": "20'RF",
+    "iso_type_code": "22R1",
+    "tare_weight_kg": 3100,
+    "cargo_weight_kg": 11232.2,
+    "packing_materials_kg": 151.9,
+    "vgm_kg": 14484.1,
+    "vessel": "CSCL GLOBE",
+    "voyage": "375W",
+    "bl_number": "EGLV905348787",
+    "booking_reference": "BKG-135968",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-51079",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-17",
+    "signature_date": "2026-05-10",
+    "signatory_name": "Evelyn Cook",
+    "signatory_title": "VGM Officer",
+    "number_of_packages": 6,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Bag",
+        "n_units": 10,
+        "gross_wt_kg": 2340.8
+      },
+      {
+        "item_no": 2,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Bundle",
+        "n_units": 20,
+        "gross_wt_kg": 525.5
+      },
+      {
+        "item_no": 3,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Case",
+        "n_units": 6,
+        "gross_wt_kg": 1048.6
+      },
+      {
+        "item_no": 4,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Carton",
+        "n_units": 8,
+        "gross_wt_kg": 1454.7
+      },
+      {
+        "item_no": 5,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Roll",
+        "n_units": 6,
+        "gross_wt_kg": 3975.6
+      },
+      {
+        "item_no": 6,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Bag",
+        "n_units": 16,
+        "gross_wt_kg": 1887.0
+      }
+    ]
+  }
+}

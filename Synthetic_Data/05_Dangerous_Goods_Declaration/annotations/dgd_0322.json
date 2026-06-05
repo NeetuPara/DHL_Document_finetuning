@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0322",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Lucero S.A.",
+    "shipper_address": "0904 Stevenson Key Suite 001, West Emilytown, MA 34344, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "International Washington Corp.",
+    "consignee_address": "386 Coleman Manor, Lake Keithbury, HI 05323, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+52 651-220-4518",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 15,
+        "pkg_type": "Steel Drum",
+        "net_qty": 31.65,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 34,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 10.67,
+        "qty_unit": "g",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Darren Hall",
+    "signature_date": "2026-05-02",
+    "signature_place": "Switzerland",
+    "awb_number": "125-59611723",
+    "flight_number": "EK7554",
+    "flight_date": "2026-05-24",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "JFK",
+    "destination_airport_name": "JFK New York"
+  }
+}

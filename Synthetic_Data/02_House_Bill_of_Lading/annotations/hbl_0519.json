@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0519",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV685106831",
+    "shipper_name": "Miller Commerce Corp.",
+    "shipper_address": "116 Delgado Harbor Suite 076, Lake Tammyton, NM 87755, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Industry Hernandez B.V.",
+    "consignee_address": "3524 Conrad Key, Alexisfurt, VI 48507, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party_name": "Industry Parker Co.",
+    "notify_party_address": "4918 Thomas Lane Suite 613, Kellyport, OH 44019, Malaysia",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "136N",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Dubai, AE",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2025-10-24",
+    "issue_place": "Hamburg",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "ZSHG2616306",
+        "seal_no": "BL617210",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "QIKW9694498",
+        "seal_no": "SL458955",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "PIPE2055519",
+        "seal_no": "SL767567",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 440,
+    "package_type": "Bundle",
+    "gross_weight_kg": 14699.7,
+    "net_weight_kg": 13751.9,
+    "cbm": 43.395,
+    "marks_and_numbers": "ABC/22"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0604",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Linda Gray",
+    "addressee_company": "Fry Trade Pte Ltd",
+    "addressee_address": "8122 Marcus Streets, New Shawn, AS 66955, Sweden",
+    "addressee_country": "Sweden",
+    "total_weight_kg": 1.953,
+    "total_value": 2795.47,
+    "currency": "AUD",
+    "issue_date": "2025-05-20",
+    "reference": "REF-989114",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.953,
+        "value": 2795.47,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Stacie Hunter",
+    "sender_company": "Pacific Payne S.A.",
+    "sender_address": "982 Richard Lane, Port Joshuamouth, PA 60956, United Kingdom",
+    "sender_phone": "619-966-3489x775",
+    "sender_email": "allisonsullivan@example.org",
+    "addressee_phone": "565.999.2695",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 3075.02,
+    "postal_charges": 49.79,
+    "tracking_number": "OR744956728AW"
+  }
+}

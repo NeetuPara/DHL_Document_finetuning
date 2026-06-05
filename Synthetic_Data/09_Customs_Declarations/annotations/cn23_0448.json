@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0448",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Christie Ali",
+    "addressee_company": "Industry Berry Pte Ltd",
+    "addressee_address": "120 Robert Gardens Suite 149, Lake Caitlin, MI 29113, China",
+    "addressee_country": "China",
+    "total_weight_kg": 7.901,
+    "total_value": 2070.49,
+    "currency": "CNY",
+    "issue_date": "2025-10-11",
+    "reference": "REF-807488",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.752,
+        "value": 8.56,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 3,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.718,
+        "value": 427.44,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 11,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.431,
+        "value": 1634.49,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_name": "Michael Carrillo",
+    "sender_company": "International Smith LLC",
+    "sender_address": "59609 Miller Locks Suite 271, New Allison, NE 05896, Germany",
+    "sender_phone": "+1-742-615-0130x08725",
+    "sender_email": "gmitchell@example.org",
+    "addressee_phone": "486.257.6841x707",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 24.67,
+    "tracking_number": "RE803541592EI"
+  }
+}

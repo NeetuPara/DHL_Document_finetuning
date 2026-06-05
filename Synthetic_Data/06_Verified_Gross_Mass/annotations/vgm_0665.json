@@ -1,0 +1,75 @@
+{
+  "document_id": "vgm_0665",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "International Sullivan AG",
+    "shipper_address": "528 Brown Ports, Jacobberg, MD 08298, Netherlands",
+    "shipper_country": "Netherlands",
+    "container_number": "PALU7385521",
+    "seal_number": "CL338800",
+    "container_size": "40'RF",
+    "iso_type_code": "42R1",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 8477.4,
+    "packing_materials_kg": 59.1,
+    "vgm_kg": 13336.5,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "315E",
+    "bl_number": "COSU424779649",
+    "booking_reference": "BKG-281234",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-38706",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-26",
+    "signature_date": "2026-05-11",
+    "signatory_name": "Andrew Torres",
+    "signatory_title": "Operations Director",
+    "number_of_packages": 6,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Cylinder",
+        "n_units": 7,
+        "gross_wt_kg": 1093.3
+      },
+      {
+        "item_no": 2,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Cylinder",
+        "n_units": 20,
+        "gross_wt_kg": 1356.6
+      },
+      {
+        "item_no": 3,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Crate",
+        "n_units": 10,
+        "gross_wt_kg": 841.0
+      },
+      {
+        "item_no": 4,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Cylinder",
+        "n_units": 10,
+        "gross_wt_kg": 473.9
+      },
+      {
+        "item_no": 5,
+        "description": "Textile Fabrics - Woven Polyester",
+        "pkg_type": "Carton",
+        "n_units": 14,
+        "gross_wt_kg": 477.5
+      },
+      {
+        "item_no": 6,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Roll",
+        "n_units": 2,
+        "gross_wt_kg": 4235.1
+      }
+    ]
+  }
+}

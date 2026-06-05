@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0423",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-35994445",
+    "mawb_number": "057-80992620",
+    "shipper_name": "Pacific Black LLC",
+    "shipper_address": "3882 John Camp, Andreaton, MI 22068, Poland",
+    "consignee_name": "Pacific Massey Co.",
+    "consignee_address": "0984 Kyle Mission, Elliottchester, RI 21927, Sweden",
+    "agent_name": "Commerce Ross Co.",
+    "airport_departure": "LAX",
+    "airport_destination": "JFK",
+    "currency": "USD",
+    "charge_code": "CC",
+    "declared_value_carriage": "CAD 39,212.92",
+    "declared_value_customs": "NCV",
+    "n_pieces": 23,
+    "gross_weight_kg": 134.4,
+    "chargeable_weight": 139.9,
+    "rate": 8.67,
+    "total_charge": 1212.93,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-10-13",
+    "signatory": "Bill Oconnell",
+    "iata_code": "08-132",
+    "agent_cass": "2231-4665",
+    "consolidation_ref": "CONS-2904-252688",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-22496789",
+        "pieces": 2,
+        "weight": 76.5,
+        "destination": "DXB",
+        "consignee": "Harmon Tech Co.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "006-74407846",
+        "pieces": 17,
+        "weight": 95.9,
+        "destination": "PVG",
+        "consignee": "Gomez International Corp.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "176-69497614",
+        "pieces": 11,
+        "weight": 52.8,
+        "destination": "ORD",
+        "consignee": "Global Murphy AG",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

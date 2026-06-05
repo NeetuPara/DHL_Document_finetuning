@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0228",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202402-3789",
+    "usppi_name": "Industry Jackson GmbH",
+    "usppi_address": "634 Juan Plain Apt. 813, West Lisatown, VI 64985, Italy",
+    "usppi_country": "Italy",
+    "ein": "69-5279497",
+    "consignee_name": "Pacific Miles LLC",
+    "consignee_address": "Unit 6369 Box 3670, DPO AP 68695, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "International Miller B.V.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Regina Franco",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/2",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 71,
+        "unit": "MTR",
+        "weight_kg": 67.81,
+        "value_usd": 1249.61
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 99,
+        "unit": "KGS",
+        "weight_kg": 99.0,
+        "value_usd": 191.67
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 174,
+        "unit": "PCS",
+        "weight_kg": 23.85,
+        "value_usd": 37638.55
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 84,
+        "unit": "LTR",
+        "weight_kg": 84.82,
+        "value_usd": 843.7
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 27,
+        "unit": "CTN",
+        "weight_kg": 123.79,
+        "value_usd": 1378.32
+      },
+      {
+        "marks": "SLI/26",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 185,
+        "unit": "CTN",
+        "weight_kg": 317.07,
+        "value_usd": 1119.43
+      },
+      {
+        "marks": "SLI/15",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 136,
+        "unit": "PCS",
+        "weight_kg": 2869.12,
+        "value_usd": 60057.85
+      }
+    ],
+    "total_weight_kg": 3585.46,
+    "total_value_usd": 102479.13,
+    "vessel": "MADRID MAERSK",
+    "voyage": "830E",
+    "booking_ref": "BKG-155308",
+    "bl_number": "MAEU887584947",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "RJMB1357731",
+    "seal_number": "BL810842",
+    "container_type": "20'GP",
+    "cbm": 44.077
+  }
+}

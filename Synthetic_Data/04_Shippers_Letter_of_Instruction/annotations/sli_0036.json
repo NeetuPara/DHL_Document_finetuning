@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0036",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202103-1566",
+    "usppi_name": "Carpenter Tech S.A.",
+    "usppi_address": "13674 James Drives Suite 501, West Christopher, MP 49564, France",
+    "usppi_country": "France",
+    "ein": "43-2027741",
+    "consignee_name": "Brown Tech Inc.",
+    "consignee_address": "649 Jessica Place Apt. 906, Lake Jason, RI 56325, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Global Davis B.V.",
+    "forwarder": "Expeditors",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Mary Hansen",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/10",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 79,
+        "unit": "CTN",
+        "weight_kg": 164.81,
+        "value_usd": 226.31
+      },
+      {
+        "marks": "ABC/46",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 37,
+        "unit": "CTN",
+        "weight_kg": 140.31,
+        "value_usd": 2236.86
+      },
+      {
+        "marks": "ABC/26",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 10,
+        "unit": "PCS",
+        "weight_kg": 31.33,
+        "value_usd": 6381.62
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 147,
+        "unit": "PCS",
+        "weight_kg": 21.0,
+        "value_usd": 10943.19
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 76,
+        "unit": "PCS",
+        "weight_kg": 1022.31,
+        "value_usd": 18837.05
+      },
+      {
+        "marks": "EXP/50",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 54,
+        "unit": "BOX",
+        "weight_kg": 38.62,
+        "value_usd": 3567.53
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 105,
+        "unit": "PCS",
+        "weight_kg": 81.13,
+        "value_usd": 536.74
+      },
+      {
+        "marks": "SLI/19",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 43,
+        "unit": "MTR",
+        "weight_kg": 36.4,
+        "value_usd": 698.95
+      }
+    ],
+    "total_weight_kg": 1535.91,
+    "total_value_usd": 43428.25,
+    "vessel": "MSC OSCAR",
+    "voyage": "144N",
+    "booking_ref": "BKG-462082",
+    "bl_number": "MAEU134469704",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "New York, US",
+    "container_number": "JYTH6635850",
+    "seal_number": "CL891419",
+    "container_type": "40'HC",
+    "cbm": 20.685
+  }
+}

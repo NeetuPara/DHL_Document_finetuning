@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0491",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202508-8769",
+    "usppi_name": "International Gonzalez AG",
+    "usppi_address": "8675 Richard Extensions Apt. 570, Estradachester, VT 02267, Canada",
+    "usppi_country": "Canada",
+    "ein": "21-4594010",
+    "consignee_name": "Carrillo International Pte Ltd",
+    "consignee_address": "064 Kristine Harbors, East Dominique, PR 78060, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Aguilar International Inc.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Julie Craig",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/48",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 134,
+        "unit": "CTN",
+        "weight_kg": 348.78,
+        "value_usd": 7630.72
+      },
+      {
+        "marks": "EXP/1",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 44,
+        "unit": "PCS",
+        "weight_kg": 691.47,
+        "value_usd": 17119.66
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 171,
+        "unit": "LTR",
+        "weight_kg": 174.24,
+        "value_usd": 4719.17
+      },
+      {
+        "marks": "EXP/50",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 33,
+        "unit": "PCS",
+        "weight_kg": 9.64,
+        "value_usd": 2624.84
+      }
+    ],
+    "total_weight_kg": 1224.13,
+    "total_value_usd": 32094.39,
+    "service": "Ocean Freight",
+    "named_port": "Qingdao, CN",
+    "insurance_value_usd": 47974.43,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-855095",
+    "destination_country": "Australia"
+  }
+}

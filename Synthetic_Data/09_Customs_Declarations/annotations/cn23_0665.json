@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0665",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Edward Robinson MD",
+    "addressee_company": "Industry Campbell Pte Ltd",
+    "addressee_address": "4883 Jennings Underpass, South Waynebury, NE 59793, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 0.903,
+    "total_value": 1178.55,
+    "currency": "AUD",
+    "issue_date": "2025-10-08",
+    "reference": "REF-279364",
+    "line_items": [
+      {
+        "qty": 13,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.201,
+        "value": 1116.31,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 2,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.702,
+        "value": 62.24,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Brazil"
+      }
+    ],
+    "sender_name": "Jason Patterson Jr.",
+    "sender_company": "Pacific Day AG",
+    "sender_address": "830 Joshua Summit Apt. 874, New Brianland, TX 65232, Sweden",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 1296.4,
+    "postal_charges": 31.62,
+    "tracking_number": "YD009646626SA"
+  }
+}

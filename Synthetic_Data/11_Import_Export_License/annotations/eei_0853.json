@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0853",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "990-54076887-3",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2025-06-03",
+    "port_of_entry": "JFK - New York",
+    "transport_mode": "Ocean",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "125-22931467",
+    "importer_name": "Tech Ramos AG",
+    "importer_ein": "25-6740814",
+    "consignee_name": "Pacific Gutierrez LLC",
+    "customs_broker": "Coleman Trade Co.",
+    "broker_filer_code": "RzG",
+    "country_of_origin": "Canada",
+    "total_value": 364080.63,
+    "total_duty": 32780.97,
+    "currency": "GBP",
+    "signatory": "Anthony Floyd",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Germany",
+        "qty": 418,
+        "unit": "PCS",
+        "entered_value": 145790.04,
+        "duty_rate": 11.7,
+        "duty_amount": 17057.43,
+        "eccn": "3A992",
+        "schedule_b": "8483.40.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "India",
+        "qty": 425,
+        "unit": "KGS",
+        "entered_value": 95093.75,
+        "duty_rate": 13.5,
+        "duty_amount": 12837.66,
+        "eccn": "2B350",
+        "schedule_b": "2008.19.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Japan",
+        "qty": 351,
+        "unit": "PCS",
+        "entered_value": 52607.88,
+        "duty_rate": 0.8,
+        "duty_amount": 420.86,
+        "eccn": "7A994",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Italy",
+        "qty": 128,
+        "unit": "CTN",
+        "entered_value": 49557.76,
+        "duty_rate": 0.9,
+        "duty_amount": 446.02,
+        "eccn": "3A992",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Hong Kong",
+        "qty": 207,
+        "unit": "PCS",
+        "entered_value": 21031.2,
+        "duty_rate": 9.6,
+        "duty_amount": 2019.0,
+        "eccn": "0A919",
+        "schedule_b": "8483.40.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

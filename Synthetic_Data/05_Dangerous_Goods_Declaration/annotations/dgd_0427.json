@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0427",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Miller Pte Ltd",
+    "shipper_address": "83015 Gary Greens, New Jeffrey, KS 06916, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Scott Industry LLC",
+    "consignee_address": "717 Jennifer Mall Suite 790, Lake Conniestad, PA 76031, Brazil",
+    "consignee_country": "Brazil",
+    "emergency_telephone": "+98 305-185-2219",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 44,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 69.93,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jose Martinez",
+    "signature_date": "2026-04-15",
+    "signature_place": "Singapore",
+    "awb_number": "618-69065245",
+    "flight_number": "DL2669",
+    "flight_date": "2026-04-30",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0260",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jennifer Wilson",
+    "addressee_company": "Burton International S.A.",
+    "addressee_address": "888 Jensen Burgs Apt. 566, Lisaberg, WV 96819, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 3.166,
+    "total_value": 754.0,
+    "currency": "AED",
+    "issue_date": "2026-01-24",
+    "reference": "REF-952406",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.837,
+        "value": 200.52,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 4,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.329,
+        "value": 553.48,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Andrea Hogan",
+    "sender_company": "Trade Williamson Inc.",
+    "sender_address": "22387 Sarah Terrace, Simpsonburgh, WY 84276, Italy",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 829.4,
+    "postal_charges": 33.48,
+    "tracking_number": "BF306804577OX"
+  }
+}

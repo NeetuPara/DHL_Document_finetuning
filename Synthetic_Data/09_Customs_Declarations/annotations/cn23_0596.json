@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0596",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Bethany Lee",
+    "addressee_company": "Trade Parker Inc.",
+    "addressee_address": "8992 Erin View, Nancyland, IA 43998, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 8.776,
+    "total_value": 1475.1,
+    "currency": "AED",
+    "issue_date": "2025-07-03",
+    "reference": "REF-918509",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.052,
+        "value": 1203.24,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 1,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.35,
+        "value": 132.54,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 2,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.374,
+        "value": 139.32,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_name": "Amanda Ramsey",
+    "sender_company": "Tech Ortega Ltd",
+    "sender_address": "7889 Katie Falls, Dawnhaven, WY 85792, Hong Kong",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 18.06,
+    "tracking_number": "UH291192500GG"
+  }
+}

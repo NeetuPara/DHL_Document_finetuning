@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0383",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV859645666",
+    "shipper_name": "Tech Martinez B.V.",
+    "shipper_address": "372 Heather Gardens Suite 300, Leahfort, LA 70252, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Olson Tech GmbH",
+    "consignee_address": "56041 Anna Groves, Robertaland, LA 08273, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party_name": "Curry Industry Co.",
+    "notify_party_address": "Unit 5195 Box 2955, DPO AP 92617, United Arab Emirates",
+    "vessel": "MADRID MAERSK",
+    "voyage": "917E",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2024-12-09",
+    "issue_place": "Long Beach",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "GVUX3647491",
+        "seal_no": "BL552759",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "XYSU9384769",
+        "seal_no": "CL585815",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 391,
+    "package_type": "Crate",
+    "gross_weight_kg": 1559.3,
+    "net_weight_kg": 1424.3,
+    "cbm": 28.015,
+    "marks_and_numbers": "XYZ/29"
+  }
+}

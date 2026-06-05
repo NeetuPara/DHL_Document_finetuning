@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0920",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Michelle Choi",
+    "addressee_company": "Tech Johnson LLC",
+    "addressee_address": "793 Sandra Viaduct Apt. 996, Jaredport, GA 95473, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 11.465,
+    "total_value": 2067.6,
+    "currency": "SGD",
+    "issue_date": "2025-09-14",
+    "reference": "REF-134327",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.167,
+        "value": 247.44,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 2,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.752,
+        "value": 95.16,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 18,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.28,
+        "value": 1332.36,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 8,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.266,
+        "value": 392.64,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Jeff Melton",
+    "sender_company": "Industry Johns Inc.",
+    "sender_address": "907 Church Forges Apt. 543, East Jessica, GA 13989, Japan",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 9.78,
+    "tracking_number": "RG734574822GB"
+  }
+}

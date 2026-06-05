@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0923",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Diane Lindsey",
+    "addressee_company": "Industry Rice GmbH",
+    "addressee_address": "051 Sherry Green, Danielmouth, MN 87114, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 5.92,
+    "total_value": 1946.89,
+    "currency": "JPY",
+    "issue_date": "2026-01-01",
+    "reference": "REF-733199",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.784,
+        "value": 247.2,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 9,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.129,
+        "value": 1325.61,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 6,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.807,
+        "value": 246.9,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 1,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.2,
+        "value": 127.18,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_name": "Elizabeth Mitchell",
+    "sender_company": "Global Watson Inc.",
+    "sender_address": "984 Jacobson Plaza Apt. 594, Lake Reneeberg, MH 35625, United Kingdom",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 2141.58,
+    "postal_charges": 59.45,
+    "tracking_number": "OI498758387TP"
+  }
+}

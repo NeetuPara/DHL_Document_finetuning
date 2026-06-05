@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0531",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-37189242",
+    "mawb_number": "074-26360511",
+    "shipper_name": "International Martinez Pte Ltd",
+    "shipper_address": "25378 Pierce Spurs Suite 101, West Troyton, GU 71674, Australia",
+    "consignee_name": "Mitchell Pacific Ltd",
+    "consignee_address": "068 Danielle Villages, Martinezhaven, NC 58668, United Arab Emirates",
+    "agent_name": "Industry Dickerson GmbH",
+    "airport_departure": "YYZ",
+    "airport_destination": "AMS",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "JPY 21,383.76",
+    "n_pieces": 1,
+    "gross_weight_kg": 405.6,
+    "chargeable_weight": 485.2,
+    "rate": 10.19,
+    "total_charge": 4944.19,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-04-03",
+    "signatory": "Eric Prince",
+    "iata_code": "22-982",
+    "agent_cass": "8856-2967",
+    "consolidation_ref": "CONS-5633-753007",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-21668463",
+        "pieces": 15,
+        "weight": 17.7,
+        "destination": "LAX",
+        "consignee": "Wells Trade S.A.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "074-75360371",
+        "pieces": 20,
+        "weight": 2.3,
+        "destination": "MIA",
+        "consignee": "Mendoza Trade Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "176-36834863",
+        "pieces": 11,
+        "weight": 19.4,
+        "destination": "ICN",
+        "consignee": "Miller International Inc.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "074-91957375",
+        "pieces": 13,
+        "weight": 42.8,
+        "destination": "AMS",
+        "consignee": "Peck Global Ltd",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "085-26810134",
+        "pieces": 7,
+        "weight": 16.6,
+        "destination": "SYD",
+        "consignee": "Commerce Conway Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "074-82321889",
+        "pieces": 19,
+        "weight": 23.1,
+        "destination": "ORD",
+        "consignee": "Global Barton B.V.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "057-15181282",
+        "pieces": 12,
+        "weight": 11.9,
+        "destination": "FRA",
+        "consignee": "Industry Thompson GmbH",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

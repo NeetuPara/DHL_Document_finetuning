@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0505",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202304-2001",
+    "usppi_name": "Cowan International Pte Ltd",
+    "usppi_address": "07849 Mariah Parks, Barbarashire, NM 11086, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "31-3140265",
+    "consignee_name": "Park Global Corp.",
+    "consignee_address": "74936 Garcia Green Suite 580, Lake Marychester, KS 50560, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Carter Tech AG",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DPU",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Mitchell Mueller",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/43",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 84,
+        "unit": "PCS",
+        "weight_kg": 10.7,
+        "value_usd": 4129.26
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 68,
+        "unit": "KGS",
+        "weight_kg": 68.0,
+        "value_usd": 112.16
+      },
+      {
+        "marks": "ABC/5",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 37,
+        "unit": "PCS",
+        "weight_kg": 4.15,
+        "value_usd": 84.68
+      },
+      {
+        "marks": "SLI/11",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 47,
+        "unit": "CTN",
+        "weight_kg": 94.14,
+        "value_usd": 365.36
+      },
+      {
+        "marks": "EXP/1",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 89,
+        "unit": "MTR",
+        "weight_kg": 106.59,
+        "value_usd": 1377.61
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 7,
+        "unit": "PCS",
+        "weight_kg": 0.48,
+        "value_usd": 300.19
+      }
+    ],
+    "total_weight_kg": 284.06,
+    "total_value_usd": 6369.26,
+    "service": "Ocean Freight",
+    "named_port": "Antwerp, BE",
+    "insurance_value_usd": 26060.62,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-567695",
+    "destination_country": "United Kingdom"
+  }
+}

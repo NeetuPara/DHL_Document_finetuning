@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0710",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Cheryl Williamson",
+    "addressee_company": "Booth Tech S.A.",
+    "addressee_address": "0680 Jones Well Apt. 860, North Annettechester, MP 80052, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 1.354,
+    "total_value": 973.76,
+    "currency": "EUR",
+    "issue_date": "2025-08-12",
+    "reference": "REF-356426",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.354,
+        "value": 973.76,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Italy"
+      }
+    ],
+    "sender_name": "Thomas Johnson",
+    "sender_company": "Tech Russo S.A.",
+    "sender_address": "39974 Walters Plains, North Joseph, SC 91076, Switzerland",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 1071.14,
+    "postal_charges": 37.42,
+    "tracking_number": "ZN631464934WY"
+  }
+}

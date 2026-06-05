@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0550",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "049-31642826-9",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2025-10-22",
+    "port_of_entry": "MIA - Miami",
+    "transport_mode": "Rail",
+    "carrier": "MSC",
+    "bl_awb": "618-62343561",
+    "importer_name": "Trade Santos Co.",
+    "importer_ein": "23-9915494",
+    "consignee_name": "Weber Tech Pte Ltd",
+    "customs_broker": "Tech Francis S.A.",
+    "broker_filer_code": "DKE",
+    "country_of_origin": "United Arab Emirates",
+    "total_value": 543028.99,
+    "total_duty": 55500.48,
+    "currency": "JPY",
+    "signatory": "Stephanie Keith",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Netherlands",
+        "qty": 419,
+        "unit": "SET",
+        "entered_value": 104297.48,
+        "duty_rate": 3.7,
+        "duty_amount": 3859.01,
+        "eccn": "3A992",
+        "schedule_b": "8708.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Canada",
+        "qty": 299,
+        "unit": "MTR",
+        "entered_value": 129227.8,
+        "duty_rate": 8.1,
+        "duty_amount": 10467.45,
+        "eccn": "3A992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Malaysia",
+        "qty": 271,
+        "unit": "PCS",
+        "entered_value": 68365.17,
+        "duty_rate": 9.3,
+        "duty_amount": 6357.96,
+        "eccn": "EAR99",
+        "schedule_b": "9401.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Canada",
+        "qty": 481,
+        "unit": "PKG",
+        "entered_value": 196993.55,
+        "duty_rate": 15.5,
+        "duty_amount": 30534.0,
+        "eccn": "9A515",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 107,
+        "unit": "BOX",
+        "entered_value": 44144.99,
+        "duty_rate": 9.7,
+        "duty_amount": 4282.06,
+        "eccn": "0A919",
+        "schedule_b": "2936.90.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

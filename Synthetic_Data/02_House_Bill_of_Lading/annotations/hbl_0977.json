@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0977",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU843358522",
+    "shipper_name": "Chambers Global Inc.",
+    "shipper_address": "41058 Wilson Rapids, Port Earl, DC 70246, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Miller Tech Ltd",
+    "consignee_address": "7686 Hurst Vista, Michelletown, MS 11005, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Park Commerce Inc.",
+    "notify_party_address": "480 Gary Village, Steventown, FM 61347, Mexico",
+    "vessel": "MADRID MAERSK",
+    "voyage": "314E",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Tanjung Pelepas, MY",
+    "place_of_delivery": "Qingdao, CN",
+    "issue_date": "2026-03-25",
+    "issue_place": "Tanjung Pelepas",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "UCTF7017114",
+        "seal_no": "BL329171",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "HOJX2745422",
+        "seal_no": "CL619714",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "BGNR1029915",
+        "seal_no": "BL579701",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 177,
+    "package_type": "Case",
+    "gross_weight_kg": 14111.0,
+    "net_weight_kg": 13314.9,
+    "cbm": 6.161,
+    "marks_and_numbers": "ABC/37"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0065",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202105-3283",
+    "usppi_name": "Payne Tech B.V.",
+    "usppi_address": "245 Antonio Stravenue Suite 045, Reevesview, KY 83678, Poland",
+    "usppi_country": "Poland",
+    "ein": "24-9497317",
+    "consignee_name": "Global Maddox AG",
+    "consignee_address": "9377 Ritter Ridges Suite 711, Gordonhaven, MP 94951, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Commerce Rodriguez Corp.",
+    "forwarder": "Panalpina",
+    "incoterm": "CIP",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Stephanie Fleming",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/28",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 65,
+        "unit": "PCS",
+        "weight_kg": 26.38,
+        "value_usd": 14291.0
+      },
+      {
+        "marks": "ABC/19",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 112,
+        "unit": "CTN",
+        "weight_kg": 115.23,
+        "value_usd": 1536.22
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 78,
+        "unit": "LTR",
+        "weight_kg": 79.77,
+        "value_usd": 1658.72
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 11,
+        "unit": "MTR",
+        "weight_kg": 11.02,
+        "value_usd": 160.12
+      }
+    ],
+    "total_weight_kg": 232.4,
+    "total_value_usd": 17646.06,
+    "service": "Ground",
+    "named_port": "Miami International",
+    "insurance_value_usd": 2070.15,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-164932",
+    "destination_country": "Canada"
+  }
+}

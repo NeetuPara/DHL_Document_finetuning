@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0442",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Dwayne Parker",
+    "addressee_company": "International Jackson Corp.",
+    "addressee_address": "6535 Keith Plain, Brettville, ID 71130, Malaysia",
+    "addressee_country": "Malaysia",
+    "total_weight_kg": 7.688,
+    "total_value": 2663.75,
+    "currency": "USD",
+    "issue_date": "2026-02-22",
+    "reference": "REF-180937",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.479,
+        "value": 1660.48,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 5,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.734,
+        "value": 250.45,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 6,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.475,
+        "value": 752.82,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_name": "Carol Palmer",
+    "sender_company": "Global Bryant Pte Ltd",
+    "sender_address": "72603 Cochran Mountain Apt. 005, Lake James, VT 49808, Hong Kong",
+    "sender_phone": "001-604-334-0570x5082",
+    "sender_email": "morrisonjon@example.com",
+    "addressee_phone": "(242)575-7605x608",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 62.01,
+    "tracking_number": "DW645478228UV"
+  }
+}

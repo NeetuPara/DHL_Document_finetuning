@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0116",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG409252382",
+    "shipper_name": "Hamilton Global Inc.",
+    "shipper_address": "09448 Massey Gardens Suite 983, Lake Calvin, VI 45669, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "International Johnson Pte Ltd",
+    "consignee_address": "89144 Meyers Road Suite 063, Douglasborough, MS 53184, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party_name": "Tech Browning S.A.",
+    "notify_party_address": "8831 Debbie Crescent Suite 599, East Christinaland, NC 74886, Belgium",
+    "vessel": "CSCL GLOBE",
+    "voyage": "465E",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Hong Kong, HK",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Hong Kong, HK",
+    "issue_date": "2025-02-09",
+    "issue_place": "Singapore",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "LDCU5191540",
+        "seal_no": "SL853335",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "GGYQ5504096",
+        "seal_no": "BL651410",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "DGLO8489595",
+        "seal_no": "BL338376",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "BOVR7036475",
+        "seal_no": "BL325243",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 394,
+    "package_type": "Drum",
+    "gross_weight_kg": 12829.0,
+    "net_weight_kg": 11677.2,
+    "cbm": 31.405,
+    "marks_and_numbers": "ABC/6"
+  }
+}

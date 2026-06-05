@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0159",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-15271607",
+    "mawb_number": "618-24406588",
+    "shipper_name": "Trade Silva Inc.",
+    "shipper_address": "04329 Harris Station Apt. 662, East Cassandramouth, CO 87162, Sweden",
+    "consignee_name": "Bradford Pacific LLC",
+    "consignee_address": "0012 Livingston Park, Richardborough, WY 23508, Mexico",
+    "agent_name": "Pacific Gibbs LLC",
+    "airport_departure": "HKG",
+    "airport_destination": "ICN",
+    "currency": "CAD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 5,
+    "gross_weight_kg": 36.8,
+    "chargeable_weight": 43.0,
+    "rate": 4.0,
+    "total_charge": 172.0,
+    "nature_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "handling_info": "HANDLING CODE: HUM",
+    "issue_date": "2025-10-28",
+    "signatory": "Victor Black",
+    "iata_code": "87-234",
+    "agent_cass": "4731-3827",
+    "consolidation_ref": "CONS-5678-030740",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-13125311",
+        "pieces": 17,
+        "weight": 62.5,
+        "destination": "NRT",
+        "consignee": "Short Industry LLC",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "074-31123910",
+        "pieces": 19,
+        "weight": 40.2,
+        "destination": "NRT",
+        "consignee": "Frank Trade Pte Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "020-98912881",
+        "pieces": 9,
+        "weight": 21.9,
+        "destination": "YYZ",
+        "consignee": "Trade Larson Pte Ltd",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

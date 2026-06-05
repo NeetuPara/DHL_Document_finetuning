@@ -1,0 +1,54 @@
+{
+  "document_id": "coo_0509",
+  "document_class": "Certificate of Origin",
+  "format_variant": "FTA-USMCA-Numbered-Fields",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202003-8056",
+    "exporter_name": "Commerce Sherman Ltd",
+    "exporter_address": "10794 Blackwell Villages Suite 979, Lake David, VI 36129, France",
+    "exporter_country": "France",
+    "consignee_name": "Miller Pacific Inc.",
+    "consignee_address": "USS Rodriguez, FPO AP 98206, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "country_of_origin": "France",
+    "country_of_destination": "United Kingdom",
+    "bl_or_awb": "074-47219290",
+    "issue_date": "2025-04-23",
+    "certifier_name": "Tamara Swanson",
+    "goods": [
+      {
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "hs_code": "8483.40.00",
+        "qty": 166,
+        "unit": "PCS",
+        "weight_kg": 2271.18,
+        "origin_criterion": "C",
+        "value": 103024.45
+      },
+      {
+        "description": "Plastic Products - Injection Moulded Components",
+        "hs_code": "3926.90.00",
+        "qty": 249,
+        "unit": "PCS",
+        "weight_kg": 166.21,
+        "origin_criterion": "D",
+        "value": 733.34
+      },
+      {
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "hs_code": "2936.90.00",
+        "qty": 399,
+        "unit": "BOX",
+        "weight_kg": 467.26,
+        "origin_criterion": "D",
+        "value": 35148.42
+      }
+    ],
+    "fta_agreement": "CPTPP",
+    "blanket_period_from": "2025-01-16",
+    "blanket_period_to": "2025-11-28",
+    "producer_name": "Commerce Smith Co.",
+    "producer_country": "Sweden"
+  }
+}

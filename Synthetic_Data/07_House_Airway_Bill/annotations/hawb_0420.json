@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0420",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-81079370",
+    "mawb_number": "020-98328216",
+    "shipper_name": "Wright International AG",
+    "shipper_address": "97768 Nichole Turnpike Apt. 841, South Lisafort, CA 83061, Germany",
+    "consignee_name": "Johnson Global Inc.",
+    "consignee_address": "1243 Morris Route Apt. 541, Lake Jessicaland, MN 92053, Japan",
+    "agent_name": "Kelly Industry Corp.",
+    "airport_departure": "ICN",
+    "airport_destination": "SIN",
+    "currency": "AUD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "SGD 8,146.10",
+    "n_pieces": 27,
+    "gross_weight_kg": 281.2,
+    "chargeable_weight": 340.6,
+    "rate": 8.79,
+    "total_charge": 2993.87,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-12-04",
+    "signatory": "Kenneth Cole",
+    "iata_code": "79-760",
+    "agent_cass": "9870-7814",
+    "consolidation_ref": "CONS-6314-877692",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-90134082",
+        "pieces": 17,
+        "weight": 35.6,
+        "destination": "JFK",
+        "consignee": "Trade Ross Corp.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "074-33064544",
+        "pieces": 15,
+        "weight": 14.3,
+        "destination": "LHR",
+        "consignee": "King Global Co.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "176-43786143",
+        "pieces": 15,
+        "weight": 14.2,
+        "destination": "LAX",
+        "consignee": "Pacific Ellis Inc.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "618-68464829",
+        "pieces": 14,
+        "weight": 52.1,
+        "destination": "JFK",
+        "consignee": "Smith Commerce B.V.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "057-52215688",
+        "pieces": 18,
+        "weight": 1.7,
+        "destination": "LHR",
+        "consignee": "Riley Trade Pte Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "085-45281216",
+        "pieces": 1,
+        "weight": 66.9,
+        "destination": "AMS",
+        "consignee": "Global Perry Co.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "176-25801567",
+        "pieces": 15,
+        "weight": 80.6,
+        "destination": "CDG",
+        "consignee": "Tech Gillespie LLC",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

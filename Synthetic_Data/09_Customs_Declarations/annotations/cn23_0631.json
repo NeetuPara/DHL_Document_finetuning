@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0631",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Mark Green",
+    "addressee_company": "Holland Global Inc.",
+    "addressee_address": "6013 Patricia Inlet, South Michael, NV 55268, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 6.969,
+    "total_value": 1781.61,
+    "currency": "CHF",
+    "issue_date": "2026-01-01",
+    "reference": "REF-947390",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.348,
+        "value": 539.0,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 6,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.768,
+        "value": 554.34,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 14,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.854,
+        "value": 656.74,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 1,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.999,
+        "value": 31.53,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_name": "Stacey Walker",
+    "sender_company": "Rich Commerce Corp.",
+    "sender_address": "2548 Jenna Springs, West David, WV 99347, Malaysia",
+    "sender_phone": "+1-411-419-6980x2322",
+    "sender_email": "danny86@example.com",
+    "addressee_phone": "559.540.4575x4646",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 1959.77,
+    "postal_charges": 75.2,
+    "tracking_number": "DN412456608VK"
+  }
+}

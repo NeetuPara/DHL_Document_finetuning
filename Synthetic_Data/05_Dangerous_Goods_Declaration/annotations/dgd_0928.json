@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0928",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Anderson LLC",
+    "shipper_address": "421 Kimberly Parkways Suite 180, South Amy, AL 30553, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Commerce Washington GmbH",
+    "consignee_address": "63346 White Alley, Darrenstad, AK 97026, Spain",
+    "consignee_country": "Spain",
+    "emergency_telephone": "+47 785-221-3407",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 6,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 62.18,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-576259",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 5,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 53.43,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Adam Mcdaniel",
+    "signature_date": "2026-05-10",
+    "signature_place": "South Korea",
+    "awb_number": "020-34905288",
+    "flight_number": "EK465",
+    "flight_date": "2026-05-22",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International"
+  }
+}

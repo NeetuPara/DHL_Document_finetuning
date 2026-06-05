@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0750",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202310-3353",
+    "usppi_name": "Chang Tech Inc.",
+    "usppi_address": "45581 Rachel Road Apt. 062, Bowmanhaven, CO 49914, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "53-4857094",
+    "consignee_name": "Industry Suarez Pte Ltd",
+    "consignee_address": "9630 Nelson Haven, Lake Mary, RI 54773, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Global Mccoy Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Jared Villarreal",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/45",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 163,
+        "unit": "SET",
+        "weight_kg": 161.38,
+        "value_usd": 21833.24
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 36,
+        "unit": "PCS",
+        "weight_kg": 3.49,
+        "value_usd": 6141.56
+      }
+    ],
+    "total_weight_kg": 164.87,
+    "total_value_usd": 27974.8,
+    "vessel": "ONE INNOVATION",
+    "voyage": "647W",
+    "booking_ref": "BKG-671425",
+    "bl_number": "YMLU596802572",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Los Angeles, US",
+    "container_number": "CMBK7245781",
+    "seal_number": "BL358250",
+    "container_type": "40'HC",
+    "cbm": 4.744
+  }
+}

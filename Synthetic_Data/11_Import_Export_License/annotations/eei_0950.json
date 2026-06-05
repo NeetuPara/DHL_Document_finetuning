@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0950",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20230313517210",
+    "export_date": "2026-04-26",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Tech Mason Corp.",
+    "usppi_ein": "30-7562866",
+    "usppi_address": "029 Michael Place Suite 872, Tammyberg, TX 82731, France",
+    "ultimate_consignee": "Carlson International Ltd",
+    "intermediate_consignee": "Global Medina Ltd",
+    "forwarding_agent": "Trade Howell AG",
+    "destination_country": "Canada",
+    "carrier": "DHL Express",
+    "bl_awb": "074-68498155",
+    "total_value": 222908.93,
+    "currency": "EUR",
+    "signatory": "Richard Mayer",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "China",
+        "qty": 378,
+        "unit": "PCS",
+        "entered_value": 78389.64,
+        "duty_rate": 24.6,
+        "duty_amount": 19283.85,
+        "eccn": "7A994",
+        "schedule_b": "8483.40.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Thailand",
+        "qty": 181,
+        "unit": "CTN",
+        "entered_value": 48428.36,
+        "duty_rate": 24.8,
+        "duty_amount": 12010.23,
+        "eccn": "0A919",
+        "schedule_b": "4819.10.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Spain",
+        "qty": 283,
+        "unit": "PCS",
+        "entered_value": 70928.29,
+        "duty_rate": 21.4,
+        "duty_amount": 15178.65,
+        "eccn": "1A002",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Spain",
+        "qty": 302,
+        "unit": "CTN",
+        "entered_value": 25162.64,
+        "duty_rate": 17.0,
+        "duty_amount": 4277.65,
+        "eccn": "0A919",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

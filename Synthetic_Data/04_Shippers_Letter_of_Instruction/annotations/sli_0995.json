@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0995",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202008-3131",
+    "usppi_name": "Global Baker Co.",
+    "usppi_address": "7694 Nathaniel Roads Apt. 977, Cardenasberg, AS 14048, France",
+    "usppi_country": "France",
+    "ein": "33-2537966",
+    "consignee_name": "Dillon Pacific GmbH",
+    "consignee_address": "432 Julian Trail Apt. 571, South Rebecca, PA 66698, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Perry Trade Inc.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Deanna Griffin",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/11",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 198,
+        "unit": "PCS",
+        "weight_kg": 123.52,
+        "value_usd": 26922.97
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 49,
+        "unit": "KGS",
+        "weight_kg": 49.0,
+        "value_usd": 50.71
+      },
+      {
+        "marks": "SLI/18",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 108,
+        "unit": "LTR",
+        "weight_kg": 101.91,
+        "value_usd": 994.12
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 96,
+        "unit": "PCS",
+        "weight_kg": 112.14,
+        "value_usd": 1678.19
+      },
+      {
+        "marks": "EXP/31",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 59,
+        "unit": "SET",
+        "weight_kg": 47.69,
+        "value_usd": 6734.44
+      },
+      {
+        "marks": "EXP/41",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 173,
+        "unit": "KGS",
+        "weight_kg": 173.0,
+        "value_usd": 1572.81
+      }
+    ],
+    "total_weight_kg": 607.26,
+    "total_value_usd": 37953.24,
+    "service": "Air Freight",
+    "named_port": "Miami International",
+    "insurance_value_usd": 49063.42,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Singapore"
+  }
+}

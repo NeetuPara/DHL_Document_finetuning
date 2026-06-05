@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0752",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202110-4082",
+    "usppi_name": "Tech Simpson Co.",
+    "usppi_address": "35564 Brooke Mills Suite 046, New Daniel, TN 54445, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "59-3731967",
+    "consignee_name": "Maldonado Pacific Corp.",
+    "consignee_address": "77378 Joshua Estate, Coreyport, VA 46704, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Trade Delacruz Inc.",
+    "forwarder": "Expeditors",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "7A994",
+    "signatory_name": "Grant Cox",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/3",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 67,
+        "unit": "LTR",
+        "weight_kg": 64.25,
+        "value_usd": 221.97
+      },
+      {
+        "marks": "EXP/23",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 114,
+        "unit": "PCS",
+        "weight_kg": 21.85,
+        "value_usd": 6493.61
+      },
+      {
+        "marks": "SLI/12",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 168,
+        "unit": "KGS",
+        "weight_kg": 168.0,
+        "value_usd": 266.06
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 49,
+        "unit": "CTN",
+        "weight_kg": 147.31,
+        "value_usd": 2180.97
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 180,
+        "unit": "BOX",
+        "weight_kg": 198.91,
+        "value_usd": 10373.41
+      },
+      {
+        "marks": "ABC/31",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 142,
+        "unit": "KGS",
+        "weight_kg": 142.0,
+        "value_usd": 2659.67
+      }
+    ],
+    "total_weight_kg": 742.32,
+    "total_value_usd": 22195.69,
+    "service": "Ground",
+    "named_port": "Shanghai Pudong",
+    "insurance_value_usd": 7541.96,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-566380",
+    "destination_country": "Japan"
+  }
+}

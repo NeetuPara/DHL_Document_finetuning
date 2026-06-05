@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0499",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Mary Little",
+    "addressee_company": "Brown Global GmbH",
+    "addressee_address": "66242 Moreno Crest Apt. 355, Phillipview, AR 33912, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 4.842,
+    "total_value": 2749.49,
+    "currency": "USD",
+    "issue_date": "2025-10-19",
+    "reference": "REF-017620",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.387,
+        "value": 563.64,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 12,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.74,
+        "value": 1655.4,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 5,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.715,
+        "value": 530.45,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Sheila Gonzalez",
+    "sender_company": "Hardy International Pte Ltd",
+    "sender_address": "13826 Christopher Street, New Jennifer, MO 29607, Singapore",
+    "sender_phone": "(428)866-9588",
+    "sender_email": "aguirredonald@example.com",
+    "addressee_phone": "667-652-5521x688",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 3024.44,
+    "postal_charges": 68.06,
+    "tracking_number": "UJ381686030ED"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0666",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202011-1939",
+    "usppi_name": "Industry Ray B.V.",
+    "usppi_address": "7747 Kevin Curve, West Steven, MP 20318, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "99-4738081",
+    "consignee_name": "Global Wilson GmbH",
+    "consignee_address": "358 Joshua Junction, Anthonyhaven, MT 16936, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Global Rosales S.A.",
+    "forwarder": "Panalpina",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Lindsey Wise",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/9",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 128,
+        "unit": "KGS",
+        "weight_kg": 128.0,
+        "value_usd": 121.94
+      },
+      {
+        "marks": "SLI/5",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 66,
+        "unit": "PCS",
+        "weight_kg": 819.1,
+        "value_usd": 10845.94
+      },
+      {
+        "marks": "ABC/8",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 163,
+        "unit": "KGS",
+        "weight_kg": 163.0,
+        "value_usd": 2844.95
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 132,
+        "unit": "PCS",
+        "weight_kg": 137.05,
+        "value_usd": 191729.36
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 130,
+        "unit": "LTR",
+        "weight_kg": 122.11,
+        "value_usd": 3207.72
+      }
+    ],
+    "total_weight_kg": 1369.26,
+    "total_value_usd": 208749.91,
+    "vessel": "MOL TRIUMPH",
+    "voyage": "871W",
+    "booking_ref": "BKG-696106",
+    "bl_number": "OOLU479197211",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "LGFT9340575",
+    "seal_number": "BL592720",
+    "container_type": "40'HC",
+    "cbm": 43.133
+  }
+}

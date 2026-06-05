@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0594",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202105-1057",
+    "usppi_name": "Pacific Alvarez Inc.",
+    "usppi_address": "6375 Alvarez Centers, New Laura, OK 29577, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "38-3669838",
+    "consignee_name": "Wiley Trade GmbH",
+    "consignee_address": "8621 Rivers Manors, Port Derrick, MH 21692, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "International Good LLC",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "2B350",
+    "signatory_name": "Ernest Marquez",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/29",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 132,
+        "unit": "MTR",
+        "weight_kg": 82.11,
+        "value_usd": 1958.56
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 97,
+        "unit": "KGS",
+        "weight_kg": 97.0,
+        "value_usd": 2004.65
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 179,
+        "unit": "LTR",
+        "weight_kg": 195.71,
+        "value_usd": 6330.69
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 197,
+        "unit": "PCS",
+        "weight_kg": 2461.53,
+        "value_usd": 73860.96
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 58,
+        "unit": "KGS",
+        "weight_kg": 58.0,
+        "value_usd": 36.4
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 71,
+        "unit": "PCS",
+        "weight_kg": 646.0,
+        "value_usd": 42651.58
+      }
+    ],
+    "total_weight_kg": 3540.35,
+    "total_value_usd": 126842.84,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "404S",
+    "booking_ref": "BKG-156664",
+    "bl_number": "YMLU998175557",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Long Beach, US",
+    "container_number": "VGOW0445847",
+    "seal_number": "BL204679",
+    "container_type": "45'HC",
+    "cbm": 44.171
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0501",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-96554453",
+    "mawb_number": "085-80098975",
+    "shipper_name": "Odonnell Pacific Pte Ltd",
+    "shipper_address": "86307 Margaret Island, New Kathryn, SC 47338, Mexico",
+    "consignee_name": "Sandoval Trade LLC",
+    "consignee_address": "Unit 5464 Box 5252, DPO AE 17839, Brazil",
+    "agent_name": "Smith Pacific S.A.",
+    "airport_departure": "ICN",
+    "airport_destination": "MIA",
+    "currency": "USD",
+    "charge_code": "PP",
+    "declared_value_carriage": "CNY 21,107.84",
+    "declared_value_customs": "CHF 16,931.89",
+    "n_pieces": 31,
+    "gross_weight_kg": 437.6,
+    "chargeable_weight": 554.3,
+    "rate": 9.88,
+    "total_charge": 5476.48,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-07-01",
+    "signatory": "Victoria Hansen",
+    "iata_code": "40-841",
+    "agent_cass": "3260-8913",
+    "consolidation_ref": "CONS-8727-228272",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-81710739",
+        "pieces": 19,
+        "weight": 0.8,
+        "destination": "PVG",
+        "consignee": "Adams International Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "074-68749188",
+        "pieces": 20,
+        "weight": 8.6,
+        "destination": "PVG",
+        "consignee": "Beck Tech Ltd",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "006-51695863",
+        "pieces": 13,
+        "weight": 68.9,
+        "destination": "CDG",
+        "consignee": "Tech Johnson Corp.",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

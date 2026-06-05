@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0316",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Erica Cruz",
+    "addressee_company": "Velasquez Industry B.V.",
+    "addressee_address": "1848 Lori Port Suite 266, Brianaberg, WV 36452, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 6.972,
+    "total_value": 1667.68,
+    "currency": "USD",
+    "issue_date": "2026-02-23",
+    "reference": "REF-990952",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 0.447,
+        "value": 43.92,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 2,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.296,
+        "value": 152.42,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 13,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.229,
+        "value": 1471.34,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Poland"
+      }
+    ],
+    "sender_name": "Tracey Benson",
+    "sender_company": "Pacific Fernandez Co.",
+    "sender_address": "503 Phillips Pines Apt. 505, Grimesview, AR 73918, Italy",
+    "sender_phone": "+1-319-998-1326x01751",
+    "sender_email": "ljohnson@example.org",
+    "addressee_phone": "6422589896",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 13.61,
+    "tracking_number": "YG639278679QH"
+  }
+}

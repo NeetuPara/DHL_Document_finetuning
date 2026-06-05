@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0406",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG638968054",
+    "shipper_name": "Martin Tech AG",
+    "shipper_address": "113 Wilson Groves, Oconnorland, UT 97919, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Global Gordon LLC",
+    "consignee_address": "714 Mendoza Street, Robinsonburgh, VA 63278, United States",
+    "consignee_country": "United States",
+    "notify_party_name": "Trade Tran B.V.",
+    "notify_party_address": "826 Philip Lakes Apt. 491, Adamsville, RI 30866, United Arab Emirates",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "188N",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Los Angeles, US",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2026-02-11",
+    "issue_place": "Tokyo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "NZST2664247",
+        "seal_no": "BL358531",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "RWBW8420333",
+        "seal_no": "SL999763",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "EKBT2773585",
+        "seal_no": "CL131068",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "MQOS5109517",
+        "seal_no": "SL329499",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 97,
+    "package_type": "Roll",
+    "gross_weight_kg": 21463.7,
+    "net_weight_kg": 20350.5,
+    "cbm": 10.263,
+    "marks_and_numbers": "ABC/50"
+  }
+}

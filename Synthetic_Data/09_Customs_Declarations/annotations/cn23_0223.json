@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0223",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "James Solomon",
+    "addressee_company": "International White GmbH",
+    "addressee_address": "Unit 0334 Box 0271, DPO AE 87578, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 14.507,
+    "total_value": 3823.25,
+    "currency": "SGD",
+    "issue_date": "2025-08-28",
+    "reference": "REF-179711",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.978,
+        "value": 1377.12,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 4,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.545,
+        "value": 458.32,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 15,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.103,
+        "value": 193.8,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 2,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.205,
+        "value": 159.4,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 17,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.405,
+        "value": 364.65,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 12,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.271,
+        "value": 1269.96,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_name": "Shannon Shelton",
+    "sender_company": "Bolton Trade GmbH",
+    "sender_address": "48775 Dustin Lodge, Sydneyberg, TN 33602, Singapore",
+    "sender_phone": "(497)418-6249x06701",
+    "sender_email": "jenniferwhite@example.com",
+    "addressee_phone": "(650)757-4516x214",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 4205.58,
+    "postal_charges": 32.96,
+    "tracking_number": "WH915310075LS"
+  }
+}

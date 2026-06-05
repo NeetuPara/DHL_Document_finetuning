@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0722",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU870481198",
+    "shipper_name": "Global Morgan B.V.",
+    "shipper_address": "352 Rose Groves, Brentton, TX 74130, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Industry Johnson Pte Ltd",
+    "consignee_address": "0943 Harding Tunnel, Elizabethhaven, CA 80419, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party_name": "Mcguire Commerce LLC",
+    "notify_party_address": "0420 Ponce Center, New Jorgeport, AR 12538, Malaysia",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "915E",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Felixstowe, GB",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2025-03-31",
+    "issue_place": "Dubai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "ZSET6347241",
+        "seal_no": "BL787517",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "FZGE9194038",
+        "seal_no": "CL677985",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "OCYL2024671",
+        "seal_no": "CL374557",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 83,
+    "package_type": "Roll",
+    "gross_weight_kg": 15590.2,
+    "net_weight_kg": 14882.3,
+    "cbm": 3.956,
+    "marks_and_numbers": "ABC/1"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0070",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202109-6740",
+    "usppi_name": "Tech Donaldson LLC",
+    "usppi_address": "PSC 7080, Box 5596, APO AP 56293, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "44-3326441",
+    "consignee_name": "Walker Trade Ltd",
+    "consignee_address": "Unit 0169 Box 4478, DPO AE 23469, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Commerce Jensen Inc.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Elizabeth Lopez",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/40",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 7,
+        "unit": "PCS",
+        "weight_kg": 3.46,
+        "value_usd": 1580.65
+      },
+      {
+        "marks": "ABC/5",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 26,
+        "unit": "LTR",
+        "weight_kg": 26.24,
+        "value_usd": 219.36
+      },
+      {
+        "marks": "SLI/40",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 168,
+        "unit": "PCS",
+        "weight_kg": 1546.48,
+        "value_usd": 55455.02
+      },
+      {
+        "marks": "ABC/41",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 78,
+        "unit": "KGS",
+        "weight_kg": 78.0,
+        "value_usd": 187.1
+      }
+    ],
+    "total_weight_kg": 1654.18,
+    "total_value_usd": 57442.13,
+    "service": "Air Freight",
+    "named_port": "Paris CDG",
+    "insurance_value_usd": 31690.35,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-511013",
+    "destination_country": "Hong Kong"
+  }
+}

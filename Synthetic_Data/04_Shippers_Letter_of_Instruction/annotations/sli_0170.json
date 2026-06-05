@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0170",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202402-8573",
+    "usppi_name": "Industry Garcia LLC",
+    "usppi_address": "71628 Larry Pass, Rodriguezville, NH 42841, Canada",
+    "usppi_country": "Canada",
+    "ein": "60-2157868",
+    "consignee_name": "Harris Pacific Pte Ltd",
+    "consignee_address": "720 Christy Inlet, Garcialand, DC 91295, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Tech Prince B.V.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Laura Torres",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/42",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 156,
+        "unit": "CTN",
+        "weight_kg": 591.43,
+        "value_usd": 4317.07
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 40,
+        "unit": "KGS",
+        "weight_kg": 40.0,
+        "value_usd": 763.01
+      }
+    ],
+    "total_weight_kg": 631.43,
+    "total_value_usd": 5080.08,
+    "service": "Air Freight",
+    "named_port": "Sydney Kingsford Smith",
+    "insurance_value_usd": 3392.79,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-141711",
+    "destination_country": "Switzerland"
+  }
+}

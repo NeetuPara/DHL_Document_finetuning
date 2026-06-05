@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0804",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Ryan Pte Ltd",
+    "shipper_address": "PSC 4605, Box 1103, APO AP 60061, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Global Shaw Co.",
+    "consignee_address": "4419 Roberts Plain, Port Emily, MO 06760, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+72 320-451-8445",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 30,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 55.67,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-131750",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 1,
+        "pkg_type": "Steel Drum",
+        "net_qty": 82.95,
+        "qty_unit": "mL",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-619467",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Connor Smith DDS",
+    "signature_date": "2026-05-02",
+    "signature_place": "Brazil",
+    "awb_number": "085-13755427",
+    "flight_number": "UA4537",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "CDG",
+    "destination_airport_name": "Paris CDG",
+    "non_dg_reason": "Excepted quantities (EQ) per IATA DGR 2.6"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0273",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-70603397",
+    "mawb_number": "618-10297368",
+    "shipper_name": "Steele Industry LLC",
+    "shipper_address": "03051 Briggs Dale, New Beth, MD 72718, Brazil",
+    "consignee_name": "Mitchell Pacific Co.",
+    "consignee_address": "3464 Duarte Lodge Apt. 338, North Jennifer, DC 82508, Spain",
+    "agent_name": "International Thompson GmbH",
+    "airport_departure": "ORD",
+    "airport_destination": "LHR",
+    "currency": "JPY",
+    "charge_code": "PP",
+    "declared_value_carriage": "USD 49,392.63",
+    "declared_value_customs": "NCV",
+    "n_pieces": 24,
+    "gross_weight_kg": 11.8,
+    "chargeable_weight": 14.5,
+    "rate": 10.07,
+    "total_charge": 146.02,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "HANDLING CODE: PIL",
+    "issue_date": "2025-11-03",
+    "signatory": "Ashley English",
+    "iata_code": "53-538",
+    "agent_cass": "2983-6307",
+    "consolidation_ref": "CONS-0269-938583",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-34722374",
+        "pieces": 6,
+        "weight": 21.3,
+        "destination": "PVG",
+        "consignee": "Davis Global Co.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "074-90337964",
+        "pieces": 2,
+        "weight": 25.5,
+        "destination": "FRA",
+        "consignee": "Stephens Commerce GmbH",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "085-37888185",
+        "pieces": 11,
+        "weight": 15.7,
+        "destination": "PVG",
+        "consignee": "Johnson Tech S.A.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "006-88370901",
+        "pieces": 9,
+        "weight": 66.6,
+        "destination": "ORD",
+        "consignee": "International Williams Pte Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "020-84853490",
+        "pieces": 7,
+        "weight": 60.1,
+        "destination": "MIA",
+        "consignee": "International Burnett S.A.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "074-19897319",
+        "pieces": 17,
+        "weight": 66.2,
+        "destination": "CDG",
+        "consignee": "Pacific Knox Co.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "618-10164390",
+        "pieces": 20,
+        "weight": 84.8,
+        "destination": "YYZ",
+        "consignee": "Hernandez Global S.A.",
+        "description": "Steel Products - Hot Rolled Coils"
+      }
+    ]
+  }
+}

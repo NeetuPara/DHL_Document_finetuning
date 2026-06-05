@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0105",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202204-8726",
+    "usppi_name": "Pacific Chapman B.V.",
+    "usppi_address": "444 Brown Mountain Apt. 069, Thompsonview, DC 36027, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "83-9127799",
+    "consignee_name": "International Marshall Co.",
+    "consignee_address": "0453 Donna Fall, South Staceyfort, GU 43638, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Commerce Smith Pte Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Jennifer Wilkerson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/8",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 52,
+        "unit": "PCS",
+        "weight_kg": 4.85,
+        "value_usd": 3570.74
+      },
+      {
+        "marks": "EXP/38",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 164,
+        "unit": "CTN",
+        "weight_kg": 618.87,
+        "value_usd": 7369.53
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 189,
+        "unit": "BOX",
+        "weight_kg": 146.97,
+        "value_usd": 4782.97
+      },
+      {
+        "marks": "ABC/50",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 66,
+        "unit": "PCS",
+        "weight_kg": 45.32,
+        "value_usd": 194.25
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 59,
+        "unit": "KGS",
+        "weight_kg": 59.0,
+        "value_usd": 1188.69
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 157,
+        "unit": "PCS",
+        "weight_kg": 592.56,
+        "value_usd": 87331.03
+      },
+      {
+        "marks": "SLI/38",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 129,
+        "unit": "PCS",
+        "weight_kg": 1502.48,
+        "value_usd": 55218.47
+      },
+      {
+        "marks": "ABC/25",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 75,
+        "unit": "PCS",
+        "weight_kg": 73.02,
+        "value_usd": 22029.99
+      }
+    ],
+    "total_weight_kg": 3043.07,
+    "total_value_usd": 181685.67,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "415W",
+    "booking_ref": "BKG-481366",
+    "bl_number": "DHLG686005236",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "WWBX9927947",
+    "seal_number": "SL780969",
+    "container_type": "40'GP",
+    "cbm": 67.122
+  }
+}

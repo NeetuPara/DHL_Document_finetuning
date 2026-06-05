@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0477",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202507-9259",
+    "usppi_name": "Tech Campbell AG",
+    "usppi_address": "7506 Charles River, Port Ronaldfurt, PW 36073, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "23-1983019",
+    "consignee_name": "Contreras Industry Ltd",
+    "consignee_address": "31844 Barker Mall Apt. 052, South Thomasville, MA 13055, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Mitchell Global Co.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Timothy Walker",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/16",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 164,
+        "unit": "SET",
+        "weight_kg": 648.38,
+        "value_usd": 7709.75
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 138,
+        "unit": "PCS",
+        "weight_kg": 105.62,
+        "value_usd": 1977.71
+      },
+      {
+        "marks": "EXP/4",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 112,
+        "unit": "PCS",
+        "weight_kg": 117.24,
+        "value_usd": 42240.89
+      }
+    ],
+    "total_weight_kg": 871.24,
+    "total_value_usd": 51928.35,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "482N",
+    "booking_ref": "BKG-398927",
+    "bl_number": "YMLU772494672",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Long Beach, US",
+    "container_number": "UQVD3782475",
+    "seal_number": "CL262159",
+    "container_type": "40'HC",
+    "cbm": 21.174
+  }
+}

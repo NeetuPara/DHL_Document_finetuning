@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0987",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Luis Cox",
+    "addressee_company": "International Sherman Pte Ltd",
+    "addressee_address": "47894 Morales Glens, Martinezmouth, IL 97917, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 6.971,
+    "total_value": 2065.56,
+    "currency": "JPY",
+    "issue_date": "2026-03-07",
+    "reference": "REF-366787",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.554,
+        "value": 1926.0,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 2,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.341,
+        "value": 119.58,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 9,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.076,
+        "value": 19.98,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_country": "United Kingdom",
+    "port_of_entry": "New York, NY",
+    "entry_number": "921-72748543-5",
+    "entry_type": "Formal Entry",
+    "duty_rate": 18.7,
+    "estimated_duty": 386.26,
+    "importer_ein": "08-1239743",
+    "customs_broker": "Harris Pacific Co."
+  }
+}

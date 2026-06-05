@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0007",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202011-6048",
+    "usppi_name": "Castillo International Inc.",
+    "usppi_address": "9129 Velasquez Path, North Stephen, IN 15957, Poland",
+    "usppi_country": "Poland",
+    "ein": "38-5189734",
+    "consignee_name": "Global Savage AG",
+    "consignee_address": "32765 Joe Shore Suite 141, Sarahhaven, NY 68252, France",
+    "consignee_country": "France",
+    "notify_party": "Howell Trade B.V.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "2B350",
+    "signatory_name": "Kimberly Anderson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/1",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 154,
+        "unit": "MTR",
+        "weight_kg": 79.33,
+        "value_usd": 2495.78
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 121,
+        "unit": "PCS",
+        "weight_kg": 176.26,
+        "value_usd": 2461.54
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 53,
+        "unit": "PCS",
+        "weight_kg": 5.04,
+        "value_usd": 2188.62
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 34,
+        "unit": "CTN",
+        "weight_kg": 49.45,
+        "value_usd": 1931.4
+      }
+    ],
+    "total_weight_kg": 310.08,
+    "total_value_usd": 9077.34,
+    "service": "Air Freight",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 17572.39,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-390378",
+    "destination_country": "France"
+  }
+}

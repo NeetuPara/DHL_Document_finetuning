@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0586",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202506-2440",
+    "usppi_name": "Munoz Global Co.",
+    "usppi_address": "886 Kayla Inlet, Rochamouth, MI 30832, Germany",
+    "usppi_country": "Germany",
+    "ein": "66-2301032",
+    "consignee_name": "Powers Trade Pte Ltd",
+    "consignee_address": "4189 Taylor Mountains Apt. 029, East Ashley, MP 57383, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Pacific Baker Inc.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Jay Holt",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/43",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 32,
+        "unit": "PCS",
+        "weight_kg": 43.68,
+        "value_usd": 14310.86
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 161,
+        "unit": "MTR",
+        "weight_kg": 98.83,
+        "value_usd": 2230.83
+      },
+      {
+        "marks": "SLI/19",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 20,
+        "unit": "PKG",
+        "weight_kg": 21.22,
+        "value_usd": 1204.6
+      }
+    ],
+    "total_weight_kg": 163.73,
+    "total_value_usd": 17746.29,
+    "service": "LCL Ocean",
+    "named_port": "Long Beach, US",
+    "insurance_value_usd": 9570.64,
+    "license_type": "Distributor License",
+    "license_number": "LIC-719348",
+    "destination_country": "Thailand"
+  }
+}

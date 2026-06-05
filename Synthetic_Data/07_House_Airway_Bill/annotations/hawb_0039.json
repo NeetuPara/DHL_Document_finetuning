@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0039",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-77132892",
+    "mawb_number": "125-16782819",
+    "shipper_name": "Pacific Martin Inc.",
+    "shipper_address": "771 Jennings Extensions Apt. 329, West Susanport, WI 76280, Switzerland",
+    "consignee_name": "International French LLC",
+    "consignee_address": "38352 Maria Prairie, Joanfort, CA 24168, Sweden",
+    "agent_name": "Oconnor Global Corp.",
+    "airport_departure": "YYZ",
+    "airport_destination": "PVG",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "CHF 6,438.61",
+    "declared_value_customs": "EUR 19,937.34",
+    "n_pieces": 4,
+    "gross_weight_kg": 471.0,
+    "chargeable_weight": 544.9,
+    "rate": 9.44,
+    "total_charge": 5143.86,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "HANDLING CODE: SUR",
+    "issue_date": "2025-08-24",
+    "signatory": "Mia Williams",
+    "iata_code": "73-379",
+    "agent_cass": "8311-4792",
+    "consolidation_ref": "CONS-1670-676169",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-20584618",
+        "pieces": 2,
+        "weight": 86.3,
+        "destination": "ICN",
+        "consignee": "Commerce Mooney LLC",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "085-21151478",
+        "pieces": 7,
+        "weight": 74.6,
+        "destination": "HKG",
+        "consignee": "Jenkins Tech S.A.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "057-41557243",
+        "pieces": 5,
+        "weight": 99.0,
+        "destination": "MIA",
+        "consignee": "Garrett Pacific LLC",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "176-38156958",
+        "pieces": 4,
+        "weight": 37.7,
+        "destination": "SYD",
+        "consignee": "Commerce Nichols Inc.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "125-53079907",
+        "pieces": 13,
+        "weight": 11.7,
+        "destination": "AMS",
+        "consignee": "Walton Commerce Ltd",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

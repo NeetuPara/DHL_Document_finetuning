@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0008",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Heather Holt",
+    "addressee_company": "Industry Banks Ltd",
+    "addressee_address": "1262 Cooper Alley Suite 254, North Brittanytown, DE 05222, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 2.526,
+    "total_value": 1085.07,
+    "currency": "JPY",
+    "issue_date": "2026-01-23",
+    "reference": "REF-249040",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.956,
+        "value": 628.6,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 7,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.57,
+        "value": 456.47,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "Angela Howard",
+    "sender_company": "Kerr International S.A.",
+    "sender_address": "1567 Crystal Estate, New Jason, WV 03689, Germany",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 66.88,
+    "tracking_number": "DZ828183331VL"
+  }
+}

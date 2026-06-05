@@ -1,0 +1,43 @@
+{
+  "document_id": "hbl_0047",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU608683362",
+    "shipper_name": "Global Murray Ltd",
+    "shipper_address": "Unit 3814 Box 4457, DPO AA 86191, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Tech Townsend Inc.",
+    "consignee_address": "USNS Patterson, FPO AP 94317, France",
+    "consignee_country": "France",
+    "notify_party_name": "Tech Strong Pte Ltd",
+    "notify_party_address": "PSC 1561, Box 1619, APO AA 30536, South Korea",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "877S",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "Los Angeles, US",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2025-10-28",
+    "issue_place": "Los Angeles",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "PSDQ0859830",
+        "seal_no": "CL639106",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 300,
+    "package_type": "Bundle",
+    "gross_weight_kg": 10195.4,
+    "net_weight_kg": 9493.0,
+    "cbm": 20.026,
+    "marks_and_numbers": "ABC/35"
+  }
+}

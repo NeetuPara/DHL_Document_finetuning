@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0388",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Turner Pacific AG",
+    "shipper_address": "939 Calvin Via, Hudsonburgh, VA 57930, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Commerce Bates Corp.",
+    "consignee_address": "7490 Byrd Plains, Kristinfurt, MS 80320, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+34 282-940-8902",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 18,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 83.73,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Catherine Patrick",
+    "signature_date": "2026-04-29",
+    "signature_place": "Australia",
+    "awb_number": "085-77221694",
+    "flight_number": "EK9772",
+    "flight_date": "2026-05-20",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "HKG",
+    "destination_airport_name": "Hong Kong International"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0811",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jason Miller",
+    "addressee_company": "Tech Moss AG",
+    "addressee_address": "408 Shelton Union Apt. 777, Barnestown, NM 85470, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 5.514,
+    "total_value": 3688.27,
+    "currency": "CAD",
+    "issue_date": "2025-06-17",
+    "reference": "REF-077225",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.873,
+        "value": 361.08,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 19,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.374,
+        "value": 2278.86,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 5,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.212,
+        "value": 164.65,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 7,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.055,
+        "value": 883.68,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Brandon Patterson",
+    "sender_company": "Tech Villa Ltd",
+    "sender_address": "5286 Acevedo Causeway Suite 571, Lake Johnside, GA 12098, Germany",
+    "sender_phone": "+1-817-712-3560x4285",
+    "sender_email": "smithian@example.net",
+    "addressee_phone": "316.270.6581x1292",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 69.89,
+    "tracking_number": "XF687587471UR"
+  }
+}

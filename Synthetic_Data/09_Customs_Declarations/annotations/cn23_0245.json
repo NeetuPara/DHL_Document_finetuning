@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0245",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Stephanie Gonzalez",
+    "addressee_company": "James International Pte Ltd",
+    "addressee_address": "USS Cooper, FPO AA 51063, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 10.76,
+    "total_value": 6894.74,
+    "currency": "CNY",
+    "issue_date": "2025-10-12",
+    "reference": "REF-128886",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.845,
+        "value": 2524.34,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 2,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.342,
+        "value": 174.08,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 11,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.265,
+        "value": 1063.48,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 11,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.264,
+        "value": 1565.96,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 16,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.044,
+        "value": 1566.88,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Jason Chen",
+    "sender_company": "Tech Reed Co.",
+    "sender_address": "359 Morgan Rapids, Jenkinsport, IL 87106, China",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 7584.21,
+    "postal_charges": 18.51,
+    "tracking_number": "QT672737443LY"
+  }
+}

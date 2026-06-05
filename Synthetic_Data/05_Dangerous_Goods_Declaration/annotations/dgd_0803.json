@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0803",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Bauer Industry Pte Ltd",
+    "shipper_address": "927 Mark Stream, Fernandezstad, KS 27391, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Industry Johnson Inc.",
+    "consignee_address": "33185 Flores Roads, East Anitaburgh, AL 19244, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+56 563-879-4513",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 18,
+        "pkg_type": "Steel Drum",
+        "net_qty": 67.88,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 47,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 6.89,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Jade Osborn",
+    "signature_date": "2026-04-15",
+    "signature_place": "Hong Kong",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "981N",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Hamburg, DE"
+  }
+}

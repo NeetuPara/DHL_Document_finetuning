@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0372",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202403-5368",
+    "usppi_name": "Commerce Mccormick LLC",
+    "usppi_address": "751 Randy Hill Apt. 529, Terryshire, ID 63976, Canada",
+    "usppi_country": "Canada",
+    "ein": "18-5962144",
+    "consignee_name": "Pacific Warren S.A.",
+    "consignee_address": "USNS Allen, FPO AA 51413, China",
+    "consignee_country": "China",
+    "notify_party": "Tech Sims Co.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Erica Carney",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/14",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 55,
+        "unit": "CTN",
+        "weight_kg": 131.79,
+        "value_usd": 245.17
+      },
+      {
+        "marks": "SLI/38",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 17,
+        "unit": "PCS",
+        "weight_kg": 10.94,
+        "value_usd": 6899.82
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 38,
+        "unit": "LTR",
+        "weight_kg": 40.87,
+        "value_usd": 844.85
+      },
+      {
+        "marks": "SLI/2",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 31,
+        "unit": "MTR",
+        "weight_kg": 22.35,
+        "value_usd": 300.66
+      }
+    ],
+    "total_weight_kg": 205.95,
+    "total_value_usd": 8290.5,
+    "vessel": "PIL PACIFIC",
+    "voyage": "839S",
+    "booking_ref": "BKG-293527",
+    "bl_number": "DHLG154144736",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Long Beach, US",
+    "container_number": "SDJK0183386",
+    "seal_number": "SL295622",
+    "container_type": "20'GP",
+    "cbm": 6.397
+  }
+}

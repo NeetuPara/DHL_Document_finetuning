@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0603",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Richard Smith",
+    "addressee_company": "Pacific Stone Corp.",
+    "addressee_address": "091 Nolan Pines Apt. 906, Port Pamela, NV 43238, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 7.286,
+    "total_value": 175.75,
+    "currency": "USD",
+    "issue_date": "2026-04-02",
+    "reference": "REF-010728",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.185,
+        "value": 143.5,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 5,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.101,
+        "value": 32.25,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_country": "Canada",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "787-86302868-0",
+    "entry_type": "Formal Entry",
+    "duty_rate": 23.4,
+    "estimated_duty": 41.13,
+    "importer_ein": "63-7709550",
+    "customs_broker": "Roberts Pacific Inc."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0075",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-12313193",
+    "mawb_number": "618-85089697",
+    "shipper_name": "Knapp Trade B.V.",
+    "shipper_address": "992 Morris Circles, North James, AL 09770, Australia",
+    "consignee_name": "Mclaughlin Tech Corp.",
+    "consignee_address": "491 Weiss Estate Suite 955, New Julieton, PW 99318, China",
+    "agent_name": "Larson International Co.",
+    "airport_departure": "NRT",
+    "airport_destination": "ORD",
+    "currency": "CNY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "SGD 37,597.24",
+    "n_pieces": 2,
+    "gross_weight_kg": 435.4,
+    "chargeable_weight": 527.2,
+    "rate": 1.66,
+    "total_charge": 875.15,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-12-14",
+    "signatory": "Melanie Goodwin",
+    "iata_code": "90-798",
+    "agent_cass": "7292-8907",
+    "consolidation_ref": "CONS-8717-975571",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-44411554",
+        "pieces": 16,
+        "weight": 79.1,
+        "destination": "LHR",
+        "consignee": "International Walker LLC",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "057-44973275",
+        "pieces": 7,
+        "weight": 88.9,
+        "destination": "LHR",
+        "consignee": "Ewing Commerce Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "176-21082335",
+        "pieces": 3,
+        "weight": 8.7,
+        "destination": "HKG",
+        "consignee": "Industry Gill Corp.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "618-80025968",
+        "pieces": 13,
+        "weight": 87.0,
+        "destination": "PVG",
+        "consignee": "Industry Zimmerman B.V.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "125-79228060",
+        "pieces": 17,
+        "weight": 45.9,
+        "destination": "ORD",
+        "consignee": "Chen International Inc.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "006-97163548",
+        "pieces": 7,
+        "weight": 73.9,
+        "destination": "ORD",
+        "consignee": "Lewis Global S.A.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "160-47217611",
+        "pieces": 7,
+        "weight": 20.4,
+        "destination": "YYZ",
+        "consignee": "King International S.A.",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

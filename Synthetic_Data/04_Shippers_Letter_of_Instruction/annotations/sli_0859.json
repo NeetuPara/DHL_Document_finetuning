@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0859",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202604-7318",
+    "usppi_name": "Tech Rogers S.A.",
+    "usppi_address": "937 Amanda Brook Suite 273, Tiffanyborough, HI 49996, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "55-7556700",
+    "consignee_name": "International Rasmussen B.V.",
+    "consignee_address": "4492 Cole Stravenue, Port Michael, LA 44554, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Lang Global Inc.",
+    "forwarder": "Expeditors",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Brenda Stanton",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/14",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 153,
+        "unit": "KGS",
+        "weight_kg": 153.0,
+        "value_usd": 3198.21
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 151,
+        "unit": "PCS",
+        "weight_kg": 27.68,
+        "value_usd": 4523.53
+      }
+    ],
+    "total_weight_kg": 180.68,
+    "total_value_usd": 7721.74,
+    "service": "Air Freight",
+    "named_port": "Amsterdam Schiphol",
+    "insurance_value_usd": 23648.46,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-794521",
+    "destination_country": "Belgium"
+  }
+}

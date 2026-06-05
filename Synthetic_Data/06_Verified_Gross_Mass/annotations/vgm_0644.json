@@ -1,0 +1,82 @@
+{
+  "document_id": "vgm_0644",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Commerce Pratt LLC",
+    "shipper_address": "329 Paul Fort Suite 028, Richardhaven, OR 35663, Switzerland",
+    "shipper_country": "Switzerland",
+    "container_number": "YZYQ3318373",
+    "seal_number": "BL986970",
+    "container_size": "45'HC",
+    "iso_type_code": "L5G0",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 6274.6,
+    "packing_materials_kg": 61.7,
+    "vgm_kg": 11136.3,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "653N",
+    "bl_number": "OOLU832317649",
+    "booking_reference": "BKG-713116",
+    "weighing_scale_type": "Certified Electronic Scale",
+    "scale_serial": "Unit-99354",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-17",
+    "signature_date": "2026-05-13",
+    "signatory_name": "Alexander Blake",
+    "signatory_title": "Shipping Coordinator",
+    "number_of_packages": 7,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Crate",
+        "n_units": 20,
+        "gross_wt_kg": 472.5
+      },
+      {
+        "item_no": 2,
+        "description": "Textile Fabrics - Woven Polyester",
+        "pkg_type": "Cylinder",
+        "n_units": 5,
+        "gross_wt_kg": 353.6
+      },
+      {
+        "item_no": 3,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Bundle",
+        "n_units": 18,
+        "gross_wt_kg": 983.9
+      },
+      {
+        "item_no": 4,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Crate",
+        "n_units": 13,
+        "gross_wt_kg": 417.1
+      },
+      {
+        "item_no": 5,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Drum",
+        "n_units": 5,
+        "gross_wt_kg": 1803.4
+      },
+      {
+        "item_no": 6,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Bag",
+        "n_units": 13,
+        "gross_wt_kg": 144.2
+      },
+      {
+        "item_no": 7,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Drum",
+        "n_units": 7,
+        "gross_wt_kg": 2099.9
+      }
+    ]
+  }
+}

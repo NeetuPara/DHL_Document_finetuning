@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0981",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific White AG",
+    "shipper_address": "PSC 7307, Box 1970, APO AE 96585, United States",
+    "shipper_country": "United States",
+    "consignee_name": "International Sims GmbH",
+    "consignee_address": "65084 Deborah Spur Suite 177, Andreafort, AL 37568, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+98 295-128-9130",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 42,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 60.86,
+        "qty_unit": "L",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-978447",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jennifer Rivera",
+    "signature_date": "2026-04-19",
+    "signature_place": "United States",
+    "awb_number": "125-89006900",
+    "flight_number": "UA4343",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

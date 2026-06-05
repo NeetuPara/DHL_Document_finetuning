@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0919",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202003-7973",
+    "usppi_name": "Global Johnson Inc.",
+    "usppi_address": "71452 Danielle Mountains, New Jessicafort, HI 97416, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "18-1140016",
+    "consignee_name": "International Stout S.A.",
+    "consignee_address": "7266 Melanie Drive Suite 255, Greenburgh, FM 43762, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Maynard Commerce GmbH",
+    "forwarder": "DB Schenker",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Regina Lee",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/26",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 160,
+        "unit": "PKG",
+        "weight_kg": 417.07,
+        "value_usd": 12803.56
+      },
+      {
+        "marks": "ABC/49",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 104,
+        "unit": "KGS",
+        "weight_kg": 104.0,
+        "value_usd": 1999.65
+      },
+      {
+        "marks": "SLI/12",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 191,
+        "unit": "PCS",
+        "weight_kg": 1396.3,
+        "value_usd": 131921.8
+      },
+      {
+        "marks": "ABC/3",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 65,
+        "unit": "PCS",
+        "weight_kg": 30.1,
+        "value_usd": 13996.68
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 114,
+        "unit": "PCS",
+        "weight_kg": 70.48,
+        "value_usd": 1395.68
+      },
+      {
+        "marks": "EXP/28",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 194,
+        "unit": "CTN",
+        "weight_kg": 372.07,
+        "value_usd": 7440.52
+      }
+    ],
+    "total_weight_kg": 2390.02,
+    "total_value_usd": 169557.89,
+    "service": "Air Freight",
+    "named_port": "Seoul Incheon",
+    "insurance_value_usd": 34627.58,
+    "license_type": "Distributor License",
+    "license_number": "LIC-272965",
+    "destination_country": "Canada"
+  }
+}

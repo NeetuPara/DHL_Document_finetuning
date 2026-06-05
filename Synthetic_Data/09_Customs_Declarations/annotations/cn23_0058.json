@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0058",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jeffrey Wilkins",
+    "addressee_company": "International Williams Ltd",
+    "addressee_address": "6581 Waters Village, Wolfberg, ME 94608, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 8.019,
+    "total_value": 3662.9,
+    "currency": "GBP",
+    "issue_date": "2025-06-16",
+    "reference": "REF-003038",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.805,
+        "value": 81.2,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 9,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.711,
+        "value": 1269.09,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 2,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.663,
+        "value": 248.08,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 14,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.726,
+        "value": 1429.82,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 17,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.617,
+        "value": 488.75,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 2,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.497,
+        "value": 145.96,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_name": "Nancy Rodriguez",
+    "sender_company": "White Global Ltd",
+    "sender_address": "6176 Monroe Spurs Apt. 151, Strongberg, TX 95728, Australia",
+    "sender_phone": "001-613-695-1843x9894",
+    "sender_email": "ryanross@example.net",
+    "addressee_phone": "001-769-391-5704x8556",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 20.13,
+    "tracking_number": "BI362560786NG"
+  }
+}

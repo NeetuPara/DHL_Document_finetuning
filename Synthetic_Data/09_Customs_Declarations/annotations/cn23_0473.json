@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0473",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Matthew Wilkerson",
+    "addressee_company": "Pacific Dalton Pte Ltd",
+    "addressee_address": "305 Leon Fort, Lucasside, AL 68939, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 3.283,
+    "total_value": 735.24,
+    "currency": "AUD",
+    "issue_date": "2025-09-08",
+    "reference": "REF-395672",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.729,
+        "value": 676.2,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 12,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.554,
+        "value": 59.04,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Canada"
+      }
+    ],
+    "sender_name": "Randy Kelly",
+    "sender_company": "Trade Young Corp.",
+    "sender_address": "98114 Miguel Courts Suite 054, North Kelli, WV 10179, Brazil",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 808.76,
+    "postal_charges": 66.45,
+    "tracking_number": "XY092199829LI"
+  }
+}

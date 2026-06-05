@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0075",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202007-1130",
+    "usppi_name": "Lee Global AG",
+    "usppi_address": "03602 Curry Forges Suite 993, West Stanley, NM 69962, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "16-8464996",
+    "consignee_name": "Wood Trade Ltd",
+    "consignee_address": "546 Warner Meadows, East Jennifer, DE 99405, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Mckenzie Pacific Inc.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Zachary Gonzalez",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/50",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 193,
+        "unit": "KGS",
+        "weight_kg": 193.0,
+        "value_usd": 251.66
+      },
+      {
+        "marks": "EXP/7",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 135,
+        "unit": "LTR",
+        "weight_kg": 136.26,
+        "value_usd": 3386.22
+      }
+    ],
+    "total_weight_kg": 329.26,
+    "total_value_usd": 3637.88,
+    "vessel": "ONE INNOVATION",
+    "voyage": "998W",
+    "booking_ref": "BKG-331165",
+    "bl_number": "OOLU528054980",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Hong Kong, HK",
+    "container_number": "MAJA6271682",
+    "seal_number": "CL145811",
+    "container_type": "40'HC",
+    "cbm": 17.183
+  }
+}

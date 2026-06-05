@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0225",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-65916321",
+    "mawb_number": "074-23390589",
+    "shipper_name": "Global Russell LLC",
+    "shipper_address": "6733 Allen Isle Apt. 592, Port Antonio, KS 94658, France",
+    "consignee_name": "Frost Trade S.A.",
+    "consignee_address": "68480 Maria Road Suite 432, Jeffreyview, CT 43615, Thailand",
+    "agent_name": "Commerce Martin AG",
+    "airport_departure": "MIA",
+    "airport_destination": "LAX",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "SGD 1,301.44",
+    "declared_value_customs": "JPY 4,375.18",
+    "n_pieces": 44,
+    "gross_weight_kg": 178.6,
+    "chargeable_weight": 205.3,
+    "rate": 6.75,
+    "total_charge": 1385.78,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-12-22",
+    "signatory": "Willie Young",
+    "iata_code": "12-063",
+    "agent_cass": "6655-7844",
+    "consolidation_ref": "CONS-0853-846822",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-15147178",
+        "pieces": 16,
+        "weight": 52.2,
+        "destination": "DXB",
+        "consignee": "Commerce Mcdaniel Corp.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "074-74297229",
+        "pieces": 2,
+        "weight": 36.0,
+        "destination": "ICN",
+        "consignee": "Le International Pte Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "020-30580087",
+        "pieces": 10,
+        "weight": 40.4,
+        "destination": "AMS",
+        "consignee": "International Wagner AG",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "085-38237164",
+        "pieces": 13,
+        "weight": 18.7,
+        "destination": "FRA",
+        "consignee": "Pacific Lawrence Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "176-19842907",
+        "pieces": 4,
+        "weight": 39.1,
+        "destination": "PVG",
+        "consignee": "Morales International Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

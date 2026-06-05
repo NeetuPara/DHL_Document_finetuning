@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0918",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Castillo Global Co.",
+    "shipper_address": "0488 Green Villages Apt. 605, New Alyssa, MI 23631, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Tech Morse Ltd",
+    "consignee_address": "USS Wilson, FPO AE 88463, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+7 256-445-5468",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 10,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 87.77,
+        "qty_unit": "kg",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-815752",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Karen Cross",
+    "signature_date": "2026-04-25",
+    "signature_place": "Japan",
+    "awb_number": "160-85464607",
+    "flight_number": "EK4061",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "SYD",
+    "destination_airport_name": "Sydney Kingsford Smith",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

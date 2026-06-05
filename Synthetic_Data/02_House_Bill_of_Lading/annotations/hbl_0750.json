@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0750",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG100962764",
+    "shipper_name": "Jackson Tech GmbH",
+    "shipper_address": "1551 Sabrina Glens, Smithstad, WI 47636, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Hardy Trade AG",
+    "consignee_address": "9886 Soto Row Apt. 396, Lindseymouth, IN 56896, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Crawford Tech Co.",
+    "notify_party_address": "Unit 7005 Box 4178, DPO AE 49690, Malaysia",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "232W",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2025-11-12",
+    "issue_place": "Dubai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "UJGX7401414",
+        "seal_no": "CL577629",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "WGJB5223595",
+        "seal_no": "BL667945",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "DCKF1052753",
+        "seal_no": "BL591444",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 227,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 15773.0,
+    "net_weight_kg": 14095.1,
+    "cbm": 23.888,
+    "marks_and_numbers": "XYZ/31"
+  }
+}

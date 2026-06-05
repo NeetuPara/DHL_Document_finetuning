@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0584",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Tyler Stone",
+    "addressee_company": "York International Corp.",
+    "addressee_address": "699 Howe Well Apt. 189, Hannahborough, TX 89412, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 0.603,
+    "total_value": 437.5,
+    "currency": "CNY",
+    "issue_date": "2025-12-06",
+    "reference": "REF-737282",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.603,
+        "value": 437.5,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Debra Davis",
+    "sender_company": "Ramirez Trade Co.",
+    "sender_address": "37542 Evans Passage, West Thomas, NE 92422, Japan",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 26.0,
+    "tracking_number": "KZ447690569LN"
+  }
+}

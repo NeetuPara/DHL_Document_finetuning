@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0036",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-45676483",
+    "mawb_number": "618-94613412",
+    "shipper_name": "Pacific Wilcox Corp.",
+    "shipper_address": "774 Grant Stream, Lake Kathleenfurt, MN 38497, Malaysia",
+    "consignee_name": "Price Trade AG",
+    "consignee_address": "71615 Hernandez Parkways Suite 822, New Michaelside, VA 75663, Poland",
+    "agent_name": "Industry Adams Pte Ltd",
+    "airport_departure": "FRA",
+    "airport_destination": "DXB",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "CNY 39,425.97",
+    "declared_value_customs": "NCV",
+    "n_pieces": 22,
+    "gross_weight_kg": 127.7,
+    "chargeable_weight": 140.9,
+    "rate": 3.61,
+    "total_charge": 508.65,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "HANDLING CODE: EAP",
+    "issue_date": "2025-12-27",
+    "signatory": "Gregory Smith",
+    "iata_code": "08-967",
+    "agent_cass": "3372-4130",
+    "consolidation_ref": "CONS-2570-844641",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-20487784",
+        "pieces": 3,
+        "weight": 89.1,
+        "destination": "NRT",
+        "consignee": "Greene Tech Co.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "160-55525459",
+        "pieces": 10,
+        "weight": 78.0,
+        "destination": "ICN",
+        "consignee": "Walls Trade S.A.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "176-25914712",
+        "pieces": 5,
+        "weight": 90.9,
+        "destination": "DXB",
+        "consignee": "Wu Trade Corp.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "006-70519813",
+        "pieces": 12,
+        "weight": 29.3,
+        "destination": "FRA",
+        "consignee": "International Oconnor S.A.",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

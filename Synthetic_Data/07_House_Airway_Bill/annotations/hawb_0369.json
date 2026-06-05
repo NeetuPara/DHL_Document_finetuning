@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0369",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-98117390",
+    "mawb_number": "125-89370433",
+    "shipper_name": "Campbell Industry S.A.",
+    "shipper_address": "6542 Heidi Island Suite 971, North Ryantown, SD 39185, Poland",
+    "consignee_name": "Weaver International S.A.",
+    "consignee_address": "1284 Jones Neck Apt. 602, Williamsview, ID 08433, South Korea",
+    "agent_name": "Bishop Global Ltd",
+    "airport_departure": "JFK",
+    "airport_destination": "CDG",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 17,
+    "gross_weight_kg": 273.4,
+    "chargeable_weight": 349.1,
+    "rate": 7.27,
+    "total_charge": 2537.96,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "TEMP CONTROLLED: 2\u00b0C - 13\u00b0C",
+    "issue_date": "2025-09-28",
+    "signatory": "Lisa Rogers",
+    "iata_code": "18-251",
+    "agent_cass": "2778-9659",
+    "consolidation_ref": "CONS-3194-214784",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-41458220",
+        "pieces": 10,
+        "weight": 33.1,
+        "destination": "DXB",
+        "consignee": "Commerce Stout AG",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "160-91008557",
+        "pieces": 2,
+        "weight": 35.5,
+        "destination": "JFK",
+        "consignee": "Jackson International GmbH",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "085-67584778",
+        "pieces": 5,
+        "weight": 52.9,
+        "destination": "SYD",
+        "consignee": "Tech Johnson S.A.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "176-35036877",
+        "pieces": 5,
+        "weight": 61.1,
+        "destination": "ORD",
+        "consignee": "Parker Global B.V.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "085-55547337",
+        "pieces": 6,
+        "weight": 52.0,
+        "destination": "ICN",
+        "consignee": "International Lindsey Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0256",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Sharon Rose",
+    "addressee_company": "Andrade Tech Co.",
+    "addressee_address": "244 Alexandra Forge, South Tracey, VA 70590, India",
+    "addressee_country": "India",
+    "total_weight_kg": 9.751,
+    "total_value": 5402.12,
+    "currency": "CNY",
+    "issue_date": "2025-07-13",
+    "reference": "REF-320401",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.482,
+        "value": 1220.01,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 20,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.359,
+        "value": 1826.8,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 10,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.274,
+        "value": 1374.2,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 13,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.636,
+        "value": 981.11,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Scott Stephens",
+    "sender_company": "Trade Ali Co.",
+    "sender_address": "69302 Kristin Vista, East Lauren, MT 36793, Singapore",
+    "sender_phone": "001-244-214-4888x8183",
+    "sender_email": "ethan02@example.org",
+    "addressee_phone": "711.309.8194x77409",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 54.88,
+    "tracking_number": "YX384461285CO"
+  }
+}

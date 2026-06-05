@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0562",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202401-9360",
+    "usppi_name": "Commerce Shelton Inc.",
+    "usppi_address": "416 Lopez Light Suite 254, Hendricksmouth, MS 29906, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "33-8543687",
+    "consignee_name": "Commerce Bean Corp.",
+    "consignee_address": "35951 Weaver Islands Apt. 776, New Aaronview, LA 50568, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Hawkins Global Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Jay Payne",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/38",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 179,
+        "unit": "KGS",
+        "weight_kg": 179.0,
+        "value_usd": 3245.03
+      },
+      {
+        "marks": "ABC/14",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 115,
+        "unit": "PCS",
+        "weight_kg": 41.63,
+        "value_usd": 10608.41
+      }
+    ],
+    "total_weight_kg": 220.63,
+    "total_value_usd": 13853.44,
+    "service": "LCL Ocean",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 18544.93,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-306207",
+    "destination_country": "Poland"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "packet_id": "packet_0175",
+  "total_pages": 6,
+  "n_documents": 6,
+  "class_sequence": [
+    "Packing List",
+    "Verified Gross Mass",
+    "Certificate of Origin",
+    "House Bill of Lading",
+    "Shipper's Letter of Instruction",
+    "Commercial Invoice"
+  ],
+  "documents": [
+    {
+      "doc_class": "Packing List",
+      "class_index": 8,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "packing_list_0521.pdf",
+      "source_class_folder": "08_Packing_List"
+    },
+    {
+      "doc_class": "Verified Gross Mass",
+      "class_index": 6,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "vgm_0308.pdf",
+      "source_class_folder": "06_Verified_Gross_Mass"
+    },
+    {
+      "doc_class": "Certificate of Origin",
+      "class_index": 3,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "coo_0856.pdf",
+      "source_class_folder": "03_Certificate_of_Origin"
+    },
+    {
+      "doc_class": "House Bill of Lading",
+      "class_index": 2,
+      "page_start": 4,
+      "page_end": 4,
+      "n_pages": 1,
+      "source_file": "hbl_0459.pdf",
+      "source_class_folder": "02_House_Bill_of_Lading"
+    },
+    {
+      "doc_class": "Shipper's Letter of Instruction",
+      "class_index": 4,
+      "page_start": 5,
+      "page_end": 5,
+      "n_pages": 1,
+      "source_file": "sli_0101.pdf",
+      "source_class_folder": "04_Shippers_Letter_of_Instruction"
+    },
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 6,
+      "page_end": 6,
+      "n_pages": 1,
+      "source_file": "commercial_invoice_0293.pdf",
+      "source_class_folder": "01_Commercial_Invoice"
+    }
+  ],
+  "task": "splitting"
+}

@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0951",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202204-2995",
+    "usppi_name": "Bryant Pacific Corp.",
+    "usppi_address": "5923 Dominique Heights, Johnchester, MN 48975, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "13-8170976",
+    "consignee_name": "International Farrell LLC",
+    "consignee_address": "056 Shawn Lock, Liuborough, CT 96564, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Kennedy Global LLC",
+    "forwarder": "Panalpina",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Mr. Lawrence Brown",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/25",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 177,
+        "unit": "KGS",
+        "weight_kg": 177.0,
+        "value_usd": 440.06
+      },
+      {
+        "marks": "EXP/33",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 15,
+        "unit": "PCS",
+        "weight_kg": 326.12,
+        "value_usd": 1496.26
+      },
+      {
+        "marks": "SLI/49",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 153,
+        "unit": "PCS",
+        "weight_kg": 164.28,
+        "value_usd": 233716.94
+      },
+      {
+        "marks": "ABC/7",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 70,
+        "unit": "PCS",
+        "weight_kg": 30.51,
+        "value_usd": 610.7
+      },
+      {
+        "marks": "SLI/33",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 146,
+        "unit": "PKG",
+        "weight_kg": 335.81,
+        "value_usd": 5861.26
+      },
+      {
+        "marks": "SLI/6",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 9,
+        "unit": "KGS",
+        "weight_kg": 9.0,
+        "value_usd": 81.99
+      },
+      {
+        "marks": "ABC/9",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 82,
+        "unit": "PCS",
+        "weight_kg": 9.46,
+        "value_usd": 7544.27
+      }
+    ],
+    "total_weight_kg": 1052.18,
+    "total_value_usd": 249751.48,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "360E",
+    "booking_ref": "BKG-397480",
+    "bl_number": "DHLG576375821",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Dubai, AE",
+    "container_number": "IXAW3875053",
+    "seal_number": "SL270807",
+    "container_type": "45'HC",
+    "cbm": 28.288
+  }
+}

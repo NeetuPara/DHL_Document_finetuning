@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0209",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220916631298",
+    "export_date": "2025-07-25",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Horne International GmbH",
+    "usppi_ein": "42-2668221",
+    "usppi_address": "33602 Chandler Pines Suite 991, South Christopherland, MP 71884, Malaysia",
+    "ultimate_consignee": "International Brown Pte Ltd",
+    "intermediate_consignee": "Global Alvarez Co.",
+    "forwarding_agent": "Industry Lee S.A.",
+    "destination_country": "United Kingdom",
+    "carrier": "Maersk",
+    "bl_awb": "020-83091446",
+    "total_value": 127696.15,
+    "currency": "CAD",
+    "signatory": "Mary Garcia",
+    "line_items": [
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Australia",
+        "qty": 259,
+        "unit": "CTN",
+        "entered_value": 42791.98,
+        "duty_rate": 11.6,
+        "duty_amount": 4963.87,
+        "eccn": "0A919",
+        "schedule_b": "4819.10.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Italy",
+        "qty": 486,
+        "unit": "CTN",
+        "entered_value": 35414.82,
+        "duty_rate": 2.6,
+        "duty_amount": 920.79,
+        "eccn": "EAR99",
+        "schedule_b": "9018.31.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Singapore",
+        "qty": 111,
+        "unit": "PCS",
+        "entered_value": 49489.35,
+        "duty_rate": 5.9,
+        "duty_amount": 2919.87,
+        "eccn": "EAR99",
+        "schedule_b": "3926.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

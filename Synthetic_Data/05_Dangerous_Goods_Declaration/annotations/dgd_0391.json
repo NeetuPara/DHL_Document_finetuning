@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0391",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Mays Inc.",
+    "shipper_address": "7583 Cline Spurs, West Anthonymouth, VA 68139, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Pacific Braun Ltd",
+    "consignee_address": "59938 Adam Mountain Apt. 753, Port Douglas, CO 22205, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+61 968-368-7972",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 27,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 47.58,
+        "qty_unit": "L",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-848156",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Frances Ruiz",
+    "signature_date": "2026-05-09",
+    "signature_place": "United States",
+    "awb_number": "057-98058607",
+    "flight_number": "LH4310",
+    "flight_date": "2026-05-05",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol"
+  }
+}

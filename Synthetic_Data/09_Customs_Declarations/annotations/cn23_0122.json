@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0122",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jose Flynn",
+    "addressee_company": "Cooper Commerce Co.",
+    "addressee_address": "795 Taylor Causeway Suite 068, Garyport, MA 02732, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 4.841,
+    "total_value": 1743.45,
+    "currency": "SGD",
+    "issue_date": "2025-10-28",
+    "reference": "REF-116452",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.841,
+        "value": 1743.45,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Brazil"
+      }
+    ],
+    "sender_name": "Caitlin Gibson",
+    "sender_company": "Commerce Lamb B.V.",
+    "sender_address": "44443 Acosta Fields Apt. 603, Millerview, ID 24911, Brazil",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 1917.8,
+    "postal_charges": 28.7,
+    "tracking_number": "GF905344606NA"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0871",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Lori Duncan",
+    "addressee_company": "Page Commerce Pte Ltd",
+    "addressee_address": "USCGC Smith, FPO AE 33751, Malaysia",
+    "addressee_country": "Malaysia",
+    "total_weight_kg": 9.306,
+    "total_value": 810.17,
+    "currency": "EUR",
+    "issue_date": "2026-04-15",
+    "reference": "REF-130069",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.592,
+        "value": 212.68,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 1,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.502,
+        "value": 22.57,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 6,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.212,
+        "value": 574.92,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "Martin Romero",
+    "sender_company": "Industry Garcia Inc.",
+    "sender_address": "4062 Pamela Extensions, Ballhaven, MP 32504, Australia",
+    "sender_phone": "(880)906-8294x9574",
+    "sender_email": "brandon70@example.org",
+    "addressee_phone": "001-727-314-8022x78038",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 50.46,
+    "tracking_number": "FM325403080RI"
+  }
+}

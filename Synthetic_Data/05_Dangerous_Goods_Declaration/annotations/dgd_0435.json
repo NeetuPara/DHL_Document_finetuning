@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0435",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Foster Pacific Pte Ltd",
+    "shipper_address": "78047 Angela Roads Apt. 254, New Jesushaven, VI 13839, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Anderson Commerce LLC",
+    "consignee_address": "9311 Gomez Alley, Lake Shellyview, AS 34602, China",
+    "consignee_country": "China",
+    "emergency_telephone": "+22 685-659-3628",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 44,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 85.72,
+        "qty_unit": "kg",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 1,
+        "pkg_type": "Steel Drum",
+        "net_qty": 88.11,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-627597",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Benjamin Pennington",
+    "signature_date": "2026-04-22",
+    "signature_place": "Sweden",
+    "awb_number": "176-82192169",
+    "flight_number": "UA9984",
+    "departure_airport_code": "FRA",
+    "departure_airport_name": "Frankfurt Airport",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

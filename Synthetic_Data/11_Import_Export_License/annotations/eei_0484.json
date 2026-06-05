@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0484",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "418-00847085-6",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2025-12-15",
+    "port_of_entry": "ORD - Chicago",
+    "transport_mode": "Ocean",
+    "carrier": "DHL Express",
+    "bl_awb": "006-50821647",
+    "importer_name": "Pacific Mccarty Co.",
+    "importer_ein": "43-9123160",
+    "consignee_name": "Industry Perez Corp.",
+    "customs_broker": "Hernandez International S.A.",
+    "broker_filer_code": "yQm",
+    "country_of_origin": "Switzerland",
+    "total_value": 540914.27,
+    "total_duty": 46289.35,
+    "currency": "CAD",
+    "signatory": "Mark Kim",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Brazil",
+        "qty": 463,
+        "unit": "BOX",
+        "entered_value": 160457.28,
+        "duty_rate": 3.3,
+        "duty_amount": 5295.09,
+        "eccn": "0A919",
+        "schedule_b": "2936.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Netherlands",
+        "qty": 415,
+        "unit": "PKG",
+        "entered_value": 155064.75,
+        "duty_rate": 0.6,
+        "duty_amount": 930.39,
+        "eccn": "5E992",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Thailand",
+        "qty": 258,
+        "unit": "PCS",
+        "entered_value": 34489.44,
+        "duty_rate": 3.8,
+        "duty_amount": 1310.6,
+        "eccn": "0A919",
+        "schedule_b": "3926.90.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Poland",
+        "qty": 440,
+        "unit": "PCS",
+        "entered_value": 190902.8,
+        "duty_rate": 20.3,
+        "duty_amount": 38753.27,
+        "eccn": "5E992",
+        "schedule_b": "8518.30.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

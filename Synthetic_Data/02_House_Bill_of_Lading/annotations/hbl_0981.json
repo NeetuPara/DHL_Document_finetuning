@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0981",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU174135335",
+    "shipper_name": "Mckenzie Commerce Corp.",
+    "shipper_address": "920 Grimes Spur Suite 493, New Michaelview, FM 41998, France",
+    "shipper_country": "France",
+    "consignee_name": "Tech Porter Pte Ltd",
+    "consignee_address": "88716 William Ramp, Port Josephview, OK 40714, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party_name": "International Dixon Inc.",
+    "notify_party_address": "4578 Villarreal Manor Apt. 240, Kingberg, MD 12780, Australia",
+    "vessel": "CSCL GLOBE",
+    "voyage": "861E",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2024-09-17",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "ZVQZ5454982",
+        "seal_no": "CL492598",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "CFET8452502",
+        "seal_no": "BL199101",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 91,
+    "package_type": "Case",
+    "gross_weight_kg": 23333.5,
+    "net_weight_kg": 21806.5,
+    "cbm": 6.35,
+    "marks_and_numbers": "XYZ/42"
+  }
+}

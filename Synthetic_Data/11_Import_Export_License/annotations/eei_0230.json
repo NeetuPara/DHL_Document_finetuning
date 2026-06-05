@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0230",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240310965431",
+    "export_date": "2025-07-31",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Martinez International Ltd",
+    "usppi_ein": "10-8795642",
+    "usppi_address": "32857 John Orchard, Brandonstad, MD 94318, Switzerland",
+    "ultimate_consignee": "Trade Ruiz AG",
+    "intermediate_consignee": "Cohen Commerce Pte Ltd",
+    "forwarding_agent": "Commerce Morrison Inc.",
+    "destination_country": "Hong Kong",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "057-47647473",
+    "total_value": 311491.94,
+    "currency": "CAD",
+    "signatory": "Jenny Martinez",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 88,
+        "unit": "MTR",
+        "entered_value": 17905.36,
+        "duty_rate": 20.0,
+        "duty_amount": 3581.07,
+        "eccn": "9A515",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "India",
+        "qty": 470,
+        "unit": "PCS",
+        "entered_value": 160119.6,
+        "duty_rate": 24.9,
+        "duty_amount": 39869.78,
+        "eccn": "7A994",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Japan",
+        "qty": 133,
+        "unit": "CTN",
+        "entered_value": 36755.88,
+        "duty_rate": 3.1,
+        "duty_amount": 1139.43,
+        "eccn": "0A919",
+        "schedule_b": "9018.31.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Sweden",
+        "qty": 70,
+        "unit": "CTN",
+        "entered_value": 27031.9,
+        "duty_rate": 17.2,
+        "duty_amount": 4649.49,
+        "eccn": "2B350",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "France",
+        "qty": 240,
+        "unit": "PCS",
+        "entered_value": 69679.2,
+        "duty_rate": 20.7,
+        "duty_amount": 14423.59,
+        "eccn": "EAR99",
+        "schedule_b": "8518.30.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "document_id": "vgm_0845",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Jones Global GmbH",
+    "shipper_address": "70087 Gina Tunnel, Hudsonville, CO 48906, Belgium",
+    "shipper_country": "Belgium",
+    "container_number": "XFQV3765764",
+    "seal_number": "CL331216",
+    "container_size": "20'RF",
+    "iso_type_code": "22R1",
+    "tare_weight_kg": 3100,
+    "cargo_weight_kg": 12702.0,
+    "packing_materials_kg": 184.6,
+    "vgm_kg": 15986.6,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "850N",
+    "bl_number": "COSU821385112",
+    "booking_reference": "BKG-769640",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-25802",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-23",
+    "signature_date": "2026-05-07",
+    "signatory_name": "Kathleen Warren",
+    "signatory_title": "Shipping Coordinator",
+    "number_of_packages": 9,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Bundle",
+        "n_units": 18,
+        "gross_wt_kg": 1687.5
+      },
+      {
+        "item_no": 2,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Drum",
+        "n_units": 12,
+        "gross_wt_kg": 1565.6
+      },
+      {
+        "item_no": 3,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Roll",
+        "n_units": 14,
+        "gross_wt_kg": 1275.1
+      },
+      {
+        "item_no": 4,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Bundle",
+        "n_units": 3,
+        "gross_wt_kg": 1936.3
+      },
+      {
+        "item_no": 5,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Crate",
+        "n_units": 3,
+        "gross_wt_kg": 685.9
+      },
+      {
+        "item_no": 6,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Case",
+        "n_units": 11,
+        "gross_wt_kg": 536.9
+      },
+      {
+        "item_no": 7,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Cylinder",
+        "n_units": 18,
+        "gross_wt_kg": 289.0
+      },
+      {
+        "item_no": 8,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Bundle",
+        "n_units": 14,
+        "gross_wt_kg": 2829.6
+      },
+      {
+        "item_no": 9,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Bundle",
+        "n_units": 16,
+        "gross_wt_kg": 1896.1
+      }
+    ]
+  }
+}

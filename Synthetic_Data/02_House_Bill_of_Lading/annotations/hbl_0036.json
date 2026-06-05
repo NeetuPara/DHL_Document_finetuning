@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0036",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU229724768",
+    "shipper_name": "International Lawson GmbH",
+    "shipper_address": "007 Robert Island Suite 541, Tinaport, AK 98580, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Crawford Tech Co.",
+    "consignee_address": "35068 David Run, Brianmouth, MP 22489, France",
+    "consignee_country": "France",
+    "notify_party_name": "Commerce Joseph Co.",
+    "notify_party_address": "5791 Johnston Overpass, Lake Danielside, SD 54776, Belgium",
+    "vessel": "EVER GOLDEN",
+    "voyage": "645E",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2025-05-21",
+    "issue_place": "Hamburg",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "RODB8340253",
+        "seal_no": "CL575994",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "JTXG1924963",
+        "seal_no": "CL677468",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "ANWK1365107",
+        "seal_no": "SL574811",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "number_of_packages": 451,
+    "package_type": "Carton",
+    "gross_weight_kg": 7932.0,
+    "net_weight_kg": 7171.5,
+    "cbm": 49.82,
+    "marks_and_numbers": "ABC/48"
+  }
+}

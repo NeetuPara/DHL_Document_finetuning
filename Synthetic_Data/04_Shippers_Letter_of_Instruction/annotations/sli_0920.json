@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0920",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202304-9236",
+    "usppi_name": "Tech Romero LLC",
+    "usppi_address": "84937 Shawn Shoal Suite 909, Valenciaton, VA 83775, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "82-5875574",
+    "consignee_name": "International Wood Pte Ltd",
+    "consignee_address": "3817 Alec Field Apt. 524, Jamieland, OK 39134, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "International Donovan B.V.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Rachel Burton",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/24",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 139,
+        "unit": "CTN",
+        "weight_kg": 193.04,
+        "value_usd": 6545.67
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 153,
+        "unit": "PCS",
+        "weight_kg": 967.95,
+        "value_usd": 43880.77
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 104,
+        "unit": "PCS",
+        "weight_kg": 40.96,
+        "value_usd": 383.07
+      },
+      {
+        "marks": "EXP/33",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 157,
+        "unit": "BOX",
+        "weight_kg": 99.76,
+        "value_usd": 18598.01
+      },
+      {
+        "marks": "ABC/21",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 139,
+        "unit": "KGS",
+        "weight_kg": 139.0,
+        "value_usd": 84.14
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 114,
+        "unit": "PCS",
+        "weight_kg": 36.71,
+        "value_usd": 19479.83
+      }
+    ],
+    "total_weight_kg": 1477.42,
+    "total_value_usd": 88971.49,
+    "service": "Express Courier",
+    "named_port": "London Heathrow",
+    "insurance_value_usd": 35178.9,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-869632",
+    "destination_country": "Australia"
+  }
+}

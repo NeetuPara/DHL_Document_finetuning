@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0201",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-28151177",
+    "mawb_number": "125-56766511",
+    "shipper_name": "Tech Watson Ltd",
+    "shipper_address": "695 Eric Road Apt. 250, Ronaldfurt, KS 59187, Switzerland",
+    "consignee_name": "Tech Acosta AG",
+    "consignee_address": "723 Trevor Square Suite 491, South Sarahland, AL 87343, Brazil",
+    "agent_name": "Trade Mosley Inc.",
+    "airport_departure": "LAX",
+    "airport_destination": "FRA",
+    "currency": "CHF",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "USD 44,172.12",
+    "n_pieces": 13,
+    "gross_weight_kg": 209.5,
+    "chargeable_weight": 236.9,
+    "rate": 8.42,
+    "total_charge": 1994.7,
+    "nature_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "handling_info": "HANDLING CODE: AVI",
+    "issue_date": "2026-04-01",
+    "signatory": "William Edwards",
+    "iata_code": "11-443",
+    "agent_cass": "8055-6989",
+    "consolidation_ref": "CONS-5870-908143",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-44027072",
+        "pieces": 7,
+        "weight": 4.4,
+        "destination": "FRA",
+        "consignee": "Morales Trade S.A.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "160-81661524",
+        "pieces": 17,
+        "weight": 34.5,
+        "destination": "CDG",
+        "consignee": "Jones Commerce GmbH",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "125-44163956",
+        "pieces": 1,
+        "weight": 87.5,
+        "destination": "DXB",
+        "consignee": "Pacific Ortiz Inc.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "045-78019294",
+        "pieces": 1,
+        "weight": 9.2,
+        "destination": "LAX",
+        "consignee": "Guerrero International GmbH",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "045-50010899",
+        "pieces": 7,
+        "weight": 3.3,
+        "destination": "JFK",
+        "consignee": "Alvarez Pacific Inc.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "160-61964576",
+        "pieces": 10,
+        "weight": 89.7,
+        "destination": "DXB",
+        "consignee": "Mckenzie Commerce Co.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "006-63220758",
+        "pieces": 14,
+        "weight": 64.2,
+        "destination": "ORD",
+        "consignee": "Trade Garcia S.A.",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

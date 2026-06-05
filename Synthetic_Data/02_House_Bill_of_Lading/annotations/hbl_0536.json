@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0536",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU840229214",
+    "shipper_name": "Global Hill Corp.",
+    "shipper_address": "75705 Edward Drives Apt. 495, Markshire, SD 81572, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Trade Lang Pte Ltd",
+    "consignee_address": "USNS Stewart, FPO AE 43970, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party_name": "Global Chapman GmbH",
+    "notify_party_address": "208 Calderon Landing Apt. 494, North John, OR 72308, Netherlands",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "855S",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Hong Kong, HK",
+    "issue_date": "2024-08-16",
+    "issue_place": "Tanjung Pelepas",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "BSBL8878105",
+        "seal_no": "SL142112",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "FOIY0510473",
+        "seal_no": "BL863283",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "FFAM9404274",
+        "seal_no": "BL248791",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "OVYQ4671503",
+        "seal_no": "CL423237",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 111,
+    "package_type": "Pallet",
+    "gross_weight_kg": 4152.9,
+    "net_weight_kg": 3987.6,
+    "cbm": 4.577,
+    "marks_and_numbers": "XYZ/47"
+  }
+}

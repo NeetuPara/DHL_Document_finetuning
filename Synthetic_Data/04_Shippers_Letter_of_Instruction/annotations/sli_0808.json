@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0808",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202111-6562",
+    "usppi_name": "Romero Global Inc.",
+    "usppi_address": "USNS Clarke, FPO AA 49049, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "31-5952987",
+    "consignee_name": "Fuller Tech AG",
+    "consignee_address": "USNV Sherman, FPO AP 31631, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Trade James S.A.",
+    "forwarder": "Expeditors",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "2B350",
+    "signatory_name": "Paige Lee",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/43",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 121,
+        "unit": "CTN",
+        "weight_kg": 326.17,
+        "value_usd": 344.43
+      },
+      {
+        "marks": "ABC/13",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 159,
+        "unit": "BOX",
+        "weight_kg": 225.59,
+        "value_usd": 17303.08
+      },
+      {
+        "marks": "SLI/29",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 22,
+        "unit": "MTR",
+        "weight_kg": 21.24,
+        "value_usd": 176.86
+      }
+    ],
+    "total_weight_kg": 573.0,
+    "total_value_usd": 17824.37,
+    "service": "Ocean Freight",
+    "named_port": "Busan, KR",
+    "insurance_value_usd": 2396.88,
+    "license_type": "Distributor License",
+    "license_number": "LIC-141502",
+    "destination_country": "South Korea"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0949",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202112-9721",
+    "usppi_name": "Commerce Rice LLC",
+    "usppi_address": "33562 Allen Run Apt. 011, Dianabury, WY 82888, Italy",
+    "usppi_country": "Italy",
+    "ein": "77-7404369",
+    "consignee_name": "Pacific Nichols Corp.",
+    "consignee_address": "8322 Gilbert Loaf, Brianstad, SC 32260, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Cardenas International Corp.",
+    "forwarder": "Panalpina",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Lauren Nelson",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/44",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 36,
+        "unit": "BOX",
+        "weight_kg": 42.37,
+        "value_usd": 2041.13
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 30,
+        "unit": "LTR",
+        "weight_kg": 29.33,
+        "value_usd": 208.93
+      },
+      {
+        "marks": "EXP/35",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 69,
+        "unit": "CTN",
+        "weight_kg": 101.8,
+        "value_usd": 241.53
+      }
+    ],
+    "total_weight_kg": 173.5,
+    "total_value_usd": 2491.59,
+    "service": "Ground",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 46752.53,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Thailand"
+  }
+}

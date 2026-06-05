@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0109",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202508-1558",
+    "usppi_name": "International Edwards LLC",
+    "usppi_address": "52930 Gomez Drives Apt. 490, Mcdonaldfort, HI 97273, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "45-8627414",
+    "consignee_name": "Montoya Trade Co.",
+    "consignee_address": "PSC 4909, Box 4714, APO AE 37226, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Bell Commerce GmbH",
+    "forwarder": "Panalpina",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "John Anderson",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/21",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 81,
+        "unit": "PCS",
+        "weight_kg": 1201.27,
+        "value_usd": 10727.94
+      },
+      {
+        "marks": "SLI/14",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 196,
+        "unit": "PCS",
+        "weight_kg": 38.39,
+        "value_usd": 31724.6
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 26,
+        "unit": "LTR",
+        "weight_kg": 25.15,
+        "value_usd": 882.64
+      }
+    ],
+    "total_weight_kg": 1264.81,
+    "total_value_usd": 43335.18,
+    "service": "LCL Ocean",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 8662.67,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-953395",
+    "destination_country": "Japan"
+  }
+}

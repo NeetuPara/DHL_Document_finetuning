@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0007",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Anthony Camacho",
+    "addressee_company": "Industry Lamb Ltd",
+    "addressee_address": "08129 Young Drive Suite 923, Solismouth, PA 10137, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 10.94,
+    "total_value": 3046.97,
+    "currency": "GBP",
+    "issue_date": "2026-02-14",
+    "reference": "REF-379886",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.426,
+        "value": 423.51,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 19,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.523,
+        "value": 1724.06,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 10,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.991,
+        "value": 899.4,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Frank Smith",
+    "sender_company": "International Robinson AG",
+    "sender_address": "90544 Richard Estate Apt. 239, North Karen, AR 59047, United Arab Emirates",
+    "sender_phone": "+1-851-506-0273x7493",
+    "sender_email": "ambersanchez@example.com",
+    "addressee_phone": "837-408-6484x2505",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 70.83,
+    "tracking_number": "CK598614847GC"
+  }
+}

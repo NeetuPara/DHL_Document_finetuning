@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0222",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU199393602",
+    "shipper_name": "Hernandez Tech Corp.",
+    "shipper_address": "2508 Robert Centers, Leahside, MP 53155, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Commerce Schmidt Co.",
+    "consignee_address": "546 Glenda Branch Suite 867, New Christieborough, KS 52134, Canada",
+    "consignee_country": "Canada",
+    "notify_party_name": "Trade Leon Pte Ltd",
+    "notify_party_address": "1588 Brian Manors, Lake Jennifer, GA 09179, France",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "800W",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Los Angeles, US",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2024-09-27",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "ORGN4066498",
+        "seal_no": "BL225748",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "RFNB0933411",
+        "seal_no": "SL213182",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "VJXZ5008282",
+        "seal_no": "CL988708",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "KWQC4389278",
+        "seal_no": "SL564024",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 11,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 21899.7,
+    "net_weight_kg": 20531.5,
+    "cbm": 1.055,
+    "marks_and_numbers": "XYZ/6"
+  }
+}

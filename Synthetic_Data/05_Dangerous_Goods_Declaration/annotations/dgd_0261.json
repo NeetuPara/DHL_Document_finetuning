@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0261",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Gray International Pte Ltd",
+    "shipper_address": "50581 Brittany Courts, Davidsonbury, PW 99265, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Smith Tech Inc.",
+    "consignee_address": "309 Trevino Route, North Robertchester, GU 52422, Thailand",
+    "consignee_country": "Thailand",
+    "emergency_telephone": "+76 339-463-3916",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 45,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 39.8,
+        "qty_unit": "mL",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 23,
+        "pkg_type": "Steel Drum",
+        "net_qty": 76.05,
+        "qty_unit": "L",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-400698",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Carrie Rollins",
+    "signature_date": "2026-04-15",
+    "signature_place": "Mexico",
+    "awb_number": "176-90912174",
+    "flight_number": "LH4047",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

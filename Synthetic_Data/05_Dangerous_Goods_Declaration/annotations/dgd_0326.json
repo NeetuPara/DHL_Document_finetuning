@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0326",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Lee Pacific Ltd",
+    "shipper_address": "202 York Spring Suite 948, North Margaret, AK 38087, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Tech Maxwell B.V.",
+    "consignee_address": "733 Erin Ports Suite 612, East Melissastad, OR 34405, Poland",
+    "consignee_country": "Poland",
+    "emergency_telephone": "+44 614-704-3781",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 44,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 4.36,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 44,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 81.72,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-358285",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Christy Robinson",
+    "signature_date": "2026-04-18",
+    "signature_place": "South Korea",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "531S",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Singapore, SG"
+  }
+}

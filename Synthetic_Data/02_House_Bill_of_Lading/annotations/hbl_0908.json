@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0908",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV394698359",
+    "shipper_name": "Williams International Pte Ltd",
+    "shipper_address": "67286 Natalie Squares, Angelicastad, VA 05163, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Herrera Tech B.V.",
+    "consignee_address": "057 Williams Hollow Suite 090, Port Maria, LA 15254, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Cordova Pacific Corp.",
+    "notify_party_address": "5074 Parks Canyon Apt. 873, Chaneyview, MP 31800, India",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "960E",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2026-02-06",
+    "issue_place": "Hong Kong",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "OQXV2396088",
+        "seal_no": "SL336718",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "JNWM1443108",
+        "seal_no": "SL642171",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "LWCP5407112",
+        "seal_no": "CL579843",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "BWPI2482511",
+        "seal_no": "CL642917",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "number_of_packages": 226,
+    "package_type": "Bundle",
+    "gross_weight_kg": 5818.6,
+    "net_weight_kg": 5195.4,
+    "cbm": 22.331,
+    "marks_and_numbers": "GLB/10"
+  }
+}

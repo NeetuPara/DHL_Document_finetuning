@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0964",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202605-4219",
+    "usppi_name": "Pacific Luna Pte Ltd",
+    "usppi_address": "58848 Jason Plain Suite 301, East Jessicafort, TX 26135, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "59-4443136",
+    "consignee_name": "Global Robertson GmbH",
+    "consignee_address": "6902 Bradley Tunnel Suite 482, East Carol, NM 30947, China",
+    "consignee_country": "China",
+    "notify_party": "Baker Global Co.",
+    "forwarder": "Panalpina",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Stephanie West",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/15",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 83,
+        "unit": "PCS",
+        "weight_kg": 1623.7,
+        "value_usd": 35648.63
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 33,
+        "unit": "CTN",
+        "weight_kg": 78.95,
+        "value_usd": 439.19
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 31,
+        "unit": "KGS",
+        "weight_kg": 31.0,
+        "value_usd": 435.57
+      },
+      {
+        "marks": "EXP/22",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 46,
+        "unit": "PKG",
+        "weight_kg": 50.99,
+        "value_usd": 2714.46
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 158,
+        "unit": "PCS",
+        "weight_kg": 130.75,
+        "value_usd": 3503.34
+      }
+    ],
+    "total_weight_kg": 1915.39,
+    "total_value_usd": 42741.19,
+    "service": "Express Courier",
+    "named_port": "London Heathrow",
+    "insurance_value_usd": 11560.82,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-214810",
+    "destination_country": "China"
+  }
+}

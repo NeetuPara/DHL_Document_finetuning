@@ -1,0 +1,82 @@
+{
+  "document_id": "vgm_0428",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "May International Ltd",
+    "shipper_address": "597 Rodriguez Extensions Suite 996, Cruzburgh, DC 76868, South Korea",
+    "shipper_country": "South Korea",
+    "container_number": "MNAX0810149",
+    "seal_number": "SL740735",
+    "container_size": "20'GP",
+    "iso_type_code": "22G0",
+    "tare_weight_kg": 2200,
+    "cargo_weight_kg": 10011.9,
+    "packing_materials_kg": 57.0,
+    "vgm_kg": 12268.9,
+    "vessel": "MADRID MAERSK",
+    "voyage": "483E",
+    "bl_number": "EGLV418371335",
+    "booking_reference": "BKG-937204",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-45661",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-25",
+    "signature_date": "2026-05-10",
+    "signatory_name": "Paul Mccann",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 7,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Roll",
+        "n_units": 5,
+        "gross_wt_kg": 1328.3
+      },
+      {
+        "item_no": 2,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Cylinder",
+        "n_units": 13,
+        "gross_wt_kg": 1057.9
+      },
+      {
+        "item_no": 3,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Roll",
+        "n_units": 11,
+        "gross_wt_kg": 1113.2
+      },
+      {
+        "item_no": 4,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Bag",
+        "n_units": 7,
+        "gross_wt_kg": 355.8
+      },
+      {
+        "item_no": 5,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Bag",
+        "n_units": 9,
+        "gross_wt_kg": 205.2
+      },
+      {
+        "item_no": 6,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Pallet",
+        "n_units": 4,
+        "gross_wt_kg": 4400.0
+      },
+      {
+        "item_no": 7,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Drum",
+        "n_units": 7,
+        "gross_wt_kg": 1551.5
+      }
+    ]
+  }
+}

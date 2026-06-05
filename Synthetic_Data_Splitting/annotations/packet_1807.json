@@ -1,0 +1,50 @@
+{
+  "packet_id": "packet_1807",
+  "total_pages": 4,
+  "n_documents": 4,
+  "class_sequence": [
+    "Verified Gross Mass",
+    "Cargo Manifest",
+    "House Airway Bill",
+    "Customs Declaration"
+  ],
+  "documents": [
+    {
+      "doc_class": "Verified Gross Mass",
+      "class_index": 6,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "vgm_0543.pdf",
+      "source_class_folder": "06_Verified_Gross_Mass"
+    },
+    {
+      "doc_class": "Cargo Manifest",
+      "class_index": 10,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "manifest_0724.pdf",
+      "source_class_folder": "10_Cargo_Manifest"
+    },
+    {
+      "doc_class": "House Airway Bill",
+      "class_index": 7,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "hawb_0862.pdf",
+      "source_class_folder": "07_House_Airway_Bill"
+    },
+    {
+      "doc_class": "Customs Declaration",
+      "class_index": 9,
+      "page_start": 4,
+      "page_end": 4,
+      "n_pages": 1,
+      "source_file": "cn23_0765.pdf",
+      "source_class_folder": "09_Customs_Declarations"
+    }
+  ],
+  "task": "splitting"
+}

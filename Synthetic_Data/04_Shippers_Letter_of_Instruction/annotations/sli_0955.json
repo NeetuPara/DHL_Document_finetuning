@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0955",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202504-6314",
+    "usppi_name": "International Chavez GmbH",
+    "usppi_address": "86869 Julie Pine Apt. 861, Port Kevinshire, VT 89990, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "73-9370276",
+    "consignee_name": "Andrews Industry Inc.",
+    "consignee_address": "860 Michael Neck, Crystalchester, KS 20810, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Global Hill Inc.",
+    "forwarder": "Expeditors",
+    "incoterm": "CIP",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Antonio Shepherd",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/3",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 29,
+        "unit": "PKG",
+        "weight_kg": 36.15,
+        "value_usd": 2180.26
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 61,
+        "unit": "MTR",
+        "weight_kg": 62.31,
+        "value_usd": 698.6
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 126,
+        "unit": "PCS",
+        "weight_kg": 122.66,
+        "value_usd": 218896.1
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 188,
+        "unit": "PCS",
+        "weight_kg": 3008.41,
+        "value_usd": 17642.33
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 109,
+        "unit": "PCS",
+        "weight_kg": 662.93,
+        "value_usd": 12343.22
+      }
+    ],
+    "total_weight_kg": 3892.46,
+    "total_value_usd": 251760.51,
+    "service": "Air Freight",
+    "named_port": "Paris CDG",
+    "insurance_value_usd": 18583.33,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-629347",
+    "destination_country": "Spain"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0371",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kimberly Butler",
+    "addressee_company": "Pacific Chan S.A.",
+    "addressee_address": "Unit 8318 Box 4250, DPO AE 53510, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 11.981,
+    "total_value": 2299.56,
+    "currency": "CNY",
+    "issue_date": "2025-09-12",
+    "reference": "REF-960025",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.056,
+        "value": 70.02,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 8,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.625,
+        "value": 734.48,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 20,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.051,
+        "value": 1279.2,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 2,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.249,
+        "value": 215.86,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Thomas Johnson",
+    "sender_company": "Newton Trade Co.",
+    "sender_address": "0472 Jason Harbor Suite 271, West Jamesview, IN 81644, Mexico",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 2529.52,
+    "postal_charges": 49.84,
+    "tracking_number": "BA377575650ET"
+  }
+}

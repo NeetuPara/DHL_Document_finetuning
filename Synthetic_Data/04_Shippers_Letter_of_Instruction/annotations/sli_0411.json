@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0411",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202411-5858",
+    "usppi_name": "Russo Commerce Ltd",
+    "usppi_address": "28736 Barron Keys Apt. 025, South Heather, ME 15465, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "36-4548079",
+    "consignee_name": "Industry Fisher Pte Ltd",
+    "consignee_address": "0400 Owens Fall, North Amy, NH 03709, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Grant Tech Pte Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DAP",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Chloe Griffith",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/28",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 66,
+        "unit": "BOX",
+        "weight_kg": 32.44,
+        "value_usd": 1382.58
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 79,
+        "unit": "PCS",
+        "weight_kg": 900.69,
+        "value_usd": 19621.6
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 152,
+        "unit": "CTN",
+        "weight_kg": 154.61,
+        "value_usd": 1570.65
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 101,
+        "unit": "PKG",
+        "weight_kg": 244.45,
+        "value_usd": 5080.73
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 128,
+        "unit": "PCS",
+        "weight_kg": 25.57,
+        "value_usd": 10378.4
+      },
+      {
+        "marks": "EXP/31",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 21,
+        "unit": "SET",
+        "weight_kg": 77.92,
+        "value_usd": 2400.76
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 68,
+        "unit": "PCS",
+        "weight_kg": 96.28,
+        "value_usd": 85558.0
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 51,
+        "unit": "PCS",
+        "weight_kg": 72.7,
+        "value_usd": 1306.15
+      }
+    ],
+    "total_weight_kg": 1604.66,
+    "total_value_usd": 127298.87,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "751S",
+    "booking_ref": "BKG-208844",
+    "bl_number": "YMLU426272934",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "TIHZ0719826",
+    "seal_number": "CL391777",
+    "container_type": "45'HC",
+    "cbm": 51.936
+  }
+}

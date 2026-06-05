@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0526",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202012-9240",
+    "usppi_name": "Rodriguez Pacific B.V.",
+    "usppi_address": "07080 Mejia Prairie, Monicastad, MA 18869, Italy",
+    "usppi_country": "Italy",
+    "ein": "24-4490241",
+    "consignee_name": "Commerce Williams Corp.",
+    "consignee_address": "788 Spencer Harbors Suite 285, Pattersonmouth, MO 64228, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Kennedy Pacific B.V.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DDP",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Scott Berry",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/49",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 34,
+        "unit": "PCS",
+        "weight_kg": 5.41,
+        "value_usd": 4603.68
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 43,
+        "unit": "KGS",
+        "weight_kg": 43.0,
+        "value_usd": 53.69
+      },
+      {
+        "marks": "ABC/37",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 142,
+        "unit": "LTR",
+        "weight_kg": 141.62,
+        "value_usd": 1208.32
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 176,
+        "unit": "PCS",
+        "weight_kg": 23.26,
+        "value_usd": 4267.23
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 52,
+        "unit": "MTR",
+        "weight_kg": 53.75,
+        "value_usd": 690.05
+      }
+    ],
+    "total_weight_kg": 267.04,
+    "total_value_usd": 10822.97,
+    "service": "LCL Ocean",
+    "named_port": "Hong Kong, HK",
+    "insurance_value_usd": 7929.86,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-830721",
+    "destination_country": "Japan"
+  }
+}

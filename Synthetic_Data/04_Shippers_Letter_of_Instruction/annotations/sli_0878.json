@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0878",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202109-6338",
+    "usppi_name": "Hutchinson Pacific GmbH",
+    "usppi_address": "9162 Louis Junction, South Michael, WY 69049, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "40-6926879",
+    "consignee_name": "Pacific Smith Pte Ltd",
+    "consignee_address": "1151 Thomas Port, Nancyfurt, KS 09100, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Clark Commerce Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Richard Martin",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/5",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 50,
+        "unit": "KGS",
+        "weight_kg": 50.0,
+        "value_usd": 804.01
+      },
+      {
+        "marks": "EXP/15",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 70,
+        "unit": "PCS",
+        "weight_kg": 1314.66,
+        "value_usd": 28541.94
+      },
+      {
+        "marks": "ABC/41",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 40,
+        "unit": "CTN",
+        "weight_kg": 46.56,
+        "value_usd": 368.24
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 96,
+        "unit": "KGS",
+        "weight_kg": 96.0,
+        "value_usd": 71.79
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 125,
+        "unit": "PCS",
+        "weight_kg": 75.97,
+        "value_usd": 111636.72
+      },
+      {
+        "marks": "SLI/8",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 43,
+        "unit": "PCS",
+        "weight_kg": 4.27,
+        "value_usd": 3300.68
+      }
+    ],
+    "total_weight_kg": 1587.46,
+    "total_value_usd": 144723.38,
+    "service": "LCL Ocean",
+    "named_port": "Los Angeles, US",
+    "insurance_value_usd": 37335.47,
+    "license_type": "Distributor License",
+    "license_number": "LIC-820810",
+    "destination_country": "Germany"
+  }
+}

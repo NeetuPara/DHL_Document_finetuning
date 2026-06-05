@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0815",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202407-7395",
+    "usppi_name": "Jordan Commerce Pte Ltd",
+    "usppi_address": "72923 Bryant Rapids, East Hannah, WI 25294, Poland",
+    "usppi_country": "Poland",
+    "ein": "95-4924067",
+    "consignee_name": "Pacific Howell Ltd",
+    "consignee_address": "44640 Matthew Curve Apt. 422, Chanborough, FL 66767, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Le Tech GmbH",
+    "forwarder": "DB Schenker",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5A002",
+    "signatory_name": "John Holland",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/23",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 141,
+        "unit": "PCS",
+        "weight_kg": 1022.66,
+        "value_usd": 27487.8
+      },
+      {
+        "marks": "SLI/34",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 120,
+        "unit": "MTR",
+        "weight_kg": 70.74,
+        "value_usd": 468.43
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 38,
+        "unit": "KGS",
+        "weight_kg": 38.0,
+        "value_usd": 183.36
+      },
+      {
+        "marks": "EXP/49",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 47,
+        "unit": "CTN",
+        "weight_kg": 113.56,
+        "value_usd": 2220.92
+      },
+      {
+        "marks": "EXP/48",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 72,
+        "unit": "BOX",
+        "weight_kg": 77.32,
+        "value_usd": 3751.91
+      }
+    ],
+    "total_weight_kg": 1322.28,
+    "total_value_usd": 34112.42,
+    "service": "Ground",
+    "named_port": "Frankfurt Airport",
+    "insurance_value_usd": 33134.57,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Mexico"
+  }
+}

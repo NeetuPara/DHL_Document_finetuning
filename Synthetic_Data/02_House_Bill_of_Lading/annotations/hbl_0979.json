@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0979",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU428284754",
+    "shipper_name": "Trade Williams Corp.",
+    "shipper_address": "134 Stein Greens, South Donna, MS 68259, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Evans International Ltd",
+    "consignee_address": "PSC 6030, Box 8571, APO AA 96199, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Sexton Tech S.A.",
+    "notify_party_address": "99630 Graham Key Apt. 105, Kirstenview, NC 03573, Mexico",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "672E",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2024-09-14",
+    "issue_place": "New York",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "OUBE5626532",
+        "seal_no": "SL266699",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "WDZU6715147",
+        "seal_no": "BL206012",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 479,
+    "package_type": "Pallet",
+    "gross_weight_kg": 8995.7,
+    "net_weight_kg": 7972.3,
+    "cbm": 46.441,
+    "marks_and_numbers": "XYZ/27"
+  }
+}

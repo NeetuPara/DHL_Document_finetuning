@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0728",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Calderon Global B.V.",
+    "shipper_address": "3211 Nichole Passage, Leeberg, AK 93740, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Taylor Industry Co.",
+    "consignee_address": "469 Christopher Circle Suite 820, West Johnathanview, IL 86135, Germany",
+    "consignee_country": "Germany",
+    "emergency_telephone": "+94 192-253-5194",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 18,
+        "pkg_type": "Steel Drum",
+        "net_qty": 8.21,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 34,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 31.44,
+        "qty_unit": "g",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-249712",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Christopher Foster",
+    "signature_date": "2026-05-07",
+    "signature_place": "Belgium",
+    "vessel": "PIL PACIFIC",
+    "voyage": "573E",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Busan, KR"
+  }
+}

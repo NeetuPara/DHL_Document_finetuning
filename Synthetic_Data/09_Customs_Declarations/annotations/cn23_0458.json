@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0458",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Grant Smith",
+    "addressee_company": "International Adams AG",
+    "addressee_address": "Unit 2735 Box 1087, DPO AE 48489, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 10.151,
+    "total_value": 3858.01,
+    "currency": "CAD",
+    "issue_date": "2025-08-12",
+    "reference": "REF-165031",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.003,
+        "value": 1294.9,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 9,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.551,
+        "value": 519.21,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 4,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.142,
+        "value": 297.88,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 15,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.656,
+        "value": 1527.3,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 16,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.799,
+        "value": 218.72,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Canada"
+      }
+    ],
+    "sender_name": "Cory Martinez",
+    "sender_company": "Industry Mathis B.V.",
+    "sender_address": "2296 Green Ridges Apt. 261, East Richard, NJ 14358, Brazil",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 8.14,
+    "tracking_number": "PA548156718QD"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0287",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240503377879",
+    "export_date": "2025-06-10",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Hunt Pacific Pte Ltd",
+    "usppi_ein": "61-9480444",
+    "usppi_address": "073 Duane Cliffs Suite 161, Jeffreyview, PR 78391, Poland",
+    "ultimate_consignee": "International Garcia Ltd",
+    "intermediate_consignee": "Pacific Baird Ltd",
+    "forwarding_agent": "Walters Industry AG",
+    "destination_country": "India",
+    "carrier": "UPS",
+    "bl_awb": "125-53324226",
+    "total_value": 258051.4,
+    "currency": "CNY",
+    "signatory": "Denise Marks",
+    "line_items": [
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "United States",
+        "qty": 95,
+        "unit": "PKG",
+        "entered_value": 1119.1,
+        "duty_rate": 19.0,
+        "duty_amount": 212.63,
+        "eccn": "7A994",
+        "schedule_b": "4016.93.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "China",
+        "qty": 342,
+        "unit": "MTR",
+        "entered_value": 137562.66,
+        "duty_rate": 1.9,
+        "duty_amount": 2613.69,
+        "eccn": "2B350",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "India",
+        "qty": 200,
+        "unit": "CTN",
+        "entered_value": 92260.0,
+        "duty_rate": 18.7,
+        "duty_amount": 17252.62,
+        "eccn": "3A992",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Mexico",
+        "qty": 158,
+        "unit": "PKG",
+        "entered_value": 27109.64,
+        "duty_rate": 12.7,
+        "duty_amount": 3442.92,
+        "eccn": "5E992",
+        "schedule_b": "4016.93.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

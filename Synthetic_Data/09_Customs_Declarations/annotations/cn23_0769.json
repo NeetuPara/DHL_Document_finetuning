@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0769",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Joshua Bean",
+    "addressee_company": "Tech Bradley Inc.",
+    "addressee_address": "454 Sanchez Causeway Apt. 370, Ginaport, WA 23051, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 10.723,
+    "total_value": 4186.4,
+    "currency": "AED",
+    "issue_date": "2025-08-31",
+    "reference": "REF-978925",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.797,
+        "value": 593.0,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 18,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.532,
+        "value": 354.42,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 16,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.82,
+        "value": 1635.2,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 10,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.305,
+        "value": 484.2,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 11,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.269,
+        "value": 1119.58,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_name": "Veronica Fowler",
+    "sender_company": "Tech Saunders Pte Ltd",
+    "sender_address": "2863 Michelle Spring, Tammyberg, IA 05806, Mexico",
+    "sender_phone": "534-379-8664x0372",
+    "sender_email": "williamcastro@example.com",
+    "addressee_phone": "001-613-316-2401x72715",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 38.67,
+    "tracking_number": "VK169308736BD"
+  }
+}

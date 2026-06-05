@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0029",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU271111653",
+    "shipper_name": "Harris Pacific GmbH",
+    "shipper_address": "0404 Evans Knoll, Watkinsborough, AK 84984, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Global Parker Corp.",
+    "consignee_address": "Unit 0069 Box 8272, DPO AP 95964, Italy",
+    "consignee_country": "Italy",
+    "notify_party_name": "White International Inc.",
+    "notify_party_address": "80767 Christopher Haven Suite 120, Robinmouth, CO 57835, Malaysia",
+    "vessel": "MADRID MAERSK",
+    "voyage": "322E",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2024-05-30",
+    "issue_place": "Tanjung Pelepas",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "VHQY9948186",
+        "seal_no": "BL736420",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "ESVT0407124",
+        "seal_no": "CL468230",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "TEWJ9785188",
+        "seal_no": "BL550368",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "SLHG3478837",
+        "seal_no": "BL934695",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 299,
+    "package_type": "Crate",
+    "gross_weight_kg": 17183.0,
+    "net_weight_kg": 15313.0,
+    "cbm": 13.769,
+    "marks_and_numbers": "GLB/41"
+  }
+}

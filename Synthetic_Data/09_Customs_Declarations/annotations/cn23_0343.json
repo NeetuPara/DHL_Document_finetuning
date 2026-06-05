@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0343",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "James Joseph",
+    "addressee_company": "International Beck AG",
+    "addressee_address": "598 Bowman Place Suite 190, Maloneborough, IA 31904, Malaysia",
+    "addressee_country": "Malaysia",
+    "total_weight_kg": 11.958,
+    "total_value": 2511.85,
+    "currency": "CHF",
+    "issue_date": "2025-08-05",
+    "reference": "REF-079642",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.291,
+        "value": 1631.41,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 8,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.552,
+        "value": 173.6,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 20,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.951,
+        "value": 508.2,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 4,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.164,
+        "value": 198.64,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_name": "Jesse Stanley",
+    "sender_company": "Kent International B.V.",
+    "sender_address": "5610 Matthews Mountains, Burnettton, RI 58454, United Kingdom",
+    "sender_phone": "315-865-6946x910",
+    "sender_email": "donald90@example.com",
+    "addressee_phone": "849.624.0000",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 2763.04,
+    "postal_charges": 34.25,
+    "tracking_number": "DZ089343020YG"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0340",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "199-19944285-5",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2025-06-02",
+    "port_of_entry": "ORD - Chicago",
+    "transport_mode": "Air",
+    "carrier": "FedEx",
+    "bl_awb": "125-67344890",
+    "importer_name": "Industry Anderson Pte Ltd",
+    "importer_ein": "87-0111248",
+    "consignee_name": "Global Wright GmbH",
+    "customs_broker": "Williams Trade Pte Ltd",
+    "broker_filer_code": "cde",
+    "country_of_origin": "United Arab Emirates",
+    "total_value": 278808.65,
+    "total_duty": 47679.32,
+    "currency": "AUD",
+    "signatory": "Patrick Rogers",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Singapore",
+        "qty": 455,
+        "unit": "KGS",
+        "entered_value": 134734.6,
+        "duty_rate": 9.9,
+        "duty_amount": 13338.73,
+        "eccn": "7A994",
+        "schedule_b": "7208.37.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Spain",
+        "qty": 101,
+        "unit": "LTR",
+        "entered_value": 6494.3,
+        "duty_rate": 3.4,
+        "duty_amount": 220.81,
+        "eccn": "9A515",
+        "schedule_b": "2901.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Thailand",
+        "qty": 385,
+        "unit": "CTN",
+        "entered_value": 137579.75,
+        "duty_rate": 24.8,
+        "duty_amount": 34119.78,
+        "eccn": "0A919",
+        "schedule_b": "9018.31.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

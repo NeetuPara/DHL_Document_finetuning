@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0455",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202011-5658",
+    "usppi_name": "Commerce Thompson LLC",
+    "usppi_address": "434 Riley Loop Apt. 284, North Eric, HI 83801, United Kingdom",
+    "usppi_country": "United Kingdom",
+    "ein": "56-1116221",
+    "consignee_name": "International Jones S.A.",
+    "consignee_address": "PSC 4278, Box 3906, APO AP 31509, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Miller Global S.A.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DDP",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Cheryl Sandoval",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/42",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 171,
+        "unit": "MTR",
+        "weight_kg": 144.55,
+        "value_usd": 2488.74
+      },
+      {
+        "marks": "EXP/31",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 131,
+        "unit": "PCS",
+        "weight_kg": 106.04,
+        "value_usd": 4290.44
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 153,
+        "unit": "PCS",
+        "weight_kg": 161.51,
+        "value_usd": 68245.28
+      }
+    ],
+    "total_weight_kg": 412.1,
+    "total_value_usd": 75024.46,
+    "service": "LCL Ocean",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 30459.71,
+    "license_type": "Distributor License",
+    "license_number": "LIC-400977",
+    "destination_country": "Mexico"
+  }
+}

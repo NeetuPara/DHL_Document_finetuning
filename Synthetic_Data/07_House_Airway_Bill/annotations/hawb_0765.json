@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0765",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-79703036",
+    "mawb_number": "057-54193797",
+    "shipper_name": "Trade Joseph Inc.",
+    "shipper_address": "85802 Diane Union Suite 098, South Nicholas, PA 88141, Japan",
+    "consignee_name": "Tanner Commerce Inc.",
+    "consignee_address": "USCGC Ochoa, FPO AE 87245, Malaysia",
+    "agent_name": "Young Commerce S.A.",
+    "airport_departure": "SIN",
+    "airport_destination": "ORD",
+    "currency": "SGD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "SGD 4,227.00",
+    "n_pieces": 34,
+    "gross_weight_kg": 360.5,
+    "chargeable_weight": 449.8,
+    "rate": 8.43,
+    "total_charge": 3791.81,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "TEMP CONTROLLED: 6\u00b0C - 18\u00b0C",
+    "issue_date": "2025-12-31",
+    "signatory": "Natalie Mckay DDS",
+    "iata_code": "43-844",
+    "agent_cass": "7420-6263",
+    "consolidation_ref": "CONS-7471-699110",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-67797692",
+        "pieces": 2,
+        "weight": 63.7,
+        "destination": "AMS",
+        "consignee": "Wilkerson Tech S.A.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "176-77020468",
+        "pieces": 6,
+        "weight": 94.1,
+        "destination": "LAX",
+        "consignee": "Tech Burch B.V.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "006-76422177",
+        "pieces": 20,
+        "weight": 42.6,
+        "destination": "YYZ",
+        "consignee": "Sims Trade Co.",
+        "description": "Rubber Goods - Industrial Seals and"
+      }
+    ]
+  }
+}

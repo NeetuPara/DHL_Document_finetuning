@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0136",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "347-25262412-7",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2026-05-01",
+    "port_of_entry": "BOS - Boston",
+    "transport_mode": "Truck",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "074-85679299",
+    "importer_name": "Fitzpatrick Pacific LLC",
+    "importer_ein": "49-2600332",
+    "consignee_name": "Global Lee S.A.",
+    "customs_broker": "Industry Davis S.A.",
+    "broker_filer_code": "LJe",
+    "country_of_origin": "Hong Kong",
+    "total_value": 57370.02,
+    "total_duty": 10932.33,
+    "currency": "AUD",
+    "signatory": "Jake Freeman",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Canada",
+        "qty": 81,
+        "unit": "SET",
+        "entered_value": 18638.1,
+        "duty_rate": 14.6,
+        "duty_amount": 2721.16,
+        "eccn": "9A515",
+        "schedule_b": "8708.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Japan",
+        "qty": 284,
+        "unit": "PCS",
+        "entered_value": 38731.92,
+        "duty_rate": 21.2,
+        "duty_amount": 8211.17,
+        "eccn": "EAR99",
+        "schedule_b": "8518.30.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

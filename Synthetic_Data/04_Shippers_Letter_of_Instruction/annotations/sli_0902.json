@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0902",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202307-9132",
+    "usppi_name": "Diaz Industry Co.",
+    "usppi_address": "30383 Carol Ports Apt. 770, Christopherstad, MO 44992, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "66-3921163",
+    "consignee_name": "Global Schultz GmbH",
+    "consignee_address": "5536 Teresa Islands, New Christopher, FM 39685, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Industry Gonzalez Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Joshua Ray",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/35",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 60,
+        "unit": "CTN",
+        "weight_kg": 170.27,
+        "value_usd": 3853.68
+      },
+      {
+        "marks": "ABC/50",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 122,
+        "unit": "SET",
+        "weight_kg": 250.7,
+        "value_usd": 12480.64
+      },
+      {
+        "marks": "ABC/10",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 51,
+        "unit": "PCS",
+        "weight_kg": 5.54,
+        "value_usd": 7830.19
+      }
+    ],
+    "total_weight_kg": 426.51,
+    "total_value_usd": 24164.51,
+    "service": "Air Freight",
+    "named_port": "Frankfurt Airport",
+    "insurance_value_usd": 19050.32,
+    "license_type": "Distributor License",
+    "license_number": "LIC-198041",
+    "destination_country": "Malaysia"
+  }
+}

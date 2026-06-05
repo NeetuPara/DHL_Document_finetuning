@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0684",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-30635981",
+    "mawb_number": "176-14465426",
+    "shipper_name": "Alexander Tech B.V.",
+    "shipper_address": "9415 Hanson Forks, North Scott, WV 16837, United Kingdom",
+    "consignee_name": "International Dawson GmbH",
+    "consignee_address": "0254 Eaton Port Apt. 330, Blairtown, NH 87391, Australia",
+    "agent_name": "Pacific Williams Ltd",
+    "airport_departure": "PVG",
+    "airport_destination": "SYD",
+    "currency": "AED",
+    "charge_code": "PP",
+    "declared_value_carriage": "GBP 24,371.30",
+    "declared_value_customs": "CAD 18,336.29",
+    "n_pieces": 22,
+    "gross_weight_kg": 328.0,
+    "chargeable_weight": 393.9,
+    "rate": 7.52,
+    "total_charge": 2962.13,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-12-17",
+    "signatory": "Robert Cook",
+    "iata_code": "37-242",
+    "agent_cass": "8689-7935",
+    "consolidation_ref": "CONS-5904-294126",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-97593978",
+        "pieces": 11,
+        "weight": 97.3,
+        "destination": "MIA",
+        "consignee": "Pacific White LLC",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "006-58088250",
+        "pieces": 15,
+        "weight": 39.1,
+        "destination": "HKG",
+        "consignee": "Howard Pacific Corp.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "085-29595312",
+        "pieces": 18,
+        "weight": 99.8,
+        "destination": "LHR",
+        "consignee": "Jones Tech AG",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "085-88154230",
+        "pieces": 18,
+        "weight": 46.1,
+        "destination": "ORD",
+        "consignee": "Hill Industry Ltd",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "006-43520573",
+        "pieces": 17,
+        "weight": 37.7,
+        "destination": "LHR",
+        "consignee": "Industry Robertson B.V.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "618-33275041",
+        "pieces": 11,
+        "weight": 94.5,
+        "destination": "DXB",
+        "consignee": "Industry Smith LLC",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "074-36988777",
+        "pieces": 13,
+        "weight": 66.6,
+        "destination": "FRA",
+        "consignee": "Mercado International Inc.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "085-71886711",
+        "pieces": 1,
+        "weight": 7.5,
+        "destination": "ORD",
+        "consignee": "Parker International S.A.",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

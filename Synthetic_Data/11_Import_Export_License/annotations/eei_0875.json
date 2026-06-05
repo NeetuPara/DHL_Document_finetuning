@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0875",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20230306931073",
+    "export_date": "2025-06-02",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Tech Rich Ltd",
+    "usppi_ein": "82-1476443",
+    "usppi_address": "74815 Petty Meadow Suite 905, Jacksonstad, RI 92584, Belgium",
+    "ultimate_consignee": "Industry Bell AG",
+    "intermediate_consignee": "Acevedo Tech B.V.",
+    "forwarding_agent": "Johnson Industry B.V.",
+    "destination_country": "France",
+    "carrier": "DHL Express",
+    "bl_awb": "006-27454906",
+    "total_value": 161128.53,
+    "currency": "USD",
+    "signatory": "Kristi Pacheco",
+    "line_items": [
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Canada",
+        "qty": 419,
+        "unit": "KGS",
+        "entered_value": 160150.18,
+        "duty_rate": 0.3,
+        "duty_amount": 480.45,
+        "eccn": "5E992",
+        "schedule_b": "7208.37.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Poland",
+        "qty": 85,
+        "unit": "MTR",
+        "entered_value": 978.35,
+        "duty_rate": 2.6,
+        "duty_amount": 25.44,
+        "eccn": "3A992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0831",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Samantha Waters",
+    "addressee_company": "Smith International LLC",
+    "addressee_address": "562 Lisa Meadows Suite 843, North Joseph, ND 81134, India",
+    "addressee_country": "India",
+    "total_weight_kg": 14.705,
+    "total_value": 3028.39,
+    "currency": "CAD",
+    "issue_date": "2026-05-02",
+    "reference": "REF-405522",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.46,
+        "value": 120.06,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 13,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.615,
+        "value": 1313.91,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 9,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.919,
+        "value": 144.72,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 8,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.029,
+        "value": 26.08,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 18,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.682,
+        "value": 1423.62,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_country": "United Kingdom",
+    "port_of_entry": "Los Angeles, CA",
+    "entry_number": "492-22735450-6",
+    "entry_type": "Formal Entry",
+    "duty_rate": 4.8,
+    "estimated_duty": 145.36,
+    "importer_ein": "94-5778340",
+    "customs_broker": "International Gomez Pte Ltd"
+  }
+}

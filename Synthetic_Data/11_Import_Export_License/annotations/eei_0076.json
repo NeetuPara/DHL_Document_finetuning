@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0076",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "730-36243551-6",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2025-09-11",
+    "port_of_entry": "BOS - Boston",
+    "transport_mode": "Rail",
+    "carrier": "DHL Express",
+    "bl_awb": "160-33579684",
+    "importer_name": "Jones Industry Co.",
+    "importer_ein": "61-1536305",
+    "consignee_name": "Welch Commerce Pte Ltd",
+    "customs_broker": "Global Gardner Pte Ltd",
+    "broker_filer_code": "Iid",
+    "country_of_origin": "Brazil",
+    "total_value": 193168.72,
+    "total_duty": 12002.95,
+    "currency": "AUD",
+    "signatory": "Felicia Hayes",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "India",
+        "qty": 105,
+        "unit": "CTN",
+        "entered_value": 2598.75,
+        "duty_rate": 8.6,
+        "duty_amount": 223.49,
+        "eccn": "3A992",
+        "schedule_b": "4819.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Switzerland",
+        "qty": 393,
+        "unit": "CTN",
+        "entered_value": 141845.49,
+        "duty_rate": 1.4,
+        "duty_amount": 1985.84,
+        "eccn": "7A994",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 128,
+        "unit": "KGS",
+        "entered_value": 48724.48,
+        "duty_rate": 20.1,
+        "duty_amount": 9793.62,
+        "eccn": "9A515",
+        "schedule_b": "2008.19.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

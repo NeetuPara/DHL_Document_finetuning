@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0409",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU269034054",
+    "shipper_name": "Evans Trade AG",
+    "shipper_address": "537 Daniels Street, Mariahburgh, NV 69004, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Wall Commerce S.A.",
+    "consignee_address": "Unit 3390 Box 7708, DPO AP 21362, United States",
+    "consignee_country": "United States",
+    "notify_party_name": "Vincent Industry Corp.",
+    "notify_party_address": "06020 Armstrong Stream Apt. 739, New Sylviaport, HI 62190, Italy",
+    "vessel": "ONE INNOVATION",
+    "voyage": "202N",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2024-11-19",
+    "issue_place": "Tanjung Pelepas",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "MADO7524923",
+        "seal_no": "BL590520",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "FQWM7021692",
+        "seal_no": "CL226694",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "DZEB2538570",
+        "seal_no": "SL448688",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "TRGB2606482",
+        "seal_no": "SL787957",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 278,
+    "package_type": "Roll",
+    "gross_weight_kg": 12452.5,
+    "net_weight_kg": 11070.1,
+    "cbm": 32.917,
+    "marks_and_numbers": "ABC/41"
+  }
+}

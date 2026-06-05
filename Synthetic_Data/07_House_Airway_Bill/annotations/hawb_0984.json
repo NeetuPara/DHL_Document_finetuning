@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0984",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-71480241",
+    "mawb_number": "176-26026248",
+    "shipper_name": "Global Estrada Inc.",
+    "shipper_address": "83543 Julie Fall Apt. 568, Millershire, IA 39575, Brazil",
+    "consignee_name": "Hopkins Commerce Pte Ltd",
+    "consignee_address": "54405 Nicole Via Apt. 330, North Susan, LA 86108, India",
+    "agent_name": "Industry Reynolds GmbH",
+    "airport_departure": "YYZ",
+    "airport_destination": "ICN",
+    "currency": "EUR",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 46,
+    "gross_weight_kg": 45.6,
+    "chargeable_weight": 57.9,
+    "rate": 9.5,
+    "total_charge": 550.05,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-05-27",
+    "signatory": "Paula Sanders",
+    "iata_code": "86-209",
+    "agent_cass": "0300-6892",
+    "consolidation_ref": "CONS-0761-133501",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-12408131",
+        "pieces": 9,
+        "weight": 69.4,
+        "destination": "HKG",
+        "consignee": "Pacific Palmer GmbH",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "057-98408702",
+        "pieces": 16,
+        "weight": 84.9,
+        "destination": "AMS",
+        "consignee": "Trade Quinn Pte Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "160-55413431",
+        "pieces": 12,
+        "weight": 37.7,
+        "destination": "LHR",
+        "consignee": "Harris Commerce AG",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "074-86721902",
+        "pieces": 12,
+        "weight": 74.7,
+        "destination": "NRT",
+        "consignee": "Butler Pacific Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      }
+    ]
+  }
+}

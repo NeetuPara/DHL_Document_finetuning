@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0050",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Wood Trade GmbH",
+    "shipper_address": "Unit 2738 Box 4008, DPO AE 04512, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Commerce Hernandez GmbH",
+    "consignee_address": "USNS Gonzalez, FPO AA 37555, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+11 572-884-4552",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 22,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 78.39,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 44,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 59.2,
+        "qty_unit": "kg",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Marvin Norman",
+    "signature_date": "2026-04-22",
+    "signature_place": "United Kingdom",
+    "vessel": "YANG MING MYTH",
+    "voyage": "729N",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Los Angeles, US"
+  }
+}

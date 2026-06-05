@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0686",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220410510402",
+    "export_date": "2026-01-11",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Commerce Franklin GmbH",
+    "usppi_ein": "23-8077282",
+    "usppi_address": "20070 Nancy Cove, Raymouth, MP 08161, Japan",
+    "ultimate_consignee": "Kaiser Pacific Co.",
+    "intermediate_consignee": "Tech Hernandez Ltd",
+    "forwarding_agent": "Pacific Davis S.A.",
+    "destination_country": "Malaysia",
+    "carrier": "FedEx",
+    "bl_awb": "020-92239284",
+    "total_value": 72514.72,
+    "currency": "SGD",
+    "signatory": "Carolyn Dixon",
+    "line_items": [
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Australia",
+        "qty": 114,
+        "unit": "PCS",
+        "entered_value": 37133.22,
+        "duty_rate": 5.3,
+        "duty_amount": 1968.06,
+        "eccn": "EAR99",
+        "schedule_b": "8534.00.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "India",
+        "qty": 175,
+        "unit": "MTR",
+        "entered_value": 35381.5,
+        "duty_rate": 4.5,
+        "duty_amount": 1592.17,
+        "eccn": "0A919",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

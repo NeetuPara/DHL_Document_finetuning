@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0423",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202002-6569",
+    "usppi_name": "Reyes Commerce AG",
+    "usppi_address": "169 Devin Plaza, Cookshire, PR 78916, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "72-2408308",
+    "consignee_name": "Castillo Trade AG",
+    "consignee_address": "USNV Conrad, FPO AE 27408, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Global Mills B.V.",
+    "forwarder": "Panalpina",
+    "incoterm": "DAP",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Jamie Perry",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/45",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 36,
+        "unit": "PCS",
+        "weight_kg": 32.25,
+        "value_usd": 537.9
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 162,
+        "unit": "PCS",
+        "weight_kg": 80.16,
+        "value_usd": 18470.12
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 61,
+        "unit": "KGS",
+        "weight_kg": 61.0,
+        "value_usd": 127.52
+      },
+      {
+        "marks": "SLI/8",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 156,
+        "unit": "KGS",
+        "weight_kg": 156.0,
+        "value_usd": 1587.48
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 8,
+        "unit": "MTR",
+        "weight_kg": 7.05,
+        "value_usd": 20.86
+      },
+      {
+        "marks": "ABC/20",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 181,
+        "unit": "SET",
+        "weight_kg": 212.42,
+        "value_usd": 15986.67
+      }
+    ],
+    "total_weight_kg": 548.88,
+    "total_value_usd": 36730.55,
+    "vessel": "CSCL GLOBE",
+    "voyage": "180E",
+    "booking_ref": "BKG-522901",
+    "bl_number": "DHLG752303110",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "SVBW2685071",
+    "seal_number": "BL195605",
+    "container_type": "45'HC",
+    "cbm": 45.958
+  }
+}

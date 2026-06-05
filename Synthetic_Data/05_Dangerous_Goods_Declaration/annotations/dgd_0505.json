@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0505",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Harper Ltd",
+    "shipper_address": "02278 Rasmussen Roads, West Katherineburgh, SC 02224, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Zuniga Trade GmbH",
+    "consignee_address": "29550 Cathy Road Suite 667, East Bethside, FL 71160, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+85 617-856-8719",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 26,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 33.17,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 7,
+        "pkg_type": "Steel Drum",
+        "net_qty": 18.21,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Rebecca Chavez",
+    "signature_date": "2026-04-28",
+    "signature_place": "United States",
+    "awb_number": "085-43555173",
+    "flight_number": "LH5173",
+    "flight_date": "2026-06-04",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "NRT",
+    "destination_airport_name": "Tokyo Narita"
+  }
+}

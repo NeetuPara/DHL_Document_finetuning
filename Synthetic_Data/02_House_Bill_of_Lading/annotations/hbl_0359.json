@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0359",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU673008940",
+    "shipper_name": "Global Montgomery B.V.",
+    "shipper_address": "1296 Wells Square Suite 870, South Mark, AS 63950, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Hicks Global LLC",
+    "consignee_address": "6973 Wyatt Burgs, New Susan, SC 86991, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party_name": "Commerce Morrow Ltd",
+    "notify_party_address": "3169 Jennifer Crossroad, Andradeberg, NM 27554, China",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "327E",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2024-10-20",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "MAXN3710606",
+        "seal_no": "CL842287",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "LFQO5955855",
+        "seal_no": "SL370433",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "FPQC8963070",
+        "seal_no": "CL752327",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 163,
+    "package_type": "Drum",
+    "gross_weight_kg": 11599.3,
+    "net_weight_kg": 10693.3,
+    "cbm": 9.793,
+    "marks_and_numbers": "ABC/45"
+  }
+}

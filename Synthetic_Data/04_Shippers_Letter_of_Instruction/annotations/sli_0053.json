@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0053",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202112-6235",
+    "usppi_name": "Holland Tech GmbH",
+    "usppi_address": "4486 Roberts Shoals, Sharonland, TN 66407, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "70-8946444",
+    "consignee_name": "Tech Rubio GmbH",
+    "consignee_address": "002 Stokes Fork Apt. 739, Taylorside, MT 57252, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Edwards Global AG",
+    "forwarder": "DB Schenker",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Lauren Barnes",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/43",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 193,
+        "unit": "PKG",
+        "weight_kg": 368.19,
+        "value_usd": 4639.92
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 70,
+        "unit": "CTN",
+        "weight_kg": 160.41,
+        "value_usd": 284.02
+      },
+      {
+        "marks": "EXP/31",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 152,
+        "unit": "PCS",
+        "weight_kg": 162.24,
+        "value_usd": 108806.71
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 199,
+        "unit": "KGS",
+        "weight_kg": 199.0,
+        "value_usd": 473.53
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 132,
+        "unit": "CTN",
+        "weight_kg": 632.56,
+        "value_usd": 1961.01
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 14,
+        "unit": "BOX",
+        "weight_kg": 14.98,
+        "value_usd": 1119.78
+      }
+    ],
+    "total_weight_kg": 1537.38,
+    "total_value_usd": 117284.97,
+    "service": "LCL Ocean",
+    "named_port": "Long Beach, US",
+    "insurance_value_usd": 31765.54,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-564611",
+    "destination_country": "Brazil"
+  }
+}

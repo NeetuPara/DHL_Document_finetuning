@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0913",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Lynn Boone",
+    "addressee_company": "Morales Industry Co.",
+    "addressee_address": "284 Tucker Courts Suite 894, Lisaton, NM 42104, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 7.241,
+    "total_value": 2938.31,
+    "currency": "SGD",
+    "issue_date": "2026-04-02",
+    "reference": "REF-633875",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.637,
+        "value": 97.91,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 9,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.118,
+        "value": 1220.85,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 15,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.486,
+        "value": 1619.55,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_name": "Jill Le",
+    "sender_company": "Global Anderson GmbH",
+    "sender_address": "538 Hines Track Apt. 146, Longstad, DE 39997, Germany",
+    "sender_phone": "693.714.1977x845",
+    "sender_email": "jennifersolomon@example.net",
+    "addressee_phone": "001-391-926-0206x8695",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 61.82,
+    "tracking_number": "GJ903488428DD"
+  }
+}

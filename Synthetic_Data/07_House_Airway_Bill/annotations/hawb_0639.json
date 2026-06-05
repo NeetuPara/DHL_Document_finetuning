@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0639",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-71212406",
+    "mawb_number": "074-81044722",
+    "shipper_name": "Trade Garcia Inc.",
+    "shipper_address": "46262 Jessica Vista, Toddville, SD 48615, Thailand",
+    "consignee_name": "International Fowler Inc.",
+    "consignee_address": "6542 Cooper Glen, Hendersonberg, SC 64454, Sweden",
+    "agent_name": "Industry Williams Inc.",
+    "airport_departure": "ICN",
+    "airport_destination": "MIA",
+    "currency": "GBP",
+    "charge_code": "PP",
+    "declared_value_carriage": "EUR 4,238.00",
+    "declared_value_customs": "NCV",
+    "n_pieces": 21,
+    "gross_weight_kg": 158.6,
+    "chargeable_weight": 177.8,
+    "rate": 9.74,
+    "total_charge": 1731.77,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "TEMP CONTROLLED: 3\u00b0C - 18\u00b0C",
+    "issue_date": "2025-06-06",
+    "signatory": "Michael Nelson",
+    "iata_code": "10-740",
+    "agent_cass": "6370-8562",
+    "consolidation_ref": "CONS-5672-182064",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-22448922",
+        "pieces": 1,
+        "weight": 68.9,
+        "destination": "AMS",
+        "consignee": "Brown Global B.V.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "085-20081249",
+        "pieces": 16,
+        "weight": 52.9,
+        "destination": "SYD",
+        "consignee": "Trade Andersen Inc.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "160-21886919",
+        "pieces": 15,
+        "weight": 20.9,
+        "destination": "FRA",
+        "consignee": "Tech Thompson Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "176-50692247",
+        "pieces": 11,
+        "weight": 27.4,
+        "destination": "LHR",
+        "consignee": "Bridges Global GmbH",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "160-33699087",
+        "pieces": 2,
+        "weight": 26.8,
+        "destination": "HKG",
+        "consignee": "Reyes Pacific Corp.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "074-63782164",
+        "pieces": 16,
+        "weight": 88.2,
+        "destination": "ORD",
+        "consignee": "Hernandez Tech GmbH",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "618-91623450",
+        "pieces": 11,
+        "weight": 90.6,
+        "destination": "FRA",
+        "consignee": "Commerce Nelson Inc.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "176-78813937",
+        "pieces": 12,
+        "weight": 97.0,
+        "destination": "PVG",
+        "consignee": "Tech Yates LLC",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

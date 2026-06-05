@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0111",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-65942545",
+    "mawb_number": "085-67631891",
+    "shipper_name": "Erickson Global Pte Ltd",
+    "shipper_address": "433 Gonzalez Orchard Apt. 460, Austinfurt, VI 01887, Belgium",
+    "consignee_name": "Morse Pacific Corp.",
+    "consignee_address": "8861 Warren Squares, West Lisa, VT 44342, Switzerland",
+    "agent_name": "Pacific Bradley LLC",
+    "airport_departure": "FRA",
+    "airport_destination": "JFK",
+    "currency": "EUR",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "AED 16,283.94",
+    "n_pieces": 17,
+    "gross_weight_kg": 74.7,
+    "chargeable_weight": 92.3,
+    "rate": 2.49,
+    "total_charge": 229.83,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-09-05",
+    "signatory": "John Black",
+    "iata_code": "78-598",
+    "agent_cass": "2971-3057",
+    "consolidation_ref": "CONS-4566-659912",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-88665570",
+        "pieces": 9,
+        "weight": 4.1,
+        "destination": "CDG",
+        "consignee": "Robinson Global Ltd",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "160-38803182",
+        "pieces": 17,
+        "weight": 3.8,
+        "destination": "CDG",
+        "consignee": "Fernandez Industry Co.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "020-54099304",
+        "pieces": 7,
+        "weight": 5.9,
+        "destination": "LAX",
+        "consignee": "Garrison Global Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "045-71369912",
+        "pieces": 8,
+        "weight": 20.8,
+        "destination": "HKG",
+        "consignee": "Jones Pacific Pte Ltd",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "160-54963215",
+        "pieces": 1,
+        "weight": 12.2,
+        "destination": "PVG",
+        "consignee": "Global Reid LLC",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "125-74167568",
+        "pieces": 11,
+        "weight": 19.4,
+        "destination": "MIA",
+        "consignee": "Coleman Industry LLC",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "074-34182209",
+        "pieces": 11,
+        "weight": 95.7,
+        "destination": "PVG",
+        "consignee": "Pacific Obrien Pte Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "085-81174755",
+        "pieces": 9,
+        "weight": 27.4,
+        "destination": "LHR",
+        "consignee": "Wilson Industry B.V.",
+        "description": "Optical Equipment - Camera Lenses"
+      }
+    ]
+  }
+}

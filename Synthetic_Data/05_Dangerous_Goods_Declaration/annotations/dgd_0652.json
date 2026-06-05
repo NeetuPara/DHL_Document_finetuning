@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0652",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Sawyer Ltd",
+    "shipper_address": "09446 Stacey Spring Suite 680, Josephbury, MI 34730, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Baker Commerce Pte Ltd",
+    "consignee_address": "40894 Steele Greens Suite 357, Garyborough, IA 44496, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+35 378-448-6713",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 31,
+        "pkg_type": "Steel Drum",
+        "net_qty": 81.81,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-735268",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Stephanie Bell",
+    "signature_date": "2026-04-19",
+    "signature_place": "Singapore",
+    "awb_number": "176-68676118",
+    "flight_number": "DL3186",
+    "flight_date": "2026-04-21",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International"
+  }
+}

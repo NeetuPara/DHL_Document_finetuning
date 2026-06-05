@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0384",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-96187781",
+    "mawb_number": "618-42197084",
+    "shipper_name": "Pacific Barnes GmbH",
+    "shipper_address": "Unit 0218 Box 4782, DPO AE 07820, Brazil",
+    "consignee_name": "Hampton Industry Corp.",
+    "consignee_address": "0320 Timothy Overpass, South Meagan, MT 36013, Switzerland",
+    "agent_name": "Tech Soto GmbH",
+    "airport_departure": "SIN",
+    "airport_destination": "FRA",
+    "currency": "AUD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 47,
+    "gross_weight_kg": 442.2,
+    "chargeable_weight": 491.9,
+    "rate": 9.42,
+    "total_charge": 4633.7,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "HANDLING CODE: PIL",
+    "issue_date": "2026-01-29",
+    "signatory": "Brandy Wang",
+    "iata_code": "98-700",
+    "agent_cass": "3664-8753",
+    "consolidation_ref": "CONS-0339-214234",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-90229139",
+        "pieces": 7,
+        "weight": 77.5,
+        "destination": "JFK",
+        "consignee": "Jackson Pacific Corp.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "045-27085650",
+        "pieces": 3,
+        "weight": 39.8,
+        "destination": "ORD",
+        "consignee": "Commerce Moore B.V.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "085-12912262",
+        "pieces": 1,
+        "weight": 38.3,
+        "destination": "FRA",
+        "consignee": "Industry Martinez AG",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "125-47402360",
+        "pieces": 16,
+        "weight": 85.5,
+        "destination": "PVG",
+        "consignee": "Smith Trade B.V.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "006-60597077",
+        "pieces": 3,
+        "weight": 67.0,
+        "destination": "LHR",
+        "consignee": "Anderson Trade Pte Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "618-76358700",
+        "pieces": 10,
+        "weight": 21.1,
+        "destination": "YYZ",
+        "consignee": "Anderson International GmbH",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

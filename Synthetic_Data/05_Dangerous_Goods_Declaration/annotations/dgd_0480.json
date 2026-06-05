@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0480",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Hines GmbH",
+    "shipper_address": "864 Mcmillan Run Apt. 156, New Jamesberg, GA 24896, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Thomas Trade AG",
+    "consignee_address": "8491 Paul Cliffs, Sandovalshire, IN 46927, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+19 863-211-7743",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 39,
+        "pkg_type": "Steel Drum",
+        "net_qty": 47.17,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Alisha Hines",
+    "signature_date": "2026-04-27",
+    "signature_place": "South Korea",
+    "awb_number": "085-78636394",
+    "flight_number": "DL5823",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "NRT",
+    "destination_airport_name": "Tokyo Narita",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

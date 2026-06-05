@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0398",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Sandra Day",
+    "addressee_company": "Holden Pacific GmbH",
+    "addressee_address": "6889 Gallagher Overpass, Tinachester, MD 85927, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 2.432,
+    "total_value": 686.41,
+    "currency": "JPY",
+    "issue_date": "2026-03-15",
+    "reference": "REF-812869",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.17,
+        "value": 339.0,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 7,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.262,
+        "value": 347.41,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_name": "Jennifer Cook",
+    "sender_company": "Davis International LLC",
+    "sender_address": "37968 Powell Island Apt. 351, New Kara, NC 01364, Singapore",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 755.05,
+    "postal_charges": 48.05,
+    "tracking_number": "NX107088224JK"
+  }
+}

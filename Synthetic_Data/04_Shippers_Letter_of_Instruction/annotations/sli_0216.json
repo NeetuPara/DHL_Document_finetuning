@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0216",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202103-5652",
+    "usppi_name": "Riddle Pacific S.A.",
+    "usppi_address": "9791 Andrew Bypass Suite 260, New Diane, DE 60160, Japan",
+    "usppi_country": "Japan",
+    "ein": "34-5409204",
+    "consignee_name": "Commerce Rowland B.V.",
+    "consignee_address": "7392 James Greens, Pattersonberg, KS 20920, China",
+    "consignee_country": "China",
+    "notify_party": "Tech Rose Inc.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Caitlin Cooper",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/1",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 13,
+        "unit": "PKG",
+        "weight_kg": 9.93,
+        "value_usd": 562.0
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 23,
+        "unit": "PCS",
+        "weight_kg": 353.28,
+        "value_usd": 7219.24
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 41,
+        "unit": "PCS",
+        "weight_kg": 37.78,
+        "value_usd": 69414.41
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 168,
+        "unit": "LTR",
+        "weight_kg": 160.04,
+        "value_usd": 3958.55
+      },
+      {
+        "marks": "EXP/41",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 153,
+        "unit": "SET",
+        "weight_kg": 537.33,
+        "value_usd": 17714.88
+      },
+      {
+        "marks": "ABC/8",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 17,
+        "unit": "KGS",
+        "weight_kg": 17.0,
+        "value_usd": 41.94
+      }
+    ],
+    "total_weight_kg": 1115.36,
+    "total_value_usd": 98911.02,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "267W",
+    "booking_ref": "BKG-130407",
+    "bl_number": "DHLG792810188",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Long Beach, US",
+    "container_number": "JPIY5175171",
+    "seal_number": "SL728699",
+    "container_type": "40'HC",
+    "cbm": 16.433
+  }
+}

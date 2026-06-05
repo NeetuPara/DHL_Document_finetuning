@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0843",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202402-7436",
+    "usppi_name": "Commerce Ellis S.A.",
+    "usppi_address": "908 Paul Springs, Carrollmouth, CT 11710, Italy",
+    "usppi_country": "Italy",
+    "ein": "13-2487364",
+    "consignee_name": "Coleman Trade B.V.",
+    "consignee_address": "866 Fields Passage Apt. 407, Lambton, ID 94658, China",
+    "consignee_country": "China",
+    "notify_party": "Brandt Industry B.V.",
+    "forwarder": "Panalpina",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Joseph Gonzalez",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/26",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 167,
+        "unit": "PKG",
+        "weight_kg": 61.22,
+        "value_usd": 15474.83
+      },
+      {
+        "marks": "ABC/13",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 170,
+        "unit": "PCS",
+        "weight_kg": 3574.68,
+        "value_usd": 30615.05
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 51,
+        "unit": "KGS",
+        "weight_kg": 51.0,
+        "value_usd": 37.62
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 129,
+        "unit": "CTN",
+        "weight_kg": 402.21,
+        "value_usd": 6005.33
+      },
+      {
+        "marks": "SLI/40",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 196,
+        "unit": "PCS",
+        "weight_kg": 12.54,
+        "value_usd": 31879.24
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 181,
+        "unit": "PCS",
+        "weight_kg": 87.89,
+        "value_usd": 62728.99
+      },
+      {
+        "marks": "SLI/38",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 169,
+        "unit": "PCS",
+        "weight_kg": 128.15,
+        "value_usd": 1533.25
+      },
+      {
+        "marks": "ABC/18",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 154,
+        "unit": "MTR",
+        "weight_kg": 60.24,
+        "value_usd": 2553.44
+      }
+    ],
+    "total_weight_kg": 4377.93,
+    "total_value_usd": 150827.75,
+    "vessel": "MSC OSCAR",
+    "voyage": "109N",
+    "booking_ref": "BKG-954768",
+    "bl_number": "COSU927255990",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "container_number": "TQJP8990624",
+    "seal_number": "CL274391",
+    "container_type": "40'HC",
+    "cbm": 59.307
+  }
+}

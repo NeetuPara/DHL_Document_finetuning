@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0302",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202206-3605",
+    "usppi_name": "Trade Martinez Corp.",
+    "usppi_address": "2600 Gonzalez Squares Suite 439, Lake Jordanhaven, MP 78114, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "69-1421890",
+    "consignee_name": "Wright Global B.V.",
+    "consignee_address": "5024 Webb Isle, Lake Lisamouth, AZ 49316, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Young Industry Inc.",
+    "forwarder": "Panalpina",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Jay Ali DDS",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/3",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 144,
+        "unit": "PCS",
+        "weight_kg": 114.34,
+        "value_usd": 733.61
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 124,
+        "unit": "MTR",
+        "weight_kg": 61.76,
+        "value_usd": 1556.72
+      },
+      {
+        "marks": "ABC/20",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 49,
+        "unit": "PCS",
+        "weight_kg": 11.57,
+        "value_usd": 9700.62
+      },
+      {
+        "marks": "ABC/41",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 168,
+        "unit": "PCS",
+        "weight_kg": 12.43,
+        "value_usd": 4704.42
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 104,
+        "unit": "PCS",
+        "weight_kg": 1868.83,
+        "value_usd": 12077.98
+      },
+      {
+        "marks": "EXP/49",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 17,
+        "unit": "PCS",
+        "weight_kg": 14.52,
+        "value_usd": 19651.35
+      },
+      {
+        "marks": "SLI/29",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 129,
+        "unit": "KGS",
+        "weight_kg": 129.0,
+        "value_usd": 313.63
+      }
+    ],
+    "total_weight_kg": 2212.45,
+    "total_value_usd": 48738.33,
+    "service": "Ground",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 27898.0,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-328060",
+    "destination_country": "Hong Kong"
+  }
+}

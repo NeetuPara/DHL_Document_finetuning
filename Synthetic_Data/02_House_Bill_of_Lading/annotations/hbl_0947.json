@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0947",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV574645123",
+    "shipper_name": "Global Robertson Pte Ltd",
+    "shipper_address": "Unit 6493 Box 7939, DPO AA 80031, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Powell International LLC",
+    "consignee_address": "65802 Wilson Walks Apt. 265, New Michael, OH 52424, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party_name": "Pacific Davis B.V.",
+    "notify_party_address": "02908 Devin Terrace, West Thomasbury, LA 20654, Singapore",
+    "vessel": "YANG MING MYTH",
+    "voyage": "945E",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Hong Kong, HK",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Hong Kong, HK",
+    "issue_date": "2025-06-22",
+    "issue_place": "Hamburg",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "VJNN0128331",
+        "seal_no": "SL676431",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "QABL8098816",
+        "seal_no": "SL564369",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "CYYM6042150",
+        "seal_no": "BL270401",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 60,
+    "package_type": "Drum",
+    "gross_weight_kg": 934.0,
+    "net_weight_kg": 883.0,
+    "cbm": 6.379,
+    "marks_and_numbers": "GLB/28"
+  }
+}

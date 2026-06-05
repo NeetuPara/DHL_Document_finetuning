@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0370",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Amber Love",
+    "addressee_company": "Williamson Global Pte Ltd",
+    "addressee_address": "950 Sean Heights Apt. 329, Port Paulview, NH 24054, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 1.485,
+    "total_value": 352.65,
+    "currency": "SGD",
+    "issue_date": "2026-05-13",
+    "reference": "REF-642777",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.485,
+        "value": 352.65,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_name": "Nancy Sellers",
+    "sender_company": "Global Schmidt Co.",
+    "sender_address": "0280 Robinson Circles Suite 726, Howellton, TX 29170, Mexico",
+    "sender_phone": "+1-314-988-8197x70702",
+    "sender_email": "olambert@example.com",
+    "addressee_phone": "+1-771-261-5746x4507",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 387.92,
+    "postal_charges": 66.31,
+    "tracking_number": "OQ516789721XJ"
+  }
+}

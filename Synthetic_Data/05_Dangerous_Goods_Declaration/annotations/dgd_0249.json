@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0249",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Hopkins S.A.",
+    "shipper_address": "236 Erin Harbors Apt. 067, Lake Steven, CO 65009, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Rogers International Co.",
+    "consignee_address": "76015 Higgins Terrace Suite 818, West Rebecca, SD 35725, United States",
+    "consignee_country": "United States",
+    "emergency_telephone": "+33 384-774-9180",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 17,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 72.62,
+        "qty_unit": "g",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jeffrey Mcdonald",
+    "signature_date": "2026-05-06",
+    "signature_place": "Canada",
+    "awb_number": "085-67222214",
+    "flight_number": "UA428",
+    "departure_airport_code": "PVG",
+    "departure_airport_name": "Shanghai Pudong",
+    "destination_airport_code": "HKG",
+    "destination_airport_name": "Hong Kong International",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

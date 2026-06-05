@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0457",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202006-3152",
+    "usppi_name": "Harris Commerce Corp.",
+    "usppi_address": "7883 Yvonne Pass Suite 690, Camachofort, PA 63153, United Kingdom",
+    "usppi_country": "United Kingdom",
+    "ein": "32-2513702",
+    "consignee_name": "Carter Commerce Co.",
+    "consignee_address": "84959 Jimenez Lock, Lake Laurenland, WY 36003, India",
+    "consignee_country": "India",
+    "notify_party": "International Chavez S.A.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "7A994",
+    "signatory_name": "David Smith",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/36",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 26,
+        "unit": "CTN",
+        "weight_kg": 41.86,
+        "value_usd": 103.8
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 191,
+        "unit": "KGS",
+        "weight_kg": 191.0,
+        "value_usd": 167.87
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 128,
+        "unit": "PCS",
+        "weight_kg": 123.21,
+        "value_usd": 988.51
+      }
+    ],
+    "total_weight_kg": 356.07,
+    "total_value_usd": 1260.18,
+    "service": "Ocean Freight",
+    "named_port": "Rotterdam, NL",
+    "insurance_value_usd": 26990.5,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-365985",
+    "destination_country": "India"
+  }
+}

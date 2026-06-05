@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0684",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202207-2676",
+    "usppi_name": "International Brown Inc.",
+    "usppi_address": "361 Reed Light Suite 802, Riveraside, NY 90402, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "88-8194223",
+    "consignee_name": "Tech Rivera Inc.",
+    "consignee_address": "878 Johnson Estate, Garciamouth, NV 46958, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Pacific Williams B.V.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Morgan Coleman",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/46",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 131,
+        "unit": "PCS",
+        "weight_kg": 118.15,
+        "value_usd": 3248.34
+      },
+      {
+        "marks": "EXP/9",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 105,
+        "unit": "MTR",
+        "weight_kg": 100.25,
+        "value_usd": 1876.88
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 114,
+        "unit": "BOX",
+        "weight_kg": 105.1,
+        "value_usd": 8834.55
+      },
+      {
+        "marks": "ABC/8",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 68,
+        "unit": "CTN",
+        "weight_kg": 226.53,
+        "value_usd": 3149.04
+      }
+    ],
+    "total_weight_kg": 550.03,
+    "total_value_usd": 17108.81,
+    "vessel": "MSC GULSUN",
+    "voyage": "770S",
+    "booking_ref": "BKG-646994",
+    "bl_number": "DHLG630573736",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Antwerp, BE",
+    "container_number": "DWOU6428268",
+    "seal_number": "CL813770",
+    "container_type": "40'HC",
+    "cbm": 25.889
+  }
+}

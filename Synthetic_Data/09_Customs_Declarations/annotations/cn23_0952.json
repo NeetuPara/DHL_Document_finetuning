@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0952",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Margaret Chavez",
+    "addressee_company": "Brennan Industry S.A.",
+    "addressee_address": "99406 Price Points, Port Michelle, SC 91460, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 6.207,
+    "total_value": 1281.9,
+    "currency": "CHF",
+    "issue_date": "2025-12-07",
+    "reference": "REF-897831",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.067,
+        "value": 441.09,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 3,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.334,
+        "value": 368.28,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 19,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.806,
+        "value": 472.53,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Lori White",
+    "sender_company": "Montgomery Global Inc.",
+    "sender_address": "010 Matthew Curve Apt. 708, West Tamara, LA 32856, Singapore",
+    "sender_phone": "591-491-5005x930",
+    "sender_email": "rachelallen@example.org",
+    "addressee_phone": "(582)800-1643x450",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 15.31,
+    "tracking_number": "PE667722587XH"
+  }
+}

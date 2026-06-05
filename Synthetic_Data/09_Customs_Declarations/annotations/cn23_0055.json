@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0055",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Tammy West",
+    "addressee_company": "Global Hernandez Corp.",
+    "addressee_address": "2185 Smith Trace, Daleberg, OR 11702, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 6.142,
+    "total_value": 1234.67,
+    "currency": "EUR",
+    "issue_date": "2025-09-15",
+    "reference": "REF-151484",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.535,
+        "value": 24.8,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 9,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.706,
+        "value": 339.21,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 6,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.901,
+        "value": 870.66,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_name": "Emily Thomas",
+    "sender_company": "Cole International GmbH",
+    "sender_address": "915 Alicia Locks, Port Lori, KY 29857, Singapore",
+    "sender_phone": "001-966-542-2164",
+    "sender_email": "robinsonmichelle@example.org",
+    "addressee_phone": "001-641-233-0758x368",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 33.49,
+    "tracking_number": "GZ490162585XX"
+  }
+}

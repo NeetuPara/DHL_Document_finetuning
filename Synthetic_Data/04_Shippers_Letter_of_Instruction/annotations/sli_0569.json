@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0569",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202112-5435",
+    "usppi_name": "Bishop Global S.A.",
+    "usppi_address": "6794 Ashley Spur, West Kennethberg, MT 64978, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "26-6674164",
+    "consignee_name": "Hall Commerce Inc.",
+    "consignee_address": "856 Mark Burgs, East Julie, IN 52467, India",
+    "consignee_country": "India",
+    "notify_party": "International Morris Co.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Jane Robinson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/46",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 24,
+        "unit": "KGS",
+        "weight_kg": 24.0,
+        "value_usd": 49.17
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 92,
+        "unit": "PCS",
+        "weight_kg": 4.92,
+        "value_usd": 8133.36
+      },
+      {
+        "marks": "ABC/35",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 199,
+        "unit": "BOX",
+        "weight_kg": 152.65,
+        "value_usd": 6937.8
+      },
+      {
+        "marks": "ABC/21",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 42,
+        "unit": "PCS",
+        "weight_kg": 777.35,
+        "value_usd": 12630.02
+      },
+      {
+        "marks": "ABC/46",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 41,
+        "unit": "SET",
+        "weight_kg": 82.13,
+        "value_usd": 5537.01
+      },
+      {
+        "marks": "ABC/41",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 135,
+        "unit": "CTN",
+        "weight_kg": 554.57,
+        "value_usd": 1867.53
+      },
+      {
+        "marks": "EXP/15",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 39,
+        "unit": "PCS",
+        "weight_kg": 53.23,
+        "value_usd": 169.84
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 71,
+        "unit": "KGS",
+        "weight_kg": 71.0,
+        "value_usd": 1384.25
+      }
+    ],
+    "total_weight_kg": 1719.85,
+    "total_value_usd": 36708.98,
+    "service": "LCL Ocean",
+    "named_port": "Shanghai, CN",
+    "insurance_value_usd": 5775.34,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-937600",
+    "destination_country": "India"
+  }
+}

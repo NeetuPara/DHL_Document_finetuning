@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0909",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202504-8047",
+    "usppi_name": "Trade Harris Ltd",
+    "usppi_address": "004 Angela Hollow, East Jenniferburgh, HI 54048, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "46-9063011",
+    "consignee_name": "International Peterson B.V.",
+    "consignee_address": "728 Anna Locks Suite 055, East Adam, GU 42932, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Tech Martinez S.A.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Anthony Stevens",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/10",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 85,
+        "unit": "CTN",
+        "weight_kg": 185.91,
+        "value_usd": 1987.43
+      },
+      {
+        "marks": "ABC/20",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 111,
+        "unit": "SET",
+        "weight_kg": 160.31,
+        "value_usd": 13187.76
+      },
+      {
+        "marks": "ABC/8",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 28,
+        "unit": "LTR",
+        "weight_kg": 28.49,
+        "value_usd": 402.63
+      },
+      {
+        "marks": "ABC/49",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 71,
+        "unit": "KGS",
+        "weight_kg": 71.0,
+        "value_usd": 119.16
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 189,
+        "unit": "BOX",
+        "weight_kg": 295.9,
+        "value_usd": 7266.95
+      }
+    ],
+    "total_weight_kg": 741.61,
+    "total_value_usd": 22963.93,
+    "vessel": "MSC OSCAR",
+    "voyage": "221E",
+    "booking_ref": "BKG-868713",
+    "bl_number": "MAEU838123123",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Los Angeles, US",
+    "container_number": "AWOF1380696",
+    "seal_number": "BL493850",
+    "container_type": "40'GP",
+    "cbm": 33.093
+  }
+}

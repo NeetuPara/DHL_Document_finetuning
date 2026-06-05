@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0014",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU953189507",
+    "shipper_name": "Rodriguez Global Inc.",
+    "shipper_address": "3769 Carl Spurs, Russellstad, KS 68567, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Pacific Elliott LLC",
+    "consignee_address": "051 King Road Apt. 418, Garciamouth, CO 07497, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Tech Vang Corp.",
+    "notify_party_address": "165 Ortiz Springs Apt. 266, Lake Aaronland, AL 02422, Sweden",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "936S",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Singapore, SG",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2024-05-29",
+    "issue_place": "Qingdao",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "RRFP0060480",
+        "seal_no": "SL783551",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "RMBR1723068",
+        "seal_no": "BL275243",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "CVDN2730397",
+        "seal_no": "CL327201",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 244,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 16279.5,
+    "net_weight_kg": 15145.9,
+    "cbm": 25.418,
+    "marks_and_numbers": "XYZ/33"
+  }
+}

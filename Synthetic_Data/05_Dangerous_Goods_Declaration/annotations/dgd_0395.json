@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0395",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Mitchell S.A.",
+    "shipper_address": "02531 Kristina Squares Apt. 853, Barnetttown, MT 65534, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Trade Bailey LLC",
+    "consignee_address": "173 Cobb Field Apt. 451, Port Ryanstad, KY 95384, Poland",
+    "consignee_country": "Poland",
+    "emergency_telephone": "+98 244-783-3658",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 37,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 68.59,
+        "qty_unit": "L",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-898015",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Debra Davis",
+    "signature_date": "2026-05-05",
+    "signature_place": "United Kingdom",
+    "vessel": "EVER GOLDEN",
+    "voyage": "697W",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Shanghai, CN"
+  }
+}

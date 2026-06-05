@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0165",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202505-2069",
+    "usppi_name": "Daniels Commerce LLC",
+    "usppi_address": "5534 Morgan Drive, Margarethaven, OR 18326, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "67-1987183",
+    "consignee_name": "Moore Pacific Inc.",
+    "consignee_address": "51244 Allison Lane, South Maria, VA 87007, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Alexander Trade Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Connie Baker",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/1",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 78,
+        "unit": "CTN",
+        "weight_kg": 134.75,
+        "value_usd": 1194.58
+      },
+      {
+        "marks": "EXP/49",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 131,
+        "unit": "PCS",
+        "weight_kg": 379.17,
+        "value_usd": 38974.13
+      }
+    ],
+    "total_weight_kg": 513.92,
+    "total_value_usd": 40168.71,
+    "vessel": "MOL TRIUMPH",
+    "voyage": "600N",
+    "booking_ref": "BKG-707042",
+    "bl_number": "OOLU584603104",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "TBSA4497944",
+    "seal_number": "SL699778",
+    "container_type": "20'GP",
+    "cbm": 9.605
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0653",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20201228586502",
+    "export_date": "2026-01-01",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Rodgers Global LLC",
+    "usppi_ein": "54-9080677",
+    "usppi_address": "991 Jason Tunnel, North Danieltown, WY 13738, South Korea",
+    "ultimate_consignee": "Blankenship Commerce AG",
+    "intermediate_consignee": "Garcia International Inc.",
+    "forwarding_agent": "Evans Trade Ltd",
+    "destination_country": "Malaysia",
+    "carrier": "MSC",
+    "bl_awb": "057-52603658",
+    "total_value": 226478.12,
+    "currency": "EUR",
+    "signatory": "Michael Chambers",
+    "line_items": [
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Mexico",
+        "qty": 484,
+        "unit": "PCS",
+        "entered_value": 194461.52,
+        "duty_rate": 21.6,
+        "duty_amount": 42003.69,
+        "eccn": "0A919",
+        "schedule_b": "9401.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Germany",
+        "qty": 147,
+        "unit": "PCS",
+        "entered_value": 32016.6,
+        "duty_rate": 16.3,
+        "duty_amount": 5218.71,
+        "eccn": "9A515",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

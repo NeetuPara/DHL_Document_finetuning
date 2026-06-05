@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0198",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Walter Smith",
+    "addressee_company": "Pacific Baker Pte Ltd",
+    "addressee_address": "172 Gary Manor Suite 501, North Alexander, MH 85951, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 5.536,
+    "total_value": 2700.12,
+    "currency": "CNY",
+    "issue_date": "2026-03-30",
+    "reference": "REF-878371",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.302,
+        "value": 4.68,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 2,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.682,
+        "value": 55.2,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 19,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 0.552,
+        "value": 2640.24,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_country": "Belgium",
+    "port_of_entry": "Los Angeles, CA",
+    "entry_number": "128-71676070-3",
+    "entry_type": "Informal Entry",
+    "duty_rate": 14.3,
+    "estimated_duty": 386.12,
+    "importer_ein": "63-0226566",
+    "customs_broker": "Cochran Commerce Corp."
+  }
+}

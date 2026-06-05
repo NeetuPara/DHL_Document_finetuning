@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0702",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Burgess Global LLC",
+    "shipper_address": "4100 Dunn Freeway Apt. 972, Lake Nicolefurt, HI 13380, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "International Huber S.A.",
+    "consignee_address": "563 Darlene Well Suite 056, Torresville, MI 16615, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "emergency_telephone": "+54 743-765-2882",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 36,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 42.78,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Kevin Phelps",
+    "signature_date": "2026-05-01",
+    "signature_place": "Mexico",
+    "awb_number": "045-63750484",
+    "flight_number": "LH5624",
+    "departure_airport_code": "LAX",
+    "departure_airport_name": "Los Angeles International",
+    "destination_airport_code": "ICN",
+    "destination_airport_name": "Seoul Incheon",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

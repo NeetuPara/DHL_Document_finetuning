@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0714",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202006-5243",
+    "usppi_name": "Moore Commerce GmbH",
+    "usppi_address": "764 Joshua Terrace Suite 652, Morrisonport, NV 07257, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "42-7434889",
+    "consignee_name": "Oliver Industry AG",
+    "consignee_address": "Unit 1815 Box 6791, DPO AP 32836, United States",
+    "consignee_country": "United States",
+    "notify_party": "Burton Tech Co.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Heidi Smith",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/39",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 170,
+        "unit": "PCS",
+        "weight_kg": 151.69,
+        "value_usd": 232847.04
+      },
+      {
+        "marks": "EXP/23",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 86,
+        "unit": "KGS",
+        "weight_kg": 86.0,
+        "value_usd": 81.61
+      },
+      {
+        "marks": "SLI/34",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 158,
+        "unit": "MTR",
+        "weight_kg": 130.47,
+        "value_usd": 1530.94
+      },
+      {
+        "marks": "SLI/7",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 135,
+        "unit": "BOX",
+        "weight_kg": 228.0,
+        "value_usd": 3425.89
+      }
+    ],
+    "total_weight_kg": 596.16,
+    "total_value_usd": 237885.48,
+    "vessel": "MADRID MAERSK",
+    "voyage": "252W",
+    "booking_ref": "BKG-924374",
+    "bl_number": "YMLU143030672",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "New York, US",
+    "container_number": "YJND8052150",
+    "seal_number": "SL294261",
+    "container_type": "20'GP",
+    "cbm": 31.893
+  }
+}

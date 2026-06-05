@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0974",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202308-2173",
+    "usppi_name": "Bolton Industry Pte Ltd",
+    "usppi_address": "766 Barrera Center Apt. 720, Shaneborough, WI 67292, China",
+    "usppi_country": "China",
+    "ein": "83-7014146",
+    "consignee_name": "Hensley Trade GmbH",
+    "consignee_address": "417 Alan Club Apt. 066, Charlesborough, NE 81037, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Baker Global Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5A002",
+    "signatory_name": "Rhonda Butler",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/33",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 96,
+        "unit": "PCS",
+        "weight_kg": 71.67,
+        "value_usd": 2391.92
+      },
+      {
+        "marks": "ABC/18",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 122,
+        "unit": "KGS",
+        "weight_kg": 122.0,
+        "value_usd": 93.87
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 17,
+        "unit": "KGS",
+        "weight_kg": 17.0,
+        "value_usd": 210.26
+      },
+      {
+        "marks": "ABC/11",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 91,
+        "unit": "SET",
+        "weight_kg": 327.7,
+        "value_usd": 6667.82
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 46,
+        "unit": "PCS",
+        "weight_kg": 47.86,
+        "value_usd": 31909.19
+      },
+      {
+        "marks": "SLI/28",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 21,
+        "unit": "BOX",
+        "weight_kg": 14.73,
+        "value_usd": 2370.17
+      }
+    ],
+    "total_weight_kg": 600.96,
+    "total_value_usd": 43643.23,
+    "service": "Express Courier",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 4848.19,
+    "license_type": "Distributor License",
+    "license_number": "LIC-977866",
+    "destination_country": "Japan"
+  }
+}

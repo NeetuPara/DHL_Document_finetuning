@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0304",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202108-6500",
+    "usppi_name": "Pitts Industry GmbH",
+    "usppi_address": "43950 Laura Squares, Chenchester, OH 30936, Germany",
+    "usppi_country": "Germany",
+    "ein": "94-6613179",
+    "consignee_name": "Gray Trade AG",
+    "consignee_address": "Unit 3338 Box 5746, DPO AP 82322, United States",
+    "consignee_country": "United States",
+    "notify_party": "Pacific Wang GmbH",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Rebecca Gallagher",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/48",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 14,
+        "unit": "PCS",
+        "weight_kg": 20.23,
+        "value_usd": 7398.5
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 117,
+        "unit": "PKG",
+        "weight_kg": 41.79,
+        "value_usd": 5812.84
+      },
+      {
+        "marks": "ABC/39",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 75,
+        "unit": "PCS",
+        "weight_kg": 18.89,
+        "value_usd": 1610.75
+      },
+      {
+        "marks": "EXP/25",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 73,
+        "unit": "KGS",
+        "weight_kg": 73.0,
+        "value_usd": 1258.24
+      },
+      {
+        "marks": "EXP/41",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 103,
+        "unit": "PCS",
+        "weight_kg": 45.09,
+        "value_usd": 13676.43
+      },
+      {
+        "marks": "ABC/31",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 105,
+        "unit": "LTR",
+        "weight_kg": 109.15,
+        "value_usd": 3538.92
+      }
+    ],
+    "total_weight_kg": 308.15,
+    "total_value_usd": 33295.68,
+    "service": "LCL Ocean",
+    "named_port": "Tokyo, JP",
+    "insurance_value_usd": 40470.06,
+    "license_type": "Distributor License",
+    "license_number": "LIC-119193",
+    "destination_country": "United States"
+  }
+}

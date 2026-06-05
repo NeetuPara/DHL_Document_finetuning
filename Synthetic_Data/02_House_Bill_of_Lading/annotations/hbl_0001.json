@@ -1,0 +1,43 @@
+{
+  "document_id": "hbl_0001",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU587365468",
+    "shipper_name": "Brown Commerce Pte Ltd",
+    "shipper_address": "USCGC Little, FPO AP 97938, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "International Williams LLC",
+    "consignee_address": "296 Michael Burgs, New Andrewton, NC 95294, Australia",
+    "consignee_country": "Australia",
+    "notify_party_name": "International Jacobs GmbH",
+    "notify_party_address": "276 Snyder Brooks Suite 515, Aprilberg, MN 46329, Thailand",
+    "vessel": "YANG MING MYTH",
+    "voyage": "903W",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Singapore, SG",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Hong Kong, HK",
+    "issue_date": "2026-02-08",
+    "issue_place": "New York",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "GDEK8747265",
+        "seal_no": "BL942879",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 261,
+    "package_type": "Crate",
+    "gross_weight_kg": 12017.8,
+    "net_weight_kg": 10972.7,
+    "cbm": 11.697,
+    "marks_and_numbers": "XYZ/28"
+  }
+}

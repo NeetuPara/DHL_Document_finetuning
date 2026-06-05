@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0944",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202310-9948",
+    "usppi_name": "Tech Mosley Corp.",
+    "usppi_address": "2649 Martinez Landing Apt. 374, North Dawnberg, MN 91575, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "67-7979333",
+    "consignee_name": "Tech Martin Co.",
+    "consignee_address": "87244 Rodriguez Loop Apt. 737, Lake Robert, OR 25902, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Huang International Co.",
+    "forwarder": "Expeditors",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Troy Zuniga",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/15",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 179,
+        "unit": "KGS",
+        "weight_kg": 179.0,
+        "value_usd": 182.6
+      },
+      {
+        "marks": "EXP/15",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 124,
+        "unit": "PCS",
+        "weight_kg": 135.31,
+        "value_usd": 2569.0
+      },
+      {
+        "marks": "ABC/7",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 52,
+        "unit": "PCS",
+        "weight_kg": 64.71,
+        "value_usd": 12287.81
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 68,
+        "unit": "PKG",
+        "weight_kg": 100.9,
+        "value_usd": 4823.01
+      },
+      {
+        "marks": "EXP/49",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 48,
+        "unit": "PCS",
+        "weight_kg": 3.08,
+        "value_usd": 7438.27
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 10,
+        "unit": "LTR",
+        "weight_kg": 10.5,
+        "value_usd": 144.02
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 150,
+        "unit": "CTN",
+        "weight_kg": 399.98,
+        "value_usd": 5282.71
+      }
+    ],
+    "total_weight_kg": 893.48,
+    "total_value_usd": 32727.42,
+    "service": "LCL Ocean",
+    "named_port": "Hamburg, DE",
+    "insurance_value_usd": 12246.45,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-905807",
+    "destination_country": "Hong Kong"
+  }
+}

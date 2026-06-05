@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0154",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Hernandez Inc.",
+    "shipper_address": "5252 Lamb Harbor, Sherrybury, MI 90136, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Green International S.A.",
+    "consignee_address": "673 Kevin Route Suite 441, Port Meganport, TN 99234, Spain",
+    "consignee_country": "Spain",
+    "emergency_telephone": "+64 752-875-2920",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 25,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 34.83,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-520753",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Mr. Larry Garza",
+    "signature_date": "2026-05-03",
+    "signature_place": "Thailand",
+    "awb_number": "074-74142716",
+    "flight_number": "CX937",
+    "flight_date": "2026-04-28",
+    "departure_airport_code": "LAX",
+    "departure_airport_name": "Los Angeles International",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International"
+  }
+}

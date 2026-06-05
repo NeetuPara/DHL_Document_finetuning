@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0463",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Brady White",
+    "addressee_company": "Richards International GmbH",
+    "addressee_address": "331 Moore Forge, Port Julie, VT 00872, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 2.337,
+    "total_value": 408.4,
+    "currency": "USD",
+    "issue_date": "2025-06-26",
+    "reference": "REF-169711",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.337,
+        "value": 408.4,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Brian Perez",
+    "sender_company": "Tucker Industry Co.",
+    "sender_address": "PSC 0423, Box 1164, APO AP 29426, United Arab Emirates",
+    "sender_phone": "001-209-419-5831x8759",
+    "sender_email": "loridean@example.com",
+    "addressee_phone": "(530)270-7090x09674",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 29.12,
+    "tracking_number": "SU029910893TA"
+  }
+}

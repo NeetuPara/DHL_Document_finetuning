@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0610",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202602-1771",
+    "usppi_name": "Global Mcconnell LLC",
+    "usppi_address": "1013 Christine Locks Suite 770, East Melissa, ME 28237, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "58-6327488",
+    "consignee_name": "Commerce Brown AG",
+    "consignee_address": "Unit 2817 Box 0385, DPO AA 95628, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Trade Hart Inc.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Amy Fox",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/23",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 7,
+        "unit": "BOX",
+        "weight_kg": 7.5,
+        "value_usd": 215.32
+      },
+      {
+        "marks": "SLI/20",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 73,
+        "unit": "PCS",
+        "weight_kg": 35.72,
+        "value_usd": 94380.57
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 130,
+        "unit": "MTR",
+        "weight_kg": 117.52,
+        "value_usd": 2260.61
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 161,
+        "unit": "PCS",
+        "weight_kg": 20.65,
+        "value_usd": 9006.64
+      },
+      {
+        "marks": "EXP/36",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 152,
+        "unit": "PCS",
+        "weight_kg": 489.33,
+        "value_usd": 102814.77
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 137,
+        "unit": "KGS",
+        "weight_kg": 137.0,
+        "value_usd": 89.29
+      },
+      {
+        "marks": "EXP/22",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 14,
+        "unit": "PCS",
+        "weight_kg": 147.92,
+        "value_usd": 3104.49
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 127,
+        "unit": "CTN",
+        "weight_kg": 171.24,
+        "value_usd": 9447.8
+      }
+    ],
+    "total_weight_kg": 1126.88,
+    "total_value_usd": 221319.49,
+    "service": "Ground",
+    "named_port": "Tokyo Narita",
+    "insurance_value_usd": 23858.24,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-283337",
+    "destination_country": "Switzerland"
+  }
+}

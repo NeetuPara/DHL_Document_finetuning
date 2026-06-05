@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0125",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Porter S.A.",
+    "shipper_address": "228 Bullock Lakes, Deborahville, IA 55899, China",
+    "shipper_country": "China",
+    "consignee_name": "Harris International Co.",
+    "consignee_address": "USCGC Knox, FPO AP 38420, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+96 930-633-2914",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 2,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 63.95,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Steven Chapman",
+    "signature_date": "2026-05-04",
+    "signature_place": "China",
+    "vessel": "MSC OSCAR",
+    "voyage": "438W",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Dubai, AE"
+  }
+}

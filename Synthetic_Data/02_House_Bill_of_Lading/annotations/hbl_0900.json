@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0900",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU798183530",
+    "shipper_name": "Global Black GmbH",
+    "shipper_address": "2920 Laurie Mountains, Arnoldchester, AK 07776, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Commerce Higgins Pte Ltd",
+    "consignee_address": "81845 Freeman Trail, Lake Michael, VT 58656, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "Robinson Trade Ltd",
+    "notify_party_address": "05012 Victor Branch, North Ronaldchester, NE 70274, Switzerland",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "522N",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2024-09-20",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "YVFK3344431",
+        "seal_no": "BL911037",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "FVUY9512847",
+        "seal_no": "CL815145",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "VAXR0829644",
+        "seal_no": "BL164519",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "CUKI7621569",
+        "seal_no": "SL746614",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 322,
+    "package_type": "Pallet",
+    "gross_weight_kg": 3188.5,
+    "net_weight_kg": 2943.8,
+    "cbm": 20.322,
+    "marks_and_numbers": "ABC/3"
+  }
+}

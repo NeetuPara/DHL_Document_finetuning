@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0115",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "James Peterson",
+    "addressee_company": "Ferguson Pacific GmbH",
+    "addressee_address": "6007 John Drive Suite 097, Turnerton, FL 85496, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 2.265,
+    "total_value": 1647.6,
+    "currency": "CHF",
+    "issue_date": "2025-05-29",
+    "reference": "REF-499193",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.265,
+        "value": 1647.6,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "Sarah Rasmussen",
+    "sender_company": "International Russo LLC",
+    "sender_address": "77820 Davis Squares, East Steven, WV 15002, France",
+    "sender_phone": "771.445.6897x97448",
+    "sender_email": "mooretodd@example.net",
+    "addressee_phone": "+1-530-353-8983x425",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 23.55,
+    "tracking_number": "AK539619964KH"
+  }
+}

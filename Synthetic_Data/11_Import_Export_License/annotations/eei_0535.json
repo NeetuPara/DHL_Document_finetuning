@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0535",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "466-27416882-4",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2026-03-15",
+    "port_of_entry": "SEA - Seattle",
+    "transport_mode": "Air",
+    "carrier": "UPS",
+    "bl_awb": "057-18972476",
+    "importer_name": "Global Smith LLC",
+    "importer_ein": "56-7751470",
+    "consignee_name": "Industry Taylor AG",
+    "customs_broker": "Anderson International Co.",
+    "broker_filer_code": "WGN",
+    "country_of_origin": "Germany",
+    "total_value": 184519.17,
+    "total_duty": 36661.66,
+    "currency": "GBP",
+    "signatory": "Dakota Navarro",
+    "signatory_title": "Trade Finance Manager",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Italy",
+        "qty": 291,
+        "unit": "MTR",
+        "entered_value": 76687.23,
+        "duty_rate": 16.2,
+        "duty_amount": 12423.33,
+        "eccn": "5E992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Belgium",
+        "qty": 289,
+        "unit": "BOX",
+        "entered_value": 44728.53,
+        "duty_rate": 24.2,
+        "duty_amount": 10824.3,
+        "eccn": "2B350",
+        "schedule_b": "2936.90.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "South Korea",
+        "qty": 435,
+        "unit": "PKG",
+        "entered_value": 62557.35,
+        "duty_rate": 21.4,
+        "duty_amount": 13387.27,
+        "eccn": "2B350",
+        "schedule_b": "4016.93.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "France",
+        "qty": 19,
+        "unit": "PCS",
+        "entered_value": 546.06,
+        "duty_rate": 4.9,
+        "duty_amount": 26.76,
+        "eccn": "0A919",
+        "schedule_b": "9401.30.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

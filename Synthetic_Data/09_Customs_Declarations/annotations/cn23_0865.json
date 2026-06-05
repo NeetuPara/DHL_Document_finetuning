@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0865",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Amanda Calhoun",
+    "addressee_company": "Schwartz Industry GmbH",
+    "addressee_address": "945 Brian Keys Apt. 683, East Michaelmouth, PW 94187, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 9.493,
+    "total_value": 1122.87,
+    "currency": "AUD",
+    "issue_date": "2025-11-30",
+    "reference": "REF-356502",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.721,
+        "value": 575.34,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 15,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.839,
+        "value": 169.35,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 11,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.933,
+        "value": 378.18,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Leah Kelley",
+    "sender_company": "Jones Trade LLC",
+    "sender_address": "Unit 1156 Box 0383, DPO AE 45660, India",
+    "sender_phone": "(495)713-7193",
+    "sender_email": "freese@example.org",
+    "addressee_phone": "001-354-497-5376x079",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 63.66,
+    "tracking_number": "MR730660048CK"
+  }
+}

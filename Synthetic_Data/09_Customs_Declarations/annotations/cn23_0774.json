@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0774",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Brooke Carr",
+    "addressee_company": "Henderson Industry Inc.",
+    "addressee_address": "0086 Fisher Spur Apt. 286, West Christopherland, HI 09064, Sweden",
+    "addressee_country": "Sweden",
+    "total_weight_kg": 8.666,
+    "total_value": 3915.73,
+    "currency": "CNY",
+    "issue_date": "2026-05-03",
+    "reference": "REF-959412",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.358,
+        "value": 1634.08,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 12,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.84,
+        "value": 72.84,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 17,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.468,
+        "value": 2208.81,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Brazil"
+      }
+    ],
+    "sender_country": "Italy",
+    "port_of_entry": "Los Angeles, CA",
+    "entry_number": "471-27453871-6",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 15.4,
+    "estimated_duty": 603.02,
+    "importer_ein": "63-1262435",
+    "customs_broker": "Trade Perez Co."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0967",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Lee Industry Ltd",
+    "shipper_address": "359 Jenkins Ranch Apt. 005, Rachelchester, CO 60261, France",
+    "shipper_country": "France",
+    "consignee_name": "Commerce Martin Co.",
+    "consignee_address": "033 Raymond Drive, Michaelmouth, OK 34258, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+1 391-623-7308",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 36,
+        "pkg_type": "Steel Drum",
+        "net_qty": 94.11,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-375666",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 31,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 84.13,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-125431",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Lisa Alvarez",
+    "signature_date": "2026-04-15",
+    "signature_place": "France",
+    "awb_number": "074-82122720",
+    "flight_number": "SQ3251",
+    "flight_date": "2026-05-08",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "JFK",
+    "destination_airport_name": "JFK New York"
+  }
+}

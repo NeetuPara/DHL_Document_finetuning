@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0816",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-83887570",
+    "mawb_number": "074-88122403",
+    "shipper_name": "Howell Pacific LLC",
+    "shipper_address": "56952 Jerry Place, East Donna, FM 05322, Belgium",
+    "consignee_name": "Davis Pacific LLC",
+    "consignee_address": "3301 Rebekah Station, Christopherbury, RI 33859, United Kingdom",
+    "agent_name": "Tech Stafford AG",
+    "airport_departure": "HKG",
+    "airport_destination": "FRA",
+    "currency": "CHF",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "USD 49,915.51",
+    "n_pieces": 45,
+    "gross_weight_kg": 442.6,
+    "chargeable_weight": 550.3,
+    "rate": 4.42,
+    "total_charge": 2432.33,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-09-19",
+    "signatory": "Adrian Hubbard",
+    "iata_code": "59-322",
+    "agent_cass": "9572-7860",
+    "consolidation_ref": "CONS-0969-222656",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-10974523",
+        "pieces": 18,
+        "weight": 77.1,
+        "destination": "NRT",
+        "consignee": "Torres International Co.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "085-24650574",
+        "pieces": 14,
+        "weight": 53.8,
+        "destination": "YYZ",
+        "consignee": "Commerce Boyd AG",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "057-67883074",
+        "pieces": 14,
+        "weight": 37.6,
+        "destination": "CDG",
+        "consignee": "International Johns B.V.",
+        "description": "Industrial Machinery Parts - Steel "
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0341",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV670450517",
+    "shipper_name": "Graham Industry Ltd",
+    "shipper_address": "PSC 0731, Box 2886, APO AA 33128, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "International Hanson LLC",
+    "consignee_address": "305 Devin Ramp Suite 052, East Travisfurt, AS 45513, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party_name": "Smith International B.V.",
+    "notify_party_address": "13701 Tracy Parkways, Matthewtown, CO 02269, Brazil",
+    "vessel": "YANG MING MYTH",
+    "voyage": "405S",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2024-12-25",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "ZVKW8032161",
+        "seal_no": "CL785405",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "GOQK1219495",
+        "seal_no": "SL470605",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "ALGQ2246622",
+        "seal_no": "SL747101",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "number_of_packages": 386,
+    "package_type": "Bag",
+    "gross_weight_kg": 602.8,
+    "net_weight_kg": 533.5,
+    "cbm": 41.113,
+    "marks_and_numbers": "ABC/27"
+  }
+}

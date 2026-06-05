@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0023",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250723270525",
+    "export_date": "2025-11-19",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Commerce Brown Ltd",
+    "usppi_ein": "09-2502884",
+    "usppi_address": "4396 Christine Village, Brownstad, OR 38686, China",
+    "ultimate_consignee": "Trade Wood Pte Ltd",
+    "intermediate_consignee": "Tech Dudley B.V.",
+    "forwarding_agent": "Tech Erickson LLC",
+    "destination_country": "Switzerland",
+    "carrier": "MSC",
+    "bl_awb": "085-46177193",
+    "total_value": 146578.08,
+    "currency": "JPY",
+    "signatory": "Mr. Steven Schneider",
+    "line_items": [
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Italy",
+        "qty": 17,
+        "unit": "BOX",
+        "entered_value": 341.7,
+        "duty_rate": 23.0,
+        "duty_amount": 78.59,
+        "eccn": "9A515",
+        "schedule_b": "2936.90.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Netherlands",
+        "qty": 94,
+        "unit": "PCS",
+        "entered_value": 40108.86,
+        "duty_rate": 21.1,
+        "duty_amount": 8462.97,
+        "eccn": "EAR99",
+        "schedule_b": "8534.00.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Poland",
+        "qty": 160,
+        "unit": "SET",
+        "entered_value": 34451.2,
+        "duty_rate": 16.1,
+        "duty_amount": 5546.64,
+        "eccn": "1A002",
+        "schedule_b": "8708.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Malaysia",
+        "qty": 191,
+        "unit": "PCS",
+        "entered_value": 30338.44,
+        "duty_rate": 6.3,
+        "duty_amount": 1911.32,
+        "eccn": "9A515",
+        "schedule_b": "9002.11.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Japan",
+        "qty": 212,
+        "unit": "SET",
+        "entered_value": 41337.88,
+        "duty_rate": 10.9,
+        "duty_amount": 4505.83,
+        "eccn": "EAR99",
+        "schedule_b": "8708.30.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

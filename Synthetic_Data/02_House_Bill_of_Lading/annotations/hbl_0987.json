@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0987",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU927548155",
+    "shipper_name": "Smith Pacific GmbH",
+    "shipper_address": "08915 Gonzalez Burg Apt. 354, Ryanfort, SC 32000, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Bishop Pacific Corp.",
+    "consignee_address": "7544 Paul Terrace, Mitchellland, WY 45474, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Jones Pacific LLC",
+    "notify_party_address": "95042 Smith Mall Apt. 547, Sheenaside, HI 59421, Spain",
+    "vessel": "YANG MING MYTH",
+    "voyage": "449E",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2024-05-22",
+    "issue_place": "Dubai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "DCRA9891021",
+        "seal_no": "SL567567",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "UBYK0140796",
+        "seal_no": "BL363945",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "SYJJ2505385",
+        "seal_no": "BL841749",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "EWQD7788889",
+        "seal_no": "CL303867",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 336,
+    "package_type": "Carton",
+    "gross_weight_kg": 21071.3,
+    "net_weight_kg": 19807.2,
+    "cbm": 37.414,
+    "marks_and_numbers": "GLB/17"
+  }
+}

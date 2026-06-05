@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0301",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kyle Green MD",
+    "addressee_company": "Trade Wilson LLC",
+    "addressee_address": "6389 Walker Parks, South Williamburgh, NY 26396, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 1.436,
+    "total_value": 1564.09,
+    "currency": "AED",
+    "issue_date": "2026-05-07",
+    "reference": "REF-827187",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.436,
+        "value": 1564.09,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Matthew Callahan",
+    "sender_company": "Mccann Pacific B.V.",
+    "sender_address": "39041 Jasmine Land, Walkerfurt, AZ 44983, Poland",
+    "sender_phone": "(691)838-6138x0554",
+    "sender_email": "emilylyons@example.com",
+    "addressee_phone": "352.968.2588x6330",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 13.64,
+    "tracking_number": "PT771552707XM"
+  }
+}

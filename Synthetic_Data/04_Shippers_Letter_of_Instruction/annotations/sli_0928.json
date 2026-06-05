@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0928",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202604-2194",
+    "usppi_name": "Pacific Arnold AG",
+    "usppi_address": "220 Jessica Ford Suite 307, South Michelle, CA 01714, Japan",
+    "usppi_country": "Japan",
+    "ein": "89-5631414",
+    "consignee_name": "Tech Montoya B.V.",
+    "consignee_address": "384 Christine Bypass, West Robert, OK 36703, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Gardner Commerce Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Janet Higgins",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/13",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 97,
+        "unit": "PCS",
+        "weight_kg": 1972.58,
+        "value_usd": 24399.8
+      },
+      {
+        "marks": "SLI/10",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 58,
+        "unit": "MTR",
+        "weight_kg": 57.59,
+        "value_usd": 307.7
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 200,
+        "unit": "KGS",
+        "weight_kg": 200.0,
+        "value_usd": 3691.6
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 145,
+        "unit": "CTN",
+        "weight_kg": 543.77,
+        "value_usd": 8282.12
+      },
+      {
+        "marks": "ABC/28",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 144,
+        "unit": "BOX",
+        "weight_kg": 83.45,
+        "value_usd": 10531.93
+      },
+      {
+        "marks": "ABC/46",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 173,
+        "unit": "PCS",
+        "weight_kg": 11.72,
+        "value_usd": 11014.45
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 20,
+        "unit": "PCS",
+        "weight_kg": 10.95,
+        "value_usd": 2104.38
+      }
+    ],
+    "total_weight_kg": 2880.06,
+    "total_value_usd": 60331.98,
+    "service": "LCL Ocean",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 2197.67,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-272763",
+    "destination_country": "Thailand"
+  }
+}

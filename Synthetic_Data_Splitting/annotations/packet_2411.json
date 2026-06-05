@@ -1,0 +1,40 @@
+{
+  "packet_id": "packet_2411",
+  "total_pages": 3,
+  "n_documents": 3,
+  "class_sequence": [
+    "Commercial Invoice",
+    "Import/Export License",
+    "Packing List"
+  ],
+  "documents": [
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "commercial_invoice_0609.pdf",
+      "source_class_folder": "01_Commercial_Invoice"
+    },
+    {
+      "doc_class": "Import/Export License",
+      "class_index": 11,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "eei_0831.pdf",
+      "source_class_folder": "11_Import_Export_License"
+    },
+    {
+      "doc_class": "Packing List",
+      "class_index": 8,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "packing_list_0676.pdf",
+      "source_class_folder": "08_Packing_List"
+    }
+  ],
+  "task": "splitting"
+}

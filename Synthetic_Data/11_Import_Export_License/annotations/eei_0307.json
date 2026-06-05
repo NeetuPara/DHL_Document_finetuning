@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0307",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "534-97654750-0",
+    "entry_type": "01 - Free and Dutiable",
+    "entry_date": "2026-01-27",
+    "port_of_entry": "MIA - Miami",
+    "transport_mode": "Hand-Carried",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "618-15511666",
+    "importer_name": "Global Guzman Co.",
+    "importer_ein": "01-5731379",
+    "consignee_name": "Hicks Tech AG",
+    "customs_broker": "International Garcia S.A.",
+    "broker_filer_code": "DEf",
+    "country_of_origin": "Germany",
+    "total_value": 362434.41,
+    "total_duty": 44653.68,
+    "currency": "EUR",
+    "signatory": "Amanda Torres",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Poland",
+        "qty": 174,
+        "unit": "CTN",
+        "entered_value": 76570.44,
+        "duty_rate": 2.2,
+        "duty_amount": 1684.55,
+        "eccn": "3A992",
+        "schedule_b": "9018.31.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Japan",
+        "qty": 271,
+        "unit": "PKG",
+        "entered_value": 84980.18,
+        "duty_rate": 24.9,
+        "duty_amount": 21160.06,
+        "eccn": "3A992",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "South Korea",
+        "qty": 323,
+        "unit": "KGS",
+        "entered_value": 95769.5,
+        "duty_rate": 1.9,
+        "duty_amount": 1819.62,
+        "eccn": "2B350",
+        "schedule_b": "2008.19.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Italy",
+        "qty": 250,
+        "unit": "PCS",
+        "entered_value": 26725.0,
+        "duty_rate": 13.2,
+        "duty_amount": 3527.7,
+        "eccn": "5E992",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Belgium",
+        "qty": 269,
+        "unit": "CTN",
+        "entered_value": 78389.29,
+        "duty_rate": 21.0,
+        "duty_amount": 16461.75,
+        "eccn": "0A919",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

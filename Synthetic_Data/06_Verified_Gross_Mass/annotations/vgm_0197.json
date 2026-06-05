@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0197",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Bailey Tech Inc.",
+    "shipper_address": "385 Price Ramp, North Daniel, MN 21996, South Korea",
+    "shipper_country": "South Korea",
+    "container_number": "KUBF1074562",
+    "seal_number": "SL422079",
+    "container_size": "40'HC",
+    "iso_type_code": "45G0",
+    "tare_weight_kg": 4000,
+    "cargo_weight_kg": 16490.3,
+    "packing_materials_kg": 149.9,
+    "vgm_kg": 20640.2,
+    "vessel": "YANG MING MYTH",
+    "voyage": "616N",
+    "bl_number": "COSU214756928",
+    "booking_reference": "BKG-328602",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-87873",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-27",
+    "signature_date": "2026-05-10",
+    "signatory_name": "Ian Green",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Drum",
+        "n_units": 3,
+        "gross_wt_kg": 2743.6
+      },
+      {
+        "item_no": 2,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Case",
+        "n_units": 9,
+        "gross_wt_kg": 837.3
+      },
+      {
+        "item_no": 3,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Case",
+        "n_units": 6,
+        "gross_wt_kg": 586.1
+      },
+      {
+        "item_no": 4,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Case",
+        "n_units": 20,
+        "gross_wt_kg": 2446.6
+      },
+      {
+        "item_no": 5,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Carton",
+        "n_units": 19,
+        "gross_wt_kg": 9876.7
+      }
+    ]
+  }
+}

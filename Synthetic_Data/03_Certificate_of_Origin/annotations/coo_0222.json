@@ -1,0 +1,60 @@
+{
+  "document_id": "coo_0222",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202402-7969",
+    "exporter_name": "Harris Tech GmbH",
+    "exporter_address": "1619 Barnett Dam Apt. 407, South Matthewland, OK 24076, France",
+    "exporter_country": "France",
+    "consignee_name": "Woods Commerce B.V.",
+    "consignee_address": "4352 Tammy Brook, Gregoryshire, PR 31984, Singapore",
+    "consignee_country": "Singapore",
+    "country_of_origin": "France",
+    "country_of_destination": "Singapore",
+    "bl_or_awb": "COSU190649045",
+    "issue_date": "2024-08-07",
+    "certifier_name": "Timothy Johnson",
+    "goods": [
+      {
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "hs_code": "8483.40.00",
+        "qty": 500,
+        "unit": "PCS",
+        "weight_kg": 6191.02,
+        "origin_criterion": "D",
+        "value": 243888.04
+      },
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 125,
+        "unit": "KGS",
+        "weight_kg": 125.0,
+        "origin_criterion": "B",
+        "value": 1910.21
+      },
+      {
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "hs_code": "4016.93.00",
+        "qty": 409,
+        "unit": "PKG",
+        "weight_kg": 902.12,
+        "origin_criterion": "A",
+        "value": 13454.11
+      },
+      {
+        "description": "Electronic Components - Printed Circuit Boards",
+        "hs_code": "8534.00.00",
+        "qty": 291,
+        "unit": "PCS",
+        "weight_kg": 30.43,
+        "origin_criterion": "E",
+        "value": 34130.85
+      }
+    ],
+    "fta_agreement": "RCEP",
+    "chamber": "Board of Trade"
+  }
+}

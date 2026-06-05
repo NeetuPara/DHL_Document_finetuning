@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0184",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "488-57476175-7",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2026-03-11",
+    "port_of_entry": "LAX - Los Angeles",
+    "transport_mode": "Rail",
+    "carrier": "MSC",
+    "bl_awb": "006-87094046",
+    "importer_name": "Landry Pacific Corp.",
+    "importer_ein": "18-2761329",
+    "consignee_name": "Miller Industry GmbH",
+    "customs_broker": "Commerce Chandler Ltd",
+    "broker_filer_code": "KsX",
+    "country_of_origin": "Belgium",
+    "total_value": 72264.37,
+    "total_duty": 11664.33,
+    "currency": "JPY",
+    "signatory": "Eric Beltran",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Singapore",
+        "qty": 323,
+        "unit": "KGS",
+        "entered_value": 25029.27,
+        "duty_rate": 24.9,
+        "duty_amount": 6232.29,
+        "eccn": "1A002",
+        "schedule_b": "2008.19.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Netherlands",
+        "qty": 253,
+        "unit": "SET",
+        "entered_value": 47235.1,
+        "duty_rate": 11.5,
+        "duty_amount": 5432.04,
+        "eccn": "7A994",
+        "schedule_b": "8708.30.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0443",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202104-5371",
+    "usppi_name": "International Russell B.V.",
+    "usppi_address": "6574 Nicholson Orchard, East Ryan, KY 29120, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "92-3124153",
+    "consignee_name": "Industry Beck Ltd",
+    "consignee_address": "44658 Hall View, New Davidstad, ND 25445, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Roth International AG",
+    "forwarder": "DB Schenker",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "7A994",
+    "signatory_name": "Morgan Fry",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/47",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 151,
+        "unit": "PCS",
+        "weight_kg": 3005.05,
+        "value_usd": 14284.6
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 88,
+        "unit": "KGS",
+        "weight_kg": 88.0,
+        "value_usd": 1554.78
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 87,
+        "unit": "PCS",
+        "weight_kg": 83.05,
+        "value_usd": 59184.45
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 179,
+        "unit": "SET",
+        "weight_kg": 185.34,
+        "value_usd": 18974.48
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 91,
+        "unit": "CTN",
+        "weight_kg": 166.27,
+        "value_usd": 4022.39
+      },
+      {
+        "marks": "EXP/9",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 57,
+        "unit": "BOX",
+        "weight_kg": 42.57,
+        "value_usd": 6752.38
+      }
+    ],
+    "total_weight_kg": 3570.28,
+    "total_value_usd": 104773.08,
+    "service": "Ocean Freight",
+    "named_port": "New York, US",
+    "insurance_value_usd": 42611.91,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Belgium"
+  }
+}

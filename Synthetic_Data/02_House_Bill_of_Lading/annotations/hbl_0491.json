@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0491",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU980624319",
+    "shipper_name": "Trade Johnson S.A.",
+    "shipper_address": "7552 David Mission Suite 862, Salaschester, FL 47829, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Commerce Olson Corp.",
+    "consignee_address": "000 Graves Landing Suite 917, Mooreside, ND 81708, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "Pacific Garcia Co.",
+    "notify_party_address": "39214 Wilkins Stream, East Logan, TN 12863, Japan",
+    "vessel": "MSC OSCAR",
+    "voyage": "538E",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Qingdao, CN",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Qingdao, CN",
+    "issue_date": "2024-08-09",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "IWIO7501211",
+        "seal_no": "BL501071",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "DDNZ1987997",
+        "seal_no": "BL161616",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "FIQZ1404476",
+        "seal_no": "BL803696",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "HRPU6074246",
+        "seal_no": "CL886236",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "number_of_packages": 240,
+    "package_type": "Case",
+    "gross_weight_kg": 14506.5,
+    "net_weight_kg": 12988.7,
+    "cbm": 18.29,
+    "marks_and_numbers": "XYZ/5"
+  }
+}

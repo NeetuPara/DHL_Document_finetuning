@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0362",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU117372111",
+    "shipper_name": "Global Roach AG",
+    "shipper_address": "7516 Harrington Via Suite 906, Christopherview, VT 30804, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Global Snyder GmbH",
+    "consignee_address": "6433 Lawrence Mountains, Smithville, CT 00652, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party_name": "Ball International Corp.",
+    "notify_party_address": "7556 Werner Valleys, North Jacob, NH 42067, China",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "484W",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2025-06-17",
+    "issue_place": "Dubai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "QYVP5520795",
+        "seal_no": "BL405616",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "AXKW1293768",
+        "seal_no": "SL163577",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "XRDE4240250",
+        "seal_no": "SL829767",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 273,
+    "package_type": "Crate",
+    "gross_weight_kg": 6627.9,
+    "net_weight_kg": 5963.8,
+    "cbm": 10.994,
+    "marks_and_numbers": "ABC/46"
+  }
+}

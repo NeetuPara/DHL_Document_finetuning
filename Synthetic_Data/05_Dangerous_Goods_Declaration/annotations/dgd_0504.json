@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0504",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Ward Co.",
+    "shipper_address": "48469 Cross Square Apt. 842, Port Randallton, IL 75474, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Taylor Trade Co.",
+    "consignee_address": "49478 Colleen Forest Suite 657, Port Laurieview, PW 22898, United States",
+    "consignee_country": "United States",
+    "emergency_telephone": "+90 704-804-7628",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 26,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 7.88,
+        "qty_unit": "g",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Leslie Baldwin",
+    "signature_date": "2026-05-11",
+    "signature_place": "Germany",
+    "awb_number": "176-38791681",
+    "flight_number": "EK5736",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

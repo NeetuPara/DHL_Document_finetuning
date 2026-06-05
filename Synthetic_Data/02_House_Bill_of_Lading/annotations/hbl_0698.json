@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0698",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU421177121",
+    "shipper_name": "Lee Tech Co.",
+    "shipper_address": "178 Martin Walk, Hamiltonland, ID 71791, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Commerce Lowe AG",
+    "consignee_address": "8306 Adams Islands Apt. 619, North Robert, AL 46415, France",
+    "consignee_country": "France",
+    "notify_party_name": "Cameron Commerce Pte Ltd",
+    "notify_party_address": "857 Parks Manor, Michaelborough, PA 73747, United States",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "930N",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2024-09-28",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "BYZX8908469",
+        "seal_no": "CL875998",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "FMOE5048497",
+        "seal_no": "SL908188",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "ZHFS1629439",
+        "seal_no": "CL465773",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "number_of_packages": 383,
+    "package_type": "Pallet",
+    "gross_weight_kg": 23792.3,
+    "net_weight_kg": 21676.6,
+    "cbm": 25.787,
+    "marks_and_numbers": "GLB/45"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0987",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202406-9314",
+    "usppi_name": "Jones Industry GmbH",
+    "usppi_address": "51362 Joan Plain, East Brandonhaven, WA 04638, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "42-7589531",
+    "consignee_name": "Jordan Global B.V.",
+    "consignee_address": "USCGC Smith, FPO AE 45488, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Curry Industry Pte Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Jacqueline Clark",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/5",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 73,
+        "unit": "CTN",
+        "weight_kg": 181.98,
+        "value_usd": 432.23
+      },
+      {
+        "marks": "ABC/20",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 134,
+        "unit": "KGS",
+        "weight_kg": 134.0,
+        "value_usd": 1118.74
+      }
+    ],
+    "total_weight_kg": 315.98,
+    "total_value_usd": 1550.97,
+    "vessel": "MSC GULSUN",
+    "voyage": "198E",
+    "booking_ref": "BKG-574601",
+    "bl_number": "MAEU608381544",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Tokyo, JP",
+    "container_number": "XSFM0232817",
+    "seal_number": "CL567179",
+    "container_type": "40'HC",
+    "cbm": 7.755
+  }
+}

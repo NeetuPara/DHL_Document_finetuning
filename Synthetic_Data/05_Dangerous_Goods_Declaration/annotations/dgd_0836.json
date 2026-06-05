@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0836",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Beasley Trade Ltd",
+    "shipper_address": "8884 Erik Corner Suite 603, Jessicaberg, CA 36029, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Pacific Bell Ltd",
+    "consignee_address": "07655 Hill Square Suite 526, East Dominiquefort, RI 42904, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+57 594-844-5990",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 31,
+        "pkg_type": "Steel Drum",
+        "net_qty": 84.61,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-978046",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Robin Crawford",
+    "signature_date": "2026-04-29",
+    "signature_place": "Sweden",
+    "vessel": "MSC OSCAR",
+    "voyage": "663N",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Busan, KR"
+  }
+}

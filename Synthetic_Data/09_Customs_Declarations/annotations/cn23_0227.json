@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0227",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "David Hunt",
+    "addressee_company": "Trade Webster Pte Ltd",
+    "addressee_address": "69987 Wood Freeway, Robertborough, WY 58649, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 10.216,
+    "total_value": 3487.62,
+    "currency": "JPY",
+    "issue_date": "2025-08-23",
+    "reference": "REF-048660",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.251,
+        "value": 154.42,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 13,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.294,
+        "value": 1819.22,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 3,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.075,
+        "value": 359.1,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 16,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.596,
+        "value": 1154.88,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Canada"
+      }
+    ],
+    "sender_name": "Gabriel Robinson",
+    "sender_company": "Global Page Inc.",
+    "sender_address": "12635 Billy Mission Apt. 297, Cookmouth, MS 56405, India",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 39.84,
+    "tracking_number": "LU584531950UU"
+  }
+}

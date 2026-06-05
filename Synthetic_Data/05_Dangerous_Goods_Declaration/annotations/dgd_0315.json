@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0315",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Castaneda Pte Ltd",
+    "shipper_address": "52608 Harrison Court, Port Ashley, CO 88236, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Trade Tapia GmbH",
+    "consignee_address": "USCGC Stephens, FPO AP 30170, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+40 841-639-1505",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 40,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 65.35,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 11,
+        "pkg_type": "Steel Drum",
+        "net_qty": 50.28,
+        "qty_unit": "mL",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-659863",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Kristin Davies",
+    "signature_date": "2026-05-10",
+    "signature_place": "Poland",
+    "awb_number": "618-48857229",
+    "flight_number": "LH9302",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0581",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240107723304",
+    "export_date": "2025-09-09",
+    "aes_option": "AES Filing",
+    "usppi_name": "Commerce Schmidt B.V.",
+    "usppi_ein": "96-3488633",
+    "usppi_address": "39266 Monroe Points Apt. 276, Tracyton, NH 64604, Canada",
+    "ultimate_consignee": "Industry Lee Ltd",
+    "intermediate_consignee": "International Munoz Ltd",
+    "forwarding_agent": "Trade Reilly LLC",
+    "destination_country": "Thailand",
+    "carrier": "UPS",
+    "bl_awb": "006-80209909",
+    "total_value": 84501.42,
+    "currency": "USD",
+    "signatory": "Sandra Cole",
+    "line_items": [
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Poland",
+        "qty": 27,
+        "unit": "BOX",
+        "entered_value": 482.22,
+        "duty_rate": 18.1,
+        "duty_amount": 87.28,
+        "eccn": "0A919",
+        "schedule_b": "2936.90.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Switzerland",
+        "qty": 192,
+        "unit": "PCS",
+        "entered_value": 84019.2,
+        "duty_rate": 21.0,
+        "duty_amount": 17644.03,
+        "eccn": "7A994",
+        "schedule_b": "9401.30.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

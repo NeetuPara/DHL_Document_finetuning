@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0794",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20241004607836",
+    "export_date": "2026-01-02",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Weiss Commerce GmbH",
+    "usppi_ein": "60-2710512",
+    "usppi_address": "22825 Kristen Lakes, Scottville, AR 30776, Brazil",
+    "ultimate_consignee": "International Ayala B.V.",
+    "intermediate_consignee": "Commerce Espinoza Inc.",
+    "forwarding_agent": "Trade Smith Pte Ltd",
+    "destination_country": "Netherlands",
+    "carrier": "DHL Express",
+    "bl_awb": "045-55793757",
+    "total_value": 132495.31,
+    "currency": "CNY",
+    "signatory": "Robert Lopez",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Italy",
+        "qty": 387,
+        "unit": "PCS",
+        "entered_value": 126386.46,
+        "duty_rate": 2.4,
+        "duty_amount": 3033.28,
+        "eccn": "2B350",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Brazil",
+        "qty": 145,
+        "unit": "PKG",
+        "entered_value": 6108.85,
+        "duty_rate": 23.8,
+        "duty_amount": 1453.91,
+        "eccn": "9A515",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

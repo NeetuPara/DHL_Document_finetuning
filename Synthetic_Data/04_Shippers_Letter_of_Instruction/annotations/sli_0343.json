@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0343",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202009-5621",
+    "usppi_name": "Industry Jones Pte Ltd",
+    "usppi_address": "71965 Lin View Apt. 017, Ellishaven, DC 24258, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "17-5955039",
+    "consignee_name": "Commerce Callahan B.V.",
+    "consignee_address": "76429 Ashley Fords, Bowersburgh, OK 02066, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Mcdonald Commerce AG",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Jennifer Smith",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/37",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 185,
+        "unit": "PCS",
+        "weight_kg": 258.56,
+        "value_usd": 23278.2
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 102,
+        "unit": "KGS",
+        "weight_kg": 102.0,
+        "value_usd": 2017.1
+      },
+      {
+        "marks": "ABC/37",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 112,
+        "unit": "PCS",
+        "weight_kg": 52.42,
+        "value_usd": 6315.39
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 163,
+        "unit": "KGS",
+        "weight_kg": 163.0,
+        "value_usd": 315.31
+      },
+      {
+        "marks": "SLI/26",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 128,
+        "unit": "CTN",
+        "weight_kg": 416.97,
+        "value_usd": 6041.12
+      }
+    ],
+    "total_weight_kg": 992.95,
+    "total_value_usd": 37967.12,
+    "service": "Express Courier",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 23822.69,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-880813",
+    "destination_country": "Sweden"
+  }
+}

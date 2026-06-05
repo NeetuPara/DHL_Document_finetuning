@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0406",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "265-06616194-8",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2025-10-17",
+    "port_of_entry": "BOS - Boston",
+    "transport_mode": "Ocean",
+    "carrier": "UPS",
+    "bl_awb": "045-83321179",
+    "importer_name": "Commerce Green Co.",
+    "importer_ein": "94-1642468",
+    "consignee_name": "Tech Ibarra LLC",
+    "customs_broker": "Logan Industry S.A.",
+    "broker_filer_code": "ZAA",
+    "country_of_origin": "United Arab Emirates",
+    "total_value": 161898.16,
+    "total_duty": 21439.34,
+    "currency": "AUD",
+    "signatory": "Jason Ruiz",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Switzerland",
+        "qty": 72,
+        "unit": "PCS",
+        "entered_value": 8336.88,
+        "duty_rate": 4.3,
+        "duty_amount": 358.49,
+        "eccn": "3A992",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Canada",
+        "qty": 197,
+        "unit": "KGS",
+        "entered_value": 23531.65,
+        "duty_rate": 24.4,
+        "duty_amount": 5741.72,
+        "eccn": "EAR99",
+        "schedule_b": "2008.19.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "United Kingdom",
+        "qty": 269,
+        "unit": "KGS",
+        "entered_value": 114897.97,
+        "duty_rate": 13.1,
+        "duty_amount": 15051.63,
+        "eccn": "7A994",
+        "schedule_b": "7208.37.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Singapore",
+        "qty": 314,
+        "unit": "PCS",
+        "entered_value": 15131.66,
+        "duty_rate": 1.9,
+        "duty_amount": 287.5,
+        "eccn": "9A515",
+        "schedule_b": "9401.30.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

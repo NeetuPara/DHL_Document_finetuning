@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0502",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202005-9562",
+    "usppi_name": "Tech Brewer Co.",
+    "usppi_address": "28188 Gregory Freeway Apt. 411, Ashleychester, KS 37661, United States",
+    "usppi_country": "United States",
+    "ein": "30-3527949",
+    "consignee_name": "Industry Ward S.A.",
+    "consignee_address": "57099 Smith Knoll Suite 446, New Andrewtown, GU 37965, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Trade Wilcox Pte Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Bradley Briggs",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/49",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 74,
+        "unit": "KGS",
+        "weight_kg": 74.0,
+        "value_usd": 870.91
+      },
+      {
+        "marks": "ABC/11",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 183,
+        "unit": "BOX",
+        "weight_kg": 129.99,
+        "value_usd": 19136.76
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 187,
+        "unit": "PCS",
+        "weight_kg": 24.49,
+        "value_usd": 41905.38
+      }
+    ],
+    "total_weight_kg": 228.48,
+    "total_value_usd": 61913.05,
+    "service": "LCL Ocean",
+    "named_port": "Shanghai, CN",
+    "insurance_value_usd": 21893.62,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-995907",
+    "destination_country": "Thailand"
+  }
+}

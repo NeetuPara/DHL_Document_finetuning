@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0153",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-73260696",
+    "mawb_number": "057-88053356",
+    "shipper_name": "Johnson Trade Pte Ltd",
+    "shipper_address": "7564 Rodriguez Meadow, Georgefurt, GA 10971, Sweden",
+    "consignee_name": "Cannon International S.A.",
+    "consignee_address": "93127 Davis Motorway, West Meganborough, WV 60123, France",
+    "agent_name": "Industry Rocha Corp.",
+    "airport_departure": "MIA",
+    "airport_destination": "HKG",
+    "currency": "CNY",
+    "charge_code": "CC",
+    "declared_value_carriage": "JPY 9,824.73",
+    "declared_value_customs": "USD 40,687.94",
+    "n_pieces": 24,
+    "gross_weight_kg": 212.1,
+    "chargeable_weight": 261.9,
+    "rate": 3.74,
+    "total_charge": 979.51,
+    "nature_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "handling_info": "HANDLING CODE: PER",
+    "issue_date": "2026-01-19",
+    "signatory": "Deborah Barnes",
+    "iata_code": "02-305",
+    "agent_cass": "0671-8338",
+    "consolidation_ref": "CONS-5090-166117",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-23973883",
+        "pieces": 6,
+        "weight": 2.4,
+        "destination": "LAX",
+        "consignee": "Tech Singleton S.A.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "176-43827536",
+        "pieces": 13,
+        "weight": 36.8,
+        "destination": "NRT",
+        "consignee": "Trade Taylor AG",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "176-83605195",
+        "pieces": 15,
+        "weight": 79.9,
+        "destination": "SIN",
+        "consignee": "Trade Casey Pte Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "045-24705099",
+        "pieces": 1,
+        "weight": 35.0,
+        "destination": "AMS",
+        "consignee": "Patterson Pacific LLC",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

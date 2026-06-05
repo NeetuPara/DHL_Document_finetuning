@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0158",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kayla West",
+    "addressee_company": "Miller Tech Inc.",
+    "addressee_address": "59401 Andrew Park, Farrellside, AZ 49991, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 13.481,
+    "total_value": 4713.28,
+    "currency": "CAD",
+    "issue_date": "2025-09-20",
+    "reference": "REF-186263",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.387,
+        "value": 165.75,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 19,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.315,
+        "value": 1055.64,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 11,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.353,
+        "value": 712.47,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 16,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.712,
+        "value": 1703.84,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 11,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.714,
+        "value": 1075.58,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_name": "Dean Ewing",
+    "sender_company": "Commerce Holland Pte Ltd",
+    "sender_address": "340 Tammy Hollow, Mcdonaldfurt, MN 31379, India",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 47.44,
+    "tracking_number": "DK414382463SW"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "coo_0011",
+  "document_class": "Certificate of Origin",
+  "format_variant": "FTA-USMCA-Numbered-Fields",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202412-5376",
+    "exporter_name": "Martinez Pacific S.A.",
+    "exporter_address": "483 Andrew Gateway Suite 827, West Carolyn, PA 82339, Switzerland",
+    "exporter_country": "Switzerland",
+    "consignee_name": "Martinez International GmbH",
+    "consignee_address": "USCGC Owens, FPO AE 72419, Sweden",
+    "consignee_country": "Sweden",
+    "country_of_origin": "Switzerland",
+    "country_of_destination": "Sweden",
+    "bl_or_awb": "160-55796340",
+    "issue_date": "2024-05-31",
+    "certifier_name": "Donald James",
+    "goods": [
+      {
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "hs_code": "4016.93.00",
+        "qty": 261,
+        "unit": "PKG",
+        "weight_kg": 265.05,
+        "origin_criterion": "E",
+        "value": 11282.0
+      },
+      {
+        "description": "Paper Products - Packaging Cartons",
+        "hs_code": "4819.10.00",
+        "qty": 38,
+        "unit": "CTN",
+        "weight_kg": 74.57,
+        "origin_criterion": "A",
+        "value": 429.07
+      },
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 499,
+        "unit": "KGS",
+        "weight_kg": 499.0,
+        "origin_criterion": "B",
+        "value": 5738.91
+      }
+    ],
+    "fta_agreement": "USMCA",
+    "blanket_period_from": "2024-05-16",
+    "blanket_period_to": "2024-06-25",
+    "producer_name": "Commerce Khan B.V.",
+    "producer_country": "Brazil"
+  }
+}

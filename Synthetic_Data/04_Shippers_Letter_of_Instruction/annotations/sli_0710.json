@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0710",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202112-3512",
+    "usppi_name": "Hampton Tech Corp.",
+    "usppi_address": "60456 Jackson Avenue Apt. 852, New Peter, TN 61720, France",
+    "usppi_country": "France",
+    "ein": "18-6706177",
+    "consignee_name": "Global Long Inc.",
+    "consignee_address": "USNV Christensen, FPO AA 75397, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Industry Leonard B.V.",
+    "forwarder": "Expeditors",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Christopher Nguyen",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/31",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 191,
+        "unit": "PCS",
+        "weight_kg": 143.93,
+        "value_usd": 5697.52
+      },
+      {
+        "marks": "SLI/14",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 30,
+        "unit": "CTN",
+        "weight_kg": 76.11,
+        "value_usd": 1869.84
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 29,
+        "unit": "CTN",
+        "weight_kg": 70.46,
+        "value_usd": 259.69
+      },
+      {
+        "marks": "EXP/1",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 138,
+        "unit": "PCS",
+        "weight_kg": 106.17,
+        "value_usd": 173494.48
+      },
+      {
+        "marks": "ABC/46",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 178,
+        "unit": "PCS",
+        "weight_kg": 19.3,
+        "value_usd": 23448.69
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 81,
+        "unit": "KGS",
+        "weight_kg": 81.0,
+        "value_usd": 1548.08
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 120,
+        "unit": "PKG",
+        "weight_kg": 231.52,
+        "value_usd": 2384.15
+      },
+      {
+        "marks": "ABC/35",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 106,
+        "unit": "PCS",
+        "weight_kg": 1587.51,
+        "value_usd": 28245.41
+      }
+    ],
+    "total_weight_kg": 2316.0,
+    "total_value_usd": 236947.86,
+    "service": "Express Courier",
+    "named_port": "Paris CDG",
+    "insurance_value_usd": 2878.25,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-780649",
+    "destination_country": "Singapore"
+  }
+}

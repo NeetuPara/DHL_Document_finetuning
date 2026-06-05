@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0849",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202106-7452",
+    "usppi_name": "Trade Owens Ltd",
+    "usppi_address": "8138 James Flat Apt. 390, South Brandonhaven, WY 60441, United States",
+    "usppi_country": "United States",
+    "ein": "41-3258110",
+    "consignee_name": "Alvarez International Co.",
+    "consignee_address": "97104 Jonathan Forest Suite 443, Lake Kaylaview, WY 59402, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Pena Tech GmbH",
+    "forwarder": "Panalpina",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Cynthia Mckenzie",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/39",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 13,
+        "unit": "LTR",
+        "weight_kg": 12.76,
+        "value_usd": 321.18
+      },
+      {
+        "marks": "EXP/28",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 71,
+        "unit": "PCS",
+        "weight_kg": 62.8,
+        "value_usd": 187.31
+      }
+    ],
+    "total_weight_kg": 75.56,
+    "total_value_usd": 508.49,
+    "vessel": "PIL PACIFIC",
+    "voyage": "428W",
+    "booking_ref": "BKG-454939",
+    "bl_number": "EGLV880257133",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Hong Kong, HK",
+    "container_number": "AUUE3198419",
+    "seal_number": "CL603749",
+    "container_type": "45'HC",
+    "cbm": 2.827
+  }
+}

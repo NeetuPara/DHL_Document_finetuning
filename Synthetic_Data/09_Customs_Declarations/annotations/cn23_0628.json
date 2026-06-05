@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0628",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Steven Bray",
+    "addressee_company": "Evans Pacific B.V.",
+    "addressee_address": "380 Gutierrez Mountains, Loganstad, UT 39935, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 5.11,
+    "total_value": 3158.81,
+    "currency": "CAD",
+    "issue_date": "2026-01-26",
+    "reference": "REF-989749",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.91,
+        "value": 1029.9,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 15,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.988,
+        "value": 2042.25,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 14,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.212,
+        "value": 86.66,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "Virginia Brown",
+    "sender_company": "Industry Perry Ltd",
+    "sender_address": "1696 Mitchell Light, South Allison, MP 13831, United States",
+    "sender_phone": "594-825-1221x782",
+    "sender_email": "ryankristina@example.org",
+    "addressee_phone": "416.569.6765",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 3474.69,
+    "postal_charges": 55.95,
+    "tracking_number": "HJ764414553EM"
+  }
+}

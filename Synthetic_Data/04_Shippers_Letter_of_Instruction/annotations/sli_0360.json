@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0360",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202202-9931",
+    "usppi_name": "Global Carter Inc.",
+    "usppi_address": "706 Casey Mews, South Lindamouth, MT 38419, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "58-2095314",
+    "consignee_name": "Woods International Pte Ltd",
+    "consignee_address": "8663 Alec Groves, Velasquezberg, VT 71484, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Industry Gibson Co.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DPU",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Cheryl Gonzalez",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/9",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 198,
+        "unit": "PCS",
+        "weight_kg": 1744.12,
+        "value_usd": 74094.6
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 132,
+        "unit": "BOX",
+        "weight_kg": 72.23,
+        "value_usd": 10856.99
+      },
+      {
+        "marks": "SLI/15",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 147,
+        "unit": "KGS",
+        "weight_kg": 147.0,
+        "value_usd": 366.99
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 110,
+        "unit": "CTN",
+        "weight_kg": 154.9,
+        "value_usd": 7649.36
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 10,
+        "unit": "PKG",
+        "weight_kg": 28.33,
+        "value_usd": 656.68
+      },
+      {
+        "marks": "SLI/19",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 51,
+        "unit": "LTR",
+        "weight_kg": 51.55,
+        "value_usd": 787.68
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 95,
+        "unit": "CTN",
+        "weight_kg": 158.09,
+        "value_usd": 351.99
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 100,
+        "unit": "PCS",
+        "weight_kg": 46.31,
+        "value_usd": 23800.46
+      }
+    ],
+    "total_weight_kg": 2402.53,
+    "total_value_usd": 118564.75,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "194E",
+    "booking_ref": "BKG-299608",
+    "bl_number": "COSU700107829",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Los Angeles, US",
+    "container_number": "QBRK8186564",
+    "seal_number": "BL273709",
+    "container_type": "20'GP",
+    "cbm": 53.242
+  }
+}

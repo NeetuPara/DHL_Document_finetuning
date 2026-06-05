@@ -1,0 +1,43 @@
+{
+  "document_id": "hbl_0123",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU269480589",
+    "shipper_name": "Simmons International Corp.",
+    "shipper_address": "673 Anderson Pine Suite 992, Lake Cindy, LA 84969, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Ryan Pacific S.A.",
+    "consignee_address": "14036 Rebecca Centers, West Steveshire, KY 72670, Australia",
+    "consignee_country": "Australia",
+    "notify_party_name": "Jackson Pacific Inc.",
+    "notify_party_address": "2371 Julian Orchard, East Michael, NM 71415, Hong Kong",
+    "vessel": "CSCL GLOBE",
+    "voyage": "520S",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2024-05-14",
+    "issue_place": "Antwerp",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "ZWGF7642938",
+        "seal_no": "CL922105",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 183,
+    "package_type": "Bundle",
+    "gross_weight_kg": 10624.0,
+    "net_weight_kg": 9404.5,
+    "cbm": 15.357,
+    "marks_and_numbers": "ABC/12"
+  }
+}

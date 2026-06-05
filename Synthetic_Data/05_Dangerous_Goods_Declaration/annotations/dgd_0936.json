@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0936",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Harris International Corp.",
+    "shipper_address": "54254 Wang Meadow, North Davidfurt, ND 99351, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Industry Banks Inc.",
+    "consignee_address": "134 Sierra Green Apt. 104, Lake Tonyachester, FL 75936, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+12 427-936-4037",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 4,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 66.15,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-650823",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 44,
+        "pkg_type": "Steel Drum",
+        "net_qty": 1.54,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-328016",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "George Humphrey",
+    "signature_date": "2026-04-19",
+    "signature_place": "Canada",
+    "awb_number": "160-35574009",
+    "flight_number": "DL773",
+    "departure_airport_code": "AMS",
+    "departure_airport_name": "Amsterdam Schiphol",
+    "destination_airport_code": "CDG",
+    "destination_airport_name": "Paris CDG",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

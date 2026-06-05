@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0405",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202409-4068",
+    "usppi_name": "Pacific Friedman Corp.",
+    "usppi_address": "008 Stafford Via Apt. 316, West William, VA 82789, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "75-4609693",
+    "consignee_name": "Nash Industry B.V.",
+    "consignee_address": "5325 Madison Drive Suite 322, Tiffanyside, IN 55339, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Lee Tech AG",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Joseph Tate",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/46",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 128,
+        "unit": "PKG",
+        "weight_kg": 208.38,
+        "value_usd": 10465.28
+      },
+      {
+        "marks": "SLI/35",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 15,
+        "unit": "BOX",
+        "weight_kg": 15.17,
+        "value_usd": 729.25
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 69,
+        "unit": "PCS",
+        "weight_kg": 837.61,
+        "value_usd": 8585.26
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 168,
+        "unit": "PCS",
+        "weight_kg": 23.54,
+        "value_usd": 4660.83
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 56,
+        "unit": "PCS",
+        "weight_kg": 71.52,
+        "value_usd": 176.42
+      }
+    ],
+    "total_weight_kg": 1156.22,
+    "total_value_usd": 24617.04,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "750N",
+    "booking_ref": "BKG-599341",
+    "bl_number": "EGLV357978321",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Rotterdam, NL",
+    "container_number": "ORWJ2936179",
+    "seal_number": "CL800417",
+    "container_type": "40'GP",
+    "cbm": 13.911
+  }
+}

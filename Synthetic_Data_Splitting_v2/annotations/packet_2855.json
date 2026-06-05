@@ -1,0 +1,101 @@
+{
+  "packet_id": "packet_2855",
+  "total_pages": 10,
+  "n_documents": 9,
+  "class_sequence": [
+    "Commercial Invoice",
+    "Packing List",
+    "House Airway Bill",
+    "Cargo Manifest",
+    "Customs Declaration",
+    "Certificate of Origin",
+    "Dangerous Goods Declaration",
+    "Dangerous Goods Declaration",
+    "Power of Attorney"
+  ],
+  "task": "splitting",
+  "note": "is_multipage_doc=true means consecutive pages are CONTINUATION of same document instance.",
+  "documents": [
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "commercial_invoice_0387.pdf"
+    },
+    {
+      "doc_class": "Packing List",
+      "class_index": 8,
+      "page_start": 2,
+      "page_end": 3,
+      "n_pages": 2,
+      "is_multipage_doc": true,
+      "source_file": "pl_mp_0013.pdf"
+    },
+    {
+      "doc_class": "House Airway Bill",
+      "class_index": 7,
+      "page_start": 4,
+      "page_end": 4,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "hawb_0029.pdf"
+    },
+    {
+      "doc_class": "Cargo Manifest",
+      "class_index": 10,
+      "page_start": 5,
+      "page_end": 5,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "manifest_0118.pdf"
+    },
+    {
+      "doc_class": "Customs Declaration",
+      "class_index": 9,
+      "page_start": 6,
+      "page_end": 6,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "cn23_0099.pdf"
+    },
+    {
+      "doc_class": "Certificate of Origin",
+      "class_index": 3,
+      "page_start": 7,
+      "page_end": 7,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "coo_0816.pdf"
+    },
+    {
+      "doc_class": "Dangerous Goods Declaration",
+      "class_index": 5,
+      "page_start": 8,
+      "page_end": 8,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "dgd_0025.pdf"
+    },
+    {
+      "doc_class": "Dangerous Goods Declaration",
+      "class_index": 5,
+      "page_start": 9,
+      "page_end": 9,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "dgd_0782.pdf"
+    },
+    {
+      "doc_class": "Power of Attorney",
+      "class_index": 12,
+      "page_start": 10,
+      "page_end": 10,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "poa_0887.pdf"
+    }
+  ]
+}

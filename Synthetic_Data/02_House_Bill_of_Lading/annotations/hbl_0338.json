@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0338",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU732690285",
+    "shipper_name": "Sanchez Global Co.",
+    "shipper_address": "58626 Carolyn Vista Suite 421, Port Erinton, PW 37206, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Lin International Corp.",
+    "consignee_address": "657 Nicholas Parks Suite 622, Gomezport, AK 02944, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party_name": "Pacific Watts Pte Ltd",
+    "notify_party_address": "83559 Jeremy Courts Apt. 937, North Carriehaven, AZ 04671, France",
+    "vessel": "EVER GOLDEN",
+    "voyage": "793E",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2025-04-27",
+    "issue_place": "Antwerp",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "HSUY2490108",
+        "seal_no": "CL538056",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "UGEQ9807199",
+        "seal_no": "SL827931",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "XTLO6383407",
+        "seal_no": "CL545406",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "RAGF0300389",
+        "seal_no": "SL487919",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "number_of_packages": 218,
+    "package_type": "Crate",
+    "gross_weight_kg": 2222.1,
+    "net_weight_kg": 1974.1,
+    "cbm": 15.079,
+    "marks_and_numbers": "XYZ/6"
+  }
+}

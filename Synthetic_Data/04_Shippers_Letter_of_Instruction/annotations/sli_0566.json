@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0566",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202207-4359",
+    "usppi_name": "Tech Chambers Co.",
+    "usppi_address": "049 Howell Meadow Apt. 946, Connorchester, ID 92479, Italy",
+    "usppi_country": "Italy",
+    "ein": "10-4972990",
+    "consignee_name": "Pacific Lewis Corp.",
+    "consignee_address": "3357 Robert Plaza, Kennedyborough, NC 05938, United States",
+    "consignee_country": "United States",
+    "notify_party": "Kennedy Global LLC",
+    "forwarder": "Panalpina",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Jill Boyd MD",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/1",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 121,
+        "unit": "LTR",
+        "weight_kg": 111.9,
+        "value_usd": 1129.64
+      },
+      {
+        "marks": "SLI/46",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 138,
+        "unit": "PCS",
+        "weight_kg": 49.34,
+        "value_usd": 16242.54
+      },
+      {
+        "marks": "SLI/37",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 119,
+        "unit": "PCS",
+        "weight_kg": 1651.37,
+        "value_usd": 73574.24
+      },
+      {
+        "marks": "ABC/14",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 162,
+        "unit": "CTN",
+        "weight_kg": 776.87,
+        "value_usd": 8536.4
+      }
+    ],
+    "total_weight_kg": 2589.48,
+    "total_value_usd": 99482.82,
+    "service": "LCL Ocean",
+    "named_port": "Tokyo, JP",
+    "insurance_value_usd": 20797.61,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "United States"
+  }
+}

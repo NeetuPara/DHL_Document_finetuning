@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0807",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU362818567",
+    "shipper_name": "Tech Taylor Corp.",
+    "shipper_address": "1447 Sean Estate Suite 230, Isaacbury, MO 71403, India",
+    "shipper_country": "India",
+    "consignee_name": "Lynch Global AG",
+    "consignee_address": "4232 Robert Ports, New Leah, PA 19211, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party_name": "Shaw Industry AG",
+    "notify_party_address": "36858 Jared Cliffs, Edwardsland, MI 04007, Spain",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "740W",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2026-04-05",
+    "issue_place": "Long Beach",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "EKUY3187837",
+        "seal_no": "SL153875",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "USBF4022840",
+        "seal_no": "BL650400",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "DJSJ1736811",
+        "seal_no": "SL832935",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 397,
+    "package_type": "Case",
+    "gross_weight_kg": 1805.4,
+    "net_weight_kg": 1740.0,
+    "cbm": 47.437,
+    "marks_and_numbers": "ABC/24"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0299",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "John White",
+    "addressee_company": "Tech Hodge Pte Ltd",
+    "addressee_address": "0868 Anthony Cliff Apt. 808, Lake Rubenton, OR 18425, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 6.129,
+    "total_value": 762.64,
+    "currency": "CNY",
+    "issue_date": "2026-05-06",
+    "reference": "REF-944467",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.234,
+        "value": 574.8,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 2,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.895,
+        "value": 187.84,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_name": "Nicholas Rivera",
+    "sender_company": "Nelson Commerce Corp.",
+    "sender_address": "964 Kim Roads Apt. 255, South Amberside, GU 75066, Sweden",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 38.98,
+    "tracking_number": "DR928395422ZC"
+  }
+}

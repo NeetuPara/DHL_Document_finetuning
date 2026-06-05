@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0974",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Sara Hardy",
+    "addressee_company": "Patton Pacific S.A.",
+    "addressee_address": "101 Miller Springs Apt. 406, Port Crystalland, WI 78424, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 6.575,
+    "total_value": 777.24,
+    "currency": "CNY",
+    "issue_date": "2026-02-22",
+    "reference": "REF-944365",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.661,
+        "value": 156.78,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 3,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.661,
+        "value": 267.09,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 3,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.253,
+        "value": 353.37,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Betty Dunn",
+    "sender_company": "Mack Pacific GmbH",
+    "sender_address": "633 Owens Hollow, Adamstad, KS 72643, United States",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 11.58,
+    "tracking_number": "GQ332902129BS"
+  }
+}

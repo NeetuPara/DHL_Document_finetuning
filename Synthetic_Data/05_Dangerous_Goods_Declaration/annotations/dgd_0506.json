@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0506",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Smith AG",
+    "shipper_address": "46663 Scott Parkways, Lake Thomasberg, DC 46656, France",
+    "shipper_country": "France",
+    "consignee_name": "Global Berry Inc.",
+    "consignee_address": "979 Jones Cliffs Suite 830, Williamfort, PW 25158, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+2 804-759-1066",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 49,
+        "pkg_type": "Steel Drum",
+        "net_qty": 89.34,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "William Mitchell",
+    "signature_date": "2026-05-11",
+    "signature_place": "France",
+    "vessel": "MSC GULSUN",
+    "voyage": "623W",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Dubai, AE"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0572",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU226463159",
+    "shipper_name": "Buck Global B.V.",
+    "shipper_address": "890 Sullivan Locks, West Yesenia, HI 42263, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Gibbs International Inc.",
+    "consignee_address": "673 Ryan Harbor Suite 300, Holmeschester, IA 83584, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party_name": "Global May S.A.",
+    "notify_party_address": "057 Steven Island Apt. 617, Garciamouth, NJ 15819, Germany",
+    "vessel": "EVER GOLDEN",
+    "voyage": "708S",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2025-01-30",
+    "issue_place": "Colombo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "YGKZ5343847",
+        "seal_no": "BL480521",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "OBDB9751138",
+        "seal_no": "SL431829",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "ZSLH9200549",
+        "seal_no": "CL775525",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "XFWC1910232",
+        "seal_no": "CL345116",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 91,
+    "package_type": "Bag",
+    "gross_weight_kg": 11474.7,
+    "net_weight_kg": 10828.9,
+    "cbm": 7.243,
+    "marks_and_numbers": "GLB/29"
+  }
+}

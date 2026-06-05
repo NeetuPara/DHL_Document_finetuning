@@ -1,0 +1,61 @@
+{
+  "document_id": "vgm_0941",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Russo Tech Inc.",
+    "shipper_address": "043 Karen Ville, Millerfort, MP 14789, United States",
+    "shipper_country": "United States",
+    "container_number": "NSTC4730043",
+    "seal_number": "CL636978",
+    "container_size": "45'HC",
+    "iso_type_code": "L5G0",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 13998.4,
+    "packing_materials_kg": 305.0,
+    "vgm_kg": 19103.4,
+    "vessel": "ONE INNOVATION",
+    "voyage": "379W",
+    "bl_number": "EGLV476127435",
+    "booking_reference": "BKG-474342",
+    "weighing_scale_type": "Certified Electronic Scale",
+    "scale_serial": "Unit-15096",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-15",
+    "signature_date": "2026-05-13",
+    "signatory_name": "Lindsey Anderson",
+    "signatory_title": "Operations Director",
+    "number_of_packages": 4,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Cylinder",
+        "n_units": 13,
+        "gross_wt_kg": 4148.5
+      },
+      {
+        "item_no": 2,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Crate",
+        "n_units": 11,
+        "gross_wt_kg": 3225.9
+      },
+      {
+        "item_no": 3,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Pallet",
+        "n_units": 20,
+        "gross_wt_kg": 2101.4
+      },
+      {
+        "item_no": 4,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Cylinder",
+        "n_units": 13,
+        "gross_wt_kg": 4522.6
+      }
+    ]
+  }
+}

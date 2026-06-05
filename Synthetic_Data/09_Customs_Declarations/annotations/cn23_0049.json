@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0049",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Eric Phillips",
+    "addressee_company": "Trade Smith GmbH",
+    "addressee_address": "6474 Bell Loop Apt. 173, Laurenmouth, KS 80582, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 3.04,
+    "total_value": 434.12,
+    "currency": "GBP",
+    "issue_date": "2025-08-19",
+    "reference": "REF-453903",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.04,
+        "value": 434.12,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_name": "Tara Dorsey",
+    "sender_company": "Miles Global GmbH",
+    "sender_address": "21713 Kelly Valley, New Adammouth, NJ 90468, South Korea",
+    "sender_phone": "330.876.9616x75519",
+    "sender_email": "wrightregina@example.com",
+    "addressee_phone": "+1-972-700-8039x8478",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 477.53,
+    "postal_charges": 41.9,
+    "tracking_number": "VN241612422WK"
+  }
+}

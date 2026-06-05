@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0413",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG972119575",
+    "shipper_name": "International Arnold B.V.",
+    "shipper_address": "025 Atkins Station Suite 979, Pedromouth, GA 64807, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Mitchell Industry LLC",
+    "consignee_address": "13382 Adam Burg, Dustinhaven, MA 82631, Spain",
+    "consignee_country": "Spain",
+    "notify_party_name": "Hahn International Co.",
+    "notify_party_address": "794 Tina Village Apt. 575, Christensenville, UT 77460, Malaysia",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "843N",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2025-02-06",
+    "issue_place": "Antwerp",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "JPCX1052103",
+        "seal_no": "SL827784",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "WQDW8268738",
+        "seal_no": "BL576903",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "QMBU5557356",
+        "seal_no": "SL628248",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "WHQT2365926",
+        "seal_no": "CL756249",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 352,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 9863.8,
+    "net_weight_kg": 9411.8,
+    "cbm": 36.822,
+    "marks_and_numbers": "XYZ/9"
+  }
+}

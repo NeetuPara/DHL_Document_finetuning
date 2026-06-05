@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0387",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Stewart Global Co.",
+    "shipper_address": "407 Tami Spring, Port Stevenmouth, OK 25681, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Commerce Gonzalez LLC",
+    "consignee_address": "085 Brown Plains, East Nathaniel, NY 06186, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+98 832-430-5509",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 46,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 15.83,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-465647",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 43,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 12.98,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-252652",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Deanna Edwards",
+    "signature_date": "2026-04-20",
+    "signature_place": "Poland",
+    "awb_number": "125-96973913",
+    "flight_number": "UA6727",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "HKG",
+    "destination_airport_name": "Hong Kong International",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

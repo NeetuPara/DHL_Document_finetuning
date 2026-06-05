@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0674",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202401-9653",
+    "usppi_name": "Commerce Thornton AG",
+    "usppi_address": "4002 Heath Glens, South Alexville, AL 37867, Spain",
+    "usppi_country": "Spain",
+    "ein": "45-6459104",
+    "consignee_name": "Tech Jones Inc.",
+    "consignee_address": "324 Carlos Row, South Soniamouth, GU 57068, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Page Commerce GmbH",
+    "forwarder": "DB Schenker",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Michael Campbell",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/26",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 10,
+        "unit": "KGS",
+        "weight_kg": 10.0,
+        "value_usd": 55.45
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 176,
+        "unit": "LTR",
+        "weight_kg": 174.05,
+        "value_usd": 3142.58
+      },
+      {
+        "marks": "SLI/6",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 173,
+        "unit": "BOX",
+        "weight_kg": 274.17,
+        "value_usd": 7665.02
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 32,
+        "unit": "MTR",
+        "weight_kg": 35.18,
+        "value_usd": 409.22
+      }
+    ],
+    "total_weight_kg": 493.4,
+    "total_value_usd": 11272.27,
+    "service": "LCL Ocean",
+    "named_port": "Tanjung Pelepas, MY",
+    "insurance_value_usd": 28585.78,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-991323",
+    "destination_country": "South Korea"
+  }
+}

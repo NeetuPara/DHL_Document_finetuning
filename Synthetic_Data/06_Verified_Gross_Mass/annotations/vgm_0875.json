@@ -1,0 +1,75 @@
+{
+  "document_id": "vgm_0875",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Industry Sutton S.A.",
+    "shipper_address": "1188 Hansen Crossroad, Kennethstad, GU 89015, Germany",
+    "shipper_country": "Germany",
+    "container_number": "BHVY5876809",
+    "seal_number": "SL567868",
+    "container_size": "20'GP",
+    "iso_type_code": "22G0",
+    "tare_weight_kg": 2200,
+    "cargo_weight_kg": 5882.1,
+    "packing_materials_kg": 333.4,
+    "vgm_kg": 8415.5,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "450W",
+    "bl_number": "MAEU369679030",
+    "booking_reference": "BKG-410855",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-90260",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-24",
+    "signature_date": "2026-05-09",
+    "signatory_name": "Tracy Garcia",
+    "signatory_title": "Export Manager",
+    "number_of_packages": 6,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Bundle",
+        "n_units": 9,
+        "gross_wt_kg": 650.5
+      },
+      {
+        "item_no": 2,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Bundle",
+        "n_units": 7,
+        "gross_wt_kg": 60.0
+      },
+      {
+        "item_no": 3,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Drum",
+        "n_units": 13,
+        "gross_wt_kg": 789.2
+      },
+      {
+        "item_no": 4,
+        "description": "Textile Fabrics - Woven Polyester",
+        "pkg_type": "Drum",
+        "n_units": 15,
+        "gross_wt_kg": 90.8
+      },
+      {
+        "item_no": 5,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Pallet",
+        "n_units": 7,
+        "gross_wt_kg": 2431.0
+      },
+      {
+        "item_no": 6,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Bag",
+        "n_units": 16,
+        "gross_wt_kg": 1860.6
+      }
+    ]
+  }
+}

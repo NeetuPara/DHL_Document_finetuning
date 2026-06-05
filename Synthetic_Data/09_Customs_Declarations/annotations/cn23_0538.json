@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0538",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Terry Cooper",
+    "addressee_company": "Owens Global AG",
+    "addressee_address": "473 Sylvia Burgs, South Troy, FM 03174, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 17.589,
+    "total_value": 4965.36,
+    "currency": "SGD",
+    "issue_date": "2025-06-17",
+    "reference": "REF-999839",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.176,
+        "value": 435.69,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 5,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.89,
+        "value": 550.35,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 20,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.389,
+        "value": 272.0,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 12,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.019,
+        "value": 1394.16,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 13,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.182,
+        "value": 124.41,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 17,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.933,
+        "value": 2188.75,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "David Huff",
+    "sender_company": "Ramirez Tech Corp.",
+    "sender_address": "PSC 1082, Box 1249, APO AA 45648, Poland",
+    "sender_phone": "001-935-860-3252x0616",
+    "sender_email": "njohnson@example.com",
+    "addressee_phone": "+1-950-739-5787x41321",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 17.55,
+    "tracking_number": "PH027327330UI"
+  }
+}

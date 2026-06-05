@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0342",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202109-3945",
+    "usppi_name": "Valencia International Inc.",
+    "usppi_address": "2532 Erin Track, Pagetown, AZ 12476, United States",
+    "usppi_country": "United States",
+    "ein": "69-3777789",
+    "consignee_name": "Commerce Salazar Ltd",
+    "consignee_address": "USNV Willis, FPO AA 99058, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Global Anderson Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Michael Horn",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/22",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 59,
+        "unit": "SET",
+        "weight_kg": 200.58,
+        "value_usd": 4017.96
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 189,
+        "unit": "BOX",
+        "weight_kg": 186.51,
+        "value_usd": 8847.96
+      }
+    ],
+    "total_weight_kg": 387.09,
+    "total_value_usd": 12865.92,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "574N",
+    "booking_ref": "BKG-114324",
+    "bl_number": "MAEU610149906",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "KHPD6775093",
+    "seal_number": "BL576198",
+    "container_type": "40'HC",
+    "cbm": 10.277
+  }
+}

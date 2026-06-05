@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0104",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202503-4864",
+    "usppi_name": "International Murray Inc.",
+    "usppi_address": "194 Cohen Land, Virginiaview, MS 85062, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "93-6656524",
+    "consignee_name": "Commerce Smith S.A.",
+    "consignee_address": "9688 Rodgers Unions Apt. 695, Parkschester, NC 36510, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Yang Pacific B.V.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Julie Harris",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/11",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 95,
+        "unit": "PKG",
+        "weight_kg": 229.07,
+        "value_usd": 998.09
+      },
+      {
+        "marks": "EXP/23",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 114,
+        "unit": "PCS",
+        "weight_kg": 95.14,
+        "value_usd": 26963.35
+      },
+      {
+        "marks": "SLI/33",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 182,
+        "unit": "PCS",
+        "weight_kg": 188.92,
+        "value_usd": 5335.26
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 66,
+        "unit": "KGS",
+        "weight_kg": 66.0,
+        "value_usd": 1280.55
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 110,
+        "unit": "CTN",
+        "weight_kg": 124.74,
+        "value_usd": 1516.72
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 192,
+        "unit": "PCS",
+        "weight_kg": 15.73,
+        "value_usd": 7081.68
+      }
+    ],
+    "total_weight_kg": 719.6,
+    "total_value_usd": 43175.65,
+    "service": "Ground",
+    "named_port": "Seoul Incheon",
+    "insurance_value_usd": 44422.07,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-518380",
+    "destination_country": "Germany"
+  }
+}

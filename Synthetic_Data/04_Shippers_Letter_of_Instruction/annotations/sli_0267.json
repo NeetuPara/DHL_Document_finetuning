@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0267",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202511-8068",
+    "usppi_name": "Olson Pacific Co.",
+    "usppi_address": "4577 Carr Loaf, Robinport, MA 14010, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "19-2942238",
+    "consignee_name": "Trade Bryant B.V.",
+    "consignee_address": "72863 Logan Road Suite 848, Amandaburgh, SD 84719, India",
+    "consignee_country": "India",
+    "notify_party": "Commerce Mercer Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIF",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "2B350",
+    "signatory_name": "Ryan Miller",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/30",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 43,
+        "unit": "PCS",
+        "weight_kg": 482.27,
+        "value_usd": 20855.87
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 144,
+        "unit": "LTR",
+        "weight_kg": 154.08,
+        "value_usd": 5520.13
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 154,
+        "unit": "SET",
+        "weight_kg": 586.41,
+        "value_usd": 21063.6
+      }
+    ],
+    "total_weight_kg": 1222.76,
+    "total_value_usd": 47439.6,
+    "vessel": "MSC GULSUN",
+    "voyage": "933N",
+    "booking_ref": "BKG-805046",
+    "bl_number": "YMLU892004893",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Los Angeles, US",
+    "container_number": "OYSK1089951",
+    "seal_number": "CL800135",
+    "container_type": "40'GP",
+    "cbm": 21.976
+  }
+}

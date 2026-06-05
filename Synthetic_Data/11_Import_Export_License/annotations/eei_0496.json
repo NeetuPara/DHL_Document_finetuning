@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0496",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "648-90178336-1",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2025-08-13",
+    "port_of_entry": "HOU - Houston",
+    "transport_mode": "Hand-Carried",
+    "carrier": "DHL Express",
+    "bl_awb": "020-47656146",
+    "importer_name": "International Mills Corp.",
+    "importer_ein": "85-9380557",
+    "consignee_name": "Carey Tech Corp.",
+    "customs_broker": "Pineda International Co.",
+    "broker_filer_code": "kSf",
+    "country_of_origin": "Malaysia",
+    "total_value": 162900.77,
+    "total_duty": 7389.12,
+    "currency": "SGD",
+    "signatory": "Kelly Mason",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "United States",
+        "qty": 497,
+        "unit": "KGS",
+        "entered_value": 4865.63,
+        "duty_rate": 12.2,
+        "duty_amount": 593.61,
+        "eccn": "EAR99",
+        "schedule_b": "2008.19.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Sweden",
+        "qty": 366,
+        "unit": "LTR",
+        "entered_value": 158035.14,
+        "duty_rate": 4.3,
+        "duty_amount": 6795.51,
+        "eccn": "9A515",
+        "schedule_b": "2901.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "coo_0020",
+  "document_class": "Certificate of Origin",
+  "format_variant": "FTA-USMCA-Numbered-Fields",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202203-3211",
+    "exporter_name": "Miller Tech Co.",
+    "exporter_address": "4298 Green Village Apt. 574, Williamchester, WY 74978, Hong Kong",
+    "exporter_country": "Hong Kong",
+    "consignee_name": "Baker Industry Corp.",
+    "consignee_address": "405 Ronald Burg Suite 202, Jordanmouth, LA 04565, Australia",
+    "consignee_country": "Australia",
+    "country_of_origin": "Hong Kong",
+    "country_of_destination": "Australia",
+    "bl_or_awb": "125-51965482",
+    "issue_date": "2024-12-18",
+    "certifier_name": "Cody Jordan",
+    "goods": [
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 498,
+        "unit": "KGS",
+        "weight_kg": 498.0,
+        "origin_criterion": "E",
+        "value": 6547.51
+      },
+      {
+        "description": "Paper Products - Packaging Cartons",
+        "hs_code": "4819.10.00",
+        "qty": 337,
+        "unit": "CTN",
+        "weight_kg": 658.84,
+        "origin_criterion": "A",
+        "value": 2524.98
+      },
+      {
+        "description": "Steel Products - Hot Rolled Coils",
+        "hs_code": "7208.37.00",
+        "qty": 481,
+        "unit": "KGS",
+        "weight_kg": 481.0,
+        "origin_criterion": "A",
+        "value": 325.44
+      }
+    ],
+    "fta_agreement": "CPTPP",
+    "blanket_period_from": "2024-09-05",
+    "blanket_period_to": "2025-04-06",
+    "producer_name": "Tech Mcguire Pte Ltd",
+    "producer_country": "Italy"
+  }
+}

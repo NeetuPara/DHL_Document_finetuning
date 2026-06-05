@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0621",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Moore S.A.",
+    "shipper_address": "6597 Sharp Common, East Joy, TN 96682, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Global Mitchell Pte Ltd",
+    "consignee_address": "11357 Lee Spurs Apt. 571, New Matthewview, MO 97414, Thailand",
+    "consignee_country": "Thailand",
+    "emergency_telephone": "+60 336-201-3989",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 40,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 80.93,
+        "qty_unit": "L",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-988354",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Justin Powell",
+    "signature_date": "2026-05-07",
+    "signature_place": "Poland",
+    "awb_number": "125-91254179",
+    "flight_number": "UA5513",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

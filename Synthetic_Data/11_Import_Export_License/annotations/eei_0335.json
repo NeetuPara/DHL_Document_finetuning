@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0335",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20260419092051",
+    "export_date": "2026-02-05",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Global Washington Pte Ltd",
+    "usppi_ein": "75-5276228",
+    "usppi_address": "5101 Bishop Spurs, North Jamesville, NC 51791, Hong Kong",
+    "ultimate_consignee": "Schneider Industry GmbH",
+    "intermediate_consignee": "Golden International Corp.",
+    "forwarding_agent": "Pacific Valenzuela S.A.",
+    "destination_country": "Mexico",
+    "carrier": "MSC",
+    "bl_awb": "006-61178661",
+    "total_value": 266325.37,
+    "currency": "JPY",
+    "signatory": "Mrs. Valerie Bailey",
+    "line_items": [
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Australia",
+        "qty": 236,
+        "unit": "LTR",
+        "entered_value": 85847.36,
+        "duty_rate": 22.5,
+        "duty_amount": 19315.66,
+        "eccn": "2B350",
+        "schedule_b": "2901.10.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "France",
+        "qty": 153,
+        "unit": "MTR",
+        "entered_value": 14707.89,
+        "duty_rate": 3.6,
+        "duty_amount": 529.48,
+        "eccn": "0A919",
+        "schedule_b": "5407.42.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Hong Kong",
+        "qty": 388,
+        "unit": "PCS",
+        "entered_value": 76063.52,
+        "duty_rate": 11.0,
+        "duty_amount": 8366.99,
+        "eccn": "3A992",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Belgium",
+        "qty": 380,
+        "unit": "PCS",
+        "entered_value": 89706.6,
+        "duty_rate": 0.2,
+        "duty_amount": 179.41,
+        "eccn": "1A002",
+        "schedule_b": "3926.90.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

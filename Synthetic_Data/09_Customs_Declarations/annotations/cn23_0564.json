@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0564",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Elizabeth Brown",
+    "addressee_company": "Kelley Global GmbH",
+    "addressee_address": "963 Lisa Streets, Lake Wayneport, NY 03046, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 10.682,
+    "total_value": 2435.35,
+    "currency": "EUR",
+    "issue_date": "2026-01-22",
+    "reference": "REF-110297",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.487,
+        "value": 297.55,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 15,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.946,
+        "value": 112.95,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 15,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.249,
+        "value": 2024.85,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_country": "Germany",
+    "port_of_entry": "Miami, FL",
+    "entry_number": "455-11767977-0",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 6.4,
+    "estimated_duty": 155.86,
+    "importer_ein": "43-0001938",
+    "customs_broker": "Patterson Commerce Corp."
+  }
+}

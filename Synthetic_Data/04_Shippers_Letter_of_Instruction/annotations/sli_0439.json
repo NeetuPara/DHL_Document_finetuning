@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0439",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202603-4141",
+    "usppi_name": "Lewis Pacific Inc.",
+    "usppi_address": "102 Gonzalez Fords, Samanthabury, MS 69960, China",
+    "usppi_country": "China",
+    "ein": "49-2462117",
+    "consignee_name": "Commerce Black Ltd",
+    "consignee_address": "051 Rebekah Stream, Katrinashire, IL 20542, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Trade Olsen Co.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Sarah Jones",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/17",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 56,
+        "unit": "SET",
+        "weight_kg": 170.13,
+        "value_usd": 3386.56
+      },
+      {
+        "marks": "EXP/40",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 130,
+        "unit": "PCS",
+        "weight_kg": 1449.34,
+        "value_usd": 7208.26
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 176,
+        "unit": "CTN",
+        "weight_kg": 325.84,
+        "value_usd": 1331.64
+      },
+      {
+        "marks": "EXP/27",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 89,
+        "unit": "CTN",
+        "weight_kg": 183.13,
+        "value_usd": 2170.35
+      },
+      {
+        "marks": "SLI/7",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 141,
+        "unit": "KGS",
+        "weight_kg": 141.0,
+        "value_usd": 225.88
+      },
+      {
+        "marks": "SLI/12",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 66,
+        "unit": "PCS",
+        "weight_kg": 10.23,
+        "value_usd": 6318.58
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 128,
+        "unit": "LTR",
+        "weight_kg": 120.51,
+        "value_usd": 2224.31
+      },
+      {
+        "marks": "SLI/49",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 15,
+        "unit": "PKG",
+        "weight_kg": 26.01,
+        "value_usd": 167.4
+      }
+    ],
+    "total_weight_kg": 2426.19,
+    "total_value_usd": 23032.98,
+    "service": "Express Courier",
+    "named_port": "Tokyo Narita",
+    "insurance_value_usd": 40083.91,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Germany"
+  }
+}

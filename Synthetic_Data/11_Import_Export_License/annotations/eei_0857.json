@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0857",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20231004941243",
+    "export_date": "2025-12-21",
+    "aes_option": "AES Filing",
+    "usppi_name": "Hicks Tech AG",
+    "usppi_ein": "61-6223896",
+    "usppi_address": "USNV Drake, FPO AA 00965, Australia",
+    "ultimate_consignee": "Global Chavez B.V.",
+    "intermediate_consignee": "Fox Tech Pte Ltd",
+    "forwarding_agent": "Commerce Burke LLC",
+    "destination_country": "Mexico",
+    "carrier": "Maersk",
+    "bl_awb": "176-12903021",
+    "total_value": 76780.1,
+    "currency": "EUR",
+    "signatory": "Casey Pope DDS",
+    "line_items": [
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Netherlands",
+        "qty": 45,
+        "unit": "PCS",
+        "entered_value": 12748.05,
+        "duty_rate": 5.7,
+        "duty_amount": 726.64,
+        "eccn": "2B350",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "South Korea",
+        "qty": 379,
+        "unit": "BOX",
+        "entered_value": 64032.05,
+        "duty_rate": 15.0,
+        "duty_amount": 9604.81,
+        "eccn": "7A994",
+        "schedule_b": "2936.90.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

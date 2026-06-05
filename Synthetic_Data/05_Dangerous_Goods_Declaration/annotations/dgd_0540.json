@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0540",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Mercado Inc.",
+    "shipper_address": "Unit 4734 Box 6657, DPO AA 83409, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Bender Tech GmbH",
+    "consignee_address": "062 Wilson Course, New Karlaport, OK 83273, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+7 479-150-1171",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 33,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 47.53,
+        "qty_unit": "g",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-307752",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 42,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 60.9,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Michael Lewis",
+    "signature_date": "2026-04-14",
+    "signature_place": "Belgium",
+    "awb_number": "045-54043275",
+    "flight_number": "DL7918",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International",
+    "non_dg_reason": "Excepted quantities (EQ) per IATA DGR 2.6"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0838",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202310-6148",
+    "usppi_name": "Trade Parker Corp.",
+    "usppi_address": "7800 Cohen Viaduct, Millerburgh, SC 10202, Spain",
+    "usppi_country": "Spain",
+    "ein": "44-6959399",
+    "consignee_name": "Rose Trade AG",
+    "consignee_address": "0455 Greene Alley Apt. 579, Port Ann, NV 70192, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Robinson Industry B.V.",
+    "forwarder": "Panalpina",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Elizabeth Walker",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/48",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 95,
+        "unit": "MTR",
+        "weight_kg": 33.9,
+        "value_usd": 1427.11
+      },
+      {
+        "marks": "SLI/46",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 53,
+        "unit": "PCS",
+        "weight_kg": 444.77,
+        "value_usd": 12686.01
+      }
+    ],
+    "total_weight_kg": 478.67,
+    "total_value_usd": 14113.12,
+    "service": "LCL Ocean",
+    "named_port": "Hamburg, DE",
+    "insurance_value_usd": 26874.0,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Netherlands"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0597",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202210-9449",
+    "usppi_name": "Tech Barron LLC",
+    "usppi_address": "148 Jonathan Road, East Michaelberg, OK 05619, India",
+    "usppi_country": "India",
+    "ein": "42-3118966",
+    "consignee_name": "International Pollard Pte Ltd",
+    "consignee_address": "20324 Danielle Islands Apt. 978, East Kimberly, SD 07184, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Rose Industry Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Vincent Dunn",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/30",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 53,
+        "unit": "CTN",
+        "weight_kg": 234.44,
+        "value_usd": 2913.69
+      },
+      {
+        "marks": "SLI/34",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 9,
+        "unit": "MTR",
+        "weight_kg": 10.45,
+        "value_usd": 158.62
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 106,
+        "unit": "PCS",
+        "weight_kg": 103.56,
+        "value_usd": 1439.68
+      },
+      {
+        "marks": "EXP/14",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 75,
+        "unit": "PCS",
+        "weight_kg": 580.55,
+        "value_usd": 37412.02
+      },
+      {
+        "marks": "EXP/41",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 168,
+        "unit": "KGS",
+        "weight_kg": 168.0,
+        "value_usd": 3617.65
+      },
+      {
+        "marks": "EXP/12",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 130,
+        "unit": "SET",
+        "weight_kg": 253.32,
+        "value_usd": 4364.2
+      },
+      {
+        "marks": "EXP/42",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 174,
+        "unit": "PCS",
+        "weight_kg": 3236.4,
+        "value_usd": 51186.75
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 118,
+        "unit": "PCS",
+        "weight_kg": 56.86,
+        "value_usd": 3757.59
+      }
+    ],
+    "total_weight_kg": 4643.58,
+    "total_value_usd": 104850.2,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "346N",
+    "booking_ref": "BKG-118980",
+    "bl_number": "YMLU205494861",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "New York, US",
+    "container_number": "AAMJ8284431",
+    "seal_number": "BL989284",
+    "container_type": "40'GP",
+    "cbm": 22.057
+  }
+}

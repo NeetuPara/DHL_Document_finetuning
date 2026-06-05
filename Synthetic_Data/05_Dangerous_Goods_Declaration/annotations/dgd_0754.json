@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0754",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Zhang B.V.",
+    "shipper_address": "346 Bryan Glens Apt. 607, New Brandon, OK 17679, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Pearson Tech LLC",
+    "consignee_address": "986 Emily Locks Suite 534, South Latoyaville, AS 80523, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+32 616-338-5465",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 2,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 55.77,
+        "qty_unit": "L",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-167642",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Elizabeth Benson",
+    "signature_date": "2026-04-29",
+    "signature_place": "United Kingdom",
+    "awb_number": "020-82418832",
+    "flight_number": "UA3331",
+    "flight_date": "2026-06-08",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson"
+  }
+}

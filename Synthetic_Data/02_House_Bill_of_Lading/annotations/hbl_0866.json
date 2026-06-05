@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0866",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU106823668",
+    "shipper_name": "Joseph Trade Co.",
+    "shipper_address": "5642 Kelly Springs, Lopezfurt, AS 70030, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Robinson Commerce S.A.",
+    "consignee_address": "277 Jared Viaduct Apt. 954, Port Stevenside, WY 89419, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "Blair Global AG",
+    "notify_party_address": "7653 Marisa Hollow Apt. 227, Debbieview, AZ 54777, Switzerland",
+    "vessel": "MADRID MAERSK",
+    "voyage": "946S",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2025-03-17",
+    "issue_place": "Antwerp",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "XZDY0866460",
+        "seal_no": "SL226332",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "VMET8773259",
+        "seal_no": "BL343092",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "OQFK8158291",
+        "seal_no": "SL154603",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "CMHI9616715",
+        "seal_no": "CL590389",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 296,
+    "package_type": "Roll",
+    "gross_weight_kg": 23512.7,
+    "net_weight_kg": 21158.1,
+    "cbm": 25.313,
+    "marks_and_numbers": "ABC/18"
+  }
+}

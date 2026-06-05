@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0188",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Edwards B.V.",
+    "shipper_address": "6660 Melissa Curve Suite 799, South Evan, CA 58971, China",
+    "shipper_country": "China",
+    "consignee_name": "International Norris Ltd",
+    "consignee_address": "2966 Gregory Land, Joelfurt, WI 73230, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+42 160-660-4626",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 37,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 95.02,
+        "qty_unit": "L",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-740026",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 20,
+        "pkg_type": "Steel Drum",
+        "net_qty": 56.2,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jeffery Gregory",
+    "signature_date": "2026-04-18",
+    "signature_place": "China",
+    "vessel": "ONE INNOVATION",
+    "voyage": "468W",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Hamburg, DE"
+  }
+}

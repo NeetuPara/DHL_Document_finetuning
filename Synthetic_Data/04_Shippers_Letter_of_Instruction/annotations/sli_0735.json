@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0735",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202411-9455",
+    "usppi_name": "Tech Hess LLC",
+    "usppi_address": "795 Andrew Extension, East Ashley, GU 26548, India",
+    "usppi_country": "India",
+    "ein": "31-2259640",
+    "consignee_name": "Clark International S.A.",
+    "consignee_address": "932 Brandi Extensions, South Reginaldmouth, GU 55177, United States",
+    "consignee_country": "United States",
+    "notify_party": "Young Pacific Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Jason Horn",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/42",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 49,
+        "unit": "PCS",
+        "weight_kg": 11.97,
+        "value_usd": 37984.36
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 23,
+        "unit": "PCS",
+        "weight_kg": 1.7,
+        "value_usd": 1271.68
+      },
+      {
+        "marks": "SLI/7",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 148,
+        "unit": "PCS",
+        "weight_kg": 1436.2,
+        "value_usd": 59067.55
+      }
+    ],
+    "total_weight_kg": 1449.87,
+    "total_value_usd": 98323.59,
+    "vessel": "YANG MING MYTH",
+    "voyage": "779W",
+    "booking_ref": "BKG-734942",
+    "bl_number": "OOLU220979119",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "New York, US",
+    "container_number": "VASC7754312",
+    "seal_number": "SL446595",
+    "container_type": "45'HC",
+    "cbm": 6.091
+  }
+}

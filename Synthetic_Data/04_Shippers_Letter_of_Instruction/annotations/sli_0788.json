@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0788",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202512-8752",
+    "usppi_name": "James Pacific GmbH",
+    "usppi_address": "440 Christy Bridge, Victoriahaven, TN 76765, Poland",
+    "usppi_country": "Poland",
+    "ein": "31-3229835",
+    "consignee_name": "Savage Industry Corp.",
+    "consignee_address": "00193 Turner Village, Allenmouth, WY 47384, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Brown Commerce Corp.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Nathaniel Nash",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/49",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 55,
+        "unit": "KGS",
+        "weight_kg": 55.0,
+        "value_usd": 83.08
+      },
+      {
+        "marks": "ABC/49",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 188,
+        "unit": "PCS",
+        "weight_kg": 1954.07,
+        "value_usd": 148813.68
+      }
+    ],
+    "total_weight_kg": 2009.07,
+    "total_value_usd": 148896.76,
+    "service": "Express Courier",
+    "named_port": "London Heathrow",
+    "insurance_value_usd": 47050.9,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-610211",
+    "destination_country": "Mexico"
+  }
+}

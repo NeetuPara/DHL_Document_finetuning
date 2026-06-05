@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0894",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-26928179",
+    "mawb_number": "057-52136163",
+    "shipper_name": "Industry Gilbert Corp.",
+    "shipper_address": "7607 Christina Passage, South Kylestad, IN 90648, Germany",
+    "consignee_name": "Morgan Commerce S.A.",
+    "consignee_address": "158 Martin Ports Apt. 226, Tylerview, KY 43096, Italy",
+    "agent_name": "Pacific Carter LLC",
+    "airport_departure": "JFK",
+    "airport_destination": "YYZ",
+    "currency": "USD",
+    "charge_code": "CC",
+    "declared_value_carriage": "CHF 13,738.39",
+    "declared_value_customs": "AUD 22,492.66",
+    "n_pieces": 7,
+    "gross_weight_kg": 181.0,
+    "chargeable_weight": 220.6,
+    "rate": 4.48,
+    "total_charge": 988.29,
+    "nature_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-01-01",
+    "signatory": "Joel Mathis",
+    "iata_code": "55-537",
+    "agent_cass": "2946-5554",
+    "consolidation_ref": "CONS-0695-625160",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-37612954",
+        "pieces": 12,
+        "weight": 58.6,
+        "destination": "ORD",
+        "consignee": "Silva Commerce Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "057-57434960",
+        "pieces": 9,
+        "weight": 24.6,
+        "destination": "MIA",
+        "consignee": "White Industry B.V.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "045-24631053",
+        "pieces": 16,
+        "weight": 21.1,
+        "destination": "DXB",
+        "consignee": "Reese Pacific Corp.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "160-26317343",
+        "pieces": 2,
+        "weight": 69.6,
+        "destination": "MIA",
+        "consignee": "Beck Commerce Inc.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "125-32024150",
+        "pieces": 18,
+        "weight": 39.4,
+        "destination": "ORD",
+        "consignee": "Howell Commerce Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "125-93154026",
+        "pieces": 18,
+        "weight": 65.5,
+        "destination": "ICN",
+        "consignee": "Global Booker B.V.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "125-26542103",
+        "pieces": 15,
+        "weight": 98.0,
+        "destination": "DXB",
+        "consignee": "Trade Cardenas Corp.",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

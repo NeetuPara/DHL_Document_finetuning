@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0549",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-69695048",
+    "mawb_number": "125-39937469",
+    "shipper_name": "Commerce Anderson Ltd",
+    "shipper_address": "702 Rodriguez Courts Apt. 449, East Ana, MA 31038, Hong Kong",
+    "consignee_name": "Pacific Jenkins LLC",
+    "consignee_address": "9220 Francis Oval Apt. 102, Loganland, NH 72010, Malaysia",
+    "agent_name": "Commerce Butler GmbH",
+    "airport_departure": "SIN",
+    "airport_destination": "JFK",
+    "currency": "USD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 8,
+    "gross_weight_kg": 405.1,
+    "chargeable_weight": 418.6,
+    "rate": 11.87,
+    "total_charge": 4968.78,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "HANDLING CODE: EAP",
+    "issue_date": "2026-04-29",
+    "signatory": "Roger Cooper",
+    "iata_code": "22-368",
+    "agent_cass": "0705-6913",
+    "consolidation_ref": "CONS-5982-436120",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-30058654",
+        "pieces": 19,
+        "weight": 87.1,
+        "destination": "MIA",
+        "consignee": "Pacific Williams Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "006-27960466",
+        "pieces": 1,
+        "weight": 63.5,
+        "destination": "DXB",
+        "consignee": "Rivera Commerce Inc.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "618-86381200",
+        "pieces": 14,
+        "weight": 54.5,
+        "destination": "SIN",
+        "consignee": "Johnson International Pte Ltd",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "006-46572905",
+        "pieces": 4,
+        "weight": 24.4,
+        "destination": "SYD",
+        "consignee": "Booker Industry Co.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "045-97005186",
+        "pieces": 1,
+        "weight": 69.9,
+        "destination": "CDG",
+        "consignee": "Tech Johnson Inc.",
+        "description": "Optical Equipment - Camera Lenses"
+      }
+    ]
+  }
+}

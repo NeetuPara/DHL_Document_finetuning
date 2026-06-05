@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0294",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-10756531",
+    "mawb_number": "085-57937090",
+    "shipper_name": "Trade Gallagher Inc.",
+    "shipper_address": "620 Smith Summit Apt. 104, East Travisberg, NH 65072, Brazil",
+    "consignee_name": "Tech Jones Co.",
+    "consignee_address": "4885 Randy Island, East Tyler, OK 27117, Malaysia",
+    "agent_name": "Global Curtis AG",
+    "airport_departure": "SYD",
+    "airport_destination": "LAX",
+    "currency": "GBP",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CHF 21,488.35",
+    "n_pieces": 31,
+    "gross_weight_kg": 496.9,
+    "chargeable_weight": 546.9,
+    "rate": 2.57,
+    "total_charge": 1405.53,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "HANDLING CODE: PER",
+    "issue_date": "2025-10-18",
+    "signatory": "Gary Graham",
+    "iata_code": "26-118",
+    "agent_cass": "1075-6488",
+    "consolidation_ref": "CONS-0119-785837",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-19539513",
+        "pieces": 16,
+        "weight": 72.2,
+        "destination": "HKG",
+        "consignee": "Pacific Green S.A.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "085-97071914",
+        "pieces": 4,
+        "weight": 97.4,
+        "destination": "HKG",
+        "consignee": "Industry Hamilton Co.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "618-88525277",
+        "pieces": 8,
+        "weight": 38.3,
+        "destination": "FRA",
+        "consignee": "Strickland Industry LLC",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "618-27148511",
+        "pieces": 12,
+        "weight": 26.9,
+        "destination": "MIA",
+        "consignee": "International Davis Pte Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "057-15825846",
+        "pieces": 10,
+        "weight": 93.2,
+        "destination": "HKG",
+        "consignee": "Industry Peters Inc.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "160-40834603",
+        "pieces": 17,
+        "weight": 70.1,
+        "destination": "MIA",
+        "consignee": "Ruiz International Corp.",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

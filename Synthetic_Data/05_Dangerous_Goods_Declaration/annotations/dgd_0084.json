@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0084",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Adams B.V.",
+    "shipper_address": "PSC 7810, Box 6832, APO AE 91074, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "York Pacific Ltd",
+    "consignee_address": "28289 Proctor Circles, Cynthiashire, MN 77895, Brazil",
+    "consignee_country": "Brazil",
+    "emergency_telephone": "+89 421-631-5563",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 42,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 26.98,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-495074",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 11,
+        "pkg_type": "Steel Drum",
+        "net_qty": 16.14,
+        "qty_unit": "mL",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-254963",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Joshua Williams",
+    "signature_date": "2026-04-29",
+    "signature_place": "United Kingdom",
+    "awb_number": "618-83320424",
+    "flight_number": "EK1595",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International",
+    "non_dg_reason": "Excepted quantities (EQ) per IATA DGR 2.6"
+  }
+}

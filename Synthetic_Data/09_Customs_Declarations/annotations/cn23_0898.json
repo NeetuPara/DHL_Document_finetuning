@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0898",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Robert Davis",
+    "addressee_company": "Pacific May Inc.",
+    "addressee_address": "0400 Jean Way Suite 290, Nicolehaven, MA 87857, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 4.763,
+    "total_value": 946.38,
+    "currency": "EUR",
+    "issue_date": "2025-12-26",
+    "reference": "REF-159051",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.127,
+        "value": 820.38,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 8,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.636,
+        "value": 126.0,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_name": "Christina Roy",
+    "sender_company": "Buchanan Commerce B.V.",
+    "sender_address": "875 Andrea Parkways Suite 850, East Caseychester, MN 10742, Canada",
+    "sender_phone": "(264)825-1145x312",
+    "sender_email": "ryanchaney@example.org",
+    "addressee_phone": "001-320-679-4333x4042",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 1041.02,
+    "postal_charges": 78.36,
+    "tracking_number": "MY453112371EA"
+  }
+}

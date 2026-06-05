@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0345",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-49149735",
+    "mawb_number": "020-86716710",
+    "shipper_name": "Berry Trade GmbH",
+    "shipper_address": "Unit 4895 Box 3540, DPO AA 33258, India",
+    "consignee_name": "Craig Trade Corp.",
+    "consignee_address": "608 Brian Brooks Suite 168, North Elizabethshire, VI 07425, Brazil",
+    "agent_name": "Clark Tech B.V.",
+    "airport_departure": "ICN",
+    "airport_destination": "JFK",
+    "currency": "CAD",
+    "charge_code": "CC",
+    "declared_value_carriage": "CNY 49,932.94",
+    "declared_value_customs": "NCV",
+    "n_pieces": 11,
+    "gross_weight_kg": 175.9,
+    "chargeable_weight": 183.3,
+    "rate": 2.26,
+    "total_charge": 414.26,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "HANDLING CODE: DGR",
+    "issue_date": "2025-08-07",
+    "signatory": "Mercedes Wolf",
+    "iata_code": "56-742",
+    "agent_cass": "6929-6244",
+    "consolidation_ref": "CONS-1196-040259",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-45636873",
+        "pieces": 3,
+        "weight": 61.2,
+        "destination": "PVG",
+        "consignee": "Hill Tech B.V.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "618-74750916",
+        "pieces": 19,
+        "weight": 60.5,
+        "destination": "DXB",
+        "consignee": "Jackson Pacific Corp.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "045-68039097",
+        "pieces": 11,
+        "weight": 77.3,
+        "destination": "PVG",
+        "consignee": "Ray Commerce Inc.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "020-47062087",
+        "pieces": 14,
+        "weight": 8.1,
+        "destination": "YYZ",
+        "consignee": "Trade Morris Pte Ltd",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "074-97754263",
+        "pieces": 9,
+        "weight": 3.1,
+        "destination": "LAX",
+        "consignee": "Global Johnson AG",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

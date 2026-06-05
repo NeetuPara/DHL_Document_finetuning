@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0177",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-38524623",
+    "mawb_number": "020-79961579",
+    "shipper_name": "Cisneros International GmbH",
+    "shipper_address": "211 Sara Extension, New Christopher, CO 71020, Mexico",
+    "consignee_name": "Reed Commerce Inc.",
+    "consignee_address": "74268 Silva Manor, Danielbury, LA 36045, United Arab Emirates",
+    "agent_name": "Global Martinez Pte Ltd",
+    "airport_departure": "HKG",
+    "airport_destination": "DXB",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "CHF 4,763.85",
+    "declared_value_customs": "SGD 3,191.84",
+    "n_pieces": 16,
+    "gross_weight_kg": 347.2,
+    "chargeable_weight": 401.0,
+    "rate": 2.81,
+    "total_charge": 1126.81,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-12-10",
+    "signatory": "Kevin Potter",
+    "iata_code": "80-071",
+    "agent_cass": "2105-5546",
+    "consolidation_ref": "CONS-6454-075086",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-78635149",
+        "pieces": 16,
+        "weight": 54.0,
+        "destination": "ICN",
+        "consignee": "Williams Global Corp.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "125-83611427",
+        "pieces": 1,
+        "weight": 22.5,
+        "destination": "AMS",
+        "consignee": "Berry Commerce S.A.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "057-81946605",
+        "pieces": 17,
+        "weight": 94.2,
+        "destination": "SYD",
+        "consignee": "Johnson Industry B.V.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "074-22810213",
+        "pieces": 4,
+        "weight": 51.9,
+        "destination": "DXB",
+        "consignee": "Shea Pacific Pte Ltd",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "006-56199872",
+        "pieces": 3,
+        "weight": 20.0,
+        "destination": "FRA",
+        "consignee": "Matthews International Pte Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "160-54387199",
+        "pieces": 6,
+        "weight": 53.7,
+        "destination": "JFK",
+        "consignee": "International Suarez GmbH",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "160-89827271",
+        "pieces": 13,
+        "weight": 85.8,
+        "destination": "YYZ",
+        "consignee": "Tech Sullivan AG",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "045-74803836",
+        "pieces": 10,
+        "weight": 6.4,
+        "destination": "ORD",
+        "consignee": "Hull Trade Corp.",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0580",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Burns Pte Ltd",
+    "shipper_address": "6472 Scott Park Apt. 316, Berryton, DC 52594, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Keith Commerce Pte Ltd",
+    "consignee_address": "PSC 0185, Box 7854, APO AP 26158, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+85 580-800-4218",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 10,
+        "pkg_type": "Steel Drum",
+        "net_qty": 41.95,
+        "qty_unit": "mL",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Brad Logan",
+    "signature_date": "2026-04-27",
+    "signature_place": "Germany",
+    "awb_number": "618-16059623",
+    "flight_number": "CX5413",
+    "flight_date": "2026-06-04",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "HKG",
+    "destination_airport_name": "Hong Kong International"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0111",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202205-2561",
+    "usppi_name": "Vargas Tech Pte Ltd",
+    "usppi_address": "533 Jason Spurs, Lyonsbury, AZ 03992, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "64-5573009",
+    "consignee_name": "Acevedo Trade Corp.",
+    "consignee_address": "3406 Robert Field Suite 723, Tammieview, MN 89623, China",
+    "consignee_country": "China",
+    "notify_party": "King Trade GmbH",
+    "forwarder": "DB Schenker",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Matthew Houston",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/18",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 151,
+        "unit": "KGS",
+        "weight_kg": 151.0,
+        "value_usd": 889.69
+      },
+      {
+        "marks": "EXP/23",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 30,
+        "unit": "PCS",
+        "weight_kg": 274.64,
+        "value_usd": 9988.87
+      },
+      {
+        "marks": "ABC/5",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 153,
+        "unit": "PKG",
+        "weight_kg": 140.05,
+        "value_usd": 5615.38
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 12,
+        "unit": "PCS",
+        "weight_kg": 4.1,
+        "value_usd": 1429.76
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 46,
+        "unit": "CTN",
+        "weight_kg": 134.34,
+        "value_usd": 668.68
+      }
+    ],
+    "total_weight_kg": 704.13,
+    "total_value_usd": 18592.38,
+    "vessel": "PIL PACIFIC",
+    "voyage": "970N",
+    "booking_ref": "BKG-490301",
+    "bl_number": "MAEU603289497",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Singapore, SG",
+    "container_number": "UVLT6533650",
+    "seal_number": "CL324700",
+    "container_type": "40'HC",
+    "cbm": 30.305
+  }
+}

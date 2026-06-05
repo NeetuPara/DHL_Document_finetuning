@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0884",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202601-3728",
+    "usppi_name": "Trade White AG",
+    "usppi_address": "4838 Jillian Estate, Mitchellview, AL 02004, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "56-9402738",
+    "consignee_name": "Tech Robinson GmbH",
+    "consignee_address": "6962 Perry Way, Port Christopher, SD 07020, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Global Mcdonald Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Matthew Jarvis",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/2",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 83,
+        "unit": "KGS",
+        "weight_kg": 83.0,
+        "value_usd": 112.26
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 32,
+        "unit": "PCS",
+        "weight_kg": 8.54,
+        "value_usd": 5000.3
+      }
+    ],
+    "total_weight_kg": 91.54,
+    "total_value_usd": 5112.56,
+    "service": "Ocean Freight",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 44353.57,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-721876",
+    "destination_country": "Mexico"
+  }
+}

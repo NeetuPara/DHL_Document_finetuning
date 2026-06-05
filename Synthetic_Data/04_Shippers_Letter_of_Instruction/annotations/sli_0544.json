@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0544",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202001-5223",
+    "usppi_name": "Sanchez Commerce GmbH",
+    "usppi_address": "1173 Bailey Way, Owensbury, PR 98029, Canada",
+    "usppi_country": "Canada",
+    "ein": "31-1226707",
+    "consignee_name": "International Perry GmbH",
+    "consignee_address": "9478 Baker Stream Suite 302, Mcdanielberg, WI 00821, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Christensen Industry LLC",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Jennifer Sims",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/11",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 103,
+        "unit": "PCS",
+        "weight_kg": 133.0,
+        "value_usd": 99389.95
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 136,
+        "unit": "PCS",
+        "weight_kg": 40.97,
+        "value_usd": 2194.23
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 36,
+        "unit": "SET",
+        "weight_kg": 108.32,
+        "value_usd": 2875.31
+      },
+      {
+        "marks": "EXP/23",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 142,
+        "unit": "KGS",
+        "weight_kg": 142.0,
+        "value_usd": 1494.54
+      }
+    ],
+    "total_weight_kg": 424.29,
+    "total_value_usd": 105954.03,
+    "service": "Ground",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 20268.49,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-685371",
+    "destination_country": "Brazil"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0445",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202211-3781",
+    "usppi_name": "International Jackson Pte Ltd",
+    "usppi_address": "0193 Bruce Forest Suite 313, South Jessicatown, RI 63475, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "91-4743990",
+    "consignee_name": "Tech Quinn AG",
+    "consignee_address": "8767 Jill Garden, Carrview, FL 53839, India",
+    "consignee_country": "India",
+    "notify_party": "Ross International Inc.",
+    "forwarder": "Panalpina",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "7A994",
+    "signatory_name": "Walter Ortiz",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/28",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 69,
+        "unit": "PCS",
+        "weight_kg": 29.25,
+        "value_usd": 10074.68
+      },
+      {
+        "marks": "EXP/31",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 188,
+        "unit": "SET",
+        "weight_kg": 720.14,
+        "value_usd": 6369.61
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 23,
+        "unit": "MTR",
+        "weight_kg": 21.75,
+        "value_usd": 352.57
+      },
+      {
+        "marks": "ABC/20",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 168,
+        "unit": "KGS",
+        "weight_kg": 168.0,
+        "value_usd": 2623.26
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 199,
+        "unit": "BOX",
+        "weight_kg": 61.09,
+        "value_usd": 9355.21
+      },
+      {
+        "marks": "ABC/2",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 164,
+        "unit": "PCS",
+        "weight_kg": 2441.53,
+        "value_usd": 81473.14
+      }
+    ],
+    "total_weight_kg": 3441.76,
+    "total_value_usd": 110248.47,
+    "service": "Ground",
+    "named_port": "London Heathrow",
+    "insurance_value_usd": 24287.95,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-779668",
+    "destination_country": "India"
+  }
+}

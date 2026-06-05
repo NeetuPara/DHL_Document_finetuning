@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0913",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Martinez Ltd",
+    "shipper_address": "02328 Elizabeth Trail Apt. 029, Port Frank, ID 70129, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Kelley International Ltd",
+    "consignee_address": "839 Barbara Forge Suite 676, New Carlos, IL 23338, Spain",
+    "consignee_country": "Spain",
+    "emergency_telephone": "+12 422-641-4298",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 38,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 91.52,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Beth White",
+    "signature_date": "2026-04-21",
+    "signature_place": "United Arab Emirates",
+    "awb_number": "085-49117957",
+    "flight_number": "SQ5974",
+    "flight_date": "2026-06-05",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport"
+  }
+}

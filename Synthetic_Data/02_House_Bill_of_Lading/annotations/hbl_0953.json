@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0953",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU700596664",
+    "shipper_name": "Ryan Tech Co.",
+    "shipper_address": "287 Hannah Lane, New Robert, TX 33165, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Commerce Reeves Inc.",
+    "consignee_address": "96925 Wright Turnpike, East Virginiahaven, MP 68348, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party_name": "Boyle International Corp.",
+    "notify_party_address": "3478 Joseph Port, Williston, NV 33267, Australia",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "567S",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Los Angeles, US",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2026-04-19",
+    "issue_place": "Tokyo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "WCMR3569291",
+        "seal_no": "SL902480",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "RWIY9097468",
+        "seal_no": "CL234662",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "PQSL9752772",
+        "seal_no": "SL141733",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "ZVJB6442183",
+        "seal_no": "BL782768",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 250,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 19779.1,
+    "net_weight_kg": 17617.5,
+    "cbm": 19.051,
+    "marks_and_numbers": "GLB/50"
+  }
+}

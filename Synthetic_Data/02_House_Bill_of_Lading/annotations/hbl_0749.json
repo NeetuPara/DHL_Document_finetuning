@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0749",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU698410206",
+    "shipper_name": "Industry Aguilar Pte Ltd",
+    "shipper_address": "4838 Caldwell Crescent Suite 170, East Melissa, VI 59344, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Webb Commerce Corp.",
+    "consignee_address": "331 Wilson Pine Apt. 555, Holmesfort, FM 52511, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "Horton International Pte Ltd",
+    "notify_party_address": "7094 Ayala Circle Suite 228, Serranohaven, PR 42894, Canada",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "917S",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2025-03-29",
+    "issue_place": "Busan",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "UQYM8053043",
+        "seal_no": "SL942589",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "YDVI2695592",
+        "seal_no": "BL418033",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "PYDQ1104847",
+        "seal_no": "BL552626",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 30,
+    "package_type": "Drum",
+    "gross_weight_kg": 2534.9,
+    "net_weight_kg": 2244.2,
+    "cbm": 1.455,
+    "marks_and_numbers": "XYZ/22"
+  }
+}

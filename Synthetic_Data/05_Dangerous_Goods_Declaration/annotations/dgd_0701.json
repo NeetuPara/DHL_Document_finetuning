@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0701",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Lopez Tech GmbH",
+    "shipper_address": "59791 Meyer Knolls Apt. 119, Masseyport, PR 46694, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Dodson Global Inc.",
+    "consignee_address": "69452 Olsen Flat, South Wesleytown, DC 95039, Switzerland",
+    "consignee_country": "Switzerland",
+    "emergency_telephone": "+88 685-742-1357",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 48,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 90.13,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Veronica Jackson",
+    "signature_date": "2026-05-03",
+    "signature_place": "South Korea",
+    "vessel": "MADRID MAERSK",
+    "voyage": "762S",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Antwerp, BE"
+  }
+}

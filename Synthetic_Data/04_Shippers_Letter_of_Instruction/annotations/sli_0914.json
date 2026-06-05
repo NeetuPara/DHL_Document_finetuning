@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0914",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202303-4276",
+    "usppi_name": "Tech Turner Pte Ltd",
+    "usppi_address": "7652 Samuel Mountains Suite 634, Courtneyport, WI 54732, France",
+    "usppi_country": "France",
+    "ein": "62-2346083",
+    "consignee_name": "Evans Trade LLC",
+    "consignee_address": "315 Martin Lakes, New Daniel, MP 71189, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "International Hendricks S.A.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Richard Garcia",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/39",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 179,
+        "unit": "PCS",
+        "weight_kg": 3243.82,
+        "value_usd": 76972.4
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 123,
+        "unit": "PKG",
+        "weight_kg": 249.04,
+        "value_usd": 8456.26
+      }
+    ],
+    "total_weight_kg": 3492.86,
+    "total_value_usd": 85428.66,
+    "service": "Air Freight",
+    "named_port": "Toronto Pearson",
+    "insurance_value_usd": 8285.21,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Spain"
+  }
+}

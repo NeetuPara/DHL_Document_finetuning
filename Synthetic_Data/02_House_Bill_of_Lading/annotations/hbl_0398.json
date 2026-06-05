@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0398",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU202325722",
+    "shipper_name": "Lee Industry LLC",
+    "shipper_address": "3365 Kyle Ridge, East Stacy, NH 25392, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Trade Baker B.V.",
+    "consignee_address": "442 Chen Branch, Dunnport, OR 75831, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party_name": "Davis International LLC",
+    "notify_party_address": "69872 Ramirez Key Suite 188, New Paulchester, CO 42348, United Kingdom",
+    "vessel": "CSCL GLOBE",
+    "voyage": "246S",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2025-12-17",
+    "issue_place": "Antwerp",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "GSSA1481642",
+        "seal_no": "CL702107",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "ZOLH2880916",
+        "seal_no": "CL864195",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "MIOE9665046",
+        "seal_no": "SL835670",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "KBXS4695508",
+        "seal_no": "CL947233",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 384,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 9228.9,
+    "net_weight_kg": 8544.3,
+    "cbm": 24.133,
+    "marks_and_numbers": "XYZ/46"
+  }
+}

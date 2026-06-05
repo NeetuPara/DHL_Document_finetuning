@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0013",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202303-5921",
+    "usppi_name": "Lara Trade Pte Ltd",
+    "usppi_address": "67696 William Falls Apt. 558, North Patriciahaven, FM 27316, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "72-1187710",
+    "consignee_name": "Tech Thomas Ltd",
+    "consignee_address": "720 Stanley Inlet, Laurenmouth, ID 71569, United States",
+    "consignee_country": "United States",
+    "notify_party": "International Martin Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Mrs. Susan Jordan",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/2",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 68,
+        "unit": "PKG",
+        "weight_kg": 192.89,
+        "value_usd": 1826.45
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 31,
+        "unit": "MTR",
+        "weight_kg": 17.25,
+        "value_usd": 513.64
+      },
+      {
+        "marks": "SLI/2",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 27,
+        "unit": "KGS",
+        "weight_kg": 27.0,
+        "value_usd": 30.11
+      },
+      {
+        "marks": "EXP/22",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 194,
+        "unit": "PCS",
+        "weight_kg": 74.78,
+        "value_usd": 310311.21
+      },
+      {
+        "marks": "EXP/32",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 98,
+        "unit": "PCS",
+        "weight_kg": 39.33,
+        "value_usd": 17269.92
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 36,
+        "unit": "CTN",
+        "weight_kg": 95.25,
+        "value_usd": 308.11
+      }
+    ],
+    "total_weight_kg": 446.5,
+    "total_value_usd": 330259.44,
+    "service": "Ground",
+    "named_port": "Amsterdam Schiphol",
+    "insurance_value_usd": 33822.18,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-183905",
+    "destination_country": "United States"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0329",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202603-5908",
+    "usppi_name": "Buckley International GmbH",
+    "usppi_address": "18852 Wanda Groves Suite 457, Bensonport, MS 75366, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "23-5992911",
+    "consignee_name": "Trade Alvarez B.V.",
+    "consignee_address": "34424 Chavez Hills, East Lindsayland, NV 61960, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "White Global Co.",
+    "forwarder": "DB Schenker",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Philip Harmon",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/22",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 123,
+        "unit": "PCS",
+        "weight_kg": 30.78,
+        "value_usd": 17695.67
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 153,
+        "unit": "LTR",
+        "weight_kg": 154.97,
+        "value_usd": 3632.0
+      },
+      {
+        "marks": "EXP/27",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 100,
+        "unit": "MTR",
+        "weight_kg": 36.74,
+        "value_usd": 937.26
+      },
+      {
+        "marks": "SLI/46",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 180,
+        "unit": "KGS",
+        "weight_kg": 180.0,
+        "value_usd": 341.5
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 116,
+        "unit": "SET",
+        "weight_kg": 408.75,
+        "value_usd": 19116.36
+      }
+    ],
+    "total_weight_kg": 811.24,
+    "total_value_usd": 41722.79,
+    "service": "LCL Ocean",
+    "named_port": "Colombo, LK",
+    "insurance_value_usd": 19553.05,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Brazil"
+  }
+}

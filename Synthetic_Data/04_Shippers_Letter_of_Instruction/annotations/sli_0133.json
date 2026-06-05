@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0133",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202012-5887",
+    "usppi_name": "Russell Trade S.A.",
+    "usppi_address": "0050 Robert Hills Suite 451, West Jonathan, RI 42083, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "15-4139051",
+    "consignee_name": "International Phillips GmbH",
+    "consignee_address": "584 Harris Bypass, New Nicoleton, ME 32285, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Brown Pacific Corp.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Katherine Jones",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/48",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 26,
+        "unit": "CTN",
+        "weight_kg": 40.46,
+        "value_usd": 572.94
+      },
+      {
+        "marks": "EXP/35",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 17,
+        "unit": "MTR",
+        "weight_kg": 17.98,
+        "value_usd": 63.01
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 69,
+        "unit": "CTN",
+        "weight_kg": 60.45,
+        "value_usd": 945.71
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 45,
+        "unit": "PCS",
+        "weight_kg": 48.87,
+        "value_usd": 28641.59
+      },
+      {
+        "marks": "ABC/15",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 122,
+        "unit": "LTR",
+        "weight_kg": 121.3,
+        "value_usd": 953.25
+      }
+    ],
+    "total_weight_kg": 289.06,
+    "total_value_usd": 31176.5,
+    "service": "Ocean Freight",
+    "named_port": "Rotterdam, NL",
+    "insurance_value_usd": 28030.84,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-571627",
+    "destination_country": "Singapore"
+  }
+}

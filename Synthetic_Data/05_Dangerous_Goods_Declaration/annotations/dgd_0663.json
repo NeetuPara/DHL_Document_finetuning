@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0663",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Lopez B.V.",
+    "shipper_address": "402 Natasha Station Apt. 461, Lake Ryanbury, IL 97555, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "James Pacific AG",
+    "consignee_address": "Unit 2167 Box 6858, DPO AA 84422, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+33 591-610-9882",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 43,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 53.77,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-126413",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Edward Jimenez",
+    "signature_date": "2026-04-30",
+    "signature_place": "Thailand",
+    "awb_number": "074-61491547",
+    "flight_number": "EK7241",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

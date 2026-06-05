@@ -1,0 +1,54 @@
+{
+  "document_id": "coo_0077",
+  "document_class": "Certificate of Origin",
+  "format_variant": "FTA-USMCA-Numbered-Fields",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202509-1925",
+    "exporter_name": "Commerce Nguyen LLC",
+    "exporter_address": "USNV Brown, FPO AA 64893, France",
+    "exporter_country": "France",
+    "consignee_name": "Pacific Lopez S.A.",
+    "consignee_address": "7741 Campbell Ports Suite 326, Michellechester, AZ 34329, Italy",
+    "consignee_country": "Italy",
+    "country_of_origin": "France",
+    "country_of_destination": "Italy",
+    "bl_or_awb": "YMLU918737597",
+    "issue_date": "2024-09-23",
+    "certifier_name": "Pamela Lynn",
+    "goods": [
+      {
+        "description": "Steel Products - Hot Rolled Coils",
+        "hs_code": "7208.37.00",
+        "qty": 79,
+        "unit": "KGS",
+        "weight_kg": 79.0,
+        "origin_criterion": "B",
+        "value": 128.19
+      },
+      {
+        "description": "Automotive Spare Parts - Brake Pads",
+        "hs_code": "8708.30.00",
+        "qty": 391,
+        "unit": "SET",
+        "weight_kg": 764.06,
+        "origin_criterion": "F",
+        "value": 59076.73
+      },
+      {
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "hs_code": "8483.40.00",
+        "qty": 260,
+        "unit": "PCS",
+        "weight_kg": 3637.9,
+        "origin_criterion": "E",
+        "value": 50958.84
+      }
+    ],
+    "fta_agreement": "EU-Canada CETA",
+    "blanket_period_from": "2024-04-05",
+    "blanket_period_to": "2025-08-27",
+    "producer_name": "Fisher Global Co.",
+    "producer_country": "United Kingdom"
+  }
+}

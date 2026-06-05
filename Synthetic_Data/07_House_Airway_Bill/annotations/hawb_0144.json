@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0144",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-92760969",
+    "mawb_number": "176-92073026",
+    "shipper_name": "Global Murphy B.V.",
+    "shipper_address": "378 John Lodge Apt. 228, Marytown, OH 34340, Belgium",
+    "consignee_name": "Brown Industry Pte Ltd",
+    "consignee_address": "5494 Laura Lodge, West Patricia, FM 75636, South Korea",
+    "agent_name": "Pacific Hernandez S.A.",
+    "airport_departure": "HKG",
+    "airport_destination": "YYZ",
+    "currency": "SGD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 18,
+    "gross_weight_kg": 286.9,
+    "chargeable_weight": 333.6,
+    "rate": 5.12,
+    "total_charge": 1708.03,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-03-15",
+    "signatory": "Curtis Hull",
+    "iata_code": "25-400",
+    "agent_cass": "2393-9149",
+    "consolidation_ref": "CONS-9681-513537",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-68042677",
+        "pieces": 8,
+        "weight": 73.2,
+        "destination": "LHR",
+        "consignee": "Baker International Pte Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "045-54727374",
+        "pieces": 7,
+        "weight": 54.8,
+        "destination": "NRT",
+        "consignee": "Young Global B.V.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "176-30999270",
+        "pieces": 7,
+        "weight": 59.7,
+        "destination": "HKG",
+        "consignee": "Bush Trade Pte Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "085-34818301",
+        "pieces": 15,
+        "weight": 67.8,
+        "destination": "NRT",
+        "consignee": "Davis Pacific Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "085-17601744",
+        "pieces": 19,
+        "weight": 89.0,
+        "destination": "DXB",
+        "consignee": "Chavez Pacific AG",
+        "description": "Plastic Products - Injection Moulde"
+      }
+    ]
+  }
+}

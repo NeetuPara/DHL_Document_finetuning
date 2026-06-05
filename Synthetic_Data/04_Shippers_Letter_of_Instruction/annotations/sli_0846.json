@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0846",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202509-4983",
+    "usppi_name": "Fernandez Pacific S.A.",
+    "usppi_address": "0319 Smith Branch, Phillipsberg, VA 08653, Japan",
+    "usppi_country": "Japan",
+    "ein": "63-1430446",
+    "consignee_name": "Global Miller GmbH",
+    "consignee_address": "67610 Smith Bridge Apt. 052, New Jenna, MA 43272, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Torres Commerce Corp.",
+    "forwarder": "Panalpina",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Sharon Baker",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/22",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 19,
+        "unit": "PCS",
+        "weight_kg": 6.27,
+        "value_usd": 4255.96
+      },
+      {
+        "marks": "EXP/7",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 74,
+        "unit": "KGS",
+        "weight_kg": 74.0,
+        "value_usd": 433.45
+      }
+    ],
+    "total_weight_kg": 80.27,
+    "total_value_usd": 4689.41,
+    "vessel": "ONE INNOVATION",
+    "voyage": "420N",
+    "booking_ref": "BKG-384706",
+    "bl_number": "MAEU286755441",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "QOMH7779681",
+    "seal_number": "SL952314",
+    "container_type": "20'GP",
+    "cbm": 5.178
+  }
+}

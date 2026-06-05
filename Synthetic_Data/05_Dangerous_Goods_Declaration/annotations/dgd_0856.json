@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0856",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Wolfe Global B.V.",
+    "shipper_address": "77534 Corey Neck Apt. 154, Amandaville, MS 42975, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Cantrell Global Pte Ltd",
+    "consignee_address": "694 Clark Meadows, Johnsonton, NM 32486, United States",
+    "consignee_country": "United States",
+    "emergency_telephone": "+44 903-626-5649",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 1,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 61.42,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Natalie Collins",
+    "signature_date": "2026-04-21",
+    "signature_place": "Japan",
+    "awb_number": "085-83080562",
+    "flight_number": "SQ1205",
+    "flight_date": "2026-05-18",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol"
+  }
+}

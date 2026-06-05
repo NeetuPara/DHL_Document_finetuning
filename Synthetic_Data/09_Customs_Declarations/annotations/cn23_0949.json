@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0949",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Travis Sherman",
+    "addressee_company": "Industry Hernandez Pte Ltd",
+    "addressee_address": "4226 Andrew Burg Suite 155, Wellsfort, LA 78068, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 15.802,
+    "total_value": 2949.42,
+    "currency": "AUD",
+    "issue_date": "2026-05-05",
+    "reference": "REF-035534",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.999,
+        "value": 1177.96,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 7,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.634,
+        "value": 338.66,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 1,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.704,
+        "value": 18.7,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 1,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 4.212,
+        "value": 31.22,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 16,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.253,
+        "value": 1382.88,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "Ryan Jones",
+    "sender_company": "International Wood Co.",
+    "sender_address": "USNS Brown, FPO AA 90333, Australia",
+    "sender_phone": "444.244.2352x657",
+    "sender_email": "qmills@example.com",
+    "addressee_phone": "001-900-980-7730x13388",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 3244.36,
+    "postal_charges": 20.54,
+    "tracking_number": "DI510825458BI"
+  }
+}

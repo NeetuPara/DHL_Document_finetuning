@@ -1,0 +1,81 @@
+{
+  "packet_id": "packet_0490",
+  "total_pages": 8,
+  "n_documents": 7,
+  "class_sequence": [
+    "Power of Attorney",
+    "House Airway Bill",
+    "Customs Declaration",
+    "Packing List",
+    "Shipper's Letter of Instruction",
+    "Cargo Manifest",
+    "Commercial Invoice"
+  ],
+  "task": "splitting",
+  "note": "is_multipage_doc=true means consecutive pages are CONTINUATION of same document instance.",
+  "documents": [
+    {
+      "doc_class": "Power of Attorney",
+      "class_index": 12,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "poa_0943.pdf"
+    },
+    {
+      "doc_class": "House Airway Bill",
+      "class_index": 7,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "hawb_0055.pdf"
+    },
+    {
+      "doc_class": "Customs Declaration",
+      "class_index": 9,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "cn23_0872.pdf"
+    },
+    {
+      "doc_class": "Packing List",
+      "class_index": 8,
+      "page_start": 4,
+      "page_end": 4,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "packing_list_0022.pdf"
+    },
+    {
+      "doc_class": "Shipper's Letter of Instruction",
+      "class_index": 4,
+      "page_start": 5,
+      "page_end": 6,
+      "n_pages": 2,
+      "is_multipage_doc": true,
+      "source_file": "sli_mp_0239.pdf"
+    },
+    {
+      "doc_class": "Cargo Manifest",
+      "class_index": 10,
+      "page_start": 7,
+      "page_end": 7,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "manifest_0844.pdf"
+    },
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 8,
+      "page_end": 8,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "commercial_invoice_0697.pdf"
+    }
+  ]
+}

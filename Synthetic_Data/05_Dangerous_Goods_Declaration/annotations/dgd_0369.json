@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0369",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Cook Pacific B.V.",
+    "shipper_address": "487 Phillips Plain Apt. 742, South Caitlinville, OR 25194, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Trade Delgado Co.",
+    "consignee_address": "7516 Teresa Islands, New Brent, AK 82676, Japan",
+    "consignee_country": "Japan",
+    "emergency_telephone": "+65 135-642-3367",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 48,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 68.84,
+        "qty_unit": "kg",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Christopher Robertson",
+    "signature_date": "2026-04-17",
+    "signature_place": "Malaysia",
+    "awb_number": "006-46221482",
+    "flight_number": "UA3925",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

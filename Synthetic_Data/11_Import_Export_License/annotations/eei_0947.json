@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0947",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220715056103",
+    "export_date": "2025-09-19",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Commerce Harris Corp.",
+    "usppi_ein": "76-4240339",
+    "usppi_address": "38883 Rodriguez Mountains, West Douglasville, WA 25431, Italy",
+    "ultimate_consignee": "Floyd Trade AG",
+    "intermediate_consignee": "Pacific Roberts Corp.",
+    "forwarding_agent": "Jones Tech Ltd",
+    "destination_country": "India",
+    "carrier": "MSC",
+    "bl_awb": "085-75369817",
+    "total_value": 220479.45,
+    "currency": "AED",
+    "signatory": "Paul Young",
+    "line_items": [
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Singapore",
+        "qty": 35,
+        "unit": "PCS",
+        "entered_value": 2035.6,
+        "duty_rate": 4.9,
+        "duty_amount": 99.74,
+        "eccn": "2B350",
+        "schedule_b": "8534.00.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "United States",
+        "qty": 262,
+        "unit": "PCS",
+        "entered_value": 16259.72,
+        "duty_rate": 16.6,
+        "duty_amount": 2699.11,
+        "eccn": "5E992",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Germany",
+        "qty": 141,
+        "unit": "PCS",
+        "entered_value": 54676.98,
+        "duty_rate": 9.2,
+        "duty_amount": 5030.28,
+        "eccn": "5E992",
+        "schedule_b": "9401.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Singapore",
+        "qty": 343,
+        "unit": "MTR",
+        "entered_value": 147507.15,
+        "duty_rate": 16.4,
+        "duty_amount": 24191.17,
+        "eccn": "3A992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

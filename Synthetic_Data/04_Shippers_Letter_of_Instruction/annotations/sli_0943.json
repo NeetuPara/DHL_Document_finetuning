@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0943",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202012-8704",
+    "usppi_name": "Pacific Carter Pte Ltd",
+    "usppi_address": "874 Mora Cove, Vanessastad, ID 79758, Germany",
+    "usppi_country": "Germany",
+    "ein": "77-1487590",
+    "consignee_name": "Pacific Meyer Pte Ltd",
+    "consignee_address": "500 Leslie Vista Suite 120, Wagnerburgh, PA 48229, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Hughes Global Inc.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "7A994",
+    "signatory_name": "Nancy Lam",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/28",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 58,
+        "unit": "BOX",
+        "weight_kg": 97.65,
+        "value_usd": 1819.08
+      },
+      {
+        "marks": "ABC/10",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 8,
+        "unit": "PCS",
+        "weight_kg": 11.57,
+        "value_usd": 11164.61
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 81,
+        "unit": "PCS",
+        "weight_kg": 16.3,
+        "value_usd": 10225.11
+      }
+    ],
+    "total_weight_kg": 125.52,
+    "total_value_usd": 23208.8,
+    "service": "Express Courier",
+    "named_port": "Paris CDG",
+    "insurance_value_usd": 31866.86,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-318499",
+    "destination_country": "United Arab Emirates"
+  }
+}

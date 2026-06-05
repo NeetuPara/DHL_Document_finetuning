@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0964",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Allen International LLC",
+    "shipper_address": "52722 King Village, Huntport, OH 15100, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Oconnell Industry Inc.",
+    "consignee_address": "280 Amy Parkway, Lake Gary, MO 63944, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+80 124-182-3425",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 21,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 35.72,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-123070",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 39,
+        "pkg_type": "Steel Drum",
+        "net_qty": 76.83,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Lori Hernandez",
+    "signature_date": "2026-04-27",
+    "signature_place": "Germany",
+    "awb_number": "045-11361452",
+    "flight_number": "LH1137",
+    "flight_date": "2026-05-01",
+    "departure_airport_code": "AMS",
+    "departure_airport_name": "Amsterdam Schiphol",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport"
+  }
+}

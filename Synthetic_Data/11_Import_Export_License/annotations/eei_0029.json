@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0029",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210918623007",
+    "export_date": "2026-02-09",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Trade Mathews Ltd",
+    "usppi_ein": "18-4485264",
+    "usppi_address": "USCGC Schneider, FPO AP 07683, Canada",
+    "ultimate_consignee": "Cooper Trade Ltd",
+    "intermediate_consignee": "Trade May Corp.",
+    "forwarding_agent": "Gilmore Tech Pte Ltd",
+    "destination_country": "Italy",
+    "carrier": "Maersk",
+    "bl_awb": "006-44709661",
+    "total_value": 216279.93,
+    "currency": "CAD",
+    "signatory": "Scott Rivera",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Brazil",
+        "qty": 421,
+        "unit": "PCS",
+        "entered_value": 145842.82,
+        "duty_rate": 20.3,
+        "duty_amount": 29606.09,
+        "eccn": "0A919",
+        "schedule_b": "8483.40.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Japan",
+        "qty": 125,
+        "unit": "SET",
+        "entered_value": 39182.5,
+        "duty_rate": 22.6,
+        "duty_amount": 8855.25,
+        "eccn": "3A992",
+        "schedule_b": "8708.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Brazil",
+        "qty": 121,
+        "unit": "KGS",
+        "entered_value": 8796.7,
+        "duty_rate": 11.7,
+        "duty_amount": 1029.21,
+        "eccn": "1A002",
+        "schedule_b": "2008.19.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Hong Kong",
+        "qty": 489,
+        "unit": "PCS",
+        "entered_value": 15051.42,
+        "duty_rate": 18.9,
+        "duty_amount": 2844.72,
+        "eccn": "2B350",
+        "schedule_b": "9401.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Thailand",
+        "qty": 91,
+        "unit": "PCS",
+        "entered_value": 7406.49,
+        "duty_rate": 12.3,
+        "duty_amount": 911.0,
+        "eccn": "7A994",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0759",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202302-7437",
+    "usppi_name": "International Peters LLC",
+    "usppi_address": "7070 Taylor Drive, Baileyburgh, UT 85261, Canada",
+    "usppi_country": "Canada",
+    "ein": "41-7702077",
+    "consignee_name": "Global Carter Co.",
+    "consignee_address": "9522 Brown Trail Apt. 899, East Eric, LA 49297, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Global Singleton LLC",
+    "forwarder": "DB Schenker",
+    "incoterm": "DPU",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Joshua Conway",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/44",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 139,
+        "unit": "KGS",
+        "weight_kg": 139.0,
+        "value_usd": 1553.46
+      },
+      {
+        "marks": "EXP/42",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 101,
+        "unit": "PCS",
+        "weight_kg": 41.93,
+        "value_usd": 16033.27
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 160,
+        "unit": "CTN",
+        "weight_kg": 348.62,
+        "value_usd": 1657.64
+      }
+    ],
+    "total_weight_kg": 529.55,
+    "total_value_usd": 19244.37,
+    "vessel": "EVER GOLDEN",
+    "voyage": "781S",
+    "booking_ref": "BKG-840938",
+    "bl_number": "EGLV417674725",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Antwerp, BE",
+    "container_number": "VYHV0038329",
+    "seal_number": "BL809851",
+    "container_type": "45'HC",
+    "cbm": 31.229
+  }
+}

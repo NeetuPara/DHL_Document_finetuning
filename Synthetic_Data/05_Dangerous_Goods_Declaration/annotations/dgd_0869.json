@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0869",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Jacobs AG",
+    "shipper_address": "9934 Bruce Passage, Vanessafort, NE 20134, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Commerce Graham LLC",
+    "consignee_address": "93300 Katherine Key Suite 274, North Taylorville, WI 13314, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+62 784-694-4891",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 47,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 90.96,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Ashley Mendoza",
+    "signature_date": "2026-05-10",
+    "signature_place": "United States",
+    "vessel": "ONE INNOVATION",
+    "voyage": "692E",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Antwerp, BE"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "coo_0930",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202009-8468",
+    "exporter_name": "Martinez Global Ltd",
+    "exporter_address": "541 Jason Spur, Nguyenton, KS 41351, Italy",
+    "exporter_country": "Italy",
+    "consignee_name": "Tech Miller Inc.",
+    "consignee_address": "Unit 3549 Box 4819, DPO AP 46514, United States",
+    "consignee_country": "United States",
+    "country_of_origin": "Italy",
+    "country_of_destination": "United States",
+    "bl_or_awb": "YMLU348301693",
+    "issue_date": "2025-08-25",
+    "certifier_name": "Beth Smith",
+    "goods": [
+      {
+        "description": "Automotive Spare Parts - Brake Pads",
+        "hs_code": "8708.30.00",
+        "qty": 444,
+        "unit": "SET",
+        "weight_kg": 1122.98,
+        "origin_criterion": "A",
+        "value": 48777.02
+      },
+      {
+        "description": "Steel Products - Hot Rolled Coils",
+        "hs_code": "7208.37.00",
+        "qty": 39,
+        "unit": "KGS",
+        "weight_kg": 39.0,
+        "origin_criterion": "C",
+        "value": 94.72
+      }
+    ],
+    "fta_agreement": "CPTPP",
+    "chamber": "Chamber of Commerce"
+  }
+}

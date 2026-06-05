@@ -1,0 +1,75 @@
+{
+  "document_id": "vgm_0623",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Hansen Commerce Co.",
+    "shipper_address": "1874 Stephanie Gardens Suite 663, Moranstad, DC 45137, Thailand",
+    "shipper_country": "Thailand",
+    "container_number": "EWZF4363705",
+    "seal_number": "SL846168",
+    "container_size": "40'RF",
+    "iso_type_code": "42R1",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 14238.8,
+    "packing_materials_kg": 113.8,
+    "vgm_kg": 19152.6,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "503E",
+    "bl_number": "YMLU903730963",
+    "booking_reference": "BKG-635092",
+    "weighing_scale_type": "Certified Electronic Scale",
+    "scale_serial": "Unit-68982",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-21",
+    "signature_date": "2026-05-11",
+    "signatory_name": "Andrew Wilson",
+    "signatory_title": "VGM Officer",
+    "number_of_packages": 6,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Drum",
+        "n_units": 3,
+        "gross_wt_kg": 3070.9
+      },
+      {
+        "item_no": 2,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Drum",
+        "n_units": 6,
+        "gross_wt_kg": 3051.9
+      },
+      {
+        "item_no": 3,
+        "description": "Textile Fabrics - Woven Polyester",
+        "pkg_type": "Cylinder",
+        "n_units": 16,
+        "gross_wt_kg": 1843.0
+      },
+      {
+        "item_no": 4,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Crate",
+        "n_units": 14,
+        "gross_wt_kg": 442.9
+      },
+      {
+        "item_no": 5,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Carton",
+        "n_units": 10,
+        "gross_wt_kg": 1035.9
+      },
+      {
+        "item_no": 6,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Carton",
+        "n_units": 13,
+        "gross_wt_kg": 4794.2
+      }
+    ]
+  }
+}

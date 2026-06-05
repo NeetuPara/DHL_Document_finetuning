@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0439",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Medina Co.",
+    "shipper_address": "2661 Heather Ferry Apt. 744, Port Ravenhaven, DE 54790, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Global Curtis GmbH",
+    "consignee_address": "626 Deborah Vista, New Geraldport, FL 82770, Poland",
+    "consignee_country": "Poland",
+    "emergency_telephone": "+22 881-307-6812",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 26,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 81.03,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-541692",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Haley Clark",
+    "signature_date": "2026-04-19",
+    "signature_place": "Brazil",
+    "awb_number": "160-26859637",
+    "flight_number": "EK4608",
+    "flight_date": "2026-05-21",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong"
+  }
+}

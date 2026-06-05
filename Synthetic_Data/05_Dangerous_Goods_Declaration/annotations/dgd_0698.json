@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0698",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Williamson Commerce LLC",
+    "shipper_address": "9046 Susan Wells, Natashaview, TX 95450, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Industry Schroeder S.A.",
+    "consignee_address": "168 Emily Vista Suite 365, New Mark, OK 49834, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+88 859-416-8171",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 12,
+        "pkg_type": "Steel Drum",
+        "net_qty": 29.35,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Nancy King",
+    "signature_date": "2026-04-29",
+    "signature_place": "Australia",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "788N",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Long Beach, US"
+  }
+}

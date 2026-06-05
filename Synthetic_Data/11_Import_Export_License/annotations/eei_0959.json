@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0959",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240102488636",
+    "export_date": "2025-10-26",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Shields Commerce Corp.",
+    "usppi_ein": "40-2082234",
+    "usppi_address": "5603 Sylvia Fork, Port Cynthiaburgh, FM 22497, Netherlands",
+    "ultimate_consignee": "Reyes Global Pte Ltd",
+    "intermediate_consignee": "Foster Global Pte Ltd",
+    "forwarding_agent": "International Martinez AG",
+    "destination_country": "Japan",
+    "carrier": "Maersk",
+    "bl_awb": "085-70425797",
+    "total_value": 232169.47,
+    "currency": "USD",
+    "signatory": "Craig Reed",
+    "line_items": [
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "India",
+        "qty": 321,
+        "unit": "BOX",
+        "entered_value": 95227.86,
+        "duty_rate": 19.5,
+        "duty_amount": 18569.43,
+        "eccn": "5E992",
+        "schedule_b": "2936.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "United States",
+        "qty": 63,
+        "unit": "MTR",
+        "entered_value": 5337.99,
+        "duty_rate": 5.8,
+        "duty_amount": 309.6,
+        "eccn": "1A002",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Australia",
+        "qty": 415,
+        "unit": "KGS",
+        "entered_value": 84361.2,
+        "duty_rate": 10.2,
+        "duty_amount": 8604.84,
+        "eccn": "2B350",
+        "schedule_b": "2008.19.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "United Kingdom",
+        "qty": 150,
+        "unit": "LTR",
+        "entered_value": 37114.5,
+        "duty_rate": 3.5,
+        "duty_amount": 1299.01,
+        "eccn": "3A992",
+        "schedule_b": "2901.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Thailand",
+        "qty": 136,
+        "unit": "KGS",
+        "entered_value": 10127.92,
+        "duty_rate": 9.0,
+        "duty_amount": 911.51,
+        "eccn": "0A919",
+        "schedule_b": "7208.37.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

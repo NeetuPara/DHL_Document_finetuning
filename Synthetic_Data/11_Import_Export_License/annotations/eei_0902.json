@@ -1,0 +1,103 @@
+{
+  "document_id": "eei_0902",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20200213078358",
+    "export_date": "2025-08-12",
+    "aes_option": "AES Filing",
+    "usppi_name": "Garcia Industry Inc.",
+    "usppi_ein": "64-7511749",
+    "usppi_address": "77144 Lauren Prairie, West Robinport, NE 94416, Singapore",
+    "ultimate_consignee": "Commerce Campos S.A.",
+    "intermediate_consignee": "Thompson Commerce B.V.",
+    "forwarding_agent": "Johnson Commerce Corp.",
+    "destination_country": "Italy",
+    "carrier": "UPS",
+    "bl_awb": "618-90655352",
+    "total_value": 300141.43,
+    "currency": "EUR",
+    "signatory": "Melissa Ford",
+    "line_items": [
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Belgium",
+        "qty": 93,
+        "unit": "PCS",
+        "entered_value": 34210.05,
+        "duty_rate": 15.2,
+        "duty_amount": 5199.93,
+        "eccn": "0A919",
+        "schedule_b": "9401.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Mexico",
+        "qty": 356,
+        "unit": "CTN",
+        "entered_value": 31174.92,
+        "duty_rate": 18.9,
+        "duty_amount": 5892.06,
+        "eccn": "0A919",
+        "schedule_b": "4819.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Netherlands",
+        "qty": 369,
+        "unit": "KGS",
+        "entered_value": 101294.19,
+        "duty_rate": 24.1,
+        "duty_amount": 24411.9,
+        "eccn": "3A992",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "United States",
+        "qty": 361,
+        "unit": "PCS",
+        "entered_value": 61745.44,
+        "duty_rate": 21.6,
+        "duty_amount": 13337.02,
+        "eccn": "7A994",
+        "schedule_b": "3926.90.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Poland",
+        "qty": 65,
+        "unit": "PCS",
+        "entered_value": 22758.45,
+        "duty_rate": 1.7,
+        "duty_amount": 386.89,
+        "eccn": "2B350",
+        "schedule_b": "8518.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Italy",
+        "qty": 113,
+        "unit": "MTR",
+        "entered_value": 48958.38,
+        "duty_rate": 18.8,
+        "duty_amount": 9204.18,
+        "eccn": "1A002",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0437",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Riley Trade Pte Ltd",
+    "shipper_address": "754 Anthony Tunnel, North Kimberly, PR 92625, China",
+    "shipper_country": "China",
+    "consignee_name": "Perez Industry Co.",
+    "consignee_address": "2472 Christopher Dale, Mcguirehaven, WY 05082, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+76 392-844-2557",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 1,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 48.46,
+        "qty_unit": "g",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-928931",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 24,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 35.81,
+        "qty_unit": "L",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-706260",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Angel Mooney",
+    "signature_date": "2026-04-16",
+    "signature_place": "China",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "598S",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Colombo, LK"
+  }
+}

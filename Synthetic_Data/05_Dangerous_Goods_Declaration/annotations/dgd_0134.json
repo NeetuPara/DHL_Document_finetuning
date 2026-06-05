@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0134",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Sellers International GmbH",
+    "shipper_address": "USNS Tucker, FPO AP 10905, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Industry Jenkins AG",
+    "consignee_address": "19520 Lauren Valleys, North Jennifer, MD 47857, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+54 692-371-5140",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 40,
+        "pkg_type": "Steel Drum",
+        "net_qty": 26.65,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-432286",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Sonya Graves",
+    "signature_date": "2026-04-17",
+    "signature_place": "Australia",
+    "vessel": "CSCL GLOBE",
+    "voyage": "763W",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Singapore, SG"
+  }
+}

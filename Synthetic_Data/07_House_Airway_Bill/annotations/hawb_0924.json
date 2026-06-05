@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0924",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-40233625",
+    "mawb_number": "176-95184273",
+    "shipper_name": "Taylor International AG",
+    "shipper_address": "87184 Joann Street, Crosbyview, IL 78252, Hong Kong",
+    "consignee_name": "Miller Global Ltd",
+    "consignee_address": "838 Alyssa Turnpike Apt. 530, Hamiltonhaven, MT 98717, Malaysia",
+    "agent_name": "Wagner Industry Corp.",
+    "airport_departure": "DXB",
+    "airport_destination": "SYD",
+    "currency": "USD",
+    "charge_code": "PP",
+    "declared_value_carriage": "CAD 16,297.69",
+    "declared_value_customs": "NCV",
+    "n_pieces": 17,
+    "gross_weight_kg": 399.0,
+    "chargeable_weight": 491.0,
+    "rate": 4.78,
+    "total_charge": 2346.98,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-12-23",
+    "signatory": "Nathan Scott",
+    "iata_code": "08-102",
+    "agent_cass": "3596-8323",
+    "consolidation_ref": "CONS-3276-535049",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-28451138",
+        "pieces": 8,
+        "weight": 81.3,
+        "destination": "SYD",
+        "consignee": "Industry Maldonado Pte Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "074-99301033",
+        "pieces": 8,
+        "weight": 33.5,
+        "destination": "HKG",
+        "consignee": "International Welch GmbH",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "045-25938061",
+        "pieces": 20,
+        "weight": 41.4,
+        "destination": "YYZ",
+        "consignee": "Tech Watson GmbH",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "176-60669708",
+        "pieces": 3,
+        "weight": 71.3,
+        "destination": "FRA",
+        "consignee": "Gonzalez Pacific B.V.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "176-93962488",
+        "pieces": 5,
+        "weight": 85.4,
+        "destination": "CDG",
+        "consignee": "Wiley Pacific Corp.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "125-49753611",
+        "pieces": 11,
+        "weight": 47.1,
+        "destination": "ORD",
+        "consignee": "Miller International Co.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "045-39193478",
+        "pieces": 12,
+        "weight": 12.0,
+        "destination": "HKG",
+        "consignee": "Trade Fernandez Pte Ltd",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "045-14182192",
+        "pieces": 4,
+        "weight": 77.2,
+        "destination": "ICN",
+        "consignee": "Mckinney Pacific S.A.",
+        "description": "Industrial Machinery Parts - Steel "
+      }
+    ]
+  }
+}

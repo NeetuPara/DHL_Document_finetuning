@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0836",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202108-4384",
+    "usppi_name": "Hunter International AG",
+    "usppi_address": "254 Larry Summit Suite 141, Lake Bryan, MP 78748, United States",
+    "usppi_country": "United States",
+    "ein": "73-2839735",
+    "consignee_name": "Commerce Smith AG",
+    "consignee_address": "1419 Cox Prairie, Port Brendafurt, MO 00838, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Gray Pacific LLC",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Suzanne Palmer",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/13",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 71,
+        "unit": "PCS",
+        "weight_kg": 10.6,
+        "value_usd": 1692.34
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 83,
+        "unit": "PKG",
+        "weight_kg": 30.44,
+        "value_usd": 2996.88
+      }
+    ],
+    "total_weight_kg": 41.04,
+    "total_value_usd": 4689.22,
+    "service": "Ground",
+    "named_port": "Shanghai Pudong",
+    "insurance_value_usd": 18190.21,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-173347",
+    "destination_country": "Thailand"
+  }
+}

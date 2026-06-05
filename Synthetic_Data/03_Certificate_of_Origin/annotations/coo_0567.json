@@ -1,0 +1,60 @@
+{
+  "document_id": "coo_0567",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202601-3518",
+    "exporter_name": "Moore International AG",
+    "exporter_address": "45008 Ford Keys Apt. 180, Youngburgh, FM 16268, Germany",
+    "exporter_country": "Germany",
+    "consignee_name": "Richard Global B.V.",
+    "consignee_address": "79187 Patterson Road, Port Brian, HI 56543, France",
+    "consignee_country": "France",
+    "country_of_origin": "Germany",
+    "country_of_destination": "France",
+    "bl_or_awb": "085-79757001",
+    "issue_date": "2025-03-14",
+    "certifier_name": "Jessica Rodriguez",
+    "goods": [
+      {
+        "description": "Medical Devices - Disposable Syringes",
+        "hs_code": "9018.31.00",
+        "qty": 312,
+        "unit": "CTN",
+        "weight_kg": 1064.51,
+        "origin_criterion": "A",
+        "value": 21681.99
+      },
+      {
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "hs_code": "4016.93.00",
+        "qty": 70,
+        "unit": "PKG",
+        "weight_kg": 199.38,
+        "origin_criterion": "F",
+        "value": 1893.87
+      },
+      {
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "hs_code": "8518.30.00",
+        "qty": 323,
+        "unit": "PCS",
+        "weight_kg": 20.71,
+        "origin_criterion": "A",
+        "value": 23723.29
+      },
+      {
+        "description": "Textile Fabrics - Woven Polyester",
+        "hs_code": "5407.42.00",
+        "qty": 374,
+        "unit": "MTR",
+        "weight_kg": 294.93,
+        "origin_criterion": "F",
+        "value": 4525.84
+      }
+    ],
+    "fta_agreement": "EU-Canada CETA",
+    "chamber": "Board of Trade"
+  }
+}

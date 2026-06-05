@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0659",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Walker Commerce Inc.",
+    "shipper_address": "7281 Sheppard Rue, Ortizfort, OR 15065, China",
+    "shipper_country": "China",
+    "container_number": "IKKD6905501",
+    "seal_number": "CL263093",
+    "container_size": "40'OT",
+    "iso_type_code": "42U0",
+    "tare_weight_kg": 4200,
+    "cargo_weight_kg": 13159.0,
+    "packing_materials_kg": 350.3,
+    "vgm_kg": 17709.3,
+    "vessel": "CSCL GLOBE",
+    "voyage": "578E",
+    "bl_number": "MAEU165143569",
+    "booking_reference": "BKG-757177",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-79751",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-26",
+    "signature_date": "2026-05-09",
+    "signatory_name": "Helen Chan",
+    "signatory_title": "Export Manager",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Bundle",
+        "n_units": 13,
+        "gross_wt_kg": 1784.3
+      },
+      {
+        "item_no": 2,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Crate",
+        "n_units": 15,
+        "gross_wt_kg": 1402.8
+      },
+      {
+        "item_no": 3,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Bundle",
+        "n_units": 1,
+        "gross_wt_kg": 2216.9
+      },
+      {
+        "item_no": 4,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Case",
+        "n_units": 5,
+        "gross_wt_kg": 418.5
+      },
+      {
+        "item_no": 5,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Crate",
+        "n_units": 16,
+        "gross_wt_kg": 7336.5
+      }
+    ]
+  }
+}

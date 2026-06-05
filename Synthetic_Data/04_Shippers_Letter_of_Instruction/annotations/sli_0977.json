@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0977",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202111-9729",
+    "usppi_name": "Hall Global Co.",
+    "usppi_address": "1898 Lowe Port, North Nancy, AK 16760, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "46-9368428",
+    "consignee_name": "Tech Marks Pte Ltd",
+    "consignee_address": "7375 Brown Forges Suite 946, North Kathryn, MH 14036, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Smith Global B.V.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Lydia Schultz",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/47",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 90,
+        "unit": "PCS",
+        "weight_kg": 889.45,
+        "value_usd": 22580.99
+      },
+      {
+        "marks": "SLI/40",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 73,
+        "unit": "PCS",
+        "weight_kg": 495.18,
+        "value_usd": 50405.01
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 199,
+        "unit": "MTR",
+        "weight_kg": 97.27,
+        "value_usd": 2757.36
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 81,
+        "unit": "PCS",
+        "weight_kg": 8.3,
+        "value_usd": 2512.36
+      },
+      {
+        "marks": "SLI/28",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 117,
+        "unit": "SET",
+        "weight_kg": 371.8,
+        "value_usd": 15673.85
+      }
+    ],
+    "total_weight_kg": 1862.0,
+    "total_value_usd": 93929.57,
+    "service": "Ground",
+    "named_port": "Tokyo Narita",
+    "insurance_value_usd": 44618.69,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-377953",
+    "destination_country": "Japan"
+  }
+}

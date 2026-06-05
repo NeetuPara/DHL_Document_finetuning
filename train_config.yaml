@@ -1,0 +1,135 @@
+# ═══════════════════════════════════════════════════════════════════════════
+# DHL Document Fine-tuning — Training Configuration
+# Edit this file to change any hyperparameter without touching train.py
+#
+# Run:
+#   python train.py                        # uses this config automatically
+#   python train.py --config train_config.yaml
+#   python train.py --method qlora         # overrides method from CLI
+#   python train.py --epochs 1 --debug     # smoke test
+# ═══════════════════════════════════════════════════════════════════════════
+
+# ── Model ──────────────────────────────────────────────────────────────────
+model:
+  name: "D:/finetuning/DHL_Document_finetuning/models/Qwen2.5-VL-3B-Instruct"
+  # Alternatives (just change name, everything else stays the same):
+  #   "Qwen/Qwen3-VL-4B-Instruct"     — 4B, better DocVQA (94.9), tighter on 16 GB
+  #   "Qwen/Qwen2.5-VL-7B-Instruct"   — 7B, DocVQA 95.7, needs 20+ GB VRAM
+  #   "Qwen/Qwen3-VL-8B-Instruct"     — 8B Qwen3, needs 20+ GB VRAM
+
+  method: "auto"
+  # auto   → QLoRA if VRAM < 20 GB, LoRA if VRAM >= 20 GB
+  # qlora  → 4-bit quantization (RTX 5080 16 GB safe choice)
+  # lora   → 16-bit (A100 / RTX 4090 24 GB+)
+
+# ── LoRA Architecture ──────────────────────────────────────────────────────
+lora:
+  r: 32
+  # Rank — complexity budget for adaptation.
+  # r=16  → lighter, fewer trainable params, faster — try if overfitting
+  # r=32  → our default — handles class + START/CONTINUATION dual output well
+  # r=64  → overkill for this task
+
+  alpha: 32
+  # Scaling factor. Scale = alpha / r.
+  # alpha = r     → scale 1.0 → conservative, stable (our choice for dual output)
+  # alpha = 2 × r → scale 2.0 → aggressive, common for single classification
+
+  dropout: 0.0
+  # Unsloth requires dropout=0 to apply its fast kernel patches.
+  # Non-zero dropout disables those patches and causes a performance hit.
+  # 0.0  → Unsloth fast path enabled (our choice)
+  # 0.05 → light regularisation but ~20% slower training — not worth it here
+
+  target_modules:
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj
+    - gate_proj
+    - up_proj
+    - down_proj
+  # Covers all attention + FFN layers — standard for Qwen models.
+  # Remove gate/up/down to reduce VRAM if needed (small accuracy trade-off).
+
+# ── Training Schedule ──────────────────────────────────────────────────────
+training:
+  num_train_epochs: 1
+  # v3: same JSON output format as v2 but without weight fields + blank-form null examples.
+  # 1 epoch first — model already learned JSON format in v2, so convergence should be faster.
+  # Increase to 2-3 if loss hasn't converged after 1 epoch.
+
+  learning_rate: 2.0e-4
+  # Keeping 2e-4 — same as v1. Base model already knows JSON format so
+  # adaptation cost is moderate. Lower to 1e-4 if loss oscillates.
+
+  lr_scheduler_type: "cosine"
+  warmup_ratio: 0.03
+
+  max_seq_length: 2048
+  # Image ~1300 tokens + prompt ~250 tokens + JSON answer ~150 tokens = ~1700.
+  # 2048 gives safe headroom. No need to increase despite longer JSON output.
+
+# ── Batch & Memory ─────────────────────────────────────────────────────────
+batch:
+  per_device_train_batch_size: 1
+  # batch=1 eliminates all batch-level image-token mismatch errors.
+  # With batch=3 the padded sequences can misalign when images in the batch
+  # produce different visual token counts — causes the index-out-of-bounds crash.
+
+  max_pixels: 614656
+  # 614656 = 28 × 28 × 784 = exactly 28×28 tiles.
+  # Keeps all resized images strictly on a 28-pixel grid so
+  # visual_tokens = (H/28)×(W/28) is always an exact integer — no off-by-one.
+  # ≈ 784×784 px → 28×28 = 784 visual tokens (vs 820 at 640K — negligible quality loss)
+
+  gradient_accumulation_steps: 18
+  # Effective batch = 1 × 18 = 18  (same as before: 3 × 6 = 18)
+
+  dataloader_num_workers: 0
+  # Must be 0 on Windows with Unsloth.
+  # Unsloth patches Qwen2_5_VLProcessor at runtime — the patched class can't be
+  # pickled by worker processes (Windows uses spawn, not fork). GPU is always the
+  # bottleneck for vision training anyway, so 0 workers has no real performance cost.
+
+# ── Dataset Balancing ──────────────────────────────────────────────────────
+dataset:
+  continuation_oversample_factor: 2
+  # Dataset is 72% START / 28% CONTINUATION after rebuild.
+  # factor=2 → CONTINUATION oversampled 2× → ~44% during training
+  # factor=1 → no oversampling, use natural 28% distribution
+
+  # factor=3 → was used when ratio was 10%; now too aggressive
+
+# ── Logging & Checkpointing ────────────────────────────────────────────────
+logging:
+  logging_steps: 25        # print loss every N steps
+
+  eval_steps: 500         # evaluate on val set every 500 steps
+  save_steps: 250         # save adapter checkpoint every 250 steps
+  # Resuming from checkpoint-500 → new checkpoints at:
+  # 750, 1000, 1250, 1500, 1750, 2000, 2250, 2500, 2750, 3000, 3250, 3444 (end)
+  # effective_batch = 1 × 18 = 18 → ~3,444 steps/epoch
+  # save_total_limit: null → keep ALL checkpoints (never delete any)
+
+  save_total_limit:       # null = keep every checkpoint — pick best one after training
+
+# ── Precision ──────────────────────────────────────────────────────────────
+precision:
+  bf16: true   # bfloat16 — preferred if GPU supports it (RTX 5080 does)
+  fp16: false  # fallback if bf16 not available — set true only if bf16 fails
+
+# ── Experiment Tracking ────────────────────────────────────────────────────
+tracking:
+  report_to: "none"
+  # "none"  → no tracking (default)
+  # "wandb" → Weights & Biases (set WANDB_API_KEY env var first)
+  # "tensorboard" → local TensorBoard logs
+
+# ── Paths (relative to project root) ──────────────────────────────────────
+paths:
+  train_data: "Training_Data_v3/train.jsonl"   # v3: + blank-form null examples, no weight fields
+  val_data:   "Training_Data_v3/val.jsonl"
+  image_base: "Training_Data"                   # images in Training_Data/images/ (blank_real + blank_synth added here by prepare_dataset_v3.py)
+  output_dir: "model_output_v3"                 # checkpoints saved every 500 steps
+  # v2 adapters are in: model_output_v2/  — untouched

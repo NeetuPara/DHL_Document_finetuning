@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0248",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU547052324",
+    "shipper_name": "Nichols Global GmbH",
+    "shipper_address": "400 Karen Gardens Suite 906, Willisborough, CO 72655, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Bell International Ltd",
+    "consignee_address": "USCGC Robertson, FPO AP 29801, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "Trade Griffin Pte Ltd",
+    "notify_party_address": "9677 Thomas Mews, Carrieville, VT 93707, Thailand",
+    "vessel": "ONE INNOVATION",
+    "voyage": "801N",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2025-07-08",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "BENZ0335536",
+        "seal_no": "BL567665",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "SVEJ4507300",
+        "seal_no": "BL861462",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "QANT2289895",
+        "seal_no": "SL156050",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "ATEM5512497",
+        "seal_no": "CL155826",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 233,
+    "package_type": "Carton",
+    "gross_weight_kg": 13934.4,
+    "net_weight_kg": 12525.0,
+    "cbm": 26.528,
+    "marks_and_numbers": "XYZ/25"
+  }
+}

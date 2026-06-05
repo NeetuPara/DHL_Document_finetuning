@@ -1,0 +1,75 @@
+{
+  "document_id": "cn23_0129",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Sarah Ryan",
+    "addressee_company": "Ward Industry Inc.",
+    "addressee_address": "321 Cole Pine, Leeland, TN 41922, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 22.468,
+    "total_value": 6760.82,
+    "currency": "AED",
+    "issue_date": "2026-01-08",
+    "reference": "REF-706062",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.642,
+        "value": 89.87,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 19,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.556,
+        "value": 1723.87,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 20,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.204,
+        "value": 1367.0,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 13,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.273,
+        "value": 1057.29,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 11,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.205,
+        "value": 808.83,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 12,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.588,
+        "value": 1713.96,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_country": "United Arab Emirates",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "747-87081248-7",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 15.4,
+    "estimated_duty": 1041.17,
+    "importer_ein": "77-7402516",
+    "customs_broker": "Tech Collins B.V."
+  }
+}

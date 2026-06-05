@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0341",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202110-4258",
+    "usppi_name": "Global Johnson GmbH",
+    "usppi_address": "60941 Bradley Track Suite 614, Richardsonmouth, IL 84622, United States",
+    "usppi_country": "United States",
+    "ein": "62-7348300",
+    "consignee_name": "Trade Jones Corp.",
+    "consignee_address": "PSC 3887, Box 1908, APO AA 90633, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Ferguson Trade AG",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Trevor Cole",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/45",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 44,
+        "unit": "BOX",
+        "weight_kg": 39.58,
+        "value_usd": 5024.25
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 72,
+        "unit": "CTN",
+        "weight_kg": 252.75,
+        "value_usd": 4423.36
+      },
+      {
+        "marks": "EXP/27",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 43,
+        "unit": "KGS",
+        "weight_kg": 43.0,
+        "value_usd": 534.53
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 133,
+        "unit": "SET",
+        "weight_kg": 445.34,
+        "value_usd": 22698.81
+      },
+      {
+        "marks": "SLI/33",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 135,
+        "unit": "LTR",
+        "weight_kg": 124.74,
+        "value_usd": 995.41
+      },
+      {
+        "marks": "ABC/7",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 185,
+        "unit": "PKG",
+        "weight_kg": 312.69,
+        "value_usd": 16216.75
+      },
+      {
+        "marks": "SLI/11",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 33,
+        "unit": "CTN",
+        "weight_kg": 46.48,
+        "value_usd": 483.98
+      },
+      {
+        "marks": "SLI/28",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 55,
+        "unit": "PCS",
+        "weight_kg": 38.89,
+        "value_usd": 48945.91
+      }
+    ],
+    "total_weight_kg": 1303.47,
+    "total_value_usd": 99323.0,
+    "service": "LCL Ocean",
+    "named_port": "Felixstowe, GB",
+    "insurance_value_usd": 31059.65,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-976094",
+    "destination_country": "Germany"
+  }
+}

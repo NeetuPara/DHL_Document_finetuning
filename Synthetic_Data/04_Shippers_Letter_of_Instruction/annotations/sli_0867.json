@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0867",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202205-5407",
+    "usppi_name": "Commerce Wilson Ltd",
+    "usppi_address": "49200 Richard Corner, Lake Randyfort, NV 06869, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "19-2034519",
+    "consignee_name": "Hunt Commerce Co.",
+    "consignee_address": "6346 Kristin Row, South Marymouth, MO 10505, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Perry Tech Pte Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Jessica Velez",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/9",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 173,
+        "unit": "PKG",
+        "weight_kg": 99.27,
+        "value_usd": 5350.66
+      },
+      {
+        "marks": "ABC/15",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 92,
+        "unit": "PCS",
+        "weight_kg": 52.88,
+        "value_usd": 1837.28
+      },
+      {
+        "marks": "ABC/28",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 8,
+        "unit": "CTN",
+        "weight_kg": 31.07,
+        "value_usd": 125.68
+      }
+    ],
+    "total_weight_kg": 183.22,
+    "total_value_usd": 7313.62,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "293S",
+    "booking_ref": "BKG-463062",
+    "bl_number": "MAEU512757342",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "LKLK9589219",
+    "seal_number": "CL450293",
+    "container_type": "20'GP",
+    "cbm": 16.305
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0254",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Ryan Davidson",
+    "addressee_company": "Thomas Industry AG",
+    "addressee_address": "59027 King Cape, Campbellfurt, AL 22995, Malaysia",
+    "addressee_country": "Malaysia",
+    "total_weight_kg": 4.18,
+    "total_value": 794.82,
+    "currency": "JPY",
+    "issue_date": "2026-03-08",
+    "reference": "REF-442818",
+    "line_items": [
+      {
+        "qty": 13,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.18,
+        "value": 794.82,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Emily Cook",
+    "sender_company": "Global Coleman Pte Ltd",
+    "sender_address": "85661 Thomas Brook Apt. 646, Lake Tamaramouth, TN 96006, Germany",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 79.5,
+    "tracking_number": "DH276135118WP"
+  }
+}

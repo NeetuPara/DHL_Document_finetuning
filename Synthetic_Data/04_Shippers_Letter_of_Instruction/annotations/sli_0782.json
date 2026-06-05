@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0782",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202007-2025",
+    "usppi_name": "Pacific Daniels Ltd",
+    "usppi_address": "50248 Justin Drive, Port Michael, PA 24842, France",
+    "usppi_country": "France",
+    "ein": "74-1893717",
+    "consignee_name": "Greer Industry B.V.",
+    "consignee_address": "9267 Matthew Park, Chungshire, MA 46968, China",
+    "consignee_country": "China",
+    "notify_party": "Trade Greene Corp.",
+    "forwarder": "Panalpina",
+    "incoterm": "FOB",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Maria Barker",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/5",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 99,
+        "unit": "PCS",
+        "weight_kg": 127.71,
+        "value_usd": 16306.31
+      },
+      {
+        "marks": "ABC/14",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 63,
+        "unit": "PCS",
+        "weight_kg": 17.93,
+        "value_usd": 9723.72
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 183,
+        "unit": "CTN",
+        "weight_kg": 578.13,
+        "value_usd": 2329.92
+      },
+      {
+        "marks": "ABC/3",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 115,
+        "unit": "KGS",
+        "weight_kg": 115.0,
+        "value_usd": 1270.17
+      },
+      {
+        "marks": "EXP/12",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 80,
+        "unit": "PCS",
+        "weight_kg": 47.76,
+        "value_usd": 1185.18
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 23,
+        "unit": "KGS",
+        "weight_kg": 23.0,
+        "value_usd": 42.36
+      }
+    ],
+    "total_weight_kg": 909.53,
+    "total_value_usd": 30857.66,
+    "service": "Express Courier",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 8153.93,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-317554",
+    "destination_country": "China"
+  }
+}

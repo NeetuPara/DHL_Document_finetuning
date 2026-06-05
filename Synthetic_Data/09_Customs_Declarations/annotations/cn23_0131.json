@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0131",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jose Shaw",
+    "addressee_company": "Parker Tech Pte Ltd",
+    "addressee_address": "PSC 4668, Box 4758, APO AE 17828, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 8.12,
+    "total_value": 4579.89,
+    "currency": "CAD",
+    "issue_date": "2025-10-05",
+    "reference": "REF-330552",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.013,
+        "value": 536.15,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 3,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.937,
+        "value": 346.5,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 16,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.886,
+        "value": 1739.2,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 14,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.284,
+        "value": 1958.04,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_name": "Bobby Johnson",
+    "sender_company": "Commerce Richardson Corp.",
+    "sender_address": "63599 Hailey Pike, Lake James, MN 70192, United Arab Emirates",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 5037.88,
+    "postal_charges": 11.93,
+    "tracking_number": "EQ932858856HA"
+  }
+}

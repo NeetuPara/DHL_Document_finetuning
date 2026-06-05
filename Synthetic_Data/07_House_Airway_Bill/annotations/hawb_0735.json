@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0735",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-16205916",
+    "mawb_number": "085-42244060",
+    "shipper_name": "Industry Craig S.A.",
+    "shipper_address": "958 Katie Manors Apt. 971, New Anthony, VT 25061, Belgium",
+    "consignee_name": "Tech Monroe S.A.",
+    "consignee_address": "66284 Williams Mountains Apt. 318, Johnland, NV 34991, Hong Kong",
+    "agent_name": "Garrett Pacific S.A.",
+    "airport_departure": "SYD",
+    "airport_destination": "SIN",
+    "currency": "USD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 23,
+    "gross_weight_kg": 273.3,
+    "chargeable_weight": 312.6,
+    "rate": 2.01,
+    "total_charge": 628.33,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "HANDLING CODE: PIL",
+    "issue_date": "2025-12-21",
+    "signatory": "Jordan Davis",
+    "iata_code": "59-162",
+    "agent_cass": "6152-4067",
+    "consolidation_ref": "CONS-9219-319215",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-31245058",
+        "pieces": 17,
+        "weight": 65.3,
+        "destination": "AMS",
+        "consignee": "Hinton Trade Co.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "057-14495822",
+        "pieces": 9,
+        "weight": 60.7,
+        "destination": "HKG",
+        "consignee": "Richardson Pacific Inc.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "176-44683582",
+        "pieces": 2,
+        "weight": 20.0,
+        "destination": "LHR",
+        "consignee": "International Moses AG",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "057-99596568",
+        "pieces": 17,
+        "weight": 64.6,
+        "destination": "HKG",
+        "consignee": "Pacific Leonard Ltd",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "085-67106863",
+        "pieces": 9,
+        "weight": 32.7,
+        "destination": "NRT",
+        "consignee": "Trade Faulkner Inc.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "045-96978921",
+        "pieces": 14,
+        "weight": 87.9,
+        "destination": "HKG",
+        "consignee": "Industry Ward Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "618-42452507",
+        "pieces": 18,
+        "weight": 18.4,
+        "destination": "ICN",
+        "consignee": "Commerce Mendez AG",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

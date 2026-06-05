@@ -1,0 +1,60 @@
+{
+  "packet_id": "packet_2606",
+  "total_pages": 5,
+  "n_documents": 5,
+  "class_sequence": [
+    "Import/Export License",
+    "Dangerous Goods Declaration",
+    "Shipper's Letter of Instruction",
+    "Verified Gross Mass",
+    "House Bill of Lading"
+  ],
+  "documents": [
+    {
+      "doc_class": "Import/Export License",
+      "class_index": 11,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "eei_0329.pdf",
+      "source_class_folder": "11_Import_Export_License"
+    },
+    {
+      "doc_class": "Dangerous Goods Declaration",
+      "class_index": 5,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "dgd_0924.pdf",
+      "source_class_folder": "05_Dangerous_Goods_Declaration"
+    },
+    {
+      "doc_class": "Shipper's Letter of Instruction",
+      "class_index": 4,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "sli_0679.pdf",
+      "source_class_folder": "04_Shippers_Letter_of_Instruction"
+    },
+    {
+      "doc_class": "Verified Gross Mass",
+      "class_index": 6,
+      "page_start": 4,
+      "page_end": 4,
+      "n_pages": 1,
+      "source_file": "vgm_0782.pdf",
+      "source_class_folder": "06_Verified_Gross_Mass"
+    },
+    {
+      "doc_class": "House Bill of Lading",
+      "class_index": 2,
+      "page_start": 5,
+      "page_end": 5,
+      "n_pages": 1,
+      "source_file": "hbl_0432.pdf",
+      "source_class_folder": "02_House_Bill_of_Lading"
+    }
+  ],
+  "task": "splitting"
+}

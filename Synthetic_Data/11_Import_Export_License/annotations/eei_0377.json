@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0377",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20200605589272",
+    "export_date": "2025-06-07",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Long Industry AG",
+    "usppi_ein": "93-2797321",
+    "usppi_address": "213 Alexander Pines Apt. 709, South Debbie, PA 33217, Mexico",
+    "ultimate_consignee": "Tech Jones Ltd",
+    "intermediate_consignee": "Foster Commerce Pte Ltd",
+    "forwarding_agent": "International Young AG",
+    "destination_country": "Belgium",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "618-77654578",
+    "total_value": 85804.44,
+    "currency": "CHF",
+    "signatory": "Barbara Roberts",
+    "line_items": [
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Poland",
+        "qty": 122,
+        "unit": "LTR",
+        "entered_value": 9916.16,
+        "duty_rate": 4.8,
+        "duty_amount": 475.98,
+        "eccn": "0A919",
+        "schedule_b": "2901.10.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "United States",
+        "qty": 494,
+        "unit": "PCS",
+        "entered_value": 75888.28,
+        "duty_rate": 11.6,
+        "duty_amount": 8803.04,
+        "eccn": "0A919",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

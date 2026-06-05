@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0450",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-30766290",
+    "mawb_number": "020-16746566",
+    "shipper_name": "Maddox Tech Inc.",
+    "shipper_address": "404 Christopher Union Apt. 215, North Randymouth, WV 46184, Mexico",
+    "consignee_name": "Newman Industry Pte Ltd",
+    "consignee_address": "1569 Jason Forge Apt. 809, Katherineborough, PR 83602, Spain",
+    "agent_name": "Miller Tech GmbH",
+    "airport_departure": "ICN",
+    "airport_destination": "ORD",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "AED 47,373.30",
+    "n_pieces": 34,
+    "gross_weight_kg": 91.8,
+    "chargeable_weight": 117.9,
+    "rate": 10.72,
+    "total_charge": 1263.89,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-02-18",
+    "signatory": "Ashley Gutierrez",
+    "iata_code": "64-560",
+    "agent_cass": "6088-8020",
+    "consolidation_ref": "CONS-7114-585405",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-19159860",
+        "pieces": 9,
+        "weight": 2.3,
+        "destination": "CDG",
+        "consignee": "Global White Pte Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "045-54182113",
+        "pieces": 16,
+        "weight": 60.4,
+        "destination": "AMS",
+        "consignee": "Pacific Williams Corp.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "020-47113703",
+        "pieces": 11,
+        "weight": 18.4,
+        "destination": "FRA",
+        "consignee": "Richard Tech AG",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "074-36613143",
+        "pieces": 7,
+        "weight": 99.2,
+        "destination": "ORD",
+        "consignee": "Tech Donaldson AG",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "176-34944863",
+        "pieces": 4,
+        "weight": 37.6,
+        "destination": "MIA",
+        "consignee": "Murphy Commerce LLC",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "176-81068012",
+        "pieces": 3,
+        "weight": 47.5,
+        "destination": "FRA",
+        "consignee": "Ellis Pacific LLC",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

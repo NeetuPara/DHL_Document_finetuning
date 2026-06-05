@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0689",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202201-5022",
+    "usppi_name": "Global Robbins AG",
+    "usppi_address": "Unit 2608 Box 3306, DPO AP 28184, France",
+    "usppi_country": "France",
+    "ein": "66-9350508",
+    "consignee_name": "Commerce Mclaughlin Corp.",
+    "consignee_address": "01884 Brian Stravenue, Lake Patricia, NC 13723, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Industry Bowman S.A.",
+    "forwarder": "Expeditors",
+    "incoterm": "CFR",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Whitney Richard MD",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/12",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 166,
+        "unit": "LTR",
+        "weight_kg": 176.41,
+        "value_usd": 5835.25
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 54,
+        "unit": "KGS",
+        "weight_kg": 54.0,
+        "value_usd": 954.02
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 186,
+        "unit": "CTN",
+        "weight_kg": 653.41,
+        "value_usd": 8461.25
+      },
+      {
+        "marks": "ABC/5",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 162,
+        "unit": "PCS",
+        "weight_kg": 180.11,
+        "value_usd": 2031.34
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 200,
+        "unit": "MTR",
+        "weight_kg": 110.15,
+        "value_usd": 1424.23
+      }
+    ],
+    "total_weight_kg": 1174.08,
+    "total_value_usd": 18706.09,
+    "service": "Air Freight",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 14714.21,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-103314",
+    "destination_country": "United Arab Emirates"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "packet_id": "packet_1299",
+  "total_pages": 3,
+  "n_documents": 3,
+  "class_sequence": [
+    "House Airway Bill",
+    "Customs Declaration",
+    "House Bill of Lading"
+  ],
+  "documents": [
+    {
+      "doc_class": "House Airway Bill",
+      "class_index": 7,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "hawb_0816.pdf",
+      "source_class_folder": "07_House_Airway_Bill"
+    },
+    {
+      "doc_class": "Customs Declaration",
+      "class_index": 9,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "cn23_0457.pdf",
+      "source_class_folder": "09_Customs_Declarations"
+    },
+    {
+      "doc_class": "House Bill of Lading",
+      "class_index": 2,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "hbl_0308.pdf",
+      "source_class_folder": "02_House_Bill_of_Lading"
+    }
+  ],
+  "task": "splitting"
+}

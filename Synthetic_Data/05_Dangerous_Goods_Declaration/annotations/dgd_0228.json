@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0228",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Daniels Corp.",
+    "shipper_address": "84014 Christopher Course Apt. 774, North Traci, OK 11933, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Bailey Industry AG",
+    "consignee_address": "930 Williams Coves, Graytown, AS 32587, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+10 958-635-8976",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 38,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 42.26,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Steve Day",
+    "signature_date": "2026-04-17",
+    "signature_place": "Hong Kong",
+    "awb_number": "176-67571347",
+    "flight_number": "LH1363",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare",
+    "non_dg_reason": "Excepted quantities (EQ) per IATA DGR 2.6"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0347",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Roberts AG",
+    "shipper_address": "61701 Moses Parkways, South Scott, CO 96042, India",
+    "shipper_country": "India",
+    "consignee_name": "Pacific Lang GmbH",
+    "consignee_address": "165 Destiny Inlet, New Angelamouth, AZ 38439, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+51 483-172-7442",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 42,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 65.2,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 12,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 15.64,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-369525",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Justin Walker",
+    "signature_date": "2026-05-08",
+    "signature_place": "India",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "542E",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Tokyo, JP"
+  }
+}

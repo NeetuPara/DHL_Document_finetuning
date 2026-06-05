@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0450",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202605-5112",
+    "usppi_name": "International Wolfe Corp.",
+    "usppi_address": "305 Cooke Vista Suite 089, South Jodi, MH 39784, Italy",
+    "usppi_country": "Italy",
+    "ein": "53-4917782",
+    "consignee_name": "Sosa Trade Pte Ltd",
+    "consignee_address": "44751 Yvette Plains Suite 351, South Jerryburgh, AK 71484, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Tech Stevens Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Daniel Robinson",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/11",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 165,
+        "unit": "BOX",
+        "weight_kg": 194.83,
+        "value_usd": 16901.47
+      },
+      {
+        "marks": "SLI/9",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 45,
+        "unit": "LTR",
+        "weight_kg": 47.08,
+        "value_usd": 642.97
+      },
+      {
+        "marks": "SLI/5",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 144,
+        "unit": "KGS",
+        "weight_kg": 144.0,
+        "value_usd": 1485.04
+      },
+      {
+        "marks": "EXP/36",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 30,
+        "unit": "PCS",
+        "weight_kg": 24.22,
+        "value_usd": 990.33
+      },
+      {
+        "marks": "ABC/37",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 15,
+        "unit": "PCS",
+        "weight_kg": 1.75,
+        "value_usd": 1103.23
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 157,
+        "unit": "PCS",
+        "weight_kg": 1872.9,
+        "value_usd": 32246.76
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 129,
+        "unit": "PCS",
+        "weight_kg": 130.74,
+        "value_usd": 149668.7
+      }
+    ],
+    "total_weight_kg": 2415.52,
+    "total_value_usd": 203038.5,
+    "vessel": "EVER GOLDEN",
+    "voyage": "315S",
+    "booking_ref": "BKG-461001",
+    "bl_number": "OOLU578694145",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "New York, US",
+    "container_number": "DDNT2166996",
+    "seal_number": "BL750473",
+    "container_type": "40'GP",
+    "cbm": 46.513
+  }
+}

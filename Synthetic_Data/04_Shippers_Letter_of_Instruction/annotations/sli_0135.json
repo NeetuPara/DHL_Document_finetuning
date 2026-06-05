@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0135",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202004-1318",
+    "usppi_name": "Industry Smith GmbH",
+    "usppi_address": "513 Gill Courts, North Michaelville, DE 85492, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "62-9231047",
+    "consignee_name": "International Smith S.A.",
+    "consignee_address": "22054 Renee Course, East Michael, WY 28005, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "International Williams Corp.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Donald Woodward",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/7",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 49,
+        "unit": "PCS",
+        "weight_kg": 2.63,
+        "value_usd": 3650.77
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 113,
+        "unit": "KGS",
+        "weight_kg": 113.0,
+        "value_usd": 1308.18
+      },
+      {
+        "marks": "EXP/42",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 50,
+        "unit": "PCS",
+        "weight_kg": 501.2,
+        "value_usd": 20354.47
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 126,
+        "unit": "LTR",
+        "weight_kg": 127.02,
+        "value_usd": 3657.39
+      }
+    ],
+    "total_weight_kg": 743.85,
+    "total_value_usd": 28970.81,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "330S",
+    "booking_ref": "BKG-381995",
+    "bl_number": "OOLU899436463",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Singapore, SG",
+    "container_number": "PXYY6235567",
+    "seal_number": "SL351263",
+    "container_type": "40'GP",
+    "cbm": 18.301
+  }
+}

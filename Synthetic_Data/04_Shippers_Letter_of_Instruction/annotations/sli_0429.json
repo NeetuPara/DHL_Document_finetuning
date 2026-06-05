@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0429",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202001-1791",
+    "usppi_name": "Snyder Tech Co.",
+    "usppi_address": "Unit 8413 Box 4296, DPO AP 14116, United States",
+    "usppi_country": "United States",
+    "ein": "75-3385137",
+    "consignee_name": "Trade Morris S.A.",
+    "consignee_address": "4982 Landry Village, Karabury, OR 78504, China",
+    "consignee_country": "China",
+    "notify_party": "Industry Moss Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Steven Coffey",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/46",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 48,
+        "unit": "KGS",
+        "weight_kg": 48.0,
+        "value_usd": 641.9
+      },
+      {
+        "marks": "EXP/33",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 69,
+        "unit": "CTN",
+        "weight_kg": 130.36,
+        "value_usd": 318.6
+      },
+      {
+        "marks": "EXP/27",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 198,
+        "unit": "SET",
+        "weight_kg": 660.21,
+        "value_usd": 15200.31
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 161,
+        "unit": "PCS",
+        "weight_kg": 37.2,
+        "value_usd": 13736.69
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 128,
+        "unit": "PCS",
+        "weight_kg": 82.33,
+        "value_usd": 355.76
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 155,
+        "unit": "KGS",
+        "weight_kg": 155.0,
+        "value_usd": 132.24
+      }
+    ],
+    "total_weight_kg": 1113.1,
+    "total_value_usd": 30385.5,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "437N",
+    "booking_ref": "BKG-486797",
+    "bl_number": "DHLG810552471",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Felixstowe, GB",
+    "container_number": "VOVZ9471534",
+    "seal_number": "BL364895",
+    "container_type": "40'GP",
+    "cbm": 32.499
+  }
+}

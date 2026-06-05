@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0881",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20200102924077",
+    "export_date": "2025-09-09",
+    "aes_option": "AES Filing",
+    "usppi_name": "Global Weaver AG",
+    "usppi_ein": "35-5299110",
+    "usppi_address": "255 Campbell Summit Apt. 719, East Jack, IN 65659, South Korea",
+    "ultimate_consignee": "Cobb Pacific AG",
+    "intermediate_consignee": "Cobb International LLC",
+    "forwarding_agent": "Tech Richardson GmbH",
+    "destination_country": "Canada",
+    "carrier": "DHL Express",
+    "bl_awb": "176-74745921",
+    "total_value": 231861.8,
+    "currency": "USD",
+    "signatory": "Thomas Freeman",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Italy",
+        "qty": 292,
+        "unit": "MTR",
+        "entered_value": 111076.8,
+        "duty_rate": 23.7,
+        "duty_amount": 26325.2,
+        "eccn": "EAR99",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Australia",
+        "qty": 250,
+        "unit": "PCS",
+        "entered_value": 120785.0,
+        "duty_rate": 15.1,
+        "duty_amount": 18238.53,
+        "eccn": "3A992",
+        "schedule_b": "3926.90.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

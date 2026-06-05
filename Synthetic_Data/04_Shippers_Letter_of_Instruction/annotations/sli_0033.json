@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0033",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202111-8414",
+    "usppi_name": "Pacific Johnson Corp.",
+    "usppi_address": "2582 Reyes Hollow Apt. 413, North Lisatown, ND 54384, France",
+    "usppi_country": "France",
+    "ein": "51-4584194",
+    "consignee_name": "Industry Grant Corp.",
+    "consignee_address": "USNV Mitchell, FPO AE 76733, China",
+    "consignee_country": "China",
+    "notify_party": "Peters Commerce Pte Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Ralph Andrews",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/48",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 166,
+        "unit": "PCS",
+        "weight_kg": 2321.65,
+        "value_usd": 113244.96
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 16,
+        "unit": "PCS",
+        "weight_kg": 199.1,
+        "value_usd": 4780.94
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 55,
+        "unit": "LTR",
+        "weight_kg": 50.91,
+        "value_usd": 1902.28
+      }
+    ],
+    "total_weight_kg": 2571.66,
+    "total_value_usd": 119928.18,
+    "vessel": "ONE INNOVATION",
+    "voyage": "592S",
+    "booking_ref": "BKG-631253",
+    "bl_number": "OOLU542415671",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Tokyo, JP",
+    "container_number": "BCXL3078320",
+    "seal_number": "SL906714",
+    "container_type": "40'HC",
+    "cbm": 12.921
+  }
+}

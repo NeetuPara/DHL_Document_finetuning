@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0425",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Wayne Snyder",
+    "addressee_company": "International Weber LLC",
+    "addressee_address": "18445 Sanchez Vista Suite 116, Avilabury, OH 82635, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 15.334,
+    "total_value": 2568.91,
+    "currency": "EUR",
+    "issue_date": "2026-04-13",
+    "reference": "REF-074774",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.316,
+        "value": 1206.38,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 8,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.311,
+        "value": 180.4,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 11,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.749,
+        "value": 817.52,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 19,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.958,
+        "value": 364.61,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Suzanne White",
+    "sender_company": "Industry Perry Co.",
+    "sender_address": "3699 Steven Knoll Suite 946, New Shannonview, NV 94119, Netherlands",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 2825.8,
+    "postal_charges": 64.67,
+    "tracking_number": "LQ069636391LP"
+  }
+}

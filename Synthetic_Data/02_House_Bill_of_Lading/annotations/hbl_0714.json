@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0714",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU792762230",
+    "shipper_name": "Global Thompson AG",
+    "shipper_address": "1084 Taylor Harbors Apt. 152, Diazshire, LA 33188, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Tech Castillo Inc.",
+    "consignee_address": "1103 Guerra Landing Apt. 416, Ralphberg, ME 70277, France",
+    "consignee_country": "France",
+    "notify_party_name": "Global Johnson Pte Ltd",
+    "notify_party_address": "99645 Smith Cape Suite 208, Gonzalezshire, WA 12266, Japan",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "575S",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Dubai, AE",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2025-09-08",
+    "issue_place": "Felixstowe",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "QXHQ8083884",
+        "seal_no": "CL708791",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "ZDDX5808826",
+        "seal_no": "SL132218",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "HMKG0301015",
+        "seal_no": "CL462557",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "SGMZ7453984",
+        "seal_no": "SL605470",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 362,
+    "package_type": "Case",
+    "gross_weight_kg": 5841.1,
+    "net_weight_kg": 5149.1,
+    "cbm": 25.206,
+    "marks_and_numbers": "XYZ/3"
+  }
+}

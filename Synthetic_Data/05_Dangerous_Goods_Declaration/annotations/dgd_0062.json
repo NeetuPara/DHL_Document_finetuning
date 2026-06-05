@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0062",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Wong International Ltd",
+    "shipper_address": "USNV Phillips, FPO AP 19354, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Green Industry GmbH",
+    "consignee_address": "456 Brooks Groves, Dixonmouth, VI 75017, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+11 171-752-2338",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 24,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 94.57,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-749438",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 5,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 58.3,
+        "qty_unit": "g",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Morgan Taylor",
+    "signature_date": "2026-05-08",
+    "signature_place": "Malaysia",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "160W",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Felixstowe, GB"
+  }
+}

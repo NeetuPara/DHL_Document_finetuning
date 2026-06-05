@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0459",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202206-9329",
+    "usppi_name": "Global Smith AG",
+    "usppi_address": "716 Katherine Key, Port Shaun, OH 39364, China",
+    "usppi_country": "China",
+    "ein": "86-6410363",
+    "consignee_name": "Rasmussen Tech AG",
+    "consignee_address": "40214 Hays Streets Apt. 343, Toddburgh, IA 91977, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Rowe Industry Corp.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIF",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "Andrew Martinez",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/42",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 172,
+        "unit": "BOX",
+        "weight_kg": 249.34,
+        "value_usd": 7639.83
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 167,
+        "unit": "KGS",
+        "weight_kg": 167.0,
+        "value_usd": 117.37
+      }
+    ],
+    "total_weight_kg": 416.34,
+    "total_value_usd": 7757.2,
+    "vessel": "PIL PACIFIC",
+    "voyage": "371W",
+    "booking_ref": "BKG-605031",
+    "bl_number": "OOLU226046862",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Qingdao, CN",
+    "container_number": "OQQE6837148",
+    "seal_number": "CL311499",
+    "container_type": "20'GP",
+    "cbm": 23.023
+  }
+}

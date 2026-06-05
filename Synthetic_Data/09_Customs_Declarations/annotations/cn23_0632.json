@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0632",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Rhonda Collins",
+    "addressee_company": "Collier Commerce S.A.",
+    "addressee_address": "PSC 8071, Box 2041, APO AA 52142, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 5.337,
+    "total_value": 222.08,
+    "currency": "CHF",
+    "issue_date": "2025-05-13",
+    "reference": "REF-396210",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.448,
+        "value": 89.64,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 4,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.889,
+        "value": 132.44,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "Richard Martinez",
+    "sender_company": "Brown Trade Pte Ltd",
+    "sender_address": "20581 Melissa Circles, Sosastad, OH 70072, Thailand",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 63.7,
+    "tracking_number": "GZ356089833CO"
+  }
+}

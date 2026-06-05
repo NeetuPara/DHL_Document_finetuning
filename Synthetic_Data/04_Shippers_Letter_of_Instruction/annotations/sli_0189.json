@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0189",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202009-2656",
+    "usppi_name": "Robinson Commerce GmbH",
+    "usppi_address": "7168 Scott Springs, North Brittany, LA 44334, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "82-1528020",
+    "consignee_name": "Commerce Garza Ltd",
+    "consignee_address": "PSC 6760, Box 2014, APO AA 80266, France",
+    "consignee_country": "France",
+    "notify_party": "Trade Phillips Pte Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Xavier Gordon",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/23",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 123,
+        "unit": "PCS",
+        "weight_kg": 9.47,
+        "value_usd": 5899.31
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 167,
+        "unit": "KGS",
+        "weight_kg": 167.0,
+        "value_usd": 2763.95
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 23,
+        "unit": "KGS",
+        "weight_kg": 23.0,
+        "value_usd": 39.31
+      }
+    ],
+    "total_weight_kg": 199.47,
+    "total_value_usd": 8702.57,
+    "vessel": "MADRID MAERSK",
+    "voyage": "101W",
+    "booking_ref": "BKG-748599",
+    "bl_number": "MAEU346145430",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "AWQX1981398",
+    "seal_number": "BL165364",
+    "container_type": "40'GP",
+    "cbm": 8.362
+  }
+}

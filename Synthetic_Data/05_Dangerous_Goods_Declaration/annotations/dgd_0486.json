@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0486",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Martin Inc.",
+    "shipper_address": "13931 Mercedes Isle Suite 004, Johnsonshire, IA 61475, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Lewis Global Pte Ltd",
+    "consignee_address": "USNS Williams, FPO AE 86876, Japan",
+    "consignee_country": "Japan",
+    "emergency_telephone": "+66 606-362-1293",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 38,
+        "pkg_type": "Steel Drum",
+        "net_qty": 91.55,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-757329",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Maria Lane",
+    "signature_date": "2026-05-11",
+    "signature_place": "Germany",
+    "awb_number": "176-30916246",
+    "flight_number": "LH2961",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International",
+    "non_dg_reason": "Lithium Ion Batteries \u2014 Section II (PI 967/Section II)"
+  }
+}

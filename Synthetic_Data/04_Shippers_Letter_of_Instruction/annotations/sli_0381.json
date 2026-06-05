@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0381",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202203-7254",
+    "usppi_name": "Bartlett International Ltd",
+    "usppi_address": "71723 Graham Estate Suite 942, Ericstad, MN 78371, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "87-6865978",
+    "consignee_name": "International Rhodes Inc.",
+    "consignee_address": "0731 Miller Ridge, Lake Nicholasberg, KS 96171, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Burnett Tech Pte Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Kimberly Williams",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/17",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 191,
+        "unit": "MTR",
+        "weight_kg": 218.96,
+        "value_usd": 1049.6
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 111,
+        "unit": "KGS",
+        "weight_kg": 111.0,
+        "value_usd": 1827.96
+      },
+      {
+        "marks": "EXP/10",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 79,
+        "unit": "BOX",
+        "weight_kg": 61.0,
+        "value_usd": 3712.29
+      }
+    ],
+    "total_weight_kg": 390.96,
+    "total_value_usd": 6589.85,
+    "vessel": "MOL TRIUMPH",
+    "voyage": "662W",
+    "booking_ref": "BKG-709658",
+    "bl_number": "COSU570215101",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Dubai, AE",
+    "container_number": "WBAI6816439",
+    "seal_number": "CL400397",
+    "container_type": "45'HC",
+    "cbm": 20.414
+  }
+}

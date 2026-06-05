@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0396",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jonathan Bullock",
+    "addressee_company": "Snyder Industry Pte Ltd",
+    "addressee_address": "8257 Thompson Skyway, North Patricia, MD 53224, Sweden",
+    "addressee_country": "Sweden",
+    "total_weight_kg": 1.914,
+    "total_value": 1322.17,
+    "currency": "AED",
+    "issue_date": "2025-09-03",
+    "reference": "REF-549968",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.116,
+        "value": 734.65,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 17,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.798,
+        "value": 587.52,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Italy"
+      }
+    ],
+    "sender_country": "India",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "557-48880129-4",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 0.3,
+    "estimated_duty": 3.97,
+    "importer_ein": "54-6724022",
+    "customs_broker": "Yang Global Pte Ltd"
+  }
+}

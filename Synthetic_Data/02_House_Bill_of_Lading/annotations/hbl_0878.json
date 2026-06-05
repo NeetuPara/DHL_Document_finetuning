@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0878",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU840349049",
+    "shipper_name": "Commerce Johnson Pte Ltd",
+    "shipper_address": "506 Perry Union, North Sarahhaven, IA 17910, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Pacific Smith Inc.",
+    "consignee_address": "8763 Mary Centers Apt. 325, New Susanchester, RI 24641, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party_name": "Commerce Bentley GmbH",
+    "notify_party_address": "84387 Dunn Mall Suite 442, North Vickiehaven, NC 44462, Netherlands",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "203S",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2024-08-01",
+    "issue_place": "Rotterdam",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "NNDO4819013",
+        "seal_no": "SL516704",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "HFGR4506923",
+        "seal_no": "SL177627",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 407,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 7143.6,
+    "net_weight_kg": 6658.5,
+    "cbm": 31.553,
+    "marks_and_numbers": "ABC/48"
+  }
+}

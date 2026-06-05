@@ -1,0 +1,75 @@
+{
+  "document_id": "cn23_0929",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Michelle Freeman",
+    "addressee_company": "Mayo International GmbH",
+    "addressee_address": "918 Blake Crossing Apt. 769, North Christopher, IL 46858, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 15.261,
+    "total_value": 2027.14,
+    "currency": "GBP",
+    "issue_date": "2025-05-27",
+    "reference": "REF-145384",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.181,
+        "value": 22.28,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 1,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.533,
+        "value": 13.98,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 13,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.682,
+        "value": 1480.7,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 2,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.235,
+        "value": 182.32,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 13,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.683,
+        "value": 95.94,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 8,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.947,
+        "value": 231.92,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Amy Macdonald",
+    "sender_company": "Chase Tech Pte Ltd",
+    "sender_address": "8374 Barrera Loaf, North Kevintown, KY 84845, Singapore",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 31.55,
+    "tracking_number": "LP802146566HI"
+  }
+}

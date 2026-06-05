@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0383",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202103-1699",
+    "usppi_name": "Tech Watson Ltd",
+    "usppi_address": "2635 Russell Radial, South Deborahbury, HI 61880, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "48-2266235",
+    "consignee_name": "Baker Global Pte Ltd",
+    "consignee_address": "30243 Carey Points Apt. 348, Port Joanne, NH 10005, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Blake Trade Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Michael Banks",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/22",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 62,
+        "unit": "KGS",
+        "weight_kg": 62.0,
+        "value_usd": 834.94
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 140,
+        "unit": "PCS",
+        "weight_kg": 2656.17,
+        "value_usd": 13271.37
+      },
+      {
+        "marks": "EXP/17",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 170,
+        "unit": "MTR",
+        "weight_kg": 115.49,
+        "value_usd": 2107.81
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 185,
+        "unit": "PCS",
+        "weight_kg": 149.46,
+        "value_usd": 44176.89
+      },
+      {
+        "marks": "EXP/3",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 158,
+        "unit": "PCS",
+        "weight_kg": 1051.82,
+        "value_usd": 87512.83
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 199,
+        "unit": "CTN",
+        "weight_kg": 258.87,
+        "value_usd": 1744.73
+      }
+    ],
+    "total_weight_kg": 4293.81,
+    "total_value_usd": 149648.57,
+    "service": "Express Courier",
+    "named_port": "Toronto Pearson",
+    "insurance_value_usd": 46320.23,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-768262",
+    "destination_country": "Poland"
+  }
+}

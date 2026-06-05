@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0590",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202310-7331",
+    "usppi_name": "Miller Trade GmbH",
+    "usppi_address": "68749 Mark Lane Apt. 545, Aaronchester, PA 51243, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "26-3655104",
+    "consignee_name": "Trade Greer Inc.",
+    "consignee_address": "PSC 2899, Box 6528, APO AA 21779, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Trade Cardenas AG",
+    "forwarder": "Panalpina",
+    "incoterm": "CIF",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Anthony Wang",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/11",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 105,
+        "unit": "MTR",
+        "weight_kg": 41.5,
+        "value_usd": 1060.53
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 181,
+        "unit": "LTR",
+        "weight_kg": 194.88,
+        "value_usd": 4888.5
+      },
+      {
+        "marks": "ABC/8",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 13,
+        "unit": "PKG",
+        "weight_kg": 9.08,
+        "value_usd": 105.11
+      }
+    ],
+    "total_weight_kg": 245.46,
+    "total_value_usd": 6054.14,
+    "service": "LCL Ocean",
+    "named_port": "Tokyo, JP",
+    "insurance_value_usd": 44645.68,
+    "license_type": "Distributor License",
+    "license_number": "LIC-666551",
+    "destination_country": "Hong Kong"
+  }
+}

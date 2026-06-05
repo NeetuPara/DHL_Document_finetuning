@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0219",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Smith Commerce Co.",
+    "shipper_address": "3642 Watkins Isle Apt. 141, Port Williamstad, NJ 29037, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Silva International Corp.",
+    "consignee_address": "78826 Elizabeth Meadow, Chloebury, MP 34045, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "emergency_telephone": "+53 322-920-8202",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 12,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 14.98,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-576041",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Monica Schwartz",
+    "signature_date": "2026-04-24",
+    "signature_place": "Singapore",
+    "awb_number": "176-51253926",
+    "flight_number": "CX4681",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

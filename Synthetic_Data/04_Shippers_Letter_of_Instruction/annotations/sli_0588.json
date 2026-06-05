@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0588",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202208-2543",
+    "usppi_name": "Salas International B.V.",
+    "usppi_address": "7089 Stephanie Orchard Suite 319, Carterstad, MT 29434, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "97-7411458",
+    "consignee_name": "Soto Industry Ltd",
+    "consignee_address": "439 Katie Cape Suite 802, South Matthew, GA 26713, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Rosario Global LLC",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Carla Graves",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/18",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 147,
+        "unit": "PCS",
+        "weight_kg": 39.92,
+        "value_usd": 92515.52
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 16,
+        "unit": "PCS",
+        "weight_kg": 67.33,
+        "value_usd": 10308.87
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 19,
+        "unit": "PCS",
+        "weight_kg": 17.56,
+        "value_usd": 273.51
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 31,
+        "unit": "PCS",
+        "weight_kg": 3.65,
+        "value_usd": 617.23
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 49,
+        "unit": "MTR",
+        "weight_kg": 54.76,
+        "value_usd": 865.65
+      }
+    ],
+    "total_weight_kg": 183.22,
+    "total_value_usd": 104580.78,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "134N",
+    "booking_ref": "BKG-730541",
+    "bl_number": "EGLV271035214",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Rotterdam, NL",
+    "container_number": "EBOL0490868",
+    "seal_number": "SL271367",
+    "container_type": "40'GP",
+    "cbm": 10.876
+  }
+}

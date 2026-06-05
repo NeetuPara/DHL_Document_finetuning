@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0855",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Bautista International Inc.",
+    "shipper_address": "427 Stephen Corners Suite 223, South Steven, LA 37362, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Hernandez Global AG",
+    "consignee_address": "2498 Gina Springs Apt. 252, Port Kimberlytown, MS 23772, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+91 613-299-7046",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 2,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 80.28,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-357207",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Crystal Strickland",
+    "signature_date": "2026-04-24",
+    "signature_place": "Canada",
+    "awb_number": "006-90436385",
+    "flight_number": "LH8651",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

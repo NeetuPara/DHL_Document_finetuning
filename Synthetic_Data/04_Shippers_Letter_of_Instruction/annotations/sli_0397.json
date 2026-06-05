@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0397",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202405-3834",
+    "usppi_name": "Global Smith Corp.",
+    "usppi_address": "27962 Brown Isle, North Kennethshire, AS 67965, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "58-5958224",
+    "consignee_name": "Commerce Cruz B.V.",
+    "consignee_address": "09072 Patricia Oval Suite 920, Fuentesburgh, NE 99136, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Pacific Bowers GmbH",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Jaime Cole",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/11",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 71,
+        "unit": "KGS",
+        "weight_kg": 71.0,
+        "value_usd": 888.08
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 136,
+        "unit": "PCS",
+        "weight_kg": 14.56,
+        "value_usd": 30944.82
+      },
+      {
+        "marks": "ABC/41",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 177,
+        "unit": "LTR",
+        "weight_kg": 191.05,
+        "value_usd": 5873.02
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 155,
+        "unit": "BOX",
+        "weight_kg": 278.87,
+        "value_usd": 2918.84
+      },
+      {
+        "marks": "ABC/12",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 47,
+        "unit": "PKG",
+        "weight_kg": 98.87,
+        "value_usd": 739.62
+      }
+    ],
+    "total_weight_kg": 654.35,
+    "total_value_usd": 41364.38,
+    "service": "Air Freight",
+    "named_port": "Frankfurt Airport",
+    "insurance_value_usd": 41244.34,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-967560",
+    "destination_country": "Belgium"
+  }
+}

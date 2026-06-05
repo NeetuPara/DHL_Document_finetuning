@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0899",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210110756470",
+    "export_date": "2025-12-22",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Tech Newman S.A.",
+    "usppi_ein": "44-8152857",
+    "usppi_address": "3076 Holder Parkways Suite 900, Bobstad, NE 10475, United Kingdom",
+    "ultimate_consignee": "Pacific Wright Co.",
+    "intermediate_consignee": "Yang Industry Inc.",
+    "forwarding_agent": "Global Mills AG",
+    "destination_country": "Mexico",
+    "carrier": "UPS",
+    "bl_awb": "074-21865790",
+    "total_value": 249589.04,
+    "currency": "CNY",
+    "signatory": "Richard Jones",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Sweden",
+        "qty": 367,
+        "unit": "MTR",
+        "entered_value": 126699.41,
+        "duty_rate": 11.1,
+        "duty_amount": 14063.63,
+        "eccn": "5E992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 182,
+        "unit": "PCS",
+        "entered_value": 50952.72,
+        "duty_rate": 13.5,
+        "duty_amount": 6878.62,
+        "eccn": "9A515",
+        "schedule_b": "8483.40.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Japan",
+        "qty": 155,
+        "unit": "MTR",
+        "entered_value": 25102.25,
+        "duty_rate": 1.9,
+        "duty_amount": 476.94,
+        "eccn": "0A919",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Belgium",
+        "qty": 121,
+        "unit": "PCS",
+        "entered_value": 30596.06,
+        "duty_rate": 20.8,
+        "duty_amount": 6363.98,
+        "eccn": "5E992",
+        "schedule_b": "8483.40.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "United Kingdom",
+        "qty": 70,
+        "unit": "CTN",
+        "entered_value": 16238.6,
+        "duty_rate": 2.9,
+        "duty_amount": 470.92,
+        "eccn": "9A515",
+        "schedule_b": "4819.10.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

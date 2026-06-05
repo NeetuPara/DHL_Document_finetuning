@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0910",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Wilson AG",
+    "shipper_address": "676 Marie Bridge Apt. 337, Lewisberg, NY 57414, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Garcia Global B.V.",
+    "consignee_address": "56715 Rogers Curve Apt. 756, New Jakefurt, AL 95789, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+45 756-751-1491",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 48,
+        "pkg_type": "Steel Drum",
+        "net_qty": 22.89,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Levi Mckee PhD",
+    "signature_date": "2026-04-14",
+    "signature_place": "Germany",
+    "awb_number": "085-19182400",
+    "flight_number": "SQ8009",
+    "flight_date": "2026-04-16",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "HKG",
+    "destination_airport_name": "Hong Kong International"
+  }
+}

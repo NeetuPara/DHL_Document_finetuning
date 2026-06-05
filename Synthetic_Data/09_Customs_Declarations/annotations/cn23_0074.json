@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0074",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Nicole Wilson",
+    "addressee_company": "Gallagher Industry Corp.",
+    "addressee_address": "507 Jennifer Trail, Stephenmouth, ME 62189, India",
+    "addressee_country": "India",
+    "total_weight_kg": 7.421,
+    "total_value": 1023.06,
+    "currency": "CHF",
+    "issue_date": "2026-04-14",
+    "reference": "REF-936349",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.117,
+        "value": 264.62,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 16,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.608,
+        "value": 665.92,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 9,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.696,
+        "value": 92.52,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_name": "Cody Johnson",
+    "sender_company": "Industry Hill AG",
+    "sender_address": "Unit 7067 Box 6613, DPO AP 29313, Germany",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 1125.37,
+    "postal_charges": 52.54,
+    "tracking_number": "XQ913461309MW"
+  }
+}

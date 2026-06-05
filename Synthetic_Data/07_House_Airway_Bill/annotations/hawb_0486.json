@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0486",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-39586375",
+    "mawb_number": "618-33109770",
+    "shipper_name": "Global Wilkins Corp.",
+    "shipper_address": "53332 Tricia Forges Suite 308, Leachport, IN 01945, South Korea",
+    "consignee_name": "Commerce Davis S.A.",
+    "consignee_address": "4323 Hunter Passage, Lake Roberta, WY 00648, France",
+    "agent_name": "Industry Jarvis Inc.",
+    "airport_departure": "ORD",
+    "airport_destination": "NRT",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "AUD 47,479.42",
+    "declared_value_customs": "AUD 22,315.81",
+    "n_pieces": 12,
+    "gross_weight_kg": 135.3,
+    "chargeable_weight": 158.6,
+    "rate": 4.94,
+    "total_charge": 783.48,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-06-18",
+    "signatory": "Christopher Smith",
+    "iata_code": "17-332",
+    "agent_cass": "8846-8080",
+    "consolidation_ref": "CONS-5742-427334",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-95220984",
+        "pieces": 3,
+        "weight": 15.5,
+        "destination": "YYZ",
+        "consignee": "Pacific Gates Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "125-93009698",
+        "pieces": 17,
+        "weight": 91.6,
+        "destination": "FRA",
+        "consignee": "Pacific Hernandez B.V.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "160-86123406",
+        "pieces": 2,
+        "weight": 33.5,
+        "destination": "ORD",
+        "consignee": "Moody Pacific GmbH",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "085-57798439",
+        "pieces": 4,
+        "weight": 27.9,
+        "destination": "DXB",
+        "consignee": "Jackson Industry S.A.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "045-16786571",
+        "pieces": 7,
+        "weight": 4.8,
+        "destination": "ORD",
+        "consignee": "Taylor Tech Ltd",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "074-27142907",
+        "pieces": 12,
+        "weight": 34.5,
+        "destination": "JFK",
+        "consignee": "Hines Pacific Co.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "125-39086727",
+        "pieces": 13,
+        "weight": 29.2,
+        "destination": "ORD",
+        "consignee": "White Tech B.V.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "085-41109314",
+        "pieces": 12,
+        "weight": 97.3,
+        "destination": "HKG",
+        "consignee": "Henderson Trade S.A.",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

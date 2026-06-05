@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0860",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Danielle Robertson",
+    "addressee_company": "Bennett Commerce Ltd",
+    "addressee_address": "9400 Lester Mills, Lake Frankhaven, MN 25831, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 6.512,
+    "total_value": 370.66,
+    "currency": "JPY",
+    "issue_date": "2026-01-13",
+    "reference": "REF-804353",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.155,
+        "value": 116.92,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 6,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.357,
+        "value": 253.74,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Joshua Garcia",
+    "sender_company": "Trevino Commerce Pte Ltd",
+    "sender_address": "4826 Oliver Plains Suite 918, Lake Kari, AR 89394, United Arab Emirates",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 407.73,
+    "postal_charges": 38.75,
+    "tracking_number": "FL299501852MF"
+  }
+}

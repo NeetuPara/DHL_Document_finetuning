@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0816",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG906335621",
+    "shipper_name": "Gray Pacific GmbH",
+    "shipper_address": "785 Nichols Rest, West Joel, ID 45837, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Tech Henderson Inc.",
+    "consignee_address": "15129 Campbell Roads Suite 681, New Alexa, PA 17907, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Lloyd Pacific LLC",
+    "notify_party_address": "20975 Dunn Shores Suite 392, Port Laceymouth, NC 54066, United Kingdom",
+    "vessel": "MSC GULSUN",
+    "voyage": "966E",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2024-11-16",
+    "issue_place": "Qingdao",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "CRHI0866086",
+        "seal_no": "SL712460",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "FYQN1918168",
+        "seal_no": "BL209796",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "KKYM7859373",
+        "seal_no": "BL452187",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 120,
+    "package_type": "Drum",
+    "gross_weight_kg": 15472.7,
+    "net_weight_kg": 13745.6,
+    "cbm": 5.695,
+    "marks_and_numbers": "ABC/29"
+  }
+}

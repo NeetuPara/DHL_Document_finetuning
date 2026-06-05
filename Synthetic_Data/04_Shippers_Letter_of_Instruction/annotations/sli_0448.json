@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0448",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202108-2961",
+    "usppi_name": "Trade Parker LLC",
+    "usppi_address": "225 Robinson Ville, Alecborough, VI 89742, United States",
+    "usppi_country": "United States",
+    "ein": "95-8690012",
+    "consignee_name": "Tech Moore Pte Ltd",
+    "consignee_address": "Unit 9163 Box 6210, DPO AE 23508, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Pitts Pacific AG",
+    "forwarder": "Expeditors",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Ricardo Garcia",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/26",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 75,
+        "unit": "PCS",
+        "weight_kg": 18.83,
+        "value_usd": 43358.71
+      },
+      {
+        "marks": "EXP/32",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 156,
+        "unit": "PCS",
+        "weight_kg": 52.68,
+        "value_usd": 2188.87
+      },
+      {
+        "marks": "ABC/37",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 77,
+        "unit": "PCS",
+        "weight_kg": 374.22,
+        "value_usd": 4327.71
+      }
+    ],
+    "total_weight_kg": 445.73,
+    "total_value_usd": 49875.29,
+    "service": "Ocean Freight",
+    "named_port": "Singapore, SG",
+    "insurance_value_usd": 7302.05,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-696668",
+    "destination_country": "Thailand"
+  }
+}

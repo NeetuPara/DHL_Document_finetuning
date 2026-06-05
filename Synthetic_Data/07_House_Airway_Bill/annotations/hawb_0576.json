@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0576",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-24205689",
+    "mawb_number": "074-90320502",
+    "shipper_name": "Long Pacific AG",
+    "shipper_address": "USCGC Taylor, FPO AA 70921, Sweden",
+    "consignee_name": "Global Barnes GmbH",
+    "consignee_address": "4557 Shane Loaf Suite 446, North Devin, KY 46838, Thailand",
+    "agent_name": "Commerce Hoover Corp.",
+    "airport_departure": "ICN",
+    "airport_destination": "PVG",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "CHF 17,756.14",
+    "declared_value_customs": "SGD 9,419.19",
+    "n_pieces": 11,
+    "gross_weight_kg": 406.6,
+    "chargeable_weight": 494.6,
+    "rate": 7.9,
+    "total_charge": 3907.34,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "TEMP CONTROLLED: 5\u00b0C - 25\u00b0C",
+    "issue_date": "2025-09-16",
+    "signatory": "Tyler Thompson",
+    "iata_code": "33-257",
+    "agent_cass": "3268-3747",
+    "consolidation_ref": "CONS-7392-356440",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-71562153",
+        "pieces": 17,
+        "weight": 3.2,
+        "destination": "ORD",
+        "consignee": "Boyd Commerce Pte Ltd",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "618-46304554",
+        "pieces": 9,
+        "weight": 53.2,
+        "destination": "LAX",
+        "consignee": "Tech White Co.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "176-81028139",
+        "pieces": 7,
+        "weight": 19.4,
+        "destination": "ORD",
+        "consignee": "Global Baker Inc.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "045-19440119",
+        "pieces": 6,
+        "weight": 69.2,
+        "destination": "ICN",
+        "consignee": "International Benjamin Corp.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "057-12516197",
+        "pieces": 2,
+        "weight": 52.4,
+        "destination": "LHR",
+        "consignee": "Ryan International AG",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "176-47066120",
+        "pieces": 6,
+        "weight": 30.0,
+        "destination": "CDG",
+        "consignee": "Hernandez Industry GmbH",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "074-35041740",
+        "pieces": 7,
+        "weight": 14.2,
+        "destination": "ICN",
+        "consignee": "Bush Global Corp.",
+        "description": "Plastic Products - Injection Moulde"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0204",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202008-6396",
+    "exporter_name": "Trade Owens GmbH",
+    "exporter_address": "17930 Benson Way Apt. 995, Bellmouth, IA 41580, Poland",
+    "exporter_country": "Poland",
+    "consignee_name": "King International AG",
+    "consignee_address": "6264 Daniel Terrace Suite 662, South Nathanborough, UT 19829, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "country_of_origin": "Poland",
+    "country_of_destination": "United Arab Emirates",
+    "bl_or_awb": "YMLU651529960",
+    "issue_date": "2025-05-11",
+    "certifier_name": "Robert Reynolds",
+    "goods": [
+      {
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "hs_code": "8483.40.00",
+        "qty": 473,
+        "unit": "PCS",
+        "weight_kg": 1298.44,
+        "origin_criterion": "E",
+        "value": 310343.73
+      },
+      {
+        "description": "Plastic Products - Injection Moulded Components",
+        "hs_code": "3926.90.00",
+        "qty": 84,
+        "unit": "PCS",
+        "weight_kg": 80.01,
+        "origin_criterion": "F",
+        "value": 2394.23
+      },
+      {
+        "description": "Paper Products - Packaging Cartons",
+        "hs_code": "4819.10.00",
+        "qty": 207,
+        "unit": "CTN",
+        "weight_kg": 424.91,
+        "origin_criterion": "C",
+        "value": 434.06
+      }
+    ],
+    "fta_agreement": "UK-Australia FTA",
+    "chamber": "Board of Trade"
+  }
+}

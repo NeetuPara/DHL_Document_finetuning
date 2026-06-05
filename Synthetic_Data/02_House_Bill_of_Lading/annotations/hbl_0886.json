@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0886",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU733583371",
+    "shipper_name": "International Gould S.A.",
+    "shipper_address": "109 Johnson Radial Apt. 019, Matthewberg, NH 41619, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Industry Underwood GmbH",
+    "consignee_address": "202 Maynard Mountains Apt. 240, West Bobby, CO 86204, France",
+    "consignee_country": "France",
+    "notify_party_name": "Industry Vasquez Pte Ltd",
+    "notify_party_address": "196 Parker Manors, East Wayne, PW 08750, Australia",
+    "vessel": "MADRID MAERSK",
+    "voyage": "376N",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Antwerp, BE",
+    "issue_date": "2025-10-20",
+    "issue_place": "Dubai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "LLZA0239405",
+        "seal_no": "BL204310",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "RFSH4409854",
+        "seal_no": "CL325114",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "ZCIX1335410",
+        "seal_no": "SL606557",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "JIUX8117211",
+        "seal_no": "BL989169",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 41,
+    "package_type": "Bundle",
+    "gross_weight_kg": 22628.2,
+    "net_weight_kg": 21728.8,
+    "cbm": 2.075,
+    "marks_and_numbers": "GLB/32"
+  }
+}

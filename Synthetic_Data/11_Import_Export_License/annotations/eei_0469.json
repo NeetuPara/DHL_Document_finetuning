@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0469",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "040-50195853-5",
+    "entry_type": "01 - Free and Dutiable",
+    "entry_date": "2025-06-17",
+    "port_of_entry": "JFK - New York",
+    "transport_mode": "Hand-Carried",
+    "carrier": "MSC",
+    "bl_awb": "045-14242818",
+    "importer_name": "Tech Randolph Ltd",
+    "importer_ein": "93-9650988",
+    "consignee_name": "Trade Goodwin Inc.",
+    "customs_broker": "Downs International GmbH",
+    "broker_filer_code": "nvH",
+    "country_of_origin": "Australia",
+    "total_value": 194557.06,
+    "total_duty": 27995.2,
+    "currency": "JPY",
+    "signatory": "Jeffrey Herrera",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "United Kingdom",
+        "qty": 147,
+        "unit": "PCS",
+        "entered_value": 21406.14,
+        "duty_rate": 0.9,
+        "duty_amount": 192.66,
+        "eccn": "EAR99",
+        "schedule_b": "8483.40.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Canada",
+        "qty": 208,
+        "unit": "PKG",
+        "entered_value": 46542.08,
+        "duty_rate": 18.6,
+        "duty_amount": 8656.83,
+        "eccn": "2B350",
+        "schedule_b": "4016.93.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Belgium",
+        "qty": 147,
+        "unit": "CTN",
+        "entered_value": 54851.58,
+        "duty_rate": 13.7,
+        "duty_amount": 7514.67,
+        "eccn": "2B350",
+        "schedule_b": "9018.31.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 92,
+        "unit": "PCS",
+        "entered_value": 18166.32,
+        "duty_rate": 6.5,
+        "duty_amount": 1180.81,
+        "eccn": "0A919",
+        "schedule_b": "8483.40.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Belgium",
+        "qty": 218,
+        "unit": "PCS",
+        "entered_value": 53590.94,
+        "duty_rate": 19.5,
+        "duty_amount": 10450.23,
+        "eccn": "EAR99",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

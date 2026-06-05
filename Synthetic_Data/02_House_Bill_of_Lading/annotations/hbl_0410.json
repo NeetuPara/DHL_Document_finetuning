@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0410",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU611017027",
+    "shipper_name": "Day Trade S.A.",
+    "shipper_address": "1116 Jordan Squares Suite 327, East Ashley, FL 14476, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Kane International AG",
+    "consignee_address": "015 Duran Wells, West Michelemouth, NY 41136, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party_name": "Bruce Industry AG",
+    "notify_party_address": "7733 Jones Fall Apt. 696, North Jill, IA 98647, Brazil",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "804N",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2025-07-04",
+    "issue_place": "Tokyo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "ZQPF9145191",
+        "seal_no": "SL259735",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "CGOX0701607",
+        "seal_no": "SL269924",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "TDIF0081052",
+        "seal_no": "SL444976",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "NUMK1629554",
+        "seal_no": "SL614575",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "number_of_packages": 242,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 3342.7,
+    "net_weight_kg": 3024.6,
+    "cbm": 20.245,
+    "marks_and_numbers": "GLB/49"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0534",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Wheeler B.V.",
+    "shipper_address": "43080 Kaitlyn Place, Silvastad, WV 38117, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Kane Industry S.A.",
+    "consignee_address": "24494 Barber Extensions, North Nicholasville, CA 63335, Spain",
+    "consignee_country": "Spain",
+    "emergency_telephone": "+26 610-877-7697",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 24,
+        "pkg_type": "Steel Drum",
+        "net_qty": 37.58,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-875209",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 28,
+        "pkg_type": "Steel Drum",
+        "net_qty": 51.99,
+        "qty_unit": "g",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Shawn Willis",
+    "signature_date": "2026-04-30",
+    "signature_place": "Mexico",
+    "awb_number": "125-55010307",
+    "flight_number": "QR5533",
+    "departure_airport_code": "CDG",
+    "departure_airport_name": "Paris CDG",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

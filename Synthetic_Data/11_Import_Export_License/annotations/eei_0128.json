@@ -1,0 +1,103 @@
+{
+  "document_id": "eei_0128",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220306427755",
+    "export_date": "2025-10-02",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Brown International Co.",
+    "usppi_ein": "08-4973801",
+    "usppi_address": "USNV Park, FPO AE 27105, United States",
+    "ultimate_consignee": "Waller Trade Inc.",
+    "intermediate_consignee": "Industry King Co.",
+    "forwarding_agent": "Maldonado Industry Co.",
+    "destination_country": "Hong Kong",
+    "carrier": "UPS",
+    "bl_awb": "125-46715367",
+    "total_value": 326487.5,
+    "currency": "EUR",
+    "signatory": "Lisa Bernard DDS",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Netherlands",
+        "qty": 288,
+        "unit": "PCS",
+        "entered_value": 46212.48,
+        "duty_rate": 10.3,
+        "duty_amount": 4759.89,
+        "eccn": "9A515",
+        "schedule_b": "8483.40.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Canada",
+        "qty": 140,
+        "unit": "CTN",
+        "entered_value": 1453.2,
+        "duty_rate": 20.4,
+        "duty_amount": 296.45,
+        "eccn": "0A919",
+        "schedule_b": "4819.10.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Japan",
+        "qty": 146,
+        "unit": "PCS",
+        "entered_value": 25233.18,
+        "duty_rate": 16.4,
+        "duty_amount": 4138.24,
+        "eccn": "1A002",
+        "schedule_b": "8534.00.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Switzerland",
+        "qty": 80,
+        "unit": "KGS",
+        "entered_value": 33226.4,
+        "duty_rate": 14.6,
+        "duty_amount": 4851.05,
+        "eccn": "5E992",
+        "schedule_b": "2008.19.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Mexico",
+        "qty": 128,
+        "unit": "MTR",
+        "entered_value": 20663.04,
+        "duty_rate": 21.8,
+        "duty_amount": 4504.54,
+        "eccn": "3A992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Sweden",
+        "qty": 480,
+        "unit": "PCS",
+        "entered_value": 199699.2,
+        "duty_rate": 20.6,
+        "duty_amount": 41138.04,
+        "eccn": "1A002",
+        "schedule_b": "8483.40.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0603",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Robinson International Corp.",
+    "shipper_address": "69453 Felicia River Apt. 367, New Melissahaven, NE 44353, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Trade Jimenez Ltd",
+    "consignee_address": "84684 Daniels Drive Suite 027, West Erik, OR 22200, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+50 884-881-5838",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 31,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 38.32,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-920592",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 14,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 65.86,
+        "qty_unit": "mL",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Robert Wheeler",
+    "signature_date": "2026-05-07",
+    "signature_place": "Switzerland",
+    "awb_number": "074-74029907",
+    "flight_number": "DL611",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "CDG",
+    "destination_airport_name": "Paris CDG",
+    "non_dg_reason": "Lithium Ion Batteries \u2014 Section II (PI 967/Section II)"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0101",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Peter Carr",
+    "addressee_company": "Trade Hunt Inc.",
+    "addressee_address": "674 Leslie Stream, Smithborough, WA 97439, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 0.438,
+    "total_value": 34.52,
+    "currency": "AUD",
+    "issue_date": "2025-05-29",
+    "reference": "REF-046753",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.438,
+        "value": 34.52,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Peter Floyd",
+    "sender_company": "Morgan Global B.V.",
+    "sender_address": "38618 Brooks Roads, South Marie, IN 93666, Thailand",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 37.97,
+    "postal_charges": 5.15,
+    "tracking_number": "JA935960794NI"
+  }
+}

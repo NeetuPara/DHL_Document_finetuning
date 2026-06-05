@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0539",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Richard Crawford",
+    "addressee_company": "Morris Tech LLC",
+    "addressee_address": "9820 Chaney Keys Suite 396, Castroburgh, VT 84594, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 8.316,
+    "total_value": 2632.41,
+    "currency": "CNY",
+    "issue_date": "2026-05-06",
+    "reference": "REF-555738",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.295,
+        "value": 360.9,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 6,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 4.558,
+        "value": 616.56,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 15,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.463,
+        "value": 1654.95,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "John Pratt",
+    "sender_company": "Williams Tech GmbH",
+    "sender_address": "62994 Knight Mount Suite 009, Leonmouth, PW 49187, Singapore",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 2895.65,
+    "postal_charges": 68.7,
+    "tracking_number": "VN043880567UD"
+  }
+}

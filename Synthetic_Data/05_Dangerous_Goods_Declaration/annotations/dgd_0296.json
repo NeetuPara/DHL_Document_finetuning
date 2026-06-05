@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0296",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Huber Pacific B.V.",
+    "shipper_address": "812 Nathan Burg Apt. 901, South Matthewside, VA 42082, France",
+    "shipper_country": "France",
+    "consignee_name": "Diaz Global AG",
+    "consignee_address": "1434 Linda Courts Suite 876, Romerofurt, AL 70137, Thailand",
+    "consignee_country": "Thailand",
+    "emergency_telephone": "+25 253-272-6420",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 3,
+        "pkg_type": "Steel Drum",
+        "net_qty": 6.61,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jennifer Collins",
+    "signature_date": "2026-04-14",
+    "signature_place": "France",
+    "vessel": "PIL PACIFIC",
+    "voyage": "226E",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "New York, US"
+  }
+}

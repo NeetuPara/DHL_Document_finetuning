@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0311",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202206-7772",
+    "usppi_name": "Global Brown Pte Ltd",
+    "usppi_address": "15587 Peterson Mills Apt. 796, Mooneystad, MA 51866, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "38-8081031",
+    "consignee_name": "Trade Orozco S.A.",
+    "consignee_address": "195 Anderson Alley, Port Patricia, NJ 68630, France",
+    "consignee_country": "France",
+    "notify_party": "Rich Trade S.A.",
+    "forwarder": "Panalpina",
+    "incoterm": "EXW",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Sarah Coleman",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/14",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 46,
+        "unit": "BOX",
+        "weight_kg": 76.15,
+        "value_usd": 424.94
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 55,
+        "unit": "PCS",
+        "weight_kg": 49.07,
+        "value_usd": 972.0
+      },
+      {
+        "marks": "EXP/33",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 63,
+        "unit": "PCS",
+        "weight_kg": 65.95,
+        "value_usd": 29392.11
+      }
+    ],
+    "total_weight_kg": 191.17,
+    "total_value_usd": 30789.05,
+    "service": "LCL Ocean",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 12845.62,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-898446",
+    "destination_country": "France"
+  }
+}

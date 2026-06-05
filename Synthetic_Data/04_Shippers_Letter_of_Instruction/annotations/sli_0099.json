@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0099",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202310-3268",
+    "usppi_name": "Taylor Tech GmbH",
+    "usppi_address": "PSC 8262, Box 6643, APO AP 07104, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "42-3737264",
+    "consignee_name": "Tech Kelly Co.",
+    "consignee_address": "4230 Amanda Underpass Apt. 437, Port Terrancefurt, WI 22211, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Flowers Tech LLC",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "EXW",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Christopher Campbell",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/3",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 102,
+        "unit": "PCS",
+        "weight_kg": 957.72,
+        "value_usd": 14026.75
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 78,
+        "unit": "PCS",
+        "weight_kg": 8.7,
+        "value_usd": 6804.72
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 62,
+        "unit": "LTR",
+        "weight_kg": 63.49,
+        "value_usd": 870.93
+      }
+    ],
+    "total_weight_kg": 1029.91,
+    "total_value_usd": 21702.4,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "297E",
+    "booking_ref": "BKG-681870",
+    "bl_number": "DHLG337169609",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Felixstowe, GB",
+    "container_number": "ZRKF4826555",
+    "seal_number": "CL269001",
+    "container_type": "45'HC",
+    "cbm": 8.655
+  }
+}

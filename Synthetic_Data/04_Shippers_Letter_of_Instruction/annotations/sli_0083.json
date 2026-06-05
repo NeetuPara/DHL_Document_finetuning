@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0083",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202412-3510",
+    "usppi_name": "Wilson Industry Inc.",
+    "usppi_address": "14981 Lisa Green, Lake Frances, NV 16676, Germany",
+    "usppi_country": "Germany",
+    "ein": "96-6121431",
+    "consignee_name": "Lewis Tech LLC",
+    "consignee_address": "73180 Johnson Groves, Liuton, UT 95558, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Pratt Industry AG",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Sheila Mullins",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/1",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 120,
+        "unit": "SET",
+        "weight_kg": 276.06,
+        "value_usd": 20690.2
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 106,
+        "unit": "LTR",
+        "weight_kg": 106.24,
+        "value_usd": 3113.97
+      },
+      {
+        "marks": "EXP/49",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 151,
+        "unit": "PCS",
+        "weight_kg": 1952.33,
+        "value_usd": 24778.57
+      }
+    ],
+    "total_weight_kg": 2334.63,
+    "total_value_usd": 48582.74,
+    "service": "LCL Ocean",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 39369.49,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-960363",
+    "destination_country": "Italy"
+  }
+}

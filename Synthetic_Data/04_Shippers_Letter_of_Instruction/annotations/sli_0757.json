@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0757",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202010-7068",
+    "usppi_name": "Williams Global B.V.",
+    "usppi_address": "9115 Lee Rapid, East Michael, ME 09063, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "44-5542849",
+    "consignee_name": "Willis International GmbH",
+    "consignee_address": "Unit 0887 Box 3176, DPO AE 78991, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Miranda Trade Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Paul Levy",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/16",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 72,
+        "unit": "BOX",
+        "weight_kg": 107.82,
+        "value_usd": 2006.64
+      },
+      {
+        "marks": "EXP/4",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 103,
+        "unit": "PKG",
+        "weight_kg": 84.8,
+        "value_usd": 7154.03
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 104,
+        "unit": "CTN",
+        "weight_kg": 178.02,
+        "value_usd": 3110.28
+      }
+    ],
+    "total_weight_kg": 370.64,
+    "total_value_usd": 12270.95,
+    "service": "Air Freight",
+    "named_port": "Paris CDG",
+    "insurance_value_usd": 11537.72,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-474234",
+    "destination_country": "South Korea"
+  }
+}

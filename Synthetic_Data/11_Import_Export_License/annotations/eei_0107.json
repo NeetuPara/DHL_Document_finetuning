@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0107",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220516531296",
+    "export_date": "2026-02-18",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "International Stewart S.A.",
+    "usppi_ein": "80-8204552",
+    "usppi_address": "1389 Donna Terrace, Lake Alanland, CT 48858, Japan",
+    "ultimate_consignee": "Trade Ferguson S.A.",
+    "intermediate_consignee": "Trade Johnson Ltd",
+    "forwarding_agent": "Tech Rowe LLC",
+    "destination_country": "United Arab Emirates",
+    "carrier": "Maersk",
+    "bl_awb": "020-28621803",
+    "total_value": 69085.14,
+    "currency": "AUD",
+    "signatory": "Sheila Key",
+    "line_items": [
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Switzerland",
+        "qty": 50,
+        "unit": "PCS",
+        "entered_value": 9229.5,
+        "duty_rate": 19.3,
+        "duty_amount": 1781.29,
+        "eccn": "0A919",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Germany",
+        "qty": 102,
+        "unit": "CTN",
+        "entered_value": 19861.44,
+        "duty_rate": 0.1,
+        "duty_amount": 19.86,
+        "eccn": "3A992",
+        "schedule_b": "4819.10.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "South Korea",
+        "qty": 153,
+        "unit": "PCS",
+        "entered_value": 39994.2,
+        "duty_rate": 19.0,
+        "duty_amount": 7598.9,
+        "eccn": "9A515",
+        "schedule_b": "8483.40.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

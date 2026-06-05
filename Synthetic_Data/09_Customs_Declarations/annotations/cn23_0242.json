@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0242",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Donald Krause",
+    "addressee_company": "Global Mccall Corp.",
+    "addressee_address": "5404 Debra Circles, Elliottport, MI 35586, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 2.069,
+    "total_value": 700.4,
+    "currency": "USD",
+    "issue_date": "2025-12-07",
+    "reference": "REF-667171",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.976,
+        "value": 75.96,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 4,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 0.216,
+        "value": 213.24,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 8,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.877,
+        "value": 411.2,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Robert Hall",
+    "sender_company": "Bailey Global Ltd",
+    "sender_address": "881 John Burg, Villarrealchester, NJ 16986, Canada",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 26.8,
+    "tracking_number": "VF594519534RW"
+  }
+}

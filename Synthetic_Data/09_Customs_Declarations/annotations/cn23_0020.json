@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0020",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jennifer Jackson",
+    "addressee_company": "Mcdaniel Commerce Co.",
+    "addressee_address": "563 Mclean Canyon, North Steven, MS 05095, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 12.833,
+    "total_value": 6225.53,
+    "currency": "CAD",
+    "issue_date": "2025-09-22",
+    "reference": "REF-873051",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.994,
+        "value": 1143.23,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 20,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.582,
+        "value": 2978.2,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 5,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.101,
+        "value": 723.8,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 10,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.156,
+        "value": 1380.3,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "April Owen",
+    "sender_company": "Villegas Global Inc.",
+    "sender_address": "14944 Stacey Fork, Sextonton, PW 31686, Malaysia",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 6848.08,
+    "postal_charges": 66.06,
+    "tracking_number": "HX540441242WK"
+  }
+}

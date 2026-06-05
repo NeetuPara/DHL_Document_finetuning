@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0196",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202005-6581",
+    "usppi_name": "Pacific Rocha GmbH",
+    "usppi_address": "3065 Thompson Island Apt. 422, Katherineborough, SC 76520, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "60-9229476",
+    "consignee_name": "Global Perry LLC",
+    "consignee_address": "5441 Harris Loop Suite 113, West Thomasside, NV 50922, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Palmer International Inc.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Edward Moore",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/45",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 39,
+        "unit": "PKG",
+        "weight_kg": 113.12,
+        "value_usd": 2395.13
+      },
+      {
+        "marks": "ABC/19",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 30,
+        "unit": "PCS",
+        "weight_kg": 23.81,
+        "value_usd": 181.88
+      },
+      {
+        "marks": "ABC/12",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 103,
+        "unit": "KGS",
+        "weight_kg": 103.0,
+        "value_usd": 68.14
+      },
+      {
+        "marks": "SLI/29",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 15,
+        "unit": "PCS",
+        "weight_kg": 14.15,
+        "value_usd": 20312.41
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 122,
+        "unit": "CTN",
+        "weight_kg": 155.72,
+        "value_usd": 1423.8
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 199,
+        "unit": "LTR",
+        "weight_kg": 207.3,
+        "value_usd": 1648.47
+      },
+      {
+        "marks": "ABC/2",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 71,
+        "unit": "CTN",
+        "weight_kg": 265.01,
+        "value_usd": 2171.74
+      }
+    ],
+    "total_weight_kg": 882.11,
+    "total_value_usd": 28201.57,
+    "service": "LCL Ocean",
+    "named_port": "Hamburg, DE",
+    "insurance_value_usd": 6075.75,
+    "license_type": "Distributor License",
+    "license_number": "LIC-731126",
+    "destination_country": "Belgium"
+  }
+}

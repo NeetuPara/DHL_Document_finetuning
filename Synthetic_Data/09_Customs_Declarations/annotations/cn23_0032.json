@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0032",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Dustin Davis MD",
+    "addressee_company": "Buchanan Tech Co.",
+    "addressee_address": "5771 Jensen Ranch Suite 398, Pamelaberg, TX 89687, France",
+    "addressee_country": "France",
+    "total_weight_kg": 9.201,
+    "total_value": 1836.54,
+    "currency": "SGD",
+    "issue_date": "2025-07-27",
+    "reference": "REF-498375",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.188,
+        "value": 170.95,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 20,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.367,
+        "value": 1311.2,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 2,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.616,
+        "value": 9.74,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 5,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.03,
+        "value": 344.65,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_name": "Nicole Lucas",
+    "sender_company": "Commerce Lopez Corp.",
+    "sender_address": "16224 Destiny Stream, Lake Jillfurt, HI 95464, Germany",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 2020.19,
+    "postal_charges": 67.93,
+    "tracking_number": "FS980982209AK"
+  }
+}

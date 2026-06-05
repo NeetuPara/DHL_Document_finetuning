@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0085",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202208-1583",
+    "usppi_name": "International Friedman Ltd",
+    "usppi_address": "9786 Snyder Square Suite 258, Christinaborough, CT 88540, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "13-6397566",
+    "consignee_name": "Industry Aguilar B.V.",
+    "consignee_address": "29219 Scott Walks, Smithland, RI 06309, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Thornton International GmbH",
+    "forwarder": "DB Schenker",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Kara Lee",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/24",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 35,
+        "unit": "BOX",
+        "weight_kg": 34.52,
+        "value_usd": 3742.56
+      },
+      {
+        "marks": "SLI/29",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 198,
+        "unit": "PCS",
+        "weight_kg": 87.62,
+        "value_usd": 299898.98
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 88,
+        "unit": "LTR",
+        "weight_kg": 93.27,
+        "value_usd": 273.34
+      },
+      {
+        "marks": "EXP/3",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 148,
+        "unit": "PCS",
+        "weight_kg": 2025.62,
+        "value_usd": 76708.26
+      },
+      {
+        "marks": "ABC/5",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 38,
+        "unit": "KGS",
+        "weight_kg": 38.0,
+        "value_usd": 270.33
+      }
+    ],
+    "total_weight_kg": 2279.03,
+    "total_value_usd": 380893.47,
+    "service": "Air Freight",
+    "named_port": "Paris CDG",
+    "insurance_value_usd": 49704.0,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Thailand"
+  }
+}

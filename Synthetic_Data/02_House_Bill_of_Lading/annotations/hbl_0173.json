@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0173",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU607679254",
+    "shipper_name": "Castro Pacific Inc.",
+    "shipper_address": "PSC 1216, Box 4521, APO AP 65683, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Trade Henry Co.",
+    "consignee_address": "238 Audrey Freeway, Anthonyport, VI 84149, Australia",
+    "consignee_country": "Australia",
+    "notify_party_name": "International Ramos AG",
+    "notify_party_address": "9372 Dana Glen Suite 270, Ritterton, CO 99568, United Kingdom",
+    "vessel": "CSCL GLOBE",
+    "voyage": "768W",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Singapore, SG",
+    "place_of_receipt": "Hong Kong, HK",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2025-03-20",
+    "issue_place": "Hong Kong",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "OEYM9983518",
+        "seal_no": "BL543100",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "TJAV1778394",
+        "seal_no": "BL709083",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "IAYX8719377",
+        "seal_no": "SL147642",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "QRHH4938166",
+        "seal_no": "BL334851",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "number_of_packages": 263,
+    "package_type": "Drum",
+    "gross_weight_kg": 6853.2,
+    "net_weight_kg": 6445.8,
+    "cbm": 31.304,
+    "marks_and_numbers": "ABC/13"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "document_id": "cn23_0959",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Gregory Oliver",
+    "addressee_company": "International Wright GmbH",
+    "addressee_address": "70805 Powers Ways Suite 072, East Williammouth, GU 41369, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 18.488,
+    "total_value": 4554.66,
+    "currency": "CNY",
+    "issue_date": "2025-08-31",
+    "reference": "REF-237528",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.284,
+        "value": 2071.68,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 16,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.873,
+        "value": 411.84,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 2,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.895,
+        "value": 89.36,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 3,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.878,
+        "value": 448.98,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 10,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.175,
+        "value": 1228.6,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 3,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.383,
+        "value": 304.2,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Thomas Jones",
+    "sender_company": "Trade Rodriguez Ltd",
+    "sender_address": "942 Thomas Circles, Lake Rhonda, NY 95935, Japan",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 70.68,
+    "tracking_number": "ZT522267823FI"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0941",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Johnny Morgan",
+    "addressee_company": "Pacific Fowler S.A.",
+    "addressee_address": "8801 Flores Rue Apt. 455, Lake Corey, FM 23366, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 3.105,
+    "total_value": 1043.78,
+    "currency": "AED",
+    "issue_date": "2026-03-11",
+    "reference": "REF-606221",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.563,
+        "value": 191.28,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 11,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.542,
+        "value": 852.5,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Brett Lynch",
+    "sender_company": "Adams Commerce S.A.",
+    "sender_address": "35937 Erika Ramp, South Mark, WA 81288, China",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 19.81,
+    "tracking_number": "FX573767508RA"
+  }
+}

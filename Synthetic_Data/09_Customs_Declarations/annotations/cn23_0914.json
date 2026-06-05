@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0914",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kelly Romero",
+    "addressee_company": "Commerce Lee Co.",
+    "addressee_address": "28572 Alexander Common Apt. 483, Carrilloton, AR 44810, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 0.906,
+    "total_value": 1187.2,
+    "currency": "CAD",
+    "issue_date": "2025-12-01",
+    "reference": "REF-932431",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.906,
+        "value": 1187.2,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Emily Thompson",
+    "sender_company": "Black Tech GmbH",
+    "sender_address": "7296 Stewart Grove Suite 229, Lukeland, MD 51942, United States",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 25.66,
+    "tracking_number": "ND934109385UV"
+  }
+}

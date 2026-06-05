@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0512",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Danielle Hatfield",
+    "addressee_company": "Villarreal Global LLC",
+    "addressee_address": "40960 Long Forest, North Matthewborough, MI 03155, France",
+    "addressee_country": "France",
+    "total_weight_kg": 1.449,
+    "total_value": 360.21,
+    "currency": "AUD",
+    "issue_date": "2026-03-12",
+    "reference": "REF-353389",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.449,
+        "value": 360.21,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Phillip Martin",
+    "sender_company": "International Ford AG",
+    "sender_address": "0949 Schmidt Mission, South Wayne, MD 91975, Australia",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 396.23,
+    "postal_charges": 35.14,
+    "tracking_number": "WG592071985QQ"
+  }
+}

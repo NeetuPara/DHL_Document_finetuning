@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0702",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Dr. Keith Zavala MD",
+    "addressee_company": "Smith Tech Pte Ltd",
+    "addressee_address": "2132 Stanley Drive, Grimesshire, WV 21935, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 3.66,
+    "total_value": 1555.58,
+    "currency": "AUD",
+    "issue_date": "2025-12-09",
+    "reference": "REF-640163",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.833,
+        "value": 755.68,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 19,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.827,
+        "value": 799.9,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Poland"
+      }
+    ],
+    "sender_country": "Spain",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "381-99321337-5",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 12.4,
+    "estimated_duty": 192.89,
+    "importer_ein": "70-5295074",
+    "customs_broker": "Industry Patel AG"
+  }
+}

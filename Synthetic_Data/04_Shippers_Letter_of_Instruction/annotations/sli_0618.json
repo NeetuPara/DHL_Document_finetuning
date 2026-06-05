@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0618",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202302-2085",
+    "usppi_name": "Trade Hernandez Inc.",
+    "usppi_address": "63515 Hernandez Bridge Apt. 111, South Brittanymouth, KS 08466, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "38-4836370",
+    "consignee_name": "Global Williams LLC",
+    "consignee_address": "225 Davis Plains, Lake Michaelberg, DC 05571, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Tech Pineda B.V.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "2B350",
+    "signatory_name": "Benjamin Barnes",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/15",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 185,
+        "unit": "PCS",
+        "weight_kg": 3641.62,
+        "value_usd": 76484.65
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 89,
+        "unit": "PCS",
+        "weight_kg": 16.86,
+        "value_usd": 15658.28
+      }
+    ],
+    "total_weight_kg": 3658.48,
+    "total_value_usd": 92142.93,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "895N",
+    "booking_ref": "BKG-575900",
+    "bl_number": "OOLU270190375",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Busan, KR",
+    "container_number": "WKPL7049475",
+    "seal_number": "SL269787",
+    "container_type": "45'HC",
+    "cbm": 21.316
+  }
+}

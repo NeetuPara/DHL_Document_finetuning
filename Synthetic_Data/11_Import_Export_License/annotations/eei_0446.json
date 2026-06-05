@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0446",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210513765755",
+    "export_date": "2025-08-10",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Global Clark Pte Ltd",
+    "usppi_ein": "78-9636596",
+    "usppi_address": "35650 Diane Loop Apt. 399, Brittanyfort, GU 65162, Brazil",
+    "ultimate_consignee": "Industry Johnson S.A.",
+    "intermediate_consignee": "Pacific Woodward AG",
+    "forwarding_agent": "Pacific Ferguson Inc.",
+    "destination_country": "Australia",
+    "carrier": "FedEx",
+    "bl_awb": "176-25869950",
+    "total_value": 267166.44,
+    "currency": "CNY",
+    "signatory": "Tyler Rivas",
+    "line_items": [
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 486,
+        "unit": "PCS",
+        "entered_value": 170085.42,
+        "duty_rate": 19.7,
+        "duty_amount": 33506.83,
+        "eccn": "7A994",
+        "schedule_b": "3926.90.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Belgium",
+        "qty": 89,
+        "unit": "PCS",
+        "entered_value": 27180.6,
+        "duty_rate": 0.7,
+        "duty_amount": 190.26,
+        "eccn": "9A515",
+        "schedule_b": "8518.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Brazil",
+        "qty": 319,
+        "unit": "PCS",
+        "entered_value": 60836.49,
+        "duty_rate": 22.8,
+        "duty_amount": 13870.72,
+        "eccn": "EAR99",
+        "schedule_b": "8534.00.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Malaysia",
+        "qty": 96,
+        "unit": "PCS",
+        "entered_value": 4455.36,
+        "duty_rate": 2.2,
+        "duty_amount": 98.02,
+        "eccn": "9A515",
+        "schedule_b": "8534.00.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "United States",
+        "qty": 447,
+        "unit": "MTR",
+        "entered_value": 4608.57,
+        "duty_rate": 9.0,
+        "duty_amount": 414.77,
+        "eccn": "7A994",
+        "schedule_b": "5407.42.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

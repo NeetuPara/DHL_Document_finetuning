@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0610",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Anthony Ramos",
+    "addressee_company": "Thomas Global Co.",
+    "addressee_address": "543 Kathy Falls Apt. 254, Shaffermouth, OR 90525, Brazil",
+    "addressee_country": "Brazil",
+    "total_weight_kg": 4.885,
+    "total_value": 1864.48,
+    "currency": "GBP",
+    "issue_date": "2026-03-07",
+    "reference": "REF-824053",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.885,
+        "value": 1864.48,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_name": "Nicole Shelton",
+    "sender_company": "Taylor Commerce Ltd",
+    "sender_address": "52342 Hunter Mills Apt. 971, Nicholasside, PR 82548, Spain",
+    "sender_phone": "896-613-8427",
+    "sender_email": "jaustin@example.org",
+    "addressee_phone": "+1-846-663-9367x8476",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 2050.93,
+    "postal_charges": 36.71,
+    "tracking_number": "GP214569568UD"
+  }
+}

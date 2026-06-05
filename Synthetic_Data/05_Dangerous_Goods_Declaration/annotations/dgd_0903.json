@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0903",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Robertson LLC",
+    "shipper_address": "PSC 3511, Box 5586, APO AA 73551, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Bailey Trade Inc.",
+    "consignee_address": "Unit 4408 Box 5138, DPO AE 10079, Brazil",
+    "consignee_country": "Brazil",
+    "emergency_telephone": "+71 458-493-2332",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 20,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 31.95,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 24,
+        "pkg_type": "Steel Drum",
+        "net_qty": 74.26,
+        "qty_unit": "mL",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "David Evans",
+    "signature_date": "2026-05-13",
+    "signature_place": "Singapore",
+    "awb_number": "160-27546431",
+    "flight_number": "LH4054",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

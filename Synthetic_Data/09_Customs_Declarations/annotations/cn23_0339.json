@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0339",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Mary Holmes",
+    "addressee_company": "Tech Stafford Co.",
+    "addressee_address": "03537 Nguyen Ports Apt. 658, New Sarahton, GA 33646, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 9.912,
+    "total_value": 4617.62,
+    "currency": "CAD",
+    "issue_date": "2025-08-20",
+    "reference": "REF-111913",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.281,
+        "value": 463.68,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 12,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.752,
+        "value": 1093.68,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 19,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.55,
+        "value": 896.8,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 20,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.209,
+        "value": 1992.8,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 7,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.12,
+        "value": 170.66,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Poland"
+      }
+    ],
+    "sender_country": "United States",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "325-89626814-9",
+    "entry_type": "Informal Entry",
+    "duty_rate": 14.0,
+    "estimated_duty": 646.47,
+    "importer_ein": "89-1800624",
+    "customs_broker": "Zhang Trade GmbH"
+  }
+}

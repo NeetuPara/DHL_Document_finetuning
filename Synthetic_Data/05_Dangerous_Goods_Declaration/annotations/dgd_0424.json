@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0424",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Mills Inc.",
+    "shipper_address": "877 Johnson Plaza Suite 713, Sextonhaven, IL 28360, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Barber International Inc.",
+    "consignee_address": "67728 Jessica Road, West Geraldborough, SC 03069, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "emergency_telephone": "+79 546-702-9954",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 45,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 83.26,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-622932",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 17,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 71.61,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-618723",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Andrew Floyd",
+    "signature_date": "2026-04-19",
+    "signature_place": "Netherlands",
+    "awb_number": "176-38082184",
+    "flight_number": "UA8251",
+    "flight_date": "2026-04-29",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi"
+  }
+}

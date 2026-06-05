@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0058",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202409-5218",
+    "usppi_name": "Tech Bright Corp.",
+    "usppi_address": "8131 Brittany Trail Suite 784, Coxhaven, MO 03352, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "64-2712210",
+    "consignee_name": "Andrews Commerce Ltd",
+    "consignee_address": "209 Obrien Ridge, West Michael, MH 85394, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Baker Tech LLC",
+    "forwarder": "Expeditors",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Jerry Williams",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/41",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 193,
+        "unit": "PCS",
+        "weight_kg": 183.18,
+        "value_usd": 238143.37
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 45,
+        "unit": "PCS",
+        "weight_kg": 540.65,
+        "value_usd": 33878.75
+      }
+    ],
+    "total_weight_kg": 723.83,
+    "total_value_usd": 272022.12,
+    "service": "Ocean Freight",
+    "named_port": "Tokyo, JP",
+    "insurance_value_usd": 38705.91,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-542561",
+    "destination_country": "Malaysia"
+  }
+}

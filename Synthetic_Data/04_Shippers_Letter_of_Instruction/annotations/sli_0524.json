@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0524",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202006-4217",
+    "usppi_name": "Hoffman Tech S.A.",
+    "usppi_address": "68593 Rojas Brook, Oconnellbury, DC 45241, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "91-3634453",
+    "consignee_name": "Global Schultz Co.",
+    "consignee_address": "28311 Andrew Walk, South Jessica, ID 75513, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Melton Commerce Corp.",
+    "forwarder": "Panalpina",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Lindsay Davis",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/5",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 62,
+        "unit": "PCS",
+        "weight_kg": 25.0,
+        "value_usd": 438.29
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 87,
+        "unit": "LTR",
+        "weight_kg": 90.2,
+        "value_usd": 2806.63
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 49,
+        "unit": "MTR",
+        "weight_kg": 31.54,
+        "value_usd": 152.01
+      },
+      {
+        "marks": "SLI/28",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 94,
+        "unit": "PCS",
+        "weight_kg": 15.62,
+        "value_usd": 9573.47
+      }
+    ],
+    "total_weight_kg": 162.36,
+    "total_value_usd": 12970.4,
+    "service": "LCL Ocean",
+    "named_port": "Los Angeles, US",
+    "insurance_value_usd": 8128.63,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-616625",
+    "destination_country": "Spain"
+  }
+}

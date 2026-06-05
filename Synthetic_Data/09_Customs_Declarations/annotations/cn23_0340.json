@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0340",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Corey Johnson",
+    "addressee_company": "Hensley Industry Co.",
+    "addressee_address": "5206 Tyler Mill, Lake Michaelstad, HI 88839, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 9.138,
+    "total_value": 1814.96,
+    "currency": "AUD",
+    "issue_date": "2026-01-03",
+    "reference": "REF-914761",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.545,
+        "value": 113.19,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 7,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.051,
+        "value": 400.82,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 2,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.054,
+        "value": 296.4,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 15,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.488,
+        "value": 1004.55,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Michelle Johnson",
+    "sender_company": "International Washington B.V.",
+    "sender_address": "90908 Thomas Drive, East Samantha, DC 01548, Hong Kong",
+    "sender_phone": "6732481229",
+    "sender_email": "bjohnson@example.org",
+    "addressee_phone": "(229)736-2624x59154",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 1996.46,
+    "postal_charges": 27.13,
+    "tracking_number": "HH866068329TX"
+  }
+}

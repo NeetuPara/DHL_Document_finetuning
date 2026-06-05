@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0851",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202101-6294",
+    "usppi_name": "Hicks Trade Pte Ltd",
+    "usppi_address": "63646 Stephanie Islands Apt. 529, Andersonstad, SC 87527, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "89-9379933",
+    "consignee_name": "Jackson International S.A.",
+    "consignee_address": "702 Tate Lake, Maureenmouth, WI 81142, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Industry Bentley Inc.",
+    "forwarder": "Panalpina",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Juan Robbins",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/25",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 99,
+        "unit": "KGS",
+        "weight_kg": 99.0,
+        "value_usd": 121.34
+      },
+      {
+        "marks": "ABC/15",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 116,
+        "unit": "PCS",
+        "weight_kg": 92.66,
+        "value_usd": 69621.69
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 17,
+        "unit": "CTN",
+        "weight_kg": 44.37,
+        "value_usd": 1321.15
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 63,
+        "unit": "PCS",
+        "weight_kg": 1359.65,
+        "value_usd": 12712.23
+      }
+    ],
+    "total_weight_kg": 1595.68,
+    "total_value_usd": 83776.41,
+    "service": "Ground",
+    "named_port": "London Heathrow",
+    "insurance_value_usd": 33381.86,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-416086",
+    "destination_country": "Switzerland"
+  }
+}

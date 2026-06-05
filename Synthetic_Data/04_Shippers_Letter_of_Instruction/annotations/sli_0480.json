@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0480",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202212-7317",
+    "usppi_name": "Stevens Global Pte Ltd",
+    "usppi_address": "84775 Scott Groves, West Donald, VI 52034, Japan",
+    "usppi_country": "Japan",
+    "ein": "31-6180210",
+    "consignee_name": "Yates Commerce Pte Ltd",
+    "consignee_address": "776 Dana Gateway Suite 346, West Melissaport, MO 92740, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Trade Henry Corp.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "James Rodriguez",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/7",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 92,
+        "unit": "CTN",
+        "weight_kg": 116.69,
+        "value_usd": 381.61
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 92,
+        "unit": "LTR",
+        "weight_kg": 89.78,
+        "value_usd": 840.49
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 10,
+        "unit": "KGS",
+        "weight_kg": 10.0,
+        "value_usd": 21.05
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 132,
+        "unit": "MTR",
+        "weight_kg": 62.56,
+        "value_usd": 1398.98
+      },
+      {
+        "marks": "ABC/39",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 18,
+        "unit": "PCS",
+        "weight_kg": 134.86,
+        "value_usd": 8563.34
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 42,
+        "unit": "PCS",
+        "weight_kg": 10.35,
+        "value_usd": 7499.57
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 23,
+        "unit": "PKG",
+        "weight_kg": 13.82,
+        "value_usd": 2014.42
+      }
+    ],
+    "total_weight_kg": 438.06,
+    "total_value_usd": 20719.46,
+    "vessel": "ONE INNOVATION",
+    "voyage": "493W",
+    "booking_ref": "BKG-486077",
+    "bl_number": "MAEU386657403",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Antwerp, BE",
+    "container_number": "QAAJ5948482",
+    "seal_number": "SL103776",
+    "container_type": "40'HC",
+    "cbm": 25.52
+  }
+}

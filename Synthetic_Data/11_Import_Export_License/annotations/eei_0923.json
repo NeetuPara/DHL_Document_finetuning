@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0923",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220407352560",
+    "export_date": "2025-08-19",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Industry Gomez GmbH",
+    "usppi_ein": "00-8201071",
+    "usppi_address": "Unit 0250 Box 7366, DPO AP 91832, Mexico",
+    "ultimate_consignee": "Commerce Key B.V.",
+    "intermediate_consignee": "Pacific Smith Inc.",
+    "forwarding_agent": "Malone Industry Pte Ltd",
+    "destination_country": "Netherlands",
+    "carrier": "UPS",
+    "bl_awb": "125-40916813",
+    "total_value": 51088.9,
+    "currency": "JPY",
+    "signatory": "Amy Vaughn",
+    "line_items": [
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Belgium",
+        "qty": 214,
+        "unit": "PCS",
+        "entered_value": 3385.48,
+        "duty_rate": 3.1,
+        "duty_amount": 104.95,
+        "eccn": "5E992",
+        "schedule_b": "8518.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Belgium",
+        "qty": 186,
+        "unit": "KGS",
+        "entered_value": 47703.42,
+        "duty_rate": 10.1,
+        "duty_amount": 4818.05,
+        "eccn": "2B350",
+        "schedule_b": "7208.37.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

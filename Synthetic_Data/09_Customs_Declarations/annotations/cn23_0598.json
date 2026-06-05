@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0598",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Andrew Johnson",
+    "addressee_company": "Trade Scott S.A.",
+    "addressee_address": "3587 Paul Hills, Hunterstad, GU 94589, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 1.814,
+    "total_value": 1587.69,
+    "currency": "EUR",
+    "issue_date": "2026-03-18",
+    "reference": "REF-990317",
+    "line_items": [
+      {
+        "qty": 13,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.814,
+        "value": 1587.69,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Canada"
+      }
+    ],
+    "sender_name": "Jamie Odom",
+    "sender_company": "Martin Commerce Ltd",
+    "sender_address": "2083 Garcia Knoll Apt. 314, East Derrick, WY 25825, Sweden",
+    "sender_phone": "001-513-899-7169x0800",
+    "sender_email": "ystewart@example.org",
+    "addressee_phone": "405-766-4826x778",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 1746.46,
+    "postal_charges": 37.89,
+    "tracking_number": "ZF421066002AZ"
+  }
+}

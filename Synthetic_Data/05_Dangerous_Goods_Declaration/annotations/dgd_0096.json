@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0096",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Manning Global S.A.",
+    "shipper_address": "2288 Jose Hollow Suite 475, Garzaview, NJ 73068, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Lam Pacific Co.",
+    "consignee_address": "1131 Lynn Alley, Cassandraside, PR 45207, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+49 793-980-3505",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 20,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 48.87,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-546366",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 21,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 99.58,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Crystal Lawrence",
+    "signature_date": "2026-04-25",
+    "signature_place": "Italy",
+    "awb_number": "125-29185731",
+    "flight_number": "SQ1517",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "ICN",
+    "destination_airport_name": "Seoul Incheon",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

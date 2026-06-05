@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0637",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Steven Diaz",
+    "addressee_company": "Hamilton International Pte Ltd",
+    "addressee_address": "04253 Green Plain, Lisaview, KY 83013, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 13.475,
+    "total_value": 5862.96,
+    "currency": "AED",
+    "issue_date": "2026-01-16",
+    "reference": "REF-814388",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.356,
+        "value": 1171.2,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 6,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.52,
+        "value": 646.26,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 17,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.494,
+        "value": 1049.41,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 17,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.252,
+        "value": 1211.93,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 18,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.853,
+        "value": 1784.16,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Matthew Griffin",
+    "sender_company": "Holmes Pacific Inc.",
+    "sender_address": "9911 Roberto Isle, Lake Garrett, NV 80478, United Kingdom",
+    "sender_phone": "7438829516",
+    "sender_email": "gwatts@example.org",
+    "addressee_phone": "5078437376",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 6.18,
+    "tracking_number": "NM568200315NT"
+  }
+}

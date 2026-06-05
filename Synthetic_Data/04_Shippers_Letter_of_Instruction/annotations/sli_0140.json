@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0140",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202208-9916",
+    "usppi_name": "Carter Pacific AG",
+    "usppi_address": "9658 Simpson Falls, Mitchellberg, TX 27966, Australia",
+    "usppi_country": "Australia",
+    "ein": "83-4558048",
+    "consignee_name": "International Baldwin Inc.",
+    "consignee_address": "72694 Garza Alley, West Mary, MP 48234, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Scott Pacific AG",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Roy West",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/23",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 15,
+        "unit": "PCS",
+        "weight_kg": 41.63,
+        "value_usd": 7867.38
+      },
+      {
+        "marks": "SLI/49",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 197,
+        "unit": "CTN",
+        "weight_kg": 429.4,
+        "value_usd": 2324.18
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 74,
+        "unit": "LTR",
+        "weight_kg": 71.56,
+        "value_usd": 586.76
+      }
+    ],
+    "total_weight_kg": 542.59,
+    "total_value_usd": 10778.32,
+    "service": "LCL Ocean",
+    "named_port": "Shanghai, CN",
+    "insurance_value_usd": 13655.12,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-835884",
+    "destination_country": "Japan"
+  }
+}

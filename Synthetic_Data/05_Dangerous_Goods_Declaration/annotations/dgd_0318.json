@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0318",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Anderson GmbH",
+    "shipper_address": "45417 Davis Way, Natalieview, NY 21124, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Spencer International AG",
+    "consignee_address": "651 John Causeway Suite 930, Annaport, SC 26091, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+88 655-311-9155",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 20,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 14.33,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-455689",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 8,
+        "pkg_type": "Steel Drum",
+        "net_qty": 66.68,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-938578",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Brenda Moore",
+    "signature_date": "2026-05-09",
+    "signature_place": "United Kingdom",
+    "awb_number": "074-53848143",
+    "flight_number": "DL9112",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

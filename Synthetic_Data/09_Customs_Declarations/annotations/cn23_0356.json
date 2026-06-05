@@ -1,0 +1,75 @@
+{
+  "document_id": "cn23_0356",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Thomas Johnson",
+    "addressee_company": "Trade Lewis Corp.",
+    "addressee_address": "3693 Christopher Alley Suite 364, Jessicaport, NC 44246, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 13.475,
+    "total_value": 3302.66,
+    "currency": "SGD",
+    "issue_date": "2026-04-29",
+    "reference": "REF-494963",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.876,
+        "value": 1230.74,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 9,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 1.121,
+        "value": 1200.96,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 11,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.836,
+        "value": 96.8,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 12,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.492,
+        "value": 274.44,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 2,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.676,
+        "value": 253.96,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 2,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.474,
+        "value": 245.76,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Diane Cameron",
+    "sender_company": "Moore Commerce LLC",
+    "sender_address": "377 Taylor Drive, Gutierrezstad, CT 61459, France",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 57.21,
+    "tracking_number": "FX884280577AW"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0382",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202509-4686",
+    "usppi_name": "Wyatt Trade Co.",
+    "usppi_address": "07544 Carrillo Path Apt. 815, Port Lisaton, OH 87764, France",
+    "usppi_country": "France",
+    "ein": "42-2757062",
+    "consignee_name": "Mathews International GmbH",
+    "consignee_address": "5967 Elizabeth Tunnel, Lake Brandon, CA 93381, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Martin Tech AG",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DPU",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Christopher Edwards",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/46",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 41,
+        "unit": "PCS",
+        "weight_kg": 574.98,
+        "value_usd": 31519.69
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 153,
+        "unit": "MTR",
+        "weight_kg": 53.48,
+        "value_usd": 2735.42
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 11,
+        "unit": "PKG",
+        "weight_kg": 20.82,
+        "value_usd": 522.43
+      },
+      {
+        "marks": "SLI/49",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 165,
+        "unit": "KGS",
+        "weight_kg": 165.0,
+        "value_usd": 223.01
+      },
+      {
+        "marks": "SLI/21",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 93,
+        "unit": "CTN",
+        "weight_kg": 142.94,
+        "value_usd": 7078.27
+      },
+      {
+        "marks": "ABC/8",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 117,
+        "unit": "PCS",
+        "weight_kg": 1852.99,
+        "value_usd": 49191.36
+      },
+      {
+        "marks": "EXP/10",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 86,
+        "unit": "BOX",
+        "weight_kg": 97.67,
+        "value_usd": 4707.38
+      }
+    ],
+    "total_weight_kg": 2907.88,
+    "total_value_usd": 95977.56,
+    "service": "Ocean Freight",
+    "named_port": "Felixstowe, GB",
+    "insurance_value_usd": 11770.5,
+    "license_type": "Distributor License",
+    "license_number": "LIC-763979",
+    "destination_country": "Japan"
+  }
+}

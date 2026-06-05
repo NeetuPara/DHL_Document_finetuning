@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0201",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Gregory King",
+    "addressee_company": "Commerce Lucas Pte Ltd",
+    "addressee_address": "123 Goodwin Ferry, Scottview, NE 62543, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 14.156,
+    "total_value": 5129.24,
+    "currency": "GBP",
+    "issue_date": "2026-03-03",
+    "reference": "REF-010827",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.161,
+        "value": 429.12,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 14,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.906,
+        "value": 1419.6,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 10,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.079,
+        "value": 1472.6,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 12,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.823,
+        "value": 1586.16,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 9,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.187,
+        "value": 221.76,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_country": "United Kingdom",
+    "port_of_entry": "Miami, FL",
+    "entry_number": "464-73145077-2",
+    "entry_type": "Informal Entry",
+    "duty_rate": 4.0,
+    "estimated_duty": 205.17,
+    "importer_ein": "29-2760596",
+    "customs_broker": "Global Hogan LLC"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0709",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202605-7602",
+    "usppi_name": "International Porter S.A.",
+    "usppi_address": "000 David Stravenue Apt. 063, South Johnview, PW 75371, Germany",
+    "usppi_country": "Germany",
+    "ein": "79-3193962",
+    "consignee_name": "Industry Todd S.A.",
+    "consignee_address": "40635 Matthew Cliff, West Amy, SC 08581, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Smith Global AG",
+    "forwarder": "DB Schenker",
+    "incoterm": "FOB",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "7A994",
+    "signatory_name": "Maria Wilson",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/1",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 152,
+        "unit": "PCS",
+        "weight_kg": 33.96,
+        "value_usd": 4762.55
+      },
+      {
+        "marks": "SLI/37",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 111,
+        "unit": "KGS",
+        "weight_kg": 111.0,
+        "value_usd": 221.7
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 105,
+        "unit": "MTR",
+        "weight_kg": 47.69,
+        "value_usd": 776.18
+      },
+      {
+        "marks": "EXP/28",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 140,
+        "unit": "SET",
+        "weight_kg": 313.8,
+        "value_usd": 9798.91
+      },
+      {
+        "marks": "EXP/36",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 118,
+        "unit": "BOX",
+        "weight_kg": 230.01,
+        "value_usd": 6508.23
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 176,
+        "unit": "CTN",
+        "weight_kg": 177.49,
+        "value_usd": 2427.5
+      }
+    ],
+    "total_weight_kg": 913.95,
+    "total_value_usd": 24495.07,
+    "service": "Express Courier",
+    "named_port": "Seoul Incheon",
+    "insurance_value_usd": 39382.83,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-382211",
+    "destination_country": "United Kingdom"
+  }
+}

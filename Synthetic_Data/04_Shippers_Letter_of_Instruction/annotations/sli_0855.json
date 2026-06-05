@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0855",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202512-5786",
+    "usppi_name": "Smith Industry Pte Ltd",
+    "usppi_address": "82952 Scott Via Apt. 350, Lake Williamberg, NH 62588, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "45-6938592",
+    "consignee_name": "Miller Commerce GmbH",
+    "consignee_address": "174 Todd Lakes Apt. 480, North Ritaberg, MS 46569, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Holt Tech B.V.",
+    "forwarder": "Panalpina",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Jessica Avery",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/2",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 67,
+        "unit": "MTR",
+        "weight_kg": 30.17,
+        "value_usd": 486.51
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 128,
+        "unit": "PCS",
+        "weight_kg": 617.04,
+        "value_usd": 54984.99
+      },
+      {
+        "marks": "SLI/14",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 164,
+        "unit": "PCS",
+        "weight_kg": 150.61,
+        "value_usd": 201561.97
+      },
+      {
+        "marks": "ABC/31",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 152,
+        "unit": "PKG",
+        "weight_kg": 336.49,
+        "value_usd": 6630.73
+      },
+      {
+        "marks": "ABC/3",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 173,
+        "unit": "KGS",
+        "weight_kg": 173.0,
+        "value_usd": 169.33
+      }
+    ],
+    "total_weight_kg": 1307.31,
+    "total_value_usd": 263833.53,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "649S",
+    "booking_ref": "BKG-594465",
+    "bl_number": "OOLU625915437",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Qingdao, CN",
+    "container_number": "LGLJ9615267",
+    "seal_number": "CL948825",
+    "container_type": "40'HC",
+    "cbm": 28.119
+  }
+}

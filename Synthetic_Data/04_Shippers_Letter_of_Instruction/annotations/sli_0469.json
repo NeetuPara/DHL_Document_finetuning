@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0469",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202202-6313",
+    "usppi_name": "Tech Wilson AG",
+    "usppi_address": "0067 Michael Fords Apt. 940, Jonesstad, VI 77815, Japan",
+    "usppi_country": "Japan",
+    "ein": "59-2063325",
+    "consignee_name": "Reyes Commerce Ltd",
+    "consignee_address": "3470 Nathaniel Mission, Lake Nicholasshire, SD 25650, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Campbell International Inc.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Zachary May",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/30",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 78,
+        "unit": "CTN",
+        "weight_kg": 158.66,
+        "value_usd": 395.43
+      },
+      {
+        "marks": "ABC/9",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 79,
+        "unit": "CTN",
+        "weight_kg": 262.41,
+        "value_usd": 2486.6
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 167,
+        "unit": "PCS",
+        "weight_kg": 222.94,
+        "value_usd": 5331.01
+      },
+      {
+        "marks": "ABC/14",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 184,
+        "unit": "KGS",
+        "weight_kg": 184.0,
+        "value_usd": 1623.49
+      },
+      {
+        "marks": "EXP/38",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 105,
+        "unit": "MTR",
+        "weight_kg": 83.78,
+        "value_usd": 1637.17
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 110,
+        "unit": "PKG",
+        "weight_kg": 204.65,
+        "value_usd": 2826.12
+      },
+      {
+        "marks": "SLI/14",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 164,
+        "unit": "PCS",
+        "weight_kg": 2046.22,
+        "value_usd": 39214.71
+      }
+    ],
+    "total_weight_kg": 3162.66,
+    "total_value_usd": 53514.53,
+    "service": "Express Courier",
+    "named_port": "Paris CDG",
+    "insurance_value_usd": 27667.81,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-177810",
+    "destination_country": "United Arab Emirates"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0123",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-17279510",
+    "mawb_number": "125-57117040",
+    "shipper_name": "Tech Barr Ltd",
+    "shipper_address": "946 Francisco Trafficway, Port Alexander, MT 65940, United States",
+    "consignee_name": "Castaneda Trade AG",
+    "consignee_address": "1996 Mary Heights, South Kirkhaven, WI 32853, Japan",
+    "agent_name": "Howe Commerce Co.",
+    "airport_departure": "JFK",
+    "airport_destination": "SYD",
+    "currency": "CAD",
+    "charge_code": "PP",
+    "declared_value_carriage": "AED 11,475.10",
+    "declared_value_customs": "CHF 30,622.10",
+    "n_pieces": 30,
+    "gross_weight_kg": 207.7,
+    "chargeable_weight": 267.1,
+    "rate": 9.71,
+    "total_charge": 2593.54,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-07-05",
+    "signatory": "Jennifer Benjamin",
+    "iata_code": "73-978",
+    "agent_cass": "7595-8120",
+    "consolidation_ref": "CONS-9266-955896",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-38065385",
+        "pieces": 20,
+        "weight": 23.3,
+        "destination": "JFK",
+        "consignee": "Pacific Bishop Corp.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "618-72989036",
+        "pieces": 8,
+        "weight": 67.6,
+        "destination": "JFK",
+        "consignee": "Industry Bradley GmbH",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "074-51301724",
+        "pieces": 5,
+        "weight": 86.5,
+        "destination": "SYD",
+        "consignee": "Oconnor Commerce Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "125-62619879",
+        "pieces": 2,
+        "weight": 17.3,
+        "destination": "JFK",
+        "consignee": "Hernandez Trade Co.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "020-97982685",
+        "pieces": 4,
+        "weight": 48.8,
+        "destination": "HKG",
+        "consignee": "Global Hensley B.V.",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

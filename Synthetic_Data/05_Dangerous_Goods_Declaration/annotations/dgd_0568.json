@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0568",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Williams Trade Ltd",
+    "shipper_address": "73842 Wilson Junction Apt. 088, Lake Noahshire, TX 15083, France",
+    "shipper_country": "France",
+    "consignee_name": "Industry Lyons GmbH",
+    "consignee_address": "8698 Christopher Drive, Port Cesarside, AR 83484, Mexico",
+    "consignee_country": "Mexico",
+    "emergency_telephone": "+99 527-720-4378",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 18,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 1.5,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-746275",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Savannah Taylor",
+    "signature_date": "2026-05-10",
+    "signature_place": "France",
+    "awb_number": "057-54988602",
+    "flight_number": "QR4606",
+    "flight_date": "2026-05-31",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport"
+  }
+}

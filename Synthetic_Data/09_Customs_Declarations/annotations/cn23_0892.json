@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0892",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Marvin Garcia",
+    "addressee_company": "Trade Boyer S.A.",
+    "addressee_address": "3403 Paul Streets, East Kevinborough, IN 87463, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 11.112,
+    "total_value": 4563.2,
+    "currency": "AUD",
+    "issue_date": "2025-10-10",
+    "reference": "REF-247481",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 4.525,
+        "value": 1889.38,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 19,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.18,
+        "value": 350.36,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 11,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.995,
+        "value": 1587.96,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 8,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.31,
+        "value": 400.88,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 9,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.102,
+        "value": 334.62,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_name": "Sheila Sandoval",
+    "sender_company": "Obrien Pacific S.A.",
+    "sender_address": "PSC 9941, Box 4189, APO AA 81888, United States",
+    "sender_phone": "6787735049",
+    "sender_email": "ruizsamuel@example.com",
+    "addressee_phone": "+1-286-494-5149",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 5019.52,
+    "postal_charges": 47.07,
+    "tracking_number": "CM195361801VI"
+  }
+}

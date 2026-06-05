@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0932",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Young Global LLC",
+    "shipper_address": "617 Alyssa Walk Suite 248, New Amber, VI 11268, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Porter Commerce Corp.",
+    "consignee_address": "697 Michael Locks, New Natashaton, ID 34121, Switzerland",
+    "consignee_country": "Switzerland",
+    "emergency_telephone": "+59 107-278-6008",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 33,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 30.21,
+        "qty_unit": "kg",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 39,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 79.31,
+        "qty_unit": "mL",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-799890",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "David Gonzalez",
+    "signature_date": "2026-05-06",
+    "signature_place": "Sweden",
+    "vessel": "YANG MING MYTH",
+    "voyage": "183W",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Dubai, AE"
+  }
+}

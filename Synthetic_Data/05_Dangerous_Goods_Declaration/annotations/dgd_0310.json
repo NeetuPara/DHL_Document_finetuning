@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0310",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Medina Commerce Ltd",
+    "shipper_address": "32390 Peterson Fall, Michaelland, CA 53997, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "International Rodriguez LLC",
+    "consignee_address": "PSC 0912, Box 8280, APO AA 33680, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+29 868-684-4863",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 12,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 5.55,
+        "qty_unit": "kg",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-527200",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 16,
+        "pkg_type": "Steel Drum",
+        "net_qty": 38.98,
+        "qty_unit": "mL",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Beverly Wright",
+    "signature_date": "2026-04-20",
+    "signature_place": "United Kingdom",
+    "awb_number": "006-98736806",
+    "flight_number": "CX375",
+    "flight_date": "2026-04-18",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International"
+  }
+}

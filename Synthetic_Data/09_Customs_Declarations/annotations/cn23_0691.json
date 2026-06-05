@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0691",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Nicholas Owens",
+    "addressee_company": "Terry Pacific Co.",
+    "addressee_address": "333 Hoffman Villages, Thompsonville, VA 17572, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 14.135,
+    "total_value": 1951.14,
+    "currency": "USD",
+    "issue_date": "2026-03-03",
+    "reference": "REF-340908",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.365,
+        "value": 29.34,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 1,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.029,
+        "value": 72.22,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 4,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.392,
+        "value": 87.08,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 4,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.596,
+        "value": 63.36,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 16,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.445,
+        "value": 1559.52,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 6,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.308,
+        "value": 139.62,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "John Solis",
+    "sender_company": "Levine Industry GmbH",
+    "sender_address": "8820 Armstrong Via, New Debra, DE 15191, Canada",
+    "sender_phone": "+1-202-712-4208x194",
+    "sender_email": "kimberly88@example.org",
+    "addressee_phone": "+1-354-582-4259",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 15.16,
+    "tracking_number": "IR182938927PI"
+  }
+}

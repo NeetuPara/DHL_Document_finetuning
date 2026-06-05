@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0950",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU188399919",
+    "shipper_name": "Pacific Mccann Corp.",
+    "shipper_address": "PSC 2151, Box 9675, APO AE 52431, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Tech Daniel LLC",
+    "consignee_address": "3203 Wilcox Ford Apt. 095, Waltonmouth, PA 38184, India",
+    "consignee_country": "India",
+    "notify_party_name": "Alexander Industry GmbH",
+    "notify_party_address": "98437 Cruz Park Apt. 681, Hooverhaven, WY 30587, India",
+    "vessel": "CSCL GLOBE",
+    "voyage": "231E",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2024-07-16",
+    "issue_place": "Los Angeles",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "KIOL4412036",
+        "seal_no": "CL798182",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "WBEF5163314",
+        "seal_no": "SL390211",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "YCSN4884151",
+        "seal_no": "SL940187",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 477,
+    "package_type": "Pallet",
+    "gross_weight_kg": 7867.9,
+    "net_weight_kg": 7414.9,
+    "cbm": 45.016,
+    "marks_and_numbers": "ABC/12"
+  }
+}

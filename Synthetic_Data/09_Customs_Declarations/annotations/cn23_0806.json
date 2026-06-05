@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0806",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "April Smith",
+    "addressee_company": "Mccarthy Tech Pte Ltd",
+    "addressee_address": "PSC 5739, Box 9149, APO AA 01845, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 7.679,
+    "total_value": 3358.44,
+    "currency": "EUR",
+    "issue_date": "2025-05-18",
+    "reference": "REF-402810",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 1.703,
+        "value": 1336.65,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 19,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.087,
+        "value": 718.77,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 9,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.889,
+        "value": 1303.02,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_name": "Michael Sanchez",
+    "sender_company": "Alexander Global Inc.",
+    "sender_address": "5708 Patricia Plain Apt. 304, New Rhonda, MA 39481, Sweden",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 49.41,
+    "tracking_number": "VK001721864ZE"
+  }
+}

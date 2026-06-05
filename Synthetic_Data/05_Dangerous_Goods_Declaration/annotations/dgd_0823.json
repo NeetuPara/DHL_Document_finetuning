@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0823",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Gallagher Commerce LLC",
+    "shipper_address": "771 Laura Heights Suite 701, North Rebekah, OH 15500, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Industry Ryan B.V.",
+    "consignee_address": "0728 Courtney Stravenue Apt. 618, East Theresa, VT 42063, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+79 726-832-2250",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 37,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 78.37,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 48,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 18.94,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Samantha Smith",
+    "signature_date": "2026-05-06",
+    "signature_place": "United Kingdom",
+    "awb_number": "057-49390211",
+    "flight_number": "SQ559",
+    "flight_date": "2026-05-27",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare"
+  }
+}

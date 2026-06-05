@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0453",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-63073967",
+    "mawb_number": "074-66812581",
+    "shipper_name": "Tech Reynolds Ltd",
+    "shipper_address": "5087 Karen Brooks, North Gregoryshire, GU 45410, Belgium",
+    "consignee_name": "Global Murphy LLC",
+    "consignee_address": "11730 Lisa Points, Jordanmouth, PA 75442, Netherlands",
+    "agent_name": "Contreras Global S.A.",
+    "airport_departure": "ICN",
+    "airport_destination": "NRT",
+    "currency": "AED",
+    "charge_code": "CC",
+    "declared_value_carriage": "SGD 18,672.19",
+    "declared_value_customs": "NCV",
+    "n_pieces": 22,
+    "gross_weight_kg": 268.4,
+    "chargeable_weight": 285.8,
+    "rate": 5.41,
+    "total_charge": 1546.18,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-03-27",
+    "signatory": "Alexa Coleman",
+    "iata_code": "10-673",
+    "agent_cass": "3380-8029",
+    "consolidation_ref": "CONS-5055-417323",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-94104400",
+        "pieces": 20,
+        "weight": 64.1,
+        "destination": "MIA",
+        "consignee": "International Anderson Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "176-80176880",
+        "pieces": 15,
+        "weight": 27.6,
+        "destination": "DXB",
+        "consignee": "Industry Carpenter Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "176-64995495",
+        "pieces": 17,
+        "weight": 57.9,
+        "destination": "JFK",
+        "consignee": "Woods Tech Inc.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "045-67406944",
+        "pieces": 11,
+        "weight": 47.7,
+        "destination": "MIA",
+        "consignee": "Commerce Johnson GmbH",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "160-58874947",
+        "pieces": 10,
+        "weight": 67.0,
+        "destination": "PVG",
+        "consignee": "International Garcia Corp.",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

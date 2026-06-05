@@ -1,0 +1,40 @@
+{
+  "packet_id": "packet_0890",
+  "total_pages": 3,
+  "n_documents": 3,
+  "class_sequence": [
+    "Commercial Invoice",
+    "Import/Export License",
+    "Shipper's Letter of Instruction"
+  ],
+  "documents": [
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "commercial_invoice_0749.pdf",
+      "source_class_folder": "01_Commercial_Invoice"
+    },
+    {
+      "doc_class": "Import/Export License",
+      "class_index": 11,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "eei_0932.pdf",
+      "source_class_folder": "11_Import_Export_License"
+    },
+    {
+      "doc_class": "Shipper's Letter of Instruction",
+      "class_index": 4,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "sli_0177.pdf",
+      "source_class_folder": "04_Shippers_Letter_of_Instruction"
+    }
+  ],
+  "task": "splitting"
+}

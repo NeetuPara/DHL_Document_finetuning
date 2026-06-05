@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0805",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202306-5396",
+    "usppi_name": "Escobar Industry GmbH",
+    "usppi_address": "7824 Bobby Locks, Port Rachel, LA 49782, Italy",
+    "usppi_country": "Italy",
+    "ein": "55-8841806",
+    "consignee_name": "Pacific Burton Pte Ltd",
+    "consignee_address": "04321 Nichols Lights, Reidborough, IL 92177, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Global Jackson LLC",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Ronald Thompson",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/34",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 6,
+        "unit": "CTN",
+        "weight_kg": 7.71,
+        "value_usd": 35.52
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 181,
+        "unit": "LTR",
+        "weight_kg": 194.0,
+        "value_usd": 3912.87
+      }
+    ],
+    "total_weight_kg": 201.71,
+    "total_value_usd": 3948.39,
+    "service": "Ground",
+    "named_port": "Toronto Pearson",
+    "insurance_value_usd": 23457.16,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-683320",
+    "destination_country": "Malaysia"
+  }
+}

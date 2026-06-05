@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0632",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Nelson S.A.",
+    "shipper_address": "883 Jenna Stravenue, Melissamouth, WI 76507, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Guzman International AG",
+    "consignee_address": "3641 Farmer Pines Suite 727, Port Mitchellmouth, MA 73162, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+11 325-259-4317",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 4,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 38.66,
+        "qty_unit": "mL",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Rachael Soto",
+    "signature_date": "2026-04-27",
+    "signature_place": "Singapore",
+    "vessel": "MSC GULSUN",
+    "voyage": "255N",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Hong Kong, HK"
+  }
+}

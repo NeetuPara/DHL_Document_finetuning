@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0221",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202509-8732",
+    "usppi_name": "Morris Global B.V.",
+    "usppi_address": "865 Rosales Passage Apt. 515, Tarafort, AK 98017, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "48-2866567",
+    "consignee_name": "Noble Global S.A.",
+    "consignee_address": "430 Michael Drive, Debbiebury, NE 92897, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "International Riley Pte Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Samantha Edwards",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/48",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 121,
+        "unit": "PCS",
+        "weight_kg": 2581.86,
+        "value_usd": 27154.38
+      },
+      {
+        "marks": "ABC/8",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 45,
+        "unit": "MTR",
+        "weight_kg": 18.91,
+        "value_usd": 220.2
+      },
+      {
+        "marks": "SLI/17",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 42,
+        "unit": "PCS",
+        "weight_kg": 16.02,
+        "value_usd": 1886.36
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 187,
+        "unit": "BOX",
+        "weight_kg": 177.82,
+        "value_usd": 17737.68
+      },
+      {
+        "marks": "EXP/27",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 6,
+        "unit": "CTN",
+        "weight_kg": 29.92,
+        "value_usd": 443.05
+      },
+      {
+        "marks": "ABC/11",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 38,
+        "unit": "PCS",
+        "weight_kg": 36.34,
+        "value_usd": 136.22
+      },
+      {
+        "marks": "ABC/5",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 71,
+        "unit": "PCS",
+        "weight_kg": 886.75,
+        "value_usd": 19448.55
+      },
+      {
+        "marks": "ABC/7",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 52,
+        "unit": "KGS",
+        "weight_kg": 52.0,
+        "value_usd": 1051.3
+      }
+    ],
+    "total_weight_kg": 3799.62,
+    "total_value_usd": 68077.74,
+    "service": "Express Courier",
+    "named_port": "Shanghai Pudong",
+    "insurance_value_usd": 39921.78,
+    "license_type": "Distributor License",
+    "license_number": "LIC-271510",
+    "destination_country": "Switzerland"
+  }
+}

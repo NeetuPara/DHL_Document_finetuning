@@ -1,0 +1,54 @@
+{
+  "document_id": "coo_0908",
+  "document_class": "Certificate of Origin",
+  "format_variant": "FTA-USMCA-Numbered-Fields",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202003-1423",
+    "exporter_name": "International Howard Corp.",
+    "exporter_address": "Unit 5937 Box 5134, DPO AE 37191, Singapore",
+    "exporter_country": "Singapore",
+    "consignee_name": "Castro Commerce B.V.",
+    "consignee_address": "964 Sandra Key, Gregoryburgh, DC 93210, Belgium",
+    "consignee_country": "Belgium",
+    "country_of_origin": "Singapore",
+    "country_of_destination": "Belgium",
+    "bl_or_awb": "160-75217867",
+    "issue_date": "2025-02-02",
+    "certifier_name": "Andrew Davis",
+    "goods": [
+      {
+        "description": "Steel Products - Hot Rolled Coils",
+        "hs_code": "7208.37.00",
+        "qty": 212,
+        "unit": "KGS",
+        "weight_kg": 212.0,
+        "origin_criterion": "A",
+        "value": 440.36
+      },
+      {
+        "description": "Textile Fabrics - Woven Polyester",
+        "hs_code": "5407.42.00",
+        "qty": 374,
+        "unit": "MTR",
+        "weight_kg": 362.62,
+        "origin_criterion": "A",
+        "value": 3410.3
+      },
+      {
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "hs_code": "8483.40.00",
+        "qty": 196,
+        "unit": "PCS",
+        "weight_kg": 2136.44,
+        "origin_criterion": "A",
+        "value": 114313.59
+      }
+    ],
+    "fta_agreement": "USMCA",
+    "blanket_period_from": "2024-10-12",
+    "blanket_period_to": "2025-08-31",
+    "producer_name": "Commerce Brown Pte Ltd",
+    "producer_country": "Australia"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0990",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202304-7444",
+    "usppi_name": "International Wright Corp.",
+    "usppi_address": "29639 Shelby Rue, Harrisland, NH 19066, France",
+    "usppi_country": "France",
+    "ein": "72-6839720",
+    "consignee_name": "Pacific Pacheco AG",
+    "consignee_address": "030 Benjamin Drive, Brianport, AL 21728, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Bullock Global Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Michelle Stevenson",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/14",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 86,
+        "unit": "PCS",
+        "weight_kg": 22.14,
+        "value_usd": 5714.77
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 47,
+        "unit": "PKG",
+        "weight_kg": 28.39,
+        "value_usd": 1742.52
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 176,
+        "unit": "PCS",
+        "weight_kg": 21.59,
+        "value_usd": 16455.26
+      }
+    ],
+    "total_weight_kg": 72.12,
+    "total_value_usd": 23912.55,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "515E",
+    "booking_ref": "BKG-553604",
+    "bl_number": "DHLG639062539",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Tokyo, JP",
+    "container_number": "NHNX0578650",
+    "seal_number": "CL287115",
+    "container_type": "20'GP",
+    "cbm": 13.837
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0863",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Carla Cruz",
+    "addressee_company": "Global Moran S.A.",
+    "addressee_address": "32931 Alexandra Circle Suite 089, Amandabury, NV 44771, Sweden",
+    "addressee_country": "Sweden",
+    "total_weight_kg": 11.664,
+    "total_value": 3106.25,
+    "currency": "AED",
+    "issue_date": "2025-06-12",
+    "reference": "REF-689255",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.432,
+        "value": 138.99,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 13,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.89,
+        "value": 642.2,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 18,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.342,
+        "value": 2325.06,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_name": "Mackenzie Young",
+    "sender_company": "Commerce Taylor Pte Ltd",
+    "sender_address": "043 Brian Ville, South Bethany, CA 33082, Brazil",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 3416.88,
+    "postal_charges": 53.53,
+    "tracking_number": "CR398204458LJ"
+  }
+}

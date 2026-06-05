@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0638",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Zhang Ltd",
+    "shipper_address": "07981 Lopez Pike Suite 265, Jessicaville, PA 22531, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Global Alexander LLC",
+    "consignee_address": "125 Meyer Forge Apt. 889, North Dillon, NV 55740, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+97 881-518-1054",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 11,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 95.41,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-155639",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 21,
+        "pkg_type": "Steel Drum",
+        "net_qty": 64.28,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-561402",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Timothy Moore",
+    "signature_date": "2026-05-12",
+    "signature_place": "United Kingdom",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "290W",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Tanjung Pelepas, MY"
+  }
+}

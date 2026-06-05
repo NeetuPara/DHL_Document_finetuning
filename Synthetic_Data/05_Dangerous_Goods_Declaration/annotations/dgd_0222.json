@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0222",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Russell Ltd",
+    "shipper_address": "758 Mary Summit, East Mariaborough, TN 69018, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Anderson Pacific Inc.",
+    "consignee_address": "289 Kaitlyn Fords, West Christopher, FM 76676, Spain",
+    "consignee_country": "Spain",
+    "emergency_telephone": "+26 814-303-5397",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 21,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 23.41,
+        "qty_unit": "mL",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-428792",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 25,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 26.74,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-555631",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Thomas Ewing",
+    "signature_date": "2026-04-25",
+    "signature_place": "Australia",
+    "awb_number": "618-67641547",
+    "flight_number": "SQ7078",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

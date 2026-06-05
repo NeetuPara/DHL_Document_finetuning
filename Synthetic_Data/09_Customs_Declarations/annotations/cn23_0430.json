@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0430",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Craig Spencer MD",
+    "addressee_company": "Schmidt Tech Corp.",
+    "addressee_address": "Unit 2989 Box 5689, DPO AP 00626, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 7.071,
+    "total_value": 3512.47,
+    "currency": "CAD",
+    "issue_date": "2025-12-26",
+    "reference": "REF-964213",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.076,
+        "value": 267.48,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 20,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.214,
+        "value": 2916.0,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 5,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.825,
+        "value": 326.55,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 1,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.956,
+        "value": 2.44,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Emily Smith",
+    "sender_company": "Bradford Pacific GmbH",
+    "sender_address": "58429 Gregory Well, West Stephanie, AL 44135, Italy",
+    "sender_phone": "(204)683-9507x422",
+    "sender_email": "bradleybrian@example.net",
+    "addressee_phone": "266-242-4612x978",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 39.3,
+    "tracking_number": "UF087725213VA"
+  }
+}

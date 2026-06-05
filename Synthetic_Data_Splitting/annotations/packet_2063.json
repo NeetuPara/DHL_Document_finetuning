@@ -1,0 +1,60 @@
+{
+  "packet_id": "packet_2063",
+  "total_pages": 5,
+  "n_documents": 5,
+  "class_sequence": [
+    "Commercial Invoice",
+    "Power of Attorney",
+    "Packing List",
+    "Customs Declaration",
+    "Cargo Manifest"
+  ],
+  "documents": [
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "commercial_invoice_0941.pdf",
+      "source_class_folder": "01_Commercial_Invoice"
+    },
+    {
+      "doc_class": "Power of Attorney",
+      "class_index": 12,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "poa_0682.pdf",
+      "source_class_folder": "12_Power_of_Attorney"
+    },
+    {
+      "doc_class": "Packing List",
+      "class_index": 8,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "packing_list_0273.pdf",
+      "source_class_folder": "08_Packing_List"
+    },
+    {
+      "doc_class": "Customs Declaration",
+      "class_index": 9,
+      "page_start": 4,
+      "page_end": 4,
+      "n_pages": 1,
+      "source_file": "cn23_0859.pdf",
+      "source_class_folder": "09_Customs_Declarations"
+    },
+    {
+      "doc_class": "Cargo Manifest",
+      "class_index": 10,
+      "page_start": 5,
+      "page_end": 5,
+      "n_pages": 1,
+      "source_file": "manifest_0527.pdf",
+      "source_class_folder": "10_Cargo_Manifest"
+    }
+  ],
+  "task": "splitting"
+}

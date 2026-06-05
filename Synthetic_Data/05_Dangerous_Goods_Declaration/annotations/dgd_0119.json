@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0119",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Duncan Trade Inc.",
+    "shipper_address": "666 Thompson Forge, Acevedoberg, WA 13265, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Alvarez Trade Corp.",
+    "consignee_address": "1843 Melissa Row Apt. 711, Lake Michellemouth, KY 66558, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+52 954-538-4992",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 34,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 40.05,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-534922",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 30,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 69.91,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Miss Cynthia Peterson",
+    "signature_date": "2026-05-01",
+    "signature_place": "Mexico",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "940E",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Tokyo, JP"
+  }
+}

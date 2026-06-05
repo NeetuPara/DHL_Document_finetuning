@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0284",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20230707164665",
+    "export_date": "2026-02-04",
+    "aes_option": "AES Filing",
+    "usppi_name": "Global Nicholson Corp.",
+    "usppi_ein": "16-5234005",
+    "usppi_address": "3883 Ronald Field, Lake Arianafort, OR 59091, United States",
+    "ultimate_consignee": "Commerce Friedman LLC",
+    "intermediate_consignee": "Smith Pacific LLC",
+    "forwarding_agent": "Industry Herrera GmbH",
+    "destination_country": "Mexico",
+    "carrier": "DHL Express",
+    "bl_awb": "045-55667842",
+    "total_value": 166377.4,
+    "currency": "AUD",
+    "signatory": "Scott Sanders",
+    "line_items": [
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Canada",
+        "qty": 186,
+        "unit": "BOX",
+        "entered_value": 30760.68,
+        "duty_rate": 22.1,
+        "duty_amount": 6798.11,
+        "eccn": "5E992",
+        "schedule_b": "2936.90.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Switzerland",
+        "qty": 325,
+        "unit": "KGS",
+        "entered_value": 106840.5,
+        "duty_rate": 18.9,
+        "duty_amount": 20192.85,
+        "eccn": "EAR99",
+        "schedule_b": "2008.19.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Singapore",
+        "qty": 76,
+        "unit": "KGS",
+        "entered_value": 22294.6,
+        "duty_rate": 12.7,
+        "duty_amount": 2831.41,
+        "eccn": "3A992",
+        "schedule_b": "2008.19.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Italy",
+        "qty": 81,
+        "unit": "BOX",
+        "entered_value": 6481.62,
+        "duty_rate": 18.5,
+        "duty_amount": 1199.1,
+        "eccn": "5E992",
+        "schedule_b": "2936.90.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

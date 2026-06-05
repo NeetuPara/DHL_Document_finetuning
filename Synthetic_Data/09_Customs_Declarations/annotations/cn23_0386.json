@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0386",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Douglas Spears",
+    "addressee_company": "Trade Parsons Ltd",
+    "addressee_address": "9244 Berry Stravenue, Mclaughlinstad, WY 59789, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 8.231,
+    "total_value": 4268.51,
+    "currency": "CNY",
+    "issue_date": "2025-07-02",
+    "reference": "REF-660231",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.657,
+        "value": 145.9,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 11,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.623,
+        "value": 1457.61,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 10,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 0.771,
+        "value": 471.1,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 15,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.18,
+        "value": 2193.9,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_name": "Erik Thomas",
+    "sender_company": "Burnett International Co.",
+    "sender_address": "23646 Cooper Plains, Arthurville, TN 69745, Canada",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 4695.36,
+    "postal_charges": 12.29,
+    "tracking_number": "NM833070633DB"
+  }
+}

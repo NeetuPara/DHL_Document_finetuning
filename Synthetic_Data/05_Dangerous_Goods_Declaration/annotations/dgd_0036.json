@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0036",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Golden Tech Corp.",
+    "shipper_address": "89444 Baker Plaza Suite 514, Juliemouth, AS 14105, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Pacific Davis S.A.",
+    "consignee_address": "98019 Adam Common, Philipborough, HI 63403, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+94 858-400-5741",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 38,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 73.72,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-222349",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Tammy Ayala",
+    "signature_date": "2026-04-22",
+    "signature_place": "Italy",
+    "awb_number": "125-45892883",
+    "flight_number": "CX110",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "ICN",
+    "destination_airport_name": "Seoul Incheon",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

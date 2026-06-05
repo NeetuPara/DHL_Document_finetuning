@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0623",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU798440307",
+    "shipper_name": "Tech Payne Ltd",
+    "shipper_address": "756 Stevens Bypass, Bryanshire, AL 46002, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Tech Mcdonald Inc.",
+    "consignee_address": "31252 Brad Meadow, Mitchellmouth, ND 41413, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party_name": "Estrada Industry S.A.",
+    "notify_party_address": "003 Zavala Run, South Teresaberg, GU 86643, Netherlands",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "436S",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Singapore, SG",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2024-06-07",
+    "issue_place": "Tokyo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "BLSM4995404",
+        "seal_no": "CL787309",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "MOVD3453830",
+        "seal_no": "CL383365",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 281,
+    "package_type": "Pallet",
+    "gross_weight_kg": 3360.6,
+    "net_weight_kg": 3074.9,
+    "cbm": 15.994,
+    "marks_and_numbers": "GLB/20"
+  }
+}

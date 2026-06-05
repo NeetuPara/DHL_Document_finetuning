@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0936",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU345297175",
+    "shipper_name": "Martinez International Ltd",
+    "shipper_address": "Unit 6228 Box 0518, DPO AE 94913, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Global Peterson AG",
+    "consignee_address": "Unit 4202 Box 7091, DPO AP 58622, Italy",
+    "consignee_country": "Italy",
+    "notify_party_name": "Tech Mccarty LLC",
+    "notify_party_address": "0869 Alexis Crescent, Aprilstad, WY 89867, Thailand",
+    "vessel": "MSC OSCAR",
+    "voyage": "178N",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2024-07-09",
+    "issue_place": "Tokyo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "CHEV5067739",
+        "seal_no": "CL258236",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "AGDZ4301702",
+        "seal_no": "CL824090",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 140,
+    "package_type": "Carton",
+    "gross_weight_kg": 7184.8,
+    "net_weight_kg": 6435.3,
+    "cbm": 7.571,
+    "marks_and_numbers": "ABC/17"
+  }
+}

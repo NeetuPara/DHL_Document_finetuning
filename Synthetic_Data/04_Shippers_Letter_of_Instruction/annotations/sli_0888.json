@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0888",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202210-1903",
+    "usppi_name": "Pacific Perry Pte Ltd",
+    "usppi_address": "3404 Mills Village Apt. 005, East Destiny, VI 36167, France",
+    "usppi_country": "France",
+    "ein": "98-8602239",
+    "consignee_name": "Castillo Commerce Pte Ltd",
+    "consignee_address": "Unit 7256 Box 3356, DPO AA 80371, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Lawrence Industry S.A.",
+    "forwarder": "Expeditors",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Michael Smith",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/11",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 79,
+        "unit": "PKG",
+        "weight_kg": 77.03,
+        "value_usd": 2934.54
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 137,
+        "unit": "PCS",
+        "weight_kg": 2685.1,
+        "value_usd": 49315.97
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 21,
+        "unit": "CTN",
+        "weight_kg": 29.0,
+        "value_usd": 167.38
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 65,
+        "unit": "KGS",
+        "weight_kg": 65.0,
+        "value_usd": 1102.39
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 97,
+        "unit": "SET",
+        "weight_kg": 175.63,
+        "value_usd": 16248.41
+      },
+      {
+        "marks": "SLI/21",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 70,
+        "unit": "LTR",
+        "weight_kg": 73.54,
+        "value_usd": 420.45
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 44,
+        "unit": "PCS",
+        "weight_kg": 3.27,
+        "value_usd": 989.59
+      },
+      {
+        "marks": "ABC/26",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 9,
+        "unit": "KGS",
+        "weight_kg": 9.0,
+        "value_usd": 9.05
+      }
+    ],
+    "total_weight_kg": 3117.57,
+    "total_value_usd": 71187.78,
+    "vessel": "MOL TRIUMPH",
+    "voyage": "832S",
+    "booking_ref": "BKG-266013",
+    "bl_number": "COSU821795882",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Busan, KR",
+    "container_number": "BSOP5771845",
+    "seal_number": "BL330785",
+    "container_type": "40'GP",
+    "cbm": 10.775
+  }
+}

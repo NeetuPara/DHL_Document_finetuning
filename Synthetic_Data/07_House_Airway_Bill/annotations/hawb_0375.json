@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0375",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-28374415",
+    "mawb_number": "074-22678047",
+    "shipper_name": "Global Good Inc.",
+    "shipper_address": "39235 Alexandra Road, North Manuelshire, MN 05097, Australia",
+    "consignee_name": "Meza International B.V.",
+    "consignee_address": "5805 Shari Turnpike Apt. 435, Davistown, AK 15095, United Kingdom",
+    "agent_name": "Garcia Pacific Co.",
+    "airport_departure": "NRT",
+    "airport_destination": "ORD",
+    "currency": "AED",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CNY 25,620.79",
+    "n_pieces": 17,
+    "gross_weight_kg": 124.7,
+    "chargeable_weight": 159.1,
+    "rate": 5.31,
+    "total_charge": 844.82,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-05-21",
+    "signatory": "Carrie Juarez",
+    "iata_code": "27-742",
+    "agent_cass": "2507-4848",
+    "consolidation_ref": "CONS-9156-888395",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-34711602",
+        "pieces": 12,
+        "weight": 26.3,
+        "destination": "FRA",
+        "consignee": "Industry Bell Inc.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "006-64257223",
+        "pieces": 13,
+        "weight": 61.8,
+        "destination": "DXB",
+        "consignee": "Holmes International B.V.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "074-89447175",
+        "pieces": 1,
+        "weight": 28.6,
+        "destination": "ORD",
+        "consignee": "Elliott International AG",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "125-13812391",
+        "pieces": 20,
+        "weight": 1.0,
+        "destination": "SYD",
+        "consignee": "Chen Pacific B.V.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "020-24085191",
+        "pieces": 9,
+        "weight": 61.7,
+        "destination": "NRT",
+        "consignee": "Pacific Tran LLC",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "074-81274607",
+        "pieces": 8,
+        "weight": 63.5,
+        "destination": "SYD",
+        "consignee": "Hines Trade Ltd",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "125-29066364",
+        "pieces": 9,
+        "weight": 52.9,
+        "destination": "HKG",
+        "consignee": "Wall Tech AG",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

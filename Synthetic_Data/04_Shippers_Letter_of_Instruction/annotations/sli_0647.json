@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0647",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202204-6466",
+    "usppi_name": "Beck Commerce Ltd",
+    "usppi_address": "173 John Road, South Chloemouth, MS 07514, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "10-1510272",
+    "consignee_name": "International Herman GmbH",
+    "consignee_address": "29795 Paula Shoal Apt. 187, Baileyberg, MO 46224, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "International Kelly B.V.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "7A994",
+    "signatory_name": "Briana Bowers",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/7",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 89,
+        "unit": "LTR",
+        "weight_kg": 89.83,
+        "value_usd": 2772.18
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 19,
+        "unit": "CTN",
+        "weight_kg": 54.3,
+        "value_usd": 220.77
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 151,
+        "unit": "PCS",
+        "weight_kg": 2787.6,
+        "value_usd": 35430.96
+      },
+      {
+        "marks": "EXP/25",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 127,
+        "unit": "BOX",
+        "weight_kg": 211.92,
+        "value_usd": 10121.86
+      }
+    ],
+    "total_weight_kg": 3143.65,
+    "total_value_usd": 48545.77,
+    "service": "LCL Ocean",
+    "named_port": "Shanghai, CN",
+    "insurance_value_usd": 48256.07,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-223130",
+    "destination_country": "Mexico"
+  }
+}

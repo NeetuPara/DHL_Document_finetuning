@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0613",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Angela Smith",
+    "addressee_company": "Tech Schmidt Inc.",
+    "addressee_address": "9574 Webb Haven Apt. 182, Port Jennifer, CO 27694, Brazil",
+    "addressee_country": "Brazil",
+    "total_weight_kg": 11.579,
+    "total_value": 3059.98,
+    "currency": "GBP",
+    "issue_date": "2025-08-25",
+    "reference": "REF-549483",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.454,
+        "value": 2620.98,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 5,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.491,
+        "value": 222.1,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 10,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.634,
+        "value": 216.9,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Sylvia Jensen",
+    "sender_company": "Pacific Martin Pte Ltd",
+    "sender_address": "319 Novak Highway, South Jennifer, FL 40721, United States",
+    "sender_phone": "6952143952",
+    "sender_email": "cwilliams@example.com",
+    "addressee_phone": "881.758.8150x926",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 3365.98,
+    "postal_charges": 25.3,
+    "tracking_number": "LI777296229WM"
+  }
+}

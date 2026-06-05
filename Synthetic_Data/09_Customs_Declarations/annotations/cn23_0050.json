@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0050",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Barbara Hodge",
+    "addressee_company": "Shea Tech S.A.",
+    "addressee_address": "3872 Hampton Flats Suite 356, East Toddbury, MI 75516, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 9.537,
+    "total_value": 6175.81,
+    "currency": "USD",
+    "issue_date": "2025-12-28",
+    "reference": "REF-752353",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.362,
+        "value": 2832.6,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 14,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.876,
+        "value": 1918.84,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 18,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.077,
+        "value": 1353.06,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 3,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.222,
+        "value": 71.31,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Renee Chaney",
+    "sender_company": "Fox Global AG",
+    "sender_address": "368 Williams Locks Suite 957, New Hollytown, CO 93777, Australia",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 6793.39,
+    "postal_charges": 47.41,
+    "tracking_number": "GR253635478QA"
+  }
+}

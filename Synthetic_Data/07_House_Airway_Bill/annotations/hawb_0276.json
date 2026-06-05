@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0276",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-58489738",
+    "mawb_number": "020-61929562",
+    "shipper_name": "Global Hayes B.V.",
+    "shipper_address": "03041 Danielle Drive Apt. 099, North Brian, IA 75389, Hong Kong",
+    "consignee_name": "Cruz Tech S.A.",
+    "consignee_address": "54698 Mary Extension Apt. 964, New Anna, MD 90758, Malaysia",
+    "agent_name": "Alvarez Industry Pte Ltd",
+    "airport_departure": "ORD",
+    "airport_destination": "LAX",
+    "currency": "CHF",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CHF 13,268.85",
+    "n_pieces": 18,
+    "gross_weight_kg": 8.8,
+    "chargeable_weight": 11.1,
+    "rate": 9.64,
+    "total_charge": 107.0,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-08-17",
+    "signatory": "Caitlin Carlson",
+    "iata_code": "03-862",
+    "agent_cass": "7964-3378",
+    "consolidation_ref": "CONS-7670-521565",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-66758591",
+        "pieces": 12,
+        "weight": 37.7,
+        "destination": "YYZ",
+        "consignee": "Pacific Hill LLC",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "074-58788990",
+        "pieces": 17,
+        "weight": 40.1,
+        "destination": "LAX",
+        "consignee": "International Jackson S.A.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "074-17023139",
+        "pieces": 20,
+        "weight": 45.7,
+        "destination": "YYZ",
+        "consignee": "Commerce Hill S.A.",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

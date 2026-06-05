@@ -1,0 +1,103 @@
+{
+  "document_id": "eei_0995",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240423137302",
+    "export_date": "2025-05-14",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Global Brown Inc.",
+    "usppi_ein": "44-5935281",
+    "usppi_address": "479 Ramos Stream Apt. 894, West Stevenland, TX 05008, Spain",
+    "ultimate_consignee": "Lynch Tech B.V.",
+    "intermediate_consignee": "International Bailey Co.",
+    "forwarding_agent": "Saunders International Inc.",
+    "destination_country": "United States",
+    "carrier": "DHL Express",
+    "bl_awb": "085-74730346",
+    "total_value": 475724.71,
+    "currency": "SGD",
+    "signatory": "Joshua Ewing",
+    "line_items": [
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Thailand",
+        "qty": 116,
+        "unit": "PCS",
+        "entered_value": 45378.04,
+        "duty_rate": 0.5,
+        "duty_amount": 226.89,
+        "eccn": "9A515",
+        "schedule_b": "8534.00.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "India",
+        "qty": 115,
+        "unit": "PKG",
+        "entered_value": 46976.35,
+        "duty_rate": 13.9,
+        "duty_amount": 6529.71,
+        "eccn": "7A994",
+        "schedule_b": "4016.93.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Poland",
+        "qty": 405,
+        "unit": "PCS",
+        "entered_value": 193444.2,
+        "duty_rate": 17.9,
+        "duty_amount": 34626.51,
+        "eccn": "5E992",
+        "schedule_b": "8483.40.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Thailand",
+        "qty": 322,
+        "unit": "LTR",
+        "entered_value": 146387.64,
+        "duty_rate": 18.4,
+        "duty_amount": 26935.33,
+        "eccn": "5E992",
+        "schedule_b": "2901.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 164,
+        "unit": "PCS",
+        "entered_value": 14992.88,
+        "duty_rate": 10.2,
+        "duty_amount": 1529.27,
+        "eccn": "1A002",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Canada",
+        "qty": 152,
+        "unit": "KGS",
+        "entered_value": 28545.6,
+        "duty_rate": 11.5,
+        "duty_amount": 3282.74,
+        "eccn": "2B350",
+        "schedule_b": "2008.19.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

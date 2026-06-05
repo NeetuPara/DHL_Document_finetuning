@@ -1,0 +1,61 @@
+{
+  "document_id": "vgm_0566",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "International Terry Corp.",
+    "shipper_address": "0071 Turner Shoal Apt. 853, New Thomasfurt, OK 43977, Mexico",
+    "shipper_country": "Mexico",
+    "container_number": "OLSL2710999",
+    "seal_number": "BL869038",
+    "container_size": "40'OT",
+    "iso_type_code": "42U0",
+    "tare_weight_kg": 4200,
+    "cargo_weight_kg": 16860.6,
+    "packing_materials_kg": 148.8,
+    "vgm_kg": 21209.4,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "971W",
+    "bl_number": "YMLU821050573",
+    "booking_reference": "BKG-309689",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-95850",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-21",
+    "signature_date": "2026-05-11",
+    "signatory_name": "Miss Elizabeth Garcia MD",
+    "signatory_title": "Export Manager",
+    "number_of_packages": 4,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Crate",
+        "n_units": 19,
+        "gross_wt_kg": 3904.2
+      },
+      {
+        "item_no": 2,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Bundle",
+        "n_units": 5,
+        "gross_wt_kg": 1420.1
+      },
+      {
+        "item_no": 3,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Bag",
+        "n_units": 13,
+        "gross_wt_kg": 5541.5
+      },
+      {
+        "item_no": 4,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Bag",
+        "n_units": 19,
+        "gross_wt_kg": 5994.8
+      }
+    ]
+  }
+}

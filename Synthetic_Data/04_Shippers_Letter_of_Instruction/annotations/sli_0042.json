@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0042",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202008-1670",
+    "usppi_name": "Mccall Tech Co.",
+    "usppi_address": "412 Hampton Neck Apt. 000, Colemanchester, TN 45003, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "69-4993296",
+    "consignee_name": "Tech Ferguson Inc.",
+    "consignee_address": "390 Jones Lodge, West Daniel, MP 24916, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Industry Smith AG",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Morgan Farmer",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/6",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 186,
+        "unit": "SET",
+        "weight_kg": 372.79,
+        "value_usd": 26012.84
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 199,
+        "unit": "PCS",
+        "weight_kg": 4235.78,
+        "value_usd": 72310.49
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 100,
+        "unit": "KGS",
+        "weight_kg": 100.0,
+        "value_usd": 166.84
+      },
+      {
+        "marks": "ABC/6",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 10,
+        "unit": "PCS",
+        "weight_kg": 118.72,
+        "value_usd": 6169.73
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 62,
+        "unit": "CTN",
+        "weight_kg": 199.01,
+        "value_usd": 2040.28
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 123,
+        "unit": "PCS",
+        "weight_kg": 100.5,
+        "value_usd": 104793.69
+      }
+    ],
+    "total_weight_kg": 5126.8,
+    "total_value_usd": 211493.87,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "659E",
+    "booking_ref": "BKG-457361",
+    "bl_number": "COSU447223784",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "container_number": "ZHJF0992728",
+    "seal_number": "BL104474",
+    "container_type": "40'HC",
+    "cbm": 47.118
+  }
+}

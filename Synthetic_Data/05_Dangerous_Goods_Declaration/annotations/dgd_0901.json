@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0901",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce King Ltd",
+    "shipper_address": "7662 Johnson Flats, Fisherland, PA 24240, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Howard Industry B.V.",
+    "consignee_address": "PSC 9578, Box 4795, APO AA 83171, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+31 408-138-3521",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 28,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 16.22,
+        "qty_unit": "mL",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Charles Potts PhD",
+    "signature_date": "2026-04-29",
+    "signature_place": "Malaysia",
+    "awb_number": "020-25052109",
+    "flight_number": "QR8219",
+    "flight_date": "2026-05-27",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport"
+  }
+}

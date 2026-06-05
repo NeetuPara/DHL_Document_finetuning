@@ -1,0 +1,103 @@
+{
+  "document_id": "eei_0644",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250718489080",
+    "export_date": "2025-07-24",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Andrews Commerce B.V.",
+    "usppi_ein": "93-0831107",
+    "usppi_address": "63946 Jerry Hill Apt. 261, Leonbury, NJ 01498, Switzerland",
+    "ultimate_consignee": "Holland Pacific LLC",
+    "intermediate_consignee": "Industry Hancock Inc.",
+    "forwarding_agent": "Hernandez Global Inc.",
+    "destination_country": "Mexico",
+    "carrier": "FedEx",
+    "bl_awb": "125-36985401",
+    "total_value": 287327.01,
+    "currency": "CHF",
+    "signatory": "Gregory Lynch",
+    "line_items": [
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Poland",
+        "qty": 308,
+        "unit": "PKG",
+        "entered_value": 47222.56,
+        "duty_rate": 23.3,
+        "duty_amount": 11002.86,
+        "eccn": "9A515",
+        "schedule_b": "4016.93.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Netherlands",
+        "qty": 428,
+        "unit": "CTN",
+        "entered_value": 71120.76,
+        "duty_rate": 22.9,
+        "duty_amount": 16286.65,
+        "eccn": "3A992",
+        "schedule_b": "9018.31.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "United Kingdom",
+        "qty": 495,
+        "unit": "PCS",
+        "entered_value": 87506.1,
+        "duty_rate": 19.1,
+        "duty_amount": 16713.67,
+        "eccn": "EAR99",
+        "schedule_b": "8518.30.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "United States",
+        "qty": 193,
+        "unit": "KGS",
+        "entered_value": 66339.89,
+        "duty_rate": 8.1,
+        "duty_amount": 5373.53,
+        "eccn": "EAR99",
+        "schedule_b": "2008.19.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Australia",
+        "qty": 182,
+        "unit": "PCS",
+        "entered_value": 12612.6,
+        "duty_rate": 8.2,
+        "duty_amount": 1034.23,
+        "eccn": "1A002",
+        "schedule_b": "9002.11.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "India",
+        "qty": 30,
+        "unit": "PCS",
+        "entered_value": 2525.1,
+        "duty_rate": 23.4,
+        "duty_amount": 590.87,
+        "eccn": "1A002",
+        "schedule_b": "9002.11.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

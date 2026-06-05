@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0367",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "549-11860284-0",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2026-02-21",
+    "port_of_entry": "ORD - Chicago",
+    "transport_mode": "Ocean",
+    "carrier": "Maersk",
+    "bl_awb": "057-34126659",
+    "importer_name": "Joseph Trade Ltd",
+    "importer_ein": "07-3738498",
+    "consignee_name": "Hamilton Trade AG",
+    "customs_broker": "Marshall Tech S.A.",
+    "broker_filer_code": "IoJ",
+    "country_of_origin": "India",
+    "total_value": 191089.38,
+    "total_duty": 47185.66,
+    "currency": "CAD",
+    "signatory": "Mary Kim",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Singapore",
+        "qty": 464,
+        "unit": "KGS",
+        "entered_value": 176046.24,
+        "duty_rate": 25.0,
+        "duty_amount": 44011.56,
+        "eccn": "3A992",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Poland",
+        "qty": 42,
+        "unit": "KGS",
+        "entered_value": 15043.14,
+        "duty_rate": 21.1,
+        "duty_amount": 3174.1,
+        "eccn": "3A992",
+        "schedule_b": "7208.37.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

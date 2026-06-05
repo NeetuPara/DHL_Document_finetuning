@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0864",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-76491083",
+    "mawb_number": "074-33550642",
+    "shipper_name": "Pacific Dean Corp.",
+    "shipper_address": "706 Rogers Bridge Suite 374, Carrillofort, NV 03145, India",
+    "consignee_name": "Bonilla International AG",
+    "consignee_address": "51045 Christina Fort, Harperton, WY 56843, Poland",
+    "agent_name": "Industry Noble S.A.",
+    "airport_departure": "LHR",
+    "airport_destination": "LAX",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "AED 22,488.27",
+    "declared_value_customs": "CHF 19,349.07",
+    "n_pieces": 23,
+    "gross_weight_kg": 406.6,
+    "chargeable_weight": 480.3,
+    "rate": 9.65,
+    "total_charge": 4634.9,
+    "nature_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-05-13",
+    "signatory": "Melinda Price",
+    "iata_code": "37-470",
+    "agent_cass": "0437-9440",
+    "consolidation_ref": "CONS-3239-582805",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-97180200",
+        "pieces": 17,
+        "weight": 59.8,
+        "destination": "ORD",
+        "consignee": "Norton Trade Corp.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "074-65112487",
+        "pieces": 7,
+        "weight": 6.9,
+        "destination": "JFK",
+        "consignee": "Global Rosario Corp.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "074-95555404",
+        "pieces": 3,
+        "weight": 61.8,
+        "destination": "AMS",
+        "consignee": "Davidson Trade LLC",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "160-49499891",
+        "pieces": 15,
+        "weight": 51.2,
+        "destination": "JFK",
+        "consignee": "Sampson Global Corp.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "176-62879463",
+        "pieces": 11,
+        "weight": 48.2,
+        "destination": "FRA",
+        "consignee": "Stout Commerce B.V.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "125-12543271",
+        "pieces": 15,
+        "weight": 63.0,
+        "destination": "ICN",
+        "consignee": "Brown Commerce Corp.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

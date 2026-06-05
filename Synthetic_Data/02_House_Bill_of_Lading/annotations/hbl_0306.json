@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0306",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG405369707",
+    "shipper_name": "Johnson Global GmbH",
+    "shipper_address": "13008 Baker Viaduct Apt. 129, Jessicaside, MD 78093, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Tech Torres Co.",
+    "consignee_address": "8718 Glass Mount Suite 871, Thomasshire, PW 75312, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party_name": "Conway Commerce GmbH",
+    "notify_party_address": "3951 Catherine Islands Suite 620, South Matthew, CA 93523, China",
+    "vessel": "PIL PACIFIC",
+    "voyage": "127W",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Dubai, AE",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Hong Kong, HK",
+    "issue_date": "2025-04-23",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "CBRP2614856",
+        "seal_no": "SL254142",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "GNOH8848387",
+        "seal_no": "SL473573",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "EFAQ2468957",
+        "seal_no": "CL214754",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 193,
+    "package_type": "Case",
+    "gross_weight_kg": 7345.7,
+    "net_weight_kg": 6635.8,
+    "cbm": 13.513,
+    "marks_and_numbers": "ABC/13"
+  }
+}

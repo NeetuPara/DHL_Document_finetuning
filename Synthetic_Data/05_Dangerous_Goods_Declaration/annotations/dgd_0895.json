@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0895",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Roberts Commerce LLC",
+    "shipper_address": "PSC 9888, Box 5441, APO AA 59934, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Hayes Pacific Pte Ltd",
+    "consignee_address": "3459 Moore Skyway Apt. 195, New Molly, MS 34855, Spain",
+    "consignee_country": "Spain",
+    "emergency_telephone": "+55 803-453-5843",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 49,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 33.05,
+        "qty_unit": "kg",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-115529",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Megan Martin",
+    "signature_date": "2026-04-21",
+    "signature_place": "Hong Kong",
+    "awb_number": "006-51062257",
+    "flight_number": "EK3384",
+    "flight_date": "2026-04-24",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport"
+  }
+}

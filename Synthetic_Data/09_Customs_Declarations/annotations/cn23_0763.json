@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0763",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Sherry Edwards",
+    "addressee_company": "Trade Morris Corp.",
+    "addressee_address": "586 Jacob Cape, New Jamesburgh, AR 74570, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 15.854,
+    "total_value": 3258.48,
+    "currency": "GBP",
+    "issue_date": "2025-10-12",
+    "reference": "REF-195998",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.893,
+        "value": 213.48,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 16,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.892,
+        "value": 673.28,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 8,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.271,
+        "value": 1114.96,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 10,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.153,
+        "value": 1197.8,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 11,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.645,
+        "value": 58.96,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Philip Moreno",
+    "sender_company": "May Global GmbH",
+    "sender_address": "3019 Grant Common Apt. 343, Michaelmouth, MT 58861, Belgium",
+    "sender_phone": "708-473-7664x70133",
+    "sender_email": "millerkaren@example.net",
+    "addressee_phone": "+1-523-367-1532x563",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 45.04,
+    "tracking_number": "MO519136218FL"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0514",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Megan Allison",
+    "addressee_company": "Trade Jones Co.",
+    "addressee_address": "843 Williams Walk, Port Brett, KS 86296, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 5.404,
+    "total_value": 1948.98,
+    "currency": "SGD",
+    "issue_date": "2025-09-15",
+    "reference": "REF-912969",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.168,
+        "value": 160.05,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 13,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.236,
+        "value": 1788.93,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_name": "Sandra Hale",
+    "sender_company": "Trade Clayton GmbH",
+    "sender_address": "0642 Abbott Extensions, Lake Michael, PA 22581, Switzerland",
+    "sender_phone": "347.361.7302x529",
+    "sender_email": "johnsonronnie@example.net",
+    "addressee_phone": "001-571-540-2742x548",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 41.43,
+    "tracking_number": "CX798291737CW"
+  }
+}

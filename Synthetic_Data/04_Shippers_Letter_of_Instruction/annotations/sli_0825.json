@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0825",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202601-5787",
+    "usppi_name": "Pacific Johnson S.A.",
+    "usppi_address": "703 Steven Flat Apt. 770, Port Dustin, CT 29765, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "91-3592399",
+    "consignee_name": "Beck Industry Corp.",
+    "consignee_address": "5030 Kristy Centers, Lake Brooke, UT 86016, United States",
+    "consignee_country": "United States",
+    "notify_party": "Global Reese Corp.",
+    "forwarder": "Panalpina",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Jerry Williams",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/23",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 164,
+        "unit": "PCS",
+        "weight_kg": 204.69,
+        "value_usd": 226570.88
+      },
+      {
+        "marks": "EXP/9",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 153,
+        "unit": "PCS",
+        "weight_kg": 9.15,
+        "value_usd": 10401.63
+      },
+      {
+        "marks": "SLI/7",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 54,
+        "unit": "LTR",
+        "weight_kg": 51.74,
+        "value_usd": 944.34
+      },
+      {
+        "marks": "ABC/49",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 53,
+        "unit": "PKG",
+        "weight_kg": 72.71,
+        "value_usd": 1476.4
+      },
+      {
+        "marks": "EXP/9",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 46,
+        "unit": "MTR",
+        "weight_kg": 15.3,
+        "value_usd": 405.36
+      },
+      {
+        "marks": "SLI/29",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 55,
+        "unit": "PCS",
+        "weight_kg": 3.09,
+        "value_usd": 11666.47
+      }
+    ],
+    "total_weight_kg": 356.68,
+    "total_value_usd": 251465.08,
+    "vessel": "EVER GOLDEN",
+    "voyage": "672S",
+    "booking_ref": "BKG-315421",
+    "bl_number": "YMLU443523130",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Busan, KR",
+    "container_number": "XYEA7872253",
+    "seal_number": "BL238655",
+    "container_type": "20'GP",
+    "cbm": 33.499
+  }
+}

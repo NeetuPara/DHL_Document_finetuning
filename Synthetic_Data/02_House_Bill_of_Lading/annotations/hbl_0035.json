@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0035",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU909614072",
+    "shipper_name": "Beck Pacific AG",
+    "shipper_address": "275 Pham Unions Suite 883, Torreschester, TX 93154, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Commerce Allen GmbH",
+    "consignee_address": "88858 Rios Ridge Apt. 438, Laurenstad, AL 02973, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party_name": "Williams Tech GmbH",
+    "notify_party_address": "1043 Michael Valley Apt. 829, East Matthewtown, CT 39028, United States",
+    "vessel": "CSCL GLOBE",
+    "voyage": "992N",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2025-02-12",
+    "issue_place": "Hamburg",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "CMRZ8004476",
+        "seal_no": "SL510817",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "HIOT3710163",
+        "seal_no": "CL786295",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 396,
+    "package_type": "Crate",
+    "gross_weight_kg": 8189.6,
+    "net_weight_kg": 7762.0,
+    "cbm": 13.098,
+    "marks_and_numbers": "GLB/13"
+  }
+}

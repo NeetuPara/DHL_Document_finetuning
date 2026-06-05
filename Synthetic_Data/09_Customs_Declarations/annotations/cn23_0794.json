@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0794",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Chloe Moreno",
+    "addressee_company": "Long Industry Ltd",
+    "addressee_address": "4333 David View Apt. 110, New Michelle, NH 39727, Brazil",
+    "addressee_country": "Brazil",
+    "total_weight_kg": 8.92,
+    "total_value": 1058.43,
+    "currency": "SGD",
+    "issue_date": "2025-08-01",
+    "reference": "REF-590135",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.48,
+        "value": 392.16,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 8,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.595,
+        "value": 377.52,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 15,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.845,
+        "value": 288.75,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "David Waters",
+    "sender_company": "White Pacific S.A.",
+    "sender_address": "02388 Morris Stravenue, New Robertberg, LA 80941, Switzerland",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 57.5,
+    "tracking_number": "OO446944960UX"
+  }
+}

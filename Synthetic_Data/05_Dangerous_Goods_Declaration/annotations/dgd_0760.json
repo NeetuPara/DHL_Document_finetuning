@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0760",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Evans Commerce B.V.",
+    "shipper_address": "0050 Charles Curve, Kimberlychester, MO 75386, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Industry Fletcher S.A.",
+    "consignee_address": "80571 Eric Causeway Apt. 997, Bensonview, WI 48695, United States",
+    "consignee_country": "United States",
+    "emergency_telephone": "+63 839-184-2068",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 48,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 79.47,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Joann Poole",
+    "signature_date": "2026-04-15",
+    "signature_place": "Malaysia",
+    "awb_number": "006-35036210",
+    "flight_number": "QR9566",
+    "flight_date": "2026-05-19",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare"
+  }
+}

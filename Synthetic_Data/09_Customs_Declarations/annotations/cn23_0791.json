@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0791",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jesse Choi",
+    "addressee_company": "Park International Co.",
+    "addressee_address": "585 Jennifer Forest Suite 636, Port Ryanburgh, WI 94826, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 8.222,
+    "total_value": 2010.18,
+    "currency": "CAD",
+    "issue_date": "2025-06-14",
+    "reference": "REF-396596",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.652,
+        "value": 363.87,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 19,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.494,
+        "value": 1166.79,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 16,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.076,
+        "value": 479.52,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Christopher Andrews",
+    "sender_company": "Pacific Hunter S.A.",
+    "sender_address": "84763 Kelley Land, Lake Shane, VT 64457, Thailand",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 74.05,
+    "tracking_number": "PE726630284EB"
+  }
+}

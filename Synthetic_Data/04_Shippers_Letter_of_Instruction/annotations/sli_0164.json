@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0164",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202211-5579",
+    "usppi_name": "Jones Global Co.",
+    "usppi_address": "2762 Dunn Points Suite 169, Valdezmouth, CA 84311, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "66-3471009",
+    "consignee_name": "International Fernandez Inc.",
+    "consignee_address": "555 Daniel Springs, Collinstown, GA 43316, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "International Ramirez S.A.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Kristen Brown",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/28",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 176,
+        "unit": "PCS",
+        "weight_kg": 3385.59,
+        "value_usd": 50265.54
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 31,
+        "unit": "CTN",
+        "weight_kg": 144.0,
+        "value_usd": 2023.44
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 139,
+        "unit": "MTR",
+        "weight_kg": 88.75,
+        "value_usd": 1566.21
+      },
+      {
+        "marks": "SLI/23",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 109,
+        "unit": "PCS",
+        "weight_kg": 1391.63,
+        "value_usd": 34383.06
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 76,
+        "unit": "PCS",
+        "weight_kg": 24.34,
+        "value_usd": 62397.18
+      }
+    ],
+    "total_weight_kg": 5034.31,
+    "total_value_usd": 150635.43,
+    "service": "Ground",
+    "named_port": "Amsterdam Schiphol",
+    "insurance_value_usd": 27092.96,
+    "license_type": "Distributor License",
+    "license_number": "LIC-453166",
+    "destination_country": "South Korea"
+  }
+}

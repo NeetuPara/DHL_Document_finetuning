@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0691",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202010-2157",
+    "usppi_name": "Scott Commerce B.V.",
+    "usppi_address": "689 Hansen Center Suite 846, Karenchester, UT 57195, Australia",
+    "usppi_country": "Australia",
+    "ein": "71-7721791",
+    "consignee_name": "Trade Cobb Pte Ltd",
+    "consignee_address": "61747 Lester Way, Danielsview, OK 47996, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Gray Commerce Inc.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Bradley Brown",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/9",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 86,
+        "unit": "PCS",
+        "weight_kg": 99.38,
+        "value_usd": 1868.71
+      },
+      {
+        "marks": "SLI/10",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 187,
+        "unit": "KGS",
+        "weight_kg": 187.0,
+        "value_usd": 253.04
+      }
+    ],
+    "total_weight_kg": 286.38,
+    "total_value_usd": 2121.75,
+    "service": "Air Freight",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 47534.64,
+    "license_type": "Distributor License",
+    "license_number": "LIC-203904",
+    "destination_country": "Belgium"
+  }
+}

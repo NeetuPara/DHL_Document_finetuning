@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0134",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Joseph Reyes",
+    "addressee_company": "Erickson Tech S.A.",
+    "addressee_address": "4015 Amy Ports, New Daniel, SD 32421, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 7.546,
+    "total_value": 327.47,
+    "currency": "JPY",
+    "issue_date": "2026-04-25",
+    "reference": "REF-523649",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.137,
+        "value": 18.96,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 2,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.34,
+        "value": 160.16,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 15,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.069,
+        "value": 148.35,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_name": "Amber Wagner",
+    "sender_company": "Herman International Pte Ltd",
+    "sender_address": "54567 Cunningham Roads Apt. 647, South James, FL 72207, Australia",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 360.22,
+    "postal_charges": 22.27,
+    "tracking_number": "LX027650934UU"
+  }
+}

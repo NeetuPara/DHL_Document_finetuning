@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0898",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202010-4139",
+    "usppi_name": "Commerce Vega GmbH",
+    "usppi_address": "9734 Maria Fords, North Veronica, ID 85122, Canada",
+    "usppi_country": "Canada",
+    "ein": "94-7383032",
+    "consignee_name": "Peterson Global Inc.",
+    "consignee_address": "6914 Katherine Avenue Suite 980, Jasonborough, FL 20391, China",
+    "consignee_country": "China",
+    "notify_party": "Tech Hernandez Co.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Jorge Martin",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/20",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 66,
+        "unit": "PCS",
+        "weight_kg": 8.22,
+        "value_usd": 16063.73
+      },
+      {
+        "marks": "SLI/20",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 40,
+        "unit": "PCS",
+        "weight_kg": 56.37,
+        "value_usd": 28099.27
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 38,
+        "unit": "PCS",
+        "weight_kg": 551.87,
+        "value_usd": 6282.16
+      }
+    ],
+    "total_weight_kg": 616.46,
+    "total_value_usd": 50445.16,
+    "service": "Air Freight",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 23861.55,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-916510",
+    "destination_country": "China"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0384",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "White Global Corp.",
+    "shipper_address": "132 Brian Common, Benjaminburgh, OK 74885, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Tech Sharp AG",
+    "consignee_address": "677 Cameron Islands Apt. 257, Heathberg, IL 25423, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+5 744-188-1234",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 31,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 76.8,
+        "qty_unit": "L",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-343268",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 15,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 39.86,
+        "qty_unit": "g",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "James Levine",
+    "signature_date": "2026-05-08",
+    "signature_place": "Switzerland",
+    "awb_number": "006-94497151",
+    "flight_number": "QR2099",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

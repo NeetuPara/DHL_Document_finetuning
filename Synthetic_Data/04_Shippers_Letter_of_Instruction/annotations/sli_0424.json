@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0424",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202204-9163",
+    "usppi_name": "Simmons Global LLC",
+    "usppi_address": "02788 Maria Rapid, Mcbridetown, MO 20508, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "86-6052049",
+    "consignee_name": "Pacific Melendez S.A.",
+    "consignee_address": "29031 Lance Wall Apt. 838, Harrisberg, VI 45032, France",
+    "consignee_country": "France",
+    "notify_party": "Global Nelson Pte Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Daniel Baker",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/26",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 112,
+        "unit": "CTN",
+        "weight_kg": 293.3,
+        "value_usd": 254.09
+      },
+      {
+        "marks": "EXP/9",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 55,
+        "unit": "PCS",
+        "weight_kg": 770.87,
+        "value_usd": 7668.76
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 194,
+        "unit": "PCS",
+        "weight_kg": 1550.02,
+        "value_usd": 84965.47
+      },
+      {
+        "marks": "ABC/21",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 115,
+        "unit": "MTR",
+        "weight_kg": 111.72,
+        "value_usd": 1259.19
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 6,
+        "unit": "BOX",
+        "weight_kg": 1.49,
+        "value_usd": 560.42
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 20,
+        "unit": "LTR",
+        "weight_kg": 21.37,
+        "value_usd": 296.23
+      }
+    ],
+    "total_weight_kg": 2748.77,
+    "total_value_usd": 95004.16,
+    "service": "Ocean Freight",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 48782.26,
+    "license_type": "Distributor License",
+    "license_number": "LIC-853937",
+    "destination_country": "France"
+  }
+}

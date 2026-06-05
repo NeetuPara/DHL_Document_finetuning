@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0135",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-82316685",
+    "mawb_number": "074-31049393",
+    "shipper_name": "Industry Rodriguez S.A.",
+    "shipper_address": "423 Alexandra Pass, South Christianshire, TN 16735, Spain",
+    "consignee_name": "Industry Vasquez B.V.",
+    "consignee_address": "PSC 7698, Box 2637, APO AP 30017, Netherlands",
+    "agent_name": "Tech Miller Ltd",
+    "airport_departure": "CDG",
+    "airport_destination": "FRA",
+    "currency": "AUD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "EUR 39,414.12",
+    "n_pieces": 22,
+    "gross_weight_kg": 79.2,
+    "chargeable_weight": 99.7,
+    "rate": 8.99,
+    "total_charge": 896.3,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-01-12",
+    "signatory": "Joshua Hobbs",
+    "iata_code": "96-844",
+    "agent_cass": "7557-6154",
+    "consolidation_ref": "CONS-0067-488239",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-39177909",
+        "pieces": 9,
+        "weight": 65.0,
+        "destination": "HKG",
+        "consignee": "Barr International Pte Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "160-43397011",
+        "pieces": 8,
+        "weight": 59.9,
+        "destination": "JFK",
+        "consignee": "Pacific Church Pte Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "020-50299139",
+        "pieces": 18,
+        "weight": 70.3,
+        "destination": "PVG",
+        "consignee": "Roberts Global Co.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "618-58850680",
+        "pieces": 19,
+        "weight": 9.4,
+        "destination": "FRA",
+        "consignee": "Trade Bowman LLC",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "125-79095593",
+        "pieces": 20,
+        "weight": 66.8,
+        "destination": "ICN",
+        "consignee": "Trade Bell GmbH",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "006-98207186",
+        "pieces": 11,
+        "weight": 75.7,
+        "destination": "SYD",
+        "consignee": "Hawkins Commerce Pte Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

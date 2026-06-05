@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0726",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Gillespie Tech GmbH",
+    "shipper_address": "89405 Miller Path Suite 226, Brennanton, MN 50026, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Tech Glenn AG",
+    "consignee_address": "0480 Tonya Coves, Sandrashire, WY 89981, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+96 395-121-2946",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 41,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 31.58,
+        "qty_unit": "L",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 35,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 96.4,
+        "qty_unit": "mL",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jeffrey Hernandez",
+    "signature_date": "2026-05-11",
+    "signature_place": "Brazil",
+    "awb_number": "176-69176202",
+    "flight_number": "SQ6768",
+    "departure_airport_code": "CDG",
+    "departure_airport_name": "Paris CDG",
+    "destination_airport_code": "NRT",
+    "destination_airport_name": "Tokyo Narita",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

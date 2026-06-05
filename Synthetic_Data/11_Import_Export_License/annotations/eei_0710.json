@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0710",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220521148975",
+    "export_date": "2026-03-23",
+    "aes_option": "AES Filing",
+    "usppi_name": "Miller Industry LLC",
+    "usppi_ein": "23-3739726",
+    "usppi_address": "04363 Travis Springs, Vanessahaven, CT 21227, Germany",
+    "ultimate_consignee": "Olsen Tech Inc.",
+    "intermediate_consignee": "Clayton International Inc.",
+    "forwarding_agent": "Global Brennan AG",
+    "destination_country": "United Kingdom",
+    "carrier": "DHL Express",
+    "bl_awb": "074-72862322",
+    "total_value": 175264.24,
+    "currency": "CHF",
+    "signatory": "Heather Thompson",
+    "line_items": [
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "United Kingdom",
+        "qty": 152,
+        "unit": "PCS",
+        "entered_value": 23075.12,
+        "duty_rate": 24.0,
+        "duty_amount": 5538.03,
+        "eccn": "0A919",
+        "schedule_b": "8534.00.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Italy",
+        "qty": 66,
+        "unit": "CTN",
+        "entered_value": 9616.2,
+        "duty_rate": 6.1,
+        "duty_amount": 586.59,
+        "eccn": "3A992",
+        "schedule_b": "9018.31.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Belgium",
+        "qty": 22,
+        "unit": "LTR",
+        "entered_value": 2072.84,
+        "duty_rate": 2.3,
+        "duty_amount": 47.68,
+        "eccn": "5E992",
+        "schedule_b": "2901.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Switzerland",
+        "qty": 486,
+        "unit": "CTN",
+        "entered_value": 89890.56,
+        "duty_rate": 3.3,
+        "duty_amount": 2966.39,
+        "eccn": "5E992",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Brazil",
+        "qty": 468,
+        "unit": "PCS",
+        "entered_value": 50609.52,
+        "duty_rate": 11.5,
+        "duty_amount": 5820.09,
+        "eccn": "0A919",
+        "schedule_b": "8518.30.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

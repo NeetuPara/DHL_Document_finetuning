@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0008",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Burke S.A.",
+    "shipper_address": "1538 Robert Greens Apt. 467, Jeremyberg, ND 43564, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Crawford Commerce Pte Ltd",
+    "consignee_address": "8244 Sparks Bypass Apt. 099, Port Michael, NJ 05540, Germany",
+    "consignee_country": "Germany",
+    "emergency_telephone": "+5 319-577-6557",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 36,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 60.94,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 21,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 76.9,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Paul Brown",
+    "signature_date": "2026-04-29",
+    "signature_place": "Belgium",
+    "vessel": "YANG MING MYTH",
+    "voyage": "739N",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Colombo, LK"
+  }
+}

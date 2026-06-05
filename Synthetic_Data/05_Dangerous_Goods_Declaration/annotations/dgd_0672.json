@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0672",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Macdonald GmbH",
+    "shipper_address": "51030 Randall Village, South Cassandra, SD 69135, France",
+    "shipper_country": "France",
+    "consignee_name": "Pacific West Inc.",
+    "consignee_address": "88676 Nolan Crest Suite 184, Westshire, PW 03843, Poland",
+    "consignee_country": "Poland",
+    "emergency_telephone": "+16 267-425-1723",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 32,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 82.4,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-875664",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 6,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 13.85,
+        "qty_unit": "L",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-730461",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Kristin Beltran",
+    "signature_date": "2026-05-04",
+    "signature_place": "France",
+    "awb_number": "006-63199612",
+    "flight_number": "LH7149",
+    "departure_airport_code": "LAX",
+    "departure_airport_name": "Los Angeles International",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

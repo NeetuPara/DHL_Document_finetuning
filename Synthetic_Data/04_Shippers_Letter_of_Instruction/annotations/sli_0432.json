@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0432",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202504-8189",
+    "usppi_name": "Martinez Industry Corp.",
+    "usppi_address": "5403 Fitzgerald Expressway Apt. 091, South Michellehaven, ND 68920, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "55-3009379",
+    "consignee_name": "Ortiz Commerce LLC",
+    "consignee_address": "691 Michele Rue, Hamiltontown, CA 72227, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Industry White B.V.",
+    "forwarder": "Expeditors",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Bradley Hernandez",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/45",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 71,
+        "unit": "PCS",
+        "weight_kg": 511.06,
+        "value_usd": 47714.2
+      },
+      {
+        "marks": "EXP/14",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 113,
+        "unit": "SET",
+        "weight_kg": 422.5,
+        "value_usd": 15198.12
+      },
+      {
+        "marks": "SLI/28",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 82,
+        "unit": "MTR",
+        "weight_kg": 25.18,
+        "value_usd": 231.43
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 198,
+        "unit": "PCS",
+        "weight_kg": 293.66,
+        "value_usd": 71376.32
+      },
+      {
+        "marks": "EXP/23",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 52,
+        "unit": "CTN",
+        "weight_kg": 231.18,
+        "value_usd": 706.9
+      },
+      {
+        "marks": "EXP/32",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 79,
+        "unit": "CTN",
+        "weight_kg": 145.0,
+        "value_usd": 1119.04
+      }
+    ],
+    "total_weight_kg": 1628.58,
+    "total_value_usd": 136346.01,
+    "vessel": "ONE INNOVATION",
+    "voyage": "107N",
+    "booking_ref": "BKG-967140",
+    "bl_number": "COSU415517198",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Antwerp, BE",
+    "container_number": "QGZV5633792",
+    "seal_number": "CL203941",
+    "container_type": "40'GP",
+    "cbm": 27.045
+  }
+}

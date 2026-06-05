@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0664",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU750715135",
+    "shipper_name": "Trade Paul Ltd",
+    "shipper_address": "60734 Stephen Island Apt. 328, New Danielberg, ND 37368, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Tech Cooper GmbH",
+    "consignee_address": "44746 Fisher Flats Apt. 042, Erikland, DC 72181, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party_name": "Commerce Garrett Co.",
+    "notify_party_address": "Unit 9211 Box 1975, DPO AP 40517, Hong Kong",
+    "vessel": "CSCL GLOBE",
+    "voyage": "623N",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2024-07-14",
+    "issue_place": "Tokyo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "GTEY0531661",
+        "seal_no": "SL357854",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "GORR9005366",
+        "seal_no": "BL941123",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "SRYE9082195",
+        "seal_no": "SL929479",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "VUNK4167794",
+        "seal_no": "CL371722",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "number_of_packages": 369,
+    "package_type": "Bag",
+    "gross_weight_kg": 20616.9,
+    "net_weight_kg": 19868.1,
+    "cbm": 12.259,
+    "marks_and_numbers": "ABC/20"
+  }
+}

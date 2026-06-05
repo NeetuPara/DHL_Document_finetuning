@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0678",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Mary Adams",
+    "addressee_company": "Global Stone Inc.",
+    "addressee_address": "7797 Gregory Vista Suite 895, Wilsonshire, HI 60397, United Kingdom",
+    "addressee_country": "United Kingdom",
+    "total_weight_kg": 8.164,
+    "total_value": 1647.33,
+    "currency": "CNY",
+    "issue_date": "2025-12-22",
+    "reference": "REF-750395",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.131,
+        "value": 95.91,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 17,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.033,
+        "value": 1551.42,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_country": "China",
+    "port_of_entry": "Miami, FL",
+    "entry_number": "280-82485899-2",
+    "entry_type": "Formal Entry",
+    "duty_rate": 13.5,
+    "estimated_duty": 222.39,
+    "importer_ein": "39-2579468",
+    "customs_broker": "Mcfarland Global AG"
+  }
+}

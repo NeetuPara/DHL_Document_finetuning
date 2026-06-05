@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0493",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU228415897",
+    "shipper_name": "Garcia Industry AG",
+    "shipper_address": "627 Thomas Station, Russellberg, MT 33071, China",
+    "shipper_country": "China",
+    "consignee_name": "Tech Conley AG",
+    "consignee_address": "418 Logan Stream, West Jorgeville, IA 45554, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "International Fields Corp.",
+    "notify_party_address": "31257 Tina Divide, Xaviermouth, AS 41378, Canada",
+    "vessel": "YANG MING MYTH",
+    "voyage": "406W",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2025-02-15",
+    "issue_place": "Dubai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "SWAO3439899",
+        "seal_no": "CL646958",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "HVBC5610251",
+        "seal_no": "BL572795",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "QMGB9202078",
+        "seal_no": "SL125212",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 198,
+    "package_type": "Pallet",
+    "gross_weight_kg": 9512.9,
+    "net_weight_kg": 8866.0,
+    "cbm": 7.75,
+    "marks_and_numbers": "GLB/1"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0683",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV931106158",
+    "shipper_name": "Thomas Tech Ltd",
+    "shipper_address": "USNV Johnson, FPO AP 93760, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Pacific Thomas LLC",
+    "consignee_address": "Unit 7813 Box 5557, DPO AP 09368, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "International Rivera Inc.",
+    "notify_party_address": "53968 Sandra Grove, West Crystal, KY 44169, Hong Kong",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "663E",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2024-07-05",
+    "issue_place": "Singapore",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "EADY8285928",
+        "seal_no": "BL612878",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "SVKI1575651",
+        "seal_no": "BL130018",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 436,
+    "package_type": "Drum",
+    "gross_weight_kg": 8852.5,
+    "net_weight_kg": 8527.1,
+    "cbm": 45.246,
+    "marks_and_numbers": "GLB/28"
+  }
+}

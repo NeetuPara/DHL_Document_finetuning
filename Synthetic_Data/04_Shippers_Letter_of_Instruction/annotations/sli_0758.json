@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0758",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202203-2558",
+    "usppi_name": "Global Bonilla Co.",
+    "usppi_address": "64694 Joseph Courts Apt. 526, Port Jamiefurt, DC 43515, Japan",
+    "usppi_country": "Japan",
+    "ein": "47-8351162",
+    "consignee_name": "Mathis Tech AG",
+    "consignee_address": "52999 Tony Path Apt. 776, South Carrieshire, PW 60682, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Knight Industry LLC",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Raymond Reyes",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/30",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 29,
+        "unit": "BOX",
+        "weight_kg": 33.09,
+        "value_usd": 816.73
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 35,
+        "unit": "PCS",
+        "weight_kg": 4.3,
+        "value_usd": 6559.59
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 199,
+        "unit": "PCS",
+        "weight_kg": 747.01,
+        "value_usd": 152331.03
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 192,
+        "unit": "PCS",
+        "weight_kg": 152.79,
+        "value_usd": 3465.89
+      }
+    ],
+    "total_weight_kg": 937.19,
+    "total_value_usd": 163173.24,
+    "service": "Ocean Freight",
+    "named_port": "Colombo, LK",
+    "insurance_value_usd": 49962.5,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-388102",
+    "destination_country": "Switzerland"
+  }
+}

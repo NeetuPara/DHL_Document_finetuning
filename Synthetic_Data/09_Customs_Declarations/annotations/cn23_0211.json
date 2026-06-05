@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0211",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Katie Thomas",
+    "addressee_company": "Johnson Pacific Co.",
+    "addressee_address": "6213 Joseph Parkway Apt. 820, Nicoleton, VI 19489, France",
+    "addressee_country": "France",
+    "total_weight_kg": 9.616,
+    "total_value": 3426.19,
+    "currency": "USD",
+    "issue_date": "2026-03-22",
+    "reference": "REF-797378",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.179,
+        "value": 1033.92,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 20,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.509,
+        "value": 1423.0,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 10,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 4.299,
+        "value": 130.6,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 7,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.629,
+        "value": 838.67,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "Amy Hall",
+    "sender_company": "Garza Commerce Pte Ltd",
+    "sender_address": "0668 William Loaf, Port Heatherport, PA 08457, Australia",
+    "sender_phone": "(861)755-1075x7675",
+    "sender_email": "jeffreypitts@example.com",
+    "addressee_phone": "360-786-5079x7308",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 3768.81,
+    "postal_charges": 30.04,
+    "tracking_number": "WQ124388705VR"
+  }
+}

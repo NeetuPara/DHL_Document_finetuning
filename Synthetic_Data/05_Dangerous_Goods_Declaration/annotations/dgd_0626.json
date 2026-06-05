@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0626",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Vance Ltd",
+    "shipper_address": "238 Melissa View, Darylmouth, NY 85282, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Global Walter AG",
+    "consignee_address": "613 Trevor Forest, New Brianchester, DE 81913, Spain",
+    "consignee_country": "Spain",
+    "emergency_telephone": "+74 497-802-8716",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 47,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 53.74,
+        "qty_unit": "L",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 16,
+        "pkg_type": "Steel Drum",
+        "net_qty": 82.45,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-356916",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Thomas Brown",
+    "signature_date": "2026-05-06",
+    "signature_place": "United Kingdom",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "366E",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Hong Kong, HK"
+  }
+}

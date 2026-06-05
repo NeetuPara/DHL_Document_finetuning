@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0954",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-97307312",
+    "mawb_number": "057-96681823",
+    "shipper_name": "Nash Trade Co.",
+    "shipper_address": "Unit 1681 Box 5879, DPO AE 67993, Italy",
+    "consignee_name": "Camacho Commerce S.A.",
+    "consignee_address": "2192 Zachary Spring, West Edwinville, IN 62821, Singapore",
+    "agent_name": "Bradley Global Corp.",
+    "airport_departure": "SYD",
+    "airport_destination": "HKG",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "USD 25,398.99",
+    "declared_value_customs": "NCV",
+    "n_pieces": 13,
+    "gross_weight_kg": 486.9,
+    "chargeable_weight": 515.9,
+    "rate": 11.76,
+    "total_charge": 6066.98,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-08-28",
+    "signatory": "Johnny Rose",
+    "iata_code": "78-583",
+    "agent_cass": "8976-2962",
+    "consolidation_ref": "CONS-7980-007912",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-55841113",
+        "pieces": 2,
+        "weight": 47.0,
+        "destination": "MIA",
+        "consignee": "Neal Trade Inc.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "057-65962709",
+        "pieces": 4,
+        "weight": 11.6,
+        "destination": "ICN",
+        "consignee": "Pacific Brown Inc.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "045-51572284",
+        "pieces": 19,
+        "weight": 77.3,
+        "destination": "SIN",
+        "consignee": "Vaughn Commerce Pte Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "057-12274903",
+        "pieces": 15,
+        "weight": 78.4,
+        "destination": "DXB",
+        "consignee": "Jackson Tech AG",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "074-78090597",
+        "pieces": 6,
+        "weight": 91.4,
+        "destination": "ORD",
+        "consignee": "Pacific Turner B.V.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "125-19902094",
+        "pieces": 12,
+        "weight": 44.8,
+        "destination": "JFK",
+        "consignee": "Thomas Industry LLC",
+        "description": "Rubber Goods - Industrial Seals and"
+      }
+    ]
+  }
+}

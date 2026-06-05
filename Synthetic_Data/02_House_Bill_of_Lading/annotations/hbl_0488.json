@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0488",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU687558403",
+    "shipper_name": "International Larson LLC",
+    "shipper_address": "5340 Henderson Highway, Lopezstad, OR 97678, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Olsen Commerce Co.",
+    "consignee_address": "0335 Julie Brook Suite 053, Port William, ID 95567, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party_name": "Allen Trade Corp.",
+    "notify_party_address": "99625 Hoffman Street, Danafort, SD 36433, Italy",
+    "vessel": "MADRID MAERSK",
+    "voyage": "986W",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Hong Kong, HK",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2025-05-22",
+    "issue_place": "Tokyo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "MFVP7077662",
+        "seal_no": "BL350911",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "ARBJ3295982",
+        "seal_no": "BL315523",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 18,
+    "package_type": "Carton",
+    "gross_weight_kg": 2294.9,
+    "net_weight_kg": 2207.3,
+    "cbm": 1.684,
+    "marks_and_numbers": "ABC/26"
+  }
+}

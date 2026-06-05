@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0565",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202201-6313",
+    "usppi_name": "Wilson Tech Co.",
+    "usppi_address": "884 Carlson Gateway Suite 843, North Martha, AZ 95914, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "23-2877691",
+    "consignee_name": "Ball International Pte Ltd",
+    "consignee_address": "41944 Kara Route Apt. 798, Lake Terri, AL 59045, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Peterson Commerce Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIF",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Roger Meyers",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/44",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 157,
+        "unit": "KGS",
+        "weight_kg": 157.0,
+        "value_usd": 1920.58
+      },
+      {
+        "marks": "ABC/46",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 116,
+        "unit": "BOX",
+        "weight_kg": 45.9,
+        "value_usd": 12627.2
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 70,
+        "unit": "CTN",
+        "weight_kg": 189.76,
+        "value_usd": 628.89
+      }
+    ],
+    "total_weight_kg": 392.66,
+    "total_value_usd": 15176.67,
+    "service": "LCL Ocean",
+    "named_port": "Singapore, SG",
+    "insurance_value_usd": 45015.83,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-956445",
+    "destination_country": "United Kingdom"
+  }
+}

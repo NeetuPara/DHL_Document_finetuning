@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0511",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV367718404",
+    "shipper_name": "Cole International Corp.",
+    "shipper_address": "02461 Brooke Dale Suite 668, Lake Ericton, IA 19096, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Hicks Global Ltd",
+    "consignee_address": "3397 Mark Circle, East Kevin, SD 27258, United States",
+    "consignee_country": "United States",
+    "notify_party_name": "Commerce Gonzales Co.",
+    "notify_party_address": "49851 Chandler Radial Suite 853, Brandonshire, ID 61431, Canada",
+    "vessel": "MSC GULSUN",
+    "voyage": "533E",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2024-12-13",
+    "issue_place": "New York",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "ERLK9909299",
+        "seal_no": "SL729882",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "ZFSM2001178",
+        "seal_no": "CL190266",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "IQLW2294663",
+        "seal_no": "CL588489",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "WMYJ8873497",
+        "seal_no": "BL736838",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 193,
+    "package_type": "Carton",
+    "gross_weight_kg": 1641.3,
+    "net_weight_kg": 1567.3,
+    "cbm": 19.3,
+    "marks_and_numbers": "ABC/4"
+  }
+}

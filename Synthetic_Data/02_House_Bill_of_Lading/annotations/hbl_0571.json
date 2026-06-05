@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0571",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU648821364",
+    "shipper_name": "Commerce Thomas Co.",
+    "shipper_address": "62372 Robinson Mountain Suite 510, Lauriebury, DE 58892, India",
+    "shipper_country": "India",
+    "consignee_name": "Simpson International Inc.",
+    "consignee_address": "328 Park Rapids Suite 580, New David, RI 56905, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party_name": "International Flores GmbH",
+    "notify_party_address": "08582 Melton Views Apt. 827, Browntown, TX 68868, Malaysia",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "382N",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2024-05-31",
+    "issue_place": "Rotterdam",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "UGFH9534423",
+        "seal_no": "CL641914",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "SDMO9634793",
+        "seal_no": "SL288033",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "PCYA2001564",
+        "seal_no": "CL188762",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "LMJW1023473",
+        "seal_no": "CL878968",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 305,
+    "package_type": "Crate",
+    "gross_weight_kg": 10470.2,
+    "net_weight_kg": 9631.7,
+    "cbm": 29.017,
+    "marks_and_numbers": "XYZ/34"
+  }
+}

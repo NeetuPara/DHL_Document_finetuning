@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0160",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Danielle Taylor",
+    "addressee_company": "Pacific Williams AG",
+    "addressee_address": "Unit 3790 Box 5890, DPO AA 96930, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 11.793,
+    "total_value": 3639.66,
+    "currency": "SGD",
+    "issue_date": "2025-12-12",
+    "reference": "REF-479535",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.385,
+        "value": 1463.4,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 13,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.489,
+        "value": 1428.7,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 16,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.131,
+        "value": 229.76,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 15,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.788,
+        "value": 517.8,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_name": "Heather Taylor DDS",
+    "sender_company": "Baker Trade Co.",
+    "sender_address": "121 Reed Port, Kennethton, OH 18501, Brazil",
+    "sender_phone": "+1-381-297-6402x887",
+    "sender_email": "vfreeman@example.org",
+    "addressee_phone": "(699)960-2487",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 4003.63,
+    "postal_charges": 47.1,
+    "tracking_number": "DD776213420UN"
+  }
+}

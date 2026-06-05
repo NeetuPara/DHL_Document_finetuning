@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0888",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG538235111",
+    "shipper_name": "Banks Commerce Corp.",
+    "shipper_address": "239 Solis Garden Suite 341, North Patrick, MD 32156, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Chavez Global Ltd",
+    "consignee_address": "6408 Barbara Stravenue, Walkerberg, DE 78102, United States",
+    "consignee_country": "United States",
+    "notify_party_name": "Torres Tech Co.",
+    "notify_party_address": "375 Palmer Corner, Jasonchester, HI 55890, Poland",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "315W",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2025-05-09",
+    "issue_place": "Dubai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "BIDT0058923",
+        "seal_no": "CL638440",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "EEPC5119348",
+        "seal_no": "SL263444",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "LVRP3157553",
+        "seal_no": "CL694826",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 177,
+    "package_type": "Pallet",
+    "gross_weight_kg": 19841.4,
+    "net_weight_kg": 17485.1,
+    "cbm": 19.046,
+    "marks_and_numbers": "GLB/12"
+  }
+}

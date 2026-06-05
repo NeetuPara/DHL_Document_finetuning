@@ -1,0 +1,54 @@
+{
+  "document_id": "coo_0086",
+  "document_class": "Certificate of Origin",
+  "format_variant": "FTA-USMCA-Numbered-Fields",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202408-4523",
+    "exporter_name": "Global Morgan Ltd",
+    "exporter_address": "20117 Cooper Knolls, Port Joshua, AL 01969, Netherlands",
+    "exporter_country": "Netherlands",
+    "consignee_name": "Pacific Martinez Corp.",
+    "consignee_address": "2218 Michelle Port, Yangmouth, AZ 21361, Germany",
+    "consignee_country": "Germany",
+    "country_of_origin": "Netherlands",
+    "country_of_destination": "Germany",
+    "bl_or_awb": "DHLG929362968",
+    "issue_date": "2024-10-12",
+    "certifier_name": "John Decker",
+    "goods": [
+      {
+        "description": "Plastic Products - Injection Moulded Components",
+        "hs_code": "3926.90.00",
+        "qty": 138,
+        "unit": "PCS",
+        "weight_kg": 64.47,
+        "origin_criterion": "B",
+        "value": 4261.28
+      },
+      {
+        "description": "Optical Equipment - Camera Lenses",
+        "hs_code": "9002.11.00",
+        "qty": 173,
+        "unit": "PCS",
+        "weight_kg": 45.65,
+        "origin_criterion": "C",
+        "value": 247604.95
+      },
+      {
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "hs_code": "2936.90.00",
+        "qty": 283,
+        "unit": "BOX",
+        "weight_kg": 114.27,
+        "origin_criterion": "D",
+        "value": 23760.57
+      }
+    ],
+    "fta_agreement": "NAFTA",
+    "blanket_period_from": "2024-06-26",
+    "blanket_period_to": "2024-10-15",
+    "producer_name": "Trade Stanley B.V.",
+    "producer_country": "United States"
+  }
+}

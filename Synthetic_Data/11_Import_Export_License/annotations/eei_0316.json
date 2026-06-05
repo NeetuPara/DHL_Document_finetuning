@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0316",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "712-51545978-3",
+    "entry_type": "01 - Free and Dutiable",
+    "entry_date": "2026-04-14",
+    "port_of_entry": "BOS - Boston",
+    "transport_mode": "Hand-Carried",
+    "carrier": "Maersk",
+    "bl_awb": "020-20216612",
+    "importer_name": "Trade Cochran B.V.",
+    "importer_ein": "48-4568402",
+    "consignee_name": "International Keith LLC",
+    "customs_broker": "Tech Warner Inc.",
+    "broker_filer_code": "RlC",
+    "country_of_origin": "Spain",
+    "total_value": 332744.1,
+    "total_duty": 18682.22,
+    "currency": "USD",
+    "signatory": "Christopher Johnson",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "France",
+        "qty": 165,
+        "unit": "PCS",
+        "entered_value": 71547.3,
+        "duty_rate": 3.4,
+        "duty_amount": 2432.61,
+        "eccn": "1A002",
+        "schedule_b": "9401.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "China",
+        "qty": 385,
+        "unit": "KGS",
+        "entered_value": 32540.2,
+        "duty_rate": 21.5,
+        "duty_amount": 6996.14,
+        "eccn": "9A515",
+        "schedule_b": "2008.19.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Spain",
+        "qty": 180,
+        "unit": "PCS",
+        "entered_value": 23182.2,
+        "duty_rate": 15.3,
+        "duty_amount": 3546.88,
+        "eccn": "2B350",
+        "schedule_b": "8534.00.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Germany",
+        "qty": 374,
+        "unit": "PCS",
+        "entered_value": 108819.04,
+        "duty_rate": 4.8,
+        "duty_amount": 5223.31,
+        "eccn": "1A002",
+        "schedule_b": "8483.40.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Singapore",
+        "qty": 256,
+        "unit": "CTN",
+        "entered_value": 96655.36,
+        "duty_rate": 0.5,
+        "duty_amount": 483.28,
+        "eccn": "9A515",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

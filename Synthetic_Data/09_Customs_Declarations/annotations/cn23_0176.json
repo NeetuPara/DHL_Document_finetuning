@@ -1,0 +1,75 @@
+{
+  "document_id": "cn23_0176",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Ryan Clark",
+    "addressee_company": "Tech Patterson Corp.",
+    "addressee_address": "Unit 1885 Box 9746, DPO AP 04050, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 12.522,
+    "total_value": 4913.44,
+    "currency": "SGD",
+    "issue_date": "2025-06-13",
+    "reference": "REF-141221",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.981,
+        "value": 751.83,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 20,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.435,
+        "value": 1108.2,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 2,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.392,
+        "value": 158.36,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 17,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.944,
+        "value": 2510.05,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 3,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.921,
+        "value": 229.2,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 10,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.849,
+        "value": 155.8,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "Lisa Graves",
+    "sender_company": "Industry Dennis Corp.",
+    "sender_address": "77564 Moore Burgs, Holmesview, MT 17596, Netherlands",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 21.27,
+    "tracking_number": "VG381660413LK"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0480",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG368540055",
+    "shipper_name": "Pruitt Tech B.V.",
+    "shipper_address": "744 Virginia Lights, South Dave, NJ 00555, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Drake Commerce Corp.",
+    "consignee_address": "195 Sandra Summit, Murphyborough, AR 21923, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party_name": "International Silva LLC",
+    "notify_party_address": "83451 Jackson Turnpike Apt. 049, New Andrewland, CA 17705, Mexico",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "513S",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2025-07-23",
+    "issue_place": "Dubai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "NXSR3669644",
+        "seal_no": "SL529872",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "LUNJ8954274",
+        "seal_no": "BL418310",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "SQLR6958748",
+        "seal_no": "CL357635",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 209,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 18021.3,
+    "net_weight_kg": 17276.2,
+    "cbm": 7.137,
+    "marks_and_numbers": "ABC/17"
+  }
+}

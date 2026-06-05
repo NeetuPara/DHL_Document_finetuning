@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0093",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-99674726",
+    "mawb_number": "020-61604617",
+    "shipper_name": "International Silva Corp.",
+    "shipper_address": "USS Casey, FPO AA 10470, India",
+    "consignee_name": "Trade Chandler S.A.",
+    "consignee_address": "04501 Debbie Cliff, Travishaven, LA 42054, Netherlands",
+    "agent_name": "Industry Castillo AG",
+    "airport_departure": "DXB",
+    "airport_destination": "PVG",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "CAD 20,264.37",
+    "declared_value_customs": "NCV",
+    "n_pieces": 16,
+    "gross_weight_kg": 193.1,
+    "chargeable_weight": 250.6,
+    "rate": 10.26,
+    "total_charge": 2571.16,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "HANDLING CODE: HEA",
+    "issue_date": "2025-12-23",
+    "signatory": "Ashley Moore",
+    "iata_code": "62-101",
+    "agent_cass": "5792-3209",
+    "consolidation_ref": "CONS-4012-557562",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-49381382",
+        "pieces": 4,
+        "weight": 99.8,
+        "destination": "MIA",
+        "consignee": "International Watson Co.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "057-95715058",
+        "pieces": 8,
+        "weight": 85.2,
+        "destination": "NRT",
+        "consignee": "Commerce Herrera B.V.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "125-66983573",
+        "pieces": 17,
+        "weight": 45.0,
+        "destination": "PVG",
+        "consignee": "Trade Pham LLC",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "618-99456460",
+        "pieces": 18,
+        "weight": 18.6,
+        "destination": "YYZ",
+        "consignee": "Garcia Industry LLC",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

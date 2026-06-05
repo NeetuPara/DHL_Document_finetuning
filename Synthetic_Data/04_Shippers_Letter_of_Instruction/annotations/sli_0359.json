@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0359",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202509-3330",
+    "usppi_name": "Industry Phillips GmbH",
+    "usppi_address": "69102 Rose Ford Suite 321, South Shaun, SD 25546, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "43-3799993",
+    "consignee_name": "Hunter Commerce Corp.",
+    "consignee_address": "289 Christina Tunnel, Sanchezton, MH 19968, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "International Robinson LLC",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "James Malone",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/11",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 15,
+        "unit": "SET",
+        "weight_kg": 53.52,
+        "value_usd": 1622.52
+      },
+      {
+        "marks": "EXP/41",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 32,
+        "unit": "KGS",
+        "weight_kg": 32.0,
+        "value_usd": 336.47
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 105,
+        "unit": "PKG",
+        "weight_kg": 192.39,
+        "value_usd": 8048.73
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 155,
+        "unit": "PCS",
+        "weight_kg": 12.75,
+        "value_usd": 4467.42
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 94,
+        "unit": "PCS",
+        "weight_kg": 45.61,
+        "value_usd": 4314.86
+      }
+    ],
+    "total_weight_kg": 336.27,
+    "total_value_usd": 18790.0,
+    "service": "Ground",
+    "named_port": "Sydney Kingsford Smith",
+    "insurance_value_usd": 3630.06,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-237360",
+    "destination_country": "United Arab Emirates"
+  }
+}

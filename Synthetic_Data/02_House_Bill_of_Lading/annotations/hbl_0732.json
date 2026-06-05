@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0732",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU115062564",
+    "shipper_name": "Simpson Trade LLC",
+    "shipper_address": "2655 Fernandez Villages Suite 906, Lake Christopher, DE 39868, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Trade Wheeler B.V.",
+    "consignee_address": "08754 Holly Union, Campostown, FM 57406, India",
+    "consignee_country": "India",
+    "notify_party_name": "Smith Tech LLC",
+    "notify_party_address": "1188 Jones Loop, Lake Sharon, NH 72913, Italy",
+    "vessel": "MADRID MAERSK",
+    "voyage": "788N",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2025-10-27",
+    "issue_place": "Felixstowe",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "JNVP0075445",
+        "seal_no": "CL679623",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "ENJO2054228",
+        "seal_no": "SL318971",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "WSRV8179070",
+        "seal_no": "BL494952",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 76,
+    "package_type": "Carton",
+    "gross_weight_kg": 23082.5,
+    "net_weight_kg": 20402.1,
+    "cbm": 7.38,
+    "marks_and_numbers": "GLB/45"
+  }
+}

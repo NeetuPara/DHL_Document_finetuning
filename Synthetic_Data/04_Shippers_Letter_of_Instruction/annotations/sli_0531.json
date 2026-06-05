@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0531",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202211-6949",
+    "usppi_name": "Collins Pacific B.V.",
+    "usppi_address": "44469 Kaiser Park, Port Donnaland, NM 78542, Spain",
+    "usppi_country": "Spain",
+    "ein": "41-3978709",
+    "consignee_name": "Williamson International Inc.",
+    "consignee_address": "USNS Herrera, FPO AA 90805, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Kline Industry AG",
+    "forwarder": "DB Schenker",
+    "incoterm": "DDP",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Cynthia Lee",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/2",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 75,
+        "unit": "PKG",
+        "weight_kg": 56.97,
+        "value_usd": 1203.16
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 200,
+        "unit": "PCS",
+        "weight_kg": 106.47,
+        "value_usd": 355556.76
+      },
+      {
+        "marks": "EXP/35",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 110,
+        "unit": "PCS",
+        "weight_kg": 358.15,
+        "value_usd": 63396.96
+      }
+    ],
+    "total_weight_kg": 521.59,
+    "total_value_usd": 420156.88,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "386E",
+    "booking_ref": "BKG-377281",
+    "bl_number": "COSU581565645",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Hong Kong, HK",
+    "container_number": "FJDT0654545",
+    "seal_number": "SL678285",
+    "container_type": "20'GP",
+    "cbm": 13.284
+  }
+}

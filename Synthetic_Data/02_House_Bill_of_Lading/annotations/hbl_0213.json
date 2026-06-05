@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0213",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU783006289",
+    "shipper_name": "Cook International AG",
+    "shipper_address": "824 Diaz Spur Suite 749, Lake Phillipstad, CT 40146, India",
+    "shipper_country": "India",
+    "consignee_name": "Commerce Cooper B.V.",
+    "consignee_address": "55170 Pearson Point, Port Philipville, KY 15054, Spain",
+    "consignee_country": "Spain",
+    "notify_party_name": "Commerce Johnson B.V.",
+    "notify_party_address": "851 Martin Village, Port Kim, LA 93361, South Korea",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "768S",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Singapore, SG",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2024-10-02",
+    "issue_place": "Colombo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "XURR8326254",
+        "seal_no": "CL668955",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "ABYY3584096",
+        "seal_no": "SL590069",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "VLIA9028292",
+        "seal_no": "BL762681",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 259,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 13034.9,
+    "net_weight_kg": 11715.5,
+    "cbm": 24.052,
+    "marks_and_numbers": "ABC/26"
+  }
+}

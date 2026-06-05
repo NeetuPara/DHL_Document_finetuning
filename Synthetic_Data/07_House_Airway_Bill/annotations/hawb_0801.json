@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0801",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-59321761",
+    "mawb_number": "057-99919506",
+    "shipper_name": "International Floyd B.V.",
+    "shipper_address": "USNV Robinson, FPO AP 33422, Singapore",
+    "consignee_name": "White Industry B.V.",
+    "consignee_address": "759 Woods Way, New Connieberg, FM 19848, France",
+    "agent_name": "Leon Tech S.A.",
+    "airport_departure": "NRT",
+    "airport_destination": "ICN",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 44,
+    "gross_weight_kg": 425.5,
+    "chargeable_weight": 541.2,
+    "rate": 5.14,
+    "total_charge": 2781.77,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-01-17",
+    "signatory": "Katherine Mullen",
+    "iata_code": "58-843",
+    "agent_cass": "3873-3145",
+    "consolidation_ref": "CONS-1426-215000",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-20760770",
+        "pieces": 17,
+        "weight": 93.3,
+        "destination": "PVG",
+        "consignee": "Global Bender Inc.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "074-63157335",
+        "pieces": 5,
+        "weight": 13.6,
+        "destination": "DXB",
+        "consignee": "Industry Smith Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "057-59363315",
+        "pieces": 14,
+        "weight": 41.3,
+        "destination": "SYD",
+        "consignee": "Global Miller LLC",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "125-77542608",
+        "pieces": 18,
+        "weight": 74.3,
+        "destination": "MIA",
+        "consignee": "Robbins Tech S.A.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "160-65278997",
+        "pieces": 11,
+        "weight": 55.5,
+        "destination": "MIA",
+        "consignee": "Allen Global B.V.",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

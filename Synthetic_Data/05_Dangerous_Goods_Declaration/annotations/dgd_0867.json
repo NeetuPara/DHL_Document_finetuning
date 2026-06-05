@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0867",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Conner Commerce Pte Ltd",
+    "shipper_address": "796 Walker Roads, Lake Amy, FL 11910, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Pacific Cherry GmbH",
+    "consignee_address": "94482 Allen Isle, West James, NV 32461, Germany",
+    "consignee_country": "Germany",
+    "emergency_telephone": "+80 633-633-1915",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 18,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 11.19,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Christopher Scott",
+    "signature_date": "2026-05-03",
+    "signature_place": "United Kingdom",
+    "awb_number": "006-49488723",
+    "flight_number": "LH9468",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "LHR",
+    "destination_airport_name": "London Heathrow",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

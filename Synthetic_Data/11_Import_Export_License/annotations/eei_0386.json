@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0386",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210223317348",
+    "export_date": "2025-11-21",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Ruiz Pacific Corp.",
+    "usppi_ein": "90-4369321",
+    "usppi_address": "33832 Suzanne Way Suite 872, New Shaun, OK 36051, Singapore",
+    "ultimate_consignee": "Jones Commerce GmbH",
+    "intermediate_consignee": "Gonzales Pacific B.V.",
+    "forwarding_agent": "Industry Ray B.V.",
+    "destination_country": "United Arab Emirates",
+    "carrier": "Maersk",
+    "bl_awb": "074-10862373",
+    "total_value": 151727.68,
+    "currency": "CHF",
+    "signatory": "Nicole Bruce",
+    "line_items": [
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "South Korea",
+        "qty": 160,
+        "unit": "BOX",
+        "entered_value": 7547.2,
+        "duty_rate": 20.1,
+        "duty_amount": 1516.99,
+        "eccn": "0A919",
+        "schedule_b": "2936.90.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "United Kingdom",
+        "qty": 192,
+        "unit": "PKG",
+        "entered_value": 40248.96,
+        "duty_rate": 11.9,
+        "duty_amount": 4789.63,
+        "eccn": "5E992",
+        "schedule_b": "4016.93.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Thailand",
+        "qty": 304,
+        "unit": "MTR",
+        "entered_value": 103931.52,
+        "duty_rate": 1.5,
+        "duty_amount": 1558.97,
+        "eccn": "7A994",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

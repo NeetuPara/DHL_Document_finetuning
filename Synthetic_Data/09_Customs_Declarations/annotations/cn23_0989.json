@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0989",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Tanya Fisher",
+    "addressee_company": "Kline Trade Ltd",
+    "addressee_address": "009 Watson Drive Apt. 600, Mayoville, VA 99321, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 8.27,
+    "total_value": 873.46,
+    "currency": "GBP",
+    "issue_date": "2025-06-30",
+    "reference": "REF-631408",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.979,
+        "value": 188.88,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 10,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.047,
+        "value": 179.5,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 4,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.244,
+        "value": 505.08,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Sherry Shea",
+    "sender_company": "Small Commerce B.V.",
+    "sender_address": "662 Callahan Port Apt. 505, North Williamton, MN 58201, Singapore",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 960.81,
+    "postal_charges": 53.62,
+    "tracking_number": "ZM639606201AO"
+  }
+}

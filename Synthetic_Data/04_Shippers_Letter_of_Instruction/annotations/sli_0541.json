@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0541",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202508-4795",
+    "usppi_name": "Global West S.A.",
+    "usppi_address": "7424 Clark Hollow Suite 658, Careyshire, NV 43431, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "28-1690910",
+    "consignee_name": "Rodriguez Trade Inc.",
+    "consignee_address": "Unit 2563 Box 1527, DPO AE 02509, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Waters Trade S.A.",
+    "forwarder": "Expeditors",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Joshua Moore",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/5",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 152,
+        "unit": "PCS",
+        "weight_kg": 2449.28,
+        "value_usd": 46033.39
+      },
+      {
+        "marks": "EXP/10",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 8,
+        "unit": "PCS",
+        "weight_kg": 11.96,
+        "value_usd": 99.07
+      },
+      {
+        "marks": "SLI/7",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 27,
+        "unit": "PCS",
+        "weight_kg": 113.54,
+        "value_usd": 6530.1
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 84,
+        "unit": "KGS",
+        "weight_kg": 84.0,
+        "value_usd": 159.06
+      }
+    ],
+    "total_weight_kg": 2658.78,
+    "total_value_usd": 52821.62,
+    "service": "Ocean Freight",
+    "named_port": "Tokyo, JP",
+    "insurance_value_usd": 44040.15,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-664543",
+    "destination_country": "Hong Kong"
+  }
+}

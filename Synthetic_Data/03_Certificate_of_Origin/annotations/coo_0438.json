@@ -1,0 +1,60 @@
+{
+  "document_id": "coo_0438",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202204-3795",
+    "exporter_name": "Gonzalez International Ltd",
+    "exporter_address": "6110 Harris Walk Suite 321, Port Amy, MN 14706, Mexico",
+    "exporter_country": "Mexico",
+    "consignee_name": "Paul Industry S.A.",
+    "consignee_address": "3144 Riley Light, Christianhaven, WY 73852, France",
+    "consignee_country": "France",
+    "country_of_origin": "Mexico",
+    "country_of_destination": "France",
+    "bl_or_awb": "176-10622083",
+    "issue_date": "2025-04-07",
+    "certifier_name": "Hector Williams",
+    "goods": [
+      {
+        "description": "Optical Equipment - Camera Lenses",
+        "hs_code": "9002.11.00",
+        "qty": 42,
+        "unit": "PCS",
+        "weight_kg": 56.08,
+        "origin_criterion": "E",
+        "value": 70986.36
+      },
+      {
+        "description": "Automotive Spare Parts - Brake Pads",
+        "hs_code": "8708.30.00",
+        "qty": 62,
+        "unit": "SET",
+        "weight_kg": 72.73,
+        "origin_criterion": "A",
+        "value": 1676.15
+      },
+      {
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "hs_code": "2936.90.00",
+        "qty": 139,
+        "unit": "BOX",
+        "weight_kg": 156.47,
+        "origin_criterion": "D",
+        "value": 15462.71
+      },
+      {
+        "description": "Electronic Components - Printed Circuit Boards",
+        "hs_code": "8534.00.00",
+        "qty": 489,
+        "unit": "PCS",
+        "weight_kg": 217.71,
+        "origin_criterion": "A",
+        "value": 20634.48
+      }
+    ],
+    "fta_agreement": "US-Korea FTA (KORUS)",
+    "chamber": "Board of Trade"
+  }
+}

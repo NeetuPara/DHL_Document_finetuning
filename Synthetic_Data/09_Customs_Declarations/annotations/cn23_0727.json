@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0727",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Ashley Jones",
+    "addressee_company": "Taylor Trade AG",
+    "addressee_address": "13632 Roger Harbor Suite 990, West Travis, OH 24788, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 4.319,
+    "total_value": 2925.94,
+    "currency": "CNY",
+    "issue_date": "2025-08-10",
+    "reference": "REF-114671",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.71,
+        "value": 445.04,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 4,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.185,
+        "value": 216.52,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 18,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.309,
+        "value": 1351.08,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 10,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.115,
+        "value": 913.3,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Poland"
+      }
+    ],
+    "sender_name": "Sheryl Henderson",
+    "sender_company": "Industry Noble GmbH",
+    "sender_address": "1025 Fox View Apt. 721, Moranshire, MI 88727, Switzerland",
+    "sender_phone": "707-788-7609x181",
+    "sender_email": "cstanley@example.net",
+    "addressee_phone": "300.831.1805",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 3218.53,
+    "postal_charges": 47.18,
+    "tracking_number": "MX801503319IH"
+  }
+}

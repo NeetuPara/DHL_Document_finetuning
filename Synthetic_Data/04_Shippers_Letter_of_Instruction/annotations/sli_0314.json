@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0314",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202402-8372",
+    "usppi_name": "Brandt Pacific Pte Ltd",
+    "usppi_address": "51021 Collier Meadow, North Christopher, MD 20473, Germany",
+    "usppi_country": "Germany",
+    "ein": "16-5505217",
+    "consignee_name": "Global Allen S.A.",
+    "consignee_address": "83596 Miller Way Suite 516, Nancyshire, MP 06795, France",
+    "consignee_country": "France",
+    "notify_party": "Gonzalez Global B.V.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "David Stein",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/34",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 111,
+        "unit": "PCS",
+        "weight_kg": 47.17,
+        "value_usd": 15976.49
+      },
+      {
+        "marks": "ABC/3",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 158,
+        "unit": "PCS",
+        "weight_kg": 31.86,
+        "value_usd": 2451.54
+      },
+      {
+        "marks": "EXP/36",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 114,
+        "unit": "PKG",
+        "weight_kg": 276.78,
+        "value_usd": 1396.1
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 56,
+        "unit": "PCS",
+        "weight_kg": 475.44,
+        "value_usd": 42133.86
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 107,
+        "unit": "KGS",
+        "weight_kg": 107.0,
+        "value_usd": 213.56
+      }
+    ],
+    "total_weight_kg": 938.25,
+    "total_value_usd": 62171.55,
+    "service": "Ocean Freight",
+    "named_port": "Los Angeles, US",
+    "insurance_value_usd": 23974.7,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "France"
+  }
+}

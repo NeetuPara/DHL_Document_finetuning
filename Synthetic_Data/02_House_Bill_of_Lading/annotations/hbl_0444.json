@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0444",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU976314213",
+    "shipper_name": "Nelson International AG",
+    "shipper_address": "8041 Matthew Gateway Apt. 131, South Stacey, AR 16035, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Nguyen Tech LLC",
+    "consignee_address": "2856 Brown Shoal, Parkshaven, SD 05286, Spain",
+    "consignee_country": "Spain",
+    "notify_party_name": "International Sloan GmbH",
+    "notify_party_address": "08132 Decker Rest Suite 047, Hardingbury, WI 83272, Spain",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "941E",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Hong Kong, HK",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2025-02-13",
+    "issue_place": "New York",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "BPMN5585064",
+        "seal_no": "BL768874",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "LRRN5317850",
+        "seal_no": "SL670079",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 339,
+    "package_type": "Pallet",
+    "gross_weight_kg": 17846.2,
+    "net_weight_kg": 16328.1,
+    "cbm": 24.486,
+    "marks_and_numbers": "ABC/49"
+  }
+}

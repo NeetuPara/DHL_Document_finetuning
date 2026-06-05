@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0575",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202405-9513",
+    "usppi_name": "Pacific Mayer Inc.",
+    "usppi_address": "992 Dickson Turnpike Suite 329, Richardview, NV 47146, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "73-3322457",
+    "consignee_name": "Pacific Hughes GmbH",
+    "consignee_address": "937 Elizabeth Extensions, North Henrytown, CO 95492, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Lewis Trade Co.",
+    "forwarder": "Expeditors",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Anna Simmons",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/40",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 88,
+        "unit": "PCS",
+        "weight_kg": 794.05,
+        "value_usd": 37790.47
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 140,
+        "unit": "PCS",
+        "weight_kg": 7.32,
+        "value_usd": 13205.33
+      },
+      {
+        "marks": "ABC/7",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 104,
+        "unit": "KGS",
+        "weight_kg": 104.0,
+        "value_usd": 643.17
+      },
+      {
+        "marks": "EXP/36",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 62,
+        "unit": "CTN",
+        "weight_kg": 119.83,
+        "value_usd": 141.04
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 146,
+        "unit": "LTR",
+        "weight_kg": 147.02,
+        "value_usd": 2601.35
+      },
+      {
+        "marks": "ABC/15",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 38,
+        "unit": "KGS",
+        "weight_kg": 38.0,
+        "value_usd": 29.08
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 185,
+        "unit": "CTN",
+        "weight_kg": 371.12,
+        "value_usd": 7919.88
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 121,
+        "unit": "PCS",
+        "weight_kg": 17.62,
+        "value_usd": 7302.6
+      }
+    ],
+    "total_weight_kg": 1598.96,
+    "total_value_usd": 69632.92,
+    "service": "Express Courier",
+    "named_port": "Seoul Incheon",
+    "insurance_value_usd": 6801.44,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-487915",
+    "destination_country": "Poland"
+  }
+}

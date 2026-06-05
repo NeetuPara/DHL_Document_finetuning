@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0180",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-73889869",
+    "mawb_number": "176-44122333",
+    "shipper_name": "Bradford Global AG",
+    "shipper_address": "7011 Jesse Spring Suite 248, East Michael, NY 57859, Singapore",
+    "consignee_name": "Kane Pacific Ltd",
+    "consignee_address": "09154 Garrett Shore Suite 939, Dennisborough, OR 15709, Spain",
+    "agent_name": "Pacific Frye S.A.",
+    "airport_departure": "YYZ",
+    "airport_destination": "ORD",
+    "currency": "CNY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 43,
+    "gross_weight_kg": 292.1,
+    "chargeable_weight": 309.0,
+    "rate": 5.69,
+    "total_charge": 1758.21,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-11-04",
+    "signatory": "Deanna Medina",
+    "iata_code": "03-707",
+    "agent_cass": "1342-7718",
+    "consolidation_ref": "CONS-3106-945015",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-36959739",
+        "pieces": 7,
+        "weight": 10.4,
+        "destination": "AMS",
+        "consignee": "Daniels International AG",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "618-67299653",
+        "pieces": 8,
+        "weight": 99.8,
+        "destination": "DXB",
+        "consignee": "Harris Commerce B.V.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "045-97995325",
+        "pieces": 14,
+        "weight": 5.0,
+        "destination": "HKG",
+        "consignee": "Burton Tech Co.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "125-13126336",
+        "pieces": 5,
+        "weight": 66.1,
+        "destination": "AMS",
+        "consignee": "Trade Rivera Co.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "160-14533518",
+        "pieces": 10,
+        "weight": 63.9,
+        "destination": "NRT",
+        "consignee": "Wright Tech B.V.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "125-37546355",
+        "pieces": 17,
+        "weight": 95.5,
+        "destination": "YYZ",
+        "consignee": "International Davis Inc.",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

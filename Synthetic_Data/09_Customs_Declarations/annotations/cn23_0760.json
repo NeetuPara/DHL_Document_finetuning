@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0760",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Natasha Wright",
+    "addressee_company": "Douglas Commerce Ltd",
+    "addressee_address": "86889 Perkins Forest, South Katherineport, CT 33940, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 9.148,
+    "total_value": 1225.16,
+    "currency": "AED",
+    "issue_date": "2025-07-15",
+    "reference": "REF-690360",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.749,
+        "value": 151.91,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 2,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.739,
+        "value": 101.88,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 9,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.66,
+        "value": 971.37,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Jill Frye",
+    "sender_company": "Commerce Johnson Inc.",
+    "sender_address": "3742 John Brooks Apt. 381, New Russell, GU 83192, United Kingdom",
+    "sender_phone": "001-988-471-2850x762",
+    "sender_email": "smithnathan@example.org",
+    "addressee_phone": "+1-603-523-2170x463",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 38.45,
+    "tracking_number": "KE283491025DI"
+  }
+}

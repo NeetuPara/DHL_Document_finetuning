@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0285",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-87643878",
+    "mawb_number": "125-88815774",
+    "shipper_name": "Snow Tech S.A.",
+    "shipper_address": "791 Brian Underpass Suite 221, Wesleytown, AZ 98746, Switzerland",
+    "consignee_name": "Logan Tech Co.",
+    "consignee_address": "4118 Crawford Vista, Jacobton, SC 98303, Brazil",
+    "agent_name": "Taylor Pacific S.A.",
+    "airport_departure": "NRT",
+    "airport_destination": "JFK",
+    "currency": "CHF",
+    "charge_code": "PP",
+    "declared_value_carriage": "CAD 28,025.66",
+    "declared_value_customs": "NCV",
+    "n_pieces": 30,
+    "gross_weight_kg": 287.0,
+    "chargeable_weight": 326.1,
+    "rate": 6.69,
+    "total_charge": 2181.61,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "TEMP CONTROLLED: 6\u00b0C - 24\u00b0C",
+    "issue_date": "2026-03-23",
+    "signatory": "John Braun",
+    "iata_code": "51-707",
+    "agent_cass": "8989-6572",
+    "consolidation_ref": "CONS-6169-133480",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-73337096",
+        "pieces": 19,
+        "weight": 68.5,
+        "destination": "PVG",
+        "consignee": "Global Thomas Pte Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "045-64063164",
+        "pieces": 19,
+        "weight": 52.1,
+        "destination": "HKG",
+        "consignee": "Pacific Carr S.A.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "074-56230616",
+        "pieces": 3,
+        "weight": 72.4,
+        "destination": "YYZ",
+        "consignee": "Parrish Pacific Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "618-65994217",
+        "pieces": 14,
+        "weight": 3.1,
+        "destination": "DXB",
+        "consignee": "Durham Pacific AG",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

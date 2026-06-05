@@ -1,0 +1,42 @@
+{
+  "document_id": "coo_0156",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202010-9385",
+    "exporter_name": "Wilson Pacific LLC",
+    "exporter_address": "1688 Dave Inlet, Loganshire, GU 00975, Singapore",
+    "exporter_country": "Singapore",
+    "consignee_name": "Kelly Commerce Inc.",
+    "consignee_address": "279 Lisa Vista, North Christopher, AS 03542, Thailand",
+    "consignee_country": "Thailand",
+    "country_of_origin": "Singapore",
+    "country_of_destination": "Thailand",
+    "bl_or_awb": "074-64125691",
+    "issue_date": "2025-05-16",
+    "certifier_name": "Amber Lang",
+    "goods": [
+      {
+        "description": "Electronic Components - Printed Circuit Boards",
+        "hs_code": "8534.00.00",
+        "qty": 81,
+        "unit": "PCS",
+        "weight_kg": 19.44,
+        "origin_criterion": "A",
+        "value": 3532.86
+      },
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 258,
+        "unit": "KGS",
+        "weight_kg": 258.0,
+        "origin_criterion": "D",
+        "value": 5286.08
+      }
+    ],
+    "fta_agreement": "EU-Canada CETA",
+    "chamber": "Chamber of Commerce"
+  }
+}

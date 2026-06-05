@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0988",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Higgins Pte Ltd",
+    "shipper_address": "250 Patricia Spur Suite 148, Lake Paul, IN 57066, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Tech Smith Co.",
+    "consignee_address": "3631 Toni Corner, Jacksonmouth, MS 57309, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+3 726-865-7683",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 6,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 47.11,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-979826",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 14,
+        "pkg_type": "Steel Drum",
+        "net_qty": 94.35,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-133709",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Heather Sanders",
+    "signature_date": "2026-05-12",
+    "signature_place": "Canada",
+    "awb_number": "057-25005930",
+    "flight_number": "UA2725",
+    "flight_date": "2026-04-28",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport"
+  }
+}

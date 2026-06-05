@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0776",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG835050458",
+    "shipper_name": "International Cox Ltd",
+    "shipper_address": "4695 Hunt Points Apt. 173, Maryfort, ME 50391, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Hernandez Pacific Inc.",
+    "consignee_address": "45303 Kristen Way, East David, WV 15079, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party_name": "Chaney International Co.",
+    "notify_party_address": "0845 Anna Mountains, Kellymouth, MT 36035, Poland",
+    "vessel": "MSC OSCAR",
+    "voyage": "781N",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2024-10-17",
+    "issue_place": "Qingdao",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "UTDU5252996",
+        "seal_no": "CL842031",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "WCTM1622264",
+        "seal_no": "BL440794",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "TFRG6615907",
+        "seal_no": "BL418236",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "LNFW8308121",
+        "seal_no": "BL968002",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 402,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 5831.1,
+    "net_weight_kg": 5248.7,
+    "cbm": 15.367,
+    "marks_and_numbers": "GLB/40"
+  }
+}

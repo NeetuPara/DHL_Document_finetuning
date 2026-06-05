@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0522",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-68030209",
+    "mawb_number": "176-23039988",
+    "shipper_name": "International Morrison S.A.",
+    "shipper_address": "10444 Terry Brook, Davidside, VT 53894, Poland",
+    "consignee_name": "Scott International Corp.",
+    "consignee_address": "1463 Tracy Mountains, East Karimouth, MP 49445, Germany",
+    "agent_name": "Garcia Industry GmbH",
+    "airport_departure": "SIN",
+    "airport_destination": "AMS",
+    "currency": "AED",
+    "charge_code": "CC",
+    "declared_value_carriage": "SGD 25,452.64",
+    "declared_value_customs": "SGD 33,428.42",
+    "n_pieces": 1,
+    "gross_weight_kg": 400.2,
+    "chargeable_weight": 483.2,
+    "rate": 9.72,
+    "total_charge": 4696.7,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "TEMP CONTROLLED: 7\u00b0C - 21\u00b0C",
+    "issue_date": "2026-03-23",
+    "signatory": "Bradley Lee",
+    "iata_code": "86-257",
+    "agent_cass": "0323-7516",
+    "consolidation_ref": "CONS-5039-596963",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-62501718",
+        "pieces": 7,
+        "weight": 19.5,
+        "destination": "FRA",
+        "consignee": "Commerce Carroll Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "045-83876769",
+        "pieces": 5,
+        "weight": 70.3,
+        "destination": "NRT",
+        "consignee": "Industry Howard B.V.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "618-63403518",
+        "pieces": 9,
+        "weight": 74.9,
+        "destination": "SIN",
+        "consignee": "Bentley Industry AG",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "006-13115745",
+        "pieces": 17,
+        "weight": 53.8,
+        "destination": "SIN",
+        "consignee": "Garcia Trade Corp.",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

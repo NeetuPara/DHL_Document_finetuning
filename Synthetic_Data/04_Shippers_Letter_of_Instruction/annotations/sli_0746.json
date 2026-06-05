@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0746",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202011-4821",
+    "usppi_name": "Meadows Tech B.V.",
+    "usppi_address": "89020 Henry Green Suite 344, Blevinsville, ME 20360, Germany",
+    "usppi_country": "Germany",
+    "ein": "96-8330503",
+    "consignee_name": "Harris Tech B.V.",
+    "consignee_address": "2987 Ramsey Forge, West Debbie, MS 04057, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Tech Martin Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Christine Gonzalez",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/30",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 70,
+        "unit": "CTN",
+        "weight_kg": 304.46,
+        "value_usd": 2506.19
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 199,
+        "unit": "KGS",
+        "weight_kg": 199.0,
+        "value_usd": 1861.73
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 137,
+        "unit": "LTR",
+        "weight_kg": 142.18,
+        "value_usd": 752.82
+      },
+      {
+        "marks": "EXP/27",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 106,
+        "unit": "PCS",
+        "weight_kg": 468.9,
+        "value_usd": 52372.69
+      }
+    ],
+    "total_weight_kg": 1114.54,
+    "total_value_usd": 57493.43,
+    "service": "LCL Ocean",
+    "named_port": "Hamburg, DE",
+    "insurance_value_usd": 7505.55,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Belgium"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0552",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Barajas Industry Corp.",
+    "shipper_address": "0560 Cole Circles Apt. 734, West Steve, IA 37504, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Global Blevins Inc.",
+    "consignee_address": "PSC 8299, Box 7660, APO AP 42291, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+66 294-406-7179",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 43,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 66.13,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Jennifer Travis",
+    "signature_date": "2026-04-26",
+    "signature_place": "Canada",
+    "awb_number": "057-98358148",
+    "flight_number": "UA8460",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

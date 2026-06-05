@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0753",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-81668504",
+    "mawb_number": "020-67201790",
+    "shipper_name": "Tech Vargas Corp.",
+    "shipper_address": "PSC 6559, Box 4232, APO AA 32786, Germany",
+    "consignee_name": "Peck Global Inc.",
+    "consignee_address": "56276 Medina Shoal, North Amandaburgh, DC 67844, Switzerland",
+    "agent_name": "Gibson International B.V.",
+    "airport_departure": "DXB",
+    "airport_destination": "FRA",
+    "currency": "CAD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 29,
+    "gross_weight_kg": 301.8,
+    "chargeable_weight": 302.0,
+    "rate": 7.93,
+    "total_charge": 2394.86,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-10-01",
+    "signatory": "Jennifer Washington",
+    "iata_code": "98-131",
+    "agent_cass": "6930-5389",
+    "consolidation_ref": "CONS-3847-367411",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-87452797",
+        "pieces": 5,
+        "weight": 52.7,
+        "destination": "ICN",
+        "consignee": "Trade Henry S.A.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "057-55100403",
+        "pieces": 15,
+        "weight": 73.0,
+        "destination": "ORD",
+        "consignee": "Trade Fuller GmbH",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "074-20006072",
+        "pieces": 5,
+        "weight": 47.7,
+        "destination": "JFK",
+        "consignee": "Ramos Global B.V.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "045-55939619",
+        "pieces": 19,
+        "weight": 6.5,
+        "destination": "CDG",
+        "consignee": "Gibson Pacific Pte Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "160-66598488",
+        "pieces": 7,
+        "weight": 52.0,
+        "destination": "SYD",
+        "consignee": "International Robinson Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "074-75183661",
+        "pieces": 16,
+        "weight": 1.6,
+        "destination": "AMS",
+        "consignee": "Trade Harvey AG",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

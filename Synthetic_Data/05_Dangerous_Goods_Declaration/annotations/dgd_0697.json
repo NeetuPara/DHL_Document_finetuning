@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0697",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Tyler Ltd",
+    "shipper_address": "Unit 1626 Box 6436, DPO AP 46247, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Trade Edwards Pte Ltd",
+    "consignee_address": "9100 Ferguson Shoal Suite 301, Debraborough, SD 74183, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+1 135-591-5665",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 1,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 52.91,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-606913",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jeremy Merritt",
+    "signature_date": "2026-04-17",
+    "signature_place": "Hong Kong",
+    "awb_number": "160-17841179",
+    "flight_number": "EK837",
+    "flight_date": "2026-05-19",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport"
+  }
+}

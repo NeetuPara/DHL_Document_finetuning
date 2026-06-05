@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0828",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Oneal Global Ltd",
+    "shipper_address": "31046 John Locks, Port Thomashaven, MS 01514, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Clark Pacific Pte Ltd",
+    "consignee_address": "754 Hall Meadow, New Victoria, UT 96837, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+74 473-282-5704",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 38,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 93.42,
+        "qty_unit": "g",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 2,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 15.76,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Gary Carter",
+    "signature_date": "2026-04-15",
+    "signature_place": "Brazil",
+    "awb_number": "085-15539355",
+    "flight_number": "LH8918",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0095",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202403-3086",
+    "usppi_name": "Jones Tech AG",
+    "usppi_address": "737 Francis Cape, Sawyerton, DC 31582, Australia",
+    "usppi_country": "Australia",
+    "ein": "37-4873765",
+    "consignee_name": "Commerce Mcknight GmbH",
+    "consignee_address": "81560 Lee Tunnel, Smithberg, RI 40168, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Tech Rosario Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Justin Burke",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/15",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 13,
+        "unit": "CTN",
+        "weight_kg": 11.91,
+        "value_usd": 187.57
+      },
+      {
+        "marks": "ABC/35",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 195,
+        "unit": "PCS",
+        "weight_kg": 2233.92,
+        "value_usd": 38603.01
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 159,
+        "unit": "PKG",
+        "weight_kg": 197.9,
+        "value_usd": 3653.53
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 24,
+        "unit": "PCS",
+        "weight_kg": 301.4,
+        "value_usd": 5190.4
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 56,
+        "unit": "KGS",
+        "weight_kg": 56.0,
+        "value_usd": 135.35
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 110,
+        "unit": "BOX",
+        "weight_kg": 25.11,
+        "value_usd": 4431.66
+      },
+      {
+        "marks": "SLI/7",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 71,
+        "unit": "CTN",
+        "weight_kg": 307.93,
+        "value_usd": 2572.71
+      }
+    ],
+    "total_weight_kg": 3134.17,
+    "total_value_usd": 54774.23,
+    "service": "Express Courier",
+    "named_port": "Seoul Incheon",
+    "insurance_value_usd": 34701.31,
+    "license_type": "Distributor License",
+    "license_number": "LIC-217596",
+    "destination_country": "Switzerland"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0460",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "429-25390808-1",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2026-03-18",
+    "port_of_entry": "HOU - Houston",
+    "transport_mode": "Hand-Carried",
+    "carrier": "UPS",
+    "bl_awb": "057-34103260",
+    "importer_name": "Tech Harris GmbH",
+    "importer_ein": "20-3926467",
+    "consignee_name": "Global Norton Inc.",
+    "customs_broker": "Smith International Corp.",
+    "broker_filer_code": "HOM",
+    "country_of_origin": "Spain",
+    "total_value": 58230.25,
+    "total_duty": 7949.49,
+    "currency": "CAD",
+    "signatory": "Kathleen Delgado",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "France",
+        "qty": 395,
+        "unit": "CTN",
+        "entered_value": 37702.75,
+        "duty_rate": 12.7,
+        "duty_amount": 4788.25,
+        "eccn": "9A515",
+        "schedule_b": "4819.10.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "France",
+        "qty": 69,
+        "unit": "PCS",
+        "entered_value": 20527.5,
+        "duty_rate": 15.4,
+        "duty_amount": 3161.24,
+        "eccn": "0A919",
+        "schedule_b": "3926.90.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

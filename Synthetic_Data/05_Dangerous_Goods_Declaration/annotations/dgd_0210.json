@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0210",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Cantu Industry AG",
+    "shipper_address": "99685 Schwartz Extension Suite 537, Martinchester, AR 88387, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Jefferson Trade AG",
+    "consignee_address": "54393 Johnson Village Apt. 798, Nicoleview, NJ 44981, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+10 856-897-8140",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 6,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 92.62,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-889640",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Patricia Green",
+    "signature_date": "2026-04-24",
+    "signature_place": "Netherlands",
+    "awb_number": "057-71782084",
+    "flight_number": "CX5874",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

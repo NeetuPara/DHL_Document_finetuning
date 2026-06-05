@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0669",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Stevens Pte Ltd",
+    "shipper_address": "84000 Sims Centers, New George, RI 92967, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Tech Martin Corp.",
+    "consignee_address": "USNV Harmon, FPO AP 93050, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+95 983-627-8508",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 27,
+        "pkg_type": "Steel Drum",
+        "net_qty": 58.97,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-345854",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Kevin Kelly",
+    "signature_date": "2026-04-21",
+    "signature_place": "Spain",
+    "awb_number": "074-25807828",
+    "flight_number": "EK3348",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

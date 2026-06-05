@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0902",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Vanessa Hayes",
+    "addressee_company": "Mcdonald Trade B.V.",
+    "addressee_address": "97637 Joseph Villages, Lake Markmouth, ME 79999, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 3.882,
+    "total_value": 726.0,
+    "currency": "EUR",
+    "issue_date": "2025-08-13",
+    "reference": "REF-325767",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.882,
+        "value": 726.0,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_name": "Amy Smith",
+    "sender_company": "Trade Curtis GmbH",
+    "sender_address": "14705 Anna Valley Apt. 228, South Seth, SC 16202, South Korea",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 798.6,
+    "postal_charges": 36.51,
+    "tracking_number": "ZB175435379NA"
+  }
+}

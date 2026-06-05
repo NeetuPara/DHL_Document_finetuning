@@ -1,0 +1,75 @@
+{
+  "document_id": "vgm_0434",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Industry Stewart GmbH",
+    "shipper_address": "9170 Johnson Prairie Suite 341, Port Kimberly, SC 19236, Japan",
+    "shipper_country": "Japan",
+    "container_number": "HPKO3008640",
+    "seal_number": "SL627521",
+    "container_size": "20'OT",
+    "iso_type_code": "22U0",
+    "tare_weight_kg": 2400,
+    "cargo_weight_kg": 10055.4,
+    "packing_materials_kg": 470.3,
+    "vgm_kg": 12925.7,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "726S",
+    "bl_number": "OOLU348085796",
+    "booking_reference": "BKG-690634",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-31079",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-19",
+    "signature_date": "2026-05-07",
+    "signatory_name": "Christopher Jones",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 6,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Pallet",
+        "n_units": 6,
+        "gross_wt_kg": 2124.6
+      },
+      {
+        "item_no": 2,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Pallet",
+        "n_units": 9,
+        "gross_wt_kg": 1984.5
+      },
+      {
+        "item_no": 3,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Cylinder",
+        "n_units": 11,
+        "gross_wt_kg": 1844.9
+      },
+      {
+        "item_no": 4,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Drum",
+        "n_units": 6,
+        "gross_wt_kg": 586.1
+      },
+      {
+        "item_no": 5,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Cylinder",
+        "n_units": 14,
+        "gross_wt_kg": 1015.7
+      },
+      {
+        "item_no": 6,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Bag",
+        "n_units": 1,
+        "gross_wt_kg": 2499.6
+      }
+    ]
+  }
+}

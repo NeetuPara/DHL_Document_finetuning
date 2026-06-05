@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0077",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Amy Garcia",
+    "addressee_company": "Industry Gilbert Corp.",
+    "addressee_address": "285 Rachel Knoll, Lake Catherineview, IN 76546, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 2.686,
+    "total_value": 515.36,
+    "currency": "USD",
+    "issue_date": "2025-09-07",
+    "reference": "REF-047614",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.686,
+        "value": 515.36,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_name": "Taylor Watson",
+    "sender_company": "Cook Tech Co.",
+    "sender_address": "PSC 4603, Box 9048, APO AP 98511, Switzerland",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 566.9,
+    "postal_charges": 79.86,
+    "tracking_number": "FC409234916JN"
+  }
+}

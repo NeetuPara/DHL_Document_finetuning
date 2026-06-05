@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0377",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202003-8348",
+    "usppi_name": "Industry Robinson Inc.",
+    "usppi_address": "6807 Rowe Loaf, Blakebury, CA 82066, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "83-9533128",
+    "consignee_name": "Dean Pacific LLC",
+    "consignee_address": "546 Stephen Rapids, Lisatown, AZ 37257, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Pacific Nguyen Co.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Jonathan Butler",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/47",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 64,
+        "unit": "PCS",
+        "weight_kg": 29.0,
+        "value_usd": 11218.17
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 29,
+        "unit": "KGS",
+        "weight_kg": 29.0,
+        "value_usd": 396.17
+      },
+      {
+        "marks": "EXP/9",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 93,
+        "unit": "SET",
+        "weight_kg": 237.73,
+        "value_usd": 4186.18
+      }
+    ],
+    "total_weight_kg": 295.73,
+    "total_value_usd": 15800.52,
+    "service": "Air Freight",
+    "named_port": "Dubai International",
+    "insurance_value_usd": 48169.7,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-428752",
+    "destination_country": "Japan"
+  }
+}

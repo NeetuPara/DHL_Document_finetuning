@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0512",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202203-7296",
+    "usppi_name": "Global Cunningham AG",
+    "usppi_address": "3610 Mcdonald Run Suite 375, Melissaberg, NY 91790, Spain",
+    "usppi_country": "Spain",
+    "ein": "52-3611812",
+    "consignee_name": "Commerce Griffith B.V.",
+    "consignee_address": "277 Aguilar Prairie, Michellebury, NY 11126, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Harmon International Corp.",
+    "forwarder": "Panalpina",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Jeremiah Davis",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/2",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 92,
+        "unit": "PCS",
+        "weight_kg": 8.04,
+        "value_usd": 2792.85
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 113,
+        "unit": "CTN",
+        "weight_kg": 232.5,
+        "value_usd": 645.45
+      },
+      {
+        "marks": "ABC/18",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 113,
+        "unit": "PCS",
+        "weight_kg": 21.03,
+        "value_usd": 25770.68
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 129,
+        "unit": "PCS",
+        "weight_kg": 1044.79,
+        "value_usd": 9854.49
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 176,
+        "unit": "PCS",
+        "weight_kg": 2187.86,
+        "value_usd": 26836.14
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 11,
+        "unit": "LTR",
+        "weight_kg": 10.31,
+        "value_usd": 182.34
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 10,
+        "unit": "KGS",
+        "weight_kg": 10.0,
+        "value_usd": 23.06
+      },
+      {
+        "marks": "EXP/28",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 87,
+        "unit": "KGS",
+        "weight_kg": 87.0,
+        "value_usd": 664.55
+      }
+    ],
+    "total_weight_kg": 3601.53,
+    "total_value_usd": 66769.56,
+    "service": "Air Freight",
+    "named_port": "Paris CDG",
+    "insurance_value_usd": 39240.6,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-294756",
+    "destination_country": "Belgium"
+  }
+}

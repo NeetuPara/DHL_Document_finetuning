@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0274",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG749839192",
+    "shipper_name": "Yu Pacific Ltd",
+    "shipper_address": "Unit 8935 Box 7272, DPO AE 05184, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Tech Harrison B.V.",
+    "consignee_address": "23719 White Unions Suite 137, West Lisa, AZ 72413, China",
+    "consignee_country": "China",
+    "notify_party_name": "Pacific Gibson Co.",
+    "notify_party_address": "11386 Rodriguez Haven, Williambury, KS 06172, Sweden",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "404N",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Hong Kong, HK",
+    "issue_date": "2024-11-25",
+    "issue_place": "Shanghai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "ENIR7788770",
+        "seal_no": "BL177623",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "BQXB8347978",
+        "seal_no": "BL119356",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "LYUY8720466",
+        "seal_no": "SL407688",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "JDVF9702686",
+        "seal_no": "CL384754",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 320,
+    "package_type": "Case",
+    "gross_weight_kg": 8471.6,
+    "net_weight_kg": 7704.0,
+    "cbm": 37.314,
+    "marks_and_numbers": "GLB/35"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0100",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG183800713",
+    "shipper_name": "Zuniga Trade AG",
+    "shipper_address": "Unit 9865 Box 3466, DPO AP 92735, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Pacific Ball Ltd",
+    "consignee_address": "9757 Wang Extensions, Garystad, MT 48794, Spain",
+    "consignee_country": "Spain",
+    "notify_party_name": "Townsend Trade S.A.",
+    "notify_party_address": "651 Garner Valley Apt. 534, Lake Victoriaport, CA 76106, Hong Kong",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "728S",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2025-12-23",
+    "issue_place": "Colombo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "ECGS7926644",
+        "seal_no": "CL338485",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "JNUO0767185",
+        "seal_no": "SL522115",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "YCMI0982725",
+        "seal_no": "SL952365",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "BRBX1908293",
+        "seal_no": "SL534535",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "number_of_packages": 293,
+    "package_type": "Case",
+    "gross_weight_kg": 1110.0,
+    "net_weight_kg": 997.1,
+    "cbm": 17.279,
+    "marks_and_numbers": "GLB/9"
+  }
+}

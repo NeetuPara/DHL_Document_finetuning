@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0043",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202104-5712",
+    "usppi_name": "Mcmahon Pacific Pte Ltd",
+    "usppi_address": "804 Mcbride Forges Suite 707, North Geraldborough, MH 10270, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "24-6210961",
+    "consignee_name": "Industry Curtis Corp.",
+    "consignee_address": "0095 Jane Knolls Suite 766, Reynoldsville, ME 33943, China",
+    "consignee_country": "China",
+    "notify_party": "Global Davis S.A.",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Deborah Scott",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/14",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 99,
+        "unit": "CTN",
+        "weight_kg": 230.84,
+        "value_usd": 363.77
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 69,
+        "unit": "BOX",
+        "weight_kg": 67.84,
+        "value_usd": 7420.71
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 11,
+        "unit": "LTR",
+        "weight_kg": 9.94,
+        "value_usd": 272.46
+      },
+      {
+        "marks": "SLI/5",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 87,
+        "unit": "KGS",
+        "weight_kg": 87.0,
+        "value_usd": 164.15
+      },
+      {
+        "marks": "SLI/9",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 34,
+        "unit": "PCS",
+        "weight_kg": 7.42,
+        "value_usd": 2094.26
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 14,
+        "unit": "KGS",
+        "weight_kg": 14.0,
+        "value_usd": 133.51
+      }
+    ],
+    "total_weight_kg": 417.04,
+    "total_value_usd": 10448.86,
+    "service": "Ground",
+    "named_port": "Miami International",
+    "insurance_value_usd": 11615.71,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "China"
+  }
+}

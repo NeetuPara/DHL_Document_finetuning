@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0781",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "376-19970646-7",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2025-12-15",
+    "port_of_entry": "ORD - Chicago",
+    "transport_mode": "Rail",
+    "carrier": "MSC",
+    "bl_awb": "006-49278283",
+    "importer_name": "Global Jimenez Pte Ltd",
+    "importer_ein": "72-9161296",
+    "consignee_name": "Mendoza Tech Corp.",
+    "customs_broker": "Industry Carr LLC",
+    "broker_filer_code": "qrB",
+    "country_of_origin": "Canada",
+    "total_value": 215063.71,
+    "total_duty": 23308.02,
+    "currency": "SGD",
+    "signatory": "Tanner Andrade",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Singapore",
+        "qty": 54,
+        "unit": "PCS",
+        "entered_value": 11433.96,
+        "duty_rate": 9.4,
+        "duty_amount": 1074.79,
+        "eccn": "9A515",
+        "schedule_b": "3926.90.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Belgium",
+        "qty": 50,
+        "unit": "SET",
+        "entered_value": 16763.5,
+        "duty_rate": 6.6,
+        "duty_amount": 1106.39,
+        "eccn": "9A515",
+        "schedule_b": "8708.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Brazil",
+        "qty": 285,
+        "unit": "PCS",
+        "entered_value": 74886.6,
+        "duty_rate": 22.1,
+        "duty_amount": 16549.94,
+        "eccn": "9A515",
+        "schedule_b": "8483.40.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Spain",
+        "qty": 486,
+        "unit": "KGS",
+        "entered_value": 104271.3,
+        "duty_rate": 2.8,
+        "duty_amount": 2919.6,
+        "eccn": "3A992",
+        "schedule_b": "7208.37.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Mexico",
+        "qty": 67,
+        "unit": "CTN",
+        "entered_value": 7708.35,
+        "duty_rate": 21.5,
+        "duty_amount": 1657.3,
+        "eccn": "EAR99",
+        "schedule_b": "4819.10.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

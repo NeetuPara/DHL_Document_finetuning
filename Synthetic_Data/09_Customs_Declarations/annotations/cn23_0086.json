@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0086",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jeffrey Patton",
+    "addressee_company": "International Lee Ltd",
+    "addressee_address": "7325 Le Locks, Juanville, AL 81788, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 11.284,
+    "total_value": 2624.66,
+    "currency": "GBP",
+    "issue_date": "2025-09-05",
+    "reference": "REF-317242",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.559,
+        "value": 337.9,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 17,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.5,
+        "value": 1060.46,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 10,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 4.225,
+        "value": 1226.3,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Poland"
+      }
+    ],
+    "sender_name": "Christian Stevenson",
+    "sender_company": "Commerce Rodriguez Co.",
+    "sender_address": "696 Foster Rapid Suite 157, Williamsshire, HI 98806, Poland",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 33.52,
+    "tracking_number": "LP138250040QD"
+  }
+}

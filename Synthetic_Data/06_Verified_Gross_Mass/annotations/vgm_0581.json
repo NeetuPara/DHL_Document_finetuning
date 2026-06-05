@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0581",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Pittman Pacific B.V.",
+    "shipper_address": "Unit 7147 Box 2740, DPO AA 29102, Netherlands",
+    "shipper_country": "Netherlands",
+    "container_number": "NPYW4130430",
+    "seal_number": "SL699780",
+    "container_size": "40'HC",
+    "iso_type_code": "45G0",
+    "tare_weight_kg": 4000,
+    "cargo_weight_kg": 16328.0,
+    "packing_materials_kg": 235.2,
+    "vgm_kg": 20563.2,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "327W",
+    "bl_number": "YMLU142657208",
+    "booking_reference": "BKG-692488",
+    "weighing_scale_type": "Certified Electronic Scale",
+    "scale_serial": "Unit-15263",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-23",
+    "signature_date": "2026-05-11",
+    "signatory_name": "William Williams",
+    "signatory_title": "VGM Officer",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Case",
+        "n_units": 16,
+        "gross_wt_kg": 3700.8
+      },
+      {
+        "item_no": 2,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Case",
+        "n_units": 19,
+        "gross_wt_kg": 3216.7
+      },
+      {
+        "item_no": 3,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Case",
+        "n_units": 7,
+        "gross_wt_kg": 2734.3
+      },
+      {
+        "item_no": 4,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Drum",
+        "n_units": 11,
+        "gross_wt_kg": 1442.2
+      },
+      {
+        "item_no": 5,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Crate",
+        "n_units": 18,
+        "gross_wt_kg": 5234.0
+      }
+    ]
+  }
+}

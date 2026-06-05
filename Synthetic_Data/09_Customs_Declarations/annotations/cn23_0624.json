@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0624",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "James Gilbert",
+    "addressee_company": "Industry Davidson Ltd",
+    "addressee_address": "8947 Miranda Prairie, Josephshire, FM 46889, India",
+    "addressee_country": "India",
+    "total_weight_kg": 7.216,
+    "total_value": 2599.69,
+    "currency": "JPY",
+    "issue_date": "2025-09-28",
+    "reference": "REF-221648",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.137,
+        "value": 1341.2,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 1,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.179,
+        "value": 41.53,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 16,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.9,
+        "value": 1216.96,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Brazil"
+      }
+    ],
+    "sender_country": "China",
+    "port_of_entry": "New York, NY",
+    "entry_number": "358-02993982-6",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 6.5,
+    "estimated_duty": 168.98,
+    "importer_ein": "09-1957592",
+    "customs_broker": "Riddle Pacific LLC"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0404",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Herrera Global Ltd",
+    "shipper_address": "4323 Kim Circles, East John, AK 51924, China",
+    "shipper_country": "China",
+    "consignee_name": "Pacific Davidson B.V.",
+    "consignee_address": "5780 Justin Island, New Laurie, AL 76460, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+38 244-192-2587",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 38,
+        "pkg_type": "Steel Drum",
+        "net_qty": 18.98,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jacob Miller",
+    "signature_date": "2026-05-05",
+    "signature_place": "China",
+    "vessel": "YANG MING MYTH",
+    "voyage": "843E",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Long Beach, US"
+  }
+}

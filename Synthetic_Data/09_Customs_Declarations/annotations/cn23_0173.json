@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0173",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Colleen Molina MD",
+    "addressee_company": "Moses Tech Inc.",
+    "addressee_address": "5852 Robert Harbors, Donnastad, MI 06376, France",
+    "addressee_country": "France",
+    "total_weight_kg": 8.067,
+    "total_value": 4512.43,
+    "currency": "CHF",
+    "issue_date": "2026-04-08",
+    "reference": "REF-625652",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.33,
+        "value": 1284.2,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 9,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.033,
+        "value": 1204.38,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 5,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.817,
+        "value": 711.65,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 12,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.887,
+        "value": 1312.2,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Loretta Hardy",
+    "sender_company": "Industry Espinoza Corp.",
+    "sender_address": "64311 Deleon Manor Apt. 783, West Melissaborough, OH 07248, India",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 63.4,
+    "tracking_number": "DS267924170WL"
+  }
+}

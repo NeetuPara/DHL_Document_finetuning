@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0626",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Stephanie Fry",
+    "addressee_company": "Griffin Global B.V.",
+    "addressee_address": "3798 Gonzalez Radial Suite 921, Oconnorfurt, MI 63783, France",
+    "addressee_country": "France",
+    "total_weight_kg": 2.98,
+    "total_value": 4466.82,
+    "currency": "EUR",
+    "issue_date": "2025-11-07",
+    "reference": "REF-894378",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.13,
+        "value": 1312.9,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 12,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.03,
+        "value": 1698.84,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 11,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.82,
+        "value": 1455.08,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_name": "Natalie Hernandez",
+    "sender_company": "Shaw Tech LLC",
+    "sender_address": "37659 Oneal Row Apt. 864, Briannamouth, MP 26865, Switzerland",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 45.38,
+    "tracking_number": "AL008841033QY"
+  }
+}

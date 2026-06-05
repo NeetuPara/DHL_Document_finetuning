@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0696",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-35631382",
+    "mawb_number": "125-89523002",
+    "shipper_name": "Trade Parrish Pte Ltd",
+    "shipper_address": "91292 Ryan Skyway, Susanstad, MS 66779, Australia",
+    "consignee_name": "Hill Global LLC",
+    "consignee_address": "USNS Johnson, FPO AP 10521, Sweden",
+    "agent_name": "Tech Clark B.V.",
+    "airport_departure": "FRA",
+    "airport_destination": "AMS",
+    "currency": "SGD",
+    "charge_code": "PP",
+    "declared_value_carriage": "GBP 22,061.55",
+    "declared_value_customs": "NCV",
+    "n_pieces": 8,
+    "gross_weight_kg": 415.6,
+    "chargeable_weight": 518.7,
+    "rate": 2.89,
+    "total_charge": 1499.04,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "TEMP CONTROLLED: 5\u00b0C - 14\u00b0C",
+    "issue_date": "2026-01-13",
+    "signatory": "Richard May",
+    "iata_code": "21-931",
+    "agent_cass": "3915-6100",
+    "consolidation_ref": "CONS-4968-607870",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-98874852",
+        "pieces": 4,
+        "weight": 28.5,
+        "destination": "MIA",
+        "consignee": "Global Vasquez B.V.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "074-11712386",
+        "pieces": 15,
+        "weight": 23.0,
+        "destination": "PVG",
+        "consignee": "Morrow Industry Ltd",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "074-35977136",
+        "pieces": 5,
+        "weight": 68.5,
+        "destination": "SYD",
+        "consignee": "Trade Banks B.V.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "074-86709841",
+        "pieces": 2,
+        "weight": 63.0,
+        "destination": "LAX",
+        "consignee": "Trade Lee Corp.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "125-40136308",
+        "pieces": 5,
+        "weight": 61.7,
+        "destination": "MIA",
+        "consignee": "Potts Pacific Corp.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "125-95819011",
+        "pieces": 19,
+        "weight": 79.7,
+        "destination": "NRT",
+        "consignee": "Thompson Pacific LLC",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "085-76516708",
+        "pieces": 8,
+        "weight": 20.8,
+        "destination": "JFK",
+        "consignee": "West Global Inc.",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

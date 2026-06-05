@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0548",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210803535921",
+    "export_date": "2026-02-04",
+    "aes_option": "AES Filing",
+    "usppi_name": "Trade Cruz B.V.",
+    "usppi_ein": "74-9360235",
+    "usppi_address": "083 Marissa Port Apt. 713, East Richard, LA 15691, South Korea",
+    "ultimate_consignee": "Yang Global GmbH",
+    "intermediate_consignee": "Tech Fox S.A.",
+    "forwarding_agent": "Price Trade B.V.",
+    "destination_country": "Australia",
+    "carrier": "FedEx",
+    "bl_awb": "160-80443895",
+    "total_value": 218652.06,
+    "currency": "AED",
+    "signatory": "Alan Russell",
+    "line_items": [
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Italy",
+        "qty": 336,
+        "unit": "SET",
+        "entered_value": 60839.52,
+        "duty_rate": 17.7,
+        "duty_amount": 10768.6,
+        "eccn": "1A002",
+        "schedule_b": "8708.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Canada",
+        "qty": 281,
+        "unit": "PCS",
+        "entered_value": 125438.4,
+        "duty_rate": 10.0,
+        "duty_amount": 12543.84,
+        "eccn": "9A515",
+        "schedule_b": "9002.11.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Germany",
+        "qty": 59,
+        "unit": "PCS",
+        "entered_value": 14739.97,
+        "duty_rate": 3.5,
+        "duty_amount": 515.9,
+        "eccn": "0A919",
+        "schedule_b": "9401.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Netherlands",
+        "qty": 314,
+        "unit": "PKG",
+        "entered_value": 7237.7,
+        "duty_rate": 6.3,
+        "duty_amount": 455.98,
+        "eccn": "2B350",
+        "schedule_b": "4016.93.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 217,
+        "unit": "PCS",
+        "entered_value": 10396.47,
+        "duty_rate": 2.4,
+        "duty_amount": 249.52,
+        "eccn": "9A515",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

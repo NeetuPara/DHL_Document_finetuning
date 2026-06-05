@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0975",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Coleman Global AG",
+    "shipper_address": "152 Stephanie Oval Apt. 133, Craigmouth, OH 76438, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Forbes International LLC",
+    "consignee_address": "98304 Adams Grove, North Desireeport, IA 60088, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+2 831-889-3557",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 36,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 10.97,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-142881",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Susan Jones",
+    "signature_date": "2026-04-18",
+    "signature_place": "Sweden",
+    "awb_number": "057-10197114",
+    "flight_number": "QR2668",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "JFK",
+    "destination_airport_name": "JFK New York",
+    "non_dg_reason": "Lithium Ion Batteries \u2014 Section II (PI 967/Section II)"
+  }
+}

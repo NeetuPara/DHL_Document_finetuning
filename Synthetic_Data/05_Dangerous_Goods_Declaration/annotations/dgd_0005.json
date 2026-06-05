@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0005",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Friedman B.V.",
+    "shipper_address": "15993 Angelica Turnpike, North Erintown, MN 94704, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Bryant Global Co.",
+    "consignee_address": "7877 Amanda Canyon Apt. 933, East Josephside, PW 65783, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+19 814-112-9968",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 6,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 36.96,
+        "qty_unit": "L",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-954938",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Tara Nguyen",
+    "signature_date": "2026-04-22",
+    "signature_place": "Thailand",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "899W",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Rotterdam, NL"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0689",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Teresa Jennings",
+    "addressee_company": "Valencia Industry GmbH",
+    "addressee_address": "Unit 5350 Box 9154, DPO AE 99363, United Kingdom",
+    "addressee_country": "United Kingdom",
+    "total_weight_kg": 15.234,
+    "total_value": 2727.65,
+    "currency": "GBP",
+    "issue_date": "2026-03-27",
+    "reference": "REF-636805",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.114,
+        "value": 730.56,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 7,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.721,
+        "value": 229.39,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 16,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.732,
+        "value": 1514.08,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 11,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.258,
+        "value": 241.78,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 1,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.409,
+        "value": 11.84,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_name": "Lisa Jones",
+    "sender_company": "Church Trade Ltd",
+    "sender_address": "40781 Beth Centers, Port Alyssabury, WV 68745, Germany",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 7.81,
+    "tracking_number": "RT187697942UR"
+  }
+}

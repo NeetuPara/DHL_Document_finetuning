@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0256",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202503-1500",
+    "usppi_name": "Gonzalez Tech AG",
+    "usppi_address": "59811 John Gateway, Hallmouth, TX 39993, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "90-5450560",
+    "consignee_name": "Wood Industry Pte Ltd",
+    "consignee_address": "050 Jackson Neck Apt. 307, Sandovalton, SD 72741, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Bass Global LLC",
+    "forwarder": "Panalpina",
+    "incoterm": "CIP",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Taylor Burke",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/2",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 136,
+        "unit": "PKG",
+        "weight_kg": 339.91,
+        "value_usd": 9381.18
+      },
+      {
+        "marks": "ABC/20",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 118,
+        "unit": "PCS",
+        "weight_kg": 56.75,
+        "value_usd": 16367.22
+      },
+      {
+        "marks": "SLI/28",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 185,
+        "unit": "MTR",
+        "weight_kg": 211.5,
+        "value_usd": 2259.28
+      }
+    ],
+    "total_weight_kg": 608.16,
+    "total_value_usd": 28007.68,
+    "service": "Air Freight",
+    "named_port": "Miami International",
+    "insurance_value_usd": 34164.58,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-832760",
+    "destination_country": "Singapore"
+  }
+}

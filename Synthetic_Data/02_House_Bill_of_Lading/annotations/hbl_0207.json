@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0207",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU451716015",
+    "shipper_name": "International Evans Ltd",
+    "shipper_address": "5721 Mason Hill, Aaronshire, IA 10946, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Avery Tech Ltd",
+    "consignee_address": "7774 Oconnell Bridge Suite 348, East Jonathan, VA 50573, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party_name": "Preston Pacific B.V.",
+    "notify_party_address": "137 Paul Courts, New John, AS 12651, Poland",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "326S",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2025-05-18",
+    "issue_place": "New York",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "TZJU2581897",
+        "seal_no": "BL748405",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "TSCJ4227476",
+        "seal_no": "CL819521",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 297,
+    "package_type": "Drum",
+    "gross_weight_kg": 18439.5,
+    "net_weight_kg": 17494.0,
+    "cbm": 23.792,
+    "marks_and_numbers": "XYZ/22"
+  }
+}

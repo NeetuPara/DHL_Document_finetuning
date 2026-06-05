@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0459",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Williams International LLC",
+    "shipper_address": "PSC 1537, Box 7369, APO AA 42197, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Industry Barrett Corp.",
+    "consignee_address": "96895 Renee Drive, Port Erinstad, ND 79405, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+35 604-761-9848",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 34,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 56.9,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 31,
+        "pkg_type": "Steel Drum",
+        "net_qty": 50.76,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-478874",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Dawn Burns",
+    "signature_date": "2026-05-05",
+    "signature_place": "Netherlands",
+    "awb_number": "125-97364398",
+    "flight_number": "EK4968",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "SYD",
+    "destination_airport_name": "Sydney Kingsford Smith",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

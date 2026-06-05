@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0741",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-96539839",
+    "mawb_number": "020-95081508",
+    "shipper_name": "Pacific Miller Pte Ltd",
+    "shipper_address": "288 Ian Cape, Port David, NV 37028, Singapore",
+    "consignee_name": "International Sandoval Ltd",
+    "consignee_address": "7770 Hardy Brooks, North Rachael, OK 96690, South Korea",
+    "agent_name": "Trade Barr Ltd",
+    "airport_departure": "AMS",
+    "airport_destination": "LAX",
+    "currency": "USD",
+    "charge_code": "CC",
+    "declared_value_carriage": "JPY 13,268.29",
+    "declared_value_customs": "NCV",
+    "n_pieces": 11,
+    "gross_weight_kg": 32.8,
+    "chargeable_weight": 36.0,
+    "rate": 3.41,
+    "total_charge": 122.76,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-09-15",
+    "signatory": "Jonathan Arnold",
+    "iata_code": "33-605",
+    "agent_cass": "9348-5878",
+    "consolidation_ref": "CONS-7516-554669",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-12072381",
+        "pieces": 7,
+        "weight": 73.0,
+        "destination": "MIA",
+        "consignee": "Rosales Trade AG",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "618-56263982",
+        "pieces": 8,
+        "weight": 8.7,
+        "destination": "JFK",
+        "consignee": "Holder Pacific B.V.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "618-87563095",
+        "pieces": 14,
+        "weight": 43.7,
+        "destination": "CDG",
+        "consignee": "Commerce Johnson Corp.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "045-49135692",
+        "pieces": 8,
+        "weight": 20.8,
+        "destination": "HKG",
+        "consignee": "Tech Gardner S.A.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "057-73498030",
+        "pieces": 18,
+        "weight": 68.0,
+        "destination": "LHR",
+        "consignee": "Espinoza Pacific Inc.",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

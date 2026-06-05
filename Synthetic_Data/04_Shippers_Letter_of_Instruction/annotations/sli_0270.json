@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0270",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202310-8127",
+    "usppi_name": "Hill Tech Ltd",
+    "usppi_address": "7507 Brown Creek, East Daniel, SD 58518, Italy",
+    "usppi_country": "Italy",
+    "ein": "20-6844375",
+    "consignee_name": "Johnson Pacific AG",
+    "consignee_address": "4879 Harper Dam Apt. 347, Parkstad, CT 02512, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Trade Bryant Inc.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DAP",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Jeffrey Duke",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/49",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 136,
+        "unit": "PCS",
+        "weight_kg": 1825.52,
+        "value_usd": 103465.61
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 128,
+        "unit": "PCS",
+        "weight_kg": 58.49,
+        "value_usd": 86441.88
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 191,
+        "unit": "KGS",
+        "weight_kg": 191.0,
+        "value_usd": 1300.53
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 99,
+        "unit": "KGS",
+        "weight_kg": 99.0,
+        "value_usd": 184.43
+      },
+      {
+        "marks": "EXP/16",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 105,
+        "unit": "PKG",
+        "weight_kg": 264.09,
+        "value_usd": 6717.1
+      },
+      {
+        "marks": "SLI/6",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 13,
+        "unit": "CTN",
+        "weight_kg": 29.39,
+        "value_usd": 107.92
+      },
+      {
+        "marks": "SLI/37",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 90,
+        "unit": "PCS",
+        "weight_kg": 9.28,
+        "value_usd": 2466.29
+      },
+      {
+        "marks": "SLI/27",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 193,
+        "unit": "LTR",
+        "weight_kg": 211.37,
+        "value_usd": 950.87
+      }
+    ],
+    "total_weight_kg": 2688.14,
+    "total_value_usd": 201634.63,
+    "vessel": "ONE INNOVATION",
+    "voyage": "263W",
+    "booking_ref": "BKG-403322",
+    "bl_number": "DHLG835032964",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Felixstowe, GB",
+    "container_number": "ZKJM2890543",
+    "seal_number": "BL552173",
+    "container_type": "40'GP",
+    "cbm": 41.902
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0451",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202301-6295",
+    "usppi_name": "Trade Cervantes Co.",
+    "usppi_address": "733 Christopher Port, Jennifertown, PA 91347, Poland",
+    "usppi_country": "Poland",
+    "ein": "94-9238095",
+    "consignee_name": "Pacific Jones B.V.",
+    "consignee_address": "55367 Moore Spur, Kyleport, PW 48639, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Industry Taylor S.A.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Valerie Wilson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/46",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 125,
+        "unit": "PKG",
+        "weight_kg": 51.38,
+        "value_usd": 8399.87
+      },
+      {
+        "marks": "EXP/10",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 27,
+        "unit": "PCS",
+        "weight_kg": 33.63,
+        "value_usd": 265.56
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 122,
+        "unit": "KGS",
+        "weight_kg": 122.0,
+        "value_usd": 1862.37
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 66,
+        "unit": "PCS",
+        "weight_kg": 445.25,
+        "value_usd": 25609.5
+      }
+    ],
+    "total_weight_kg": 652.26,
+    "total_value_usd": 36137.3,
+    "service": "Ground",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 45567.47,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-575398",
+    "destination_country": "United Kingdom"
+  }
+}

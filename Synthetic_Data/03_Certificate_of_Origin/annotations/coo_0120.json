@@ -1,0 +1,69 @@
+{
+  "document_id": "coo_0120",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202309-4337",
+    "exporter_name": "Monroe Trade AG",
+    "exporter_address": "043 Jones Glens, Martinezport, MO 57083, China",
+    "exporter_country": "China",
+    "consignee_name": "Commerce Cook LLC",
+    "consignee_address": "57766 Leonard Harbor Suite 144, Morrisburgh, WA 34772, Netherlands",
+    "consignee_country": "Netherlands",
+    "country_of_origin": "China",
+    "country_of_destination": "Netherlands",
+    "bl_or_awb": "MAEU960951783",
+    "issue_date": "2025-08-07",
+    "certifier_name": "Tamara Boyd",
+    "goods": [
+      {
+        "description": "Steel Products - Hot Rolled Coils",
+        "hs_code": "7208.37.00",
+        "qty": 318,
+        "unit": "KGS",
+        "weight_kg": 318.0,
+        "origin_criterion": "A",
+        "value": 197.27
+      },
+      {
+        "description": "Paper Products - Packaging Cartons",
+        "hs_code": "4819.10.00",
+        "qty": 237,
+        "unit": "CTN",
+        "weight_kg": 338.16,
+        "origin_criterion": "B",
+        "value": 1409.37
+      },
+      {
+        "description": "Textile Fabrics - Woven Polyester",
+        "hs_code": "5407.42.00",
+        "qty": 311,
+        "unit": "MTR",
+        "weight_kg": 182.04,
+        "origin_criterion": "A",
+        "value": 4506.62
+      },
+      {
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "hs_code": "8483.40.00",
+        "qty": 399,
+        "unit": "PCS",
+        "weight_kg": 4507.36,
+        "origin_criterion": "F",
+        "value": 115441.41
+      },
+      {
+        "description": "Electronic Components - Printed Circuit Boards",
+        "hs_code": "8534.00.00",
+        "qty": 261,
+        "unit": "PCS",
+        "weight_kg": 47.27,
+        "origin_criterion": "F",
+        "value": 31733.33
+      }
+    ],
+    "fta_agreement": "RCEP",
+    "chamber": "Chamber of Commerce"
+  }
+}

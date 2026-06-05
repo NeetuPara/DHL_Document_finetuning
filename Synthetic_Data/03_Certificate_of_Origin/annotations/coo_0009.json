@@ -1,0 +1,42 @@
+{
+  "document_id": "coo_0009",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202409-4008",
+    "exporter_name": "Industry Gomez S.A.",
+    "exporter_address": "USNS Owens, FPO AP 81545, Germany",
+    "exporter_country": "Germany",
+    "consignee_name": "Trade Galvan LLC",
+    "consignee_address": "492 Maria Ridges Suite 946, Matthewview, ND 27511, Spain",
+    "consignee_country": "Spain",
+    "country_of_origin": "Germany",
+    "country_of_destination": "Spain",
+    "bl_or_awb": "COSU478656730",
+    "issue_date": "2024-09-15",
+    "certifier_name": "Joshua Strickland",
+    "goods": [
+      {
+        "description": "Paper Products - Packaging Cartons",
+        "hs_code": "4819.10.00",
+        "qty": 382,
+        "unit": "CTN",
+        "weight_kg": 256.89,
+        "origin_criterion": "F",
+        "value": 3797.82
+      },
+      {
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "hs_code": "8518.30.00",
+        "qty": 168,
+        "unit": "PCS",
+        "weight_kg": 17.65,
+        "origin_criterion": "F",
+        "value": 13942.0
+      }
+    ],
+    "fta_agreement": "EU-Japan EPA",
+    "chamber": "Board of Trade"
+  }
+}

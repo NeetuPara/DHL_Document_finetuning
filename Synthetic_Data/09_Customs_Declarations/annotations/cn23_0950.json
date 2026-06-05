@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0950",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Amanda Young",
+    "addressee_company": "George Tech Inc.",
+    "addressee_address": "63847 Farley Hollow, East Michael, MS 04293, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 8.983,
+    "total_value": 4444.56,
+    "currency": "JPY",
+    "issue_date": "2026-01-03",
+    "reference": "REF-127128",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.82,
+        "value": 2360.16,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 9,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.924,
+        "value": 1247.85,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 11,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.239,
+        "value": 836.55,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "Leroy Grimes",
+    "sender_company": "Global Parks Ltd",
+    "sender_address": "404 Tanya Shore Apt. 823, New Jordan, ME 70027, Sweden",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 66.04,
+    "tracking_number": "AX290442455MS"
+  }
+}

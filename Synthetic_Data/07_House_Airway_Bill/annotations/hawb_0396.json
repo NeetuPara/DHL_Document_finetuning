@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0396",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-95603657",
+    "mawb_number": "618-80084585",
+    "shipper_name": "Industry Casey Inc.",
+    "shipper_address": "270 Campbell Cape Apt. 551, Velazquezfurt, IA 45599, Hong Kong",
+    "consignee_name": "Simpson Commerce AG",
+    "consignee_address": "8373 Hill Forges, Lindseyberg, DE 56291, Japan",
+    "agent_name": "Williamson Tech LLC",
+    "airport_departure": "SYD",
+    "airport_destination": "CDG",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "AUD 49,633.19",
+    "declared_value_customs": "NCV",
+    "n_pieces": 44,
+    "gross_weight_kg": 111.6,
+    "chargeable_weight": 112.5,
+    "rate": 5.81,
+    "total_charge": 653.62,
+    "nature_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-09-13",
+    "signatory": "Victoria Harris",
+    "iata_code": "85-613",
+    "agent_cass": "2456-7763",
+    "consolidation_ref": "CONS-5981-556977",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-45539836",
+        "pieces": 8,
+        "weight": 55.1,
+        "destination": "LHR",
+        "consignee": "Pacific Parker Co.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "176-50604061",
+        "pieces": 15,
+        "weight": 59.0,
+        "destination": "JFK",
+        "consignee": "Trade Morris Co.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "085-79208650",
+        "pieces": 8,
+        "weight": 14.0,
+        "destination": "CDG",
+        "consignee": "Page Commerce Co.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "074-61906972",
+        "pieces": 19,
+        "weight": 25.7,
+        "destination": "NRT",
+        "consignee": "Global Evans S.A.",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0412",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202011-3332",
+    "usppi_name": "Tech Johnson GmbH",
+    "usppi_address": "47345 Farley Fort Suite 373, Angelastad, WY 44249, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "64-6836327",
+    "consignee_name": "Commerce Lewis Inc.",
+    "consignee_address": "PSC 8479, Box 5025, APO AA 75135, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Fritz Commerce Pte Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "EAR99",
+    "signatory_name": "James Velasquez",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/8",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 42,
+        "unit": "LTR",
+        "weight_kg": 40.79,
+        "value_usd": 1181.24
+      },
+      {
+        "marks": "ABC/25",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 45,
+        "unit": "PCS",
+        "weight_kg": 427.42,
+        "value_usd": 14222.14
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 127,
+        "unit": "MTR",
+        "weight_kg": 39.59,
+        "value_usd": 1631.86
+      },
+      {
+        "marks": "EXP/10",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 61,
+        "unit": "KGS",
+        "weight_kg": 61.0,
+        "value_usd": 593.59
+      },
+      {
+        "marks": "SLI/18",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 170,
+        "unit": "PKG",
+        "weight_kg": 504.69,
+        "value_usd": 13578.19
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 42,
+        "unit": "PCS",
+        "weight_kg": 18.09,
+        "value_usd": 10173.82
+      }
+    ],
+    "total_weight_kg": 1091.58,
+    "total_value_usd": 41380.84,
+    "service": "Ocean Freight",
+    "named_port": "Rotterdam, NL",
+    "insurance_value_usd": 3973.13,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-963273",
+    "destination_country": "Australia"
+  }
+}

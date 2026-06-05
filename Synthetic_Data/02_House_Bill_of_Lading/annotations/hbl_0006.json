@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0006",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU876759239",
+    "shipper_name": "Global Baker LLC",
+    "shipper_address": "863 Brandon Extensions Apt. 410, Susanville, LA 27027, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Barrera International AG",
+    "consignee_address": "99964 Eric Island Suite 425, Gardnerchester, ID 48398, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party_name": "Pacific Hill Ltd",
+    "notify_party_address": "71822 Mcintyre Haven, New Stephanie, KY 43699, Germany",
+    "vessel": "EVER GOLDEN",
+    "voyage": "153N",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2025-05-14",
+    "issue_place": "Qingdao",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "GRJL7223741",
+        "seal_no": "SL959954",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "ACZB5561222",
+        "seal_no": "SL901522",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "VSMS0831376",
+        "seal_no": "CL696774",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 119,
+    "package_type": "Case",
+    "gross_weight_kg": 15556.6,
+    "net_weight_kg": 14915.9,
+    "cbm": 7.568,
+    "marks_and_numbers": "XYZ/33"
+  }
+}

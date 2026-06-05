@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0854",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202402-8499",
+    "usppi_name": "Tech Harris AG",
+    "usppi_address": "4545 Thomas Mountain Suite 209, South Gavin, DE 40900, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "60-8393177",
+    "consignee_name": "Archer Tech GmbH",
+    "consignee_address": "233 Danny Inlet Apt. 484, New Jenniferberg, RI 18701, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Global Cisneros LLC",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Monique Kennedy",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/26",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 164,
+        "unit": "KGS",
+        "weight_kg": 164.0,
+        "value_usd": 3302.78
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 103,
+        "unit": "PCS",
+        "weight_kg": 18.92,
+        "value_usd": 16833.18
+      },
+      {
+        "marks": "SLI/9",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 105,
+        "unit": "PCS",
+        "weight_kg": 1232.98,
+        "value_usd": 43678.27
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 81,
+        "unit": "KGS",
+        "weight_kg": 81.0,
+        "value_usd": 140.82
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 47,
+        "unit": "PCS",
+        "weight_kg": 46.18,
+        "value_usd": 39025.37
+      }
+    ],
+    "total_weight_kg": 1543.08,
+    "total_value_usd": 102980.42,
+    "service": "Air Freight",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 9732.54,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-107215",
+    "destination_country": "Italy"
+  }
+}

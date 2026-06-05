@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0672",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Reginald Allen",
+    "addressee_company": "King Tech Corp.",
+    "addressee_address": "423 Becker Isle Apt. 773, Kevintown, CT 42610, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 5.809,
+    "total_value": 1114.08,
+    "currency": "CHF",
+    "issue_date": "2026-05-13",
+    "reference": "REF-500769",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.12,
+        "value": 420.88,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 5,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.689,
+        "value": 693.2,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_country": "India",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "640-80072279-9",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 18.0,
+    "estimated_duty": 200.53,
+    "importer_ein": "41-9505293",
+    "customs_broker": "Dixon Tech AG"
+  }
+}

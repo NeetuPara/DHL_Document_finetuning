@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0252",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU822617523",
+    "shipper_name": "Garcia Industry AG",
+    "shipper_address": "18155 Julie Passage Apt. 073, Jonesfort, WA 04212, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Walker Tech Inc.",
+    "consignee_address": "Unit 4620 Box 8364, DPO AA 97136, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party_name": "Tech Terry Inc.",
+    "notify_party_address": "8547 Petersen Union, Thomasview, UT 68810, Thailand",
+    "vessel": "ONE INNOVATION",
+    "voyage": "549S",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2025-01-07",
+    "issue_place": "Hamburg",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "YXWL4396837",
+        "seal_no": "CL543581",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "HTLO8738911",
+        "seal_no": "SL600879",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "IQYP6355614",
+        "seal_no": "SL885360",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "TCSW1454706",
+        "seal_no": "CL979052",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 216,
+    "package_type": "Bag",
+    "gross_weight_kg": 12290.7,
+    "net_weight_kg": 11189.6,
+    "cbm": 23.575,
+    "marks_and_numbers": "GLB/11"
+  }
+}

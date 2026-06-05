@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0092",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202204-3239",
+    "usppi_name": "Waller Global Inc.",
+    "usppi_address": "8458 Hernandez Island, Jameston, VI 39526, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "55-9506273",
+    "consignee_name": "Trade Jones LLC",
+    "consignee_address": "572 Debra Crest, Port Seanfort, IN 16998, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Global Myers B.V.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Ashley Friedman",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/7",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 74,
+        "unit": "PCS",
+        "weight_kg": 93.95,
+        "value_usd": 20193.78
+      },
+      {
+        "marks": "ABC/26",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 129,
+        "unit": "PCS",
+        "weight_kg": 516.01,
+        "value_usd": 20615.71
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 133,
+        "unit": "KGS",
+        "weight_kg": 133.0,
+        "value_usd": 2195.65
+      }
+    ],
+    "total_weight_kg": 742.96,
+    "total_value_usd": 43005.14,
+    "service": "Ocean Freight",
+    "named_port": "Long Beach, US",
+    "insurance_value_usd": 28160.3,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-246770",
+    "destination_country": "Brazil"
+  }
+}

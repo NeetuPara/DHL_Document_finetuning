@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0333",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-30474631",
+    "mawb_number": "125-58578440",
+    "shipper_name": "Russell Global S.A.",
+    "shipper_address": "6611 Cassandra Glens Apt. 796, Camerontown, IL 28535, United States",
+    "consignee_name": "Peterson Global Pte Ltd",
+    "consignee_address": "69506 Simpson Crossing, New Lauren, MT 47965, China",
+    "agent_name": "Rivera Industry Ltd",
+    "airport_departure": "MIA",
+    "airport_destination": "PVG",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "SGD 39,955.83",
+    "declared_value_customs": "CNY 38,611.98",
+    "n_pieces": 45,
+    "gross_weight_kg": 104.1,
+    "chargeable_weight": 133.9,
+    "rate": 7.64,
+    "total_charge": 1023.0,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "TEMP CONTROLLED: 7\u00b0C - 24\u00b0C",
+    "issue_date": "2025-05-13",
+    "signatory": "Victor Reed",
+    "iata_code": "83-269",
+    "agent_cass": "3616-8704",
+    "consolidation_ref": "CONS-3989-182548",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-89141324",
+        "pieces": 1,
+        "weight": 2.3,
+        "destination": "JFK",
+        "consignee": "Global Steele Corp.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "057-83952503",
+        "pieces": 18,
+        "weight": 16.8,
+        "destination": "SIN",
+        "consignee": "Wilson Commerce AG",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "160-62907158",
+        "pieces": 19,
+        "weight": 4.9,
+        "destination": "JFK",
+        "consignee": "Washington Tech AG",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "085-29159718",
+        "pieces": 16,
+        "weight": 11.4,
+        "destination": "NRT",
+        "consignee": "Wilkinson Pacific AG",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "618-49457021",
+        "pieces": 17,
+        "weight": 57.8,
+        "destination": "AMS",
+        "consignee": "Tech Moore S.A.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "074-50359655",
+        "pieces": 2,
+        "weight": 78.9,
+        "destination": "AMS",
+        "consignee": "Trade Roberson B.V.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "160-72668013",
+        "pieces": 18,
+        "weight": 39.3,
+        "destination": "NRT",
+        "consignee": "Pacific Fisher AG",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "006-89400488",
+        "pieces": 2,
+        "weight": 41.6,
+        "destination": "AMS",
+        "consignee": "Mendoza Commerce AG",
+        "description": "Optical Equipment - Camera Lenses"
+      }
+    ]
+  }
+}

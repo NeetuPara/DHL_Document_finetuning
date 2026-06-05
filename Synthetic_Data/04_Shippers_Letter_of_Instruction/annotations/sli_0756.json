@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0756",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202005-8357",
+    "usppi_name": "Mann Commerce Inc.",
+    "usppi_address": "366 Macias Causeway, Lake Amanda, KS 09865, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "39-5891227",
+    "consignee_name": "Armstrong Pacific Pte Ltd",
+    "consignee_address": "702 Young Mall Suite 073, Lake Tina, NY 04546, United States",
+    "consignee_country": "United States",
+    "notify_party": "Mitchell International Pte Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CFR",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Jessica Hernandez",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/39",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 107,
+        "unit": "SET",
+        "weight_kg": 139.21,
+        "value_usd": 5614.56
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 140,
+        "unit": "PCS",
+        "weight_kg": 22.15,
+        "value_usd": 16915.58
+      },
+      {
+        "marks": "ABC/49",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 159,
+        "unit": "PCS",
+        "weight_kg": 140.82,
+        "value_usd": 3653.28
+      }
+    ],
+    "total_weight_kg": 302.18,
+    "total_value_usd": 26183.42,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "102S",
+    "booking_ref": "BKG-149761",
+    "bl_number": "COSU362487435",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Tokyo, JP",
+    "container_number": "ZWLI8802795",
+    "seal_number": "CL753373",
+    "container_type": "40'HC",
+    "cbm": 26.975
+  }
+}

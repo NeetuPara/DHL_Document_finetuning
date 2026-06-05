@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0516",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202412-6547",
+    "usppi_name": "Soto International LLC",
+    "usppi_address": "564 Michelle Land, Jessicahaven, TN 83208, United Kingdom",
+    "usppi_country": "United Kingdom",
+    "ein": "93-3031841",
+    "consignee_name": "Global Williams LLC",
+    "consignee_address": "250 George Square Apt. 778, West Morganport, DC 75370, India",
+    "consignee_country": "India",
+    "notify_party": "Commerce Reese LLC",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Elizabeth Simon",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/4",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 5,
+        "unit": "BOX",
+        "weight_kg": 8.63,
+        "value_usd": 471.39
+      },
+      {
+        "marks": "ABC/11",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 136,
+        "unit": "KGS",
+        "weight_kg": 136.0,
+        "value_usd": 1019.12
+      },
+      {
+        "marks": "ABC/2",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 73,
+        "unit": "KGS",
+        "weight_kg": 73.0,
+        "value_usd": 102.97
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 24,
+        "unit": "CTN",
+        "weight_kg": 13.0,
+        "value_usd": 175.96
+      }
+    ],
+    "total_weight_kg": 230.63,
+    "total_value_usd": 1769.44,
+    "vessel": "MADRID MAERSK",
+    "voyage": "933N",
+    "booking_ref": "BKG-771783",
+    "bl_number": "COSU990042678",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "VQCC4953242",
+    "seal_number": "BL535679",
+    "container_type": "40'GP",
+    "cbm": 12.777
+  }
+}

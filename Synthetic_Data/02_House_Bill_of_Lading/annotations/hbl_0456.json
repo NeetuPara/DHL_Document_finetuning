@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0456",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU481036717",
+    "shipper_name": "Miller International Ltd",
+    "shipper_address": "37704 Lee Forges Apt. 355, South William, MS 02278, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Pacific Stone Ltd",
+    "consignee_address": "2445 Logan Branch, South Michaelburgh, MO 90938, India",
+    "consignee_country": "India",
+    "notify_party_name": "Cook Tech Pte Ltd",
+    "notify_party_address": "8675 Michele Fort, Lake John, WA 81528, India",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "680N",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2024-11-24",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "XUON7133357",
+        "seal_no": "BL605354",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "YHXU0738520",
+        "seal_no": "SL594902",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "PJLG4515710",
+        "seal_no": "BL299183",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 197,
+    "package_type": "Case",
+    "gross_weight_kg": 12302.1,
+    "net_weight_kg": 11891.7,
+    "cbm": 7.957,
+    "marks_and_numbers": "XYZ/17"
+  }
+}

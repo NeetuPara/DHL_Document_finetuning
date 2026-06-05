@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0398",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202007-5607",
+    "usppi_name": "Williams Trade GmbH",
+    "usppi_address": "71061 Justin Trail, Phillipland, VA 01885, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "88-3702906",
+    "consignee_name": "Vasquez Industry B.V.",
+    "consignee_address": "38105 Ward Way, Henryshire, KS 16821, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Zhang Global B.V.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Noah Nelson",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/34",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 13,
+        "unit": "PCS",
+        "weight_kg": 143.43,
+        "value_usd": 2029.78
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 122,
+        "unit": "CTN",
+        "weight_kg": 258.46,
+        "value_usd": 6610.75
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 189,
+        "unit": "CTN",
+        "weight_kg": 248.84,
+        "value_usd": 1710.4
+      }
+    ],
+    "total_weight_kg": 650.73,
+    "total_value_usd": 10350.93,
+    "service": "Ocean Freight",
+    "named_port": "Los Angeles, US",
+    "insurance_value_usd": 9205.97,
+    "license_type": "Distributor License",
+    "license_number": "LIC-283293",
+    "destination_country": "Germany"
+  }
+}

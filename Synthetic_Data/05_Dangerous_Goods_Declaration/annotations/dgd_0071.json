@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0071",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Williams Co.",
+    "shipper_address": "05549 Michele Coves, East Melissaborough, LA 47102, France",
+    "shipper_country": "France",
+    "consignee_name": "Commerce Manning Co.",
+    "consignee_address": "140 Christensen Cliffs, West Caroline, MT 35557, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+55 262-209-3469",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 4,
+        "pkg_type": "Steel Drum",
+        "net_qty": 81.16,
+        "qty_unit": "mL",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Mary Meyers",
+    "signature_date": "2026-05-04",
+    "signature_place": "France",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "207N",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Shanghai, CN"
+  }
+}

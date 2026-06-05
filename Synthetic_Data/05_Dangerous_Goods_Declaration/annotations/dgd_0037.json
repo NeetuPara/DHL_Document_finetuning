@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0037",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Moreno Trade B.V.",
+    "shipper_address": "50360 Wilson Crest, New Elizabethland, VA 03559, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Pacific Adams S.A.",
+    "consignee_address": "5513 Bell Turnpike Apt. 887, Candaceland, AZ 18522, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+53 766-185-6223",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 16,
+        "pkg_type": "Steel Drum",
+        "net_qty": 50.83,
+        "qty_unit": "L",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jerry Williams",
+    "signature_date": "2026-05-08",
+    "signature_place": "United States",
+    "awb_number": "085-77265066",
+    "flight_number": "SQ7658",
+    "flight_date": "2026-04-15",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "HKG",
+    "destination_airport_name": "Hong Kong International"
+  }
+}

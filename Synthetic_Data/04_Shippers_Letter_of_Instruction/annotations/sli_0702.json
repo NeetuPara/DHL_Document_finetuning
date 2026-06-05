@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0702",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202304-4642",
+    "usppi_name": "Mora Trade Co.",
+    "usppi_address": "0892 Kristin Unions Suite 004, North Joseph, NM 55145, China",
+    "usppi_country": "China",
+    "ein": "56-3228799",
+    "consignee_name": "Boone Commerce AG",
+    "consignee_address": "73785 Sandra Canyon Apt. 682, Richville, AS 95062, France",
+    "consignee_country": "France",
+    "notify_party": "Pacific Hoffman Inc.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Amy Moore",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/40",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 101,
+        "unit": "CTN",
+        "weight_kg": 474.92,
+        "value_usd": 1561.98
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 121,
+        "unit": "KGS",
+        "weight_kg": 121.0,
+        "value_usd": 271.78
+      },
+      {
+        "marks": "EXP/16",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 83,
+        "unit": "KGS",
+        "weight_kg": 83.0,
+        "value_usd": 1537.13
+      },
+      {
+        "marks": "EXP/49",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 79,
+        "unit": "SET",
+        "weight_kg": 299.86,
+        "value_usd": 14032.31
+      },
+      {
+        "marks": "SLI/7",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 73,
+        "unit": "PCS",
+        "weight_kg": 18.63,
+        "value_usd": 55143.87
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 124,
+        "unit": "PCS",
+        "weight_kg": 846.33,
+        "value_usd": 93078.78
+      },
+      {
+        "marks": "ABC/46",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 174,
+        "unit": "LTR",
+        "weight_kg": 175.76,
+        "value_usd": 2556.69
+      }
+    ],
+    "total_weight_kg": 2019.5,
+    "total_value_usd": 168182.54,
+    "vessel": "MSC OSCAR",
+    "voyage": "122N",
+    "booking_ref": "BKG-532921",
+    "bl_number": "EGLV829899129",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Dubai, AE",
+    "container_number": "UPSH6897585",
+    "seal_number": "BL412032",
+    "container_type": "40'GP",
+    "cbm": 25.988
+  }
+}

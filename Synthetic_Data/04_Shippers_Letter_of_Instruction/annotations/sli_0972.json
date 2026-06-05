@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0972",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202312-7412",
+    "usppi_name": "Barker Industry Corp.",
+    "usppi_address": "1887 Crystal Plains Suite 457, Stanleyburgh, TX 96947, Canada",
+    "usppi_country": "Canada",
+    "ein": "65-9173132",
+    "consignee_name": "Pacific Stewart Inc.",
+    "consignee_address": "34546 Steven Estate, Port Edward, AR 96111, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "International Carpenter Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "EXW",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Tony Brown",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/6",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 75,
+        "unit": "CTN",
+        "weight_kg": 200.13,
+        "value_usd": 2136.07
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 141,
+        "unit": "PCS",
+        "weight_kg": 2667.54,
+        "value_usd": 46597.19
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 33,
+        "unit": "BOX",
+        "weight_kg": 45.25,
+        "value_usd": 3819.13
+      }
+    ],
+    "total_weight_kg": 2912.92,
+    "total_value_usd": 52552.39,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "341S",
+    "booking_ref": "BKG-812062",
+    "bl_number": "YMLU546430024",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Rotterdam, NL",
+    "container_number": "ETPS1558322",
+    "seal_number": "BL815307",
+    "container_type": "40'HC",
+    "cbm": 14.651
+  }
+}

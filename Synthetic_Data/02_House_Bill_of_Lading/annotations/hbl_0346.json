@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0346",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU851027425",
+    "shipper_name": "Franklin Trade Pte Ltd",
+    "shipper_address": "663 Sandra Junction Suite 888, Lake Angela, NE 28604, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Pacific Small S.A.",
+    "consignee_address": "4505 Phillip Row, Moniqueview, AR 86119, Italy",
+    "consignee_country": "Italy",
+    "notify_party_name": "Trade Gomez Inc.",
+    "notify_party_address": "7089 Roberts Dale Suite 347, South Robertborough, NE 45768, France",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "402E",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2025-10-13",
+    "issue_place": "Tokyo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "ZSKE3725626",
+        "seal_no": "BL864408",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "ALBH2787906",
+        "seal_no": "BL516500",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "DHMS7973832",
+        "seal_no": "BL737310",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "FSJX8168839",
+        "seal_no": "BL647205",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 15,
+    "package_type": "Pallet",
+    "gross_weight_kg": 7149.2,
+    "net_weight_kg": 6917.2,
+    "cbm": 0.498,
+    "marks_and_numbers": "GLB/17"
+  }
+}

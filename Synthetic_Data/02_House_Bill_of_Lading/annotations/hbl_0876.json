@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0876",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU387435713",
+    "shipper_name": "Pacific Smith Inc.",
+    "shipper_address": "2938 Reyes Field Apt. 116, Jacquelinechester, SD 75456, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Sanders International Pte Ltd",
+    "consignee_address": "3237 Johnson Village, Martineztown, MO 73008, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party_name": "Rojas Tech LLC",
+    "notify_party_address": "127 Allen Point, New Andrew, DC 44037, Thailand",
+    "vessel": "PIL PACIFIC",
+    "voyage": "625E",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2025-04-29",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "FCID2022552",
+        "seal_no": "BL928189",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "WTMS5061837",
+        "seal_no": "CL596924",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 304,
+    "package_type": "Crate",
+    "gross_weight_kg": 5571.5,
+    "net_weight_kg": 5092.9,
+    "cbm": 25.445,
+    "marks_and_numbers": "GLB/48"
+  }
+}

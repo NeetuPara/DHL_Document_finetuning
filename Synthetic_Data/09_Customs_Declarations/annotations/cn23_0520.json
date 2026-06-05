@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0520",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jessica Davis",
+    "addressee_company": "Trade Frazier Co.",
+    "addressee_address": "5849 Luna Ridge, Martinchester, IA 53506, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 5.197,
+    "total_value": 2226.15,
+    "currency": "USD",
+    "issue_date": "2026-04-25",
+    "reference": "REF-750587",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.199,
+        "value": 387.9,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 19,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.998,
+        "value": 1838.25,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Jason Hawkins",
+    "sender_company": "Tech Ward Pte Ltd",
+    "sender_address": "8315 Newton Canyon, North Angelafort, FL 15095, Japan",
+    "sender_phone": "549-812-2780",
+    "sender_email": "gnavarro@example.org",
+    "addressee_phone": "001-783-556-7008",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 59.23,
+    "tracking_number": "YC246787230ZQ"
+  }
+}

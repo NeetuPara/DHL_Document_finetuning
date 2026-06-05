@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0325",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "719-63444290-8",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2026-02-17",
+    "port_of_entry": "MIA - Miami",
+    "transport_mode": "Hand-Carried",
+    "carrier": "UPS",
+    "bl_awb": "176-86081177",
+    "importer_name": "Global Collins Ltd",
+    "importer_ein": "97-1612741",
+    "consignee_name": "International Barrera AG",
+    "customs_broker": "Ponce Commerce Corp.",
+    "broker_filer_code": "PLT",
+    "country_of_origin": "France",
+    "total_value": 102307.2,
+    "total_duty": 19479.6,
+    "currency": "CNY",
+    "signatory": "Earl Wright",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Italy",
+        "qty": 164,
+        "unit": "PCS",
+        "entered_value": 40867.16,
+        "duty_rate": 19.9,
+        "duty_amount": 8132.56,
+        "eccn": "5E992",
+        "schedule_b": "8518.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Mexico",
+        "qty": 106,
+        "unit": "BOX",
+        "entered_value": 38274.48,
+        "duty_rate": 20.6,
+        "duty_amount": 7884.54,
+        "eccn": "EAR99",
+        "schedule_b": "2936.90.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Brazil",
+        "qty": 86,
+        "unit": "PCS",
+        "entered_value": 4702.48,
+        "duty_rate": 6.1,
+        "duty_amount": 286.85,
+        "eccn": "9A515",
+        "schedule_b": "9002.11.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "China",
+        "qty": 318,
+        "unit": "KGS",
+        "entered_value": 18463.08,
+        "duty_rate": 17.2,
+        "duty_amount": 3175.65,
+        "eccn": "1A002",
+        "schedule_b": "2008.19.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

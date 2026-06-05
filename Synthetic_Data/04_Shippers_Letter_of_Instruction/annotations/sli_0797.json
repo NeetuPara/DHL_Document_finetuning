@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0797",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202505-6696",
+    "usppi_name": "Davis Commerce Co.",
+    "usppi_address": "6963 Paula Ranch, New Jacquelinefurt, OR 82668, Japan",
+    "usppi_country": "Japan",
+    "ein": "72-8396001",
+    "consignee_name": "Wilson Commerce S.A.",
+    "consignee_address": "7694 Alexander Ridge, East Rachel, NM 67579, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Tech Salazar Inc.",
+    "forwarder": "Panalpina",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "Tony Sanchez",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/26",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 88,
+        "unit": "PCS",
+        "weight_kg": 60.05,
+        "value_usd": 2110.22
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 131,
+        "unit": "PCS",
+        "weight_kg": 1623.05,
+        "value_usd": 41516.61
+      }
+    ],
+    "total_weight_kg": 1683.1,
+    "total_value_usd": 43626.83,
+    "service": "Ground",
+    "named_port": "Sydney Kingsford Smith",
+    "insurance_value_usd": 9362.58,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-122367",
+    "destination_country": "Hong Kong"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0336",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-90996821",
+    "mawb_number": "085-20784662",
+    "shipper_name": "Pacific King S.A.",
+    "shipper_address": "60282 Brandon Bridge, East Christine, NE 76471, Mexico",
+    "consignee_name": "International Webster Ltd",
+    "consignee_address": "55943 Michele Circle, Nicoleburgh, LA 33852, Germany",
+    "agent_name": "Global Serrano Inc.",
+    "airport_departure": "SYD",
+    "airport_destination": "JFK",
+    "currency": "EUR",
+    "charge_code": "PP",
+    "declared_value_carriage": "AED 5,096.92",
+    "declared_value_customs": "GBP 15,819.86",
+    "n_pieces": 30,
+    "gross_weight_kg": 75.4,
+    "chargeable_weight": 94.4,
+    "rate": 5.97,
+    "total_charge": 563.57,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "HANDLING CODE: EAP",
+    "issue_date": "2025-12-21",
+    "signatory": "Sherri Brown",
+    "iata_code": "80-688",
+    "agent_cass": "3948-8808",
+    "consolidation_ref": "CONS-0321-178018",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-89557482",
+        "pieces": 18,
+        "weight": 9.4,
+        "destination": "CDG",
+        "consignee": "Ward Commerce S.A.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "006-48144315",
+        "pieces": 10,
+        "weight": 83.8,
+        "destination": "SYD",
+        "consignee": "Carroll Trade Corp.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "057-34762023",
+        "pieces": 13,
+        "weight": 62.3,
+        "destination": "DXB",
+        "consignee": "Industry Jones LLC",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "045-58433125",
+        "pieces": 14,
+        "weight": 26.1,
+        "destination": "HKG",
+        "consignee": "Industry Perry Corp.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "085-85187239",
+        "pieces": 4,
+        "weight": 13.1,
+        "destination": "SIN",
+        "consignee": "Trade Young Co.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

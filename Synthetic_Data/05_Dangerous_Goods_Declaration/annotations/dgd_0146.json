@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0146",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Dean Corp.",
+    "shipper_address": "537 Bruce Extensions, Barnesfurt, FL 96711, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Industry Brown LLC",
+    "consignee_address": "2468 Zachary Wells, Peterview, VA 47098, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "emergency_telephone": "+45 824-943-1670",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 29,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 45.84,
+        "qty_unit": "mL",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 31,
+        "pkg_type": "Steel Drum",
+        "net_qty": 51.52,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Michael Torres",
+    "signature_date": "2026-04-27",
+    "signature_place": "Australia",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "434S",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Long Beach, US"
+  }
+}

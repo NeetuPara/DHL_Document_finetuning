@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0295",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202605-6349",
+    "usppi_name": "Global Yang Ltd",
+    "usppi_address": "PSC 0244, Box 1251, APO AE 85022, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "77-4803010",
+    "consignee_name": "Franklin Commerce Corp.",
+    "consignee_address": "5482 Shaw Prairie Suite 125, Fisherfort, GA 52363, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Commerce Steele AG",
+    "forwarder": "DB Schenker",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Dawn Bishop",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/28",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 69,
+        "unit": "SET",
+        "weight_kg": 124.26,
+        "value_usd": 7510.8
+      },
+      {
+        "marks": "SLI/26",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 85,
+        "unit": "PCS",
+        "weight_kg": 708.84,
+        "value_usd": 31689.37
+      },
+      {
+        "marks": "ABC/39",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 37,
+        "unit": "LTR",
+        "weight_kg": 36.26,
+        "value_usd": 1002.75
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 31,
+        "unit": "PCS",
+        "weight_kg": 26.24,
+        "value_usd": 103.37
+      },
+      {
+        "marks": "ABC/37",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 167,
+        "unit": "CTN",
+        "weight_kg": 464.43,
+        "value_usd": 8884.03
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 92,
+        "unit": "PKG",
+        "weight_kg": 240.61,
+        "value_usd": 6120.94
+      },
+      {
+        "marks": "ABC/13",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 196,
+        "unit": "KGS",
+        "weight_kg": 196.0,
+        "value_usd": 155.63
+      }
+    ],
+    "total_weight_kg": 1796.64,
+    "total_value_usd": 55466.89,
+    "service": "Air Freight",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 45649.08,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-436450",
+    "destination_country": "Spain"
+  }
+}

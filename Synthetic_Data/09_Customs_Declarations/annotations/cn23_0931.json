@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0931",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Hannah Carter",
+    "addressee_company": "Jones Global LLC",
+    "addressee_address": "178 Roberts Hill Suite 173, Port Shawnport, NV 57648, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 12.508,
+    "total_value": 4402.08,
+    "currency": "CAD",
+    "issue_date": "2026-04-05",
+    "reference": "REF-498191",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.086,
+        "value": 955.12,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 8,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.238,
+        "value": 342.72,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 14,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.75,
+        "value": 1427.72,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 12,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.434,
+        "value": 1676.52,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Justin Henry",
+    "sender_company": "Arnold Trade Pte Ltd",
+    "sender_address": "74611 Barron Fords, Richardtown, DC 02826, Italy",
+    "sender_phone": "809-689-3412x614",
+    "sender_email": "stonelisa@example.com",
+    "addressee_phone": "001-468-232-7706x3865",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 44.03,
+    "tracking_number": "CD833542219MY"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0240",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV907569822",
+    "shipper_name": "Industry Kelly Ltd",
+    "shipper_address": "Unit 7934 Box 2602, DPO AE 61819, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Osborne Pacific Pte Ltd",
+    "consignee_address": "2799 Joseph Village, New Joseph, NY 83642, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party_name": "Global Hammond S.A.",
+    "notify_party_address": "2587 Nicole Well, Dawnstad, ID 73743, Canada",
+    "vessel": "PIL PACIFIC",
+    "voyage": "851E",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Hong Kong, HK",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Hong Kong, HK",
+    "issue_date": "2025-11-14",
+    "issue_place": "Tokyo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "LTUJ0641871",
+        "seal_no": "SL467611",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "IPYY8135828",
+        "seal_no": "BL843013",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "PGIQ3314818",
+        "seal_no": "BL607114",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "PQSP8325917",
+        "seal_no": "BL493675",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "number_of_packages": 135,
+    "package_type": "Roll",
+    "gross_weight_kg": 9718.4,
+    "net_weight_kg": 9209.2,
+    "cbm": 12.554,
+    "marks_and_numbers": "GLB/16"
+  }
+}

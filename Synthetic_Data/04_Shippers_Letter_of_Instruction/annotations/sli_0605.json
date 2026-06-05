@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0605",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202602-1377",
+    "usppi_name": "International Mccoy GmbH",
+    "usppi_address": "945 Frazier Garden Apt. 591, Rhondahaven, UT 11723, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "44-8420773",
+    "consignee_name": "Buckley Tech S.A.",
+    "consignee_address": "6388 Ingram Circle, Annastad, WV 16562, India",
+    "consignee_country": "India",
+    "notify_party": "Mcdonald Commerce LLC",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Lee Clark",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/39",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 5,
+        "unit": "KGS",
+        "weight_kg": 5.0,
+        "value_usd": 3.31
+      },
+      {
+        "marks": "EXP/14",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 185,
+        "unit": "PCS",
+        "weight_kg": 15.37,
+        "value_usd": 17136.01
+      }
+    ],
+    "total_weight_kg": 20.37,
+    "total_value_usd": 17139.32,
+    "service": "Ocean Freight",
+    "named_port": "Shanghai, CN",
+    "insurance_value_usd": 41938.27,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-718878",
+    "destination_country": "India"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0186",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-51333550",
+    "mawb_number": "057-53337055",
+    "shipper_name": "Bennett Industry Co.",
+    "shipper_address": "76441 Darrell Lane Suite 068, New Pamela, KS 51012, United States",
+    "consignee_name": "Hoover Industry GmbH",
+    "consignee_address": "44055 Stephanie Road Apt. 720, West Darrell, ID 55481, Switzerland",
+    "agent_name": "Trade Hoffman Inc.",
+    "airport_departure": "SIN",
+    "airport_destination": "SYD",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 40,
+    "gross_weight_kg": 44.8,
+    "chargeable_weight": 51.0,
+    "rate": 2.84,
+    "total_charge": 144.84,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "TEMP CONTROLLED: 5\u00b0C - 24\u00b0C",
+    "issue_date": "2026-01-13",
+    "signatory": "Michael Schmitt",
+    "iata_code": "52-447",
+    "agent_cass": "6943-9888",
+    "consolidation_ref": "CONS-8242-806825",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-52838857",
+        "pieces": 11,
+        "weight": 29.6,
+        "destination": "LAX",
+        "consignee": "White Industry Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "160-47274319",
+        "pieces": 14,
+        "weight": 36.9,
+        "destination": "LHR",
+        "consignee": "Olsen Pacific Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "045-31934034",
+        "pieces": 11,
+        "weight": 19.6,
+        "destination": "SIN",
+        "consignee": "Pacific Lee GmbH",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "160-13177087",
+        "pieces": 20,
+        "weight": 84.5,
+        "destination": "YYZ",
+        "consignee": "Tech Cross Pte Ltd",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "160-91168631",
+        "pieces": 13,
+        "weight": 54.9,
+        "destination": "MIA",
+        "consignee": "Holland Tech B.V.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "020-37645280",
+        "pieces": 1,
+        "weight": 39.6,
+        "destination": "FRA",
+        "consignee": "Joyce Pacific Ltd",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

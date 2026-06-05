@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0459",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Tonya Wong MD",
+    "addressee_company": "Pacific Jordan Inc.",
+    "addressee_address": "46783 Delacruz Orchard Suite 189, New Robin, CT 35909, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 3.991,
+    "total_value": 3129.67,
+    "currency": "EUR",
+    "issue_date": "2026-02-23",
+    "reference": "REF-395308",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.292,
+        "value": 532.76,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 7,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.423,
+        "value": 998.69,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 13,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.276,
+        "value": 1598.22,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_country": "Poland",
+    "port_of_entry": "Los Angeles, CA",
+    "entry_number": "443-97399028-2",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 6.3,
+    "estimated_duty": 197.17,
+    "importer_ein": "57-1144826",
+    "customs_broker": "Global Hernandez Pte Ltd"
+  }
+}

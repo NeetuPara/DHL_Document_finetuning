@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0877",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU603723393",
+    "shipper_name": "Global Mcgrath Inc.",
+    "shipper_address": "507 Reeves Glen, Mitchellbury, PA 03632, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "International Lutz AG",
+    "consignee_address": "Unit 2369 Box 5018, DPO AP 12496, United States",
+    "consignee_country": "United States",
+    "notify_party_name": "King Global LLC",
+    "notify_party_address": "744 Hanson Greens Suite 436, New Alyssa, KS 28754, Spain",
+    "vessel": "MSC OSCAR",
+    "voyage": "780S",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Antwerp, BE",
+    "issue_date": "2025-03-31",
+    "issue_place": "Antwerp",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "NDAQ6842929",
+        "seal_no": "BL331222",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "YITQ4597546",
+        "seal_no": "CL829283",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 329,
+    "package_type": "Roll",
+    "gross_weight_kg": 19413.1,
+    "net_weight_kg": 17755.3,
+    "cbm": 14.016,
+    "marks_and_numbers": "GLB/5"
+  }
+}

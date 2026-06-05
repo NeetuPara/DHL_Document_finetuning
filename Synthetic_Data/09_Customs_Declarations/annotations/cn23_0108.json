@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0108",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "David Hinton",
+    "addressee_company": "Shea Trade S.A.",
+    "addressee_address": "331 Smith Gateway Apt. 399, Lake Rickfurt, AS 27603, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 4.795,
+    "total_value": 234.55,
+    "currency": "AUD",
+    "issue_date": "2025-11-16",
+    "reference": "REF-628996",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.886,
+        "value": 183.72,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 17,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.909,
+        "value": 50.83,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_country": "Hong Kong",
+    "port_of_entry": "Miami, FL",
+    "entry_number": "465-14906987-9",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 10.0,
+    "estimated_duty": 23.45,
+    "importer_ein": "64-4244040",
+    "customs_broker": "Industry Baxter S.A."
+  }
+}

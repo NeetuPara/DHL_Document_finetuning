@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0346",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202407-2483",
+    "usppi_name": "Nelson Trade Ltd",
+    "usppi_address": "1566 Guerrero Extension, Lake Christopherberg, KY 60563, Japan",
+    "usppi_country": "Japan",
+    "ein": "29-2396378",
+    "consignee_name": "International Li Pte Ltd",
+    "consignee_address": "367 Martinez Gardens Suite 352, Hamiltonbury, HI 49367, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Trade Fox B.V.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "Rachel Roy",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/35",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 63,
+        "unit": "PKG",
+        "weight_kg": 80.57,
+        "value_usd": 4880.75
+      },
+      {
+        "marks": "EXP/32",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 167,
+        "unit": "PCS",
+        "weight_kg": 102.92,
+        "value_usd": 296739.17
+      }
+    ],
+    "total_weight_kg": 183.49,
+    "total_value_usd": 301619.92,
+    "service": "Air Freight",
+    "named_port": "Shanghai Pudong",
+    "insurance_value_usd": 17730.63,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-600216",
+    "destination_country": "Australia"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0476",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210820431263",
+    "export_date": "2025-08-05",
+    "aes_option": "AES Filing",
+    "usppi_name": "Commerce Curry Ltd",
+    "usppi_ein": "38-1527891",
+    "usppi_address": "8610 Ellison Roads Suite 812, Zamorashire, FL 52378, United Kingdom",
+    "ultimate_consignee": "Smith Tech S.A.",
+    "intermediate_consignee": "Cooper Global AG",
+    "forwarding_agent": "Parker Commerce Ltd",
+    "destination_country": "Australia",
+    "carrier": "FedEx",
+    "bl_awb": "618-35695122",
+    "total_value": 143592.43,
+    "currency": "USD",
+    "signatory": "Kayla Day",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Brazil",
+        "qty": 436,
+        "unit": "PCS",
+        "entered_value": 15294.88,
+        "duty_rate": 11.9,
+        "duty_amount": 1820.09,
+        "eccn": "7A994",
+        "schedule_b": "9002.11.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Mexico",
+        "qty": 210,
+        "unit": "PCS",
+        "entered_value": 47898.9,
+        "duty_rate": 9.7,
+        "duty_amount": 4646.19,
+        "eccn": "9A515",
+        "schedule_b": "8518.30.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "China",
+        "qty": 177,
+        "unit": "KGS",
+        "entered_value": 50560.05,
+        "duty_rate": 7.4,
+        "duty_amount": 3741.44,
+        "eccn": "9A515",
+        "schedule_b": "2008.19.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Germany",
+        "qty": 137,
+        "unit": "CTN",
+        "entered_value": 29838.6,
+        "duty_rate": 16.5,
+        "duty_amount": 4923.37,
+        "eccn": "1A002",
+        "schedule_b": "4819.10.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

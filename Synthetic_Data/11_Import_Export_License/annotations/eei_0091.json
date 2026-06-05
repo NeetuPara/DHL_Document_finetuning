@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0091",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "171-05513157-5",
+    "entry_type": "11 - Informal - Free",
+    "entry_date": "2026-03-26",
+    "port_of_entry": "BOS - Boston",
+    "transport_mode": "Air",
+    "carrier": "DHL Express",
+    "bl_awb": "618-43386444",
+    "importer_name": "Pacific Miller LLC",
+    "importer_ein": "15-2283850",
+    "consignee_name": "International Marquez GmbH",
+    "customs_broker": "Stanley Trade S.A.",
+    "broker_filer_code": "cFc",
+    "country_of_origin": "Thailand",
+    "total_value": 456616.29,
+    "total_duty": 58237.81,
+    "currency": "GBP",
+    "signatory": "Amanda Stewart",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Thailand",
+        "qty": 297,
+        "unit": "PCS",
+        "entered_value": 143572.77,
+        "duty_rate": 24.3,
+        "duty_amount": 34888.18,
+        "eccn": "7A994",
+        "schedule_b": "8483.40.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "United Kingdom",
+        "qty": 170,
+        "unit": "PCS",
+        "entered_value": 72663.1,
+        "duty_rate": 14.8,
+        "duty_amount": 10754.14,
+        "eccn": "3A992",
+        "schedule_b": "8483.40.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Belgium",
+        "qty": 279,
+        "unit": "KGS",
+        "entered_value": 80379.9,
+        "duty_rate": 4.3,
+        "duty_amount": 3456.34,
+        "eccn": "7A994",
+        "schedule_b": "2008.19.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Australia",
+        "qty": 316,
+        "unit": "PCS",
+        "entered_value": 71327.52,
+        "duty_rate": 1.5,
+        "duty_amount": 1069.91,
+        "eccn": "EAR99",
+        "schedule_b": "8534.00.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Germany",
+        "qty": 494,
+        "unit": "MTR",
+        "entered_value": 88673.0,
+        "duty_rate": 9.1,
+        "duty_amount": 8069.24,
+        "eccn": "0A919",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

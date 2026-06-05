@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0542",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202208-1654",
+    "usppi_name": "Pacific Walter Inc.",
+    "usppi_address": "68019 Kevin Trafficway, Johnsonland, MH 41005, Japan",
+    "usppi_country": "Japan",
+    "ein": "55-3023486",
+    "consignee_name": "Global Clarke Ltd",
+    "consignee_address": "9664 Tracy Square Suite 587, Bryantton, MI 75629, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Trade Hughes Co.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Diana Nguyen",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/4",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 111,
+        "unit": "PCS",
+        "weight_kg": 47.98,
+        "value_usd": 2921.49
+      },
+      {
+        "marks": "EXP/23",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 180,
+        "unit": "PKG",
+        "weight_kg": 240.78,
+        "value_usd": 8692.43
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 27,
+        "unit": "BOX",
+        "weight_kg": 37.73,
+        "value_usd": 3178.89
+      }
+    ],
+    "total_weight_kg": 326.49,
+    "total_value_usd": 14792.81,
+    "service": "Express Courier",
+    "named_port": "Sydney Kingsford Smith",
+    "insurance_value_usd": 18176.36,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-750850",
+    "destination_country": "Spain"
+  }
+}

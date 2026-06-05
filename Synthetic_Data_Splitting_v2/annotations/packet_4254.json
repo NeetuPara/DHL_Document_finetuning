@@ -1,0 +1,71 @@
+{
+  "packet_id": "packet_4254",
+  "total_pages": 8,
+  "n_documents": 6,
+  "class_sequence": [
+    "Shipper's Letter of Instruction",
+    "House Airway Bill",
+    "Commercial Invoice",
+    "Packing List",
+    "Cargo Manifest",
+    "Dangerous Goods Declaration"
+  ],
+  "task": "splitting",
+  "note": "is_multipage_doc=true means consecutive pages are CONTINUATION of same document instance.",
+  "documents": [
+    {
+      "doc_class": "Shipper's Letter of Instruction",
+      "class_index": 4,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "sli_0516.pdf"
+    },
+    {
+      "doc_class": "House Airway Bill",
+      "class_index": 7,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "hawb_0655.pdf"
+    },
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 3,
+      "page_end": 4,
+      "n_pages": 2,
+      "is_multipage_doc": true,
+      "source_file": "ci_mp_0067.pdf"
+    },
+    {
+      "doc_class": "Packing List",
+      "class_index": 8,
+      "page_start": 5,
+      "page_end": 5,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "packing_list_0850.pdf"
+    },
+    {
+      "doc_class": "Cargo Manifest",
+      "class_index": 10,
+      "page_start": 6,
+      "page_end": 6,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "manifest_0262.pdf"
+    },
+    {
+      "doc_class": "Dangerous Goods Declaration",
+      "class_index": 5,
+      "page_start": 7,
+      "page_end": 8,
+      "n_pages": 2,
+      "is_multipage_doc": true,
+      "source_file": "dgd_mp_0234.pdf"
+    }
+  ]
+}

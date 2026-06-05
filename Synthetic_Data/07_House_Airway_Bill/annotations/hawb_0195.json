@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0195",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-21295437",
+    "mawb_number": "125-69531296",
+    "shipper_name": "Industry Gay Corp.",
+    "shipper_address": "3669 Hubbard Squares Suite 966, South Sergio, IL 53500, France",
+    "consignee_name": "Vaughn Commerce AG",
+    "consignee_address": "93307 Corey Flats Apt. 261, Moorefurt, GU 33119, Belgium",
+    "agent_name": "Jimenez Pacific S.A.",
+    "airport_departure": "YYZ",
+    "airport_destination": "PVG",
+    "currency": "AUD",
+    "charge_code": "PP",
+    "declared_value_carriage": "EUR 33,751.30",
+    "declared_value_customs": "NCV",
+    "n_pieces": 25,
+    "gross_weight_kg": 498.3,
+    "chargeable_weight": 625.4,
+    "rate": 10.82,
+    "total_charge": 6766.83,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-02-27",
+    "signatory": "Sierra Ingram",
+    "iata_code": "31-555",
+    "agent_cass": "1885-8495",
+    "consolidation_ref": "CONS-2063-469275",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-36481104",
+        "pieces": 1,
+        "weight": 79.2,
+        "destination": "SIN",
+        "consignee": "Castro Trade LLC",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "618-22088593",
+        "pieces": 15,
+        "weight": 37.0,
+        "destination": "NRT",
+        "consignee": "Kim Tech Inc.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "125-33684978",
+        "pieces": 17,
+        "weight": 31.4,
+        "destination": "SIN",
+        "consignee": "Galvan Industry B.V.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "085-82108353",
+        "pieces": 20,
+        "weight": 91.1,
+        "destination": "ORD",
+        "consignee": "International Figueroa B.V.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "618-20360199",
+        "pieces": 13,
+        "weight": 87.0,
+        "destination": "JFK",
+        "consignee": "Industry Henry S.A.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "057-98739882",
+        "pieces": 18,
+        "weight": 36.7,
+        "destination": "FRA",
+        "consignee": "Webb Trade B.V.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "057-37486803",
+        "pieces": 1,
+        "weight": 29.7,
+        "destination": "AMS",
+        "consignee": "Ramirez Trade Corp.",
+        "description": "Steel Products - Hot Rolled Coils"
+      }
+    ]
+  }
+}

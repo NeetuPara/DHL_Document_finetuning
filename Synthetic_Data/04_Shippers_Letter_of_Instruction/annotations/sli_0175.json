@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0175",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202602-5327",
+    "usppi_name": "Commerce Smith B.V.",
+    "usppi_address": "226 Jessica Hill Apt. 104, Zacharymouth, FM 72200, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "18-9656679",
+    "consignee_name": "Evans Trade Co.",
+    "consignee_address": "1846 Sara Street, New George, RI 41051, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Ford Trade Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIP",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Joseph Munoz",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/1",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 17,
+        "unit": "PKG",
+        "weight_kg": 7.73,
+        "value_usd": 446.82
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 155,
+        "unit": "CTN",
+        "weight_kg": 428.86,
+        "value_usd": 10518.9
+      },
+      {
+        "marks": "EXP/28",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 140,
+        "unit": "PCS",
+        "weight_kg": 7.76,
+        "value_usd": 5109.13
+      }
+    ],
+    "total_weight_kg": 444.35,
+    "total_value_usd": 16074.85,
+    "service": "Ground",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 10096.04,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-300935",
+    "destination_country": "Poland"
+  }
+}

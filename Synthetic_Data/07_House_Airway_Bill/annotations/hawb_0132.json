@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0132",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-44724262",
+    "mawb_number": "085-96863257",
+    "shipper_name": "Pacific Olsen B.V.",
+    "shipper_address": "6158 Nicholas Manor Apt. 600, Mitchellburgh, AK 27692, China",
+    "consignee_name": "Harper Pacific LLC",
+    "consignee_address": "4548 Kyle Parkway, Lake Garyhaven, OK 32019, Spain",
+    "agent_name": "International Miles LLC",
+    "airport_departure": "YYZ",
+    "airport_destination": "HKG",
+    "currency": "EUR",
+    "charge_code": "PP",
+    "declared_value_carriage": "CHF 39,892.25",
+    "declared_value_customs": "JPY 41,030.01",
+    "n_pieces": 20,
+    "gross_weight_kg": 477.3,
+    "chargeable_weight": 542.3,
+    "rate": 5.34,
+    "total_charge": 2895.88,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "HANDLING CODE: EAP",
+    "issue_date": "2026-05-08",
+    "signatory": "Kenneth Rodriguez",
+    "iata_code": "16-603",
+    "agent_cass": "8173-9766",
+    "consolidation_ref": "CONS-6653-848254",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-17014097",
+        "pieces": 16,
+        "weight": 58.7,
+        "destination": "SYD",
+        "consignee": "Trade Hood B.V.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "057-86370296",
+        "pieces": 8,
+        "weight": 99.9,
+        "destination": "YYZ",
+        "consignee": "Baxter Industry Ltd",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "020-48069543",
+        "pieces": 15,
+        "weight": 14.7,
+        "destination": "AMS",
+        "consignee": "Odonnell Trade Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "006-34054739",
+        "pieces": 12,
+        "weight": 9.3,
+        "destination": "FRA",
+        "consignee": "Diaz Industry Co.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "074-75742870",
+        "pieces": 13,
+        "weight": 43.1,
+        "destination": "AMS",
+        "consignee": "Pacific Warren LLC",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "074-55336833",
+        "pieces": 6,
+        "weight": 54.7,
+        "destination": "FRA",
+        "consignee": "Commerce Kirby Inc.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "057-33886877",
+        "pieces": 20,
+        "weight": 82.0,
+        "destination": "YYZ",
+        "consignee": "Lee Tech LLC",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

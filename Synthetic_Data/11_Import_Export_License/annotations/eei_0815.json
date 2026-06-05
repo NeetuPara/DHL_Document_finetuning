@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0815",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20201223380690",
+    "export_date": "2026-01-06",
+    "aes_option": "AES Filing",
+    "usppi_name": "International Watson B.V.",
+    "usppi_ein": "09-8312018",
+    "usppi_address": "161 Michelle Loaf Apt. 283, Suttonshire, VI 38924, Canada",
+    "ultimate_consignee": "Larson Commerce S.A.",
+    "intermediate_consignee": "Commerce May LLC",
+    "forwarding_agent": "Cole Pacific Co.",
+    "destination_country": "Sweden",
+    "carrier": "MSC",
+    "bl_awb": "045-65855680",
+    "total_value": 411058.39,
+    "currency": "JPY",
+    "signatory": "Jared Atkins",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Mexico",
+        "qty": 199,
+        "unit": "PCS",
+        "entered_value": 76664.75,
+        "duty_rate": 10.9,
+        "duty_amount": 8356.46,
+        "eccn": "EAR99",
+        "schedule_b": "8483.40.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Mexico",
+        "qty": 452,
+        "unit": "LTR",
+        "entered_value": 80953.2,
+        "duty_rate": 20.2,
+        "duty_amount": 16352.55,
+        "eccn": "1A002",
+        "schedule_b": "2901.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "India",
+        "qty": 451,
+        "unit": "LTR",
+        "entered_value": 201714.26,
+        "duty_rate": 19.3,
+        "duty_amount": 38930.85,
+        "eccn": "5E992",
+        "schedule_b": "2901.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Spain",
+        "qty": 362,
+        "unit": "KGS",
+        "entered_value": 51726.18,
+        "duty_rate": 22.9,
+        "duty_amount": 11845.3,
+        "eccn": "5E992",
+        "schedule_b": "2008.19.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

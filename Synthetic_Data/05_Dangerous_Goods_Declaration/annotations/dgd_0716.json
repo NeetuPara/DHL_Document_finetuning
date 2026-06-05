@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0716",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Cunningham Corp.",
+    "shipper_address": "42920 Jessica Mews Suite 640, Jasmineville, MP 17643, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Global Rodriguez Inc.",
+    "consignee_address": "0004 Schultz Shoal, Andersonmouth, OK 92031, China",
+    "consignee_country": "China",
+    "emergency_telephone": "+95 857-552-3471",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 4,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 52.87,
+        "qty_unit": "L",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-761007",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Christopher Allen",
+    "signature_date": "2026-05-06",
+    "signature_place": "United Arab Emirates",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "525N",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Felixstowe, GB"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0230",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202102-3450",
+    "usppi_name": "Global Watts B.V.",
+    "usppi_address": "6176 Teresa Plains, Joshuachester, VT 26660, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "52-2425190",
+    "consignee_name": "Industry Webb LLC",
+    "consignee_address": "39667 Nicholas Land, East Patrickberg, OK 90172, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Short International S.A.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Carol Holmes",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/5",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 190,
+        "unit": "PCS",
+        "weight_kg": 2162.89,
+        "value_usd": 28970.85
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 26,
+        "unit": "CTN",
+        "weight_kg": 85.78,
+        "value_usd": 1552.51
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 172,
+        "unit": "PKG",
+        "weight_kg": 416.06,
+        "value_usd": 4976.84
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 181,
+        "unit": "PCS",
+        "weight_kg": 22.11,
+        "value_usd": 16532.65
+      }
+    ],
+    "total_weight_kg": 2686.84,
+    "total_value_usd": 52032.85,
+    "service": "LCL Ocean",
+    "named_port": "Colombo, LK",
+    "insurance_value_usd": 39664.4,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Switzerland"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0028",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU495497327",
+    "shipper_name": "Brown Trade LLC",
+    "shipper_address": "63907 Matthew Highway, West James, DC 87130, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Holmes International Ltd",
+    "consignee_address": "094 Mark Stream, Anthonyland, SD 04798, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party_name": "Doyle Industry LLC",
+    "notify_party_address": "6562 Oliver Turnpike Apt. 785, Mooreview, SC 70327, United Kingdom",
+    "vessel": "MADRID MAERSK",
+    "voyage": "498S",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2026-05-11",
+    "issue_place": "Antwerp",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "XCLS4576522",
+        "seal_no": "BL276052",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "NYDF1130957",
+        "seal_no": "CL465501",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 80,
+    "package_type": "Drum",
+    "gross_weight_kg": 13624.1,
+    "net_weight_kg": 12825.6,
+    "cbm": 8.543,
+    "marks_and_numbers": "XYZ/39"
+  }
+}

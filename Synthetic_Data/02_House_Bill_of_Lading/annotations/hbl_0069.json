@@ -1,0 +1,43 @@
+{
+  "document_id": "hbl_0069",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU388405161",
+    "shipper_name": "International Gomez LLC",
+    "shipper_address": "576 Simmons Path Suite 758, Port Paulshire, TN 19856, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Robbins Commerce B.V.",
+    "consignee_address": "1574 Holly Greens Apt. 105, Hoganfurt, MH 19140, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party_name": "Brown Commerce GmbH",
+    "notify_party_address": "1067 Valdez Shoal, Liberg, VA 20865, Spain",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "130W",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2024-09-29",
+    "issue_place": "Rotterdam",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "ZGRU6294677",
+        "seal_no": "SL107426",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 351,
+    "package_type": "Case",
+    "gross_weight_kg": 23501.3,
+    "net_weight_kg": 22438.8,
+    "cbm": 28.7,
+    "marks_and_numbers": "XYZ/50"
+  }
+}

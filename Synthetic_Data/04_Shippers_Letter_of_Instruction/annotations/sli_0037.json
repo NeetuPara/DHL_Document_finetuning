@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0037",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202004-3064",
+    "usppi_name": "Bennett Commerce Corp.",
+    "usppi_address": "404 Glenn Glens, Rowlandberg, MN 27454, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "40-1329736",
+    "consignee_name": "Campbell Tech Pte Ltd",
+    "consignee_address": "36621 Edward Trace, Tiffanyberg, SD 89115, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Miller International LLC",
+    "forwarder": "DB Schenker",
+    "incoterm": "EXW",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Timothy Tanner",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/48",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 147,
+        "unit": "LTR",
+        "weight_kg": 136.61,
+        "value_usd": 2031.91
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 11,
+        "unit": "KGS",
+        "weight_kg": 11.0,
+        "value_usd": 138.52
+      },
+      {
+        "marks": "EXP/12",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 43,
+        "unit": "PCS",
+        "weight_kg": 24.06,
+        "value_usd": 20042.76
+      },
+      {
+        "marks": "SLI/19",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 105,
+        "unit": "PCS",
+        "weight_kg": 2152.19,
+        "value_usd": 15011.36
+      }
+    ],
+    "total_weight_kg": 2323.86,
+    "total_value_usd": 37224.55,
+    "service": "Ground",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 36047.9,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-909859",
+    "destination_country": "Brazil"
+  }
+}

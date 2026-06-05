@@ -1,0 +1,75 @@
+{
+  "document_id": "vgm_0638",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Anderson International Pte Ltd",
+    "shipper_address": "433 Edward Circle Suite 294, Haileyview, IN 01925, South Korea",
+    "shipper_country": "South Korea",
+    "container_number": "OYXN6106045",
+    "seal_number": "CL578090",
+    "container_size": "40'HC",
+    "iso_type_code": "45G0",
+    "tare_weight_kg": 4000,
+    "cargo_weight_kg": 6474.7,
+    "packing_materials_kg": 489.7,
+    "vgm_kg": 10964.4,
+    "vessel": "PIL PACIFIC",
+    "voyage": "807W",
+    "bl_number": "OOLU995987324",
+    "booking_reference": "BKG-160541",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-53718",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-17",
+    "signature_date": "2026-05-08",
+    "signatory_name": "Cindy Tran",
+    "signatory_title": "Operations Director",
+    "number_of_packages": 6,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Bundle",
+        "n_units": 9,
+        "gross_wt_kg": 222.2
+      },
+      {
+        "item_no": 2,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Bundle",
+        "n_units": 10,
+        "gross_wt_kg": 1012.6
+      },
+      {
+        "item_no": 3,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Case",
+        "n_units": 16,
+        "gross_wt_kg": 1615.0
+      },
+      {
+        "item_no": 4,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Roll",
+        "n_units": 9,
+        "gross_wt_kg": 1009.8
+      },
+      {
+        "item_no": 5,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Roll",
+        "n_units": 10,
+        "gross_wt_kg": 799.2
+      },
+      {
+        "item_no": 6,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Bundle",
+        "n_units": 9,
+        "gross_wt_kg": 1815.9
+      }
+    ]
+  }
+}

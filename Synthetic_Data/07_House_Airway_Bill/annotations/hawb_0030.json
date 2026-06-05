@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0030",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-24730613",
+    "mawb_number": "125-95585911",
+    "shipper_name": "Le Commerce AG",
+    "shipper_address": "52323 Madison Center Apt. 480, Phillipberg, ME 48704, Italy",
+    "consignee_name": "Lopez Industry B.V.",
+    "consignee_address": "6297 Amanda Land, Popeborough, PR 79086, Sweden",
+    "agent_name": "Olson Trade Inc.",
+    "airport_departure": "DXB",
+    "airport_destination": "SIN",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "SGD 34,349.45",
+    "declared_value_customs": "NCV",
+    "n_pieces": 31,
+    "gross_weight_kg": 200.5,
+    "chargeable_weight": 207.4,
+    "rate": 9.58,
+    "total_charge": 1986.89,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "TEMP CONTROLLED: 6\u00b0C - 12\u00b0C",
+    "issue_date": "2025-12-23",
+    "signatory": "Samantha Moran",
+    "iata_code": "81-332",
+    "agent_cass": "3399-6170",
+    "consolidation_ref": "CONS-9845-964176",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-50103060",
+        "pieces": 17,
+        "weight": 58.7,
+        "destination": "LHR",
+        "consignee": "Commerce Huerta Co.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "160-53737628",
+        "pieces": 1,
+        "weight": 2.2,
+        "destination": "SYD",
+        "consignee": "Fields Tech Pte Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "176-88396269",
+        "pieces": 7,
+        "weight": 38.3,
+        "destination": "JFK",
+        "consignee": "Industry Douglas Co.",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

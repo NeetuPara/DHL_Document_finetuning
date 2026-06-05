@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0258",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Scott Corp.",
+    "shipper_address": "96977 Charles Route, Lake Justinfort, ND 82649, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Macias Global Co.",
+    "consignee_address": "4476 Ross Highway, Port Michael, AK 60451, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "emergency_telephone": "+39 907-844-9135",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 21,
+        "pkg_type": "Steel Drum",
+        "net_qty": 43.92,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 19,
+        "pkg_type": "Steel Drum",
+        "net_qty": 24.82,
+        "qty_unit": "g",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-927414",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Dr. Mckenzie Porter",
+    "signature_date": "2026-04-25",
+    "signature_place": "Sweden",
+    "awb_number": "045-36239348",
+    "flight_number": "QR6409",
+    "departure_airport_code": "PVG",
+    "departure_airport_name": "Shanghai Pudong",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

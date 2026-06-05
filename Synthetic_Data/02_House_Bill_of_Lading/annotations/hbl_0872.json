@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0872",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU157817142",
+    "shipper_name": "Tech Reynolds GmbH",
+    "shipper_address": "USS Sanchez, FPO AA 29585, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "French Global LLC",
+    "consignee_address": "113 Erik Plains Suite 546, Gallegosborough, CT 79894, Japan",
+    "consignee_country": "Japan",
+    "notify_party_name": "Tech Dixon S.A.",
+    "notify_party_address": "423 Timothy Mall Apt. 661, Evanston, DC 13009, Belgium",
+    "vessel": "ONE INNOVATION",
+    "voyage": "956E",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Tanjung Pelepas, MY",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2026-04-13",
+    "issue_place": "Qingdao",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "QWVK8729961",
+        "seal_no": "SL997717",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "NISD4678869",
+        "seal_no": "CL673888",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "DDFQ7523152",
+        "seal_no": "BL478972",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 228,
+    "package_type": "Crate",
+    "gross_weight_kg": 12964.3,
+    "net_weight_kg": 11986.2,
+    "cbm": 9.218,
+    "marks_and_numbers": "ABC/5"
+  }
+}

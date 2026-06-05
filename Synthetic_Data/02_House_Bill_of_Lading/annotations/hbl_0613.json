@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0613",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU645802938",
+    "shipper_name": "Global Parks B.V.",
+    "shipper_address": "1746 Rebecca Street, Lake Chaseton, WA 70182, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Parker Global B.V.",
+    "consignee_address": "386 Joshua Ramp, Matthewschester, MS 87553, China",
+    "consignee_country": "China",
+    "notify_party_name": "Commerce Gonzalez Pte Ltd",
+    "notify_party_address": "51296 Amanda Course Suite 308, Williamsmouth, NV 03083, Australia",
+    "vessel": "MADRID MAERSK",
+    "voyage": "167S",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Felixstowe, GB",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2024-11-16",
+    "issue_place": "Antwerp",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "GZDF9052405",
+        "seal_no": "CL834086",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "NQUA8811729",
+        "seal_no": "SL617825",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "SLDA9578374",
+        "seal_no": "CL187059",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "HOPX1324371",
+        "seal_no": "SL121819",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 441,
+    "package_type": "Drum",
+    "gross_weight_kg": 2415.4,
+    "net_weight_kg": 2137.9,
+    "cbm": 45.481,
+    "marks_and_numbers": "GLB/38"
+  }
+}

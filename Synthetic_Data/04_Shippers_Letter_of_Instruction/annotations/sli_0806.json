@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0806",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202006-1107",
+    "usppi_name": "Global Tran Co.",
+    "usppi_address": "72516 Courtney Oval Suite 258, Chamberstown, VT 54108, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "29-9043649",
+    "consignee_name": "Santos International S.A.",
+    "consignee_address": "675 Daniel Village, Patrickmouth, ID 52879, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Wilson Commerce Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Michael Cook",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/11",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 93,
+        "unit": "PCS",
+        "weight_kg": 137.2,
+        "value_usd": 50495.38
+      },
+      {
+        "marks": "SLI/49",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 156,
+        "unit": "PKG",
+        "weight_kg": 232.24,
+        "value_usd": 7151.51
+      },
+      {
+        "marks": "ABC/26",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 95,
+        "unit": "PCS",
+        "weight_kg": 1587.26,
+        "value_usd": 36777.45
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 172,
+        "unit": "PCS",
+        "weight_kg": 240.97,
+        "value_usd": 5115.24
+      },
+      {
+        "marks": "SLI/40",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 36,
+        "unit": "PCS",
+        "weight_kg": 2.9,
+        "value_usd": 2639.1
+      }
+    ],
+    "total_weight_kg": 2200.57,
+    "total_value_usd": 102178.68,
+    "service": "Express Courier",
+    "named_port": "Tokyo Narita",
+    "insurance_value_usd": 34385.61,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-331920",
+    "destination_country": "Brazil"
+  }
+}

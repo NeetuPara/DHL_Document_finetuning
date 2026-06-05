@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0465",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202302-4186",
+    "usppi_name": "Global Freeman B.V.",
+    "usppi_address": "564 Chapman Turnpike Apt. 399, Glassstad, TX 92440, Italy",
+    "usppi_country": "Italy",
+    "ein": "10-1273340",
+    "consignee_name": "Hernandez Trade GmbH",
+    "consignee_address": "16737 Price Forest, South Jorge, WY 16025, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Mahoney Global Inc.",
+    "forwarder": "Panalpina",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Gina Hayes",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/41",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 47,
+        "unit": "MTR",
+        "weight_kg": 21.84,
+        "value_usd": 672.16
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 59,
+        "unit": "PCS",
+        "weight_kg": 28.65,
+        "value_usd": 105870.55
+      },
+      {
+        "marks": "ABC/14",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 107,
+        "unit": "PCS",
+        "weight_kg": 1552.71,
+        "value_usd": 24670.22
+      },
+      {
+        "marks": "SLI/9",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 142,
+        "unit": "LTR",
+        "weight_kg": 151.84,
+        "value_usd": 5069.82
+      },
+      {
+        "marks": "ABC/20",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 168,
+        "unit": "CTN",
+        "weight_kg": 461.91,
+        "value_usd": 988.07
+      }
+    ],
+    "total_weight_kg": 2216.95,
+    "total_value_usd": 137270.82,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "230W",
+    "booking_ref": "BKG-899054",
+    "bl_number": "MAEU209613869",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Qingdao, CN",
+    "container_number": "SCOJ8212270",
+    "seal_number": "CL174170",
+    "container_type": "40'GP",
+    "cbm": 22.301
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0929",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Byrd AG",
+    "shipper_address": "33302 Melissa Cliff, North Lisa, NY 97412, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Trade Suarez Corp.",
+    "consignee_address": "776 Diana Views, Roachfort, ME 33823, Brazil",
+    "consignee_country": "Brazil",
+    "emergency_telephone": "+61 722-748-1025",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 45,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 81.97,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-138547",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 42,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 57.92,
+        "qty_unit": "g",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-528512",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jamie Bishop",
+    "signature_date": "2026-05-12",
+    "signature_place": "United Arab Emirates",
+    "vessel": "PIL PACIFIC",
+    "voyage": "432N",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Busan, KR"
+  }
+}

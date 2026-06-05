@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0109",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "021-37717941-3",
+    "entry_type": "01 - Free and Dutiable",
+    "entry_date": "2025-10-05",
+    "port_of_entry": "SEA - Seattle",
+    "transport_mode": "Truck",
+    "carrier": "UPS",
+    "bl_awb": "074-69899519",
+    "importer_name": "Chavez Pacific AG",
+    "importer_ein": "96-2227505",
+    "consignee_name": "Global Martin Corp.",
+    "customs_broker": "Industry Hess Pte Ltd",
+    "broker_filer_code": "leB",
+    "country_of_origin": "Canada",
+    "total_value": 141764.39,
+    "total_duty": 19451.87,
+    "currency": "CHF",
+    "signatory": "Sheryl Irwin",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "France",
+        "qty": 137,
+        "unit": "PCS",
+        "entered_value": 18071.67,
+        "duty_rate": 3.6,
+        "duty_amount": 650.58,
+        "eccn": "1A002",
+        "schedule_b": "9401.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Singapore",
+        "qty": 376,
+        "unit": "CTN",
+        "entered_value": 123692.72,
+        "duty_rate": 15.2,
+        "duty_amount": 18801.29,
+        "eccn": "5E992",
+        "schedule_b": "4819.10.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

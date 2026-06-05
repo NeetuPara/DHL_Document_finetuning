@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0072",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Gonzales Pacific S.A.",
+    "shipper_address": "4837 Matthew Shore, North Allen, PR 34628, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Kramer Trade AG",
+    "consignee_address": "67333 Alejandro Wells Suite 432, Johnsonburgh, VA 16442, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+79 168-966-8139",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 30,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 23.51,
+        "qty_unit": "g",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-914727",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jason Miller",
+    "signature_date": "2026-05-04",
+    "signature_place": "Belgium",
+    "awb_number": "618-80451317",
+    "flight_number": "LH2532",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

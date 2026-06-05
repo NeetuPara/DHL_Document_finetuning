@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0620",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Alicia Garcia",
+    "addressee_company": "Trade Cooper Pte Ltd",
+    "addressee_address": "32732 Nelson Stream Suite 246, East Anthony, CO 12214, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 8.291,
+    "total_value": 3564.45,
+    "currency": "AED",
+    "issue_date": "2025-08-02",
+    "reference": "REF-869679",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.955,
+        "value": 1516.0,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 14,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.35,
+        "value": 1520.82,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 19,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.986,
+        "value": 527.63,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Kevin Nelson",
+    "sender_company": "Commerce Hughes B.V.",
+    "sender_address": "321 Jeffrey Lights Apt. 238, Danielleland, NH 42193, United Kingdom",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 3920.89,
+    "postal_charges": 64.17,
+    "tracking_number": "XW976750113TH"
+  }
+}

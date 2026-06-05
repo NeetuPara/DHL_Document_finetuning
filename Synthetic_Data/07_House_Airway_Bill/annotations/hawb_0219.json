@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0219",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-52894519",
+    "mawb_number": "125-42819925",
+    "shipper_name": "Zimmerman Tech Co.",
+    "shipper_address": "5401 Marcus Stravenue, Port Trevorside, NY 08408, Mexico",
+    "consignee_name": "Wilkins Pacific Inc.",
+    "consignee_address": "44049 Alexis Plaza Suite 650, East Anita, ID 13014, Canada",
+    "agent_name": "Reed Trade AG",
+    "airport_departure": "JFK",
+    "airport_destination": "CDG",
+    "currency": "CNY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "GBP 35,534.58",
+    "n_pieces": 3,
+    "gross_weight_kg": 258.2,
+    "chargeable_weight": 331.6,
+    "rate": 6.27,
+    "total_charge": 2079.13,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "TEMP CONTROLLED: 2\u00b0C - 14\u00b0C",
+    "issue_date": "2025-09-14",
+    "signatory": "April Hood",
+    "iata_code": "46-403",
+    "agent_cass": "4805-8105",
+    "consolidation_ref": "CONS-4868-607027",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-70148831",
+        "pieces": 8,
+        "weight": 81.8,
+        "destination": "DXB",
+        "consignee": "International Zimmerman Inc.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "160-83986355",
+        "pieces": 4,
+        "weight": 93.8,
+        "destination": "MIA",
+        "consignee": "Martin Global Pte Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "085-67992356",
+        "pieces": 6,
+        "weight": 50.2,
+        "destination": "AMS",
+        "consignee": "Tech Flowers S.A.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "045-55951534",
+        "pieces": 11,
+        "weight": 60.2,
+        "destination": "YYZ",
+        "consignee": "Smith Commerce Inc.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "020-15562500",
+        "pieces": 8,
+        "weight": 89.6,
+        "destination": "AMS",
+        "consignee": "Commerce Shaffer AG",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "074-70851193",
+        "pieces": 2,
+        "weight": 51.7,
+        "destination": "LHR",
+        "consignee": "Smith Industry Inc.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "176-24647305",
+        "pieces": 13,
+        "weight": 31.7,
+        "destination": "NRT",
+        "consignee": "Global Foster Pte Ltd",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "057-26136799",
+        "pieces": 15,
+        "weight": 92.1,
+        "destination": "AMS",
+        "consignee": "Pacific Harris Co.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

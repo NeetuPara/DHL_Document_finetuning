@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0922",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Thomas Garcia",
+    "addressee_company": "Industry Nash Corp.",
+    "addressee_address": "84112 Jones Junction Apt. 729, East Pamelahaven, PR 84642, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 9.479,
+    "total_value": 3124.26,
+    "currency": "USD",
+    "issue_date": "2025-10-25",
+    "reference": "REF-122201",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.696,
+        "value": 734.88,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 3,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.99,
+        "value": 106.14,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 17,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.552,
+        "value": 1981.69,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 5,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.241,
+        "value": 301.55,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_name": "David Sanchez",
+    "sender_company": "Collins Industry Ltd",
+    "sender_address": "81700 Annette Burgs Apt. 413, Port Paul, VA 87871, Brazil",
+    "sender_phone": "(419)933-2365x26769",
+    "sender_email": "warrentimothy@example.com",
+    "addressee_phone": "303-719-6447x772",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 63.73,
+    "tracking_number": "CM119446828IE"
+  }
+}

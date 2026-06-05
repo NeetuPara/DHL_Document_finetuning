@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0799",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202412-9518",
+    "usppi_name": "Tech Kelly B.V.",
+    "usppi_address": "57954 Horton Village Apt. 189, Port Annettetown, AK 18438, Germany",
+    "usppi_country": "Germany",
+    "ein": "24-5849638",
+    "consignee_name": "Ward Global Corp.",
+    "consignee_address": "62893 Wells Streets, Katherinehaven, MP 27585, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Pollard Global GmbH",
+    "forwarder": "Expeditors",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Allison Holland",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/5",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 164,
+        "unit": "PCS",
+        "weight_kg": 55.88,
+        "value_usd": 4033.15
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 90,
+        "unit": "KGS",
+        "weight_kg": 90.0,
+        "value_usd": 1155.37
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 35,
+        "unit": "MTR",
+        "weight_kg": 18.28,
+        "value_usd": 179.53
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 165,
+        "unit": "BOX",
+        "weight_kg": 93.07,
+        "value_usd": 19701.61
+      },
+      {
+        "marks": "SLI/3",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 110,
+        "unit": "CTN",
+        "weight_kg": 88.14,
+        "value_usd": 961.91
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 182,
+        "unit": "LTR",
+        "weight_kg": 188.24,
+        "value_usd": 5127.09
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 105,
+        "unit": "PCS",
+        "weight_kg": 13.48,
+        "value_usd": 2920.13
+      }
+    ],
+    "total_weight_kg": 547.09,
+    "total_value_usd": 34078.79,
+    "service": "Express Courier",
+    "named_port": "Amsterdam Schiphol",
+    "insurance_value_usd": 27218.75,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-508986",
+    "destination_country": "Hong Kong"
+  }
+}

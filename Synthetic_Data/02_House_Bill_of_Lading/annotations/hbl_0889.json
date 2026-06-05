@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0889",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU573134873",
+    "shipper_name": "Moore Commerce Ltd",
+    "shipper_address": "0049 Susan Land, Stephanieshire, IN 87868, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Hoover Pacific GmbH",
+    "consignee_address": "77126 Juarez Knoll, West Maria, AZ 99885, India",
+    "consignee_country": "India",
+    "notify_party_name": "Hamilton Pacific AG",
+    "notify_party_address": "2966 Anthony Terrace Suite 596, East Jasonland, HI 16068, Singapore",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "161E",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Dubai, AE",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2024-07-23",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "QEDM9992986",
+        "seal_no": "CL151052",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "YWGZ8618133",
+        "seal_no": "BL723732",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "HOCZ4951507",
+        "seal_no": "BL442809",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 21,
+    "package_type": "Case",
+    "gross_weight_kg": 7955.0,
+    "net_weight_kg": 7503.3,
+    "cbm": 0.85,
+    "marks_and_numbers": "GLB/24"
+  }
+}

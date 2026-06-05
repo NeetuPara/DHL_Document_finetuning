@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0780",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-11746445",
+    "mawb_number": "176-34070878",
+    "shipper_name": "Rivera Tech B.V.",
+    "shipper_address": "234 Lambert Shoals Apt. 086, West Erik, LA 10264, China",
+    "consignee_name": "Harris Pacific Co.",
+    "consignee_address": "07239 Lisa Union Suite 523, North Troymouth, ND 00510, United Kingdom",
+    "agent_name": "Trade Collins AG",
+    "airport_departure": "YYZ",
+    "airport_destination": "MIA",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "CAD 12,962.97",
+    "declared_value_customs": "NCV",
+    "n_pieces": 16,
+    "gross_weight_kg": 358.5,
+    "chargeable_weight": 382.7,
+    "rate": 4.43,
+    "total_charge": 1695.36,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-03-28",
+    "signatory": "Margaret Rocha",
+    "iata_code": "31-425",
+    "agent_cass": "1547-7641",
+    "consolidation_ref": "CONS-1621-737734",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-44397372",
+        "pieces": 10,
+        "weight": 91.4,
+        "destination": "AMS",
+        "consignee": "Pacific Rodriguez LLC",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "006-38009483",
+        "pieces": 20,
+        "weight": 90.5,
+        "destination": "DXB",
+        "consignee": "Clark Global GmbH",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "176-66972203",
+        "pieces": 18,
+        "weight": 74.6,
+        "destination": "ICN",
+        "consignee": "Kelley Industry GmbH",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "125-38995197",
+        "pieces": 19,
+        "weight": 22.2,
+        "destination": "LHR",
+        "consignee": "Industry Velez LLC",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "085-34708240",
+        "pieces": 2,
+        "weight": 42.8,
+        "destination": "JFK",
+        "consignee": "Pacific Golden B.V.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "057-37973242",
+        "pieces": 19,
+        "weight": 81.6,
+        "destination": "FRA",
+        "consignee": "Taylor Global LLC",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "618-40618806",
+        "pieces": 15,
+        "weight": 81.6,
+        "destination": "NRT",
+        "consignee": "Davis Pacific Inc.",
+        "description": "Steel Products - Hot Rolled Coils"
+      }
+    ]
+  }
+}

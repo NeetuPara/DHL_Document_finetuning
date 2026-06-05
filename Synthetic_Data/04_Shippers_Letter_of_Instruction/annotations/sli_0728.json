@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0728",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202412-1274",
+    "usppi_name": "Burke International S.A.",
+    "usppi_address": "PSC 7898, Box 9555, APO AE 29170, United States",
+    "usppi_country": "United States",
+    "ein": "93-1753065",
+    "consignee_name": "Bennett Trade Pte Ltd",
+    "consignee_address": "073 Myers Stream Apt. 688, Lake Kevinshire, NE 22562, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Tech Carpenter Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Tracy Estrada",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/13",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 187,
+        "unit": "BOX",
+        "weight_kg": 232.78,
+        "value_usd": 8762.57
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 114,
+        "unit": "CTN",
+        "weight_kg": 133.22,
+        "value_usd": 1305.36
+      },
+      {
+        "marks": "SLI/10",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 43,
+        "unit": "MTR",
+        "weight_kg": 17.26,
+        "value_usd": 143.25
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 169,
+        "unit": "PCS",
+        "weight_kg": 155.37,
+        "value_usd": 298803.15
+      },
+      {
+        "marks": "ABC/13",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 25,
+        "unit": "PCS",
+        "weight_kg": 324.77,
+        "value_usd": 3562.18
+      },
+      {
+        "marks": "SLI/20",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 46,
+        "unit": "PCS",
+        "weight_kg": 9.93,
+        "value_usd": 5621.11
+      },
+      {
+        "marks": "SLI/33",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 114,
+        "unit": "CTN",
+        "weight_kg": 431.58,
+        "value_usd": 3401.63
+      }
+    ],
+    "total_weight_kg": 1304.91,
+    "total_value_usd": 321599.25,
+    "service": "Ocean Freight",
+    "named_port": "Singapore, SG",
+    "insurance_value_usd": 17797.98,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-158699",
+    "destination_country": "Malaysia"
+  }
+}

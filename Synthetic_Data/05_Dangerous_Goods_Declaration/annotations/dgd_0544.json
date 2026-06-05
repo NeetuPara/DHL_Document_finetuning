@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0544",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Graves GmbH",
+    "shipper_address": "8655 Jones Lakes, Cookshire, CT 55708, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Gardner Global Inc.",
+    "consignee_address": "052 Fisher Locks, Lake Alexandraberg, MH 15011, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+79 553-895-4695",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 19,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 58.98,
+        "qty_unit": "kg",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 1,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 47.44,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jennifer Taylor",
+    "signature_date": "2026-04-25",
+    "signature_place": "South Korea",
+    "awb_number": "057-42832181",
+    "flight_number": "QR9110",
+    "flight_date": "2026-05-21",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong"
+  }
+}

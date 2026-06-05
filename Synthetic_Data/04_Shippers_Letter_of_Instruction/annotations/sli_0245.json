@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0245",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202604-1738",
+    "usppi_name": "Global Brown Corp.",
+    "usppi_address": "266 Phillips Burgs, South Nicholas, FL 66310, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "42-8397266",
+    "consignee_name": "Global Parks Corp.",
+    "consignee_address": "251 Paul Mill, New Emilyhaven, MP 03940, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "International Adams Co.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Daniel Case",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/43",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 106,
+        "unit": "MTR",
+        "weight_kg": 117.06,
+        "value_usd": 1446.2
+      },
+      {
+        "marks": "SLI/17",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 167,
+        "unit": "PCS",
+        "weight_kg": 219.45,
+        "value_usd": 4763.74
+      },
+      {
+        "marks": "EXP/49",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 56,
+        "unit": "PCS",
+        "weight_kg": 5.45,
+        "value_usd": 5299.95
+      },
+      {
+        "marks": "EXP/40",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 101,
+        "unit": "PCS",
+        "weight_kg": 86.28,
+        "value_usd": 38401.61
+      }
+    ],
+    "total_weight_kg": 428.24,
+    "total_value_usd": 49911.5,
+    "service": "Ground",
+    "named_port": "Miami International",
+    "insurance_value_usd": 41601.24,
+    "license_type": "Distributor License",
+    "license_number": "LIC-571910",
+    "destination_country": "Brazil"
+  }
+}

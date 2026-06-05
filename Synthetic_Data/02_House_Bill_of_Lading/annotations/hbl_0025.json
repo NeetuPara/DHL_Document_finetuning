@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0025",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU271150158",
+    "shipper_name": "Shields Pacific LLC",
+    "shipper_address": "025 Francis Garden Suite 550, Colebury, VT 63371, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Global Knight GmbH",
+    "consignee_address": "082 Robin Street Suite 749, Bruceland, MP 68405, India",
+    "consignee_country": "India",
+    "notify_party_name": "Global Watson LLC",
+    "notify_party_address": "16530 Timothy Place Suite 479, Larsenhaven, UT 47701, Switzerland",
+    "vessel": "ONE INNOVATION",
+    "voyage": "213S",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Dubai, AE",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2025-03-22",
+    "issue_place": "New York",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "ZZNC3706284",
+        "seal_no": "SL681081",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "KZUS1529127",
+        "seal_no": "BL651947",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "VMRE2441349",
+        "seal_no": "CL936225",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 437,
+    "package_type": "Bag",
+    "gross_weight_kg": 2018.3,
+    "net_weight_kg": 1956.0,
+    "cbm": 28.899,
+    "marks_and_numbers": "GLB/36"
+  }
+}

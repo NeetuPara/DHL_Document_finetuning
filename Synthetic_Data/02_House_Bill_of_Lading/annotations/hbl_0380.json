@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0380",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU704964811",
+    "shipper_name": "Trade Sanchez LLC",
+    "shipper_address": "16599 Richardson Ford, Delgadoberg, PR 35851, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "International Salazar Corp.",
+    "consignee_address": "5017 Juan Mountain, Norrisview, CO 53192, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "Global Campbell GmbH",
+    "notify_party_address": "8080 Gregory Curve, Jennifershire, HI 56482, China",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "296E",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2026-04-16",
+    "issue_place": "Long Beach",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "NHUC9645923",
+        "seal_no": "CL146763",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "LIPN7799756",
+        "seal_no": "CL121931",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 309,
+    "package_type": "Bag",
+    "gross_weight_kg": 13992.5,
+    "net_weight_kg": 12552.3,
+    "cbm": 9.464,
+    "marks_and_numbers": "XYZ/2"
+  }
+}

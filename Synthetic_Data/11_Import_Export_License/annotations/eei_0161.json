@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0161",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20221214319085",
+    "export_date": "2026-04-06",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Stone Tech AG",
+    "usppi_ein": "70-9926631",
+    "usppi_address": "1573 Melissa Alley, Boothport, AS 54917, Germany",
+    "ultimate_consignee": "Wilson Industry AG",
+    "intermediate_consignee": "Pacific Benjamin LLC",
+    "forwarding_agent": "Tech Price Corp.",
+    "destination_country": "Sweden",
+    "carrier": "FedEx",
+    "bl_awb": "057-88175793",
+    "total_value": 247906.98,
+    "currency": "CAD",
+    "signatory": "Jennifer Mayer",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Japan",
+        "qty": 309,
+        "unit": "PCS",
+        "entered_value": 135549.03,
+        "duty_rate": 21.1,
+        "duty_amount": 28600.85,
+        "eccn": "EAR99",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Australia",
+        "qty": 365,
+        "unit": "PCS",
+        "entered_value": 112357.95,
+        "duty_rate": 18.3,
+        "duty_amount": 20561.5,
+        "eccn": "7A994",
+        "schedule_b": "8534.00.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

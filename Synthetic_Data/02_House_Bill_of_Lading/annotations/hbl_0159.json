@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0159",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG132673435",
+    "shipper_name": "Phillips Commerce Inc.",
+    "shipper_address": "96579 Hampton Street, Port Karaland, CO 42019, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Tech Carter S.A.",
+    "consignee_address": "00790 Michael Isle, Port James, NH 69108, Canada",
+    "consignee_country": "Canada",
+    "notify_party_name": "International Oliver Corp.",
+    "notify_party_address": "USS Garcia, FPO AE 42838, United Kingdom",
+    "vessel": "PIL PACIFIC",
+    "voyage": "905E",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2025-10-01",
+    "issue_place": "Qingdao",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "NHBQ8950413",
+        "seal_no": "BL540162",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "KJNF7890568",
+        "seal_no": "SL391528",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "QLEZ4174593",
+        "seal_no": "SL295448",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 105,
+    "package_type": "Bag",
+    "gross_weight_kg": 7072.9,
+    "net_weight_kg": 6466.1,
+    "cbm": 5.059,
+    "marks_and_numbers": "ABC/30"
+  }
+}

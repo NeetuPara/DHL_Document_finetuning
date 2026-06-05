@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0220",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "010-91811729-4",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2026-05-04",
+    "port_of_entry": "SEA - Seattle",
+    "transport_mode": "Air",
+    "carrier": "DHL Express",
+    "bl_awb": "176-93692662",
+    "importer_name": "International Shields AG",
+    "importer_ein": "49-8356493",
+    "consignee_name": "Trade Griffin B.V.",
+    "customs_broker": "Pacific Kennedy GmbH",
+    "broker_filer_code": "Gmc",
+    "country_of_origin": "Switzerland",
+    "total_value": 282323.43,
+    "total_duty": 69645.36,
+    "currency": "JPY",
+    "signatory": "Edwin Stark",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 391,
+        "unit": "PCS",
+        "entered_value": 185427.84,
+        "duty_rate": 24.6,
+        "duty_amount": 45615.25,
+        "eccn": "3A992",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Brazil",
+        "qty": 363,
+        "unit": "CTN",
+        "entered_value": 96895.59,
+        "duty_rate": 24.8,
+        "duty_amount": 24030.11,
+        "eccn": "0A919",
+        "schedule_b": "4819.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

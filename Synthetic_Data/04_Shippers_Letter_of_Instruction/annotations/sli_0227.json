@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0227",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202509-3253",
+    "usppi_name": "Ayala International Inc.",
+    "usppi_address": "PSC 9676, Box 0337, APO AE 73207, Italy",
+    "usppi_country": "Italy",
+    "ein": "17-7058590",
+    "consignee_name": "Mendez Pacific Corp.",
+    "consignee_address": "PSC 0205, Box 9435, APO AP 91790, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Garner Global AG",
+    "forwarder": "Expeditors",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Jamie Barnes",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/48",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 64,
+        "unit": "LTR",
+        "weight_kg": 61.37,
+        "value_usd": 1447.69
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 174,
+        "unit": "PCS",
+        "weight_kg": 199.38,
+        "value_usd": 128493.97
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 194,
+        "unit": "PCS",
+        "weight_kg": 89.96,
+        "value_usd": 16900.02
+      },
+      {
+        "marks": "ABC/11",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 128,
+        "unit": "PCS",
+        "weight_kg": 2052.72,
+        "value_usd": 30752.3
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 5,
+        "unit": "MTR",
+        "weight_kg": 4.95,
+        "value_usd": 88.0
+      }
+    ],
+    "total_weight_kg": 2408.38,
+    "total_value_usd": 177681.98,
+    "service": "LCL Ocean",
+    "named_port": "Tanjung Pelepas, MY",
+    "insurance_value_usd": 8184.55,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-125405",
+    "destination_country": "Netherlands"
+  }
+}

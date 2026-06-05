@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0732",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-81033653",
+    "mawb_number": "125-39122921",
+    "shipper_name": "International Rodriguez GmbH",
+    "shipper_address": "885 Simpson Forest Suite 631, North Darrenfurt, GU 27475, United States",
+    "consignee_name": "Pacific Sanchez Pte Ltd",
+    "consignee_address": "037 Contreras Ford Suite 823, Smithtown, MA 73571, Switzerland",
+    "agent_name": "Hayes Tech LLC",
+    "airport_departure": "DXB",
+    "airport_destination": "SIN",
+    "currency": "GBP",
+    "charge_code": "PP",
+    "declared_value_carriage": "CAD 27,054.99",
+    "declared_value_customs": "NCV",
+    "n_pieces": 12,
+    "gross_weight_kg": 478.8,
+    "chargeable_weight": 521.7,
+    "rate": 7.95,
+    "total_charge": 4147.52,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-08-03",
+    "signatory": "Kenneth Jimenez",
+    "iata_code": "62-510",
+    "agent_cass": "5157-9267",
+    "consolidation_ref": "CONS-8889-888386",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-28172226",
+        "pieces": 10,
+        "weight": 13.9,
+        "destination": "SYD",
+        "consignee": "Powers Industry AG",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "006-84680043",
+        "pieces": 6,
+        "weight": 93.3,
+        "destination": "FRA",
+        "consignee": "Stanley Industry B.V.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "160-26117743",
+        "pieces": 3,
+        "weight": 34.7,
+        "destination": "LHR",
+        "consignee": "Simon Global LLC",
+        "description": "Industrial Machinery Parts - Steel "
+      }
+    ]
+  }
+}

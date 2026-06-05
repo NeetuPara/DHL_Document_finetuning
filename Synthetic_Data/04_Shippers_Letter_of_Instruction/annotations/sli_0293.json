@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0293",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202102-2156",
+    "usppi_name": "International Hanson S.A.",
+    "usppi_address": "30039 Friedman Unions, East Peter, FL 36994, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "56-7215029",
+    "consignee_name": "Finley Pacific Co.",
+    "consignee_address": "526 Morgan Shoals, East Michelleburgh, SC 09031, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Trade Martin Inc.",
+    "forwarder": "Panalpina",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Elizabeth Francis",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/28",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 27,
+        "unit": "PCS",
+        "weight_kg": 31.61,
+        "value_usd": 36291.62
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 140,
+        "unit": "PCS",
+        "weight_kg": 1955.35,
+        "value_usd": 99428.97
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 65,
+        "unit": "PCS",
+        "weight_kg": 5.01,
+        "value_usd": 3591.88
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 196,
+        "unit": "PCS",
+        "weight_kg": 3908.63,
+        "value_usd": 33852.97
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 135,
+        "unit": "CTN",
+        "weight_kg": 243.83,
+        "value_usd": 7054.22
+      }
+    ],
+    "total_weight_kg": 6144.43,
+    "total_value_usd": 180219.66,
+    "service": "Air Freight",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 17505.28,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-565404",
+    "destination_country": "Spain"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0050",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240713073958",
+    "export_date": "2025-10-07",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Industry Watson Ltd",
+    "usppi_ein": "39-6026426",
+    "usppi_address": "352 Robert Garden Apt. 951, Joelville, VI 09705, Belgium",
+    "ultimate_consignee": "Holmes Tech B.V.",
+    "intermediate_consignee": "Tech Baldwin Pte Ltd",
+    "forwarding_agent": "Trade Carr LLC",
+    "destination_country": "Sweden",
+    "carrier": "FedEx",
+    "bl_awb": "045-14222286",
+    "total_value": 84053.71,
+    "currency": "GBP",
+    "signatory": "Amber Butler",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 112,
+        "unit": "PCS",
+        "entered_value": 26160.96,
+        "duty_rate": 4.4,
+        "duty_amount": 1151.08,
+        "eccn": "3A992",
+        "schedule_b": "8483.40.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "India",
+        "qty": 443,
+        "unit": "KGS",
+        "entered_value": 19243.92,
+        "duty_rate": 18.6,
+        "duty_amount": 3579.37,
+        "eccn": "EAR99",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Mexico",
+        "qty": 455,
+        "unit": "SET",
+        "entered_value": 3831.1,
+        "duty_rate": 6.0,
+        "duty_amount": 229.87,
+        "eccn": "2B350",
+        "schedule_b": "8708.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Brazil",
+        "qty": 4,
+        "unit": "KGS",
+        "entered_value": 1366.52,
+        "duty_rate": 19.9,
+        "duty_amount": 271.94,
+        "eccn": "3A992",
+        "schedule_b": "2008.19.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Poland",
+        "qty": 377,
+        "unit": "PCS",
+        "entered_value": 33451.21,
+        "duty_rate": 12.4,
+        "duty_amount": 4147.95,
+        "eccn": "EAR99",
+        "schedule_b": "8518.30.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

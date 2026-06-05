@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0709",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Robert Hill",
+    "addressee_company": "Industry Smith S.A.",
+    "addressee_address": "4090 Gary Cove Suite 405, Gardnerstad, MT 29583, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 6.671,
+    "total_value": 1564.18,
+    "currency": "CHF",
+    "issue_date": "2026-01-01",
+    "reference": "REF-660428",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.816,
+        "value": 148.96,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 19,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.892,
+        "value": 696.92,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 5,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.963,
+        "value": 718.3,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Allen Juarez",
+    "sender_company": "Global Brown AG",
+    "sender_address": "01975 Mitchell Groves Suite 909, Johnstad, IL 15907, Thailand",
+    "sender_phone": "705.470.5435x23241",
+    "sender_email": "michaelblake@example.net",
+    "addressee_phone": "001-967-682-3291x9541",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 6.26,
+    "tracking_number": "RC214140704HU"
+  }
+}

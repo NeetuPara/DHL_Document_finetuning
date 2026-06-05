@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0607",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "386-95386029-9",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2026-03-31",
+    "port_of_entry": "BOS - Boston",
+    "transport_mode": "Ocean",
+    "carrier": "UPS",
+    "bl_awb": "125-85829572",
+    "importer_name": "Commerce Rasmussen Co.",
+    "importer_ein": "33-8847674",
+    "consignee_name": "Garrett Commerce Inc.",
+    "customs_broker": "Global Hubbard GmbH",
+    "broker_filer_code": "mIw",
+    "country_of_origin": "Malaysia",
+    "total_value": 317260.45,
+    "total_duty": 12557.15,
+    "currency": "EUR",
+    "signatory": "Kristopher Lewis",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Australia",
+        "qty": 423,
+        "unit": "KGS",
+        "entered_value": 52363.17,
+        "duty_rate": 10.1,
+        "duty_amount": 5288.68,
+        "eccn": "9A515",
+        "schedule_b": "2008.19.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "United States",
+        "qty": 342,
+        "unit": "PCS",
+        "entered_value": 73978.02,
+        "duty_rate": 1.8,
+        "duty_amount": 1331.6,
+        "eccn": "3A992",
+        "schedule_b": "8518.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Netherlands",
+        "qty": 472,
+        "unit": "BOX",
+        "entered_value": 163175.12,
+        "duty_rate": 2.9,
+        "duty_amount": 4732.08,
+        "eccn": "7A994",
+        "schedule_b": "2936.90.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Malaysia",
+        "qty": 85,
+        "unit": "PKG",
+        "entered_value": 25324.9,
+        "duty_rate": 4.7,
+        "duty_amount": 1190.27,
+        "eccn": "1A002",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "China",
+        "qty": 124,
+        "unit": "PCS",
+        "entered_value": 2419.24,
+        "duty_rate": 0.6,
+        "duty_amount": 14.52,
+        "eccn": "2B350",
+        "schedule_b": "8518.30.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

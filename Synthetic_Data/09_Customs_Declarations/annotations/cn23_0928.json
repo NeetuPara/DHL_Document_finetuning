@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0928",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Theresa Silva",
+    "addressee_company": "Pacific Johnson B.V.",
+    "addressee_address": "21029 Coleman Stravenue Suite 422, Lindaberg, HI 16391, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 7.123,
+    "total_value": 4181.86,
+    "currency": "CNY",
+    "issue_date": "2026-04-17",
+    "reference": "REF-202557",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.081,
+        "value": 948.6,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 18,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.778,
+        "value": 2593.26,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 5,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.264,
+        "value": 640.0,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Italy"
+      }
+    ],
+    "sender_name": "Roger Serrano",
+    "sender_company": "Pacific Allen Pte Ltd",
+    "sender_address": "6382 Timothy Shoal Suite 090, Stevensmouth, DE 86759, Brazil",
+    "sender_phone": "(431)490-1546",
+    "sender_email": "davidmeadows@example.org",
+    "addressee_phone": "365-653-4666x59522",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 4600.05,
+    "postal_charges": 43.35,
+    "tracking_number": "TM436285163KA"
+  }
+}

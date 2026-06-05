@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0588",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-25919882",
+    "mawb_number": "020-96762719",
+    "shipper_name": "Stokes Tech S.A.",
+    "shipper_address": "340 Jackson Lock, Taylorborough, MH 31830, Spain",
+    "consignee_name": "Trade Drake AG",
+    "consignee_address": "PSC 2328, Box 3296, APO AE 65554, China",
+    "agent_name": "Pacific Johnson GmbH",
+    "airport_departure": "JFK",
+    "airport_destination": "PVG",
+    "currency": "SGD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 19,
+    "gross_weight_kg": 70.8,
+    "chargeable_weight": 81.7,
+    "rate": 8.82,
+    "total_charge": 720.59,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-01-09",
+    "signatory": "Robert Rodriguez",
+    "iata_code": "14-693",
+    "agent_cass": "3244-1242",
+    "consolidation_ref": "CONS-8900-302803",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-22781457",
+        "pieces": 20,
+        "weight": 30.7,
+        "destination": "LAX",
+        "consignee": "Lopez Trade Pte Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "618-31633989",
+        "pieces": 12,
+        "weight": 58.2,
+        "destination": "SIN",
+        "consignee": "International Rosales Corp.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "074-75811064",
+        "pieces": 6,
+        "weight": 86.2,
+        "destination": "LHR",
+        "consignee": "Tech White LLC",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "057-92050839",
+        "pieces": 6,
+        "weight": 59.7,
+        "destination": "LAX",
+        "consignee": "Blackwell International Ltd",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "045-36789121",
+        "pieces": 10,
+        "weight": 19.1,
+        "destination": "ICN",
+        "consignee": "Commerce Hanna Co.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "176-34079902",
+        "pieces": 1,
+        "weight": 72.0,
+        "destination": "ICN",
+        "consignee": "Commerce Blair Inc.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "618-63799480",
+        "pieces": 12,
+        "weight": 11.2,
+        "destination": "LAX",
+        "consignee": "Industry Jennings Co.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

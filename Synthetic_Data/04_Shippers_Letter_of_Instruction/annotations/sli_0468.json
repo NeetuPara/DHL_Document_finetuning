@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0468",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202009-8140",
+    "usppi_name": "Tech Copeland GmbH",
+    "usppi_address": "36401 Patricia Plaza Suite 526, Colemanshire, NH 31498, Poland",
+    "usppi_country": "Poland",
+    "ein": "52-9020557",
+    "consignee_name": "Martinez Pacific AG",
+    "consignee_address": "7206 Middleton Hill Apt. 473, New Cheyenneton, VA 96357, France",
+    "consignee_country": "France",
+    "notify_party": "Commerce Ali Inc.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Brian Clark",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/2",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 148,
+        "unit": "MTR",
+        "weight_kg": 87.47,
+        "value_usd": 1908.62
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 72,
+        "unit": "PCS",
+        "weight_kg": 4.12,
+        "value_usd": 3718.47
+      },
+      {
+        "marks": "EXP/14",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 116,
+        "unit": "CTN",
+        "weight_kg": 106.28,
+        "value_usd": 1120.1
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 102,
+        "unit": "PCS",
+        "weight_kg": 1799.25,
+        "value_usd": 23926.74
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 38,
+        "unit": "CTN",
+        "weight_kg": 165.46,
+        "value_usd": 1282.43
+      }
+    ],
+    "total_weight_kg": 2162.58,
+    "total_value_usd": 31956.36,
+    "vessel": "MSC OSCAR",
+    "voyage": "549S",
+    "booking_ref": "BKG-612622",
+    "bl_number": "OOLU921495966",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "LIUA0958793",
+    "seal_number": "BL820289",
+    "container_type": "40'GP",
+    "cbm": 14.787
+  }
+}

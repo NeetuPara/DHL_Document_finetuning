@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0764",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV558902184",
+    "shipper_name": "Vasquez Global Pte Ltd",
+    "shipper_address": "726 Elizabeth Crest Apt. 750, Gregorytown, IL 03868, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Mitchell Tech AG",
+    "consignee_address": "3536 Romero Cape Suite 602, Jimenezton, ND 69937, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "Espinoza Global Co.",
+    "notify_party_address": "40769 James Ridge Suite 828, New Tinaview, SD 18018, Mexico",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "380W",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Felixstowe, GB",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2025-07-14",
+    "issue_place": "New York",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "ZOMM5140465",
+        "seal_no": "SL520525",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "RVGL7161525",
+        "seal_no": "CL356179",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "VTON3580095",
+        "seal_no": "SL775288",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 255,
+    "package_type": "Crate",
+    "gross_weight_kg": 3770.1,
+    "net_weight_kg": 3620.2,
+    "cbm": 19.541,
+    "marks_and_numbers": "ABC/46"
+  }
+}

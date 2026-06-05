@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0446",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU170656888",
+    "shipper_name": "Global Odonnell LLC",
+    "shipper_address": "48969 Eric Way Suite 628, South Christopher, CO 58343, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "International Bowman GmbH",
+    "consignee_address": "23803 Newman Shoal Suite 832, Clarkburgh, ID 63025, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party_name": "Global Howard GmbH",
+    "notify_party_address": "48475 Ryan Key, East Antonioton, RI 62066, Italy",
+    "vessel": "MADRID MAERSK",
+    "voyage": "194E",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2025-06-02",
+    "issue_place": "Colombo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "TLML7258754",
+        "seal_no": "BL606033",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "UGSL8576971",
+        "seal_no": "CL555497",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 258,
+    "package_type": "Carton",
+    "gross_weight_kg": 3760.7,
+    "net_weight_kg": 3548.4,
+    "cbm": 21.417,
+    "marks_and_numbers": "ABC/33"
+  }
+}

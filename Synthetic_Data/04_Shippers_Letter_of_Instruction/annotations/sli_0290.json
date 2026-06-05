@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0290",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202408-1280",
+    "usppi_name": "Tech Young Inc.",
+    "usppi_address": "USS Bautista, FPO AP 86053, Poland",
+    "usppi_country": "Poland",
+    "ein": "84-8144586",
+    "consignee_name": "International Henderson Inc.",
+    "consignee_address": "38062 Alexander Cape, North Leslie, MO 47592, China",
+    "consignee_country": "China",
+    "notify_party": "Downs Commerce Inc.",
+    "forwarder": "Expeditors",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Ariana Thompson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/46",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 199,
+        "unit": "BOX",
+        "weight_kg": 295.51,
+        "value_usd": 18084.2
+      },
+      {
+        "marks": "SLI/40",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 86,
+        "unit": "KGS",
+        "weight_kg": 86.0,
+        "value_usd": 95.5
+      },
+      {
+        "marks": "SLI/8",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 173,
+        "unit": "SET",
+        "weight_kg": 207.72,
+        "value_usd": 8459.12
+      }
+    ],
+    "total_weight_kg": 589.23,
+    "total_value_usd": 26638.82,
+    "service": "Ground",
+    "named_port": "Toronto Pearson",
+    "insurance_value_usd": 8429.62,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-999588",
+    "destination_country": "China"
+  }
+}

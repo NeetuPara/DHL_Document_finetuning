@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0126",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Maxwell Hart",
+    "addressee_company": "Bonilla International LLC",
+    "addressee_address": "220 Kelly Forest Suite 789, Willisborough, OR 99745, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 9.655,
+    "total_value": 1482.27,
+    "currency": "CNY",
+    "issue_date": "2026-01-09",
+    "reference": "REF-460976",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.484,
+        "value": 20.25,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 14,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.976,
+        "value": 147.42,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 20,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.389,
+        "value": 155.4,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 9,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.806,
+        "value": 1159.2,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_country": "Netherlands",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "531-95250957-5",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 4.4,
+    "estimated_duty": 65.22,
+    "importer_ein": "47-6216635",
+    "customs_broker": "Ball Industry S.A."
+  }
+}

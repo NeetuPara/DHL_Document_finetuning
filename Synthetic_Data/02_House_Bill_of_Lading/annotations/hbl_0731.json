@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0731",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU360894303",
+    "shipper_name": "Pacific Andersen Co.",
+    "shipper_address": "14337 King Street, North Jeffrey, AK 57708, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Juarez Industry Pte Ltd",
+    "consignee_address": "316 Bryan Via, Wilsonchester, FL 55719, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party_name": "Trade Wells Inc.",
+    "notify_party_address": "216 Hernandez Falls, Stevenburgh, NY 70606, Spain",
+    "vessel": "EVER GOLDEN",
+    "voyage": "509E",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2024-10-14",
+    "issue_place": "Felixstowe",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "STFB8146475",
+        "seal_no": "BL288439",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "WEBV0384235",
+        "seal_no": "BL964491",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "YOSH5973954",
+        "seal_no": "SL246264",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 293,
+    "package_type": "Bag",
+    "gross_weight_kg": 22292.9,
+    "net_weight_kg": 20690.4,
+    "cbm": 29.356,
+    "marks_and_numbers": "ABC/10"
+  }
+}

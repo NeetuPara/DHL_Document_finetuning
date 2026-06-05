@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0295",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Thompson Corp.",
+    "shipper_address": "51294 Combs Lights, South Vincentton, DE 79209, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Ward Trade Co.",
+    "consignee_address": "Unit 1131 Box 6378, DPO AE 63571, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+49 214-437-4372",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 41,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 7.58,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 39,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 78.23,
+        "qty_unit": "kg",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-277103",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "William Vang",
+    "signature_date": "2026-05-09",
+    "signature_place": "South Korea",
+    "awb_number": "006-19094841",
+    "flight_number": "LH8517",
+    "flight_date": "2026-05-22",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong"
+  }
+}

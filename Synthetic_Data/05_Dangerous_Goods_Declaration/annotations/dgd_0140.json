@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0140",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Griffin LLC",
+    "shipper_address": "46815 Michael Brook, Dawnstad, DC 37570, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Phillips Industry Corp.",
+    "consignee_address": "857 Kenneth Well Apt. 271, Rubiofurt, HI 78824, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+46 524-902-4664",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 17,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 38.33,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Christopher Perez",
+    "signature_date": "2026-05-04",
+    "signature_place": "Mexico",
+    "vessel": "CSCL GLOBE",
+    "voyage": "603E",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Shanghai, CN"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "document_id": "coo_0123",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202212-6944",
+    "exporter_name": "Dawson Trade AG",
+    "exporter_address": "745 Kevin Walks, New Carolborough, WI 10091, Japan",
+    "exporter_country": "Japan",
+    "consignee_name": "Green Global LLC",
+    "consignee_address": "PSC 3267, Box 4915, APO AE 48515, Singapore",
+    "consignee_country": "Singapore",
+    "country_of_origin": "Japan",
+    "country_of_destination": "Singapore",
+    "bl_or_awb": "COSU652368947",
+    "issue_date": "2026-03-06",
+    "certifier_name": "Philip Gaines",
+    "goods": [
+      {
+        "description": "Textile Fabrics - Woven Polyester",
+        "hs_code": "5407.42.00",
+        "qty": 425,
+        "unit": "MTR",
+        "weight_kg": 389.76,
+        "origin_criterion": "F",
+        "value": 1441.67
+      },
+      {
+        "description": "Medical Devices - Disposable Syringes",
+        "hs_code": "9018.31.00",
+        "qty": 296,
+        "unit": "CTN",
+        "weight_kg": 766.25,
+        "origin_criterion": "D",
+        "value": 14934.38
+      },
+      {
+        "description": "Chemical Compounds - Industrial Solvents",
+        "hs_code": "2901.10.00",
+        "qty": 429,
+        "unit": "LTR",
+        "weight_kg": 450.15,
+        "origin_criterion": "D",
+        "value": 12968.67
+      },
+      {
+        "description": "Plastic Products - Injection Moulded Components",
+        "hs_code": "3926.90.00",
+        "qty": 219,
+        "unit": "PCS",
+        "weight_kg": 179.34,
+        "origin_criterion": "D",
+        "value": 1416.26
+      },
+      {
+        "description": "Wooden Furniture - Office Chairs",
+        "hs_code": "9401.30.00",
+        "qty": 270,
+        "unit": "PCS",
+        "weight_kg": 2480.97,
+        "origin_criterion": "D",
+        "value": 92136.9
+      }
+    ],
+    "fta_agreement": "RCEP",
+    "chamber": "Trade Association"
+  }
+}

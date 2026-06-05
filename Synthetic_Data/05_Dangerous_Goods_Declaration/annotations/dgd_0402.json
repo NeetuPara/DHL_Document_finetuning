@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0402",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Wilson GmbH",
+    "shipper_address": "8600 Grace Village Suite 598, Tammychester, AK 32090, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Pierce Pacific Co.",
+    "consignee_address": "53035 Hernandez Villages, Shawberg, GU 70580, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+73 976-469-9485",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 5,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 1.25,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 13,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 97.85,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Melanie Gonzalez",
+    "signature_date": "2026-05-05",
+    "signature_place": "United States",
+    "awb_number": "160-69702683",
+    "flight_number": "CX1590",
+    "departure_airport_code": "FRA",
+    "departure_airport_name": "Frankfurt Airport",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

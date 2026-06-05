@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0344",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Alisha Johnson",
+    "addressee_company": "Tech Bryant B.V.",
+    "addressee_address": "34911 Kyle Village Apt. 679, Susantown, SD 33314, United Kingdom",
+    "addressee_country": "United Kingdom",
+    "total_weight_kg": 13.717,
+    "total_value": 4678.28,
+    "currency": "GBP",
+    "issue_date": "2026-05-12",
+    "reference": "REF-066070",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.623,
+        "value": 733.5,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 14,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.45,
+        "value": 1138.9,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 19,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.004,
+        "value": 1678.84,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 12,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.656,
+        "value": 475.68,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 12,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.984,
+        "value": 651.36,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Nicole Malone",
+    "sender_company": "Global Peck AG",
+    "sender_address": "6891 Perez Prairie Suite 157, West Tyler, IL 81851, United Arab Emirates",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 5146.11,
+    "postal_charges": 77.07,
+    "tracking_number": "MG903964405BX"
+  }
+}

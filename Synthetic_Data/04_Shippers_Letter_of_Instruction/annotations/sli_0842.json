@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0842",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202203-2854",
+    "usppi_name": "Trade Bowman Corp.",
+    "usppi_address": "PSC 8719, Box 0848, APO AA 63947, Australia",
+    "usppi_country": "Australia",
+    "ein": "10-5034834",
+    "consignee_name": "King Pacific GmbH",
+    "consignee_address": "021 Williams Mall, Michelleton, MN 39128, United States",
+    "consignee_country": "United States",
+    "notify_party": "Harris Trade Pte Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Elizabeth Gibson",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/21",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 7,
+        "unit": "PCS",
+        "weight_kg": 1.24,
+        "value_usd": 775.17
+      },
+      {
+        "marks": "SLI/34",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 74,
+        "unit": "BOX",
+        "weight_kg": 109.85,
+        "value_usd": 3967.65
+      },
+      {
+        "marks": "EXP/1",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 52,
+        "unit": "CTN",
+        "weight_kg": 211.78,
+        "value_usd": 2045.19
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 38,
+        "unit": "KGS",
+        "weight_kg": 38.0,
+        "value_usd": 660.42
+      },
+      {
+        "marks": "ABC/18",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 138,
+        "unit": "CTN",
+        "weight_kg": 237.72,
+        "value_usd": 2048.46
+      }
+    ],
+    "total_weight_kg": 598.59,
+    "total_value_usd": 9496.89,
+    "service": "Air Freight",
+    "named_port": "Amsterdam Schiphol",
+    "insurance_value_usd": 29890.43,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-374315",
+    "destination_country": "United States"
+  }
+}

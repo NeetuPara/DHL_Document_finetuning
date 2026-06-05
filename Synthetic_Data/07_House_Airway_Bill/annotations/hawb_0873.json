@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0873",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-60067528",
+    "mawb_number": "057-17192091",
+    "shipper_name": "Commerce Castro GmbH",
+    "shipper_address": "997 Kim Spur Apt. 953, Reyesborough, ND 76998, Canada",
+    "consignee_name": "Pacific Wu GmbH",
+    "consignee_address": "8902 Luis River, Lunaberg, MA 56806, Sweden",
+    "agent_name": "Cisneros International GmbH",
+    "airport_departure": "ORD",
+    "airport_destination": "NRT",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 20,
+    "gross_weight_kg": 323.1,
+    "chargeable_weight": 364.0,
+    "rate": 5.41,
+    "total_charge": 1969.24,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-05-22",
+    "signatory": "Joseph Coleman",
+    "iata_code": "25-553",
+    "agent_cass": "9941-3688",
+    "consolidation_ref": "CONS-6778-108608",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-51795706",
+        "pieces": 18,
+        "weight": 55.5,
+        "destination": "YYZ",
+        "consignee": "Smith Industry B.V.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "085-68157305",
+        "pieces": 10,
+        "weight": 27.6,
+        "destination": "YYZ",
+        "consignee": "Wood Trade B.V.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "085-21576366",
+        "pieces": 17,
+        "weight": 33.1,
+        "destination": "CDG",
+        "consignee": "Friedman Commerce S.A.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "045-26824281",
+        "pieces": 18,
+        "weight": 11.6,
+        "destination": "LHR",
+        "consignee": "Mack Global Corp.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "085-32118259",
+        "pieces": 18,
+        "weight": 54.0,
+        "destination": "MIA",
+        "consignee": "Commerce Wade Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "160-92709883",
+        "pieces": 11,
+        "weight": 98.0,
+        "destination": "FRA",
+        "consignee": "Tech Gray Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "125-29539282",
+        "pieces": 5,
+        "weight": 97.1,
+        "destination": "AMS",
+        "consignee": "Commerce Figueroa AG",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

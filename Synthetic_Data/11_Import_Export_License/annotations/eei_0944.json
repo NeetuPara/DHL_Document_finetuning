@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0944",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20201028062540",
+    "export_date": "2025-12-23",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Tech Waller LLC",
+    "usppi_ein": "32-9665312",
+    "usppi_address": "093 Lisa Underpass, Cameronmouth, CT 68004, Malaysia",
+    "ultimate_consignee": "Pacific Jackson GmbH",
+    "intermediate_consignee": "Global Conway Inc.",
+    "forwarding_agent": "Morgan Trade LLC",
+    "destination_country": "Spain",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "125-20959546",
+    "total_value": 448977.37,
+    "currency": "EUR",
+    "signatory": "Debra Wright",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "United States",
+        "qty": 191,
+        "unit": "PCS",
+        "entered_value": 71964.98,
+        "duty_rate": 22.0,
+        "duty_amount": 15832.3,
+        "eccn": "3A992",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Switzerland",
+        "qty": 498,
+        "unit": "CTN",
+        "entered_value": 173199.42,
+        "duty_rate": 6.5,
+        "duty_amount": 11257.96,
+        "eccn": "7A994",
+        "schedule_b": "9018.31.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Australia",
+        "qty": 233,
+        "unit": "SET",
+        "entered_value": 69841.75,
+        "duty_rate": 18.1,
+        "duty_amount": 12641.36,
+        "eccn": "EAR99",
+        "schedule_b": "8708.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Australia",
+        "qty": 382,
+        "unit": "MTR",
+        "entered_value": 133971.22,
+        "duty_rate": 22.9,
+        "duty_amount": 30679.41,
+        "eccn": "5E992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

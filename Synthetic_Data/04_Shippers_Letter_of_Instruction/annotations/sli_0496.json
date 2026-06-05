@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0496",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202008-4786",
+    "usppi_name": "International Hull GmbH",
+    "usppi_address": "8964 Harrell Ferry Apt. 683, New Kevinview, SC 25971, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "57-1214364",
+    "consignee_name": "Mcdaniel Tech S.A.",
+    "consignee_address": "682 Joseph Flat Apt. 902, Hallport, AS 61866, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Commerce Howard GmbH",
+    "forwarder": "DB Schenker",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5A002",
+    "signatory_name": "John Sparks DDS",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/25",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 5,
+        "unit": "LTR",
+        "weight_kg": 5.3,
+        "value_usd": 33.92
+      },
+      {
+        "marks": "EXP/9",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 194,
+        "unit": "BOX",
+        "weight_kg": 59.49,
+        "value_usd": 18146.1
+      },
+      {
+        "marks": "EXP/40",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 162,
+        "unit": "PCS",
+        "weight_kg": 21.64,
+        "value_usd": 14846.82
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 36,
+        "unit": "PCS",
+        "weight_kg": 47.27,
+        "value_usd": 348.47
+      },
+      {
+        "marks": "SLI/20",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 178,
+        "unit": "PKG",
+        "weight_kg": 252.85,
+        "value_usd": 7382.16
+      }
+    ],
+    "total_weight_kg": 386.55,
+    "total_value_usd": 40757.47,
+    "service": "Ocean Freight",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 2565.95,
+    "license_type": "Distributor License",
+    "license_number": "LIC-307384",
+    "destination_country": "Australia"
+  }
+}

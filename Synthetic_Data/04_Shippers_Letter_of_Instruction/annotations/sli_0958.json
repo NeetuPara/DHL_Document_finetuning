@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0958",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202510-9486",
+    "usppi_name": "International Campbell S.A.",
+    "usppi_address": "2006 Long Lodge Apt. 990, Smithhaven, VT 74865, India",
+    "usppi_country": "India",
+    "ein": "53-2631587",
+    "consignee_name": "Huffman International Corp.",
+    "consignee_address": "1179 Phillips Well Suite 542, Hernandezbury, GU 02267, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Bailey International Inc.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "EAR99",
+    "signatory_name": "Michael Tran",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/22",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 18,
+        "unit": "KGS",
+        "weight_kg": 18.0,
+        "value_usd": 261.45
+      },
+      {
+        "marks": "EXP/22",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 124,
+        "unit": "PCS",
+        "weight_kg": 1069.29,
+        "value_usd": 76181.96
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 125,
+        "unit": "PKG",
+        "weight_kg": 195.49,
+        "value_usd": 9788.03
+      },
+      {
+        "marks": "EXP/50",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 5,
+        "unit": "KGS",
+        "weight_kg": 5.0,
+        "value_usd": 4.89
+      },
+      {
+        "marks": "EXP/42",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 118,
+        "unit": "LTR",
+        "weight_kg": 116.4,
+        "value_usd": 4026.74
+      },
+      {
+        "marks": "SLI/21",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 181,
+        "unit": "PCS",
+        "weight_kg": 3951.9,
+        "value_usd": 52887.46
+      }
+    ],
+    "total_weight_kg": 5356.08,
+    "total_value_usd": 143150.53,
+    "service": "Ocean Freight",
+    "named_port": "Shanghai, CN",
+    "insurance_value_usd": 14634.36,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-218164",
+    "destination_country": "Netherlands"
+  }
+}

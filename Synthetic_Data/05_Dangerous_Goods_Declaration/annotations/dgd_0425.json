@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0425",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Johnson LLC",
+    "shipper_address": "PSC 0346, Box 1220, APO AE 83069, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Brown Trade Pte Ltd",
+    "consignee_address": "362 Abigail Mount Suite 988, West Michael, CT 88722, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+16 872-896-7075",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 10,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 29.04,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Kimberly Edwards",
+    "signature_date": "2026-05-01",
+    "signature_place": "Malaysia",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "117N",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Qingdao, CN"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0720",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG243776703",
+    "shipper_name": "Wilson International AG",
+    "shipper_address": "81141 Burns Grove, Frenchport, CT 26634, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Mcclure Trade Co.",
+    "consignee_address": "26521 Stephens Turnpike, East Jenniferside, MS 27815, Japan",
+    "consignee_country": "Japan",
+    "notify_party_name": "Kim Pacific Co.",
+    "notify_party_address": "7414 Bradley Garden, Mariemouth, NH 98160, Italy",
+    "vessel": "MADRID MAERSK",
+    "voyage": "659N",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Tanjung Pelepas, MY",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2025-11-01",
+    "issue_place": "Tanjung Pelepas",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "GRUS8884002",
+        "seal_no": "SL696524",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "WMXA6007465",
+        "seal_no": "SL127799",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "LKKY5253117",
+        "seal_no": "BL227274",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 465,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 664.6,
+    "net_weight_kg": 594.7,
+    "cbm": 51.184,
+    "marks_and_numbers": "GLB/48"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "packet_id": "packet_0084",
+  "total_pages": 3,
+  "n_documents": 3,
+  "class_sequence": [
+    "Commercial Invoice",
+    "House Bill of Lading",
+    "Packing List"
+  ],
+  "documents": [
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "commercial_invoice_0948.pdf",
+      "source_class_folder": "01_Commercial_Invoice"
+    },
+    {
+      "doc_class": "House Bill of Lading",
+      "class_index": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "hbl_0827.pdf",
+      "source_class_folder": "02_House_Bill_of_Lading"
+    },
+    {
+      "doc_class": "Packing List",
+      "class_index": 8,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "packing_list_0043.pdf",
+      "source_class_folder": "08_Packing_List"
+    }
+  ],
+  "task": "splitting"
+}

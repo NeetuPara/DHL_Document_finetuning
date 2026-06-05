@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0557",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Moreno Pacific Pte Ltd",
+    "shipper_address": "681 Mcdonald Mountain, Lake Melissa, FM 32761, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Trade Robertson LLC",
+    "consignee_address": "2524 Lawson Manor, South Jacobport, AK 01664, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "emergency_telephone": "+33 279-454-3661",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 28,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 70.33,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-745158",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Greg Williams",
+    "signature_date": "2026-04-29",
+    "signature_place": "Spain",
+    "vessel": "MSC OSCAR",
+    "voyage": "337E",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Long Beach, US"
+  }
+}

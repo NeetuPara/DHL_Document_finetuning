@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0447",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-81349511",
+    "mawb_number": "057-52089102",
+    "shipper_name": "Lynch Industry GmbH",
+    "shipper_address": "PSC 6849, Box 7365, APO AE 80437, Italy",
+    "consignee_name": "Commerce Jenkins Inc.",
+    "consignee_address": "210 Rodriguez Summit, Newmanside, CA 43243, United Kingdom",
+    "agent_name": "International Morgan Ltd",
+    "airport_departure": "MIA",
+    "airport_destination": "PVG",
+    "currency": "AED",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "JPY 11,537.86",
+    "n_pieces": 3,
+    "gross_weight_kg": 45.2,
+    "chargeable_weight": 53.9,
+    "rate": 3.08,
+    "total_charge": 166.01,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-05-17",
+    "signatory": "Cheyenne Donovan",
+    "iata_code": "31-134",
+    "agent_cass": "4888-7756",
+    "consolidation_ref": "CONS-2272-001661",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-19227374",
+        "pieces": 3,
+        "weight": 80.0,
+        "destination": "FRA",
+        "consignee": "Global Robinson Inc.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "020-47890846",
+        "pieces": 10,
+        "weight": 18.5,
+        "destination": "ICN",
+        "consignee": "Dixon International Ltd",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "074-48674474",
+        "pieces": 17,
+        "weight": 55.1,
+        "destination": "SIN",
+        "consignee": "Price Tech LLC",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "125-60778545",
+        "pieces": 16,
+        "weight": 49.7,
+        "destination": "PVG",
+        "consignee": "Pacific Garza Corp.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "125-93879664",
+        "pieces": 16,
+        "weight": 41.0,
+        "destination": "CDG",
+        "consignee": "Industry Swanson Pte Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "074-35640974",
+        "pieces": 11,
+        "weight": 99.2,
+        "destination": "SIN",
+        "consignee": "International Allen Ltd",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

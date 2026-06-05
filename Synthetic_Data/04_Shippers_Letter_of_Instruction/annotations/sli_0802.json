@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0802",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202507-2885",
+    "usppi_name": "Commerce Pena Ltd",
+    "usppi_address": "9308 West Land, Lake Seanberg, DC 01174, France",
+    "usppi_country": "France",
+    "ein": "97-5256666",
+    "consignee_name": "Burgess Commerce Pte Ltd",
+    "consignee_address": "423 Page Lake, Port Sharon, SC 94015, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Stewart Pacific S.A.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DPU",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Katie Barton",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/24",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 162,
+        "unit": "SET",
+        "weight_kg": 459.6,
+        "value_usd": 20215.09
+      },
+      {
+        "marks": "ABC/12",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 31,
+        "unit": "PCS",
+        "weight_kg": 35.33,
+        "value_usd": 47072.73
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 137,
+        "unit": "PKG",
+        "weight_kg": 53.68,
+        "value_usd": 10975.78
+      }
+    ],
+    "total_weight_kg": 548.61,
+    "total_value_usd": 78263.6,
+    "service": "Ground",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 13558.81,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-842370",
+    "destination_country": "Thailand"
+  }
+}

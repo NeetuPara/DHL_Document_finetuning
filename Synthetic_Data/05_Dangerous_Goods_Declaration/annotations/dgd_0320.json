@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0320",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Rhodes GmbH",
+    "shipper_address": "Unit 1167 Box 3597, DPO AP 99124, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Gardner Industry Pte Ltd",
+    "consignee_address": "6032 Joel Views, Port Debbiefurt, SC 37691, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+13 328-360-5128",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 3,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 63.94,
+        "qty_unit": "kg",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-427448",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Natalie Strong",
+    "signature_date": "2026-05-04",
+    "signature_place": "Spain",
+    "vessel": "EVER GOLDEN",
+    "voyage": "729W",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Hamburg, DE"
+  }
+}

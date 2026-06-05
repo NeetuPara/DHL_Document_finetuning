@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0274",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Danielle Watkins",
+    "addressee_company": "International Proctor AG",
+    "addressee_address": "379 Kimberly Spur Suite 119, East Alex, NH 16591, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 16.4,
+    "total_value": 9264.13,
+    "currency": "AUD",
+    "issue_date": "2026-05-09",
+    "reference": "REF-653228",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.77,
+        "value": 809.5,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 17,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.717,
+        "value": 1954.83,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 11,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.536,
+        "value": 1635.81,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 19,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.162,
+        "value": 1861.24,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 13,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.308,
+        "value": 702.65,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 17,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.907,
+        "value": 2300.1,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Lee Hunt",
+    "sender_company": "Dunn Global AG",
+    "sender_address": "83183 Johnson Ridges, Riosborough, NY 66519, Germany",
+    "sender_phone": "471-996-3365",
+    "sender_email": "timothysmith@example.org",
+    "addressee_phone": "374-998-2759x786",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 10190.54,
+    "postal_charges": 64.69,
+    "tracking_number": "RO237451218LG"
+  }
+}

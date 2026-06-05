@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0797",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU884110764",
+    "shipper_name": "Commerce Brown Ltd",
+    "shipper_address": "USS Ortega, FPO AA 54379, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Tech Osborne S.A.",
+    "consignee_address": "422 Smith Mountain Suite 414, Port Devinmouth, PW 21245, Canada",
+    "consignee_country": "Canada",
+    "notify_party_name": "Industry Flowers Inc.",
+    "notify_party_address": "17463 Morrow Hills Suite 865, Lake Eric, KY 62536, Poland",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "936W",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Hong Kong, HK",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2024-06-08",
+    "issue_place": "Hong Kong",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "DBVI0003659",
+        "seal_no": "BL715929",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "ZLWV9587125",
+        "seal_no": "CL652576",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "UUTU4668386",
+        "seal_no": "BL882530",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 242,
+    "package_type": "Carton",
+    "gross_weight_kg": 12301.6,
+    "net_weight_kg": 11108.4,
+    "cbm": 8.971,
+    "marks_and_numbers": "XYZ/12"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0603",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202512-9701",
+    "usppi_name": "Cooper Pacific AG",
+    "usppi_address": "4538 Chad Flats Apt. 979, Lake Tara, CO 26848, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "16-9145537",
+    "consignee_name": "Global Hartman B.V.",
+    "consignee_address": "0271 Casey Junctions Suite 256, New Dean, WI 81446, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Industry Cannon Corp.",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Dr. Dominique Chang DVM",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/11",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 94,
+        "unit": "PCS",
+        "weight_kg": 12.87,
+        "value_usd": 12554.04
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 122,
+        "unit": "KGS",
+        "weight_kg": 122.0,
+        "value_usd": 2343.91
+      },
+      {
+        "marks": "SLI/7",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 163,
+        "unit": "PCS",
+        "weight_kg": 451.23,
+        "value_usd": 31465.65
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 176,
+        "unit": "LTR",
+        "weight_kg": 159.26,
+        "value_usd": 3615.65
+      }
+    ],
+    "total_weight_kg": 745.36,
+    "total_value_usd": 49979.25,
+    "vessel": "PIL PACIFIC",
+    "voyage": "248W",
+    "booking_ref": "BKG-971213",
+    "bl_number": "OOLU832808484",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "container_number": "JHDX7338234",
+    "seal_number": "CL928632",
+    "container_type": "45'HC",
+    "cbm": 34.649
+  }
+}

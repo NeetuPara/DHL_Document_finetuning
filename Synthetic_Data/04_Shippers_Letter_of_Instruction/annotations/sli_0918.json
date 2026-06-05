@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0918",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202006-4414",
+    "usppi_name": "Weiss Trade AG",
+    "usppi_address": "747 Decker Trail Apt. 363, Deannahaven, MI 25161, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "65-3655371",
+    "consignee_name": "Commerce Dunn Corp.",
+    "consignee_address": "973 Timothy Centers Apt. 947, North Donaldhaven, UT 74133, China",
+    "consignee_country": "China",
+    "notify_party": "Jones Industry S.A.",
+    "forwarder": "Panalpina",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "James Mccullough",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/17",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 118,
+        "unit": "PCS",
+        "weight_kg": 157.16,
+        "value_usd": 3858.28
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 56,
+        "unit": "KGS",
+        "weight_kg": 56.0,
+        "value_usd": 973.47
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 153,
+        "unit": "SET",
+        "weight_kg": 442.84,
+        "value_usd": 18031.26
+      },
+      {
+        "marks": "EXP/38",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 17,
+        "unit": "PCS",
+        "weight_kg": 74.94,
+        "value_usd": 7420.68
+      },
+      {
+        "marks": "EXP/27",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 149,
+        "unit": "MTR",
+        "weight_kg": 111.84,
+        "value_usd": 401.24
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 5,
+        "unit": "PCS",
+        "weight_kg": 0.57,
+        "value_usd": 394.43
+      }
+    ],
+    "total_weight_kg": 843.35,
+    "total_value_usd": 31079.36,
+    "vessel": "ONE INNOVATION",
+    "voyage": "539N",
+    "booking_ref": "BKG-926863",
+    "bl_number": "YMLU344986288",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Antwerp, BE",
+    "container_number": "SOTN2046563",
+    "seal_number": "SL431108",
+    "container_type": "40'GP",
+    "cbm": 20.192
+  }
+}

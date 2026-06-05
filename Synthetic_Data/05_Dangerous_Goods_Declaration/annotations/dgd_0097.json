@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0097",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Sutton S.A.",
+    "shipper_address": "5804 Pearson Points Apt. 664, Janiceland, HI 81165, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Brooks Trade Corp.",
+    "consignee_address": "2778 Dunn Avenue Apt. 485, West Jesushaven, NV 84194, United States",
+    "consignee_country": "United States",
+    "emergency_telephone": "+87 545-561-7761",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 43,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 34.29,
+        "qty_unit": "mL",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Derek Hudson",
+    "signature_date": "2026-05-09",
+    "signature_place": "Mexico",
+    "awb_number": "006-15402269",
+    "flight_number": "LH6381",
+    "flight_date": "2026-05-15",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport"
+  }
+}

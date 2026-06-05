@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0566",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry James Corp.",
+    "shipper_address": "55252 Crystal Summit, Lake Amybury, OK 21853, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Turner Global Corp.",
+    "consignee_address": "368 Manuel Shore Suite 421, New Dana, GU 83042, Mexico",
+    "consignee_country": "Mexico",
+    "emergency_telephone": "+15 105-872-1099",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 35,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 79.37,
+        "qty_unit": "L",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Megan Flores",
+    "signature_date": "2026-05-03",
+    "signature_place": "Switzerland",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "882E",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Colombo, LK"
+  }
+}

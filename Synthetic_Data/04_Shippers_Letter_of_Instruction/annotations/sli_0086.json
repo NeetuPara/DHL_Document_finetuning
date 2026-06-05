@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0086",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202502-1900",
+    "usppi_name": "Trade Meadows Ltd",
+    "usppi_address": "USNS Alexander, FPO AA 62784, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "82-3868798",
+    "consignee_name": "Global Garza LLC",
+    "consignee_address": "USNV Riley, FPO AE 91246, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Jackson International Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Melissa Carroll",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/24",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 26,
+        "unit": "PCS",
+        "weight_kg": 347.91,
+        "value_usd": 17211.7
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 190,
+        "unit": "KGS",
+        "weight_kg": 190.0,
+        "value_usd": 292.36
+      }
+    ],
+    "total_weight_kg": 537.91,
+    "total_value_usd": 17504.06,
+    "service": "Ground",
+    "named_port": "London Heathrow",
+    "insurance_value_usd": 24451.55,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-303318",
+    "destination_country": "Canada"
+  }
+}

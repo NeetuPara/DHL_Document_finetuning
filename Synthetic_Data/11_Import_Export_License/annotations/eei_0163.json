@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0163",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "787-94851611-0",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2025-09-09",
+    "port_of_entry": "HOU - Houston",
+    "transport_mode": "Hand-Carried",
+    "carrier": "DHL Express",
+    "bl_awb": "176-38183861",
+    "importer_name": "International Obrien Corp.",
+    "importer_ein": "06-8072202",
+    "consignee_name": "Trade Thompson S.A.",
+    "customs_broker": "Norton International AG",
+    "broker_filer_code": "fhJ",
+    "country_of_origin": "United States",
+    "total_value": 275908.75,
+    "total_duty": 51525.7,
+    "currency": "JPY",
+    "signatory": "Brandi Smith",
+    "signatory_title": "Trade Finance Manager",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "South Korea",
+        "qty": 20,
+        "unit": "CTN",
+        "entered_value": 2271.8,
+        "duty_rate": 1.5,
+        "duty_amount": 34.08,
+        "eccn": "7A994",
+        "schedule_b": "9018.31.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "France",
+        "qty": 246,
+        "unit": "PCS",
+        "entered_value": 36112.8,
+        "duty_rate": 21.1,
+        "duty_amount": 7619.8,
+        "eccn": "5E992",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Belgium",
+        "qty": 491,
+        "unit": "CTN",
+        "entered_value": 142787.71,
+        "duty_rate": 22.1,
+        "duty_amount": 31556.08,
+        "eccn": "0A919",
+        "schedule_b": "9018.31.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Australia",
+        "qty": 212,
+        "unit": "MTR",
+        "entered_value": 94736.44,
+        "duty_rate": 13.0,
+        "duty_amount": 12315.74,
+        "eccn": "0A919",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

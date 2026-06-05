@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0725",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Ms. Barbara Mcdonald",
+    "addressee_company": "Conway Pacific Inc.",
+    "addressee_address": "4254 Olivia Mews, Lake Robertfurt, MT 64979, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 7.738,
+    "total_value": 4640.88,
+    "currency": "SGD",
+    "issue_date": "2026-02-09",
+    "reference": "REF-936914",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.807,
+        "value": 1681.38,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 16,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.952,
+        "value": 2001.76,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 7,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.979,
+        "value": 957.74,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Jonathan Wilson",
+    "sender_company": "International Watson Co.",
+    "sender_address": "0470 Diana Cliffs Suite 715, Mercerhaven, NH 59609, United Arab Emirates",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 5104.97,
+    "postal_charges": 37.25,
+    "tracking_number": "UD940459051PV"
+  }
+}

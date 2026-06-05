@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0199",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Eric Murray",
+    "addressee_company": "Commerce Paul Ltd",
+    "addressee_address": "8388 Samantha Turnpike Apt. 168, North Nicholas, CT 20321, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 21.358,
+    "total_value": 5992.49,
+    "currency": "USD",
+    "issue_date": "2025-12-25",
+    "reference": "REF-485715",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.669,
+        "value": 1305.6,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 17,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.67,
+        "value": 593.13,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 20,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.59,
+        "value": 721.4,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 18,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.796,
+        "value": 1989.36,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 12,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.498,
+        "value": 331.08,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 12,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.135,
+        "value": 1051.92,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "George Flynn",
+    "sender_company": "Trade Morales AG",
+    "sender_address": "30353 Moses Extension Suite 986, North Robert, UT 17975, Australia",
+    "sender_phone": "+1-918-805-5132",
+    "sender_email": "nicoleberg@example.com",
+    "addressee_phone": "(805)392-7630",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 6591.74,
+    "postal_charges": 47.07,
+    "tracking_number": "XO671821991GN"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0660",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-59156685",
+    "mawb_number": "176-90340624",
+    "shipper_name": "Walsh Trade B.V.",
+    "shipper_address": "USNS Hess, FPO AE 72911, South Korea",
+    "consignee_name": "Yang Pacific Pte Ltd",
+    "consignee_address": "813 White Forge Apt. 251, Dayborough, UT 75355, Germany",
+    "agent_name": "Industry Ho Inc.",
+    "airport_departure": "MIA",
+    "airport_destination": "NRT",
+    "currency": "AED",
+    "charge_code": "CC",
+    "declared_value_carriage": "GBP 21,831.28",
+    "declared_value_customs": "CAD 18,823.32",
+    "n_pieces": 4,
+    "gross_weight_kg": 243.7,
+    "chargeable_weight": 307.6,
+    "rate": 5.63,
+    "total_charge": 1731.79,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-12-11",
+    "signatory": "Christine Hunt",
+    "iata_code": "42-782",
+    "agent_cass": "3558-6326",
+    "consolidation_ref": "CONS-9552-759123",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-24935027",
+        "pieces": 11,
+        "weight": 43.1,
+        "destination": "JFK",
+        "consignee": "Hill Industry Co.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "085-91465211",
+        "pieces": 9,
+        "weight": 72.7,
+        "destination": "SYD",
+        "consignee": "Stephens Pacific Pte Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "125-25650059",
+        "pieces": 17,
+        "weight": 57.9,
+        "destination": "HKG",
+        "consignee": "Rogers Tech S.A.",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0446",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Savannah Tran",
+    "addressee_company": "Pacific Thomas B.V.",
+    "addressee_address": "28403 Brooks Valleys, East Karenport, NH 67840, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 12.874,
+    "total_value": 1540.74,
+    "currency": "SGD",
+    "issue_date": "2025-09-10",
+    "reference": "REF-925163",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.238,
+        "value": 731.08,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 2,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.365,
+        "value": 234.26,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 4,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.271,
+        "value": 575.4,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Michael Park",
+    "sender_company": "Industry Romero Inc.",
+    "sender_address": "USS Harrison, FPO AE 66009, China",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 29.31,
+    "tracking_number": "BA596162643LM"
+  }
+}

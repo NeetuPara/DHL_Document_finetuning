@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0408",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-93322647",
+    "mawb_number": "057-26309263",
+    "shipper_name": "Commerce Boyd Pte Ltd",
+    "shipper_address": "8142 Berry Manor, Scottshire, ND 26744, Netherlands",
+    "consignee_name": "Lopez Tech Co.",
+    "consignee_address": "604 Hayley Dam Apt. 035, Williamston, MT 90198, Hong Kong",
+    "agent_name": "Trade Galloway Ltd",
+    "airport_departure": "NRT",
+    "airport_destination": "YYZ",
+    "currency": "CNY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 34,
+    "gross_weight_kg": 287.7,
+    "chargeable_weight": 371.9,
+    "rate": 2.74,
+    "total_charge": 1019.01,
+    "nature_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-12-26",
+    "signatory": "Christine Taylor",
+    "iata_code": "52-892",
+    "agent_cass": "3584-6930",
+    "consolidation_ref": "CONS-3847-947692",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-38513608",
+        "pieces": 18,
+        "weight": 81.0,
+        "destination": "MIA",
+        "consignee": "Love Trade S.A.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "057-56543103",
+        "pieces": 18,
+        "weight": 31.5,
+        "destination": "ORD",
+        "consignee": "Commerce Torres Pte Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "176-27571534",
+        "pieces": 15,
+        "weight": 11.9,
+        "destination": "ORD",
+        "consignee": "Pacific Harrison S.A.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "176-45824641",
+        "pieces": 15,
+        "weight": 98.6,
+        "destination": "ORD",
+        "consignee": "Fox International B.V.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "045-11370412",
+        "pieces": 5,
+        "weight": 61.7,
+        "destination": "NRT",
+        "consignee": "Commerce Griffin S.A.",
+        "description": "Plastic Products - Injection Moulde"
+      }
+    ]
+  }
+}

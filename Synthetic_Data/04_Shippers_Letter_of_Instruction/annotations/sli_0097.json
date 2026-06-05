@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0097",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202503-1443",
+    "usppi_name": "Industry Frey Corp.",
+    "usppi_address": "12017 Paul Lights Apt. 969, Oconnorland, WY 22357, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "25-4013842",
+    "consignee_name": "Harris Commerce GmbH",
+    "consignee_address": "765 Jill Glen, Seanfurt, WA 93134, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "International Pham B.V.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "EAR99",
+    "signatory_name": "Jessica Mitchell",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/25",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 55,
+        "unit": "MTR",
+        "weight_kg": 64.07,
+        "value_usd": 436.58
+      },
+      {
+        "marks": "ABC/25",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 75,
+        "unit": "PCS",
+        "weight_kg": 7.58,
+        "value_usd": 5943.98
+      },
+      {
+        "marks": "ABC/14",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 34,
+        "unit": "PCS",
+        "weight_kg": 26.83,
+        "value_usd": 27296.24
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 52,
+        "unit": "PCS",
+        "weight_kg": 26.44,
+        "value_usd": 676.46
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 170,
+        "unit": "KGS",
+        "weight_kg": 170.0,
+        "value_usd": 189.01
+      },
+      {
+        "marks": "SLI/7",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 140,
+        "unit": "LTR",
+        "weight_kg": 136.35,
+        "value_usd": 2793.93
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 22,
+        "unit": "CTN",
+        "weight_kg": 12.92,
+        "value_usd": 284.16
+      }
+    ],
+    "total_weight_kg": 444.19,
+    "total_value_usd": 37620.36,
+    "service": "Air Freight",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 30696.28,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-529703",
+    "destination_country": "Germany"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0001",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202405-9467",
+    "usppi_name": "Trade Turner Co.",
+    "usppi_address": "31320 Ricky Points Apt. 452, Sanchezfurt, GA 39047, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "39-7149204",
+    "consignee_name": "Douglas Industry AG",
+    "consignee_address": "94852 Moore Street Suite 117, Dawnburgh, VA 40331, United States",
+    "consignee_country": "United States",
+    "notify_party": "Trade Nicholson LLC",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Joel Colon",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/43",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 132,
+        "unit": "PCS",
+        "weight_kg": 182.09,
+        "value_usd": 3993.89
+      },
+      {
+        "marks": "ABC/19",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 112,
+        "unit": "BOX",
+        "weight_kg": 179.7,
+        "value_usd": 7273.35
+      }
+    ],
+    "total_weight_kg": 361.79,
+    "total_value_usd": 11267.24,
+    "service": "Ground",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 8560.02,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-215301",
+    "destination_country": "United States"
+  }
+}

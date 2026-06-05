@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0658",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Carroll International Co.",
+    "shipper_address": "7801 Koch Roads Apt. 764, South Laurie, GA 01671, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Richardson Tech Co.",
+    "consignee_address": "11430 Cantu Courts, Jeremyborough, AK 31328, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+7 827-606-3370",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 48,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 13.02,
+        "qty_unit": "mL",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 8,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 67.25,
+        "qty_unit": "mL",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jade Williams",
+    "signature_date": "2026-05-10",
+    "signature_place": "Hong Kong",
+    "awb_number": "176-96009763",
+    "flight_number": "DL5872",
+    "flight_date": "2026-05-19",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0627",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-76128148",
+    "mawb_number": "085-67080209",
+    "shipper_name": "International Waters Corp.",
+    "shipper_address": "0229 Kelley Parkway, Choishire, HI 11844, Netherlands",
+    "consignee_name": "Industry Colon LLC",
+    "consignee_address": "7030 Michael Burgs Apt. 583, Blackbury, WY 05822, United Arab Emirates",
+    "agent_name": "Commerce Smith Corp.",
+    "airport_departure": "SIN",
+    "airport_destination": "LHR",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "AUD 4,154.96",
+    "n_pieces": 10,
+    "gross_weight_kg": 250.3,
+    "chargeable_weight": 284.8,
+    "rate": 4.99,
+    "total_charge": 1421.15,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "HANDLING CODE: HUM",
+    "issue_date": "2026-03-16",
+    "signatory": "Denise Harris",
+    "iata_code": "92-141",
+    "agent_cass": "0170-9535",
+    "consolidation_ref": "CONS-8453-293733",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-38612757",
+        "pieces": 9,
+        "weight": 98.0,
+        "destination": "JFK",
+        "consignee": "Miller Commerce Inc.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "045-61117261",
+        "pieces": 6,
+        "weight": 45.5,
+        "destination": "FRA",
+        "consignee": "Hawkins Global B.V.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "045-16599548",
+        "pieces": 16,
+        "weight": 18.5,
+        "destination": "LAX",
+        "consignee": "Tech Turner B.V.",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

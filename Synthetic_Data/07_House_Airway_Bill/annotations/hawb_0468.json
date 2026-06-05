@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0468",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-10500935",
+    "mawb_number": "057-40875029",
+    "shipper_name": "International Walton Pte Ltd",
+    "shipper_address": "8763 Brent Centers, Port Rickey, VI 61260, Australia",
+    "consignee_name": "Trade Tate Inc.",
+    "consignee_address": "12136 Woods Forges, Hunterberg, PW 23159, India",
+    "agent_name": "International Cannon Ltd",
+    "airport_departure": "HKG",
+    "airport_destination": "LAX",
+    "currency": "CNY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 47,
+    "gross_weight_kg": 98.8,
+    "chargeable_weight": 101.1,
+    "rate": 10.55,
+    "total_charge": 1066.61,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-07-27",
+    "signatory": "Laura Lewis",
+    "iata_code": "31-268",
+    "agent_cass": "5093-7878",
+    "consolidation_ref": "CONS-0688-156863",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-30220112",
+        "pieces": 7,
+        "weight": 55.6,
+        "destination": "CDG",
+        "consignee": "Global Sanders S.A.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "006-19008186",
+        "pieces": 7,
+        "weight": 82.8,
+        "destination": "SYD",
+        "consignee": "Moore Industry AG",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "045-50222444",
+        "pieces": 12,
+        "weight": 7.9,
+        "destination": "JFK",
+        "consignee": "Burke Commerce B.V.",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

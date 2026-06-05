@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0317",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU366374309",
+    "shipper_name": "Global Blake AG",
+    "shipper_address": "1655 Brenda Place, South Lauraborough, NH 32251, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Industry Cooper Corp.",
+    "consignee_address": "427 Harper Haven Suite 407, Lucaschester, MO 88680, France",
+    "consignee_country": "France",
+    "notify_party_name": "Pacific Porter S.A.",
+    "notify_party_address": "800 Cohen Loaf Suite 116, West Sherrymouth, MH 11809, India",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "548W",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Qingdao, CN",
+    "issue_date": "2025-10-22",
+    "issue_place": "Hamburg",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "ESFI5109194",
+        "seal_no": "SL481091",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "DUJU7593794",
+        "seal_no": "BL727256",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "AEEQ4459539",
+        "seal_no": "BL528988",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "MAMM2813137",
+        "seal_no": "SL590451",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "number_of_packages": 47,
+    "package_type": "Roll",
+    "gross_weight_kg": 20290.5,
+    "net_weight_kg": 19420.2,
+    "cbm": 3.97,
+    "marks_and_numbers": "ABC/4"
+  }
+}

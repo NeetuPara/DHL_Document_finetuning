@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0277",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202407-5483",
+    "usppi_name": "Trade Ortega Co.",
+    "usppi_address": "76896 Brandon Underpass Apt. 317, Lake Ann, PW 62732, Spain",
+    "usppi_country": "Spain",
+    "ein": "69-8315146",
+    "consignee_name": "Pacific Miller AG",
+    "consignee_address": "22694 Alyssa Viaduct, Crystalfurt, WY 50688, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Trade Robinson LLC",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DPU",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Brandon Gonzalez",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/49",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 44,
+        "unit": "PCS",
+        "weight_kg": 3.44,
+        "value_usd": 2204.02
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 189,
+        "unit": "BOX",
+        "weight_kg": 141.39,
+        "value_usd": 6659.4
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 75,
+        "unit": "MTR",
+        "weight_kg": 63.47,
+        "value_usd": 763.76
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 121,
+        "unit": "CTN",
+        "weight_kg": 151.35,
+        "value_usd": 7800.82
+      }
+    ],
+    "total_weight_kg": 359.65,
+    "total_value_usd": 17428.0,
+    "service": "LCL Ocean",
+    "named_port": "Antwerp, BE",
+    "insurance_value_usd": 1648.92,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-390889",
+    "destination_country": "Italy"
+  }
+}

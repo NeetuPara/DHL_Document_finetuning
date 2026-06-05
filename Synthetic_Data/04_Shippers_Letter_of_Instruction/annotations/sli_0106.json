@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0106",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202302-9058",
+    "usppi_name": "Carroll Global LLC",
+    "usppi_address": "1482 Larson Underpass, Martinezland, WA 20881, Poland",
+    "usppi_country": "Poland",
+    "ein": "78-9709476",
+    "consignee_name": "Industry Stone LLC",
+    "consignee_address": "55371 Griffin Parkway, South Jose, MD 53722, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Tech Smith B.V.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Justin Neal",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/17",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 42,
+        "unit": "KGS",
+        "weight_kg": 42.0,
+        "value_usd": 751.88
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 170,
+        "unit": "PCS",
+        "weight_kg": 1868.18,
+        "value_usd": 49540.45
+      },
+      {
+        "marks": "ABC/18",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 192,
+        "unit": "PCS",
+        "weight_kg": 22.68,
+        "value_usd": 35905.01
+      },
+      {
+        "marks": "ABC/8",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 143,
+        "unit": "KGS",
+        "weight_kg": 143.0,
+        "value_usd": 192.23
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 123,
+        "unit": "CTN",
+        "weight_kg": 304.2,
+        "value_usd": 1724.75
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 95,
+        "unit": "PCS",
+        "weight_kg": 112.12,
+        "value_usd": 45738.56
+      }
+    ],
+    "total_weight_kg": 2492.18,
+    "total_value_usd": 133852.88,
+    "service": "Ocean Freight",
+    "named_port": "Busan, KR",
+    "insurance_value_usd": 13879.57,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-451289",
+    "destination_country": "Belgium"
+  }
+}

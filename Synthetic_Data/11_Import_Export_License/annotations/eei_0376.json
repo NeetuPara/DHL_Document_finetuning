@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0376",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "091-92894849-2",
+    "entry_type": "11 - Informal - Free",
+    "entry_date": "2025-09-13",
+    "port_of_entry": "MIA - Miami",
+    "transport_mode": "Truck",
+    "carrier": "MSC",
+    "bl_awb": "176-79358827",
+    "importer_name": "Commerce Parks Inc.",
+    "importer_ein": "90-2037325",
+    "consignee_name": "International Johnson Pte Ltd",
+    "customs_broker": "Commerce Davis Inc.",
+    "broker_filer_code": "oWv",
+    "country_of_origin": "Malaysia",
+    "total_value": 212977.34,
+    "total_duty": 35063.41,
+    "currency": "AUD",
+    "signatory": "Nicholas Foley",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Mexico",
+        "qty": 343,
+        "unit": "PCS",
+        "entered_value": 41286.91,
+        "duty_rate": 23.2,
+        "duty_amount": 9578.56,
+        "eccn": "2B350",
+        "schedule_b": "8518.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Thailand",
+        "qty": 368,
+        "unit": "CTN",
+        "entered_value": 106219.52,
+        "duty_rate": 19.0,
+        "duty_amount": 20181.71,
+        "eccn": "3A992",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "United Kingdom",
+        "qty": 353,
+        "unit": "KGS",
+        "entered_value": 65470.91,
+        "duty_rate": 8.1,
+        "duty_amount": 5303.14,
+        "eccn": "3A992",
+        "schedule_b": "2008.19.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

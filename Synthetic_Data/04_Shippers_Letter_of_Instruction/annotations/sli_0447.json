@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0447",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202302-4772",
+    "usppi_name": "Pacific Moore B.V.",
+    "usppi_address": "PSC 8340, Box 7263, APO AA 93595, India",
+    "usppi_country": "India",
+    "ein": "74-4191062",
+    "consignee_name": "Murray Pacific LLC",
+    "consignee_address": "6435 Miller Plains Apt. 747, East Chadville, OH 57725, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Long Trade S.A.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Nathaniel Davis",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/43",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 102,
+        "unit": "CTN",
+        "weight_kg": 241.59,
+        "value_usd": 5117.24
+      },
+      {
+        "marks": "SLI/5",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 113,
+        "unit": "PCS",
+        "weight_kg": 1510.51,
+        "value_usd": 45033.46
+      },
+      {
+        "marks": "EXP/25",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 115,
+        "unit": "KGS",
+        "weight_kg": 115.0,
+        "value_usd": 1924.34
+      },
+      {
+        "marks": "EXP/22",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 126,
+        "unit": "PCS",
+        "weight_kg": 109.03,
+        "value_usd": 2891.13
+      },
+      {
+        "marks": "EXP/40",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 178,
+        "unit": "SET",
+        "weight_kg": 382.8,
+        "value_usd": 27131.13
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 123,
+        "unit": "PKG",
+        "weight_kg": 349.53,
+        "value_usd": 10955.49
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 138,
+        "unit": "MTR",
+        "weight_kg": 153.18,
+        "value_usd": 2425.98
+      }
+    ],
+    "total_weight_kg": 2861.64,
+    "total_value_usd": 95478.77,
+    "vessel": "MADRID MAERSK",
+    "voyage": "375N",
+    "booking_ref": "BKG-464459",
+    "bl_number": "YMLU723424107",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Antwerp, BE",
+    "container_number": "ZMYU0791598",
+    "seal_number": "BL586414",
+    "container_type": "45'HC",
+    "cbm": 64.12
+  }
+}

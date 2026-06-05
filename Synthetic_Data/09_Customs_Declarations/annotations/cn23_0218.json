@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0218",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kelsey Taylor",
+    "addressee_company": "Reyes Pacific AG",
+    "addressee_address": "77894 Myers Passage, Lake Johnshire, SD 91451, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 7.94,
+    "total_value": 2667.68,
+    "currency": "USD",
+    "issue_date": "2025-07-06",
+    "reference": "REF-363376",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.942,
+        "value": 273.46,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 13,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.904,
+        "value": 782.6,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 15,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.092,
+        "value": 568.2,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 14,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.002,
+        "value": 1043.42,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Steven Daniels",
+    "sender_company": "Schmidt Trade Corp.",
+    "sender_address": "1862 Jackson Mews Suite 085, Sarashire, IA 37455, Germany",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 31.87,
+    "tracking_number": "FL684778246JL"
+  }
+}

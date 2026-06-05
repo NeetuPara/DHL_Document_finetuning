@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0827",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Miller Commerce Pte Ltd",
+    "shipper_address": "4318 Jennifer Glen, Amymouth, SC 77042, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Trade Carroll S.A.",
+    "consignee_address": "682 Corey Way Apt. 296, New Timothyburgh, KY 58322, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+93 687-348-3112",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 49,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 2.57,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-445735",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Danny Moore",
+    "signature_date": "2026-05-11",
+    "signature_place": "Spain",
+    "vessel": "EVER GOLDEN",
+    "voyage": "834E",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Long Beach, US"
+  }
+}

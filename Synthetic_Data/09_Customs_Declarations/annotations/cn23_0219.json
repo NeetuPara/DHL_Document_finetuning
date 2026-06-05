@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0219",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Stephen Evans",
+    "addressee_company": "Tyler Tech S.A.",
+    "addressee_address": "22190 Adam Trafficway, Lake Eric, FL 63239, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 7.138,
+    "total_value": 793.6,
+    "currency": "CHF",
+    "issue_date": "2026-05-08",
+    "reference": "REF-732501",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.86,
+        "value": 114.0,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 20,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.278,
+        "value": 679.6,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_country": "Mexico",
+    "port_of_entry": "Miami, FL",
+    "entry_number": "311-91991058-2",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 23.8,
+    "estimated_duty": 188.88,
+    "importer_ein": "92-2558602",
+    "customs_broker": "Morgan Pacific S.A."
+  }
+}

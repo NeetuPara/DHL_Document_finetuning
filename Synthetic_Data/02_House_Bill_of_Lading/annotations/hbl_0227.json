@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0227",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU417234429",
+    "shipper_name": "White International AG",
+    "shipper_address": "14757 Ruiz Mountains Suite 683, East Crystalburgh, VT 79591, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Pratt Pacific S.A.",
+    "consignee_address": "6419 Leon Valley Suite 359, New Feliciahaven, IA 96327, Spain",
+    "consignee_country": "Spain",
+    "notify_party_name": "Acosta Pacific Inc.",
+    "notify_party_address": "205 Laura Field, Weberfort, MO 58171, Hong Kong",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "469E",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Dubai, AE",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2024-09-22",
+    "issue_place": "Colombo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "UBNJ0365962",
+        "seal_no": "BL414156",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "FATC5563252",
+        "seal_no": "CL636192",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 115,
+    "package_type": "Drum",
+    "gross_weight_kg": 1187.4,
+    "net_weight_kg": 1098.0,
+    "cbm": 7.551,
+    "marks_and_numbers": "ABC/23"
+  }
+}

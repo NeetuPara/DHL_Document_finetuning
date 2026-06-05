@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0906",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-47645659",
+    "mawb_number": "618-42994451",
+    "shipper_name": "Morgan International S.A.",
+    "shipper_address": "8872 Brown Spur, East Jay, VA 68262, France",
+    "consignee_name": "Schroeder Tech Pte Ltd",
+    "consignee_address": "21865 Douglas Village Suite 227, Lake Toni, VA 15354, United States",
+    "agent_name": "International Bright LLC",
+    "airport_departure": "ICN",
+    "airport_destination": "ORD",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "CAD 27,968.85",
+    "declared_value_customs": "NCV",
+    "n_pieces": 33,
+    "gross_weight_kg": 365.8,
+    "chargeable_weight": 408.7,
+    "rate": 1.94,
+    "total_charge": 792.88,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-01-28",
+    "signatory": "Sarah Newton",
+    "iata_code": "73-399",
+    "agent_cass": "4313-0458",
+    "consolidation_ref": "CONS-4795-747068",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-58055628",
+        "pieces": 10,
+        "weight": 54.7,
+        "destination": "HKG",
+        "consignee": "Global Fernandez Inc.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "045-65630804",
+        "pieces": 8,
+        "weight": 12.3,
+        "destination": "CDG",
+        "consignee": "Tech Fuller LLC",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "160-82136128",
+        "pieces": 19,
+        "weight": 86.0,
+        "destination": "HKG",
+        "consignee": "Global Green Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "020-68809582",
+        "pieces": 7,
+        "weight": 7.5,
+        "destination": "SYD",
+        "consignee": "International Saunders GmbH",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

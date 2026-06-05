@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0802",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Olivia Wells",
+    "addressee_company": "Jackson Pacific AG",
+    "addressee_address": "Unit 9089 Box 7237, DPO AP 26987, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 2.563,
+    "total_value": 3344.87,
+    "currency": "JPY",
+    "issue_date": "2026-02-14",
+    "reference": "REF-206569",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.45,
+        "value": 2434.23,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 12,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.168,
+        "value": 635.4,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 7,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 0.945,
+        "value": 275.24,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "Brian Hall",
+    "sender_company": "Tyler Industry Corp.",
+    "sender_address": "Unit 5007 Box 8007, DPO AE 76096, Netherlands",
+    "sender_phone": "001-285-962-2586x316",
+    "sender_email": "aturner@example.net",
+    "addressee_phone": "(727)946-0367x553",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 3679.36,
+    "postal_charges": 12.85,
+    "tracking_number": "NN330515185JN"
+  }
+}

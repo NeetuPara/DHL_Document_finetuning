@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0066",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202306-9952",
+    "usppi_name": "Trade Bean B.V.",
+    "usppi_address": "USCGC Graham, FPO AA 54355, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "56-7476272",
+    "consignee_name": "Global Butler GmbH",
+    "consignee_address": "5512 Nguyen Lake, Lake Jonathan, WY 22246, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Pacific Thomas S.A.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "David Pierce DDS",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/2",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 61,
+        "unit": "CTN",
+        "weight_kg": 138.56,
+        "value_usd": 1427.43
+      },
+      {
+        "marks": "EXP/4",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 70,
+        "unit": "LTR",
+        "weight_kg": 71.68,
+        "value_usd": 2469.7
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 179,
+        "unit": "PCS",
+        "weight_kg": 236.67,
+        "value_usd": 4599.15
+      }
+    ],
+    "total_weight_kg": 446.91,
+    "total_value_usd": 8496.28,
+    "vessel": "CSCL GLOBE",
+    "voyage": "342E",
+    "booking_ref": "BKG-150016",
+    "bl_number": "COSU956478166",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Singapore, SG",
+    "container_number": "JKES4104621",
+    "seal_number": "CL637324",
+    "container_type": "40'HC",
+    "cbm": 11.638
+  }
+}

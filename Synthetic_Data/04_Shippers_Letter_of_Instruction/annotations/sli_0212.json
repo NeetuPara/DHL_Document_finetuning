@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0212",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202510-4468",
+    "usppi_name": "Kaufman International Inc.",
+    "usppi_address": "544 Turner Rapid, East April, WI 16696, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "10-9009961",
+    "consignee_name": "Taylor Industry GmbH",
+    "consignee_address": "31505 Danielle Streets, Sherishire, NV 17389, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Global Leach S.A.",
+    "forwarder": "Panalpina",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Paul Perry",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/9",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 160,
+        "unit": "PCS",
+        "weight_kg": 3430.15,
+        "value_usd": 21304.6
+      },
+      {
+        "marks": "ABC/2",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 99,
+        "unit": "LTR",
+        "weight_kg": 107.27,
+        "value_usd": 3434.45
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 155,
+        "unit": "PKG",
+        "weight_kg": 400.79,
+        "value_usd": 6853.69
+      },
+      {
+        "marks": "SLI/6",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 195,
+        "unit": "PCS",
+        "weight_kg": 222.01,
+        "value_usd": 306698.0
+      },
+      {
+        "marks": "ABC/21",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 69,
+        "unit": "KGS",
+        "weight_kg": 69.0,
+        "value_usd": 1382.81
+      },
+      {
+        "marks": "ABC/8",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 7,
+        "unit": "MTR",
+        "weight_kg": 8.15,
+        "value_usd": 60.15
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 200,
+        "unit": "PCS",
+        "weight_kg": 44.21,
+        "value_usd": 9340.36
+      }
+    ],
+    "total_weight_kg": 4281.58,
+    "total_value_usd": 349074.06,
+    "service": "Air Freight",
+    "named_port": "London Heathrow",
+    "insurance_value_usd": 31546.95,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-166590",
+    "destination_country": "Thailand"
+  }
+}

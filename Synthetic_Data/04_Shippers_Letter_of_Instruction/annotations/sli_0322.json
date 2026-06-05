@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0322",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202509-9198",
+    "usppi_name": "International Smith GmbH",
+    "usppi_address": "47898 Freeman Way, North Ernestside, FM 78589, Italy",
+    "usppi_country": "Italy",
+    "ein": "62-7827728",
+    "consignee_name": "Neal Industry B.V.",
+    "consignee_address": "6066 Brock Harbors, North Theodorefort, CA 74340, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Commerce Arnold S.A.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DAP",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Matthew Vaughn",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/4",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 53,
+        "unit": "BOX",
+        "weight_kg": 44.69,
+        "value_usd": 2800.38
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 193,
+        "unit": "KGS",
+        "weight_kg": 193.0,
+        "value_usd": 243.61
+      },
+      {
+        "marks": "ABC/26",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 173,
+        "unit": "PCS",
+        "weight_kg": 661.37,
+        "value_usd": 32809.23
+      },
+      {
+        "marks": "EXP/25",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 199,
+        "unit": "PCS",
+        "weight_kg": 29.3,
+        "value_usd": 6210.93
+      }
+    ],
+    "total_weight_kg": 928.36,
+    "total_value_usd": 42064.15,
+    "service": "Ground",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 6124.77,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-687592",
+    "destination_country": "Australia"
+  }
+}

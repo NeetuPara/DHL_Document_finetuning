@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0404",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Elijah Morgan",
+    "addressee_company": "Fleming Commerce GmbH",
+    "addressee_address": "504 Glover Courts, Jessicastad, TX 78838, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 8.174,
+    "total_value": 3128.31,
+    "currency": "GBP",
+    "issue_date": "2026-03-31",
+    "reference": "REF-392339",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.083,
+        "value": 395.52,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 19,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.756,
+        "value": 755.25,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 2,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 1.078,
+        "value": 287.14,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 10,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.883,
+        "value": 1290.8,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 20,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.374,
+        "value": 399.6,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_name": "Anna Price",
+    "sender_company": "International Cox Pte Ltd",
+    "sender_address": "772 Tiffany Loaf, Johnstonland, CO 89469, Poland",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 3441.14,
+    "postal_charges": 46.34,
+    "tracking_number": "WG304896512DN"
+  }
+}

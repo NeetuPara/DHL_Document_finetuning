@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0705",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-91060199",
+    "mawb_number": "125-10542492",
+    "shipper_name": "Commerce Ward Inc.",
+    "shipper_address": "982 Toni Circles Apt. 152, Port Todd, IL 15311, United Arab Emirates",
+    "consignee_name": "Stewart Industry Ltd",
+    "consignee_address": "0516 Harris Path Apt. 447, Danielmouth, NM 29905, Australia",
+    "agent_name": "Jordan Industry LLC",
+    "airport_departure": "MIA",
+    "airport_destination": "ORD",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 39,
+    "gross_weight_kg": 292.0,
+    "chargeable_weight": 321.9,
+    "rate": 4.16,
+    "total_charge": 1339.1,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-02-26",
+    "signatory": "Tammy Watts",
+    "iata_code": "85-734",
+    "agent_cass": "6309-6580",
+    "consolidation_ref": "CONS-6029-240045",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-82844843",
+        "pieces": 17,
+        "weight": 29.2,
+        "destination": "LHR",
+        "consignee": "Burns Commerce Pte Ltd",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "020-88289558",
+        "pieces": 15,
+        "weight": 94.2,
+        "destination": "DXB",
+        "consignee": "International Shaffer LLC",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "045-67418929",
+        "pieces": 6,
+        "weight": 73.7,
+        "destination": "SYD",
+        "consignee": "Trade Williams Inc.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "006-83207602",
+        "pieces": 19,
+        "weight": 21.6,
+        "destination": "YYZ",
+        "consignee": "Tech Lindsey GmbH",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "125-32057026",
+        "pieces": 15,
+        "weight": 45.3,
+        "destination": "SIN",
+        "consignee": "Ayers International Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "057-33973364",
+        "pieces": 6,
+        "weight": 26.9,
+        "destination": "ORD",
+        "consignee": "Pacific Robinson Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "085-25225191",
+        "pieces": 12,
+        "weight": 88.9,
+        "destination": "SIN",
+        "consignee": "Tech Huang Inc.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "045-64951304",
+        "pieces": 19,
+        "weight": 54.3,
+        "destination": "AMS",
+        "consignee": "Shaffer Pacific Pte Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      }
+    ]
+  }
+}

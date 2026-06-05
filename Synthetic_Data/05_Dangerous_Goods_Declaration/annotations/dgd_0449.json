@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0449",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Johnson AG",
+    "shipper_address": "33119 Lucas Villages, West Fernandoberg, MI 78758, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Tucker Tech Inc.",
+    "consignee_address": "973 Mendoza Expressway, Jenniferside, WY 58029, Germany",
+    "consignee_country": "Germany",
+    "emergency_telephone": "+89 897-157-5288",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 30,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 84.58,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Meghan Terry",
+    "signature_date": "2026-05-05",
+    "signature_place": "South Korea",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "159W",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Hong Kong, HK"
+  }
+}

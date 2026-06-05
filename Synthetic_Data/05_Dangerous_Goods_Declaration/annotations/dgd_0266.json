@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0266",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Dougherty B.V.",
+    "shipper_address": "50238 Veronica Extension, Kimhaven, FM 94802, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Trade Lucas Co.",
+    "consignee_address": "7531 Jo Square Suite 904, Josephburgh, DE 85253, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+91 895-206-2474",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 9,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 93.01,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Janet Castillo",
+    "signature_date": "2026-04-22",
+    "signature_place": "United States",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "604W",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Colombo, LK"
+  }
+}

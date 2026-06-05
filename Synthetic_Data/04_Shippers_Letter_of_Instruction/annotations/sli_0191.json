@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0191",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202207-8725",
+    "usppi_name": "Commerce Craig Pte Ltd",
+    "usppi_address": "618 Martin Walk, Lake Kimberlyview, CO 42835, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "38-1208527",
+    "consignee_name": "Pacific Weaver S.A.",
+    "consignee_address": "303 Walters Rest, Lake Samuel, ID 21088, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Ward Commerce Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "John Duarte",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/26",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 48,
+        "unit": "PCS",
+        "weight_kg": 23.94,
+        "value_usd": 57804.06
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 149,
+        "unit": "LTR",
+        "weight_kg": 157.4,
+        "value_usd": 5676.97
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 188,
+        "unit": "SET",
+        "weight_kg": 369.81,
+        "value_usd": 32064.46
+      },
+      {
+        "marks": "EXP/48",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 19,
+        "unit": "PCS",
+        "weight_kg": 1.05,
+        "value_usd": 4548.69
+      }
+    ],
+    "total_weight_kg": 552.2,
+    "total_value_usd": 100094.18,
+    "service": "Express Courier",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 27833.65,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Italy"
+  }
+}

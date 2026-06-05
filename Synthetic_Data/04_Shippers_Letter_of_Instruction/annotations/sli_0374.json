@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0374",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202204-4328",
+    "usppi_name": "Ward Tech Corp.",
+    "usppi_address": "364 Prince Shoals Apt. 019, Caseychester, KS 85923, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "82-1819120",
+    "consignee_name": "Jimenez Global GmbH",
+    "consignee_address": "1062 Moore Avenue Apt. 829, South Jessicafurt, AK 38541, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Tech Peterson AG",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Edwin Hebert",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/11",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 45,
+        "unit": "PCS",
+        "weight_kg": 52.92,
+        "value_usd": 1129.74
+      },
+      {
+        "marks": "SLI/21",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 131,
+        "unit": "PCS",
+        "weight_kg": 2417.19,
+        "value_usd": 54582.63
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 142,
+        "unit": "CTN",
+        "weight_kg": 582.89,
+        "value_usd": 7026.57
+      },
+      {
+        "marks": "ABC/31",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 33,
+        "unit": "PCS",
+        "weight_kg": 10.65,
+        "value_usd": 1429.92
+      },
+      {
+        "marks": "ABC/18",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 75,
+        "unit": "PCS",
+        "weight_kg": 958.53,
+        "value_usd": 46567.63
+      }
+    ],
+    "total_weight_kg": 4022.18,
+    "total_value_usd": 110736.49,
+    "service": "Ground",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 7546.89,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-205408",
+    "destination_country": "Brazil"
+  }
+}

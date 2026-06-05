@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0694",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jeffrey Reyes",
+    "addressee_company": "International Fowler Co.",
+    "addressee_address": "48940 Fry Mission Suite 995, North Wendyport, FL 53761, Sweden",
+    "addressee_country": "Sweden",
+    "total_weight_kg": 13.969,
+    "total_value": 4088.48,
+    "currency": "GBP",
+    "issue_date": "2025-12-31",
+    "reference": "REF-410859",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.929,
+        "value": 252.0,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 12,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.221,
+        "value": 1041.0,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 4,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 0.382,
+        "value": 228.4,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 19,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.318,
+        "value": 580.45,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 13,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.553,
+        "value": 1178.97,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 14,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.566,
+        "value": 807.66,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Elizabeth Jones",
+    "sender_company": "Pacific Cooper B.V.",
+    "sender_address": "812 Peters Orchard, Kennethbury, SD 04565, Netherlands",
+    "sender_phone": "(675)247-9201x860",
+    "sender_email": "bbowen@example.net",
+    "addressee_phone": "(248)941-5876x796",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 35.04,
+    "tracking_number": "YA012375243SR"
+  }
+}

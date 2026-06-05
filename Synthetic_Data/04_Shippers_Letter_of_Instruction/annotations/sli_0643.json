@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0643",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202005-3794",
+    "usppi_name": "Nunez Commerce Pte Ltd",
+    "usppi_address": "705 Adams Island, Hesshaven, UT 14313, India",
+    "usppi_country": "India",
+    "ein": "46-7521903",
+    "consignee_name": "Global Walters Corp.",
+    "consignee_address": "9599 Cannon Streets, East John, WY 54759, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Conner Trade LLC",
+    "forwarder": "DB Schenker",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Tina Smith",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/37",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 194,
+        "unit": "MTR",
+        "weight_kg": 185.34,
+        "value_usd": 1568.13
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 51,
+        "unit": "PCS",
+        "weight_kg": 698.09,
+        "value_usd": 10887.12
+      }
+    ],
+    "total_weight_kg": 883.43,
+    "total_value_usd": 12455.25,
+    "service": "Ocean Freight",
+    "named_port": "Tokyo, JP",
+    "insurance_value_usd": 34026.83,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-281412",
+    "destination_country": "Singapore"
+  }
+}

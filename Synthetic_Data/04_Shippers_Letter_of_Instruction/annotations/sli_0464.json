@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0464",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202504-4222",
+    "usppi_name": "Trade Brown Inc.",
+    "usppi_address": "3153 Fisher Branch, Brooksberg, MI 34389, United Kingdom",
+    "usppi_country": "United Kingdom",
+    "ein": "74-5410154",
+    "consignee_name": "Austin International Inc.",
+    "consignee_address": "USNS Taylor, FPO AP 45760, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Barker Trade Pte Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Kelly Peterson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/26",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 114,
+        "unit": "KGS",
+        "weight_kg": 114.0,
+        "value_usd": 823.0
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 76,
+        "unit": "PCS",
+        "weight_kg": 1132.47,
+        "value_usd": 13909.06
+      }
+    ],
+    "total_weight_kg": 1246.47,
+    "total_value_usd": 14732.06,
+    "service": "Ground",
+    "named_port": "Toronto Pearson",
+    "insurance_value_usd": 26957.32,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-741153",
+    "destination_country": "Germany"
+  }
+}

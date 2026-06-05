@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0003",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-30741489",
+    "mawb_number": "020-52368265",
+    "shipper_name": "Rogers International Inc.",
+    "shipper_address": "880 Melissa Rest, East Ginaberg, MN 53536, Switzerland",
+    "consignee_name": "Tech Hunter S.A.",
+    "consignee_address": "646 Harper Plaza Apt. 065, Port Michelleport, NJ 31668, Poland",
+    "agent_name": "International Jensen B.V.",
+    "airport_departure": "NRT",
+    "airport_destination": "AMS",
+    "currency": "CAD",
+    "charge_code": "CC",
+    "declared_value_carriage": "SGD 29,276.70",
+    "declared_value_customs": "CAD 40,044.33",
+    "n_pieces": 37,
+    "gross_weight_kg": 281.8,
+    "chargeable_weight": 304.9,
+    "rate": 3.68,
+    "total_charge": 1122.03,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-01-14",
+    "signatory": "Brian Miller",
+    "iata_code": "20-343",
+    "agent_cass": "4519-7427",
+    "consolidation_ref": "CONS-3050-888994",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-55032590",
+        "pieces": 14,
+        "weight": 45.7,
+        "destination": "DXB",
+        "consignee": "Roberson Trade LLC",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "045-38976082",
+        "pieces": 3,
+        "weight": 97.6,
+        "destination": "LHR",
+        "consignee": "International Allen Pte Ltd",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "160-63334945",
+        "pieces": 10,
+        "weight": 15.1,
+        "destination": "LHR",
+        "consignee": "Thomas Industry Pte Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

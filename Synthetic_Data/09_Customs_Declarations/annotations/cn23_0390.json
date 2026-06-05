@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0390",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Levi Barnes",
+    "addressee_company": "Fisher Trade Pte Ltd",
+    "addressee_address": "93792 Charles Knoll, East Jonathon, KS 61084, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 10.526,
+    "total_value": 2189.4,
+    "currency": "CAD",
+    "issue_date": "2026-04-24",
+    "reference": "REF-954345",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.501,
+        "value": 1409.22,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 6,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.06,
+        "value": 355.86,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 13,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.965,
+        "value": 424.32,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_country": "China",
+    "port_of_entry": "New York, NY",
+    "entry_number": "931-46753451-8",
+    "entry_type": "Informal Entry",
+    "duty_rate": 13.1,
+    "estimated_duty": 286.81,
+    "importer_ein": "50-8489395",
+    "customs_broker": "Anderson Pacific AG"
+  }
+}

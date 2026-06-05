@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0965",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "International Reyes Inc.",
+    "shipper_address": "13995 Jason Overpass, South Thomasburgh, AS 84509, Germany",
+    "shipper_country": "Germany",
+    "container_number": "EROZ2257628",
+    "seal_number": "BL550731",
+    "container_size": "40'HC",
+    "iso_type_code": "45G0",
+    "tare_weight_kg": 4000,
+    "cargo_weight_kg": 11889.0,
+    "packing_materials_kg": 196.4,
+    "vgm_kg": 16085.4,
+    "vessel": "MSC GULSUN",
+    "voyage": "924E",
+    "bl_number": "EGLV520088978",
+    "booking_reference": "BKG-891972",
+    "weighing_scale_type": "Certified Static Scale",
+    "scale_serial": "Serial No.-29479",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-24",
+    "signature_date": "2026-05-07",
+    "signatory_name": "Michael Holmes",
+    "signatory_title": "Shipping Coordinator",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Bag",
+        "n_units": 3,
+        "gross_wt_kg": 211.3
+      },
+      {
+        "item_no": 2,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Crate",
+        "n_units": 19,
+        "gross_wt_kg": 3499.1
+      },
+      {
+        "item_no": 3,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Pallet",
+        "n_units": 7,
+        "gross_wt_kg": 2753.5
+      },
+      {
+        "item_no": 4,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Drum",
+        "n_units": 1,
+        "gross_wt_kg": 2892.4
+      },
+      {
+        "item_no": 5,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Pallet",
+        "n_units": 18,
+        "gross_wt_kg": 2532.7
+      }
+    ]
+  }
+}

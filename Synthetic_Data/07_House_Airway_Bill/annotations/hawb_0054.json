@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0054",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-22301839",
+    "mawb_number": "125-81202487",
+    "shipper_name": "Carrillo Commerce Inc.",
+    "shipper_address": "2714 Kevin Road Apt. 800, Port Eric, AS 90449, Germany",
+    "consignee_name": "Black International GmbH",
+    "consignee_address": "80963 Wiley Inlet, Pattersonmouth, NM 80186, Mexico",
+    "agent_name": "International Gibbs GmbH",
+    "airport_departure": "PVG",
+    "airport_destination": "CDG",
+    "currency": "GBP",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 48,
+    "gross_weight_kg": 387.9,
+    "chargeable_weight": 468.3,
+    "rate": 6.79,
+    "total_charge": 3179.76,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-11-13",
+    "signatory": "Wesley Taylor",
+    "iata_code": "62-127",
+    "agent_cass": "2811-6538",
+    "consolidation_ref": "CONS-2202-138921",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-49588289",
+        "pieces": 5,
+        "weight": 91.8,
+        "destination": "AMS",
+        "consignee": "Jones Tech Corp.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "618-63736947",
+        "pieces": 4,
+        "weight": 84.0,
+        "destination": "ORD",
+        "consignee": "Sloan Pacific AG",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "085-97446525",
+        "pieces": 14,
+        "weight": 71.4,
+        "destination": "CDG",
+        "consignee": "Pacific Wright B.V.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

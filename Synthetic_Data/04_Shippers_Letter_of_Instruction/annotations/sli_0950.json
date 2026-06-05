@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0950",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202209-1269",
+    "usppi_name": "Baker Tech Inc.",
+    "usppi_address": "590 Kayla Tunnel, East Joseph, GA 45088, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "13-9060306",
+    "consignee_name": "Daniel Trade LLC",
+    "consignee_address": "77243 Howe Camp Apt. 418, East Melissa, WV 08003, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Commerce Knight Co.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Susan Torres",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/35",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 138,
+        "unit": "SET",
+        "weight_kg": 402.58,
+        "value_usd": 24549.41
+      },
+      {
+        "marks": "ABC/28",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 121,
+        "unit": "CTN",
+        "weight_kg": 339.76,
+        "value_usd": 1081.94
+      },
+      {
+        "marks": "EXP/25",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 14,
+        "unit": "KGS",
+        "weight_kg": 14.0,
+        "value_usd": 275.16
+      }
+    ],
+    "total_weight_kg": 756.34,
+    "total_value_usd": 25906.51,
+    "service": "LCL Ocean",
+    "named_port": "Rotterdam, NL",
+    "insurance_value_usd": 22813.91,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-787029",
+    "destination_country": "Singapore"
+  }
+}

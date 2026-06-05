@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0749",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202312-3216",
+    "usppi_name": "Saunders Pacific AG",
+    "usppi_address": "65602 Rogers Place, West Ashleyton, PW 96283, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "80-1296727",
+    "consignee_name": "Tech James Inc.",
+    "consignee_address": "34147 Richards Ports Suite 028, Port Sarah, AS 07429, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Noble Industry LLC",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Carmen Jensen",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/43",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 178,
+        "unit": "LTR",
+        "weight_kg": 173.21,
+        "value_usd": 877.85
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 27,
+        "unit": "CTN",
+        "weight_kg": 63.12,
+        "value_usd": 469.66
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 183,
+        "unit": "MTR",
+        "weight_kg": 98.27,
+        "value_usd": 1791.21
+      },
+      {
+        "marks": "ABC/3",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 60,
+        "unit": "PKG",
+        "weight_kg": 51.06,
+        "value_usd": 3559.1
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 18,
+        "unit": "PCS",
+        "weight_kg": 6.46,
+        "value_usd": 3420.84
+      },
+      {
+        "marks": "EXP/36",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 113,
+        "unit": "PCS",
+        "weight_kg": 94.04,
+        "value_usd": 19704.41
+      }
+    ],
+    "total_weight_kg": 486.16,
+    "total_value_usd": 29823.07,
+    "service": "Ground",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 28006.41,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-659374",
+    "destination_country": "Mexico"
+  }
+}

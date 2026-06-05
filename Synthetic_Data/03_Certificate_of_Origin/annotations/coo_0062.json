@@ -1,0 +1,54 @@
+{
+  "document_id": "coo_0062",
+  "document_class": "Certificate of Origin",
+  "format_variant": "FTA-USMCA-Numbered-Fields",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202002-8734",
+    "exporter_name": "Hernandez Trade LLC",
+    "exporter_address": "9025 Miranda Ranch, Lake Brittany, WA 48713, Mexico",
+    "exporter_country": "Mexico",
+    "consignee_name": "Miller Global S.A.",
+    "consignee_address": "37325 Anderson Canyon, South David, DC 86876, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "country_of_origin": "Mexico",
+    "country_of_destination": "Hong Kong",
+    "bl_or_awb": "EGLV642374721",
+    "issue_date": "2026-05-03",
+    "certifier_name": "Laura Johnson",
+    "goods": [
+      {
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "hs_code": "8518.30.00",
+        "qty": 328,
+        "unit": "PCS",
+        "weight_kg": 20.42,
+        "origin_criterion": "F",
+        "value": 15106.91
+      },
+      {
+        "description": "Medical Devices - Disposable Syringes",
+        "hs_code": "9018.31.00",
+        "qty": 24,
+        "unit": "CTN",
+        "weight_kg": 25.09,
+        "origin_criterion": "C",
+        "value": 940.66
+      },
+      {
+        "description": "Plastic Products - Injection Moulded Components",
+        "hs_code": "3926.90.00",
+        "qty": 137,
+        "unit": "PCS",
+        "weight_kg": 88.19,
+        "origin_criterion": "D",
+        "value": 672.48
+      }
+    ],
+    "fta_agreement": "CPTPP",
+    "blanket_period_from": "2025-11-25",
+    "blanket_period_to": "2026-10-29",
+    "producer_name": "Clark Commerce Corp.",
+    "producer_country": "Belgium"
+  }
+}

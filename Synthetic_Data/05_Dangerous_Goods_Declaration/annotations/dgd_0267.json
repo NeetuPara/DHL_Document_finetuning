@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0267",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Murphy Co.",
+    "shipper_address": "73473 Stokes River Apt. 312, Hendersonstad, CO 23187, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Trade Howard S.A.",
+    "consignee_address": "303 Anthony Gateway Suite 259, Lake Marisa, NV 75693, Switzerland",
+    "consignee_country": "Switzerland",
+    "emergency_telephone": "+5 566-350-4610",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 47,
+        "pkg_type": "Steel Drum",
+        "net_qty": 86.74,
+        "qty_unit": "g",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 33,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 95.92,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Leslie Long",
+    "signature_date": "2026-05-01",
+    "signature_place": "Germany",
+    "awb_number": "125-17422178",
+    "flight_number": "CX9192",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International",
+    "non_dg_reason": "Excepted quantities (EQ) per IATA DGR 2.6"
+  }
+}

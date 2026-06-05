@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0608",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Terry Myers",
+    "addressee_company": "Smith Tech Co.",
+    "addressee_address": "541 Charles Drive Apt. 289, Blairstad, PW 33867, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 9.403,
+    "total_value": 1990.44,
+    "currency": "AED",
+    "issue_date": "2025-08-08",
+    "reference": "REF-642166",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.539,
+        "value": 935.04,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 12,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.864,
+        "value": 1055.4,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_name": "Janice Jones",
+    "sender_company": "Vargas Commerce AG",
+    "sender_address": "PSC 9730, Box 6446, APO AE 33380, Singapore",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 9.74,
+    "tracking_number": "JO422143364MR"
+  }
+}

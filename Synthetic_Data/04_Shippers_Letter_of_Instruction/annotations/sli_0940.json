@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0940",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202503-1707",
+    "usppi_name": "Trade Ross Corp.",
+    "usppi_address": "6189 Jennifer Tunnel, Lake Gregoryburgh, MP 47942, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "58-6566195",
+    "consignee_name": "Love Commerce Inc.",
+    "consignee_address": "0688 Mary Flats Suite 969, Ryanland, CT 67812, China",
+    "consignee_country": "China",
+    "notify_party": "Gonzalez Global Corp.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "John Garrison II",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/27",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 95,
+        "unit": "KGS",
+        "weight_kg": 95.0,
+        "value_usd": 187.47
+      },
+      {
+        "marks": "SLI/10",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 54,
+        "unit": "SET",
+        "weight_kg": 74.89,
+        "value_usd": 6597.54
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 47,
+        "unit": "LTR",
+        "weight_kg": 45.05,
+        "value_usd": 194.17
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 31,
+        "unit": "MTR",
+        "weight_kg": 23.05,
+        "value_usd": 227.52
+      }
+    ],
+    "total_weight_kg": 237.99,
+    "total_value_usd": 7206.7,
+    "service": "Express Courier",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 28908.16,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-839946",
+    "destination_country": "China"
+  }
+}

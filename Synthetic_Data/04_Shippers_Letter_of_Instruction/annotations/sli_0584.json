@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0584",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202407-6073",
+    "usppi_name": "International Harrison Co.",
+    "usppi_address": "17158 Hawkins Tunnel Apt. 390, New Christyfurt, MN 68074, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "78-8323301",
+    "consignee_name": "Trade Lawrence LLC",
+    "consignee_address": "Unit 1532 Box 8958, DPO AP 48992, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Mcguire International AG",
+    "forwarder": "DB Schenker",
+    "incoterm": "EXW",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Derek Walker",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/21",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 148,
+        "unit": "PKG",
+        "weight_kg": 307.45,
+        "value_usd": 10595.54
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 13,
+        "unit": "SET",
+        "weight_kg": 42.01,
+        "value_usd": 1072.01
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 160,
+        "unit": "PCS",
+        "weight_kg": 1444.59,
+        "value_usd": 59658.03
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 145,
+        "unit": "KGS",
+        "weight_kg": 145.0,
+        "value_usd": 1144.59
+      },
+      {
+        "marks": "ABC/8",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 183,
+        "unit": "MTR",
+        "weight_kg": 76.18,
+        "value_usd": 2689.17
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 58,
+        "unit": "PCS",
+        "weight_kg": 10.33,
+        "value_usd": 5145.08
+      }
+    ],
+    "total_weight_kg": 2025.56,
+    "total_value_usd": 80304.42,
+    "service": "Express Courier",
+    "named_port": "Seoul Incheon",
+    "insurance_value_usd": 39739.7,
+    "license_type": "Distributor License",
+    "license_number": "LIC-114292",
+    "destination_country": "South Korea"
+  }
+}

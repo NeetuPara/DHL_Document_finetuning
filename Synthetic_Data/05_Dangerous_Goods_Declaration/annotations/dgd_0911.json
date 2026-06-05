@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0911",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Jones Trade Inc.",
+    "shipper_address": "865 Oliver Meadow Suite 254, West Amanda, IA 14446, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Porter Pacific S.A.",
+    "consignee_address": "33535 Hill Vista Apt. 328, Hillfort, DC 44256, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+64 743-339-5762",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 28,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 77.85,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-521470",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Kristin Hayes",
+    "signature_date": "2026-04-30",
+    "signature_place": "Hong Kong",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "929W",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Dubai, AE"
+  }
+}

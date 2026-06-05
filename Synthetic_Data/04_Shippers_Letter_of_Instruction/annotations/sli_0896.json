@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0896",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202101-6841",
+    "usppi_name": "International Thomas Pte Ltd",
+    "usppi_address": "Unit 2134 Box 6951, DPO AA 03940, France",
+    "usppi_country": "France",
+    "ein": "89-2799313",
+    "consignee_name": "International Wolfe S.A.",
+    "consignee_address": "PSC 0931, Box 8354, APO AA 89341, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Commerce Best S.A.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "2B350",
+    "signatory_name": "William Roth",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/37",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 156,
+        "unit": "MTR",
+        "weight_kg": 167.05,
+        "value_usd": 2093.68
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 42,
+        "unit": "PCS",
+        "weight_kg": 15.82,
+        "value_usd": 1043.01
+      },
+      {
+        "marks": "SLI/33",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 18,
+        "unit": "PCS",
+        "weight_kg": 114.65,
+        "value_usd": 3639.17
+      }
+    ],
+    "total_weight_kg": 297.52,
+    "total_value_usd": 6775.86,
+    "service": "LCL Ocean",
+    "named_port": "Shanghai, CN",
+    "insurance_value_usd": 25693.64,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Germany"
+  }
+}

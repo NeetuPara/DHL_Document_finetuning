@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0721",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202201-5613",
+    "usppi_name": "Nelson International Co.",
+    "usppi_address": "6417 Hoffman Track, Lake Elizabethville, LA 32612, Poland",
+    "usppi_country": "Poland",
+    "ein": "47-6227377",
+    "consignee_name": "Armstrong International Inc.",
+    "consignee_address": "8478 Andrew Forks Apt. 148, Lake Tiffanytown, AZ 84406, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Johnson Trade AG",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Sara Russell",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/36",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 152,
+        "unit": "PCS",
+        "weight_kg": 154.22,
+        "value_usd": 51303.88
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 57,
+        "unit": "PCS",
+        "weight_kg": 549.95,
+        "value_usd": 16536.36
+      },
+      {
+        "marks": "EXP/15",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 105,
+        "unit": "KGS",
+        "weight_kg": 105.0,
+        "value_usd": 826.54
+      }
+    ],
+    "total_weight_kg": 809.17,
+    "total_value_usd": 68666.78,
+    "service": "LCL Ocean",
+    "named_port": "Singapore, SG",
+    "insurance_value_usd": 35582.58,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Netherlands"
+  }
+}

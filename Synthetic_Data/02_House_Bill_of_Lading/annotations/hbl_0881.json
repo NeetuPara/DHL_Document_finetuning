@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0881",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV221997448",
+    "shipper_name": "Terry Pacific B.V.",
+    "shipper_address": "759 Kristina Cliffs Suite 114, South Joyshire, WI 67255, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Commerce White AG",
+    "consignee_address": "Unit 2447 Box 2381, DPO AP 66615, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Tech Cabrera AG",
+    "notify_party_address": "Unit 4953 Box 9745, DPO AE 67461, Mexico",
+    "vessel": "MSC GULSUN",
+    "voyage": "517N",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Dubai, AE",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2025-07-07",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "LQFZ9515924",
+        "seal_no": "CL332067",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "NLWO0961962",
+        "seal_no": "BL947928",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "BUTL4104523",
+        "seal_no": "SL122563",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "XSMR0310743",
+        "seal_no": "CL872905",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 120,
+    "package_type": "Carton",
+    "gross_weight_kg": 5603.0,
+    "net_weight_kg": 5403.0,
+    "cbm": 4.697,
+    "marks_and_numbers": "ABC/4"
+  }
+}

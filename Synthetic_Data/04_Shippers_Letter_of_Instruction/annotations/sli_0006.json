@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0006",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202504-6147",
+    "usppi_name": "Industry Morales B.V.",
+    "usppi_address": "45792 Todd Vista Suite 925, Parkertown, IA 46268, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "90-7578236",
+    "consignee_name": "Commerce Klein GmbH",
+    "consignee_address": "2163 Palmer Turnpike Suite 307, New Dianeshire, DE 12513, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Mckee International Inc.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "Cynthia Hoffman",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/13",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 96,
+        "unit": "SET",
+        "weight_kg": 185.71,
+        "value_usd": 12341.88
+      },
+      {
+        "marks": "EXP/36",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 172,
+        "unit": "PCS",
+        "weight_kg": 25.12,
+        "value_usd": 11421.83
+      }
+    ],
+    "total_weight_kg": 210.83,
+    "total_value_usd": 23763.71,
+    "vessel": "ONE INNOVATION",
+    "voyage": "950W",
+    "booking_ref": "BKG-222460",
+    "bl_number": "EGLV652032786",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "New York, US",
+    "container_number": "EUCF8208146",
+    "seal_number": "CL382364",
+    "container_type": "40'GP",
+    "cbm": 13.818
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0724",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "William Davenport",
+    "addressee_company": "Tech Allen Co.",
+    "addressee_address": "95346 Joann Extensions, Port Vanessa, AZ 80465, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 6.107,
+    "total_value": 942.5,
+    "currency": "JPY",
+    "issue_date": "2025-06-22",
+    "reference": "REF-772041",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.098,
+        "value": 916.0,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 10,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.009,
+        "value": 26.5,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_name": "Jon Palmer",
+    "sender_company": "Morris Pacific GmbH",
+    "sender_address": "90373 Clark Path Suite 245, Lake Sarahmouth, IA 20044, Poland",
+    "sender_phone": "211-825-3487x572",
+    "sender_email": "howeashley@example.com",
+    "addressee_phone": "668.616.9794x482",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 18.96,
+    "tracking_number": "DE280023956VM"
+  }
+}

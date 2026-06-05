@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0463",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Alvarez Industry GmbH",
+    "shipper_address": "499 Katherine Flats Apt. 440, Kristyland, VI 69519, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Trade Brock AG",
+    "consignee_address": "1884 Costa Pine, Mcbridehaven, VT 79105, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+52 902-898-2294",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 35,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 51.97,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Steven Ramirez",
+    "signature_date": "2026-04-19",
+    "signature_place": "Germany",
+    "awb_number": "006-94935201",
+    "flight_number": "UA9921",
+    "flight_date": "2026-05-03",
+    "departure_airport_code": "PVG",
+    "departure_airport_name": "Shanghai Pudong",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson"
+  }
+}

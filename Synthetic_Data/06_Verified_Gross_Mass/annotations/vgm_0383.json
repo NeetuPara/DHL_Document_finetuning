@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0383",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Sullivan Global GmbH",
+    "shipper_address": "57143 Kristine Walks Suite 551, North Denise, MT 16045, Italy",
+    "shipper_country": "Italy",
+    "container_number": "FXML6714526",
+    "seal_number": "CL392092",
+    "container_size": "40'OT",
+    "iso_type_code": "42U0",
+    "tare_weight_kg": 4200,
+    "cargo_weight_kg": 11462.9,
+    "packing_materials_kg": 376.3,
+    "vgm_kg": 16039.2,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "962S",
+    "bl_number": "YMLU155552108",
+    "booking_reference": "BKG-459115",
+    "weighing_scale_type": "Certified Static Scale",
+    "scale_serial": "Serial No.-51112",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-19",
+    "signature_date": "2026-05-07",
+    "signatory_name": "Jamie Hart",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Roll",
+        "n_units": 11,
+        "gross_wt_kg": 3006.0
+      },
+      {
+        "item_no": 2,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Case",
+        "n_units": 14,
+        "gross_wt_kg": 2439.9
+      },
+      {
+        "item_no": 3,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Crate",
+        "n_units": 12,
+        "gross_wt_kg": 775.7
+      },
+      {
+        "item_no": 4,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Pallet",
+        "n_units": 15,
+        "gross_wt_kg": 1703.0
+      },
+      {
+        "item_no": 5,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Roll",
+        "n_units": 5,
+        "gross_wt_kg": 3538.3
+      }
+    ]
+  }
+}

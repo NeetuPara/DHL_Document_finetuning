@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0206",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jessica Sanders",
+    "addressee_company": "Pacific Hamilton Inc.",
+    "addressee_address": "786 Brittany Branch Apt. 751, Batesberg, NY 57672, China",
+    "addressee_country": "China",
+    "total_weight_kg": 9.158,
+    "total_value": 2296.23,
+    "currency": "SGD",
+    "issue_date": "2025-11-29",
+    "reference": "REF-171928",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.663,
+        "value": 27.24,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 1,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.324,
+        "value": 56.98,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 2,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.575,
+        "value": 78.36,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 19,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.875,
+        "value": 1284.97,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 14,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.721,
+        "value": 848.68,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Rachel Huffman MD",
+    "sender_company": "Industry Townsend Inc.",
+    "sender_address": "096 Alexandra Stravenue, North Christopher, DE 76399, Poland",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 5.04,
+    "tracking_number": "KR363502640WZ"
+  }
+}

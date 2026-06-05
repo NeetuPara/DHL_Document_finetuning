@@ -1,0 +1,60 @@
+{
+  "document_id": "coo_0231",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202309-1250",
+    "exporter_name": "Global Burton S.A.",
+    "exporter_address": "67929 Ashley Rapid, Kelliside, VT 07088, United Arab Emirates",
+    "exporter_country": "United Arab Emirates",
+    "consignee_name": "Tech Waters Co.",
+    "consignee_address": "2702 Fitzgerald Harbors, East Samuel, MO 42178, Italy",
+    "consignee_country": "Italy",
+    "country_of_origin": "United Arab Emirates",
+    "country_of_destination": "Italy",
+    "bl_or_awb": "OOLU870408066",
+    "issue_date": "2024-08-12",
+    "certifier_name": "Ryan Faulkner",
+    "goods": [
+      {
+        "description": "Automotive Spare Parts - Brake Pads",
+        "hs_code": "8708.30.00",
+        "qty": 65,
+        "unit": "SET",
+        "weight_kg": 55.21,
+        "origin_criterion": "C",
+        "value": 2572.85
+      },
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 455,
+        "unit": "KGS",
+        "weight_kg": 455.0,
+        "origin_criterion": "F",
+        "value": 1997.56
+      },
+      {
+        "description": "Plastic Products - Injection Moulded Components",
+        "hs_code": "3926.90.00",
+        "qty": 477,
+        "unit": "PCS",
+        "weight_kg": 395.44,
+        "origin_criterion": "F",
+        "value": 9488.78
+      },
+      {
+        "description": "Paper Products - Packaging Cartons",
+        "hs_code": "4819.10.00",
+        "qty": 167,
+        "unit": "CTN",
+        "weight_kg": 340.64,
+        "origin_criterion": "B",
+        "value": 2163.2
+      }
+    ],
+    "fta_agreement": "RCEP",
+    "chamber": "Board of Trade"
+  }
+}

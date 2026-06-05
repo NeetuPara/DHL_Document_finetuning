@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0037",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU405530083",
+    "shipper_name": "Choi Commerce GmbH",
+    "shipper_address": "4898 Michael Coves, Fletcherchester, LA 04686, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Foster Pacific B.V.",
+    "consignee_address": "83574 Perez Club Apt. 369, Port Stephanie, TX 39429, Spain",
+    "consignee_country": "Spain",
+    "notify_party_name": "Commerce Goodman LLC",
+    "notify_party_address": "43216 Spencer Valley, East Saramouth, AL 89319, Australia",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "629S",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2024-11-24",
+    "issue_place": "New York",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "MCVH0814454",
+        "seal_no": "CL523562",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "IFBI7228696",
+        "seal_no": "BL773012",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "EYJV0411245",
+        "seal_no": "CL660836",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "PCSP1508733",
+        "seal_no": "CL179307",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "number_of_packages": 160,
+    "package_type": "Pallet",
+    "gross_weight_kg": 2171.6,
+    "net_weight_kg": 1929.9,
+    "cbm": 12.116,
+    "marks_and_numbers": "ABC/40"
+  }
+}

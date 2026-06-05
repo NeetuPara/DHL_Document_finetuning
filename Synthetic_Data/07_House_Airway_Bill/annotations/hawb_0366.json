@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0366",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-83013693",
+    "mawb_number": "020-49911187",
+    "shipper_name": "Trade Fox Co.",
+    "shipper_address": "2001 Peter Overpass, Dudleyberg, NV 59405, Spain",
+    "consignee_name": "Commerce Watkins GmbH",
+    "consignee_address": "376 Michael Parks Apt. 963, East Danielleberg, NM 20123, India",
+    "agent_name": "Tech Herman LLC",
+    "airport_departure": "DXB",
+    "airport_destination": "CDG",
+    "currency": "EUR",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 18,
+    "gross_weight_kg": 127.1,
+    "chargeable_weight": 151.9,
+    "rate": 9.24,
+    "total_charge": 1403.56,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-05-19",
+    "signatory": "Teresa Mcgrath",
+    "iata_code": "46-533",
+    "agent_cass": "2612-8912",
+    "consolidation_ref": "CONS-2243-473828",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-10556268",
+        "pieces": 11,
+        "weight": 97.1,
+        "destination": "HKG",
+        "consignee": "Industry Brown Inc.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "618-67211877",
+        "pieces": 20,
+        "weight": 38.0,
+        "destination": "ICN",
+        "consignee": "Simmons Tech S.A.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "006-46625982",
+        "pieces": 10,
+        "weight": 64.8,
+        "destination": "SIN",
+        "consignee": "Wu Commerce Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "045-52681880",
+        "pieces": 20,
+        "weight": 14.6,
+        "destination": "SYD",
+        "consignee": "Padilla Pacific B.V.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "618-70656632",
+        "pieces": 7,
+        "weight": 35.3,
+        "destination": "ICN",
+        "consignee": "Powell Trade B.V.",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

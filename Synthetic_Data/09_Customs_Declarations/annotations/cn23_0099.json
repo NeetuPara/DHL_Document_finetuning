@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0099",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "David Drake",
+    "addressee_company": "Dickerson Trade LLC",
+    "addressee_address": "USNV Moore, FPO AA 21503, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 11.963,
+    "total_value": 4227.6,
+    "currency": "AUD",
+    "issue_date": "2025-10-08",
+    "reference": "REF-956591",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.374,
+        "value": 552.0,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 20,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.873,
+        "value": 2527.0,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 5,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.705,
+        "value": 579.2,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 20,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.011,
+        "value": 569.4,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_country": "China",
+    "port_of_entry": "Chicago, IL",
+    "entry_number": "217-51403122-9",
+    "entry_type": "Informal Entry",
+    "duty_rate": 12.8,
+    "estimated_duty": 541.13,
+    "importer_ein": "93-5365158",
+    "customs_broker": "Industry Jones S.A."
+  }
+}

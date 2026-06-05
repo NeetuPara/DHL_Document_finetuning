@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0212",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Banks International AG",
+    "shipper_address": "Unit 2546 Box 2281, DPO AA 62274, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Morgan Industry Inc.",
+    "consignee_address": "0303 Jeff Underpass Suite 486, Wagnershire, VT 98493, China",
+    "consignee_country": "China",
+    "emergency_telephone": "+59 186-436-6820",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 13,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 83.67,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-648365",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 29,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 29.59,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-903118",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Jeff Sullivan",
+    "signature_date": "2026-04-27",
+    "signature_place": "Spain",
+    "vessel": "MSC GULSUN",
+    "voyage": "949N",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Dubai, AE"
+  }
+}

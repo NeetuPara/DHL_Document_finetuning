@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0829",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202511-7958",
+    "usppi_name": "Trade Rogers AG",
+    "usppi_address": "639 Richard Springs, South Brianshire, NE 01371, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "37-3592373",
+    "consignee_name": "Global Gray GmbH",
+    "consignee_address": "3623 Taylor Hollow Apt. 797, South Nancytown, GU 27588, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Robinson Pacific Inc.",
+    "forwarder": "Panalpina",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Barry Miller",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/49",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 29,
+        "unit": "PCS",
+        "weight_kg": 37.52,
+        "value_usd": 43208.92
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 91,
+        "unit": "KGS",
+        "weight_kg": 91.0,
+        "value_usd": 1633.46
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 75,
+        "unit": "PCS",
+        "weight_kg": 13.29,
+        "value_usd": 18255.79
+      }
+    ],
+    "total_weight_kg": 141.81,
+    "total_value_usd": 63098.17,
+    "service": "Ground",
+    "named_port": "Shanghai Pudong",
+    "insurance_value_usd": 37327.7,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-772204",
+    "destination_country": "Switzerland"
+  }
+}

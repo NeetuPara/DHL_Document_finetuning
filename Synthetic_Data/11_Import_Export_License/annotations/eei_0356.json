@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0356",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220326915629",
+    "export_date": "2025-08-26",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Garza International S.A.",
+    "usppi_ein": "63-5120150",
+    "usppi_address": "159 Jon Mount Suite 441, North Chaseport, MS 77282, United Kingdom",
+    "ultimate_consignee": "Tech Bryant GmbH",
+    "intermediate_consignee": "International Taylor Co.",
+    "forwarding_agent": "Trade Howell S.A.",
+    "destination_country": "United States",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "618-99898356",
+    "total_value": 145763.85,
+    "currency": "AED",
+    "signatory": "Andrea Flynn",
+    "line_items": [
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Italy",
+        "qty": 194,
+        "unit": "SET",
+        "entered_value": 62332.2,
+        "duty_rate": 13.1,
+        "duty_amount": 8165.52,
+        "eccn": "3A992",
+        "schedule_b": "8708.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "South Korea",
+        "qty": 106,
+        "unit": "CTN",
+        "entered_value": 28375.14,
+        "duty_rate": 8.4,
+        "duty_amount": 2383.51,
+        "eccn": "EAR99",
+        "schedule_b": "4819.10.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 411,
+        "unit": "PCS",
+        "entered_value": 48518.55,
+        "duty_rate": 15.5,
+        "duty_amount": 7520.38,
+        "eccn": "0A919",
+        "schedule_b": "3926.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Mexico",
+        "qty": 52,
+        "unit": "PKG",
+        "entered_value": 6537.96,
+        "duty_rate": 15.5,
+        "duty_amount": 1013.38,
+        "eccn": "9A515",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

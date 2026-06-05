@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0316",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202112-2298",
+    "usppi_name": "Hughes Trade S.A.",
+    "usppi_address": "PSC 8132, Box 8578, APO AP 60932, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "37-1142886",
+    "consignee_name": "Commerce Whitaker GmbH",
+    "consignee_address": "Unit 9454 Box 3319, DPO AE 50049, United States",
+    "consignee_country": "United States",
+    "notify_party": "Trade King Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Steven Shepard",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/35",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 163,
+        "unit": "KGS",
+        "weight_kg": 163.0,
+        "value_usd": 295.55
+      },
+      {
+        "marks": "ABC/6",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 122,
+        "unit": "PCS",
+        "weight_kg": 15.02,
+        "value_usd": 3643.44
+      },
+      {
+        "marks": "EXP/50",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 104,
+        "unit": "CTN",
+        "weight_kg": 236.87,
+        "value_usd": 7446.73
+      },
+      {
+        "marks": "SLI/11",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 100,
+        "unit": "PCS",
+        "weight_kg": 51.9,
+        "value_usd": 240.06
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 39,
+        "unit": "KGS",
+        "weight_kg": 39.0,
+        "value_usd": 599.31
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 70,
+        "unit": "LTR",
+        "weight_kg": 68.87,
+        "value_usd": 1378.7
+      }
+    ],
+    "total_weight_kg": 574.66,
+    "total_value_usd": 13603.79,
+    "service": "Express Courier",
+    "named_port": "Miami International",
+    "insurance_value_usd": 44290.87,
+    "license_type": "Distributor License",
+    "license_number": "LIC-661265",
+    "destination_country": "United States"
+  }
+}

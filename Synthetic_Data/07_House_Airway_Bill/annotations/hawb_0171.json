@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0171",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-23503690",
+    "mawb_number": "020-25739526",
+    "shipper_name": "Trade Chavez AG",
+    "shipper_address": "8752 Hamilton Spur Apt. 013, Callahanstad, FL 44086, Sweden",
+    "consignee_name": "Commerce Lewis Ltd",
+    "consignee_address": "1531 Teresa Station Apt. 792, Brownberg, DE 29689, United States",
+    "agent_name": "Commerce Huang S.A.",
+    "airport_departure": "CDG",
+    "airport_destination": "DXB",
+    "currency": "AUD",
+    "charge_code": "CC",
+    "declared_value_carriage": "AED 2,214.40",
+    "declared_value_customs": "AUD 30,042.37",
+    "n_pieces": 45,
+    "gross_weight_kg": 199.6,
+    "chargeable_weight": 229.5,
+    "rate": 9.75,
+    "total_charge": 2237.62,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "TEMP CONTROLLED: 2\u00b0C - 24\u00b0C",
+    "issue_date": "2025-11-19",
+    "signatory": "Heather Kim",
+    "iata_code": "48-474",
+    "agent_cass": "8437-9090",
+    "consolidation_ref": "CONS-7322-529974",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-11856102",
+        "pieces": 18,
+        "weight": 89.4,
+        "destination": "LHR",
+        "consignee": "Global Ashley GmbH",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "618-16492302",
+        "pieces": 7,
+        "weight": 87.6,
+        "destination": "DXB",
+        "consignee": "Trade Graham LLC",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "618-93763335",
+        "pieces": 2,
+        "weight": 76.4,
+        "destination": "CDG",
+        "consignee": "International Garcia Co.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "074-95373426",
+        "pieces": 7,
+        "weight": 24.1,
+        "destination": "YYZ",
+        "consignee": "Todd Trade GmbH",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "057-38697878",
+        "pieces": 1,
+        "weight": 74.3,
+        "destination": "LHR",
+        "consignee": "Global Adams LLC",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "006-32869371",
+        "pieces": 3,
+        "weight": 88.4,
+        "destination": "DXB",
+        "consignee": "Industry Lucas B.V.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "125-32724547",
+        "pieces": 19,
+        "weight": 88.2,
+        "destination": "MIA",
+        "consignee": "Cannon Industry Pte Ltd",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0186",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Emily Mcclure",
+    "addressee_company": "Myers International Co.",
+    "addressee_address": "03214 Dalton Summit, West Andrew, CT 16860, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 16.054,
+    "total_value": 2000.73,
+    "currency": "SGD",
+    "issue_date": "2025-06-25",
+    "reference": "REF-701266",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.999,
+        "value": 648.56,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 10,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.944,
+        "value": 55.0,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 6,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.152,
+        "value": 375.48,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 6,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.175,
+        "value": 818.34,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 1,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.784,
+        "value": 103.35,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_country": "United States",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "402-99982449-2",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 14.4,
+    "estimated_duty": 288.11,
+    "importer_ein": "59-7520634",
+    "customs_broker": "Trade Gray S.A."
+  }
+}

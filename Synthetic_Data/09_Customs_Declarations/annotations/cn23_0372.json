@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0372",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Matthew Morris",
+    "addressee_company": "Pacific Smith AG",
+    "addressee_address": "8824 Maria Mount, Taylorview, CA 08228, Brazil",
+    "addressee_country": "Brazil",
+    "total_weight_kg": 6.982,
+    "total_value": 660.76,
+    "currency": "AUD",
+    "issue_date": "2026-02-18",
+    "reference": "REF-507667",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.019,
+        "value": 168.52,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 14,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.963,
+        "value": 492.24,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_country": "Netherlands",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "416-36668196-9",
+    "entry_type": "Informal Entry",
+    "duty_rate": 11.5,
+    "estimated_duty": 75.99,
+    "importer_ein": "60-7036506",
+    "customs_broker": "Trade Brown Ltd"
+  }
+}

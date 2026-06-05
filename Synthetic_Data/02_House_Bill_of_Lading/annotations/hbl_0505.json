@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0505",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU789385248",
+    "shipper_name": "Nichols Industry B.V.",
+    "shipper_address": "84228 Miller Isle, East Joseph, MN 65138, France",
+    "shipper_country": "France",
+    "consignee_name": "Garner International AG",
+    "consignee_address": "6761 Warren Tunnel, Lake Robinside, KS 98652, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Houston International Corp.",
+    "notify_party_address": "0539 Abigail Fort, Lake Heatherland, CT 82475, Singapore",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "170N",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2025-08-27",
+    "issue_place": "Rotterdam",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "QMIL5059400",
+        "seal_no": "CL135276",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "ESGZ3028111",
+        "seal_no": "BL940571",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 113,
+    "package_type": "Crate",
+    "gross_weight_kg": 6724.5,
+    "net_weight_kg": 6053.8,
+    "cbm": 4.945,
+    "marks_and_numbers": "XYZ/34"
+  }
+}

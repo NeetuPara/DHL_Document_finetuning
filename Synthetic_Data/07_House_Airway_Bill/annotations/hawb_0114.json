@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0114",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-99238051",
+    "mawb_number": "074-78922282",
+    "shipper_name": "Trade Hansen S.A.",
+    "shipper_address": "866 Coleman Fields, Benjaminberg, MO 58711, Malaysia",
+    "consignee_name": "International Griffith LLC",
+    "consignee_address": "2764 Lewis Points, Kimfort, IN 70468, China",
+    "agent_name": "Fisher Trade LLC",
+    "airport_departure": "SIN",
+    "airport_destination": "ORD",
+    "currency": "CNY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CAD 16,684.32",
+    "n_pieces": 5,
+    "gross_weight_kg": 29.9,
+    "chargeable_weight": 31.5,
+    "rate": 7.59,
+    "total_charge": 239.09,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-02-13",
+    "signatory": "Amy Young",
+    "iata_code": "60-245",
+    "agent_cass": "5927-9914",
+    "consolidation_ref": "CONS-4581-560799",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-38345044",
+        "pieces": 15,
+        "weight": 11.8,
+        "destination": "ICN",
+        "consignee": "International Acosta Corp.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "057-57595359",
+        "pieces": 17,
+        "weight": 75.5,
+        "destination": "YYZ",
+        "consignee": "Bailey International B.V.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "160-52389709",
+        "pieces": 20,
+        "weight": 91.2,
+        "destination": "MIA",
+        "consignee": "Roberson Tech Corp.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "618-98901604",
+        "pieces": 11,
+        "weight": 77.6,
+        "destination": "JFK",
+        "consignee": "Commerce Black B.V.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "057-25044807",
+        "pieces": 2,
+        "weight": 90.9,
+        "destination": "DXB",
+        "consignee": "Global Moore LLC",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "006-75367305",
+        "pieces": 10,
+        "weight": 63.6,
+        "destination": "JFK",
+        "consignee": "Walter Global S.A.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "057-64271248",
+        "pieces": 4,
+        "weight": 77.9,
+        "destination": "SIN",
+        "consignee": "Industry Fisher Pte Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

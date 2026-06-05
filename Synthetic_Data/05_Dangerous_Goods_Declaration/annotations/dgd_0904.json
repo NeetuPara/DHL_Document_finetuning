@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0904",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Adams S.A.",
+    "shipper_address": "4761 Griffin Course, Cameronfurt, ND 54519, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Trade Gordon B.V.",
+    "consignee_address": "087 Kathleen Fork, Bradleyville, KY 51242, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+52 334-640-7817",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 49,
+        "pkg_type": "Steel Drum",
+        "net_qty": 40.4,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Brenda Mclaughlin",
+    "signature_date": "2026-05-05",
+    "signature_place": "Netherlands",
+    "awb_number": "085-39855158",
+    "flight_number": "DL283",
+    "flight_date": "2026-06-10",
+    "departure_airport_code": "AMS",
+    "departure_airport_name": "Amsterdam Schiphol",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport"
+  }
+}

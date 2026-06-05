@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0252",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-98946139",
+    "mawb_number": "057-92272455",
+    "shipper_name": "Johnson Pacific Pte Ltd",
+    "shipper_address": "1327 Clayton Fields Apt. 640, Maxwellton, NM 23332, Poland",
+    "consignee_name": "Mcgee Trade Corp.",
+    "consignee_address": "650 Michael Lights, Port Brianfort, MT 72460, Canada",
+    "agent_name": "Richards Commerce Inc.",
+    "airport_departure": "PVG",
+    "airport_destination": "LAX",
+    "currency": "CAD",
+    "charge_code": "CC",
+    "declared_value_carriage": "CHF 32,333.39",
+    "declared_value_customs": "NCV",
+    "n_pieces": 36,
+    "gross_weight_kg": 459.1,
+    "chargeable_weight": 459.4,
+    "rate": 10.23,
+    "total_charge": 4699.66,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "TEMP CONTROLLED: 8\u00b0C - 13\u00b0C",
+    "issue_date": "2025-10-09",
+    "signatory": "Mary Calderon",
+    "iata_code": "66-572",
+    "agent_cass": "8442-9388",
+    "consolidation_ref": "CONS-4879-904011",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-39526213",
+        "pieces": 15,
+        "weight": 40.2,
+        "destination": "SIN",
+        "consignee": "Gomez Industry AG",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "618-40837054",
+        "pieces": 18,
+        "weight": 86.0,
+        "destination": "LHR",
+        "consignee": "Commerce Cook Co.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "057-40499074",
+        "pieces": 4,
+        "weight": 86.9,
+        "destination": "SYD",
+        "consignee": "Pena Trade B.V.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "618-33582643",
+        "pieces": 6,
+        "weight": 94.1,
+        "destination": "LAX",
+        "consignee": "Smith Global Pte Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "125-36741156",
+        "pieces": 1,
+        "weight": 43.7,
+        "destination": "PVG",
+        "consignee": "Global Williams LLC",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "020-96558048",
+        "pieces": 10,
+        "weight": 66.2,
+        "destination": "ICN",
+        "consignee": "Torres Tech B.V.",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

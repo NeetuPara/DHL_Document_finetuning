@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0373",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "815-99728298-6",
+    "entry_type": "11 - Informal - Free",
+    "entry_date": "2025-10-25",
+    "port_of_entry": "ORD - Chicago",
+    "transport_mode": "Truck",
+    "carrier": "MSC",
+    "bl_awb": "045-69445413",
+    "importer_name": "Pacific Lewis AG",
+    "importer_ein": "62-9882006",
+    "consignee_name": "Pacific Coleman Inc.",
+    "customs_broker": "Trade Carter S.A.",
+    "broker_filer_code": "fgY",
+    "country_of_origin": "South Korea",
+    "total_value": 43394.0,
+    "total_duty": 8987.89,
+    "currency": "CNY",
+    "signatory": "Kristen Jones",
+    "signatory_title": "Trade Finance Manager",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "United States",
+        "qty": 85,
+        "unit": "PCS",
+        "entered_value": 40222.0,
+        "duty_rate": 20.8,
+        "duty_amount": 8366.18,
+        "eccn": "0A919",
+        "schedule_b": "8483.40.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 25,
+        "unit": "BOX",
+        "entered_value": 3172.0,
+        "duty_rate": 19.6,
+        "duty_amount": 621.71,
+        "eccn": "0A919",
+        "schedule_b": "2936.90.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

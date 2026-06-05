@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0140",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Catherine Wilson",
+    "addressee_company": "Global Williams GmbH",
+    "addressee_address": "532 Anderson Squares, Craigfurt, IN 44209, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 5.513,
+    "total_value": 1752.12,
+    "currency": "CAD",
+    "issue_date": "2025-11-08",
+    "reference": "REF-863466",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.56,
+        "value": 463.25,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 11,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.953,
+        "value": 1288.87,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Patricia Lewis",
+    "sender_company": "Tech Murray Pte Ltd",
+    "sender_address": "3180 Mary Mountain Apt. 736, West Julietown, NH 22896, Hong Kong",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 1927.33,
+    "postal_charges": 31.02,
+    "tracking_number": "UK466056661WQ"
+  }
+}

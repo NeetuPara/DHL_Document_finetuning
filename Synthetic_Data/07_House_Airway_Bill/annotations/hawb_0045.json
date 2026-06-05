@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0045",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-37546317",
+    "mawb_number": "125-44000092",
+    "shipper_name": "Global Bryan Co.",
+    "shipper_address": "677 Elizabeth Falls, Christinehaven, NE 78983, United Kingdom",
+    "consignee_name": "Davis International LLC",
+    "consignee_address": "406 Day Road, Stewartport, IL 29492, United States",
+    "agent_name": "King Pacific Ltd",
+    "airport_departure": "JFK",
+    "airport_destination": "SIN",
+    "currency": "JPY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 36,
+    "gross_weight_kg": 492.1,
+    "chargeable_weight": 517.5,
+    "rate": 11.03,
+    "total_charge": 5708.02,
+    "nature_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "handling_info": "HANDLING CODE: AVI",
+    "issue_date": "2025-06-09",
+    "signatory": "Jose Compton",
+    "iata_code": "06-279",
+    "agent_cass": "5421-4968",
+    "consolidation_ref": "CONS-4600-973819",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-75411216",
+        "pieces": 13,
+        "weight": 65.3,
+        "destination": "SYD",
+        "consignee": "Simmons Global S.A.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "085-83999550",
+        "pieces": 18,
+        "weight": 60.5,
+        "destination": "JFK",
+        "consignee": "Vargas Tech B.V.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "045-49802624",
+        "pieces": 3,
+        "weight": 10.9,
+        "destination": "ICN",
+        "consignee": "Wilson Commerce S.A.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "160-47407259",
+        "pieces": 9,
+        "weight": 58.3,
+        "destination": "ORD",
+        "consignee": "Trade Owens Corp.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "085-90451738",
+        "pieces": 7,
+        "weight": 36.5,
+        "destination": "SYD",
+        "consignee": "Trade Hill S.A.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "085-70642900",
+        "pieces": 16,
+        "weight": 1.4,
+        "destination": "CDG",
+        "consignee": "Johnson Pacific AG",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "045-55009868",
+        "pieces": 8,
+        "weight": 84.1,
+        "destination": "CDG",
+        "consignee": "Garcia International GmbH",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

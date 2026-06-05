@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0627",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202205-3119",
+    "usppi_name": "Tech Garrett S.A.",
+    "usppi_address": "047 Gregory Trail, Joshualand, NH 60462, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "18-7457561",
+    "consignee_name": "Jefferson Pacific GmbH",
+    "consignee_address": "USNS Andrews, FPO AP 98186, France",
+    "consignee_country": "France",
+    "notify_party": "Kaiser Tech B.V.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Lauren Klein",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/5",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 82,
+        "unit": "PCS",
+        "weight_kg": 576.49,
+        "value_usd": 39498.55
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 74,
+        "unit": "PCS",
+        "weight_kg": 109.81,
+        "value_usd": 576.8
+      },
+      {
+        "marks": "SLI/8",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 197,
+        "unit": "KGS",
+        "weight_kg": 197.0,
+        "value_usd": 141.01
+      },
+      {
+        "marks": "ABC/13",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 133,
+        "unit": "KGS",
+        "weight_kg": 133.0,
+        "value_usd": 566.21
+      },
+      {
+        "marks": "ABC/39",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 80,
+        "unit": "LTR",
+        "weight_kg": 82.49,
+        "value_usd": 1160.02
+      },
+      {
+        "marks": "SLI/40",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 34,
+        "unit": "PKG",
+        "weight_kg": 84.32,
+        "value_usd": 1521.66
+      }
+    ],
+    "total_weight_kg": 1183.11,
+    "total_value_usd": 43464.25,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "634W",
+    "booking_ref": "BKG-693469",
+    "bl_number": "COSU385846217",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Hamburg, DE",
+    "container_number": "BWGS9828084",
+    "seal_number": "SL465726",
+    "container_type": "40'GP",
+    "cbm": 27.654
+  }
+}

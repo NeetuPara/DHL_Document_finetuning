@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0472",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202004-9185",
+    "usppi_name": "Industry Espinoza S.A.",
+    "usppi_address": "3389 Williams Road, South Patriciaton, WA 01928, Italy",
+    "usppi_country": "Italy",
+    "ein": "50-1010143",
+    "consignee_name": "Industry Taylor S.A.",
+    "consignee_address": "4242 Green Greens Suite 706, West Andrew, KS 08367, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Mcclure Global AG",
+    "forwarder": "Expeditors",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Patricia Gibbs",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/13",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 183,
+        "unit": "KGS",
+        "weight_kg": 183.0,
+        "value_usd": 1230.44
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 27,
+        "unit": "PCS",
+        "weight_kg": 18.56,
+        "value_usd": 14748.55
+      },
+      {
+        "marks": "ABC/39",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 24,
+        "unit": "PCS",
+        "weight_kg": 7.64,
+        "value_usd": 2532.77
+      },
+      {
+        "marks": "EXP/38",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 76,
+        "unit": "PCS",
+        "weight_kg": 3.97,
+        "value_usd": 3691.47
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 161,
+        "unit": "KGS",
+        "weight_kg": 161.0,
+        "value_usd": 263.89
+      }
+    ],
+    "total_weight_kg": 374.17,
+    "total_value_usd": 22467.12,
+    "service": "Express Courier",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 10278.49,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-548261",
+    "destination_country": "Hong Kong"
+  }
+}

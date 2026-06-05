@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0968",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Andrew Weber",
+    "addressee_company": "Hale Pacific Co.",
+    "addressee_address": "234 Brown Tunnel Suite 482, East Krista, MA 16063, Malaysia",
+    "addressee_country": "Malaysia",
+    "total_weight_kg": 8.515,
+    "total_value": 887.56,
+    "currency": "USD",
+    "issue_date": "2025-09-22",
+    "reference": "REF-400380",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.081,
+        "value": 253.5,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 18,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.071,
+        "value": 161.28,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 7,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.363,
+        "value": 472.78,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_name": "Mary Hoffman",
+    "sender_company": "Baird Tech Inc.",
+    "sender_address": "032 Beth Corners, Port Raymond, GU 05150, South Korea",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 40.58,
+    "tracking_number": "YY783327504AG"
+  }
+}

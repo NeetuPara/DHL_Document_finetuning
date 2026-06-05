@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0447",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Walker S.A.",
+    "shipper_address": "USNS Bautista, FPO AE 25686, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Cunningham Tech Ltd",
+    "consignee_address": "USS Martin, FPO AA 57622, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "emergency_telephone": "+50 697-817-4185",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 5,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 32.32,
+        "qty_unit": "g",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-131736",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 13,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 47.0,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-689458",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Matthew Mullins",
+    "signature_date": "2026-05-04",
+    "signature_place": "Singapore",
+    "awb_number": "160-91608022",
+    "flight_number": "SQ4851",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

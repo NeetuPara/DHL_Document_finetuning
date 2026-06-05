@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0473",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU939696333",
+    "shipper_name": "Pacific Turner Co.",
+    "shipper_address": "397 Cervantes Meadows Suite 625, North Christopher, MA 34754, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Watson Global S.A.",
+    "consignee_address": "Unit 8041 Box 3203, DPO AP 01411, China",
+    "consignee_country": "China",
+    "notify_party_name": "Madden Tech S.A.",
+    "notify_party_address": "7862 Chase View, Smithmouth, GA 74546, United States",
+    "vessel": "PIL PACIFIC",
+    "voyage": "359W",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Hong Kong, HK",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2025-04-05",
+    "issue_place": "Hong Kong",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "XUJU7161886",
+        "seal_no": "BL704183",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "EZZY4723505",
+        "seal_no": "SL543034",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "ZIGN7900442",
+        "seal_no": "CL693732",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "WUMZ9997092",
+        "seal_no": "SL283408",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "number_of_packages": 132,
+    "package_type": "Bundle",
+    "gross_weight_kg": 2582.8,
+    "net_weight_kg": 2335.4,
+    "cbm": 12.359,
+    "marks_and_numbers": "XYZ/34"
+  }
+}

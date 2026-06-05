@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0201",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202003-8268",
+    "usppi_name": "Fowler Industry Co.",
+    "usppi_address": "229 Tucker Forges Apt. 724, Bradfordhaven, HI 13584, India",
+    "usppi_country": "India",
+    "ein": "96-1564432",
+    "consignee_name": "Williams Pacific Inc.",
+    "consignee_address": "082 Ferguson Pine, East Hunter, FM 13248, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Williams Global AG",
+    "forwarder": "DB Schenker",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Ronald Romero",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/12",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 151,
+        "unit": "PCS",
+        "weight_kg": 85.85,
+        "value_usd": 170532.53
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 22,
+        "unit": "MTR",
+        "weight_kg": 7.56,
+        "value_usd": 249.45
+      },
+      {
+        "marks": "ABC/43",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 45,
+        "unit": "KGS",
+        "weight_kg": 45.0,
+        "value_usd": 96.31
+      },
+      {
+        "marks": "SLI/18",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 45,
+        "unit": "PCS",
+        "weight_kg": 715.35,
+        "value_usd": 12905.95
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 121,
+        "unit": "PCS",
+        "weight_kg": 166.26,
+        "value_usd": 1463.59
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 162,
+        "unit": "PCS",
+        "weight_kg": 1955.18,
+        "value_usd": 13044.35
+      },
+      {
+        "marks": "ABC/15",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 101,
+        "unit": "CTN",
+        "weight_kg": 133.56,
+        "value_usd": 7674.39
+      },
+      {
+        "marks": "SLI/20",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 130,
+        "unit": "BOX",
+        "weight_kg": 94.54,
+        "value_usd": 11184.67
+      }
+    ],
+    "total_weight_kg": 3203.3,
+    "total_value_usd": 217151.24,
+    "vessel": "MSC GULSUN",
+    "voyage": "916N",
+    "booking_ref": "BKG-439270",
+    "bl_number": "DHLG667887444",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Long Beach, US",
+    "container_number": "QQEK5505175",
+    "seal_number": "SL716152",
+    "container_type": "40'HC",
+    "cbm": 19.688
+  }
+}

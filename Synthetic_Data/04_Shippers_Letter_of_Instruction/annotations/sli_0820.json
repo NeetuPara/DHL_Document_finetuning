@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0820",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202112-3319",
+    "usppi_name": "Commerce Webb Ltd",
+    "usppi_address": "8511 Steven Path Suite 218, Shanetown, OK 55481, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "73-6978047",
+    "consignee_name": "Global Lynch GmbH",
+    "consignee_address": "USNS Johnson, FPO AA 89731, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Gillespie Global Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "EAR99",
+    "signatory_name": "Anthony Gibson",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/7",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 98,
+        "unit": "PCS",
+        "weight_kg": 833.94,
+        "value_usd": 43167.46
+      },
+      {
+        "marks": "ABC/49",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 124,
+        "unit": "KGS",
+        "weight_kg": 124.0,
+        "value_usd": 139.58
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 78,
+        "unit": "BOX",
+        "weight_kg": 80.57,
+        "value_usd": 5274.25
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 179,
+        "unit": "PCS",
+        "weight_kg": 14.04,
+        "value_usd": 11180.26
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 71,
+        "unit": "MTR",
+        "weight_kg": 80.85,
+        "value_usd": 431.47
+      },
+      {
+        "marks": "ABC/43",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 190,
+        "unit": "CTN",
+        "weight_kg": 949.07,
+        "value_usd": 8775.74
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 191,
+        "unit": "PKG",
+        "weight_kg": 390.08,
+        "value_usd": 3365.7
+      }
+    ],
+    "total_weight_kg": 2472.55,
+    "total_value_usd": 72334.46,
+    "service": "Express Courier",
+    "named_port": "Frankfurt Airport",
+    "insurance_value_usd": 12259.54,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-537755",
+    "destination_country": "Australia"
+  }
+}

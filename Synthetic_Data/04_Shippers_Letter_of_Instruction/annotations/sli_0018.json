@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0018",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202405-4335",
+    "usppi_name": "Lee Global AG",
+    "usppi_address": "9153 Brian Drive, Lake Joseph, HI 76234, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "61-9153277",
+    "consignee_name": "Cox Trade LLC",
+    "consignee_address": "49173 Michelle Wells Apt. 316, Lake Trevormouth, WI 96111, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Industry Cochran Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "DAP",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Emily Hall",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/23",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 189,
+        "unit": "KGS",
+        "weight_kg": 189.0,
+        "value_usd": 191.75
+      },
+      {
+        "marks": "ABC/28",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 157,
+        "unit": "SET",
+        "weight_kg": 259.94,
+        "value_usd": 7678.23
+      }
+    ],
+    "total_weight_kg": 448.94,
+    "total_value_usd": 7869.98,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "417E",
+    "booking_ref": "BKG-312943",
+    "bl_number": "DHLG511481981",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "New York, US",
+    "container_number": "RTOA9047021",
+    "seal_number": "BL314986",
+    "container_type": "45'HC",
+    "cbm": 11.117
+  }
+}

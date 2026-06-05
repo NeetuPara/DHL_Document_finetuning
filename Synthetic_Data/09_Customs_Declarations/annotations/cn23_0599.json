@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0599",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Emily Townsend",
+    "addressee_company": "Henderson Pacific Inc.",
+    "addressee_address": "18960 Nicholas Route, West Davidberg, OR 29724, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 1.93,
+    "total_value": 245.2,
+    "currency": "CAD",
+    "issue_date": "2025-08-31",
+    "reference": "REF-501361",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.93,
+        "value": 245.2,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Douglas Hanna",
+    "sender_company": "Yu Commerce Pte Ltd",
+    "sender_address": "718 Hunt Via, New Nicholas, KS 78216, Malaysia",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 37.43,
+    "tracking_number": "DL631315014LU"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0419",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jennifer Strong",
+    "addressee_company": "Hale Tech Ltd",
+    "addressee_address": "USNV Smith, FPO AP 36996, India",
+    "addressee_country": "India",
+    "total_weight_kg": 12.337,
+    "total_value": 8232.73,
+    "currency": "CNY",
+    "issue_date": "2026-05-07",
+    "reference": "REF-069642",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.931,
+        "value": 2662.56,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 7,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.841,
+        "value": 405.86,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 20,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.327,
+        "value": 2338.0,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 15,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.506,
+        "value": 1153.35,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 16,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.732,
+        "value": 1672.96,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Michelle Brown",
+    "sender_company": "International Wright Co.",
+    "sender_address": "558 James Ranch Suite 801, Johnsonshire, MO 31914, China",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 55.66,
+    "tracking_number": "NE629143060EY"
+  }
+}

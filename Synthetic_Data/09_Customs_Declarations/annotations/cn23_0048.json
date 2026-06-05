@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0048",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jaime Blevins",
+    "addressee_company": "Johnson Commerce LLC",
+    "addressee_address": "030 Mark Ramp, New Stephanie, AR 14626, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 11.519,
+    "total_value": 3956.19,
+    "currency": "JPY",
+    "issue_date": "2026-02-28",
+    "reference": "REF-423331",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.467,
+        "value": 1832.4,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 5,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.898,
+        "value": 481.05,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 11,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.154,
+        "value": 1642.74,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_country": "China",
+    "port_of_entry": "Los Angeles, CA",
+    "entry_number": "829-70498078-0",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 5.5,
+    "estimated_duty": 217.59,
+    "importer_ein": "16-2768303",
+    "customs_broker": "Industry Williamson Pte Ltd"
+  }
+}

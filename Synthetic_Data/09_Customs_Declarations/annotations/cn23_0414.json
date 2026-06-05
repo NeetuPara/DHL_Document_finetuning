@@ -1,0 +1,75 @@
+{
+  "document_id": "cn23_0414",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Teresa Archer",
+    "addressee_company": "Global Morgan Ltd",
+    "addressee_address": "2073 Rodriguez Path, Robertsonchester, LA 07881, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 13.511,
+    "total_value": 3755.91,
+    "currency": "EUR",
+    "issue_date": "2025-06-08",
+    "reference": "REF-153120",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.166,
+        "value": 1337.85,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 3,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.442,
+        "value": 95.76,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 5,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.097,
+        "value": 662.75,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 13,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.895,
+        "value": 47.45,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 5,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.209,
+        "value": 740.6,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 10,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.702,
+        "value": 871.5,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_country": "South Korea",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "040-71893608-8",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 22.8,
+    "estimated_duty": 856.35,
+    "importer_ein": "57-9179566",
+    "customs_broker": "Global Klein Corp."
+  }
+}

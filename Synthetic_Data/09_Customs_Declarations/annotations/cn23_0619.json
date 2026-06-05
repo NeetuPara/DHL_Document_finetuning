@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0619",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Cassandra Alvarez",
+    "addressee_company": "International Jones B.V.",
+    "addressee_address": "2207 Hernandez Cape Apt. 912, North Heatherfurt, CT 97832, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 9.675,
+    "total_value": 961.7,
+    "currency": "AED",
+    "issue_date": "2025-09-06",
+    "reference": "REF-093217",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.63,
+        "value": 139.35,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 7,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.657,
+        "value": 355.81,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 9,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.059,
+        "value": 463.41,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 1,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.329,
+        "value": 3.13,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Donald King",
+    "sender_company": "Global George GmbH",
+    "sender_address": "9798 Landry Circles, Reedview, MD 38069, United Arab Emirates",
+    "sender_phone": "001-948-668-3545x70501",
+    "sender_email": "athornton@example.net",
+    "addressee_phone": "535-598-5505x56386",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 1057.87,
+    "postal_charges": 41.67,
+    "tracking_number": "PB212117922PB"
+  }
+}

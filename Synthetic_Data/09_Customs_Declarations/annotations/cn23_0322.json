@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0322",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Scott Carr",
+    "addressee_company": "Global Roach Pte Ltd",
+    "addressee_address": "063 James Dale, New Nicholas, WY 63048, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 4.426,
+    "total_value": 472.28,
+    "currency": "AUD",
+    "issue_date": "2025-11-25",
+    "reference": "REF-942606",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.714,
+        "value": 350.55,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 1,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.712,
+        "value": 121.73,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_name": "James Baker",
+    "sender_company": "Nicholson Commerce Ltd",
+    "sender_address": "61685 Sloan Burg, Nathanton, UT 25269, Japan",
+    "sender_phone": "(344)235-8318x26397",
+    "sender_email": "pearsonkent@example.net",
+    "addressee_phone": "6514922475",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 79.09,
+    "tracking_number": "GJ427896802XN"
+  }
+}

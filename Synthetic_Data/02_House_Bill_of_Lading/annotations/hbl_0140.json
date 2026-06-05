@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0140",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU577225384",
+    "shipper_name": "Tech Campbell Corp.",
+    "shipper_address": "USS Reyes, FPO AE 15887, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Crosby International Inc.",
+    "consignee_address": "3928 Patrick Freeway Suite 989, North Johnshire, VT 25176, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party_name": "Wilkerson Pacific Ltd",
+    "notify_party_address": "USNV Roberts, FPO AA 53655, Switzerland",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "936W",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2025-11-14",
+    "issue_place": "Antwerp",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "VOWK8030521",
+        "seal_no": "CL571167",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "TMQN5542244",
+        "seal_no": "SL338197",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "FDNQ9369486",
+        "seal_no": "CL890919",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "MKNF4260041",
+        "seal_no": "CL294030",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 462,
+    "package_type": "Bundle",
+    "gross_weight_kg": 17179.2,
+    "net_weight_kg": 15312.1,
+    "cbm": 53.605,
+    "marks_and_numbers": "XYZ/7"
+  }
+}

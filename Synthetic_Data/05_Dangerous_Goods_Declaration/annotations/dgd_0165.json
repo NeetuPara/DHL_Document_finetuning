@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0165",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Vaughn Trade Co.",
+    "shipper_address": "20177 Scott Coves Apt. 503, Stevensport, WV 23643, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Industry Nelson AG",
+    "consignee_address": "46068 Cole Isle Suite 870, Stephenmouth, MS 05409, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+6 925-512-9228",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 3,
+        "pkg_type": "Steel Drum",
+        "net_qty": 66.48,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Alison Potter",
+    "signature_date": "2026-04-17",
+    "signature_place": "Italy",
+    "awb_number": "125-36538481",
+    "flight_number": "EK5295",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

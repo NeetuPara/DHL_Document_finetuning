@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0614",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202110-6896",
+    "usppi_name": "Trade Murillo GmbH",
+    "usppi_address": "843 Teresa Fort Suite 527, North Williamland, MD 45890, Poland",
+    "usppi_country": "Poland",
+    "ein": "85-6644333",
+    "consignee_name": "Tech Smith Ltd",
+    "consignee_address": "6245 Smith Courts, New Kimberly, VT 27418, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Commerce Green AG",
+    "forwarder": "Expeditors",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Edgar Lee",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/36",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 132,
+        "unit": "PKG",
+        "weight_kg": 57.63,
+        "value_usd": 6524.27
+      },
+      {
+        "marks": "SLI/33",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 55,
+        "unit": "PCS",
+        "weight_kg": 21.64,
+        "value_usd": 11410.84
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 62,
+        "unit": "PCS",
+        "weight_kg": 1221.32,
+        "value_usd": 19049.72
+      },
+      {
+        "marks": "ABC/14",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 24,
+        "unit": "SET",
+        "weight_kg": 75.73,
+        "value_usd": 2557.68
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 149,
+        "unit": "PCS",
+        "weight_kg": 163.87,
+        "value_usd": 178215.22
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 172,
+        "unit": "CTN",
+        "weight_kg": 461.12,
+        "value_usd": 1616.29
+      },
+      {
+        "marks": "EXP/50",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 179,
+        "unit": "BOX",
+        "weight_kg": 120.12,
+        "value_usd": 6235.28
+      }
+    ],
+    "total_weight_kg": 2121.43,
+    "total_value_usd": 225609.3,
+    "service": "Ground",
+    "named_port": "Dubai International",
+    "insurance_value_usd": 16725.3,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-313859",
+    "destination_country": "Italy"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0370",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG413811468",
+    "shipper_name": "Sweeney Pacific Inc.",
+    "shipper_address": "699 Jonathan Harbor, East Shawnhaven, VI 26547, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Gonzalez Industry B.V.",
+    "consignee_address": "0405 Gomez Passage, Patelport, ID 03153, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party_name": "Pacific Chase B.V.",
+    "notify_party_address": "36875 Krueger Stream, Joshuaberg, MP 60622, India",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "265N",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2024-12-12",
+    "issue_place": "Busan",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "LTET4859838",
+        "seal_no": "CL614341",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "ZKFN4616681",
+        "seal_no": "SL970591",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "RLRL4511365",
+        "seal_no": "BL925562",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "ZQHL6888473",
+        "seal_no": "BL792284",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 147,
+    "package_type": "Carton",
+    "gross_weight_kg": 22580.2,
+    "net_weight_kg": 20972.3,
+    "cbm": 13.241,
+    "marks_and_numbers": "ABC/26"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0334",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Pamela Madden",
+    "addressee_company": "Commerce Weaver Inc.",
+    "addressee_address": "47730 Michael Haven, South Jeffreyville, AR 17172, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 7.647,
+    "total_value": 4507.83,
+    "currency": "GBP",
+    "issue_date": "2025-12-08",
+    "reference": "REF-107700",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.54,
+        "value": 9.07,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 16,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.079,
+        "value": 2390.56,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 20,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.028,
+        "value": 2108.2,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Cameron Brown",
+    "sender_company": "Industry Grimes Pte Ltd",
+    "sender_address": "PSC 8918, Box 9178, APO AE 54536, Poland",
+    "sender_phone": "361-869-7991x46992",
+    "sender_email": "kboyd@example.com",
+    "addressee_phone": "+1-315-606-9228x31609",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 65.2,
+    "tracking_number": "QZ398641583KA"
+  }
+}

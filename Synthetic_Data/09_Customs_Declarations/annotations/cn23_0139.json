@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0139",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Matthew Long",
+    "addressee_company": "Commerce Welch S.A.",
+    "addressee_address": "9760 Tara Flats Suite 465, Lake Adriennefurt, TX 25771, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 4.269,
+    "total_value": 659.12,
+    "currency": "USD",
+    "issue_date": "2025-11-12",
+    "reference": "REF-435393",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.999,
+        "value": 398.04,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 4,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.27,
+        "value": 261.08,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Daniel Davis",
+    "sender_company": "Hopkins Tech S.A.",
+    "sender_address": "267 Sara Canyon, North Sarafort, MP 52063, Spain",
+    "sender_phone": "437.777.2994x065",
+    "sender_email": "zmiller@example.com",
+    "addressee_phone": "698.218.6029",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 43.82,
+    "tracking_number": "NJ262089102AM"
+  }
+}

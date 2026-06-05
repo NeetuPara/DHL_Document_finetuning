@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0426",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-27846934",
+    "mawb_number": "618-58625955",
+    "shipper_name": "Hall International Corp.",
+    "shipper_address": "86147 John Summit, Diazshire, CO 15144, Malaysia",
+    "consignee_name": "International Rubio AG",
+    "consignee_address": "191 Mary Course Suite 427, New Elizabeth, CO 30189, Brazil",
+    "agent_name": "Commerce Allen LLC",
+    "airport_departure": "AMS",
+    "airport_destination": "SYD",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CNY 28,455.73",
+    "n_pieces": 48,
+    "gross_weight_kg": 63.2,
+    "chargeable_weight": 63.9,
+    "rate": 10.48,
+    "total_charge": 669.67,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-11-05",
+    "signatory": "Jennifer Sanchez",
+    "iata_code": "91-825",
+    "agent_cass": "0800-9190",
+    "consolidation_ref": "CONS-3281-307322",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-59864262",
+        "pieces": 17,
+        "weight": 18.5,
+        "destination": "LHR",
+        "consignee": "Commerce Brown S.A.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "020-50183399",
+        "pieces": 18,
+        "weight": 85.4,
+        "destination": "ICN",
+        "consignee": "Industry Bolton AG",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "160-91601455",
+        "pieces": 20,
+        "weight": 84.3,
+        "destination": "FRA",
+        "consignee": "Cox International Pte Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "160-75193287",
+        "pieces": 5,
+        "weight": 26.0,
+        "destination": "NRT",
+        "consignee": "Global Bowers Corp.",
+        "description": "Rubber Goods - Industrial Seals and"
+      }
+    ]
+  }
+}

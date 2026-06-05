@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0449",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Paul Olson",
+    "addressee_company": "Long Trade Ltd",
+    "addressee_address": "43617 Jessica Pine, Cobbtown, ID 82127, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 2.988,
+    "total_value": 2350.87,
+    "currency": "SGD",
+    "issue_date": "2025-11-06",
+    "reference": "REF-583897",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.344,
+        "value": 464.93,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 19,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.644,
+        "value": 1885.94,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Barry Williams",
+    "sender_company": "Castillo Commerce AG",
+    "sender_address": "16291 Travis Islands, Reyesstad, DE 53110, Sweden",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 2585.96,
+    "postal_charges": 8.93,
+    "tracking_number": "QI130293155DL"
+  }
+}

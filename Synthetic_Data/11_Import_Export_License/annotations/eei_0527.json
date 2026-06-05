@@ -1,0 +1,103 @@
+{
+  "document_id": "eei_0527",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20241015270188",
+    "export_date": "2025-11-28",
+    "aes_option": "AES Filing",
+    "usppi_name": "Global Silva GmbH",
+    "usppi_ein": "88-9333732",
+    "usppi_address": "02449 Dominguez Pines, West Jeffreyland, VI 71045, Netherlands",
+    "ultimate_consignee": "Fischer Industry B.V.",
+    "intermediate_consignee": "Pacific Ellis Pte Ltd",
+    "forwarding_agent": "Tech Gill Pte Ltd",
+    "destination_country": "Germany",
+    "carrier": "Maersk",
+    "bl_awb": "160-38155032",
+    "total_value": 527886.61,
+    "currency": "SGD",
+    "signatory": "Lisa Richard",
+    "line_items": [
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "France",
+        "qty": 77,
+        "unit": "KGS",
+        "entered_value": 31061.03,
+        "duty_rate": 22.2,
+        "duty_amount": 6895.55,
+        "eccn": "2B350",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Spain",
+        "qty": 259,
+        "unit": "PCS",
+        "entered_value": 68606.51,
+        "duty_rate": 8.5,
+        "duty_amount": 5831.55,
+        "eccn": "3A992",
+        "schedule_b": "8483.40.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Sweden",
+        "qty": 90,
+        "unit": "PCS",
+        "entered_value": 44994.6,
+        "duty_rate": 24.8,
+        "duty_amount": 11158.66,
+        "eccn": "9A515",
+        "schedule_b": "9401.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Spain",
+        "qty": 293,
+        "unit": "PCS",
+        "entered_value": 50275.87,
+        "duty_rate": 20.9,
+        "duty_amount": 10507.66,
+        "eccn": "0A919",
+        "schedule_b": "8534.00.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "United States",
+        "qty": 389,
+        "unit": "PCS",
+        "entered_value": 193119.05,
+        "duty_rate": 16.4,
+        "duty_amount": 31671.52,
+        "eccn": "9A515",
+        "schedule_b": "8483.40.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Australia",
+        "qty": 489,
+        "unit": "PKG",
+        "entered_value": 139829.55,
+        "duty_rate": 17.0,
+        "duty_amount": 23771.02,
+        "eccn": "2B350",
+        "schedule_b": "4016.93.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

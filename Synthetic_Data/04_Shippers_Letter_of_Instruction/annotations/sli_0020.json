@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0020",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202310-1105",
+    "usppi_name": "International Brown GmbH",
+    "usppi_address": "PSC 8527, Box 4833, APO AP 59129, India",
+    "usppi_country": "India",
+    "ein": "28-7210490",
+    "consignee_name": "Morgan Pacific Ltd",
+    "consignee_address": "949 Shawn Route, Robertfurt, AZ 39242, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Morris Tech AG",
+    "forwarder": "Panalpina",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "Thomas Jones",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/43",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 63,
+        "unit": "PCS",
+        "weight_kg": 72.46,
+        "value_usd": 15237.86
+      },
+      {
+        "marks": "SLI/3",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 73,
+        "unit": "PCS",
+        "weight_kg": 847.92,
+        "value_usd": 17291.85
+      }
+    ],
+    "total_weight_kg": 920.38,
+    "total_value_usd": 32529.71,
+    "service": "LCL Ocean",
+    "named_port": "Qingdao, CN",
+    "insurance_value_usd": 11729.0,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-525705",
+    "destination_country": "Belgium"
+  }
+}

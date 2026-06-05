@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0546",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Hanna Corp.",
+    "shipper_address": "9784 Campbell Ferry Suite 124, South Michaelshire, NV 75886, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Tech Johnson B.V.",
+    "consignee_address": "0783 Davis Square Apt. 679, Port Michael, AL 42496, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+31 788-379-8573",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 31,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 84.65,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Charles May",
+    "signature_date": "2026-05-09",
+    "signature_place": "Malaysia",
+    "awb_number": "045-35963540",
+    "flight_number": "QR8007",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "CDG",
+    "destination_airport_name": "Paris CDG",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

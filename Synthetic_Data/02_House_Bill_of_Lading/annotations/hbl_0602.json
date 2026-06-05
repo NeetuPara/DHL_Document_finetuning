@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0602",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU432845411",
+    "shipper_name": "Anderson Tech S.A.",
+    "shipper_address": "9294 Monroe Turnpike Apt. 794, East Matthew, DE 51180, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Industry Davis AG",
+    "consignee_address": "05469 Stacey Loaf Suite 337, East Kylechester, WV 29952, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Global Yoder AG",
+    "notify_party_address": "2689 Michael Vista Suite 198, Burgessside, MH 41366, India",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "990N",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2025-06-18",
+    "issue_place": "Qingdao",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "KCHM6458452",
+        "seal_no": "SL954841",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "JFHM1418026",
+        "seal_no": "BL703642",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "BIEH6508980",
+        "seal_no": "SL116885",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "OPHU5502097",
+        "seal_no": "BL962919",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 164,
+    "package_type": "Bag",
+    "gross_weight_kg": 12430.9,
+    "net_weight_kg": 12023.9,
+    "cbm": 11.746,
+    "marks_and_numbers": "GLB/23"
+  }
+}

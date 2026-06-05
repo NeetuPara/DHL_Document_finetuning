@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0916",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Benjamin Roberts",
+    "addressee_company": "Smith International B.V.",
+    "addressee_address": "34285 Stout Freeway, Thomasmouth, OK 96253, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 6.074,
+    "total_value": 1388.26,
+    "currency": "SGD",
+    "issue_date": "2025-07-31",
+    "reference": "REF-222256",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.39,
+        "value": 160.29,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 13,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.294,
+        "value": 179.92,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 15,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.39,
+        "value": 1048.05,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Michael Bennett",
+    "sender_company": "Industry Payne Co.",
+    "sender_address": "5452 Melanie Spring Apt. 843, Fowlermouth, PA 68044, Italy",
+    "sender_phone": "+1-387-200-2513x52784",
+    "sender_email": "cramirez@example.net",
+    "addressee_phone": "001-291-876-8493",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 43.08,
+    "tracking_number": "QN053635095FV"
+  }
+}

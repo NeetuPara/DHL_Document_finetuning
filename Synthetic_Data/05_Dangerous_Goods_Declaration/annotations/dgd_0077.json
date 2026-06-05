@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0077",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Dunlap LLC",
+    "shipper_address": "USNS Wells, FPO AE 80290, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Adams Pacific B.V.",
+    "consignee_address": "547 Mclaughlin Viaduct Apt. 266, West Victoria, NY 75734, Japan",
+    "consignee_country": "Japan",
+    "emergency_telephone": "+17 370-825-5772",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 1,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 9.65,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-251633",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Mark Rodriguez",
+    "signature_date": "2026-04-26",
+    "signature_place": "Switzerland",
+    "vessel": "ONE INNOVATION",
+    "voyage": "708S",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Felixstowe, GB"
+  }
+}

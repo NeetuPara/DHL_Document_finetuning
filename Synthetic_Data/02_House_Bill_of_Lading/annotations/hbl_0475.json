@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0475",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG175933611",
+    "shipper_name": "Martinez Industry S.A.",
+    "shipper_address": "PSC 6088, Box 1071, APO AP 88584, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Commerce Henry S.A.",
+    "consignee_address": "968 Robinson Flats, South Kathrynside, SD 42979, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Tech Patton Corp.",
+    "notify_party_address": "2515 Fisher Radial, Christinatown, AS 68058, Australia",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "580N",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2025-01-05",
+    "issue_place": "Singapore",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "KIXD0710600",
+        "seal_no": "BL470003",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "OXDH0870674",
+        "seal_no": "BL319774",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "AUFE2915522",
+        "seal_no": "BL835120",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "QHOX3947647",
+        "seal_no": "BL242384",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 289,
+    "package_type": "Crate",
+    "gross_weight_kg": 21416.3,
+    "net_weight_kg": 19781.8,
+    "cbm": 18.356,
+    "marks_and_numbers": "ABC/26"
+  }
+}

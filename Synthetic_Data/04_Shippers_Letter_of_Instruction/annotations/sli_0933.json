@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0933",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202004-6595",
+    "usppi_name": "Beasley Global GmbH",
+    "usppi_address": "0090 Mark Club Suite 032, Hughesview, MD 89748, Canada",
+    "usppi_country": "Canada",
+    "ein": "79-9060242",
+    "consignee_name": "Global Diaz Co.",
+    "consignee_address": "7391 Walker Fork Apt. 976, Alexanderside, AK 19788, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Perez Trade Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Paula Le",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/29",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 25,
+        "unit": "PCS",
+        "weight_kg": 2.63,
+        "value_usd": 4989.14
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 175,
+        "unit": "CTN",
+        "weight_kg": 88.79,
+        "value_usd": 1058.92
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 194,
+        "unit": "BOX",
+        "weight_kg": 292.53,
+        "value_usd": 21505.79
+      },
+      {
+        "marks": "EXP/17",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 17,
+        "unit": "CTN",
+        "weight_kg": 44.05,
+        "value_usd": 1271.82
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 165,
+        "unit": "PCS",
+        "weight_kg": 141.61,
+        "value_usd": 140360.6
+      },
+      {
+        "marks": "SLI/15",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 178,
+        "unit": "KGS",
+        "weight_kg": 178.0,
+        "value_usd": 3799.32
+      }
+    ],
+    "total_weight_kg": 747.61,
+    "total_value_usd": 172985.59,
+    "vessel": "YANG MING MYTH",
+    "voyage": "353W",
+    "booking_ref": "BKG-233365",
+    "bl_number": "YMLU359496560",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Singapore, SG",
+    "container_number": "ZLEP0164283",
+    "seal_number": "CL188323",
+    "container_type": "40'HC",
+    "cbm": 51.807
+  }
+}

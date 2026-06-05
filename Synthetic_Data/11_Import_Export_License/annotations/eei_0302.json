@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0302",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240528738316",
+    "export_date": "2025-07-25",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Miller Commerce Ltd",
+    "usppi_ein": "90-1351774",
+    "usppi_address": "5149 Long Dam Apt. 064, Georgemouth, MA 89036, France",
+    "ultimate_consignee": "Industry Lawson LLC",
+    "intermediate_consignee": "Martin Pacific Corp.",
+    "forwarding_agent": "Boyle Tech Pte Ltd",
+    "destination_country": "Netherlands",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "057-35547342",
+    "total_value": 168070.57,
+    "currency": "CNY",
+    "signatory": "Tonya Williams",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Spain",
+        "qty": 185,
+        "unit": "PCS",
+        "entered_value": 28206.95,
+        "duty_rate": 12.3,
+        "duty_amount": 3469.45,
+        "eccn": "2B350",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Germany",
+        "qty": 290,
+        "unit": "PCS",
+        "entered_value": 138327.1,
+        "duty_rate": 13.2,
+        "duty_amount": 18259.18,
+        "eccn": "3A992",
+        "schedule_b": "9401.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Singapore",
+        "qty": 214,
+        "unit": "PCS",
+        "entered_value": 1536.52,
+        "duty_rate": 0.5,
+        "duty_amount": 7.68,
+        "eccn": "EAR99",
+        "schedule_b": "9401.30.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0714",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-22413623",
+    "mawb_number": "618-72496967",
+    "shipper_name": "Mcdonald Tech S.A.",
+    "shipper_address": "15177 Samuel Club Apt. 894, Susantown, UT 42521, South Korea",
+    "consignee_name": "Industry Pratt GmbH",
+    "consignee_address": "3807 Sharp Lake, North Tonimouth, IA 74970, Italy",
+    "agent_name": "Tech Kennedy B.V.",
+    "airport_departure": "CDG",
+    "airport_destination": "YYZ",
+    "currency": "CNY",
+    "charge_code": "CC",
+    "declared_value_carriage": "EUR 49,097.93",
+    "declared_value_customs": "USD 42,052.06",
+    "n_pieces": 47,
+    "gross_weight_kg": 157.5,
+    "chargeable_weight": 199.8,
+    "rate": 4.12,
+    "total_charge": 823.18,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-05-31",
+    "signatory": "Samantha Villarreal",
+    "iata_code": "63-095",
+    "agent_cass": "0267-5912",
+    "consolidation_ref": "CONS-4769-518065",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-92772009",
+        "pieces": 10,
+        "weight": 94.6,
+        "destination": "LAX",
+        "consignee": "Carroll Global B.V.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "125-77713922",
+        "pieces": 16,
+        "weight": 97.6,
+        "destination": "PVG",
+        "consignee": "Pacific Coffey LLC",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "176-82383699",
+        "pieces": 11,
+        "weight": 36.4,
+        "destination": "NRT",
+        "consignee": "Scott Industry S.A.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "057-70728817",
+        "pieces": 12,
+        "weight": 72.6,
+        "destination": "SYD",
+        "consignee": "Newton Global Corp.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "045-96634618",
+        "pieces": 19,
+        "weight": 23.0,
+        "destination": "SIN",
+        "consignee": "Payne Global GmbH",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "020-32822636",
+        "pieces": 14,
+        "weight": 41.0,
+        "destination": "LHR",
+        "consignee": "Snyder Commerce Pte Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

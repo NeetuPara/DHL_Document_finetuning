@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0636",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce King Ltd",
+    "shipper_address": "6928 Smith Glen Suite 385, South Anthony, SD 83586, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Pacific Turner Inc.",
+    "consignee_address": "7711 Victoria Pike Apt. 698, East Danielville, UT 68164, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+57 285-246-6736",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 24,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 31.28,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 42,
+        "pkg_type": "Steel Drum",
+        "net_qty": 83.41,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-651588",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Susan Jackson",
+    "signature_date": "2026-04-21",
+    "signature_place": "Spain",
+    "awb_number": "160-69373788",
+    "flight_number": "CX8930",
+    "departure_airport_code": "AMS",
+    "departure_airport_name": "Amsterdam Schiphol",
+    "destination_airport_code": "ICN",
+    "destination_airport_name": "Seoul Incheon",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

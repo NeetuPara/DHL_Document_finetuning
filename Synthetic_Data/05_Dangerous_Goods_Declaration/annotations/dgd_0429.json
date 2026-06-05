@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0429",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Holmes Co.",
+    "shipper_address": "Unit 2109 Box 0356, DPO AP 74815, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Commerce Nguyen Inc.",
+    "consignee_address": "9122 Margaret Lake Apt. 241, New Christian, IA 26837, China",
+    "consignee_country": "China",
+    "emergency_telephone": "+75 528-471-8939",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 23,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 75.35,
+        "qty_unit": "g",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-137505",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 10,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 32.01,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-572797",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Charles Butler",
+    "signature_date": "2026-04-29",
+    "signature_place": "South Korea",
+    "awb_number": "125-21746699",
+    "flight_number": "DL3482",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

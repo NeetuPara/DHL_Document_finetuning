@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0268",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pearson Pacific Corp.",
+    "shipper_address": "1407 Richards Hollow Suite 699, Christopherside, AZ 78321, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "International Rivera B.V.",
+    "consignee_address": "14444 Gary Manors, East Williamside, MD 55145, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+88 763-536-6220",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 17,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 12.02,
+        "qty_unit": "L",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-649253",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 28,
+        "pkg_type": "Steel Drum",
+        "net_qty": 33.34,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Heather Banks",
+    "signature_date": "2026-05-07",
+    "signature_place": "Spain",
+    "awb_number": "045-15216910",
+    "flight_number": "QR1528",
+    "flight_date": "2026-06-11",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0845",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Shawn Pena",
+    "addressee_company": "Finley Tech Inc.",
+    "addressee_address": "28901 Douglas Circles Apt. 814, New Mark, NM 64502, China",
+    "addressee_country": "China",
+    "total_weight_kg": 3.554,
+    "total_value": 2625.8,
+    "currency": "CHF",
+    "issue_date": "2026-03-12",
+    "reference": "REF-475963",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.554,
+        "value": 2625.8,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_name": "Lindsey Larson",
+    "sender_company": "Global Moreno Inc.",
+    "sender_address": "17512 Mary Port, Randallside, VT 60975, Spain",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 10.77,
+    "tracking_number": "ZP719668227DI"
+  }
+}

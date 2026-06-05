@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0545",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202306-7084",
+    "usppi_name": "Tech Powell Corp.",
+    "usppi_address": "Unit 7821 Box 4365, DPO AA 00873, Italy",
+    "usppi_country": "Italy",
+    "ein": "69-5158981",
+    "consignee_name": "White International Ltd",
+    "consignee_address": "3339 Norton Cliff Suite 736, Lawrenceborough, VT 56926, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Mcknight International Corp.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DDP",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Clifford Cole",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/26",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 19,
+        "unit": "PCS",
+        "weight_kg": 192.15,
+        "value_usd": 8549.39
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 110,
+        "unit": "CTN",
+        "weight_kg": 410.45,
+        "value_usd": 1811.2
+      },
+      {
+        "marks": "ABC/28",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 153,
+        "unit": "PCS",
+        "weight_kg": 186.2,
+        "value_usd": 2947.9
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 108,
+        "unit": "PCS",
+        "weight_kg": 46.55,
+        "value_usd": 25802.08
+      },
+      {
+        "marks": "SLI/33",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 79,
+        "unit": "PKG",
+        "weight_kg": 188.4,
+        "value_usd": 2443.45
+      },
+      {
+        "marks": "SLI/11",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 157,
+        "unit": "MTR",
+        "weight_kg": 184.2,
+        "value_usd": 608.18
+      }
+    ],
+    "total_weight_kg": 1207.95,
+    "total_value_usd": 42162.2,
+    "service": "Air Freight",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 45277.14,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-770013",
+    "destination_country": "Singapore"
+  }
+}

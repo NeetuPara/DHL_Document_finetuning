@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0198",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202603-4167",
+    "usppi_name": "Lee Trade Pte Ltd",
+    "usppi_address": "261 Stephanie Heights Apt. 586, Michaelmouth, PW 63641, Germany",
+    "usppi_country": "Germany",
+    "ein": "56-4866243",
+    "consignee_name": "Stanley Global GmbH",
+    "consignee_address": "5701 Doyle Street Suite 657, Lambborough, AS 10646, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Mcdonald Global LLC",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Joseph Lyons",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/48",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 141,
+        "unit": "CTN",
+        "weight_kg": 575.29,
+        "value_usd": 2178.84
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 59,
+        "unit": "MTR",
+        "weight_kg": 65.22,
+        "value_usd": 277.85
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 165,
+        "unit": "PCS",
+        "weight_kg": 63.76,
+        "value_usd": 1702.19
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 40,
+        "unit": "CTN",
+        "weight_kg": 43.6,
+        "value_usd": 219.06
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 191,
+        "unit": "KGS",
+        "weight_kg": 191.0,
+        "value_usd": 2571.87
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 173,
+        "unit": "PCS",
+        "weight_kg": 891.06,
+        "value_usd": 72980.43
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 105,
+        "unit": "PKG",
+        "weight_kg": 206.03,
+        "value_usd": 5996.81
+      }
+    ],
+    "total_weight_kg": 2035.96,
+    "total_value_usd": 85927.05,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "318N",
+    "booking_ref": "BKG-874122",
+    "bl_number": "MAEU145985195",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "GZKQ5800952",
+    "seal_number": "SL275267",
+    "container_type": "45'HC",
+    "cbm": 69.054
+  }
+}

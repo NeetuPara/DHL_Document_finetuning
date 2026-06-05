@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0624",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-37503520",
+    "mawb_number": "085-21239392",
+    "shipper_name": "Commerce Oliver GmbH",
+    "shipper_address": "879 Bryant Village, Caldwellbury, TX 10924, Sweden",
+    "consignee_name": "Pacific Davenport Inc.",
+    "consignee_address": "9103 Moyer Forest, New Tinaview, MA 03252, United States",
+    "agent_name": "Thornton Commerce AG",
+    "airport_departure": "HKG",
+    "airport_destination": "ORD",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "CHF 9,886.20",
+    "declared_value_customs": "NCV",
+    "n_pieces": 19,
+    "gross_weight_kg": 59.3,
+    "chargeable_weight": 68.2,
+    "rate": 6.64,
+    "total_charge": 452.85,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "HANDLING CODE: AVI",
+    "issue_date": "2025-12-16",
+    "signatory": "Mrs. Brittany Vasquez",
+    "iata_code": "48-004",
+    "agent_cass": "8062-1829",
+    "consolidation_ref": "CONS-3619-567778",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-62969737",
+        "pieces": 7,
+        "weight": 94.0,
+        "destination": "PVG",
+        "consignee": "Sherman Commerce LLC",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "020-31120632",
+        "pieces": 13,
+        "weight": 71.6,
+        "destination": "LHR",
+        "consignee": "Krueger Commerce Corp.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "006-79354227",
+        "pieces": 15,
+        "weight": 36.1,
+        "destination": "NRT",
+        "consignee": "Smith Commerce GmbH",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "125-57756193",
+        "pieces": 7,
+        "weight": 65.3,
+        "destination": "MIA",
+        "consignee": "Anthony Industry GmbH",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "045-41515877",
+        "pieces": 11,
+        "weight": 28.4,
+        "destination": "YYZ",
+        "consignee": "Pacific Salazar Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      }
+    ]
+  }
+}

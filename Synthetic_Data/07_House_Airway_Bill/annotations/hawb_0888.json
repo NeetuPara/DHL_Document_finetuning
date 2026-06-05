@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0888",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-90465981",
+    "mawb_number": "057-26763752",
+    "shipper_name": "Tech Jordan GmbH",
+    "shipper_address": "795 Christopher Circle, Port Patriciaburgh, IN 02054, Thailand",
+    "consignee_name": "Moody Pacific Inc.",
+    "consignee_address": "115 Anita Estate, Colemanberg, SC 04474, Canada",
+    "agent_name": "Pacific Vaughan Pte Ltd",
+    "airport_departure": "YYZ",
+    "airport_destination": "PVG",
+    "currency": "CAD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 49,
+    "gross_weight_kg": 291.6,
+    "chargeable_weight": 359.4,
+    "rate": 5.31,
+    "total_charge": 1908.41,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "TEMP CONTROLLED: 6\u00b0C - 12\u00b0C",
+    "issue_date": "2026-04-26",
+    "signatory": "Haley Medina",
+    "iata_code": "70-268",
+    "agent_cass": "4034-0261",
+    "consolidation_ref": "CONS-6825-690234",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-18302752",
+        "pieces": 10,
+        "weight": 34.6,
+        "destination": "NRT",
+        "consignee": "Higgins Industry Corp.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "020-43303575",
+        "pieces": 13,
+        "weight": 49.8,
+        "destination": "MIA",
+        "consignee": "Brooks Tech Corp.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "125-26823205",
+        "pieces": 8,
+        "weight": 99.7,
+        "destination": "LHR",
+        "consignee": "Commerce Porter S.A.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "125-89907628",
+        "pieces": 7,
+        "weight": 78.9,
+        "destination": "AMS",
+        "consignee": "Pollard Trade Pte Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "618-65051402",
+        "pieces": 12,
+        "weight": 90.1,
+        "destination": "AMS",
+        "consignee": "Lowery Commerce LLC",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "085-90015794",
+        "pieces": 11,
+        "weight": 66.2,
+        "destination": "ORD",
+        "consignee": "Tech Christensen B.V.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "045-51726285",
+        "pieces": 5,
+        "weight": 66.5,
+        "destination": "SYD",
+        "consignee": "Tech Cannon Pte Ltd",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

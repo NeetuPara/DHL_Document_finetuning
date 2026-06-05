@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0860",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250411879071",
+    "export_date": "2025-11-10",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Cruz Trade Pte Ltd",
+    "usppi_ein": "38-5607566",
+    "usppi_address": "42190 Perez Mountain, New Anthony, HI 93880, United States",
+    "ultimate_consignee": "Fry Tech AG",
+    "intermediate_consignee": "Tech Carpenter B.V.",
+    "forwarding_agent": "International Wilson GmbH",
+    "destination_country": "Australia",
+    "carrier": "DHL Express",
+    "bl_awb": "057-49000087",
+    "total_value": 177306.88,
+    "currency": "AED",
+    "signatory": "John Williams",
+    "line_items": [
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Brazil",
+        "qty": 404,
+        "unit": "PCS",
+        "entered_value": 2391.68,
+        "duty_rate": 7.7,
+        "duty_amount": 184.16,
+        "eccn": "7A994",
+        "schedule_b": "3926.90.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Australia",
+        "qty": 435,
+        "unit": "PCS",
+        "entered_value": 35852.7,
+        "duty_rate": 3.9,
+        "duty_amount": 1398.26,
+        "eccn": "1A002",
+        "schedule_b": "3926.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Malaysia",
+        "qty": 445,
+        "unit": "MTR",
+        "entered_value": 139062.5,
+        "duty_rate": 18.9,
+        "duty_amount": 26282.81,
+        "eccn": "7A994",
+        "schedule_b": "5407.42.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

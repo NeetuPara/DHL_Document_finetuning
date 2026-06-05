@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0299",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220113454476",
+    "export_date": "2025-07-19",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Holloway Global Ltd",
+    "usppi_ein": "99-7353780",
+    "usppi_address": "USNV Rios, FPO AA 49200, Belgium",
+    "ultimate_consignee": "Pacific Coleman S.A.",
+    "intermediate_consignee": "Ruiz Commerce LLC",
+    "forwarding_agent": "Global Miller Inc.",
+    "destination_country": "United Arab Emirates",
+    "carrier": "DHL Express",
+    "bl_awb": "125-91020002",
+    "total_value": 167505.67,
+    "currency": "JPY",
+    "signatory": "Jordan Smith",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Belgium",
+        "qty": 289,
+        "unit": "CTN",
+        "entered_value": 61860.45,
+        "duty_rate": 10.4,
+        "duty_amount": 6433.49,
+        "eccn": "0A919",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "United Kingdom",
+        "qty": 142,
+        "unit": "CTN",
+        "entered_value": 34612.5,
+        "duty_rate": 14.2,
+        "duty_amount": 4914.98,
+        "eccn": "3A992",
+        "schedule_b": "4819.10.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 192,
+        "unit": "SET",
+        "entered_value": 64613.76,
+        "duty_rate": 20.4,
+        "duty_amount": 13181.21,
+        "eccn": "EAR99",
+        "schedule_b": "8708.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Spain",
+        "qty": 103,
+        "unit": "LTR",
+        "entered_value": 6418.96,
+        "duty_rate": 1.8,
+        "duty_amount": 115.54,
+        "eccn": "9A515",
+        "schedule_b": "2901.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

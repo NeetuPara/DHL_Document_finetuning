@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0517",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Salazar Trade Co.",
+    "shipper_address": "3524 Bailey Ridge, Walkerbury, NV 01676, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Global Christian B.V.",
+    "consignee_address": "PSC 7665, Box 0263, APO AA 50217, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+66 699-731-3806",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 35,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 69.54,
+        "qty_unit": "mL",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-195691",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jessica Brewer",
+    "signature_date": "2026-05-11",
+    "signature_place": "Belgium",
+    "awb_number": "160-82253306",
+    "flight_number": "QR4780",
+    "flight_date": "2026-04-21",
+    "departure_airport_code": "LAX",
+    "departure_airport_name": "Los Angeles International",
+    "destination_airport_code": "JFK",
+    "destination_airport_name": "JFK New York"
+  }
+}

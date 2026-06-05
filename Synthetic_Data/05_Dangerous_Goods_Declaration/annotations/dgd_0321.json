@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0321",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Shepard Ltd",
+    "shipper_address": "6500 Alexis Road Suite 112, East Sue, PW 15857, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Kelley International Ltd",
+    "consignee_address": "9602 Kristine Plain, South Thomas, NJ 66492, Mexico",
+    "consignee_country": "Mexico",
+    "emergency_telephone": "+41 909-397-2343",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 49,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 87.6,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 41,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 99.05,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-103812",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Tammy Martinez",
+    "signature_date": "2026-04-15",
+    "signature_place": "Canada",
+    "awb_number": "006-20051776",
+    "flight_number": "LH6258",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "NRT",
+    "destination_airport_name": "Tokyo Narita",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

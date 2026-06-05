@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0095",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kayla Howard",
+    "addressee_company": "Mills Trade Co.",
+    "addressee_address": "USNV Wright, FPO AP 80599, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 4.388,
+    "total_value": 307.57,
+    "currency": "EUR",
+    "issue_date": "2026-04-08",
+    "reference": "REF-032812",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.643,
+        "value": 118.65,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 4,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.745,
+        "value": 188.92,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "Robert Joyce",
+    "sender_company": "Lee Trade Ltd",
+    "sender_address": "Unit 8439 Box 5774, DPO AE 58132, France",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 71.26,
+    "tracking_number": "VH228478231NR"
+  }
+}

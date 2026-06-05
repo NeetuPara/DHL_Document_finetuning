@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0642",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Joshua Smith",
+    "addressee_company": "Commerce Obrien Inc.",
+    "addressee_address": "42479 Luke Pass, Jackshire, WA 46798, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 4.845,
+    "total_value": 3024.57,
+    "currency": "AED",
+    "issue_date": "2025-12-02",
+    "reference": "REF-456149",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 1.144,
+        "value": 317.61,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 16,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.526,
+        "value": 2236.16,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 11,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.175,
+        "value": 470.8,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_country": "Spain",
+    "port_of_entry": "Chicago, IL",
+    "entry_number": "109-33672415-9",
+    "entry_type": "Informal Entry",
+    "duty_rate": 24.4,
+    "estimated_duty": 738.0,
+    "importer_ein": "99-6186325",
+    "customs_broker": "Macdonald Global Ltd"
+  }
+}

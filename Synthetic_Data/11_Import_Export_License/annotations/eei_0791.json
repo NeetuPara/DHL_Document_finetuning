@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0791",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220926532262",
+    "export_date": "2025-08-14",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Hernandez Trade S.A.",
+    "usppi_ein": "53-7942980",
+    "usppi_address": "482 Sullivan Mountains Suite 680, East Gregory, LA 45972, Mexico",
+    "ultimate_consignee": "Tech Esparza Co.",
+    "intermediate_consignee": "Tech Cook GmbH",
+    "forwarding_agent": "Industry Perez GmbH",
+    "destination_country": "Poland",
+    "carrier": "Maersk",
+    "bl_awb": "045-63657976",
+    "total_value": 64674.68,
+    "currency": "CAD",
+    "signatory": "Peter Baker",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Poland",
+        "qty": 83,
+        "unit": "PCS",
+        "entered_value": 22416.64,
+        "duty_rate": 2.7,
+        "duty_amount": 605.25,
+        "eccn": "EAR99",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Australia",
+        "qty": 242,
+        "unit": "CTN",
+        "entered_value": 42258.04,
+        "duty_rate": 9.7,
+        "duty_amount": 4099.03,
+        "eccn": "5E992",
+        "schedule_b": "9018.31.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

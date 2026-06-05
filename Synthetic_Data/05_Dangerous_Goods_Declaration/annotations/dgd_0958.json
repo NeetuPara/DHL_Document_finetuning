@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0958",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Martinez Industry LLC",
+    "shipper_address": "4490 Fitzgerald Shore Suite 200, North Elizabeth, CA 12400, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Trade Anderson AG",
+    "consignee_address": "974 Shannon Crescent Suite 211, Jeanton, MP 20325, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+52 648-798-3863",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 24,
+        "pkg_type": "Steel Drum",
+        "net_qty": 28.14,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-406712",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 41,
+        "pkg_type": "Steel Drum",
+        "net_qty": 35.76,
+        "qty_unit": "mL",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-499546",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Brett Rojas",
+    "signature_date": "2026-04-22",
+    "signature_place": "Australia",
+    "awb_number": "074-74660928",
+    "flight_number": "QR1689",
+    "flight_date": "2026-06-06",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International"
+  }
+}

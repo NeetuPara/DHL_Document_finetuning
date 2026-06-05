@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0067",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Gonzalez Commerce Co.",
+    "shipper_address": "5022 Tyler Hill Apt. 350, Cruzberg, VI 57175, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Commerce Baird AG",
+    "consignee_address": "9256 Bailey Stravenue, Bellstad, KS 69752, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "emergency_telephone": "+22 674-780-7711",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 15,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 88.55,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 43,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 54.5,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "William Little",
+    "signature_date": "2026-04-19",
+    "signature_place": "Switzerland",
+    "awb_number": "176-82274064",
+    "flight_number": "DL7451",
+    "flight_date": "2026-04-14",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi"
+  }
+}

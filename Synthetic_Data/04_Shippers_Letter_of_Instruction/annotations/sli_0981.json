@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0981",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202005-7005",
+    "usppi_name": "Trade Jacobson Pte Ltd",
+    "usppi_address": "5709 Randy Ville Suite 155, Port Edwardborough, GU 45114, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "74-6500617",
+    "consignee_name": "Serrano Industry AG",
+    "consignee_address": "234 Hayley Summit Apt. 302, Delgadochester, CA 16555, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Trade Greene Co.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Billy Smith",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/22",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 26,
+        "unit": "KGS",
+        "weight_kg": 26.0,
+        "value_usd": 553.41
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 88,
+        "unit": "MTR",
+        "weight_kg": 63.88,
+        "value_usd": 1580.53
+      }
+    ],
+    "total_weight_kg": 89.88,
+    "total_value_usd": 2133.94,
+    "vessel": "CSCL GLOBE",
+    "voyage": "982E",
+    "booking_ref": "BKG-972386",
+    "bl_number": "EGLV929248684",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Dubai, AE",
+    "container_number": "UKWM3586911",
+    "seal_number": "CL115767",
+    "container_type": "45'HC",
+    "cbm": 6.821
+  }
+}

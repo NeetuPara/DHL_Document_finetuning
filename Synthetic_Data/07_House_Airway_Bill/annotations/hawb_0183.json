@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0183",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-48623429",
+    "mawb_number": "085-85389480",
+    "shipper_name": "Commerce Fleming LLC",
+    "shipper_address": "1443 Bryan Crescent, South Michael, ME 34760, Belgium",
+    "consignee_name": "Garcia Commerce Co.",
+    "consignee_address": "890 Duane Inlet, New Pamela, MD 12286, United Kingdom",
+    "agent_name": "Tech Sanchez Co.",
+    "airport_departure": "HKG",
+    "airport_destination": "NRT",
+    "currency": "AUD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "SGD 30,837.54",
+    "n_pieces": 25,
+    "gross_weight_kg": 374.3,
+    "chargeable_weight": 422.3,
+    "rate": 4.74,
+    "total_charge": 2001.7,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-12-10",
+    "signatory": "Erica Lin",
+    "iata_code": "42-777",
+    "agent_cass": "7019-9011",
+    "consolidation_ref": "CONS-8044-863952",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-70496583",
+        "pieces": 5,
+        "weight": 27.3,
+        "destination": "PVG",
+        "consignee": "Hansen International B.V.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "160-48500992",
+        "pieces": 10,
+        "weight": 87.5,
+        "destination": "ICN",
+        "consignee": "Pacific Oneill Co.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "125-65741673",
+        "pieces": 6,
+        "weight": 92.1,
+        "destination": "ICN",
+        "consignee": "Global Miller AG",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

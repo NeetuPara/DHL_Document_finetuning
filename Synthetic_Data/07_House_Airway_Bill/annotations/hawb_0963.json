@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0963",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-89319427",
+    "mawb_number": "074-10392952",
+    "shipper_name": "Commerce Meadows B.V.",
+    "shipper_address": "68487 Michael Alley Suite 262, Chrisbury, AZ 83902, Sweden",
+    "consignee_name": "Commerce Martinez Corp.",
+    "consignee_address": "72243 Steve Bridge Suite 726, Geraldhaven, PR 87647, Canada",
+    "agent_name": "Pacific Brown Inc.",
+    "airport_departure": "CDG",
+    "airport_destination": "AMS",
+    "currency": "CNY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CAD 8,576.61",
+    "n_pieces": 42,
+    "gross_weight_kg": 220.1,
+    "chargeable_weight": 282.9,
+    "rate": 2.3,
+    "total_charge": 650.67,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "TEMP CONTROLLED: 2\u00b0C - 20\u00b0C",
+    "issue_date": "2026-01-25",
+    "signatory": "Benjamin Taylor",
+    "iata_code": "84-035",
+    "agent_cass": "9077-3753",
+    "consolidation_ref": "CONS-9818-347084",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-37851505",
+        "pieces": 17,
+        "weight": 18.4,
+        "destination": "LAX",
+        "consignee": "Industry Hayes Corp.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "020-22841381",
+        "pieces": 9,
+        "weight": 52.8,
+        "destination": "LHR",
+        "consignee": "Industry Navarro Pte Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "057-21657204",
+        "pieces": 20,
+        "weight": 19.7,
+        "destination": "YYZ",
+        "consignee": "Industry Perez Inc.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "006-45856435",
+        "pieces": 9,
+        "weight": 45.9,
+        "destination": "MIA",
+        "consignee": "Tech Obrien Inc.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "074-84790853",
+        "pieces": 9,
+        "weight": 42.1,
+        "destination": "HKG",
+        "consignee": "Shannon Industry LLC",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "020-48644785",
+        "pieces": 5,
+        "weight": 18.0,
+        "destination": "FRA",
+        "consignee": "Barker Pacific LLC",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "006-60194062",
+        "pieces": 19,
+        "weight": 14.2,
+        "destination": "SIN",
+        "consignee": "Wright Pacific Corp.",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0615",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-41769700",
+    "mawb_number": "618-85457892",
+    "shipper_name": "Pacific Jones S.A.",
+    "shipper_address": "9800 Bruce Path, North Philip, WA 46481, Spain",
+    "consignee_name": "Tech Holland AG",
+    "consignee_address": "6369 Maxwell Route, West Matthew, CA 32400, South Korea",
+    "agent_name": "Global Evans Co.",
+    "airport_departure": "ORD",
+    "airport_destination": "PVG",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "GBP 20,005.06",
+    "declared_value_customs": "NCV",
+    "n_pieces": 10,
+    "gross_weight_kg": 330.2,
+    "chargeable_weight": 386.8,
+    "rate": 11.94,
+    "total_charge": 4618.39,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-12-04",
+    "signatory": "Johnny Mitchell",
+    "iata_code": "81-424",
+    "agent_cass": "7184-0755",
+    "consolidation_ref": "CONS-7600-496574",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-75274117",
+        "pieces": 18,
+        "weight": 63.7,
+        "destination": "LHR",
+        "consignee": "Butler Industry AG",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "160-41151839",
+        "pieces": 2,
+        "weight": 68.0,
+        "destination": "YYZ",
+        "consignee": "Lewis International LLC",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "074-36933302",
+        "pieces": 14,
+        "weight": 11.9,
+        "destination": "LAX",
+        "consignee": "Hendrix Global Inc.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "618-62193568",
+        "pieces": 7,
+        "weight": 44.1,
+        "destination": "ORD",
+        "consignee": "Martinez Tech AG",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "074-74567237",
+        "pieces": 7,
+        "weight": 94.8,
+        "destination": "MIA",
+        "consignee": "Hall International B.V.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "176-69672170",
+        "pieces": 10,
+        "weight": 73.7,
+        "destination": "MIA",
+        "consignee": "International Thomas Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      }
+    ]
+  }
+}

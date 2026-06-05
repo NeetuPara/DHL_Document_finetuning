@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0183",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Eric Hardin",
+    "addressee_company": "Global Richardson Co.",
+    "addressee_address": "Unit 5133 Box 3561, DPO AE 48799, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 4.956,
+    "total_value": 284.04,
+    "currency": "CAD",
+    "issue_date": "2025-09-06",
+    "reference": "REF-556559",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.046,
+        "value": 94.62,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 7,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.91,
+        "value": 189.42,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_country": "Mexico",
+    "port_of_entry": "Chicago, IL",
+    "entry_number": "527-57153245-0",
+    "entry_type": "Formal Entry",
+    "duty_rate": 3.4,
+    "estimated_duty": 9.66,
+    "importer_ein": "37-1353665",
+    "customs_broker": "Johnson International Ltd"
+  }
+}

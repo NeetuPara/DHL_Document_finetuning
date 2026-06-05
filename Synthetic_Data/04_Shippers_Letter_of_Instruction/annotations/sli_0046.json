@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0046",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202405-2092",
+    "usppi_name": "Trade Martin S.A.",
+    "usppi_address": "USNV Bennett, FPO AA 25232, United States",
+    "usppi_country": "United States",
+    "ein": "17-2537025",
+    "consignee_name": "International Wright Ltd",
+    "consignee_address": "5729 Allen Lodge, Cruzhaven, VA 31591, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Industry Hill Pte Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Susan Wilson",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/11",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 99,
+        "unit": "PCS",
+        "weight_kg": 9.04,
+        "value_usd": 7605.03
+      },
+      {
+        "marks": "ABC/37",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 114,
+        "unit": "BOX",
+        "weight_kg": 71.19,
+        "value_usd": 12482.97
+      },
+      {
+        "marks": "EXP/49",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 136,
+        "unit": "KGS",
+        "weight_kg": 136.0,
+        "value_usd": 258.45
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 85,
+        "unit": "PCS",
+        "weight_kg": 617.97,
+        "value_usd": 11152.44
+      }
+    ],
+    "total_weight_kg": 834.2,
+    "total_value_usd": 31498.89,
+    "service": "LCL Ocean",
+    "named_port": "Qingdao, CN",
+    "insurance_value_usd": 18199.3,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-400014",
+    "destination_country": "Netherlands"
+  }
+}

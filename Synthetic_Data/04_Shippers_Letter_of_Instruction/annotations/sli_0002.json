@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0002",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202505-9500",
+    "usppi_name": "Global Garcia S.A.",
+    "usppi_address": "1746 Poole Prairie, Osborneville, AS 51749, Japan",
+    "usppi_country": "Japan",
+    "ein": "68-7439581",
+    "consignee_name": "Industry Baird Ltd",
+    "consignee_address": "1276 Benjamin Shoals Suite 318, Janetmouth, GA 75245, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "International Murillo B.V.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIF",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Debra Perez",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/6",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 196,
+        "unit": "BOX",
+        "weight_kg": 128.69,
+        "value_usd": 21347.63
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 21,
+        "unit": "MTR",
+        "weight_kg": 22.08,
+        "value_usd": 147.21
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 83,
+        "unit": "PCS",
+        "weight_kg": 492.78,
+        "value_usd": 27114.62
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 170,
+        "unit": "PCS",
+        "weight_kg": 20.38,
+        "value_usd": 17273.8
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 71,
+        "unit": "KGS",
+        "weight_kg": 71.0,
+        "value_usd": 47.78
+      },
+      {
+        "marks": "SLI/2",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 144,
+        "unit": "PKG",
+        "weight_kg": 264.25,
+        "value_usd": 1712.8
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 89,
+        "unit": "PCS",
+        "weight_kg": 1500.88,
+        "value_usd": 40011.15
+      }
+    ],
+    "total_weight_kg": 2500.06,
+    "total_value_usd": 107654.99,
+    "service": "Ocean Freight",
+    "named_port": "Tokyo, JP",
+    "insurance_value_usd": 33255.57,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-284140",
+    "destination_country": "Spain"
+  }
+}

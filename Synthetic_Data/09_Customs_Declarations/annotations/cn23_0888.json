@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0888",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Ashley Bates",
+    "addressee_company": "Tech Garcia Corp.",
+    "addressee_address": "5917 Jose Shore Apt. 485, New Melaniefort, FL 93262, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 6.224,
+    "total_value": 2744.9,
+    "currency": "AUD",
+    "issue_date": "2026-04-27",
+    "reference": "REF-416700",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.357,
+        "value": 1864.2,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 10,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.867,
+        "value": 880.7,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_country": "Australia",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "176-48100300-2",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 11.4,
+    "estimated_duty": 312.92,
+    "importer_ein": "31-4319619",
+    "customs_broker": "International Thompson LLC"
+  }
+}

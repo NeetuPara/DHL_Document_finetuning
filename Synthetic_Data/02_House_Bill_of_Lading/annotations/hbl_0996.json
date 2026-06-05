@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0996",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU522191812",
+    "shipper_name": "Industry Roberts B.V.",
+    "shipper_address": "142 Hill Pines Suite 223, Lake David, NC 28838, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Tech Lamb Inc.",
+    "consignee_address": "231 Kimberly Bypass, Ramirezborough, VA 98159, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party_name": "Wilson International Pte Ltd",
+    "notify_party_address": "314 Lucero Courts Apt. 379, Port Katherine, IN 07929, Singapore",
+    "vessel": "CSCL GLOBE",
+    "voyage": "391N",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2024-11-30",
+    "issue_place": "Dubai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "HHRV8237484",
+        "seal_no": "BL165871",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "PADC8295329",
+        "seal_no": "BL527934",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "DDGE6782711",
+        "seal_no": "CL145514",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 139,
+    "package_type": "Carton",
+    "gross_weight_kg": 5854.1,
+    "net_weight_kg": 5440.1,
+    "cbm": 9.595,
+    "marks_and_numbers": "XYZ/45"
+  }
+}

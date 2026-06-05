@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0576",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202402-4827",
+    "usppi_name": "Industry Thornton Corp.",
+    "usppi_address": "1753 Benjamin Estate, Ashleyberg, NV 67383, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "62-5904937",
+    "consignee_name": "Global Willis Inc.",
+    "consignee_address": "56466 Janice Knoll, New Tammy, MS 50879, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Jenkins Global GmbH",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DPU",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Kevin Roberson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/33",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 86,
+        "unit": "CTN",
+        "weight_kg": 113.93,
+        "value_usd": 976.78
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 55,
+        "unit": "PCS",
+        "weight_kg": 10.29,
+        "value_usd": 855.71
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 23,
+        "unit": "MTR",
+        "weight_kg": 18.36,
+        "value_usd": 164.03
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 142,
+        "unit": "PCS",
+        "weight_kg": 218.5,
+        "value_usd": 111380.78
+      },
+      {
+        "marks": "EXP/35",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 47,
+        "unit": "PKG",
+        "weight_kg": 64.33,
+        "value_usd": 4340.62
+      },
+      {
+        "marks": "SLI/12",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 160,
+        "unit": "KGS",
+        "weight_kg": 160.0,
+        "value_usd": 1118.33
+      },
+      {
+        "marks": "SLI/14",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 61,
+        "unit": "KGS",
+        "weight_kg": 61.0,
+        "value_usd": 64.53
+      }
+    ],
+    "total_weight_kg": 646.41,
+    "total_value_usd": 118900.78,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "327W",
+    "booking_ref": "BKG-483572",
+    "bl_number": "EGLV121783237",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Hamburg, DE",
+    "container_number": "SBHW9694618",
+    "seal_number": "BL101461",
+    "container_type": "40'GP",
+    "cbm": 27.295
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0005",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Gregory Sullivan",
+    "addressee_company": "Trade Gonzalez Co.",
+    "addressee_address": "266 Carrie Mills, Aliciaview, MS 50777, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 14.377,
+    "total_value": 4767.97,
+    "currency": "GBP",
+    "issue_date": "2025-06-20",
+    "reference": "REF-900893",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.262,
+        "value": 555.52,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 13,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.569,
+        "value": 1374.75,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 2,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.201,
+        "value": 75.74,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 7,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.787,
+        "value": 227.43,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 17,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.558,
+        "value": 2534.53,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Eric Miller",
+    "sender_company": "Commerce Hunter S.A.",
+    "sender_address": "429 Theresa Square Apt. 718, South Meghantown, MN 65755, Thailand",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 5244.77,
+    "postal_charges": 5.13,
+    "tracking_number": "OI957415359OX"
+  }
+}

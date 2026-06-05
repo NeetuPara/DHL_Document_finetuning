@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0408",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202310-9887",
+    "usppi_name": "Industry Ball Inc.",
+    "usppi_address": "584 Perez Mews, Jamesview, MO 56352, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "42-1306916",
+    "consignee_name": "Knight Pacific S.A.",
+    "consignee_address": "585 Fields Ridges Apt. 905, West Linda, DC 58118, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Bartlett Pacific GmbH",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FOB",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Jeanette Banks",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/46",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 47,
+        "unit": "PCS",
+        "weight_kg": 4.47,
+        "value_usd": 3915.72
+      },
+      {
+        "marks": "EXP/15",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 176,
+        "unit": "CTN",
+        "weight_kg": 431.6,
+        "value_usd": 2520.82
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 171,
+        "unit": "PCS",
+        "weight_kg": 240.76,
+        "value_usd": 115764.13
+      }
+    ],
+    "total_weight_kg": 676.83,
+    "total_value_usd": 122200.67,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "705N",
+    "booking_ref": "BKG-288151",
+    "bl_number": "DHLG223668150",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "ZAFA2324628",
+    "seal_number": "CL574688",
+    "container_type": "40'GP",
+    "cbm": 18.606
+  }
+}

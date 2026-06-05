@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0387",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Karen Hawkins",
+    "addressee_company": "Harris Commerce Inc.",
+    "addressee_address": "10338 Mosley Row Suite 317, Jessicamouth, AZ 70673, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 7.396,
+    "total_value": 3807.82,
+    "currency": "JPY",
+    "issue_date": "2025-11-21",
+    "reference": "REF-490754",
+    "line_items": [
+      {
+        "qty": 13,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.627,
+        "value": 1239.42,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 1,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.876,
+        "value": 82.66,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 17,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.893,
+        "value": 2485.74,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_country": "India",
+    "port_of_entry": "New York, NY",
+    "entry_number": "496-13774126-5",
+    "entry_type": "Formal Entry",
+    "duty_rate": 14.4,
+    "estimated_duty": 548.33,
+    "importer_ein": "04-9128789",
+    "customs_broker": "International Smith Inc."
+  }
+}

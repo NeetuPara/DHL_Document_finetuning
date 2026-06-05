@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0444",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202310-6567",
+    "usppi_name": "Industry Randall Ltd",
+    "usppi_address": "819 Reyes Loop Suite 740, East Kiara, MT 63740, Japan",
+    "usppi_country": "Japan",
+    "ein": "10-6480686",
+    "consignee_name": "Global Cooper Co.",
+    "consignee_address": "808 Lucas Prairie, Wadeport, FL 47361, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Tech Smith GmbH",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Gregory Snow",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/48",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 119,
+        "unit": "SET",
+        "weight_kg": 391.75,
+        "value_usd": 19089.82
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 144,
+        "unit": "PCS",
+        "weight_kg": 12.66,
+        "value_usd": 35627.73
+      }
+    ],
+    "total_weight_kg": 404.41,
+    "total_value_usd": 54717.55,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "293W",
+    "booking_ref": "BKG-282866",
+    "bl_number": "DHLG671119720",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Qingdao, CN",
+    "container_number": "KJVD3258882",
+    "seal_number": "SL978538",
+    "container_type": "20'GP",
+    "cbm": 19.466
+  }
+}

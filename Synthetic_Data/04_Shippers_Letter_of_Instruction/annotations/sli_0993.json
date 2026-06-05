@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0993",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202507-4964",
+    "usppi_name": "Pacific Martinez AG",
+    "usppi_address": "8923 Jermaine Springs, Mitchellton, CO 09429, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "74-3143201",
+    "consignee_name": "Oliver International LLC",
+    "consignee_address": "622 Rivera Dale, North Scottshire, ME 62681, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "International Sanchez Inc.",
+    "forwarder": "Expeditors",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Mark Ramirez",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/30",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 196,
+        "unit": "PCS",
+        "weight_kg": 75.43,
+        "value_usd": 14496.66
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 132,
+        "unit": "PCS",
+        "weight_kg": 1838.31,
+        "value_usd": 50023.09
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 98,
+        "unit": "SET",
+        "weight_kg": 245.03,
+        "value_usd": 16660.39
+      }
+    ],
+    "total_weight_kg": 2158.77,
+    "total_value_usd": 81180.14,
+    "vessel": "CSCL GLOBE",
+    "voyage": "626N",
+    "booking_ref": "BKG-535186",
+    "bl_number": "EGLV479069140",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Hong Kong, HK",
+    "container_number": "DGFI5323368",
+    "seal_number": "SL587808",
+    "container_type": "40'GP",
+    "cbm": 15.08
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0100",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Cohen International S.A.",
+    "shipper_address": "PSC 1067, Box 4917, APO AE 94114, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Graham Commerce Pte Ltd",
+    "consignee_address": "660 Curry Alley Apt. 756, East Jennifer, PW 10427, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+30 242-930-6200",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 35,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 71.93,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "James Blankenship",
+    "signature_date": "2026-04-15",
+    "signature_place": "United States",
+    "awb_number": "006-62393082",
+    "flight_number": "UA367",
+    "flight_date": "2026-04-29",
+    "departure_airport_code": "FRA",
+    "departure_airport_name": "Frankfurt Airport",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson"
+  }
+}

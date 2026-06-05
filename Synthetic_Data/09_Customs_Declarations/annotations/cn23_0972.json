@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0972",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Joshua Yates",
+    "addressee_company": "Commerce Chang S.A.",
+    "addressee_address": "46324 Flores Corners, North Danielleton, CT 27540, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 9.021,
+    "total_value": 2725.46,
+    "currency": "JPY",
+    "issue_date": "2026-04-01",
+    "reference": "REF-584869",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.634,
+        "value": 2100.78,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 7,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.128,
+        "value": 128.87,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 7,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.259,
+        "value": 495.81,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_country": "United Kingdom",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "569-67917481-7",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 23.5,
+    "estimated_duty": 640.48,
+    "importer_ein": "67-0056295",
+    "customs_broker": "Smith Global Inc."
+  }
+}

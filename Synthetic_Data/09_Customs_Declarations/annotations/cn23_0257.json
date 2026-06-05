@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0257",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Samantha Martinez",
+    "addressee_company": "Murphy International Ltd",
+    "addressee_address": "5568 Berry Forks, Colleenfurt, MS 97638, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 8.183,
+    "total_value": 1765.67,
+    "currency": "USD",
+    "issue_date": "2025-08-15",
+    "reference": "REF-102994",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.829,
+        "value": 1056.06,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 18,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.128,
+        "value": 527.4,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 7,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.226,
+        "value": 182.21,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Italy"
+      }
+    ],
+    "sender_name": "William Meyer",
+    "sender_company": "Industry Nicholson Corp.",
+    "sender_address": "3279 Knox Lodge, South James, IN 29391, South Korea",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 1942.24,
+    "postal_charges": 28.99,
+    "tracking_number": "VD368501354UZ"
+  }
+}

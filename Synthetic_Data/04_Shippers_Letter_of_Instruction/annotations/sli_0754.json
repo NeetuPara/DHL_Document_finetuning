@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0754",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202005-1689",
+    "usppi_name": "Industry Robinson LLC",
+    "usppi_address": "26597 Wells Roads, East Brian, KY 21241, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "73-8620215",
+    "consignee_name": "Cox Global Inc.",
+    "consignee_address": "07981 Ford Burg, Taraview, IN 00577, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Morgan International B.V.",
+    "forwarder": "Expeditors",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Kelly Mccall",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/40",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 181,
+        "unit": "MTR",
+        "weight_kg": 160.99,
+        "value_usd": 1295.41
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 66,
+        "unit": "SET",
+        "weight_kg": 80.89,
+        "value_usd": 8725.8
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 26,
+        "unit": "PCS",
+        "weight_kg": 30.97,
+        "value_usd": 8205.22
+      },
+      {
+        "marks": "ABC/46",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 167,
+        "unit": "KGS",
+        "weight_kg": 167.0,
+        "value_usd": 320.99
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 147,
+        "unit": "CTN",
+        "weight_kg": 661.24,
+        "value_usd": 4709.52
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 111,
+        "unit": "PCS",
+        "weight_kg": 2426.13,
+        "value_usd": 30236.34
+      },
+      {
+        "marks": "EXP/31",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 60,
+        "unit": "PCS",
+        "weight_kg": 739.19,
+        "value_usd": 7395.21
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 138,
+        "unit": "CTN",
+        "weight_kg": 79.35,
+        "value_usd": 790.13
+      }
+    ],
+    "total_weight_kg": 4345.76,
+    "total_value_usd": 61678.62,
+    "service": "Air Freight",
+    "named_port": "Seoul Incheon",
+    "insurance_value_usd": 24787.61,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Malaysia"
+  }
+}

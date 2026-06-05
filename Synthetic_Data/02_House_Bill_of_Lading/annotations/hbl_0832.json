@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0832",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV512617170",
+    "shipper_name": "Trade Silva Corp.",
+    "shipper_address": "0720 Dominguez Track Apt. 061, Lake Scotttown, MA 07154, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Weaver Tech Corp.",
+    "consignee_address": "74142 Ross Circle Suite 478, Richardport, VA 39844, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Industry Arnold Ltd",
+    "notify_party_address": "50435 Ramos Track, West Scottview, FL 34564, Italy",
+    "vessel": "MSC GULSUN",
+    "voyage": "720W",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Qingdao, CN",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2026-04-14",
+    "issue_place": "New York",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "DYYP5575399",
+        "seal_no": "SL258301",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "ELVZ5578502",
+        "seal_no": "BL580767",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "RQNB4578884",
+        "seal_no": "BL148563",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "LBBN9455349",
+        "seal_no": "SL689668",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 251,
+    "package_type": "Crate",
+    "gross_weight_kg": 1554.1,
+    "net_weight_kg": 1473.7,
+    "cbm": 21.407,
+    "marks_and_numbers": "ABC/48"
+  }
+}

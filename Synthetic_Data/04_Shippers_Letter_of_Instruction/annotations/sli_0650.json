@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0650",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202501-9248",
+    "usppi_name": "Tech Guzman Ltd",
+    "usppi_address": "771 Stafford Mills, Brittanyshire, AL 68907, France",
+    "usppi_country": "France",
+    "ein": "94-7782555",
+    "consignee_name": "Thomas Tech B.V.",
+    "consignee_address": "7373 Ashley Hollow, North Christina, FM 16340, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Tech Zhang GmbH",
+    "forwarder": "Expeditors",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Jenna Benton",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/50",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 129,
+        "unit": "CTN",
+        "weight_kg": 244.3,
+        "value_usd": 4464.92
+      },
+      {
+        "marks": "SLI/2",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 5,
+        "unit": "PCS",
+        "weight_kg": 0.67,
+        "value_usd": 365.57
+      },
+      {
+        "marks": "ABC/26",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 28,
+        "unit": "MTR",
+        "weight_kg": 32.57,
+        "value_usd": 81.15
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 109,
+        "unit": "PCS",
+        "weight_kg": 1498.8,
+        "value_usd": 33927.57
+      }
+    ],
+    "total_weight_kg": 1776.34,
+    "total_value_usd": 38839.21,
+    "service": "LCL Ocean",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 27808.18,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-726739",
+    "destination_country": "Switzerland"
+  }
+}

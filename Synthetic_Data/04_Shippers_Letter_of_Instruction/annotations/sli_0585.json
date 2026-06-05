@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0585",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202401-3076",
+    "usppi_name": "Industry Stewart Inc.",
+    "usppi_address": "39395 Eric Vista, East Aliciastad, VA 74038, Canada",
+    "usppi_country": "Canada",
+    "ein": "98-1737102",
+    "consignee_name": "Global Valenzuela Corp.",
+    "consignee_address": "124 Jeffrey Ford Apt. 110, Kevinton, AR 86455, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Price Global Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Adrienne Hood",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/34",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 160,
+        "unit": "KGS",
+        "weight_kg": 160.0,
+        "value_usd": 911.31
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 7,
+        "unit": "PCS",
+        "weight_kg": 104.75,
+        "value_usd": 775.85
+      },
+      {
+        "marks": "ABC/39",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 48,
+        "unit": "PCS",
+        "weight_kg": 22.88,
+        "value_usd": 1944.86
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 106,
+        "unit": "LTR",
+        "weight_kg": 108.73,
+        "value_usd": 848.61
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 161,
+        "unit": "PKG",
+        "weight_kg": 83.77,
+        "value_usd": 7057.05
+      },
+      {
+        "marks": "SLI/5",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 133,
+        "unit": "PCS",
+        "weight_kg": 10.52,
+        "value_usd": 8272.77
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 198,
+        "unit": "CTN",
+        "weight_kg": 828.33,
+        "value_usd": 14630.02
+      }
+    ],
+    "total_weight_kg": 1318.98,
+    "total_value_usd": 34440.47,
+    "vessel": "YANG MING MYTH",
+    "voyage": "179W",
+    "booking_ref": "BKG-420017",
+    "bl_number": "OOLU618282152",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "AAFS1494487",
+    "seal_number": "BL445658",
+    "container_type": "20'GP",
+    "cbm": 48.503
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0020",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Wagner Tech AG",
+    "shipper_address": "0643 Morgan Fords Apt. 490, Lake Tina, MT 41540, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Global Vasquez Ltd",
+    "consignee_address": "8877 Gonzalez Burg Apt. 439, Port Billy, GA 99026, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+39 385-965-5302",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 7,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 90.12,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-601839",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Mrs. Dawn Jones",
+    "signature_date": "2026-05-12",
+    "signature_place": "Hong Kong",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "740W",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Tanjung Pelepas, MY"
+  }
+}

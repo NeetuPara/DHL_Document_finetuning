@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0462",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-53139616",
+    "mawb_number": "176-88857306",
+    "shipper_name": "International Parker Co.",
+    "shipper_address": "175 Victoria Shores Suite 780, East Daisy, MA 58559, South Korea",
+    "consignee_name": "Nelson Trade AG",
+    "consignee_address": "9065 Monica Row, West Valeriemouth, MP 27225, Malaysia",
+    "agent_name": "Wright Commerce Pte Ltd",
+    "airport_departure": "ORD",
+    "airport_destination": "NRT",
+    "currency": "CAD",
+    "charge_code": "CC",
+    "declared_value_carriage": "AUD 19,665.14",
+    "declared_value_customs": "NCV",
+    "n_pieces": 42,
+    "gross_weight_kg": 289.2,
+    "chargeable_weight": 326.3,
+    "rate": 3.52,
+    "total_charge": 1148.58,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-09-24",
+    "signatory": "Andrea Holloway",
+    "iata_code": "12-360",
+    "agent_cass": "6398-4227",
+    "consolidation_ref": "CONS-1400-872073",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-42902606",
+        "pieces": 15,
+        "weight": 43.8,
+        "destination": "LAX",
+        "consignee": "Klein Tech Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "085-71644133",
+        "pieces": 9,
+        "weight": 4.3,
+        "destination": "JFK",
+        "consignee": "Brown Global S.A.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "006-81622799",
+        "pieces": 3,
+        "weight": 42.4,
+        "destination": "FRA",
+        "consignee": "Fisher Global Corp.",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

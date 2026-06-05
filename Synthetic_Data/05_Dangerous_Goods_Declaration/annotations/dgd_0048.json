@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0048",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Craig B.V.",
+    "shipper_address": "0564 Kathryn Court, Ashleyfort, WI 76138, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Anderson Global Co.",
+    "consignee_address": "53051 Wright Skyway Apt. 753, Lake Michellestad, GA 06386, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+21 948-594-5738",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 12,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 77.72,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Stacey Solomon",
+    "signature_date": "2026-04-24",
+    "signature_place": "Spain",
+    "awb_number": "160-18174107",
+    "flight_number": "UA6355",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong",
+    "non_dg_reason": "Lithium Ion Batteries \u2014 Section II (PI 967/Section II)"
+  }
+}

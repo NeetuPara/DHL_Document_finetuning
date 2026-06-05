@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0515",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV752174053",
+    "shipper_name": "Howard Pacific S.A.",
+    "shipper_address": "37300 Karen Walks, Dustinmouth, ME 84530, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "International Smith AG",
+    "consignee_address": "633 Smith Estate Apt. 194, Maynardport, LA 75561, France",
+    "consignee_country": "France",
+    "notify_party_name": "International Farmer Inc.",
+    "notify_party_address": "USNS Rodriguez, FPO AP 42041, United Kingdom",
+    "vessel": "MSC GULSUN",
+    "voyage": "789S",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2026-04-19",
+    "issue_place": "Tanjung Pelepas",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "LUAY9425001",
+        "seal_no": "BL601989",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "WLOU9319153",
+        "seal_no": "BL570848",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "MYUZ1550322",
+        "seal_no": "BL349923",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "DCKJ2968406",
+        "seal_no": "SL778722",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 203,
+    "package_type": "Bundle",
+    "gross_weight_kg": 13333.0,
+    "net_weight_kg": 12639.1,
+    "cbm": 18.854,
+    "marks_and_numbers": "XYZ/15"
+  }
+}

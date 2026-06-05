@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0204",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Anderson GmbH",
+    "shipper_address": "08324 Guzman Pine, Wilsonhaven, AR 75832, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Newman Tech B.V.",
+    "consignee_address": "2977 Spencer Camp, New Brittney, AK 44087, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+71 292-354-4367",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 28,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 83.26,
+        "qty_unit": "g",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 44,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 6.63,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Cameron Pearson",
+    "signature_date": "2026-05-11",
+    "signature_place": "South Korea",
+    "awb_number": "125-37320749",
+    "flight_number": "QR9325",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

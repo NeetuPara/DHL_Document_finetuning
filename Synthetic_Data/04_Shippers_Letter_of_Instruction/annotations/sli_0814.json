@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0814",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202010-4581",
+    "usppi_name": "Carter Global GmbH",
+    "usppi_address": "PSC 8786, Box 5883, APO AA 70940, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "70-7403157",
+    "consignee_name": "Tech Rodriguez AG",
+    "consignee_address": "0024 Amy Bridge Suite 248, Tinaside, NE 35859, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Davidson Trade GmbH",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Thomas Logan",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/1",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 26,
+        "unit": "SET",
+        "weight_kg": 32.16,
+        "value_usd": 3830.76
+      },
+      {
+        "marks": "SLI/33",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 146,
+        "unit": "KGS",
+        "weight_kg": 146.0,
+        "value_usd": 88.23
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 147,
+        "unit": "KGS",
+        "weight_kg": 147.0,
+        "value_usd": 2284.18
+      },
+      {
+        "marks": "EXP/7",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 160,
+        "unit": "PKG",
+        "weight_kg": 222.59,
+        "value_usd": 1463.92
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 19,
+        "unit": "MTR",
+        "weight_kg": 17.37,
+        "value_usd": 340.12
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 148,
+        "unit": "PCS",
+        "weight_kg": 149.29,
+        "value_usd": 43352.42
+      },
+      {
+        "marks": "EXP/35",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 200,
+        "unit": "BOX",
+        "weight_kg": 126.98,
+        "value_usd": 20824.35
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 103,
+        "unit": "LTR",
+        "weight_kg": 102.0,
+        "value_usd": 1189.0
+      }
+    ],
+    "total_weight_kg": 943.39,
+    "total_value_usd": 73372.98,
+    "service": "Ground",
+    "named_port": "Amsterdam Schiphol",
+    "insurance_value_usd": 28183.21,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Switzerland"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0176",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Santiago LLC",
+    "shipper_address": "8694 Glenn Village, South Scott, SD 99588, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Patterson Trade AG",
+    "consignee_address": "PSC 2137, Box 1857, APO AP 23338, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+86 364-932-3219",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 43,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 14.86,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-262689",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 10,
+        "pkg_type": "Steel Drum",
+        "net_qty": 7.39,
+        "qty_unit": "L",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-496005",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Jim Stewart",
+    "signature_date": "2026-04-28",
+    "signature_place": "Canada",
+    "vessel": "CSCL GLOBE",
+    "voyage": "844S",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Felixstowe, GB"
+  }
+}

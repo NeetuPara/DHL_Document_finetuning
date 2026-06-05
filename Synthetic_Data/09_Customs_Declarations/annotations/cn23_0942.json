@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0942",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Peter Whitaker",
+    "addressee_company": "Duffy Tech Co.",
+    "addressee_address": "6105 Sherry Point, Andersonfurt, TX 19694, China",
+    "addressee_country": "China",
+    "total_weight_kg": 3.493,
+    "total_value": 279.73,
+    "currency": "AED",
+    "issue_date": "2026-01-15",
+    "reference": "REF-961059",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.406,
+        "value": 149.89,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 6,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.087,
+        "value": 129.84,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_country": "South Korea",
+    "port_of_entry": "New York, NY",
+    "entry_number": "234-66867306-2",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 8.3,
+    "estimated_duty": 23.22,
+    "importer_ein": "16-2928812",
+    "customs_broker": "Williams Global Co."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0617",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202401-3329",
+    "usppi_name": "Porter Tech Inc.",
+    "usppi_address": "Unit 5625 Box 0207, DPO AA 18207, United Kingdom",
+    "usppi_country": "United Kingdom",
+    "ein": "55-7303074",
+    "consignee_name": "Acevedo Commerce GmbH",
+    "consignee_address": "33349 Terri Court Suite 857, Port Taylorton, WA 42759, India",
+    "consignee_country": "India",
+    "notify_party": "Pacific Calderon Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Daniel Petty",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/10",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 24,
+        "unit": "KGS",
+        "weight_kg": 24.0,
+        "value_usd": 470.07
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 10,
+        "unit": "BOX",
+        "weight_kg": 5.15,
+        "value_usd": 1094.38
+      }
+    ],
+    "total_weight_kg": 29.15,
+    "total_value_usd": 1564.45,
+    "service": "Air Freight",
+    "named_port": "Dubai International",
+    "insurance_value_usd": 20391.19,
+    "license_type": "Distributor License",
+    "license_number": "LIC-184044",
+    "destination_country": "India"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0810",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU501547009",
+    "shipper_name": "Spence Industry Inc.",
+    "shipper_address": "523 Sherman Island, Lake Martha, MA 18816, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Pacific Davis B.V.",
+    "consignee_address": "7389 Smith Mission, Tylerburgh, DE 57250, Italy",
+    "consignee_country": "Italy",
+    "notify_party_name": "Global Jackson GmbH",
+    "notify_party_address": "667 Parker Garden Suite 724, New Rachel, MT 32007, Mexico",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "789W",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2026-01-09",
+    "issue_place": "Colombo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "TTQG6119419",
+        "seal_no": "CL815734",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "XJUJ1994159",
+        "seal_no": "CL552363",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "number_of_packages": 299,
+    "package_type": "Roll",
+    "gross_weight_kg": 8870.2,
+    "net_weight_kg": 8409.8,
+    "cbm": 30.118,
+    "marks_and_numbers": "ABC/28"
+  }
+}

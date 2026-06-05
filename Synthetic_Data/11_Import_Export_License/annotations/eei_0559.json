@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0559",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "226-08074783-7",
+    "entry_type": "11 - Informal - Free",
+    "entry_date": "2025-11-23",
+    "port_of_entry": "LAX - Los Angeles",
+    "transport_mode": "Rail",
+    "carrier": "UPS",
+    "bl_awb": "057-86941714",
+    "importer_name": "Cooper Industry LLC",
+    "importer_ein": "99-8394795",
+    "consignee_name": "Little Commerce Co.",
+    "customs_broker": "Perez Global Inc.",
+    "broker_filer_code": "pCV",
+    "country_of_origin": "Japan",
+    "total_value": 242959.13,
+    "total_duty": 28533.31,
+    "currency": "GBP",
+    "signatory": "Eileen Ruiz",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "India",
+        "qty": 443,
+        "unit": "PCS",
+        "entered_value": 85397.11,
+        "duty_rate": 0.1,
+        "duty_amount": 85.4,
+        "eccn": "5E992",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Thailand",
+        "qty": 398,
+        "unit": "PCS",
+        "entered_value": 124315.3,
+        "duty_rate": 19.3,
+        "duty_amount": 23992.85,
+        "eccn": "5E992",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Germany",
+        "qty": 333,
+        "unit": "PCS",
+        "entered_value": 33246.72,
+        "duty_rate": 13.4,
+        "duty_amount": 4455.06,
+        "eccn": "9A515",
+        "schedule_b": "8518.30.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

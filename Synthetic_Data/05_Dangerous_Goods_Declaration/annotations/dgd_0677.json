@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0677",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Rios Pte Ltd",
+    "shipper_address": "74303 Sampson Light, Millerland, AS 94093, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Luna Industry Inc.",
+    "consignee_address": "PSC 1381, Box 1947, APO AP 92011, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+72 521-396-3181",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 11,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 2.62,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 27,
+        "pkg_type": "Steel Drum",
+        "net_qty": 93.1,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-402050",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Raymond Bell",
+    "signature_date": "2026-05-08",
+    "signature_place": "Malaysia",
+    "vessel": "MADRID MAERSK",
+    "voyage": "128W",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Tokyo, JP"
+  }
+}

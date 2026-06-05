@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0538",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Robinson Pte Ltd",
+    "shipper_address": "2894 Vanessa Points Suite 791, Markmouth, DC 88954, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Smith Trade Corp.",
+    "consignee_address": "1327 Summers View, Sierrachester, DE 25821, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+17 153-453-2242",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 33,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 14.09,
+        "qty_unit": "g",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Julia Church",
+    "signature_date": "2026-05-06",
+    "signature_place": "South Korea",
+    "awb_number": "176-31361786",
+    "flight_number": "QR2536",
+    "flight_date": "2026-05-12",
+    "departure_airport_code": "LAX",
+    "departure_airport_name": "Los Angeles International",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare"
+  }
+}

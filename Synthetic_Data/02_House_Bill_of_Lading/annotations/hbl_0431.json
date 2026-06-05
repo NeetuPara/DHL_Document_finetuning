@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0431",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU874801477",
+    "shipper_name": "Foster Trade AG",
+    "shipper_address": "18541 David Plains, Lake Jessica, NM 82452, India",
+    "shipper_country": "India",
+    "consignee_name": "Pacific Olson Inc.",
+    "consignee_address": "99193 Nathan Mountains Apt. 790, South Pamela, LA 98273, France",
+    "consignee_country": "France",
+    "notify_party_name": "Mann Global Ltd",
+    "notify_party_address": "6086 Palmer Gardens Apt. 364, Clarkstad, PW 49330, France",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "469E",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Qingdao, CN",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2025-12-14",
+    "issue_place": "Antwerp",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "QRNZ0397972",
+        "seal_no": "SL883577",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "LKJC1964905",
+        "seal_no": "SL431032",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 87,
+    "package_type": "Bundle",
+    "gross_weight_kg": 16468.9,
+    "net_weight_kg": 15926.1,
+    "cbm": 3.761,
+    "marks_and_numbers": "XYZ/18"
+  }
+}

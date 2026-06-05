@@ -1,0 +1,82 @@
+{
+  "document_id": "vgm_0563",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Sanchez Tech B.V.",
+    "shipper_address": "6217 Clark Union, Fieldsstad, MI 30983, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "container_number": "LDNM3690902",
+    "seal_number": "BL931454",
+    "container_size": "45'HC",
+    "iso_type_code": "L5G0",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 20080.7,
+    "packing_materials_kg": 436.3,
+    "vgm_kg": 25317.0,
+    "vessel": "PIL PACIFIC",
+    "voyage": "980E",
+    "bl_number": "MAEU999407612",
+    "booking_reference": "BKG-947881",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-25815",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-20",
+    "signature_date": "2026-05-10",
+    "signatory_name": "Sarah Rocha",
+    "signatory_title": "VGM Officer",
+    "number_of_packages": 7,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Case",
+        "n_units": 4,
+        "gross_wt_kg": 3421.6
+      },
+      {
+        "item_no": 2,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Roll",
+        "n_units": 10,
+        "gross_wt_kg": 3275.5
+      },
+      {
+        "item_no": 3,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Cylinder",
+        "n_units": 9,
+        "gross_wt_kg": 1913.9
+      },
+      {
+        "item_no": 4,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Carton",
+        "n_units": 13,
+        "gross_wt_kg": 3051.9
+      },
+      {
+        "item_no": 5,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Carton",
+        "n_units": 4,
+        "gross_wt_kg": 2891.5
+      },
+      {
+        "item_no": 6,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Bundle",
+        "n_units": 7,
+        "gross_wt_kg": 1277.4
+      },
+      {
+        "item_no": 7,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Bag",
+        "n_units": 13,
+        "gross_wt_kg": 4248.9
+      }
+    ]
+  }
+}

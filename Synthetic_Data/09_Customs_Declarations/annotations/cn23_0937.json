@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0937",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Emily Sanchez",
+    "addressee_company": "Global White AG",
+    "addressee_address": "345 Kristin Forest Suite 503, Anthonyfurt, AL 06682, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 6.118,
+    "total_value": 2492.6,
+    "currency": "USD",
+    "issue_date": "2026-04-23",
+    "reference": "REF-495517",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.263,
+        "value": 269.1,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 10,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.36,
+        "value": 1027.1,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 20,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.495,
+        "value": 1196.4,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Jacqueline Norris",
+    "sender_company": "Tech Carpenter Pte Ltd",
+    "sender_address": "7215 Hernandez Trail Suite 010, Kevinstad, GU 03467, Belgium",
+    "sender_phone": "(666)709-5882x195",
+    "sender_email": "lynchalexander@example.org",
+    "addressee_phone": "(767)322-2346x3701",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 2741.86,
+    "postal_charges": 26.6,
+    "tracking_number": "UU552868600AS"
+  }
+}

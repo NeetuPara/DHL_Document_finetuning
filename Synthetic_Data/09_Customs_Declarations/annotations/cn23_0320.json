@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0320",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Sheri Rogers",
+    "addressee_company": "Tech Allen LLC",
+    "addressee_address": "521 Earl Fields Suite 618, Lake Jessica, OR 58293, Brazil",
+    "addressee_country": "Brazil",
+    "total_weight_kg": 1.707,
+    "total_value": 779.22,
+    "currency": "AED",
+    "issue_date": "2026-02-08",
+    "reference": "REF-585196",
+    "line_items": [
+      {
+        "qty": 13,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.707,
+        "value": 779.22,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_name": "Mark Brown",
+    "sender_company": "International Arias Co.",
+    "sender_address": "891 Matthews Knolls Suite 089, Lake Jonathan, GA 11906, Italy",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 24.5,
+    "tracking_number": "KD844748694CU"
+  }
+}

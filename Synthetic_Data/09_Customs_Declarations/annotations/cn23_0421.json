@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0421",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kathy Moody",
+    "addressee_company": "Moreno Tech Co.",
+    "addressee_address": "2642 Bryant Drive, Bryantton, WY 43121, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 9.683,
+    "total_value": 3599.42,
+    "currency": "EUR",
+    "issue_date": "2026-05-08",
+    "reference": "REF-172328",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.798,
+        "value": 826.0,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 13,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.122,
+        "value": 1299.74,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 13,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.621,
+        "value": 249.6,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 7,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.51,
+        "value": 972.23,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 15,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.632,
+        "value": 251.85,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Danielle Cox",
+    "sender_company": "Industry Flores Pte Ltd",
+    "sender_address": "937 Wheeler Manor Apt. 356, Michelleborough, AS 55836, Australia",
+    "sender_phone": "(932)564-5399x94715",
+    "sender_email": "monicamcdonald@example.com",
+    "addressee_phone": "578.547.8766x010",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 3959.36,
+    "postal_charges": 29.11,
+    "tracking_number": "YR546115242GE"
+  }
+}

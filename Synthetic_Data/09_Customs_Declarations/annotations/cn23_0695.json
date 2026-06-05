@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0695",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Craig David MD",
+    "addressee_company": "Villegas Global AG",
+    "addressee_address": "PSC 7093, Box 4581, APO AA 73185, Sweden",
+    "addressee_country": "Sweden",
+    "total_weight_kg": 5.284,
+    "total_value": 1807.57,
+    "currency": "USD",
+    "issue_date": "2025-12-03",
+    "reference": "REF-202933",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.799,
+        "value": 1401.07,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 4,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.717,
+        "value": 202.44,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 3,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.768,
+        "value": 204.06,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_name": "Greg Landry",
+    "sender_company": "Pacific Hernandez Corp.",
+    "sender_address": "18124 Daniel Estate, New Melissaland, AK 56178, United States",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 1988.33,
+    "postal_charges": 49.45,
+    "tracking_number": "MT300605678XV"
+  }
+}

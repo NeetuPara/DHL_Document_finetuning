@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0789",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Haynes Pte Ltd",
+    "shipper_address": "98422 Webb Viaduct Suite 927, Lindseyfurt, IN 34469, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "International Horne Pte Ltd",
+    "consignee_address": "3528 Cantrell Manor, Lopezberg, NE 46818, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "emergency_telephone": "+72 250-471-2504",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 47,
+        "pkg_type": "Steel Drum",
+        "net_qty": 34.71,
+        "qty_unit": "g",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Paul Short",
+    "signature_date": "2026-05-08",
+    "signature_place": "Japan",
+    "awb_number": "176-41898680",
+    "flight_number": "UA4509",
+    "departure_airport_code": "CDG",
+    "departure_airport_name": "Paris CDG",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

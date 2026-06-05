@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0172",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Amber Hartman",
+    "addressee_company": "Industry Salinas AG",
+    "addressee_address": "6215 Jackson Divide Suite 890, West Travis, MS 30787, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 4.458,
+    "total_value": 604.41,
+    "currency": "CHF",
+    "issue_date": "2026-05-07",
+    "reference": "REF-583169",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.185,
+        "value": 184.86,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 3,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.273,
+        "value": 419.55,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_name": "Eugene Perez",
+    "sender_company": "Hill Industry Ltd",
+    "sender_address": "972 Jesse Unions Suite 314, Port Graceshire, ID 18633, United Arab Emirates",
+    "sender_phone": "001-424-622-2672",
+    "sender_email": "cruzjennifer@example.org",
+    "addressee_phone": "001-550-449-6537",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 79.69,
+    "tracking_number": "OU654172024BM"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0081",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202502-4498",
+    "exporter_name": "International Morales Corp.",
+    "exporter_address": "993 Atkins Route Apt. 543, South Caitlynton, NH 37184, Poland",
+    "exporter_country": "Poland",
+    "consignee_name": "Vaughn Pacific Corp.",
+    "consignee_address": "188 Patricia Park, North Sandraberg, UT 49441, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "country_of_origin": "Poland",
+    "country_of_destination": "United Arab Emirates",
+    "bl_or_awb": "MAEU593165246",
+    "issue_date": "2025-10-04",
+    "certifier_name": "Daniel Golden",
+    "goods": [
+      {
+        "description": "Electronic Components - Printed Circuit Boards",
+        "hs_code": "8534.00.00",
+        "qty": 360,
+        "unit": "PCS",
+        "weight_kg": 82.24,
+        "origin_criterion": "E",
+        "value": 85495.75
+      },
+      {
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "hs_code": "8518.30.00",
+        "qty": 16,
+        "unit": "PCS",
+        "weight_kg": 2.09,
+        "origin_criterion": "B",
+        "value": 394.07
+      },
+      {
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "hs_code": "4016.93.00",
+        "qty": 346,
+        "unit": "PKG",
+        "weight_kg": 815.33,
+        "origin_criterion": "B",
+        "value": 30990.93
+      }
+    ],
+    "fta_agreement": "US-Korea FTA (KORUS)",
+    "chamber": "Trade Association"
+  }
+}

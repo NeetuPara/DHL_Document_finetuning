@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0177",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU979978478",
+    "shipper_name": "Pacific Guerrero Ltd",
+    "shipper_address": "Unit 0005 Box 1135, DPO AA 27592, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Global Phillips Co.",
+    "consignee_address": "4056 Nguyen Cove Apt. 121, Daniellefort, SC 14288, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party_name": "Simmons Tech AG",
+    "notify_party_address": "46759 Pugh Spring, Port Ralph, CA 15809, Thailand",
+    "vessel": "CSCL GLOBE",
+    "voyage": "166N",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Antwerp, BE",
+    "issue_date": "2026-03-25",
+    "issue_place": "Hamburg",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "LWKC1000832",
+        "seal_no": "SL311656",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "SGRQ9128756",
+        "seal_no": "CL420081",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "MVEM0318472",
+        "seal_no": "CL969774",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "number_of_packages": 313,
+    "package_type": "Carton",
+    "gross_weight_kg": 14547.7,
+    "net_weight_kg": 13974.8,
+    "cbm": 34.86,
+    "marks_and_numbers": "ABC/27"
+  }
+}

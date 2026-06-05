@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0038",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202302-3987",
+    "usppi_name": "Lynch Commerce Pte Ltd",
+    "usppi_address": "59163 Daniel Trafficway, New Tonyside, MI 12648, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "61-6863593",
+    "consignee_name": "Tech Mccullough GmbH",
+    "consignee_address": "7438 Hunt Village, Port James, VT 24547, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Trade Monroe GmbH",
+    "forwarder": "Expeditors",
+    "incoterm": "CFR",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Megan Hoffman",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/20",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 11,
+        "unit": "KGS",
+        "weight_kg": 11.0,
+        "value_usd": 190.49
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 125,
+        "unit": "PKG",
+        "weight_kg": 201.12,
+        "value_usd": 8244.68
+      },
+      {
+        "marks": "SLI/34",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 156,
+        "unit": "PCS",
+        "weight_kg": 1557.94,
+        "value_usd": 25941.95
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 170,
+        "unit": "CTN",
+        "weight_kg": 312.72,
+        "value_usd": 2188.16
+      }
+    ],
+    "total_weight_kg": 2082.78,
+    "total_value_usd": 36565.28,
+    "service": "LCL Ocean",
+    "named_port": "Qingdao, CN",
+    "insurance_value_usd": 12759.66,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-581863",
+    "destination_country": "Mexico"
+  }
+}

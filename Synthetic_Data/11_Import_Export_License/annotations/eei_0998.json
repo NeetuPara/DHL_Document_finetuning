@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0998",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20221222555368",
+    "export_date": "2026-01-17",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "International Davis Pte Ltd",
+    "usppi_ein": "19-7713308",
+    "usppi_address": "PSC 2212, Box 0398, APO AA 71866, Switzerland",
+    "ultimate_consignee": "Trade Stafford Pte Ltd",
+    "intermediate_consignee": "Green Commerce Co.",
+    "forwarding_agent": "Industry Ross GmbH",
+    "destination_country": "United States",
+    "carrier": "Maersk",
+    "bl_awb": "045-95777107",
+    "total_value": 149671.08,
+    "currency": "AUD",
+    "signatory": "Brian Yates",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 272,
+        "unit": "MTR",
+        "entered_value": 24050.24,
+        "duty_rate": 22.1,
+        "duty_amount": 5315.1,
+        "eccn": "3A992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Hong Kong",
+        "qty": 275,
+        "unit": "PKG",
+        "entered_value": 27651.25,
+        "duty_rate": 24.2,
+        "duty_amount": 6691.6,
+        "eccn": "0A919",
+        "schedule_b": "4016.93.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Germany",
+        "qty": 213,
+        "unit": "SET",
+        "entered_value": 52562.01,
+        "duty_rate": 4.3,
+        "duty_amount": 2260.17,
+        "eccn": "7A994",
+        "schedule_b": "8708.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "United States",
+        "qty": 127,
+        "unit": "PCS",
+        "entered_value": 45407.58,
+        "duty_rate": 23.9,
+        "duty_amount": 10852.41,
+        "eccn": "0A919",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

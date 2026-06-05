@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0861",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-24078999",
+    "mawb_number": "125-43209742",
+    "shipper_name": "Gonzalez Industry AG",
+    "shipper_address": "88968 Olson Ferry, Lake Connie, WA 99299, Sweden",
+    "consignee_name": "International Martin LLC",
+    "consignee_address": "730 Patricia Crossing Apt. 009, South Allison, ID 73336, Canada",
+    "agent_name": "Monroe Pacific B.V.",
+    "airport_departure": "YYZ",
+    "airport_destination": "SYD",
+    "currency": "AUD",
+    "charge_code": "CC",
+    "declared_value_carriage": "USD 32,690.58",
+    "declared_value_customs": "NCV",
+    "n_pieces": 2,
+    "gross_weight_kg": 72.0,
+    "chargeable_weight": 77.7,
+    "rate": 2.5,
+    "total_charge": 194.25,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "TEMP CONTROLLED: 3\u00b0C - 16\u00b0C",
+    "issue_date": "2026-04-15",
+    "signatory": "Amanda Mckinney",
+    "iata_code": "56-350",
+    "agent_cass": "9050-3662",
+    "consolidation_ref": "CONS-2151-483320",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-48755584",
+        "pieces": 2,
+        "weight": 72.6,
+        "destination": "MIA",
+        "consignee": "Pacific Rivera Co.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "020-64362115",
+        "pieces": 19,
+        "weight": 14.9,
+        "destination": "NRT",
+        "consignee": "Global Weber Corp.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "125-63878186",
+        "pieces": 7,
+        "weight": 40.5,
+        "destination": "NRT",
+        "consignee": "Reyes International Corp.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "125-84492994",
+        "pieces": 19,
+        "weight": 64.5,
+        "destination": "LAX",
+        "consignee": "Taylor Trade Pte Ltd",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "020-61201478",
+        "pieces": 16,
+        "weight": 85.3,
+        "destination": "JFK",
+        "consignee": "Global Cardenas Co.",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

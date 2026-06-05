@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0639",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202408-3288",
+    "usppi_name": "Rodriguez Pacific Pte Ltd",
+    "usppi_address": "106 Bauer Mission Suite 897, Johnborough, NM 95776, China",
+    "usppi_country": "China",
+    "ein": "98-6733136",
+    "consignee_name": "Pacific Wilson LLC",
+    "consignee_address": "9391 Jones Spur, East Kevin, NJ 26342, United States",
+    "consignee_country": "United States",
+    "notify_party": "White Trade Corp.",
+    "forwarder": "Expeditors",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5A002",
+    "signatory_name": "Tamara Pena",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/29",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 158,
+        "unit": "PCS",
+        "weight_kg": 192.74,
+        "value_usd": 5293.74
+      },
+      {
+        "marks": "SLI/29",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 117,
+        "unit": "PCS",
+        "weight_kg": 56.81,
+        "value_usd": 18594.66
+      },
+      {
+        "marks": "EXP/17",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 180,
+        "unit": "BOX",
+        "weight_kg": 340.46,
+        "value_usd": 6537.06
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 91,
+        "unit": "CTN",
+        "weight_kg": 263.87,
+        "value_usd": 998.49
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 155,
+        "unit": "SET",
+        "weight_kg": 256.75,
+        "value_usd": 18587.42
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 170,
+        "unit": "PKG",
+        "weight_kg": 313.22,
+        "value_usd": 7012.02
+      },
+      {
+        "marks": "ABC/35",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 12,
+        "unit": "KGS",
+        "weight_kg": 12.0,
+        "value_usd": 202.03
+      }
+    ],
+    "total_weight_kg": 1435.85,
+    "total_value_usd": 57225.42,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "133E",
+    "booking_ref": "BKG-715200",
+    "bl_number": "EGLV513397986",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "VAWJ8460724",
+    "seal_number": "BL703234",
+    "container_type": "45'HC",
+    "cbm": 38.403
+  }
+}

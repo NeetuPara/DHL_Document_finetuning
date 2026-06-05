@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0284",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202508-7201",
+    "usppi_name": "Tech Ortega B.V.",
+    "usppi_address": "33530 Contreras Locks, Luisfort, IA 10772, Spain",
+    "usppi_country": "Spain",
+    "ein": "88-5534865",
+    "consignee_name": "Brown Tech Corp.",
+    "consignee_address": "04111 Christopher Ramp, Vasquezburgh, NY 20019, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Tech Mitchell Inc.",
+    "forwarder": "Panalpina",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Brian Rocha",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/45",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 17,
+        "unit": "LTR",
+        "weight_kg": 15.85,
+        "value_usd": 310.92
+      },
+      {
+        "marks": "SLI/21",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 45,
+        "unit": "CTN",
+        "weight_kg": 68.44,
+        "value_usd": 616.76
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 172,
+        "unit": "PCS",
+        "weight_kg": 46.16,
+        "value_usd": 24765.66
+      }
+    ],
+    "total_weight_kg": 130.45,
+    "total_value_usd": 25693.34,
+    "service": "Ground",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 23858.99,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-616513",
+    "destination_country": "Japan"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0399",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jeffrey Holt",
+    "addressee_company": "International Hall LLC",
+    "addressee_address": "2336 Perkins Plaza, Teresahaven, OH 59156, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 6.263,
+    "total_value": 566.02,
+    "currency": "EUR",
+    "issue_date": "2025-12-24",
+    "reference": "REF-603852",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.996,
+        "value": 265.7,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 4,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.452,
+        "value": 100.52,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 2,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.815,
+        "value": 199.8,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_country": "Belgium",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "420-91489105-9",
+    "entry_type": "Informal Entry",
+    "duty_rate": 3.9,
+    "estimated_duty": 22.07,
+    "importer_ein": "33-9695033",
+    "customs_broker": "Pacific Rice S.A."
+  }
+}

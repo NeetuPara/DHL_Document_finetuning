@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0430",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "563-25482358-1",
+    "entry_type": "11 - Informal - Free",
+    "entry_date": "2025-08-12",
+    "port_of_entry": "MIA - Miami",
+    "transport_mode": "Rail",
+    "carrier": "UPS",
+    "bl_awb": "045-18632928",
+    "importer_name": "Taylor Industry B.V.",
+    "importer_ein": "45-9657355",
+    "consignee_name": "International Perry Corp.",
+    "customs_broker": "Anderson Trade Pte Ltd",
+    "broker_filer_code": "BHD",
+    "country_of_origin": "Singapore",
+    "total_value": 238240.34,
+    "total_duty": 48601.32,
+    "currency": "SGD",
+    "signatory": "Angela Young",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Belgium",
+        "qty": 15,
+        "unit": "KGS",
+        "entered_value": 3449.85,
+        "duty_rate": 14.9,
+        "duty_amount": 514.03,
+        "eccn": "7A994",
+        "schedule_b": "7208.37.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "France",
+        "qty": 223,
+        "unit": "LTR",
+        "entered_value": 86936.55,
+        "duty_rate": 24.8,
+        "duty_amount": 21560.26,
+        "eccn": "EAR99",
+        "schedule_b": "2901.10.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Spain",
+        "qty": 66,
+        "unit": "PCS",
+        "entered_value": 11555.94,
+        "duty_rate": 1.7,
+        "duty_amount": 196.45,
+        "eccn": "0A919",
+        "schedule_b": "8483.40.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Germany",
+        "qty": 28,
+        "unit": "CTN",
+        "entered_value": 4405.52,
+        "duty_rate": 4.9,
+        "duty_amount": 215.87,
+        "eccn": "0A919",
+        "schedule_b": "9018.31.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Thailand",
+        "qty": 428,
+        "unit": "KGS",
+        "entered_value": 131892.48,
+        "duty_rate": 19.8,
+        "duty_amount": 26114.71,
+        "eccn": "EAR99",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

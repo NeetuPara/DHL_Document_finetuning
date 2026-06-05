@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0370",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202505-3496",
+    "usppi_name": "Campbell Industry Inc.",
+    "usppi_address": "PSC 6828, Box 5778, APO AE 17389, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "88-3405754",
+    "consignee_name": "International Rangel AG",
+    "consignee_address": "6788 Mitchell Courts Apt. 746, Davidmouth, KS 54040, China",
+    "consignee_country": "China",
+    "notify_party": "Reeves International LLC",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Courtney Miller",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/48",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 69,
+        "unit": "SET",
+        "weight_kg": 161.17,
+        "value_usd": 4193.95
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 27,
+        "unit": "MTR",
+        "weight_kg": 19.78,
+        "value_usd": 306.14
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 74,
+        "unit": "PCS",
+        "weight_kg": 30.85,
+        "value_usd": 1710.08
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 55,
+        "unit": "PCS",
+        "weight_kg": 28.37,
+        "value_usd": 1669.85
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 123,
+        "unit": "CTN",
+        "weight_kg": 127.79,
+        "value_usd": 9626.08
+      }
+    ],
+    "total_weight_kg": 367.96,
+    "total_value_usd": 17506.1,
+    "service": "LCL Ocean",
+    "named_port": "Hamburg, DE",
+    "insurance_value_usd": 7213.2,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-937604",
+    "destination_country": "China"
+  }
+}

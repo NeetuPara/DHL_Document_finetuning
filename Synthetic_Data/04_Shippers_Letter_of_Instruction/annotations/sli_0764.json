@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0764",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202309-2373",
+    "usppi_name": "King Pacific S.A.",
+    "usppi_address": "738 Cynthia Tunnel, East Williamberg, CA 41202, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "10-3791082",
+    "consignee_name": "Campbell Industry Ltd",
+    "consignee_address": "99763 Jackson Burgs, Port Daniel, PA 28878, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Nelson Global Co.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CFR",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Kelly Santana",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/47",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 72,
+        "unit": "PKG",
+        "weight_kg": 180.0,
+        "value_usd": 2892.42
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 195,
+        "unit": "PCS",
+        "weight_kg": 10.95,
+        "value_usd": 40905.7
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 137,
+        "unit": "PCS",
+        "weight_kg": 120.74,
+        "value_usd": 66824.67
+      }
+    ],
+    "total_weight_kg": 311.69,
+    "total_value_usd": 110622.79,
+    "service": "Ground",
+    "named_port": "Dubai International",
+    "insurance_value_usd": 37518.99,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-583721",
+    "destination_country": "Malaysia"
+  }
+}

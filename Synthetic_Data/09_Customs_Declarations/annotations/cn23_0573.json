@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0573",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Robert Elliott",
+    "addressee_company": "Boone Industry Co.",
+    "addressee_address": "9294 Torres Wall Apt. 379, Karenmouth, SC 43148, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 2.524,
+    "total_value": 1945.14,
+    "currency": "JPY",
+    "issue_date": "2026-01-01",
+    "reference": "REF-806082",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.565,
+        "value": 1902.18,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 6,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.959,
+        "value": 42.96,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_country": "China",
+    "port_of_entry": "Chicago, IL",
+    "entry_number": "380-67958358-8",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 10.8,
+    "estimated_duty": 210.08,
+    "importer_ein": "42-9730086",
+    "customs_broker": "Jones Trade Ltd"
+  }
+}

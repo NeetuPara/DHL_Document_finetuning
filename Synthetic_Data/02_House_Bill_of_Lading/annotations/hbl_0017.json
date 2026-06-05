@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0017",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU524299483",
+    "shipper_name": "International Young Pte Ltd",
+    "shipper_address": "859 Heather Wells Suite 546, South Deborah, OR 16690, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "International Smith Ltd",
+    "consignee_address": "08590 Bowen Inlet Apt. 233, Port Christinaport, OK 33069, Spain",
+    "consignee_country": "Spain",
+    "notify_party_name": "International Morales S.A.",
+    "notify_party_address": "Unit 2739 Box 0235, DPO AA 80328, Malaysia",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "427E",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2025-06-06",
+    "issue_place": "Long Beach",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "BQMN8669610",
+        "seal_no": "SL690026",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "AMAG8755146",
+        "seal_no": "SL467357",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "KVQL0046427",
+        "seal_no": "BL389939",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 462,
+    "package_type": "Bundle",
+    "gross_weight_kg": 2847.2,
+    "net_weight_kg": 2576.9,
+    "cbm": 16.986,
+    "marks_and_numbers": "ABC/47"
+  }
+}

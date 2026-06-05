@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0303",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Johnson Trade Co.",
+    "shipper_address": "408 Jones Crossing, West Tarachester, NV 79077, China",
+    "shipper_country": "China",
+    "consignee_name": "Trade Sanchez Pte Ltd",
+    "consignee_address": "0791 Henry Land, New Matthewland, MA 39746, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+83 513-895-2734",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 42,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 55.53,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-789557",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Tracy Kennedy",
+    "signature_date": "2026-04-24",
+    "signature_place": "China",
+    "awb_number": "160-52571446",
+    "flight_number": "EK4319",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

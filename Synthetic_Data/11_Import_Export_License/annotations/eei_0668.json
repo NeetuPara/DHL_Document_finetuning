@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0668",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20251116817233",
+    "export_date": "2025-11-15",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Pacific Hansen Co.",
+    "usppi_ein": "59-3194198",
+    "usppi_address": "093 Perez Underpass Suite 472, Littleview, MI 14232, Netherlands",
+    "ultimate_consignee": "Hall Commerce Inc.",
+    "intermediate_consignee": "Pacific Baker Pte Ltd",
+    "forwarding_agent": "Hubbard Trade Ltd",
+    "destination_country": "Australia",
+    "carrier": "UPS",
+    "bl_awb": "176-81913132",
+    "total_value": 172106.32,
+    "currency": "JPY",
+    "signatory": "Amanda Cabrera",
+    "line_items": [
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "South Korea",
+        "qty": 444,
+        "unit": "PCS",
+        "entered_value": 135948.36,
+        "duty_rate": 9.2,
+        "duty_amount": 12507.25,
+        "eccn": "2B350",
+        "schedule_b": "3926.90.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Australia",
+        "qty": 200,
+        "unit": "PCS",
+        "entered_value": 24454.0,
+        "duty_rate": 17.3,
+        "duty_amount": 4230.54,
+        "eccn": "0A919",
+        "schedule_b": "9002.11.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Malaysia",
+        "qty": 36,
+        "unit": "LTR",
+        "entered_value": 11703.96,
+        "duty_rate": 22.0,
+        "duty_amount": 2574.87,
+        "eccn": "7A994",
+        "schedule_b": "2901.10.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

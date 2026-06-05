@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0479",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jason White",
+    "addressee_company": "Edwards Pacific AG",
+    "addressee_address": "Unit 0530 Box 3154, DPO AA 84400, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 7.1,
+    "total_value": 1191.63,
+    "currency": "CAD",
+    "issue_date": "2026-02-25",
+    "reference": "REF-893626",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.671,
+        "value": 328.05,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 6,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.429,
+        "value": 863.58,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_name": "Alex Harper",
+    "sender_company": "Global Richmond GmbH",
+    "sender_address": "677 Martinez Crossing Apt. 140, Arnoldview, MS 87973, Japan",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 1310.79,
+    "postal_charges": 74.7,
+    "tracking_number": "TZ060683124BV"
+  }
+}

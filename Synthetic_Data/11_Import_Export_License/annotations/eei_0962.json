@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0962",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20221025236321",
+    "export_date": "2025-09-09",
+    "aes_option": "AES Filing",
+    "usppi_name": "Lee Industry Corp.",
+    "usppi_ein": "81-3212309",
+    "usppi_address": "5197 Amy Fort, Port Jasontown, MP 53095, India",
+    "ultimate_consignee": "Martin Trade GmbH",
+    "intermediate_consignee": "Benson Trade GmbH",
+    "forwarding_agent": "International Kelly S.A.",
+    "destination_country": "Switzerland",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "020-33348725",
+    "total_value": 601639.78,
+    "currency": "AUD",
+    "signatory": "John Anderson",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "United Kingdom",
+        "qty": 95,
+        "unit": "PCS",
+        "entered_value": 24051.15,
+        "duty_rate": 2.7,
+        "duty_amount": 649.38,
+        "eccn": "0A919",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Sweden",
+        "qty": 354,
+        "unit": "MTR",
+        "entered_value": 103778.64,
+        "duty_rate": 18.5,
+        "duty_amount": 19199.05,
+        "eccn": "7A994",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "United States",
+        "qty": 480,
+        "unit": "MTR",
+        "entered_value": 230908.8,
+        "duty_rate": 14.7,
+        "duty_amount": 33943.59,
+        "eccn": "3A992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Switzerland",
+        "qty": 382,
+        "unit": "PCS",
+        "entered_value": 126506.94,
+        "duty_rate": 17.7,
+        "duty_amount": 22391.73,
+        "eccn": "0A919",
+        "schedule_b": "8518.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 293,
+        "unit": "CTN",
+        "entered_value": 116394.25,
+        "duty_rate": 19.5,
+        "duty_amount": 22696.88,
+        "eccn": "1A002",
+        "schedule_b": "4819.10.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

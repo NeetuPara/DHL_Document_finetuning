@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0936",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-61566767",
+    "mawb_number": "085-63943256",
+    "shipper_name": "Commerce Foster Corp.",
+    "shipper_address": "Unit 3141 Box 3102, DPO AA 97144, Mexico",
+    "consignee_name": "Pacific Andrade LLC",
+    "consignee_address": "033 Lopez Station Apt. 613, Brandyborough, VI 76724, Spain",
+    "agent_name": "Tech Solis LLC",
+    "airport_departure": "NRT",
+    "airport_destination": "MIA",
+    "currency": "SGD",
+    "charge_code": "PP",
+    "declared_value_carriage": "GBP 12,697.44",
+    "declared_value_customs": "CNY 48,774.99",
+    "n_pieces": 43,
+    "gross_weight_kg": 285.7,
+    "chargeable_weight": 323.0,
+    "rate": 3.92,
+    "total_charge": 1266.16,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-06-23",
+    "signatory": "Micheal Huerta",
+    "iata_code": "91-767",
+    "agent_cass": "0480-9194",
+    "consolidation_ref": "CONS-8099-909564",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-18778664",
+        "pieces": 17,
+        "weight": 33.6,
+        "destination": "LAX",
+        "consignee": "Tech Thomas Corp.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "160-66585066",
+        "pieces": 16,
+        "weight": 12.3,
+        "destination": "ORD",
+        "consignee": "Morrow Pacific Co.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "125-87151950",
+        "pieces": 11,
+        "weight": 25.4,
+        "destination": "LHR",
+        "consignee": "Trade Santiago Corp.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "085-37404552",
+        "pieces": 18,
+        "weight": 33.3,
+        "destination": "ICN",
+        "consignee": "Rodriguez Trade S.A.",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

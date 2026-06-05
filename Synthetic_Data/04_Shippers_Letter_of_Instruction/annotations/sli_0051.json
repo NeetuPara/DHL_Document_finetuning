@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0051",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202310-4859",
+    "usppi_name": "Industry Huber AG",
+    "usppi_address": "553 Christina Haven, Phillipport, CO 50300, Australia",
+    "usppi_country": "Australia",
+    "ein": "15-2027938",
+    "consignee_name": "Fitzpatrick International Pte Ltd",
+    "consignee_address": "6270 Randall Highway Suite 209, Hortonstad, SD 53340, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Kramer Trade Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Kevin Jones",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/35",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 60,
+        "unit": "KGS",
+        "weight_kg": 60.0,
+        "value_usd": 963.65
+      },
+      {
+        "marks": "ABC/28",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 157,
+        "unit": "PCS",
+        "weight_kg": 27.13,
+        "value_usd": 2090.78
+      },
+      {
+        "marks": "SLI/20",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 137,
+        "unit": "CTN",
+        "weight_kg": 226.01,
+        "value_usd": 1032.31
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 158,
+        "unit": "PCS",
+        "weight_kg": 9.34,
+        "value_usd": 6681.04
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 172,
+        "unit": "LTR",
+        "weight_kg": 161.23,
+        "value_usd": 6834.69
+      },
+      {
+        "marks": "SLI/20",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 140,
+        "unit": "MTR",
+        "weight_kg": 138.34,
+        "value_usd": 2293.56
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 15,
+        "unit": "CTN",
+        "weight_kg": 56.87,
+        "value_usd": 677.45
+      }
+    ],
+    "total_weight_kg": 678.92,
+    "total_value_usd": 20573.48,
+    "vessel": "CSCL GLOBE",
+    "voyage": "721E",
+    "booking_ref": "BKG-153342",
+    "bl_number": "DHLG265387911",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "New York, US",
+    "container_number": "LXGN3460841",
+    "seal_number": "BL851918",
+    "container_type": "20'GP",
+    "cbm": 50.222
+  }
+}

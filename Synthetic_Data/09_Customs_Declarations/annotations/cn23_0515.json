@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0515",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Robert Jackson",
+    "addressee_company": "Mccarthy Tech LLC",
+    "addressee_address": "30738 Rivas Ferry Apt. 325, Port Allisonberg, WA 70884, Malaysia",
+    "addressee_country": "Malaysia",
+    "total_weight_kg": 9.307,
+    "total_value": 753.95,
+    "currency": "GBP",
+    "issue_date": "2025-10-15",
+    "reference": "REF-291531",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.837,
+        "value": 372.45,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 14,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.47,
+        "value": 381.5,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Willie Wagner",
+    "sender_company": "Global Lozano S.A.",
+    "sender_address": "2478 Zhang Prairie Suite 755, Meganland, NH 29750, Netherlands",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 37.86,
+    "tracking_number": "TE528630638OX"
+  }
+}

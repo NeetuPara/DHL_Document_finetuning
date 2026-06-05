@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0069",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202604-1855",
+    "usppi_name": "International Harvey Corp.",
+    "usppi_address": "2262 Michael Estate, South Scott, WY 88381, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "93-2465175",
+    "consignee_name": "Butler Commerce Corp.",
+    "consignee_address": "02528 Garcia Shoals Apt. 551, Jeanneland, VT 79877, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Griffin Industry Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Laura Brown",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/40",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 173,
+        "unit": "KGS",
+        "weight_kg": 173.0,
+        "value_usd": 3587.15
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 160,
+        "unit": "CTN",
+        "weight_kg": 467.01,
+        "value_usd": 2194.74
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 31,
+        "unit": "PCS",
+        "weight_kg": 10.18,
+        "value_usd": 2597.09
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 67,
+        "unit": "PKG",
+        "weight_kg": 118.71,
+        "value_usd": 3734.86
+      }
+    ],
+    "total_weight_kg": 768.9,
+    "total_value_usd": 12113.84,
+    "vessel": "CSCL GLOBE",
+    "voyage": "398N",
+    "booking_ref": "BKG-950562",
+    "bl_number": "EGLV165337976",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "container_number": "HGHU3857228",
+    "seal_number": "BL230738",
+    "container_type": "40'HC",
+    "cbm": 30.38
+  }
+}

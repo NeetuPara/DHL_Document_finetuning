@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0202",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU397093207",
+    "shipper_name": "Boyer Global B.V.",
+    "shipper_address": "817 Jenkins Dale, Jenniferchester, KY 26173, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "International Torres Corp.",
+    "consignee_address": "4425 Sanchez Flat Apt. 119, Wilsonton, OR 29699, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party_name": "Hanna Industry LLC",
+    "notify_party_address": "9950 Jared Mission Suite 327, North Jonview, LA 42086, Canada",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "389S",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2025-08-22",
+    "issue_place": "Singapore",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "NRTQ0387116",
+        "seal_no": "BL917646",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "IWPO0482557",
+        "seal_no": "CL704326",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "number_of_packages": 183,
+    "package_type": "Drum",
+    "gross_weight_kg": 15325.1,
+    "net_weight_kg": 14715.1,
+    "cbm": 6.004,
+    "marks_and_numbers": "GLB/7"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0565",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU957557601",
+    "shipper_name": "Industry Smith Pte Ltd",
+    "shipper_address": "41176 Ford Loop, Greenfurt, PW 01765, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Pacific Garcia AG",
+    "consignee_address": "531 Robert Shoal Apt. 673, Robertoberg, TX 44600, Japan",
+    "consignee_country": "Japan",
+    "notify_party_name": "International Rosario LLC",
+    "notify_party_address": "4809 Esparza Bridge Suite 109, Edwardsside, MH 53504, Germany",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "361W",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2024-11-04",
+    "issue_place": "Antwerp",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "KCIK5297774",
+        "seal_no": "BL612723",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "AIRJ9575244",
+        "seal_no": "BL114807",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "XNVP6095546",
+        "seal_no": "BL195488",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 89,
+    "package_type": "Drum",
+    "gross_weight_kg": 11444.4,
+    "net_weight_kg": 10531.4,
+    "cbm": 5.339,
+    "marks_and_numbers": "GLB/49"
+  }
+}

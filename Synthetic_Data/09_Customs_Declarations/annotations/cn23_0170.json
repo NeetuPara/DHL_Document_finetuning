@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0170",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Luis Hudson",
+    "addressee_company": "Trade Thomas Ltd",
+    "addressee_address": "75693 Tiffany Hills Apt. 681, South Thomas, TX 07234, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 7.752,
+    "total_value": 3407.26,
+    "currency": "CNY",
+    "issue_date": "2025-07-14",
+    "reference": "REF-207814",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.226,
+        "value": 833.6,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 2,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.871,
+        "value": 192.66,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 20,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.441,
+        "value": 1985.0,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 18,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.214,
+        "value": 396.0,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Poland"
+      }
+    ],
+    "sender_name": "Amy Gonzalez",
+    "sender_company": "Torres Pacific Ltd",
+    "sender_address": "620 Dickerson Square, Jasonburgh, AS 56991, Malaysia",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 16.33,
+    "tracking_number": "CN141067390MA"
+  }
+}

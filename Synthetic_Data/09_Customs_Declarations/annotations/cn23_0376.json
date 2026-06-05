@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0376",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Eric Cooper",
+    "addressee_company": "Global Vazquez B.V.",
+    "addressee_address": "924 Turner Plaza, Lake Courtney, GU 09792, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 18.01,
+    "total_value": 6150.99,
+    "currency": "GBP",
+    "issue_date": "2025-06-15",
+    "reference": "REF-262048",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.838,
+        "value": 1558.24,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 5,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.328,
+        "value": 182.95,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 20,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.484,
+        "value": 2622.8,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 15,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.87,
+        "value": 1556.85,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 1,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.714,
+        "value": 85.17,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 11,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.776,
+        "value": 144.98,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Justin Hernandez",
+    "sender_company": "Tech Osborn B.V.",
+    "sender_address": "94471 Schmidt Light, Lake Emilyfurt, UT 21976, Hong Kong",
+    "sender_phone": "001-336-704-1269x1126",
+    "sender_email": "kbrooks@example.com",
+    "addressee_phone": "7042821899",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 38.38,
+    "tracking_number": "LU829680908LW"
+  }
+}

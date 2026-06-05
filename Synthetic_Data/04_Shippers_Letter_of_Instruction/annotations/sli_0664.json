@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0664",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202107-3697",
+    "usppi_name": "Commerce Logan Ltd",
+    "usppi_address": "498 Taylor Drives Suite 877, South Davidside, FL 53536, Poland",
+    "usppi_country": "Poland",
+    "ein": "66-3434293",
+    "consignee_name": "Hughes Industry S.A.",
+    "consignee_address": "89639 Jimenez Vista, New Lawrence, WV 92735, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Orozco Tech Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Paul Allen",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/2",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 57,
+        "unit": "PCS",
+        "weight_kg": 52.0,
+        "value_usd": 54507.77
+      },
+      {
+        "marks": "EXP/33",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 132,
+        "unit": "MTR",
+        "weight_kg": 92.31,
+        "value_usd": 735.61
+      },
+      {
+        "marks": "ABC/13",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 57,
+        "unit": "BOX",
+        "weight_kg": 21.54,
+        "value_usd": 962.59
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 85,
+        "unit": "LTR",
+        "weight_kg": 88.86,
+        "value_usd": 1518.09
+      }
+    ],
+    "total_weight_kg": 254.71,
+    "total_value_usd": 57724.06,
+    "service": "Air Freight",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 41752.01,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-127889",
+    "destination_country": "Malaysia"
+  }
+}

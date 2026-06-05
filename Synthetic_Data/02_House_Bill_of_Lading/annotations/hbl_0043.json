@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0043",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV910399566",
+    "shipper_name": "Benjamin International Corp.",
+    "shipper_address": "88544 Joseph Plaza, Port Jamie, ND 97834, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Evans Pacific S.A.",
+    "consignee_address": "288 John Pines Apt. 295, Fullerchester, MA 89752, India",
+    "consignee_country": "India",
+    "notify_party_name": "Mckay Tech Co.",
+    "notify_party_address": "27527 Miller Court Suite 649, New Lorishire, NJ 39184, Japan",
+    "vessel": "EVER GOLDEN",
+    "voyage": "653N",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Dubai, AE",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2025-10-01",
+    "issue_place": "Los Angeles",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "ZXWZ2024981",
+        "seal_no": "CL660143",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "WRZB2715117",
+        "seal_no": "CL288157",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "EYZQ0894837",
+        "seal_no": "SL915563",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "MYEA8531018",
+        "seal_no": "CL502913",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 266,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 10374.0,
+    "net_weight_kg": 9976.7,
+    "cbm": 14.675,
+    "marks_and_numbers": "GLB/9"
+  }
+}

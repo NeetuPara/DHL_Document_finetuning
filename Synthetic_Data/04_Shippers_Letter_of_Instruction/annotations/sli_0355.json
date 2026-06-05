@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0355",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202311-9598",
+    "usppi_name": "Montoya Tech B.V.",
+    "usppi_address": "58338 Jonathan River Apt. 424, Josephside, CO 43261, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "45-2462060",
+    "consignee_name": "Trade Garza GmbH",
+    "consignee_address": "3356 Johnson Common, South Beth, MI 62141, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Wilson Tech GmbH",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "Christina Garcia",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/34",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 18,
+        "unit": "PKG",
+        "weight_kg": 21.24,
+        "value_usd": 161.8
+      },
+      {
+        "marks": "ABC/50",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 173,
+        "unit": "MTR",
+        "weight_kg": 167.53,
+        "value_usd": 578.69
+      },
+      {
+        "marks": "SLI/12",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 54,
+        "unit": "PCS",
+        "weight_kg": 18.38,
+        "value_usd": 1220.69
+      }
+    ],
+    "total_weight_kg": 207.15,
+    "total_value_usd": 1961.18,
+    "service": "Ocean Freight",
+    "named_port": "Qingdao, CN",
+    "insurance_value_usd": 29771.7,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-358572",
+    "destination_country": "United Kingdom"
+  }
+}

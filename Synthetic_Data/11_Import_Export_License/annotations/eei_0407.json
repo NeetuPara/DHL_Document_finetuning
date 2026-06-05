@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0407",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250812363564",
+    "export_date": "2025-10-08",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Johnson Industry B.V.",
+    "usppi_ein": "29-5188976",
+    "usppi_address": "Unit 4661 Box 5045, DPO AA 51995, Poland",
+    "ultimate_consignee": "Industry Novak Corp.",
+    "intermediate_consignee": "Global Harvey AG",
+    "forwarding_agent": "Coleman Global B.V.",
+    "destination_country": "Canada",
+    "carrier": "Maersk",
+    "bl_awb": "006-96729053",
+    "total_value": 432842.51,
+    "currency": "JPY",
+    "signatory": "Christopher Ashley",
+    "line_items": [
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "France",
+        "qty": 339,
+        "unit": "PKG",
+        "entered_value": 55962.12,
+        "duty_rate": 18.2,
+        "duty_amount": 10185.11,
+        "eccn": "5E992",
+        "schedule_b": "4016.93.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Thailand",
+        "qty": 133,
+        "unit": "KGS",
+        "entered_value": 61954.06,
+        "duty_rate": 23.8,
+        "duty_amount": 14745.07,
+        "eccn": "EAR99",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "United States",
+        "qty": 489,
+        "unit": "BOX",
+        "entered_value": 100455.27,
+        "duty_rate": 6.1,
+        "duty_amount": 6127.77,
+        "eccn": "0A919",
+        "schedule_b": "2936.90.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Mexico",
+        "qty": 494,
+        "unit": "SET",
+        "entered_value": 133226.86,
+        "duty_rate": 9.4,
+        "duty_amount": 12523.32,
+        "eccn": "7A994",
+        "schedule_b": "8708.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Canada",
+        "qty": 172,
+        "unit": "PCS",
+        "entered_value": 81244.2,
+        "duty_rate": 16.6,
+        "duty_amount": 13486.54,
+        "eccn": "0A919",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

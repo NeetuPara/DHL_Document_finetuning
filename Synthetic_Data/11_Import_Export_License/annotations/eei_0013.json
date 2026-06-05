@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0013",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "492-07467775-4",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2025-06-25",
+    "port_of_entry": "JFK - New York",
+    "transport_mode": "Rail",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "006-88297093",
+    "importer_name": "Green Commerce LLC",
+    "importer_ein": "79-5404920",
+    "consignee_name": "Pacific Livingston B.V.",
+    "customs_broker": "Tech Wong GmbH",
+    "broker_filer_code": "llD",
+    "country_of_origin": "United States",
+    "total_value": 457156.13,
+    "total_duty": 61570.3,
+    "currency": "CNY",
+    "signatory": "Alexandra Stevenson",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "South Korea",
+        "qty": 63,
+        "unit": "CTN",
+        "entered_value": 8424.99,
+        "duty_rate": 2.2,
+        "duty_amount": 185.35,
+        "eccn": "5E992",
+        "schedule_b": "9018.31.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "India",
+        "qty": 390,
+        "unit": "PCS",
+        "entered_value": 149327.1,
+        "duty_rate": 14.8,
+        "duty_amount": 22100.41,
+        "eccn": "9A515",
+        "schedule_b": "8534.00.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Belgium",
+        "qty": 409,
+        "unit": "PCS",
+        "entered_value": 184017.28,
+        "duty_rate": 14.2,
+        "duty_amount": 26130.45,
+        "eccn": "EAR99",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Mexico",
+        "qty": 439,
+        "unit": "PCS",
+        "entered_value": 115386.76,
+        "duty_rate": 11.4,
+        "duty_amount": 13154.09,
+        "eccn": "2B350",
+        "schedule_b": "9002.11.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

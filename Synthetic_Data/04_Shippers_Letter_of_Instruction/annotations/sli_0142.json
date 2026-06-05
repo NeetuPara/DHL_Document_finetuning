@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0142",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202107-5931",
+    "usppi_name": "Tech Lee B.V.",
+    "usppi_address": "569 Kevin Court, Lake Joseph, NM 78696, India",
+    "usppi_country": "India",
+    "ein": "19-5420886",
+    "consignee_name": "Stanley Global S.A.",
+    "consignee_address": "863 Miller Unions Apt. 621, East Henry, MO 59924, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Global Espinoza Inc.",
+    "forwarder": "Expeditors",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Mark Chung",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/22",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 106,
+        "unit": "KGS",
+        "weight_kg": 106.0,
+        "value_usd": 259.64
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 123,
+        "unit": "PCS",
+        "weight_kg": 7.86,
+        "value_usd": 7873.05
+      },
+      {
+        "marks": "SLI/3",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 140,
+        "unit": "KGS",
+        "weight_kg": 140.0,
+        "value_usd": 2168.67
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 56,
+        "unit": "PCS",
+        "weight_kg": 41.84,
+        "value_usd": 1523.56
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 161,
+        "unit": "PCS",
+        "weight_kg": 2975.11,
+        "value_usd": 27481.91
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 87,
+        "unit": "MTR",
+        "weight_kg": 94.52,
+        "value_usd": 293.69
+      },
+      {
+        "marks": "ABC/9",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 185,
+        "unit": "PKG",
+        "weight_kg": 242.64,
+        "value_usd": 15271.66
+      },
+      {
+        "marks": "ABC/37",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 133,
+        "unit": "CTN",
+        "weight_kg": 338.14,
+        "value_usd": 7087.35
+      }
+    ],
+    "total_weight_kg": 3946.11,
+    "total_value_usd": 61959.53,
+    "service": "Express Courier",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 10405.18,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-881909",
+    "destination_country": "Australia"
+  }
+}

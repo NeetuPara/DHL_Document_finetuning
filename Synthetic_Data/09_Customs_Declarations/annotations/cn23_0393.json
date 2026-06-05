@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0393",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kathleen Thompson",
+    "addressee_company": "Global Johnson LLC",
+    "addressee_address": "068 Edwards Union, Justinstad, IL 25163, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 6.407,
+    "total_value": 611.08,
+    "currency": "CAD",
+    "issue_date": "2026-04-17",
+    "reference": "REF-644864",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.883,
+        "value": 46.2,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 13,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.07,
+        "value": 323.05,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 3,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.454,
+        "value": 241.83,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Canada"
+      }
+    ],
+    "sender_country": "Spain",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "564-24400589-1",
+    "entry_type": "Informal Entry",
+    "duty_rate": 13.0,
+    "estimated_duty": 79.44,
+    "importer_ein": "36-2871553",
+    "customs_broker": "Smith International Pte Ltd"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0725",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202305-8510",
+    "usppi_name": "Trade Stuart Corp.",
+    "usppi_address": "PSC 7716, Box 6452, APO AP 63131, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "74-7936433",
+    "consignee_name": "Commerce Williamson Inc.",
+    "consignee_address": "51024 Hart Islands Suite 638, West Danielborough, GA 41462, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Pacific Odom Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Sergio Moore",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/29",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 67,
+        "unit": "PCS",
+        "weight_kg": 1150.69,
+        "value_usd": 28801.39
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 128,
+        "unit": "PCS",
+        "weight_kg": 1320.65,
+        "value_usd": 76202.33
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 23,
+        "unit": "BOX",
+        "weight_kg": 32.52,
+        "value_usd": 1577.18
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 27,
+        "unit": "PCS",
+        "weight_kg": 3.57,
+        "value_usd": 589.17
+      }
+    ],
+    "total_weight_kg": 2507.43,
+    "total_value_usd": 107170.07,
+    "service": "Ground",
+    "named_port": "Tokyo Narita",
+    "insurance_value_usd": 20844.53,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-893278",
+    "destination_country": "Germany"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "document_id": "vgm_0647",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Commerce White Ltd",
+    "shipper_address": "10906 Austin Gardens Suite 583, Wigginstown, LA 67391, Switzerland",
+    "shipper_country": "Switzerland",
+    "container_number": "RFYE1751837",
+    "seal_number": "SL277954",
+    "container_size": "40'RF",
+    "iso_type_code": "42R1",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 12332.7,
+    "packing_materials_kg": 168.1,
+    "vgm_kg": 17300.8,
+    "vessel": "EVER GOLDEN",
+    "voyage": "765S",
+    "bl_number": "EGLV370577138",
+    "booking_reference": "BKG-660592",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-16891",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-24",
+    "signature_date": "2026-05-11",
+    "signatory_name": "Theresa Juarez",
+    "signatory_title": "Operations Director",
+    "number_of_packages": 4,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Bag",
+        "n_units": 9,
+        "gross_wt_kg": 2116.1
+      },
+      {
+        "item_no": 2,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Case",
+        "n_units": 14,
+        "gross_wt_kg": 158.0
+      },
+      {
+        "item_no": 3,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Roll",
+        "n_units": 1,
+        "gross_wt_kg": 7012.5
+      },
+      {
+        "item_no": 4,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Cylinder",
+        "n_units": 16,
+        "gross_wt_kg": 3046.1
+      }
+    ]
+  }
+}

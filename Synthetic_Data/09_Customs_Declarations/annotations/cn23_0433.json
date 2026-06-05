@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0433",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Allison Thompson",
+    "addressee_company": "Clarke Global Co.",
+    "addressee_address": "3011 Kayla Square Apt. 652, Port Timothy, NM 01999, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 9.401,
+    "total_value": 2987.62,
+    "currency": "GBP",
+    "issue_date": "2026-03-26",
+    "reference": "REF-697632",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.876,
+        "value": 299.31,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 10,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.058,
+        "value": 499.7,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 10,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.206,
+        "value": 1249.1,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 11,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.261,
+        "value": 939.51,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Poland"
+      }
+    ],
+    "sender_name": "Spencer Phillips",
+    "sender_company": "Hammond Pacific Co.",
+    "sender_address": "19361 Tracey Passage Apt. 393, New Matthew, TN 84308, Switzerland",
+    "sender_phone": "8345924726",
+    "sender_email": "perezdawn@example.org",
+    "addressee_phone": "4344842238",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 52.28,
+    "tracking_number": "DU594201449UK"
+  }
+}

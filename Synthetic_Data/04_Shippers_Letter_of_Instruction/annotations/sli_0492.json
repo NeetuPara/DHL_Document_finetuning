@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0492",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202312-2160",
+    "usppi_name": "Pacific Sanford GmbH",
+    "usppi_address": "Unit 7738 Box 7969, DPO AA 50932, United States",
+    "usppi_country": "United States",
+    "ein": "70-1959115",
+    "consignee_name": "Commerce Davis Co.",
+    "consignee_address": "400 Becky Brook, Littlemouth, NC 03257, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Dean Commerce LLC",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Billy West",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/39",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 35,
+        "unit": "PCS",
+        "weight_kg": 231.91,
+        "value_usd": 15916.32
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 146,
+        "unit": "PCS",
+        "weight_kg": 121.05,
+        "value_usd": 3037.98
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 89,
+        "unit": "PKG",
+        "weight_kg": 142.92,
+        "value_usd": 4678.98
+      }
+    ],
+    "total_weight_kg": 495.88,
+    "total_value_usd": 23633.28,
+    "vessel": "EVER GOLDEN",
+    "voyage": "104E",
+    "booking_ref": "BKG-990407",
+    "bl_number": "YMLU607564648",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Antwerp, BE",
+    "container_number": "QVRN9158453",
+    "seal_number": "BL991355",
+    "container_type": "20'GP",
+    "cbm": 6.212
+  }
+}

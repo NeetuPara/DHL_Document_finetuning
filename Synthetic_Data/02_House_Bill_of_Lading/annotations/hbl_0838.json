@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0838",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU607069486",
+    "shipper_name": "Anderson Pacific B.V.",
+    "shipper_address": "593 Brown Haven Suite 614, Kathleenmouth, KY 53044, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Rasmussen Tech Pte Ltd",
+    "consignee_address": "935 Sanchez Ridge Apt. 790, Christopherland, TX 36094, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "Johnson Trade B.V.",
+    "notify_party_address": "434 Allison Island Apt. 580, East Kennethbury, MH 60826, France",
+    "vessel": "EVER GOLDEN",
+    "voyage": "926S",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Hong Kong, HK",
+    "issue_date": "2025-06-25",
+    "issue_place": "Long Beach",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "AVJC2603260",
+        "seal_no": "SL698672",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "AKAX2980015",
+        "seal_no": "CL696245",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "TBBM6775575",
+        "seal_no": "BL943064",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "MBVO8694020",
+        "seal_no": "BL253318",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 170,
+    "package_type": "Case",
+    "gross_weight_kg": 19747.0,
+    "net_weight_kg": 18731.2,
+    "cbm": 11.54,
+    "marks_and_numbers": "XYZ/22"
+  }
+}

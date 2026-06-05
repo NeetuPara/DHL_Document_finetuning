@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0322",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU633892320",
+    "shipper_name": "Commerce Wilkins B.V.",
+    "shipper_address": "74883 Ellis Spurs Suite 302, North Mary, RI 26380, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Ramirez Commerce Corp.",
+    "consignee_address": "975 Carroll Locks Suite 287, Michealshire, IL 99433, India",
+    "consignee_country": "India",
+    "notify_party_name": "Jacobs Tech LLC",
+    "notify_party_address": "Unit 3373 Box 5680, DPO AA 49790, Hong Kong",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "628N",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2024-12-23",
+    "issue_place": "Shanghai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "AIXN3017049",
+        "seal_no": "CL275416",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "SHWI0215483",
+        "seal_no": "SL651975",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "BPUL0708776",
+        "seal_no": "SL135944",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "HKKI5366487",
+        "seal_no": "CL763992",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "number_of_packages": 211,
+    "package_type": "Case",
+    "gross_weight_kg": 14680.1,
+    "net_weight_kg": 13367.9,
+    "cbm": 8.015,
+    "marks_and_numbers": "GLB/30"
+  }
+}

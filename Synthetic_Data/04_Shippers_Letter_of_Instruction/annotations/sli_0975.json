@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0975",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202402-1800",
+    "usppi_name": "Fernandez Tech Corp.",
+    "usppi_address": "0378 Jennifer Path, Kaylamouth, AR 56793, China",
+    "usppi_country": "China",
+    "ein": "74-9197750",
+    "consignee_name": "Jones Commerce Inc.",
+    "consignee_address": "1998 Jeremy Parkways Apt. 947, New Alexisshire, VI 83311, United States",
+    "consignee_country": "United States",
+    "notify_party": "Flowers Pacific S.A.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Kathleen Boone",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/13",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 86,
+        "unit": "PKG",
+        "weight_kg": 114.25,
+        "value_usd": 7087.48
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 189,
+        "unit": "PCS",
+        "weight_kg": 2371.28,
+        "value_usd": 47753.86
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 170,
+        "unit": "PCS",
+        "weight_kg": 31.02,
+        "value_usd": 24147.92
+      },
+      {
+        "marks": "ABC/20",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 145,
+        "unit": "MTR",
+        "weight_kg": 159.87,
+        "value_usd": 673.69
+      }
+    ],
+    "total_weight_kg": 2676.42,
+    "total_value_usd": 79662.95,
+    "vessel": "EVER GOLDEN",
+    "voyage": "821E",
+    "booking_ref": "BKG-827704",
+    "bl_number": "OOLU927119217",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Long Beach, US",
+    "container_number": "AEQB8887848",
+    "seal_number": "SL320629",
+    "container_type": "40'GP",
+    "cbm": 35.341
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0169",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Paul Inc.",
+    "shipper_address": "4487 Lee Plain, Port Alexandra, MT 83212, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Pacific Espinoza Inc.",
+    "consignee_address": "5401 Gray Expressway, Markfurt, NY 02887, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+26 217-452-9656",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 31,
+        "pkg_type": "Steel Drum",
+        "net_qty": 71.53,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-631829",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Kathleen Garcia",
+    "signature_date": "2026-05-04",
+    "signature_place": "Sweden",
+    "awb_number": "074-22985150",
+    "flight_number": "CX6175",
+    "flight_date": "2026-05-24",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol"
+  }
+}

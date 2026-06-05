@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0342",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-20685070",
+    "mawb_number": "085-39454308",
+    "shipper_name": "Johnson Global B.V.",
+    "shipper_address": "PSC 7891, Box 9766, APO AA 38218, Australia",
+    "consignee_name": "Global Smith LLC",
+    "consignee_address": "238 Kevin Union Suite 925, Williambury, KS 58928, China",
+    "agent_name": "Barnes Commerce AG",
+    "airport_departure": "SIN",
+    "airport_destination": "PVG",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "AED 43,419.05",
+    "declared_value_customs": "NCV",
+    "n_pieces": 8,
+    "gross_weight_kg": 352.1,
+    "chargeable_weight": 410.0,
+    "rate": 8.55,
+    "total_charge": 3505.5,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-08-25",
+    "signatory": "Omar Schmidt",
+    "iata_code": "19-382",
+    "agent_cass": "8823-4593",
+    "consolidation_ref": "CONS-2157-338643",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-56613370",
+        "pieces": 11,
+        "weight": 48.8,
+        "destination": "NRT",
+        "consignee": "Commerce Boyd LLC",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "160-34291597",
+        "pieces": 1,
+        "weight": 59.5,
+        "destination": "CDG",
+        "consignee": "Gay Industry GmbH",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "160-20140552",
+        "pieces": 9,
+        "weight": 94.4,
+        "destination": "DXB",
+        "consignee": "Harris Tech Corp.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "020-26723470",
+        "pieces": 6,
+        "weight": 28.0,
+        "destination": "SYD",
+        "consignee": "Trade Brown GmbH",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "045-67291071",
+        "pieces": 20,
+        "weight": 74.2,
+        "destination": "DXB",
+        "consignee": "Marsh International Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "160-28910880",
+        "pieces": 13,
+        "weight": 45.5,
+        "destination": "SIN",
+        "consignee": "Global Kelly B.V.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "085-52450392",
+        "pieces": 10,
+        "weight": 68.2,
+        "destination": "AMS",
+        "consignee": "Tech Anderson B.V.",
+        "description": "Optical Equipment - Camera Lenses"
+      }
+    ]
+  }
+}

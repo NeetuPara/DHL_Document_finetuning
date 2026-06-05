@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0019",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202112-4453",
+    "usppi_name": "International Mcdonald B.V.",
+    "usppi_address": "86799 Alexandra Points, East Suzanne, AZ 60435, Japan",
+    "usppi_country": "Japan",
+    "ein": "75-5047669",
+    "consignee_name": "Commerce Rhodes Pte Ltd",
+    "consignee_address": "4670 Neil Drive, South Jenniferbury, TX 81317, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Hill Commerce AG",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Kathy Finley",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/18",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 60,
+        "unit": "PCS",
+        "weight_kg": 78.95,
+        "value_usd": 377.85
+      },
+      {
+        "marks": "ABC/19",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 52,
+        "unit": "CTN",
+        "weight_kg": 76.05,
+        "value_usd": 3507.26
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 147,
+        "unit": "PCS",
+        "weight_kg": 2391.1,
+        "value_usd": 22421.86
+      },
+      {
+        "marks": "ABC/26",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 171,
+        "unit": "PCS",
+        "weight_kg": 18.06,
+        "value_usd": 7442.11
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 125,
+        "unit": "PCS",
+        "weight_kg": 48.88,
+        "value_usd": 145506.4
+      },
+      {
+        "marks": "EXP/23",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 145,
+        "unit": "PCS",
+        "weight_kg": 415.57,
+        "value_usd": 44393.78
+      }
+    ],
+    "total_weight_kg": 3028.61,
+    "total_value_usd": 223649.26,
+    "service": "Express Courier",
+    "named_port": "Paris CDG",
+    "insurance_value_usd": 10868.15,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-662024",
+    "destination_country": "Brazil"
+  }
+}

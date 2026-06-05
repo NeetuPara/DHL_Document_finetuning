@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0726",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-12443731",
+    "mawb_number": "057-11920674",
+    "shipper_name": "Brady Tech GmbH",
+    "shipper_address": "066 Stacy Village, Janettown, WA 12779, Australia",
+    "consignee_name": "Luna Tech LLC",
+    "consignee_address": "0823 Wright Underpass Apt. 648, East Chad, DC 94576, Sweden",
+    "agent_name": "Peterson Tech AG",
+    "airport_departure": "ORD",
+    "airport_destination": "FRA",
+    "currency": "CNY",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "JPY 32,580.15",
+    "n_pieces": 23,
+    "gross_weight_kg": 428.3,
+    "chargeable_weight": 461.0,
+    "rate": 5.2,
+    "total_charge": 2397.2,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "TEMP CONTROLLED: 8\u00b0C - 22\u00b0C",
+    "issue_date": "2025-08-04",
+    "signatory": "Tonya Price",
+    "iata_code": "42-800",
+    "agent_cass": "8468-4455",
+    "consolidation_ref": "CONS-0191-933824",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-25328414",
+        "pieces": 11,
+        "weight": 82.5,
+        "destination": "NRT",
+        "consignee": "Mendez Tech Inc.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "006-60091288",
+        "pieces": 18,
+        "weight": 17.7,
+        "destination": "SYD",
+        "consignee": "Tech Hurst Corp.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "618-40240965",
+        "pieces": 20,
+        "weight": 21.3,
+        "destination": "LAX",
+        "consignee": "Perry Trade LLC",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "045-50494575",
+        "pieces": 17,
+        "weight": 70.9,
+        "destination": "AMS",
+        "consignee": "Carter International AG",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "160-27678113",
+        "pieces": 12,
+        "weight": 68.6,
+        "destination": "SIN",
+        "consignee": "Industry Lee AG",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "160-83363281",
+        "pieces": 16,
+        "weight": 2.3,
+        "destination": "LHR",
+        "consignee": "Taylor Commerce AG",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

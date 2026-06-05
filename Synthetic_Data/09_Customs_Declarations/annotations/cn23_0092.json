@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0092",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Amy Harvey",
+    "addressee_company": "Pacific Woodard LLC",
+    "addressee_address": "862 Kelly Station Suite 822, Donnaberg, WY 52877, Malaysia",
+    "addressee_country": "Malaysia",
+    "total_weight_kg": 9.725,
+    "total_value": 6074.41,
+    "currency": "GBP",
+    "issue_date": "2025-05-21",
+    "reference": "REF-741127",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.785,
+        "value": 1678.88,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 1,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.339,
+        "value": 118.64,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 14,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.082,
+        "value": 1472.52,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 2,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 1.721,
+        "value": 12.7,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 19,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.798,
+        "value": 2791.67,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_name": "Ms. Audrey Johnson",
+    "sender_company": "Tech Forbes B.V.",
+    "sender_address": "0279 Audrey Parkway, West Latashachester, MA 14217, Belgium",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 39.02,
+    "tracking_number": "CS651428993GP"
+  }
+}

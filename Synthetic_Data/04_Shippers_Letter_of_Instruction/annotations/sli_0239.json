@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0239",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202509-6181",
+    "usppi_name": "Lopez Tech LLC",
+    "usppi_address": "9111 Snyder Forges Apt. 645, Kevinburgh, PW 09075, India",
+    "usppi_country": "India",
+    "ein": "86-9499903",
+    "consignee_name": "Villarreal Trade B.V.",
+    "consignee_address": "83479 Collins Square Apt. 801, Brianborough, GU 64933, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Industry Lara Pte Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "EAR99",
+    "signatory_name": "Michael Gonzalez",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/8",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 104,
+        "unit": "MTR",
+        "weight_kg": 68.44,
+        "value_usd": 1314.41
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 170,
+        "unit": "LTR",
+        "weight_kg": 181.05,
+        "value_usd": 2928.2
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 151,
+        "unit": "BOX",
+        "weight_kg": 90.81,
+        "value_usd": 17148.79
+      }
+    ],
+    "total_weight_kg": 340.3,
+    "total_value_usd": 21391.4,
+    "service": "Ocean Freight",
+    "named_port": "Busan, KR",
+    "insurance_value_usd": 18455.85,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-318521",
+    "destination_country": "Canada"
+  }
+}

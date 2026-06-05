@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0654",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Robert Johnson",
+    "addressee_company": "Fisher Industry Ltd",
+    "addressee_address": "614 Darren Row Suite 578, South Pamela, UT 12296, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 2.382,
+    "total_value": 4111.95,
+    "currency": "EUR",
+    "issue_date": "2025-11-13",
+    "reference": "REF-356365",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 0.646,
+        "value": 1238.49,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 11,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.989,
+        "value": 1581.36,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 10,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 0.747,
+        "value": 1292.1,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_country": "Sweden",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "360-51052388-4",
+    "entry_type": "Formal Entry",
+    "duty_rate": 15.5,
+    "estimated_duty": 637.35,
+    "importer_ein": "63-2071115",
+    "customs_broker": "Industry Sanchez GmbH"
+  }
+}

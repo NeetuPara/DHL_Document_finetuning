@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0131",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU282470907",
+    "shipper_name": "Moreno Pacific Corp.",
+    "shipper_address": "244 Ruiz Club, Smithport, IL 11753, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Industry Diaz Co.",
+    "consignee_address": "56083 Bradley Avenue Apt. 298, North Michellehaven, DE 30429, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party_name": "International Hensley Ltd",
+    "notify_party_address": "102 Anthony Canyon Suite 745, Phillipborough, IA 89744, Brazil",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "769N",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2025-02-23",
+    "issue_place": "New York",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "AXXH0732785",
+        "seal_no": "SL641580",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "DAOB6972550",
+        "seal_no": "SL893076",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "TWPC7112501",
+        "seal_no": "CL166220",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "SKNE8515636",
+        "seal_no": "BL311726",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "number_of_packages": 459,
+    "package_type": "Drum",
+    "gross_weight_kg": 4882.8,
+    "net_weight_kg": 4493.9,
+    "cbm": 37.204,
+    "marks_and_numbers": "GLB/15"
+  }
+}

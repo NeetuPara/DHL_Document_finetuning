@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0550",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU671949804",
+    "shipper_name": "Commerce Reed Ltd",
+    "shipper_address": "6671 Young View, Port Melanie, FL 45829, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Commerce West AG",
+    "consignee_address": "52980 Bennett Cliff, Ericchester, AZ 09772, China",
+    "consignee_country": "China",
+    "notify_party_name": "Brown Trade Ltd",
+    "notify_party_address": "72072 Katrina Motorway Suite 069, Markhaven, VI 99741, United States",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "301S",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Dubai, AE",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2025-12-01",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "PQGW7228007",
+        "seal_no": "SL280106",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "KARR7581684",
+        "seal_no": "BL299508",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "CTBS9008332",
+        "seal_no": "BL434179",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "number_of_packages": 123,
+    "package_type": "Drum",
+    "gross_weight_kg": 11650.5,
+    "net_weight_kg": 10759.9,
+    "cbm": 4.22,
+    "marks_and_numbers": "GLB/39"
+  }
+}

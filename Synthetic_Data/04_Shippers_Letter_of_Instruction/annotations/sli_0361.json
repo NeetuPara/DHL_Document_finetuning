@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0361",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202108-5108",
+    "usppi_name": "Stone International B.V.",
+    "usppi_address": "9633 Laura Passage, Kevinstad, MH 91395, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "28-3463838",
+    "consignee_name": "Global Anderson AG",
+    "consignee_address": "9731 Bridget Passage Suite 364, Wilsonborough, GU 44237, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Tech Mercer Pte Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Gary Smith",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/28",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 8,
+        "unit": "MTR",
+        "weight_kg": 6.98,
+        "value_usd": 124.13
+      },
+      {
+        "marks": "ABC/43",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 77,
+        "unit": "PCS",
+        "weight_kg": 58.71,
+        "value_usd": 20819.49
+      }
+    ],
+    "total_weight_kg": 65.69,
+    "total_value_usd": 20943.62,
+    "service": "Air Freight",
+    "named_port": "Toronto Pearson",
+    "insurance_value_usd": 46893.08,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-928891",
+    "destination_country": "Mexico"
+  }
+}

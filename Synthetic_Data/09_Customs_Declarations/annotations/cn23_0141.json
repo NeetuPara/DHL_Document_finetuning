@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0141",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Heather Rogers",
+    "addressee_company": "Tech Martinez GmbH",
+    "addressee_address": "901 Smith Walks, Davisbury, GA 47159, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 7.08,
+    "total_value": 1345.13,
+    "currency": "CHF",
+    "issue_date": "2025-10-28",
+    "reference": "REF-360836",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.351,
+        "value": 348.32,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 8,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.19,
+        "value": 351.76,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 5,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.539,
+        "value": 645.05,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_country": "Hong Kong",
+    "port_of_entry": "New York, NY",
+    "entry_number": "877-91027461-4",
+    "entry_type": "Formal Entry",
+    "duty_rate": 13.9,
+    "estimated_duty": 186.97,
+    "importer_ein": "93-8585927",
+    "customs_broker": "Miller Global GmbH"
+  }
+}

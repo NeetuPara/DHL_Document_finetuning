@@ -1,0 +1,61 @@
+{
+  "document_id": "vgm_0749",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Robinson Tech Pte Ltd",
+    "shipper_address": "063 Christina Rue, South Nicholastown, WA 06009, United States",
+    "shipper_country": "United States",
+    "container_number": "NNAZ9667862",
+    "seal_number": "BL816089",
+    "container_size": "20'RF",
+    "iso_type_code": "22R1",
+    "tare_weight_kg": 3100,
+    "cargo_weight_kg": 14303.6,
+    "packing_materials_kg": 120.6,
+    "vgm_kg": 17524.2,
+    "vessel": "CSCL GLOBE",
+    "voyage": "872S",
+    "bl_number": "DHLG615341360",
+    "booking_reference": "BKG-656241",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-89465",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-15",
+    "signature_date": "2026-05-09",
+    "signatory_name": "Timothy Page",
+    "signatory_title": "Export Manager",
+    "number_of_packages": 4,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Drum",
+        "n_units": 15,
+        "gross_wt_kg": 320.9
+      },
+      {
+        "item_no": 2,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Cylinder",
+        "n_units": 4,
+        "gross_wt_kg": 5989.0
+      },
+      {
+        "item_no": 3,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Crate",
+        "n_units": 10,
+        "gross_wt_kg": 2138.7
+      },
+      {
+        "item_no": 4,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Drum",
+        "n_units": 6,
+        "gross_wt_kg": 5855.0
+      }
+    ]
+  }
+}

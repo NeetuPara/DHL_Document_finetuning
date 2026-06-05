@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0248",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Leslie Smith",
+    "addressee_company": "Blair Commerce LLC",
+    "addressee_address": "20535 David Extensions Apt. 810, Pollardport, UT 56802, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 2.667,
+    "total_value": 687.36,
+    "currency": "USD",
+    "issue_date": "2025-06-08",
+    "reference": "REF-349217",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.667,
+        "value": 687.36,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_name": "Zachary Hull",
+    "sender_company": "International Allen Ltd",
+    "sender_address": "8139 Savage Loaf, Port Patricialand, NC 12681, Malaysia",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 35.38,
+    "tracking_number": "ZG978339815ID"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0237",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Wiley GmbH",
+    "shipper_address": "09201 Frank Trace, North Barbara, FL 32110, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Watson Industry Ltd",
+    "consignee_address": "129 Frederick Forks Suite 067, Nicholasland, RI 69823, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+20 937-562-6219",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 27,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 89.2,
+        "qty_unit": "L",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 23,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 12.7,
+        "qty_unit": "g",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-474775",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Donna Bradley",
+    "signature_date": "2026-04-14",
+    "signature_place": "Spain",
+    "awb_number": "176-28629091",
+    "flight_number": "SQ2196",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International",
+    "non_dg_reason": "Excepted quantities (EQ) per IATA DGR 2.6"
+  }
+}

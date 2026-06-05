@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0624",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202312-9014",
+    "usppi_name": "James Commerce B.V.",
+    "usppi_address": "24327 Anthony Squares Suite 611, Thomasside, MS 79448, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "22-4038767",
+    "consignee_name": "International Wallace S.A.",
+    "consignee_address": "10965 Peter Fords Apt. 514, Hannahmouth, NM 29268, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Tech Watkins LLC",
+    "forwarder": "DB Schenker",
+    "incoterm": "FOB",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Leslie Bush",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/31",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 152,
+        "unit": "BOX",
+        "weight_kg": 217.05,
+        "value_usd": 15166.62
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 200,
+        "unit": "PCS",
+        "weight_kg": 17.6,
+        "value_usd": 13362.17
+      },
+      {
+        "marks": "EXP/14",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 36,
+        "unit": "KGS",
+        "weight_kg": 36.0,
+        "value_usd": 477.22
+      }
+    ],
+    "total_weight_kg": 270.65,
+    "total_value_usd": 29006.01,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "727N",
+    "booking_ref": "BKG-633011",
+    "bl_number": "COSU992287432",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Singapore, SG",
+    "container_number": "BECA6264657",
+    "seal_number": "SL890844",
+    "container_type": "40'HC",
+    "cbm": 8.987
+  }
+}

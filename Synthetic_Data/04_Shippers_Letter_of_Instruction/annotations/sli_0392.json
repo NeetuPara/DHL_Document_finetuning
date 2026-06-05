@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0392",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202409-5073",
+    "usppi_name": "Trade Curtis Pte Ltd",
+    "usppi_address": "72810 Ryan Lane, Torreshaven, PW 55872, Spain",
+    "usppi_country": "Spain",
+    "ein": "19-8906811",
+    "consignee_name": "Johnson International Inc.",
+    "consignee_address": "78812 Pope Road Apt. 331, Angelchester, NH 64794, China",
+    "consignee_country": "China",
+    "notify_party": "Trade Ramos Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "CIP",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Rebecca Davis",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/16",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 82,
+        "unit": "BOX",
+        "weight_kg": 106.77,
+        "value_usd": 5742.77
+      },
+      {
+        "marks": "ABC/41",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 121,
+        "unit": "KGS",
+        "weight_kg": 121.0,
+        "value_usd": 237.38
+      },
+      {
+        "marks": "EXP/40",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 73,
+        "unit": "LTR",
+        "weight_kg": 77.75,
+        "value_usd": 2356.4
+      },
+      {
+        "marks": "EXP/36",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 18,
+        "unit": "PCS",
+        "weight_kg": 16.41,
+        "value_usd": 112.52
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 75,
+        "unit": "SET",
+        "weight_kg": 285.42,
+        "value_usd": 12956.92
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 129,
+        "unit": "CTN",
+        "weight_kg": 196.09,
+        "value_usd": 864.3
+      },
+      {
+        "marks": "EXP/27",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 156,
+        "unit": "PCS",
+        "weight_kg": 3169.69,
+        "value_usd": 33758.33
+      }
+    ],
+    "total_weight_kg": 3973.13,
+    "total_value_usd": 56028.62,
+    "service": "Ground",
+    "named_port": "Toronto Pearson",
+    "insurance_value_usd": 5843.52,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "China"
+  }
+}

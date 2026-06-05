@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0422",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Tiffany Jackson",
+    "addressee_company": "Drake Global LLC",
+    "addressee_address": "65264 Bright Glens, North Jacob, WA 91216, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 6.893,
+    "total_value": 1747.76,
+    "currency": "JPY",
+    "issue_date": "2026-02-10",
+    "reference": "REF-742071",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.005,
+        "value": 820.4,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 7,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.888,
+        "value": 927.36,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_name": "Ryan Olson Jr.",
+    "sender_company": "Anderson Trade AG",
+    "sender_address": "USS Lewis, FPO AE 92108, France",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 56.8,
+    "tracking_number": "VL057007709GQ"
+  }
+}

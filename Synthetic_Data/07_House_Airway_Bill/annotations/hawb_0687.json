@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0687",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-85562565",
+    "mawb_number": "085-59781884",
+    "shipper_name": "Trade Lyons Inc.",
+    "shipper_address": "6274 Jennifer Groves, New Robert, PR 49981, Malaysia",
+    "consignee_name": "Global Bowman Ltd",
+    "consignee_address": "15495 Jarvis Station, Lake Summer, SC 78783, China",
+    "agent_name": "Frye Tech Inc.",
+    "airport_departure": "LHR",
+    "airport_destination": "ICN",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 23,
+    "gross_weight_kg": 171.7,
+    "chargeable_weight": 209.1,
+    "rate": 10.45,
+    "total_charge": 2185.09,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "HANDLING CODE: AVI",
+    "issue_date": "2026-04-06",
+    "signatory": "Erika Ross",
+    "iata_code": "44-185",
+    "agent_cass": "4745-3264",
+    "consolidation_ref": "CONS-5577-849562",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-23825043",
+        "pieces": 16,
+        "weight": 36.3,
+        "destination": "ORD",
+        "consignee": "Trade Miller Pte Ltd",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "125-64937677",
+        "pieces": 11,
+        "weight": 8.5,
+        "destination": "FRA",
+        "consignee": "Burke Commerce S.A.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "160-35861978",
+        "pieces": 13,
+        "weight": 88.7,
+        "destination": "CDG",
+        "consignee": "Trade Phillips Corp.",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

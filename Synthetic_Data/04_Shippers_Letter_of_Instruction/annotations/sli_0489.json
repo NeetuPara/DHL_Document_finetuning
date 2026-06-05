@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0489",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202007-5804",
+    "usppi_name": "International Anderson AG",
+    "usppi_address": "1226 Joshua Islands Suite 127, Port Nicole, AK 54658, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "54-6308734",
+    "consignee_name": "Dennis Pacific Inc.",
+    "consignee_address": "32617 Alyssa Cove Suite 842, New Donna, OK 87251, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Industry Fisher GmbH",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Ashley Garcia",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/4",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 97,
+        "unit": "KGS",
+        "weight_kg": 97.0,
+        "value_usd": 914.53
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 194,
+        "unit": "MTR",
+        "weight_kg": 156.21,
+        "value_usd": 1904.44
+      },
+      {
+        "marks": "SLI/21",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 194,
+        "unit": "PCS",
+        "weight_kg": 2719.15,
+        "value_usd": 85462.38
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 100,
+        "unit": "LTR",
+        "weight_kg": 90.56,
+        "value_usd": 1716.38
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 73,
+        "unit": "PCS",
+        "weight_kg": 64.74,
+        "value_usd": 1721.44
+      },
+      {
+        "marks": "ABC/21",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 36,
+        "unit": "KGS",
+        "weight_kg": 36.0,
+        "value_usd": 72.59
+      },
+      {
+        "marks": "SLI/33",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 110,
+        "unit": "CTN",
+        "weight_kg": 70.55,
+        "value_usd": 624.81
+      }
+    ],
+    "total_weight_kg": 3234.21,
+    "total_value_usd": 92416.57,
+    "vessel": "EVER GOLDEN",
+    "voyage": "647S",
+    "booking_ref": "BKG-591071",
+    "bl_number": "OOLU862765484",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Dubai, AE",
+    "container_number": "TTPA5050660",
+    "seal_number": "SL461569",
+    "container_type": "20'GP",
+    "cbm": 17.744
+  }
+}

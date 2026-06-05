@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0331",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202206-6417",
+    "usppi_name": "Lewis Trade Pte Ltd",
+    "usppi_address": "7328 Decker Stream Suite 205, North Michaelmouth, MD 01830, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "71-1211177",
+    "consignee_name": "Global Torres Ltd",
+    "consignee_address": "04817 Tucker Unions Suite 402, Port Williamfurt, NM 31625, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Fletcher Global Inc.",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Vickie Powers",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/30",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 178,
+        "unit": "PKG",
+        "weight_kg": 264.0,
+        "value_usd": 8547.52
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 169,
+        "unit": "PCS",
+        "weight_kg": 129.95,
+        "value_usd": 168616.45
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 64,
+        "unit": "MTR",
+        "weight_kg": 36.44,
+        "value_usd": 1045.0
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 121,
+        "unit": "PCS",
+        "weight_kg": 2277.99,
+        "value_usd": 36576.06
+      }
+    ],
+    "total_weight_kg": 2708.38,
+    "total_value_usd": 214785.03,
+    "service": "Express Courier",
+    "named_port": "Seoul Incheon",
+    "insurance_value_usd": 45138.27,
+    "license_type": "Distributor License",
+    "license_number": "LIC-965496",
+    "destination_country": "Thailand"
+  }
+}

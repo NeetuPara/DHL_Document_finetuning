@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0505",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Shannon Lynch",
+    "addressee_company": "Tech Velazquez LLC",
+    "addressee_address": "2314 Michael Meadow, South Julia, NJ 88931, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 18.438,
+    "total_value": 3583.37,
+    "currency": "CNY",
+    "issue_date": "2025-06-05",
+    "reference": "REF-221470",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.797,
+        "value": 1372.16,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 3,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.203,
+        "value": 222.57,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 13,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 1.846,
+        "value": 333.58,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 8,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.068,
+        "value": 565.12,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 2,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.625,
+        "value": 79.52,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 19,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.899,
+        "value": 1010.42,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Canada"
+      }
+    ],
+    "sender_name": "Jessica Stewart",
+    "sender_company": "Commerce Brown Pte Ltd",
+    "sender_address": "54811 Garcia Unions Suite 115, Petersonside, NY 10184, Sweden",
+    "sender_phone": "688.207.0667x4330",
+    "sender_email": "diana56@example.org",
+    "addressee_phone": "713-507-9574x14642",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 3941.71,
+    "postal_charges": 79.6,
+    "tracking_number": "KV592772188GE"
+  }
+}

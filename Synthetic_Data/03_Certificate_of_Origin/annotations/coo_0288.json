@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0288",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202203-6320",
+    "exporter_name": "Industry Turner S.A.",
+    "exporter_address": "806 Marquez Trail Suite 739, Lloydstad, NC 28618, South Korea",
+    "exporter_country": "South Korea",
+    "consignee_name": "International Tyler Inc.",
+    "consignee_address": "76538 Russell Junction Apt. 946, Lisamouth, FM 41730, Belgium",
+    "consignee_country": "Belgium",
+    "country_of_origin": "South Korea",
+    "country_of_destination": "Belgium",
+    "bl_or_awb": "057-57689884",
+    "issue_date": "2026-04-16",
+    "certifier_name": "Cody Ball",
+    "goods": [
+      {
+        "description": "Steel Products - Hot Rolled Coils",
+        "hs_code": "7208.37.00",
+        "qty": 164,
+        "unit": "KGS",
+        "weight_kg": 164.0,
+        "origin_criterion": "E",
+        "value": 400.18
+      },
+      {
+        "description": "Optical Equipment - Camera Lenses",
+        "hs_code": "9002.11.00",
+        "qty": 447,
+        "unit": "PCS",
+        "weight_kg": 642.11,
+        "origin_criterion": "D",
+        "value": 309937.35
+      },
+      {
+        "description": "Paper Products - Packaging Cartons",
+        "hs_code": "4819.10.00",
+        "qty": 413,
+        "unit": "CTN",
+        "weight_kg": 751.79,
+        "origin_criterion": "C",
+        "value": 4641.71
+      }
+    ],
+    "fta_agreement": "US-Korea FTA (KORUS)",
+    "chamber": "Board of Trade"
+  }
+}

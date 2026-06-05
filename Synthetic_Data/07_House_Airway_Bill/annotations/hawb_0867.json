@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0867",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-17003586",
+    "mawb_number": "085-85777500",
+    "shipper_name": "Trade Davis Corp.",
+    "shipper_address": "909 Deborah Parks Suite 801, New Jamestown, HI 65199, Poland",
+    "consignee_name": "Tech Martin AG",
+    "consignee_address": "705 Warren Tunnel Suite 103, Harperchester, KY 45967, Mexico",
+    "agent_name": "Pacific Young GmbH",
+    "airport_departure": "ICN",
+    "airport_destination": "CDG",
+    "currency": "EUR",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "SGD 900.48",
+    "n_pieces": 25,
+    "gross_weight_kg": 437.8,
+    "chargeable_weight": 480.5,
+    "rate": 7.85,
+    "total_charge": 3771.92,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "HANDLING CODE: HUM",
+    "issue_date": "2025-12-29",
+    "signatory": "Becky Hoffman",
+    "iata_code": "94-226",
+    "agent_cass": "9761-5581",
+    "consolidation_ref": "CONS-9560-583220",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-16707470",
+        "pieces": 18,
+        "weight": 93.2,
+        "destination": "FRA",
+        "consignee": "Industry Carroll Inc.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "020-80718357",
+        "pieces": 8,
+        "weight": 89.0,
+        "destination": "ORD",
+        "consignee": "Industry Castro Inc.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "176-65823180",
+        "pieces": 16,
+        "weight": 45.9,
+        "destination": "NRT",
+        "consignee": "Pacific Wolfe Co.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "074-46336393",
+        "pieces": 13,
+        "weight": 35.4,
+        "destination": "ICN",
+        "consignee": "Commerce Knight Pte Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "085-20008891",
+        "pieces": 12,
+        "weight": 84.6,
+        "destination": "DXB",
+        "consignee": "White Commerce B.V.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "125-59143805",
+        "pieces": 7,
+        "weight": 72.6,
+        "destination": "HKG",
+        "consignee": "Turner Trade Corp.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "020-69083150",
+        "pieces": 8,
+        "weight": 66.4,
+        "destination": "SYD",
+        "consignee": "Ferguson Global Pte Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "160-10391580",
+        "pieces": 13,
+        "weight": 38.5,
+        "destination": "SYD",
+        "consignee": "Harris Pacific Co.",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

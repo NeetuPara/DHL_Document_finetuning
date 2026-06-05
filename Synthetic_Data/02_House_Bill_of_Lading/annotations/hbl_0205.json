@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0205",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU928254650",
+    "shipper_name": "Smith International Corp.",
+    "shipper_address": "1577 James Pines Suite 052, West Garyville, MO 45348, France",
+    "shipper_country": "France",
+    "consignee_name": "Industry Turner Co.",
+    "consignee_address": "981 Jeffrey Hollow Suite 990, North Davidstad, MH 08626, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Industry Nunez Inc.",
+    "notify_party_address": "210 Rangel Fall Apt. 858, North Henry, WV 96751, China",
+    "vessel": "MADRID MAERSK",
+    "voyage": "559W",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Felixstowe, GB",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Antwerp, BE",
+    "issue_date": "2024-10-06",
+    "issue_place": "Long Beach",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "CSKP5113476",
+        "seal_no": "CL518817",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "KYIN7061104",
+        "seal_no": "BL143293",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "RANO7886985",
+        "seal_no": "CL328123",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "PGVS7083758",
+        "seal_no": "CL304139",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "number_of_packages": 88,
+    "package_type": "Roll",
+    "gross_weight_kg": 15101.7,
+    "net_weight_kg": 13904.1,
+    "cbm": 4.397,
+    "marks_and_numbers": "ABC/23"
+  }
+}

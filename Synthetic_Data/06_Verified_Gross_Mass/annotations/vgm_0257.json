@@ -1,0 +1,82 @@
+{
+  "document_id": "vgm_0257",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Johnson Industry GmbH",
+    "shipper_address": "54513 Thomas Wells Apt. 433, Stevenston, FM 39826, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "container_number": "QCKU2004531",
+    "seal_number": "SL682927",
+    "container_size": "20'OT",
+    "iso_type_code": "22U0",
+    "tare_weight_kg": 2400,
+    "cargo_weight_kg": 12384.6,
+    "packing_materials_kg": 358.9,
+    "vgm_kg": 15143.5,
+    "vessel": "EVER GOLDEN",
+    "voyage": "649W",
+    "bl_number": "DHLG496974121",
+    "booking_reference": "BKG-811945",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-67205",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-23",
+    "signature_date": "2026-05-10",
+    "signatory_name": "Glenn Cooper",
+    "signatory_title": "Export Manager",
+    "number_of_packages": 7,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Pallet",
+        "n_units": 8,
+        "gross_wt_kg": 607.2
+      },
+      {
+        "item_no": 2,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Crate",
+        "n_units": 5,
+        "gross_wt_kg": 2176.0
+      },
+      {
+        "item_no": 3,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Drum",
+        "n_units": 4,
+        "gross_wt_kg": 1792.7
+      },
+      {
+        "item_no": 4,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Pallet",
+        "n_units": 14,
+        "gross_wt_kg": 1404.7
+      },
+      {
+        "item_no": 5,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Cylinder",
+        "n_units": 10,
+        "gross_wt_kg": 1436.7
+      },
+      {
+        "item_no": 6,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Carton",
+        "n_units": 11,
+        "gross_wt_kg": 1952.9
+      },
+      {
+        "item_no": 7,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Crate",
+        "n_units": 12,
+        "gross_wt_kg": 3014.4
+      }
+    ]
+  }
+}

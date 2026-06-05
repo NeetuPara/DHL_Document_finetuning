@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0775",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202507-7271",
+    "usppi_name": "Pacific Walter S.A.",
+    "usppi_address": "6373 Hardy Cliff Apt. 522, Johnberg, FM 54069, India",
+    "usppi_country": "India",
+    "ein": "24-3259884",
+    "consignee_name": "Massey Global GmbH",
+    "consignee_address": "131 Richard Corners Apt. 049, New Stevetown, OK 75771, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Trade Burton Inc.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Randall Smith",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/28",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 160,
+        "unit": "LTR",
+        "weight_kg": 165.53,
+        "value_usd": 4355.62
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 59,
+        "unit": "MTR",
+        "weight_kg": 55.38,
+        "value_usd": 921.02
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 187,
+        "unit": "SET",
+        "weight_kg": 673.61,
+        "value_usd": 28435.12
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 12,
+        "unit": "CTN",
+        "weight_kg": 42.44,
+        "value_usd": 386.91
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 141,
+        "unit": "PCS",
+        "weight_kg": 42.18,
+        "value_usd": 18299.37
+      }
+    ],
+    "total_weight_kg": 979.14,
+    "total_value_usd": 52398.04,
+    "service": "Ground",
+    "named_port": "Sydney Kingsford Smith",
+    "insurance_value_usd": 44597.72,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-326987",
+    "destination_country": "Australia"
+  }
+}

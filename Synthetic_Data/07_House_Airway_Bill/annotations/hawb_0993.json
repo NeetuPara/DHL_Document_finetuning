@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0993",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-61801998",
+    "mawb_number": "085-99981583",
+    "shipper_name": "Pacific Richardson Corp.",
+    "shipper_address": "65934 Eric Drive, Greenchester, NC 72229, China",
+    "consignee_name": "Andrade Pacific AG",
+    "consignee_address": "71020 Douglas Pine, Justinburgh, UT 41729, Canada",
+    "agent_name": "Industry Hutchinson Co.",
+    "airport_departure": "MIA",
+    "airport_destination": "CDG",
+    "currency": "AED",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CHF 6,174.55",
+    "n_pieces": 1,
+    "gross_weight_kg": 164.3,
+    "chargeable_weight": 176.7,
+    "rate": 6.8,
+    "total_charge": 1201.56,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "HANDLING CODE: AVI",
+    "issue_date": "2025-11-12",
+    "signatory": "Jessica Crawford",
+    "iata_code": "55-144",
+    "agent_cass": "0173-1231",
+    "consolidation_ref": "CONS-1504-432969",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-51877979",
+        "pieces": 17,
+        "weight": 43.3,
+        "destination": "SIN",
+        "consignee": "Palmer Pacific Co.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "006-34883727",
+        "pieces": 2,
+        "weight": 72.3,
+        "destination": "ICN",
+        "consignee": "Tech Williams Inc.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "125-41838091",
+        "pieces": 8,
+        "weight": 57.9,
+        "destination": "LHR",
+        "consignee": "Turner Industry Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "020-97186870",
+        "pieces": 1,
+        "weight": 29.3,
+        "destination": "ICN",
+        "consignee": "Commerce Reynolds Inc.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "057-38559492",
+        "pieces": 3,
+        "weight": 66.8,
+        "destination": "YYZ",
+        "consignee": "Orr Tech Corp.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "074-25374636",
+        "pieces": 18,
+        "weight": 33.1,
+        "destination": "PVG",
+        "consignee": "International Mcbride Corp.",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

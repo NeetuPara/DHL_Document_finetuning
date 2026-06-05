@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0506",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202206-6116",
+    "usppi_name": "Johnson Commerce Ltd",
+    "usppi_address": "8351 Thomas Garden Suite 281, Johnborough, OR 03444, Poland",
+    "usppi_country": "Poland",
+    "ein": "35-8341348",
+    "consignee_name": "Bryant International LLC",
+    "consignee_address": "6016 Alvarado Groves, West Russell, FL 01591, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Hughes International Pte Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Jeffery Robinson",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/31",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 13,
+        "unit": "CTN",
+        "weight_kg": 9.27,
+        "value_usd": 173.89
+      },
+      {
+        "marks": "ABC/9",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 142,
+        "unit": "PKG",
+        "weight_kg": 129.78,
+        "value_usd": 6374.28
+      }
+    ],
+    "total_weight_kg": 139.05,
+    "total_value_usd": 6548.17,
+    "service": "Ocean Freight",
+    "named_port": "Los Angeles, US",
+    "insurance_value_usd": 6073.15,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-813492",
+    "destination_country": "Netherlands"
+  }
+}

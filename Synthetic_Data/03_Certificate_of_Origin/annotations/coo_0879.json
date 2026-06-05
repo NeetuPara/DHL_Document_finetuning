@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0879",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202012-3303",
+    "exporter_name": "Tech Hodge S.A.",
+    "exporter_address": "4734 Smith Common Apt. 677, Garyfort, PA 22114, Switzerland",
+    "exporter_country": "Switzerland",
+    "consignee_name": "Thompson Pacific Ltd",
+    "consignee_address": "54350 Jeffrey Path Suite 616, South Tammyview, PW 59658, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "country_of_origin": "Switzerland",
+    "country_of_destination": "United Kingdom",
+    "bl_or_awb": "074-50099399",
+    "issue_date": "2025-02-20",
+    "certifier_name": "David Moon",
+    "goods": [
+      {
+        "description": "Automotive Spare Parts - Brake Pads",
+        "hs_code": "8708.30.00",
+        "qty": 346,
+        "unit": "SET",
+        "weight_kg": 367.01,
+        "origin_criterion": "F",
+        "value": 39787.24
+      },
+      {
+        "description": "Electronic Components - Printed Circuit Boards",
+        "hs_code": "8534.00.00",
+        "qty": 309,
+        "unit": "PCS",
+        "weight_kg": 97.67,
+        "origin_criterion": "D",
+        "value": 8406.04
+      },
+      {
+        "description": "Optical Equipment - Camera Lenses",
+        "hs_code": "9002.11.00",
+        "qty": 270,
+        "unit": "PCS",
+        "weight_kg": 172.04,
+        "origin_criterion": "D",
+        "value": 56340.53
+      }
+    ],
+    "fta_agreement": "US-Korea FTA (KORUS)",
+    "chamber": "Export Council"
+  }
+}

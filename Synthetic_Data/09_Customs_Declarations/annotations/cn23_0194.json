@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0194",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Mark Rivera",
+    "addressee_company": "Jackson Industry B.V.",
+    "addressee_address": "9330 Mejia Stream, New Andrew, PA 73352, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 16.065,
+    "total_value": 2788.34,
+    "currency": "AUD",
+    "issue_date": "2025-08-27",
+    "reference": "REF-279492",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.98,
+        "value": 1081.08,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 4,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.075,
+        "value": 592.72,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 7,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.176,
+        "value": 498.96,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 14,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.834,
+        "value": 615.58,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Jane Price",
+    "sender_company": "Alvarado International Co.",
+    "sender_address": "USCGC Taylor, FPO AA 30967, India",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 7.42,
+    "tracking_number": "WP114586843UH"
+  }
+}

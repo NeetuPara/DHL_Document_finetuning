@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0168",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-71227394",
+    "mawb_number": "125-73564918",
+    "shipper_name": "International Cochran LLC",
+    "shipper_address": "1104 Lisa Station, Lake Paulmouth, WI 65537, United States",
+    "consignee_name": "Henry Global S.A.",
+    "consignee_address": "08586 Alison Island Suite 816, Stacyport, OH 16270, Sweden",
+    "agent_name": "Cox International LLC",
+    "airport_departure": "LAX",
+    "airport_destination": "PVG",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 42,
+    "gross_weight_kg": 17.7,
+    "chargeable_weight": 22.1,
+    "rate": 9.67,
+    "total_charge": 213.71,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-07-31",
+    "signatory": "Charles Yang",
+    "iata_code": "00-422",
+    "agent_cass": "8539-3573",
+    "consolidation_ref": "CONS-6560-498431",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-51581493",
+        "pieces": 20,
+        "weight": 78.8,
+        "destination": "YYZ",
+        "consignee": "Commerce Porter Co.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "006-55966154",
+        "pieces": 6,
+        "weight": 46.2,
+        "destination": "YYZ",
+        "consignee": "Wallace Pacific Pte Ltd",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "618-49236965",
+        "pieces": 20,
+        "weight": 21.5,
+        "destination": "YYZ",
+        "consignee": "Global Ramirez LLC",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "160-57988989",
+        "pieces": 2,
+        "weight": 58.2,
+        "destination": "FRA",
+        "consignee": "Miller International S.A.",
+        "description": "Steel Products - Hot Rolled Coils"
+      }
+    ]
+  }
+}

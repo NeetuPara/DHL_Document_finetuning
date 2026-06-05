@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0963",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202107-2327",
+    "usppi_name": "International George Corp.",
+    "usppi_address": "8371 Solis Street Apt. 507, North Richard, AK 36134, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "79-7334622",
+    "consignee_name": "Stevenson International Co.",
+    "consignee_address": "5473 Jeffrey Plain Apt. 759, Singhview, MA 83373, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Pacific Davis LLC",
+    "forwarder": "Expeditors",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "2B350",
+    "signatory_name": "Steven Flores",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/8",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 79,
+        "unit": "CTN",
+        "weight_kg": 225.95,
+        "value_usd": 504.24
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 63,
+        "unit": "SET",
+        "weight_kg": 144.37,
+        "value_usd": 6456.97
+      },
+      {
+        "marks": "SLI/37",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 88,
+        "unit": "PCS",
+        "weight_kg": 70.99,
+        "value_usd": 2340.21
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 167,
+        "unit": "PCS",
+        "weight_kg": 1654.54,
+        "value_usd": 63616.84
+      }
+    ],
+    "total_weight_kg": 2095.85,
+    "total_value_usd": 72918.26,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "200S",
+    "booking_ref": "BKG-613901",
+    "bl_number": "EGLV505644979",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Dubai, AE",
+    "container_number": "FKRO8653218",
+    "seal_number": "SL158560",
+    "container_type": "40'HC",
+    "cbm": 22.82
+  }
+}

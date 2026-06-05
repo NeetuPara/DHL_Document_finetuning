@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0590",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Lisa Hill",
+    "addressee_company": "Tech Ramirez LLC",
+    "addressee_address": "420 David Garden Apt. 681, Jacobland, PW 65609, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 8.865,
+    "total_value": 2261.12,
+    "currency": "USD",
+    "issue_date": "2026-01-27",
+    "reference": "REF-480834",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.075,
+        "value": 912.56,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 8,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.415,
+        "value": 879.44,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 8,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.375,
+        "value": 469.12,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Michael Terry",
+    "sender_company": "Commerce Jackson Corp.",
+    "sender_address": "4261 Campbell Neck, Walkerbury, IL 08481, France",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 2487.23,
+    "postal_charges": 14.23,
+    "tracking_number": "CU717418819VY"
+  }
+}

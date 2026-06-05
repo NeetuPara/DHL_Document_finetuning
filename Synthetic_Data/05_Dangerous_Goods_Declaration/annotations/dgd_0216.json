@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0216",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Lawrence Commerce Ltd",
+    "shipper_address": "20730 Stefanie Way Apt. 206, South Nicole, MP 89762, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "International Mccormick LLC",
+    "consignee_address": "54895 Martin Mission, Johnhaven, OK 55736, Germany",
+    "consignee_country": "Germany",
+    "emergency_telephone": "+53 438-156-1524",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 1,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 11.17,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Susan Davis",
+    "signature_date": "2026-04-27",
+    "signature_place": "Singapore",
+    "awb_number": "074-37363130",
+    "flight_number": "DL6047",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "NRT",
+    "destination_airport_name": "Tokyo Narita",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

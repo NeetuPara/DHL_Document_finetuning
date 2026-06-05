@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0564",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Mcdonald AG",
+    "shipper_address": "8929 Stevens Fork Suite 670, West Matthew, NJ 80074, France",
+    "shipper_country": "France",
+    "consignee_name": "International Luna S.A.",
+    "consignee_address": "32116 Ramirez Walks, Micheleshire, ME 92925, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+38 997-344-4037",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 5,
+        "pkg_type": "Steel Drum",
+        "net_qty": 77.86,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Jennifer Gallegos",
+    "signature_date": "2026-05-10",
+    "signature_place": "France",
+    "awb_number": "085-79678793",
+    "flight_number": "QR5594",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

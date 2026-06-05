@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0365",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Michelle Jackson",
+    "addressee_company": "Tech Oneill Pte Ltd",
+    "addressee_address": "53820 Sloan Square, Christyburgh, PR 25547, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 9.437,
+    "total_value": 2998.96,
+    "currency": "CAD",
+    "issue_date": "2026-03-18",
+    "reference": "REF-009609",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.982,
+        "value": 690.2,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 16,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.07,
+        "value": 969.76,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 11,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.271,
+        "value": 520.63,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 9,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.114,
+        "value": 818.37,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Marc Mitchell",
+    "sender_company": "Le Industry B.V.",
+    "sender_address": "146 Erica Stravenue, Greenmouth, OH 74928, United Kingdom",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 30.2,
+    "tracking_number": "EC315044629YJ"
+  }
+}

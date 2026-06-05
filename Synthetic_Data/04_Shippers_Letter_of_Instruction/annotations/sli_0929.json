@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0929",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202303-6302",
+    "usppi_name": "Moore Trade Co.",
+    "usppi_address": "033 Julie Place, North Alexandra, WY 76006, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "33-4518679",
+    "consignee_name": "Trade Berry Ltd",
+    "consignee_address": "497 Jason Viaduct, Jamestown, MT 33360, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Rangel Global LLC",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5A002",
+    "signatory_name": "David Robinson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/23",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 159,
+        "unit": "PCS",
+        "weight_kg": 1187.57,
+        "value_usd": 117023.21
+      },
+      {
+        "marks": "EXP/36",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 20,
+        "unit": "CTN",
+        "weight_kg": 58.86,
+        "value_usd": 137.27
+      },
+      {
+        "marks": "EXP/23",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 39,
+        "unit": "PCS",
+        "weight_kg": 9.6,
+        "value_usd": 9193.29
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 65,
+        "unit": "KGS",
+        "weight_kg": 65.0,
+        "value_usd": 143.04
+      },
+      {
+        "marks": "SLI/35",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 189,
+        "unit": "KGS",
+        "weight_kg": 189.0,
+        "value_usd": 3730.74
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 123,
+        "unit": "PCS",
+        "weight_kg": 183.81,
+        "value_usd": 3311.01
+      },
+      {
+        "marks": "SLI/19",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 172,
+        "unit": "CTN",
+        "weight_kg": 581.89,
+        "value_usd": 2603.21
+      }
+    ],
+    "total_weight_kg": 2275.73,
+    "total_value_usd": 136141.77,
+    "service": "Ground",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 36769.82,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-318174",
+    "destination_country": "Netherlands"
+  }
+}

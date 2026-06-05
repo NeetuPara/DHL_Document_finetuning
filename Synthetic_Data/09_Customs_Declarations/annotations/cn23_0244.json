@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0244",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Joshua Smith",
+    "addressee_company": "Trade Cooley Pte Ltd",
+    "addressee_address": "52778 John Rue Suite 883, Williamtown, MA 37584, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 11.504,
+    "total_value": 4693.67,
+    "currency": "CNY",
+    "issue_date": "2026-01-03",
+    "reference": "REF-421187",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.632,
+        "value": 218.95,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 20,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.509,
+        "value": 1826.8,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 2,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.339,
+        "value": 238.34,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 11,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.432,
+        "value": 763.84,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 6,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.689,
+        "value": 887.22,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 6,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.903,
+        "value": 758.52,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Kathleen Stanton",
+    "sender_company": "Trade Allen AG",
+    "sender_address": "380 Amber Squares, Millerland, GU 05197, Thailand",
+    "sender_phone": "+1-846-318-7849x777",
+    "sender_email": "hernandeztanya@example.com",
+    "addressee_phone": "+1-284-448-3971",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 5163.04,
+    "postal_charges": 36.21,
+    "tracking_number": "FZ959142169WJ"
+  }
+}

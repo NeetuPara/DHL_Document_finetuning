@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0215",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kendra Murray",
+    "addressee_company": "Pacific Ayala AG",
+    "addressee_address": "6262 Nathaniel Falls, North Richardshire, OH 92603, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 8.696,
+    "total_value": 603.52,
+    "currency": "CNY",
+    "issue_date": "2026-03-01",
+    "reference": "REF-593765",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.849,
+        "value": 412.92,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 20,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.847,
+        "value": 190.6,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Shawn Ramos",
+    "sender_company": "Parker Industry B.V.",
+    "sender_address": "866 James Spring, North Brianna, LA 98967, Singapore",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 663.87,
+    "postal_charges": 35.76,
+    "tracking_number": "KH776830918PH"
+  }
+}

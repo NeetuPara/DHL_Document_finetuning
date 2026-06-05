@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0411",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-11049406",
+    "mawb_number": "020-15257258",
+    "shipper_name": "Commerce Waters B.V.",
+    "shipper_address": "5782 Turner Oval Suite 856, Stoneport, MD 77841, Netherlands",
+    "consignee_name": "International Dodson Inc.",
+    "consignee_address": "71478 Beth Fields Suite 110, Sandraland, MD 89119, United Kingdom",
+    "agent_name": "Trade Hampton Co.",
+    "airport_departure": "AMS",
+    "airport_destination": "NRT",
+    "currency": "CNY",
+    "charge_code": "CC",
+    "declared_value_carriage": "GBP 9,395.86",
+    "declared_value_customs": "NCV",
+    "n_pieces": 16,
+    "gross_weight_kg": 146.6,
+    "chargeable_weight": 173.8,
+    "rate": 7.71,
+    "total_charge": 1340.0,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-04-01",
+    "signatory": "Michael Warren",
+    "iata_code": "29-241",
+    "agent_cass": "5378-5004",
+    "consolidation_ref": "CONS-1224-181135",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-49679692",
+        "pieces": 18,
+        "weight": 38.9,
+        "destination": "SIN",
+        "consignee": "Ortiz Pacific LLC",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "020-33586833",
+        "pieces": 9,
+        "weight": 35.4,
+        "destination": "PVG",
+        "consignee": "Commerce Levine LLC",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "074-94304821",
+        "pieces": 9,
+        "weight": 55.4,
+        "destination": "PVG",
+        "consignee": "International Marsh Pte Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "160-46496161",
+        "pieces": 16,
+        "weight": 92.6,
+        "destination": "MIA",
+        "consignee": "International Stewart Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "057-41890375",
+        "pieces": 5,
+        "weight": 35.2,
+        "destination": "PVG",
+        "consignee": "Jacobs Tech LLC",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "006-97232482",
+        "pieces": 9,
+        "weight": 60.4,
+        "destination": "MIA",
+        "consignee": "Rasmussen Tech Co.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "057-14464782",
+        "pieces": 6,
+        "weight": 21.3,
+        "destination": "ICN",
+        "consignee": "Pacific Lambert Ltd",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

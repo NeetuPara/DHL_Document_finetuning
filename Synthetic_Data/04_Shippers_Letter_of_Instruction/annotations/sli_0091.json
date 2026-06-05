@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0091",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202109-4632",
+    "usppi_name": "Commerce Davis LLC",
+    "usppi_address": "70173 Lopez Trace Apt. 178, Alanmouth, KS 33859, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "80-8298217",
+    "consignee_name": "International Nguyen GmbH",
+    "consignee_address": "Unit 9610 Box 5625, DPO AP 10623, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "White Tech LLC",
+    "forwarder": "Panalpina",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Derek Johnson",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/41",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 137,
+        "unit": "KGS",
+        "weight_kg": 137.0,
+        "value_usd": 118.5
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 91,
+        "unit": "CTN",
+        "weight_kg": 344.63,
+        "value_usd": 5277.49
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 151,
+        "unit": "SET",
+        "weight_kg": 239.04,
+        "value_usd": 5652.58
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 35,
+        "unit": "KGS",
+        "weight_kg": 35.0,
+        "value_usd": 524.42
+      }
+    ],
+    "total_weight_kg": 755.67,
+    "total_value_usd": 11572.99,
+    "service": "LCL Ocean",
+    "named_port": "Busan, KR",
+    "insurance_value_usd": 25267.15,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-879463",
+    "destination_country": "Sweden"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0255",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Farrell LLC",
+    "shipper_address": "33762 Williamson Hollow, Bradleymouth, CT 81341, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Douglas International Inc.",
+    "consignee_address": "173 Estrada Knolls, East Alexandria, LA 35094, Thailand",
+    "consignee_country": "Thailand",
+    "emergency_telephone": "+36 111-980-3886",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 43,
+        "pkg_type": "Steel Drum",
+        "net_qty": 92.39,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-583540",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 25,
+        "pkg_type": "Steel Drum",
+        "net_qty": 65.11,
+        "qty_unit": "kg",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-468765",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Frank Jacobs",
+    "signature_date": "2026-04-21",
+    "signature_place": "United Kingdom",
+    "awb_number": "176-31685690",
+    "flight_number": "LH568",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "LHR",
+    "destination_airport_name": "London Heathrow",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

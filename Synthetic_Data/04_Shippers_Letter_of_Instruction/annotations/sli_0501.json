@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0501",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202308-3911",
+    "usppi_name": "Clayton International B.V.",
+    "usppi_address": "19391 Blake Throughway, Christopherstad, KS 71250, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "79-1558086",
+    "consignee_name": "Watkins Global GmbH",
+    "consignee_address": "0115 Cody Falls Suite 424, Port Gregory, OR 85881, United States",
+    "consignee_country": "United States",
+    "notify_party": "Tech Davis Inc.",
+    "forwarder": "Expeditors",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Patrick Campbell",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/18",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 100,
+        "unit": "CTN",
+        "weight_kg": 228.86,
+        "value_usd": 7607.58
+      },
+      {
+        "marks": "EXP/33",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 131,
+        "unit": "PKG",
+        "weight_kg": 187.82,
+        "value_usd": 6784.66
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 156,
+        "unit": "PCS",
+        "weight_kg": 69.53,
+        "value_usd": 37051.37
+      },
+      {
+        "marks": "ABC/37",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 80,
+        "unit": "MTR",
+        "weight_kg": 53.88,
+        "value_usd": 689.29
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 138,
+        "unit": "PCS",
+        "weight_kg": 2191.7,
+        "value_usd": 52144.6
+      },
+      {
+        "marks": "ABC/6",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 165,
+        "unit": "PCS",
+        "weight_kg": 244.21,
+        "value_usd": 49177.99
+      }
+    ],
+    "total_weight_kg": 2976.0,
+    "total_value_usd": 153455.49,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "468N",
+    "booking_ref": "BKG-664075",
+    "bl_number": "MAEU544551676",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "JOGZ1224230",
+    "seal_number": "CL605437",
+    "container_type": "45'HC",
+    "cbm": 55.965
+  }
+}

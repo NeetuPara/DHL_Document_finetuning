@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0220",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202011-3219",
+    "usppi_name": "Wright Trade AG",
+    "usppi_address": "00563 Jerry Stravenue, West Katie, NY 37196, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "53-3248107",
+    "consignee_name": "Strong International LLC",
+    "consignee_address": "53820 Alexandra Rapid, Port Mark, AZ 32960, United States",
+    "consignee_country": "United States",
+    "notify_party": "International Wyatt Pte Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "7A994",
+    "signatory_name": "Lisa Randolph",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/8",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 81,
+        "unit": "PCS",
+        "weight_kg": 1090.62,
+        "value_usd": 59861.96
+      },
+      {
+        "marks": "SLI/21",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 150,
+        "unit": "BOX",
+        "weight_kg": 287.48,
+        "value_usd": 12157.48
+      },
+      {
+        "marks": "EXP/25",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 175,
+        "unit": "SET",
+        "weight_kg": 628.32,
+        "value_usd": 5194.04
+      },
+      {
+        "marks": "SLI/2",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 79,
+        "unit": "LTR",
+        "weight_kg": 77.54,
+        "value_usd": 1487.16
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 147,
+        "unit": "PKG",
+        "weight_kg": 44.88,
+        "value_usd": 1202.37
+      },
+      {
+        "marks": "EXP/48",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 120,
+        "unit": "PCS",
+        "weight_kg": 2379.58,
+        "value_usd": 43959.19
+      },
+      {
+        "marks": "SLI/21",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 93,
+        "unit": "PCS",
+        "weight_kg": 50.74,
+        "value_usd": 1086.84
+      },
+      {
+        "marks": "SLI/35",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 190,
+        "unit": "PCS",
+        "weight_kg": 61.3,
+        "value_usd": 7418.01
+      }
+    ],
+    "total_weight_kg": 4620.46,
+    "total_value_usd": 132367.05,
+    "service": "LCL Ocean",
+    "named_port": "Busan, KR",
+    "insurance_value_usd": 19107.68,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-370021",
+    "destination_country": "United States"
+  }
+}

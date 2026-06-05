@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0110",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Sarah Mcmillan",
+    "addressee_company": "Hicks Trade Inc.",
+    "addressee_address": "780 James Street Apt. 948, Christophershire, PW 32491, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 14.827,
+    "total_value": 4864.57,
+    "currency": "CAD",
+    "issue_date": "2025-08-22",
+    "reference": "REF-024158",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 4.551,
+        "value": 2478.74,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 19,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.195,
+        "value": 1953.58,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 15,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.006,
+        "value": 171.75,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 10,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.075,
+        "value": 260.5,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "Jennifer Davis",
+    "sender_company": "Butler International Pte Ltd",
+    "sender_address": "944 Turner Flats Suite 398, Wilsonburgh, MO 35993, Japan",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 5351.03,
+    "postal_charges": 60.24,
+    "tracking_number": "LI398312229QQ"
+  }
+}

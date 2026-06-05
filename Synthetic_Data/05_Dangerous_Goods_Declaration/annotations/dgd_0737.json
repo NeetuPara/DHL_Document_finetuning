@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0737",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Cross Global LLC",
+    "shipper_address": "6432 George Camp, South Garyland, MP 69294, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Brady International Inc.",
+    "consignee_address": "USNV Martinez, FPO AP 90901, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+54 634-355-4290",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 2,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 30.97,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-978624",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Laura Wood",
+    "signature_date": "2026-05-12",
+    "signature_place": "United States",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "343W",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Qingdao, CN"
+  }
+}

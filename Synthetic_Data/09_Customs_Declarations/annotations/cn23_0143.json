@@ -1,0 +1,75 @@
+{
+  "document_id": "cn23_0143",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Carolyn Reed",
+    "addressee_company": "Tech Perez Pte Ltd",
+    "addressee_address": "PSC 4547, Box 3151, APO AA 66695, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 14.609,
+    "total_value": 2389.23,
+    "currency": "USD",
+    "issue_date": "2025-06-14",
+    "reference": "REF-283551",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.547,
+        "value": 183.56,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 12,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.387,
+        "value": 302.16,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 4,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.267,
+        "value": 190.68,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 12,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.964,
+        "value": 255.6,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 10,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.157,
+        "value": 355.0,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 9,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.287,
+        "value": 1102.23,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Michael Gray",
+    "sender_company": "International Smith Inc.",
+    "sender_address": "PSC 9860, Box 3372, APO AA 39259, Canada",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 31.58,
+    "tracking_number": "OA196696950WG"
+  }
+}

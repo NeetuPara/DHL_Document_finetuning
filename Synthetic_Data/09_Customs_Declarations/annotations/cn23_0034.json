@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0034",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Christine Ballard",
+    "addressee_company": "Sharp Industry Co.",
+    "addressee_address": "USS Bishop, FPO AE 70087, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 20.312,
+    "total_value": 2944.01,
+    "currency": "CAD",
+    "issue_date": "2025-08-07",
+    "reference": "REF-843880",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.852,
+        "value": 22.47,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 6,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.227,
+        "value": 486.0,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 5,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.135,
+        "value": 623.6,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 5,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.619,
+        "value": 744.4,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 9,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.318,
+        "value": 1018.8,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 1,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.161,
+        "value": 48.74,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Italy"
+      }
+    ],
+    "sender_name": "Taylor Wright",
+    "sender_company": "Global Mendoza Corp.",
+    "sender_address": "039 Melissa Land Suite 349, Nancyview, DE 68300, Italy",
+    "sender_phone": "(667)218-2783x280",
+    "sender_email": "gortega@example.net",
+    "addressee_phone": "+1-588-909-3624x851",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 74.31,
+    "tracking_number": "PM350029520NX"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0747",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-82662257",
+    "mawb_number": "125-98540552",
+    "shipper_name": "International Scott Co.",
+    "shipper_address": "26880 Brown Walks, Keithfurt, AS 04131, Japan",
+    "consignee_name": "Reynolds Commerce S.A.",
+    "consignee_address": "82913 Thompson Run, Glenntown, AS 10632, China",
+    "agent_name": "Ochoa Tech S.A.",
+    "airport_departure": "YYZ",
+    "airport_destination": "NRT",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 8,
+    "gross_weight_kg": 138.8,
+    "chargeable_weight": 156.6,
+    "rate": 6.44,
+    "total_charge": 1008.5,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-03-04",
+    "signatory": "Cheryl Rosario",
+    "iata_code": "90-726",
+    "agent_cass": "3902-1126",
+    "consolidation_ref": "CONS-8806-266779",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-48829396",
+        "pieces": 18,
+        "weight": 35.4,
+        "destination": "NRT",
+        "consignee": "Global Walton S.A.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "006-27397324",
+        "pieces": 10,
+        "weight": 26.9,
+        "destination": "SIN",
+        "consignee": "Lloyd Industry S.A.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "020-32801805",
+        "pieces": 17,
+        "weight": 82.5,
+        "destination": "YYZ",
+        "consignee": "Mendoza Commerce Ltd",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

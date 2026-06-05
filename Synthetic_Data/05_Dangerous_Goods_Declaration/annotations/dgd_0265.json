@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0265",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Holmes LLC",
+    "shipper_address": "87793 Jennifer Prairie Apt. 803, East Eric, GA 18765, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Pacific Baker LLC",
+    "consignee_address": "3093 Peterson Vista Apt. 697, Hoffmanville, KY 33594, Poland",
+    "consignee_country": "Poland",
+    "emergency_telephone": "+40 918-353-7620",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 27,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 61.05,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Lisa Davis",
+    "signature_date": "2026-05-12",
+    "signature_place": "Belgium",
+    "awb_number": "085-98352602",
+    "flight_number": "QR2676",
+    "flight_date": "2026-05-13",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport"
+  }
+}

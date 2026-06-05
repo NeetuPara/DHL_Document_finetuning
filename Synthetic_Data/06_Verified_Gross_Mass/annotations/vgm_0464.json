@@ -1,0 +1,82 @@
+{
+  "document_id": "vgm_0464",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Silva Global Corp.",
+    "shipper_address": "6745 Brown Underpass Apt. 418, Kellyberg, GA 33208, Germany",
+    "shipper_country": "Germany",
+    "container_number": "BCKK0522608",
+    "seal_number": "CL481497",
+    "container_size": "40'OT",
+    "iso_type_code": "42U0",
+    "tare_weight_kg": 4200,
+    "cargo_weight_kg": 20635.9,
+    "packing_materials_kg": 171.8,
+    "vgm_kg": 25007.7,
+    "vessel": "MSC OSCAR",
+    "voyage": "405N",
+    "bl_number": "EGLV722487338",
+    "booking_reference": "BKG-345105",
+    "weighing_scale_type": "Certified Static Scale",
+    "scale_serial": "Serial No.-64469",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-19",
+    "signature_date": "2026-05-09",
+    "signatory_name": "Angela Schultz",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 7,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Drum",
+        "n_units": 6,
+        "gross_wt_kg": 4102.7
+      },
+      {
+        "item_no": 2,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Carton",
+        "n_units": 6,
+        "gross_wt_kg": 2684.8
+      },
+      {
+        "item_no": 3,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Bundle",
+        "n_units": 2,
+        "gross_wt_kg": 2665.1
+      },
+      {
+        "item_no": 4,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Bundle",
+        "n_units": 12,
+        "gross_wt_kg": 107.0
+      },
+      {
+        "item_no": 5,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Pallet",
+        "n_units": 1,
+        "gross_wt_kg": 891.2
+      },
+      {
+        "item_no": 6,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Bag",
+        "n_units": 2,
+        "gross_wt_kg": 794.5
+      },
+      {
+        "item_no": 7,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Cylinder",
+        "n_units": 13,
+        "gross_wt_kg": 9390.6
+      }
+    ]
+  }
+}

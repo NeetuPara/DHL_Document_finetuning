@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0790",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202012-4943",
+    "usppi_name": "Tech Palmer LLC",
+    "usppi_address": "0100 Todd Grove Apt. 308, West Jonathan, MS 83291, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "34-4577361",
+    "consignee_name": "Commerce Harper GmbH",
+    "consignee_address": "513 Lydia Courts Apt. 216, South Daniellebury, PW 93263, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Trade White Co.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Jessica Green",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/7",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 85,
+        "unit": "CTN",
+        "weight_kg": 236.12,
+        "value_usd": 203.02
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 96,
+        "unit": "SET",
+        "weight_kg": 230.89,
+        "value_usd": 13652.6
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 40,
+        "unit": "PCS",
+        "weight_kg": 59.32,
+        "value_usd": 317.06
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 92,
+        "unit": "KGS",
+        "weight_kg": 92.0,
+        "value_usd": 1649.48
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 181,
+        "unit": "CTN",
+        "weight_kg": 336.33,
+        "value_usd": 11500.71
+      },
+      {
+        "marks": "SLI/5",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 77,
+        "unit": "KGS",
+        "weight_kg": 77.0,
+        "value_usd": 174.75
+      },
+      {
+        "marks": "ABC/9",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 124,
+        "unit": "PCS",
+        "weight_kg": 43.95,
+        "value_usd": 12161.44
+      }
+    ],
+    "total_weight_kg": 1075.61,
+    "total_value_usd": 39659.06,
+    "service": "Air Freight",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 41696.23,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-813272",
+    "destination_country": "United Kingdom"
+  }
+}

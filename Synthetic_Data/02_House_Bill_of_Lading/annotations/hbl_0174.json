@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0174",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU620258043",
+    "shipper_name": "Patel Commerce AG",
+    "shipper_address": "063 Christopher Wall, New Jessica, FL 75814, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Lucas Global LLC",
+    "consignee_address": "2426 Berry Viaduct Apt. 313, Pottsstad, NC 68711, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party_name": "Global Hensley S.A.",
+    "notify_party_address": "Unit 6311 Box 8943, DPO AA 49383, United States",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "589W",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2024-05-21",
+    "issue_place": "Long Beach",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "PPKH8254317",
+        "seal_no": "CL807306",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "KKMS5306910",
+        "seal_no": "SL149030",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "UNZM5819014",
+        "seal_no": "CL308207",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 199,
+    "package_type": "Bag",
+    "gross_weight_kg": 15154.4,
+    "net_weight_kg": 13663.0,
+    "cbm": 21.383,
+    "marks_and_numbers": "GLB/26"
+  }
+}

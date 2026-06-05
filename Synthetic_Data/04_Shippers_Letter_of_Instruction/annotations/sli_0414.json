@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0414",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202308-4060",
+    "usppi_name": "International Stuart Corp.",
+    "usppi_address": "88895 Obrien Extensions Apt. 124, Kingland, PA 99821, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "61-1371069",
+    "consignee_name": "Smith Global B.V.",
+    "consignee_address": "96014 Evans Flat, New Scottland, WA 76150, India",
+    "consignee_country": "India",
+    "notify_party": "Mills International LLC",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Lisa Reid",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/12",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 138,
+        "unit": "PCS",
+        "weight_kg": 26.42,
+        "value_usd": 3573.55
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 183,
+        "unit": "CTN",
+        "weight_kg": 245.8,
+        "value_usd": 1268.54
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 146,
+        "unit": "PKG",
+        "weight_kg": 84.01,
+        "value_usd": 9240.8
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 175,
+        "unit": "CTN",
+        "weight_kg": 766.02,
+        "value_usd": 5838.48
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 44,
+        "unit": "LTR",
+        "weight_kg": 48.02,
+        "value_usd": 603.36
+      },
+      {
+        "marks": "ABC/2",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 77,
+        "unit": "KGS",
+        "weight_kg": 77.0,
+        "value_usd": 1522.85
+      },
+      {
+        "marks": "EXP/48",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 69,
+        "unit": "PCS",
+        "weight_kg": 102.59,
+        "value_usd": 37104.18
+      }
+    ],
+    "total_weight_kg": 1349.86,
+    "total_value_usd": 59151.76,
+    "vessel": "MSC GULSUN",
+    "voyage": "612N",
+    "booking_ref": "BKG-970082",
+    "bl_number": "DHLG251477413",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Los Angeles, US",
+    "container_number": "BUAQ7771706",
+    "seal_number": "CL567325",
+    "container_type": "40'GP",
+    "cbm": 23.484
+  }
+}

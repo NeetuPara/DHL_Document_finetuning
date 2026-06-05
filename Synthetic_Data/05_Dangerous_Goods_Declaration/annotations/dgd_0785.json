@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0785",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Bush Inc.",
+    "shipper_address": "6603 Michelle Forks, South Rebekah, TN 93427, China",
+    "shipper_country": "China",
+    "consignee_name": "Industry Decker Co.",
+    "consignee_address": "44886 Rodriguez Land Suite 205, New Austin, PW 45612, Thailand",
+    "consignee_country": "Thailand",
+    "emergency_telephone": "+1 995-147-5613",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 45,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 68.34,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-918009",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Larry Miller",
+    "signature_date": "2026-05-13",
+    "signature_place": "China",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "991N",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Antwerp, BE"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0582",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Mitchell International Pte Ltd",
+    "shipper_address": "4690 Rose Manor, Lake Jeremybury, OH 91468, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Tech Paul Corp.",
+    "consignee_address": "811 Young Field Apt. 440, East Jessicaland, TX 51697, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+30 215-555-5164",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 43,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 14.84,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-593021",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Nicole Gray DDS",
+    "signature_date": "2026-04-18",
+    "signature_place": "Netherlands",
+    "awb_number": "160-85156214",
+    "flight_number": "DL6391",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0220",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Thompson Co.",
+    "shipper_address": "86587 Lance Street, Jamesside, SC 13462, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Pacific Miller B.V.",
+    "consignee_address": "2363 Pope Plaza Suite 607, Jordanville, IL 84017, Belgium",
+    "consignee_country": "Belgium",
+    "emergency_telephone": "+34 576-836-8644",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 19,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 97.5,
+        "qty_unit": "g",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-995348",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Nicole Hill",
+    "signature_date": "2026-05-07",
+    "signature_place": "Germany",
+    "awb_number": "085-53358651",
+    "flight_number": "EK676",
+    "flight_date": "2026-05-18",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0072",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-79681613",
+    "mawb_number": "020-57999830",
+    "shipper_name": "Perry Trade Ltd",
+    "shipper_address": "21299 Lisa Forge, Michaelside, MO 77915, Italy",
+    "consignee_name": "Dunlap International S.A.",
+    "consignee_address": "825 Hernandez Village Apt. 297, Lake Lisaport, MT 52773, Malaysia",
+    "agent_name": "Tech Townsend Corp.",
+    "airport_departure": "LAX",
+    "airport_destination": "AMS",
+    "currency": "CNY",
+    "charge_code": "CC",
+    "declared_value_carriage": "USD 11,156.54",
+    "declared_value_customs": "NCV",
+    "n_pieces": 23,
+    "gross_weight_kg": 81.6,
+    "chargeable_weight": 83.9,
+    "rate": 1.94,
+    "total_charge": 162.77,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "HANDLING CODE: PIL",
+    "issue_date": "2025-12-15",
+    "signatory": "Laura Shannon",
+    "iata_code": "54-114",
+    "agent_cass": "1171-6141",
+    "consolidation_ref": "CONS-6013-019076",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-19478155",
+        "pieces": 10,
+        "weight": 83.5,
+        "destination": "ORD",
+        "consignee": "Knight Trade Pte Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "176-15993070",
+        "pieces": 1,
+        "weight": 43.5,
+        "destination": "PVG",
+        "consignee": "Commerce Flores GmbH",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "125-56128432",
+        "pieces": 11,
+        "weight": 2.1,
+        "destination": "NRT",
+        "consignee": "Tech Lee GmbH",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

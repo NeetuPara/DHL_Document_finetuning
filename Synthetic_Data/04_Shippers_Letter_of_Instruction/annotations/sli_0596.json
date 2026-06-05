@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0596",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202402-7005",
+    "usppi_name": "Commerce Clark GmbH",
+    "usppi_address": "Unit 8876 Box 3915, DPO AP 52239, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "67-8663522",
+    "consignee_name": "Industry Stone Co.",
+    "consignee_address": "6936 William Branch, Burnettberg, MH 09343, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Soto Tech Co.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "George Parker",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/39",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 197,
+        "unit": "PCS",
+        "weight_kg": 2795.79,
+        "value_usd": 52626.75
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 92,
+        "unit": "PCS",
+        "weight_kg": 121.64,
+        "value_usd": 3058.05
+      },
+      {
+        "marks": "EXP/35",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 198,
+        "unit": "KGS",
+        "weight_kg": 198.0,
+        "value_usd": 1194.6
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 181,
+        "unit": "PCS",
+        "weight_kg": 13.72,
+        "value_usd": 23344.41
+      },
+      {
+        "marks": "EXP/7",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 108,
+        "unit": "PCS",
+        "weight_kg": 107.19,
+        "value_usd": 69576.62
+      },
+      {
+        "marks": "SLI/7",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 174,
+        "unit": "PCS",
+        "weight_kg": 24.92,
+        "value_usd": 8189.61
+      }
+    ],
+    "total_weight_kg": 3261.26,
+    "total_value_usd": 157990.04,
+    "service": "Air Freight",
+    "named_port": "Dubai International",
+    "insurance_value_usd": 38957.55,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-161914",
+    "destination_country": "Spain"
+  }
+}

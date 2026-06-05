@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0975",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Robert Gregory",
+    "addressee_company": "Gross Trade S.A.",
+    "addressee_address": "5974 Nancy Key, West Stevenmouth, VT 79527, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 10.001,
+    "total_value": 1328.22,
+    "currency": "CAD",
+    "issue_date": "2025-08-10",
+    "reference": "REF-838645",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 0.702,
+        "value": 1099.35,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 1,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.577,
+        "value": 113.23,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 7,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.722,
+        "value": 115.64,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_country": "Canada",
+    "port_of_entry": "New York, NY",
+    "entry_number": "058-52932026-4",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 12.5,
+    "estimated_duty": 166.03,
+    "importer_ein": "41-4000140",
+    "customs_broker": "Allen Tech AG"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0217",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Anthony LLC",
+    "shipper_address": "PSC 7924, Box 8552, APO AA 71826, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Pacific Whitney Ltd",
+    "consignee_address": "7497 Frazier Turnpike, Michelleland, NH 61458, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+12 957-391-5540",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 13,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 51.02,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Dylan House",
+    "signature_date": "2026-05-02",
+    "signature_place": "Hong Kong",
+    "awb_number": "006-86176773",
+    "flight_number": "SQ4426",
+    "flight_date": "2026-06-01",
+    "departure_airport_code": "FRA",
+    "departure_airport_name": "Frankfurt Airport",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International"
+  }
+}

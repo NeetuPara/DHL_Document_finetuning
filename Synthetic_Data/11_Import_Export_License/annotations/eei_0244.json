@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0244",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "538-72002207-3",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2025-06-06",
+    "port_of_entry": "BOS - Boston",
+    "transport_mode": "Truck",
+    "carrier": "DHL Express",
+    "bl_awb": "160-88865709",
+    "importer_name": "Acevedo International Co.",
+    "importer_ein": "89-4080573",
+    "consignee_name": "Industry Castro S.A.",
+    "customs_broker": "Jones International B.V.",
+    "broker_filer_code": "RWl",
+    "country_of_origin": "United Arab Emirates",
+    "total_value": 176188.57,
+    "total_duty": 21600.19,
+    "currency": "CNY",
+    "signatory": "Andrea Rice",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "China",
+        "qty": 107,
+        "unit": "SET",
+        "entered_value": 29242.03,
+        "duty_rate": 20.6,
+        "duty_amount": 6023.86,
+        "eccn": "2B350",
+        "schedule_b": "8708.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Poland",
+        "qty": 299,
+        "unit": "CTN",
+        "entered_value": 146946.54,
+        "duty_rate": 10.6,
+        "duty_amount": 15576.33,
+        "eccn": "2B350",
+        "schedule_b": "9018.31.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

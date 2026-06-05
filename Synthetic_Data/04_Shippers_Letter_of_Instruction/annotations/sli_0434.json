@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0434",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202310-8330",
+    "usppi_name": "Industry Stark Co.",
+    "usppi_address": "549 Weber Estate Apt. 953, New Nicole, CA 20116, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "88-8918103",
+    "consignee_name": "Jenkins International LLC",
+    "consignee_address": "601 Rodriguez Wells Suite 894, East Allison, ME 46040, China",
+    "consignee_country": "China",
+    "notify_party": "Industry Jarvis Co.",
+    "forwarder": "DB Schenker",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Michael Hardy",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/18",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 127,
+        "unit": "BOX",
+        "weight_kg": 138.86,
+        "value_usd": 12787.62
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 49,
+        "unit": "PCS",
+        "weight_kg": 11.26,
+        "value_usd": 3154.69
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 65,
+        "unit": "PCS",
+        "weight_kg": 566.85,
+        "value_usd": 31070.91
+      },
+      {
+        "marks": "SLI/21",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 42,
+        "unit": "LTR",
+        "weight_kg": 40.12,
+        "value_usd": 681.37
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 26,
+        "unit": "MTR",
+        "weight_kg": 15.95,
+        "value_usd": 80.8
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 167,
+        "unit": "KGS",
+        "weight_kg": 167.0,
+        "value_usd": 153.83
+      },
+      {
+        "marks": "SLI/46",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 84,
+        "unit": "PKG",
+        "weight_kg": 189.19,
+        "value_usd": 3811.66
+      }
+    ],
+    "total_weight_kg": 1129.23,
+    "total_value_usd": 51740.88,
+    "service": "Express Courier",
+    "named_port": "Frankfurt Airport",
+    "insurance_value_usd": 10271.74,
+    "license_type": "Distributor License",
+    "license_number": "LIC-830127",
+    "destination_country": "China"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0065",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV902651172",
+    "shipper_name": "Villa International Ltd",
+    "shipper_address": "443 Susan Bridge, Lake Emily, MO 33235, France",
+    "shipper_country": "France",
+    "consignee_name": "Taylor Industry S.A.",
+    "consignee_address": "731 Bruce Fall Suite 809, Justinberg, FL 87391, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "Dunn Pacific LLC",
+    "notify_party_address": "8029 William Stream Apt. 903, West Jeffreyton, MS 92269, United States",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "538W",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Qingdao, CN",
+    "issue_date": "2024-12-13",
+    "issue_place": "Tokyo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "TRMH7605109",
+        "seal_no": "BL674722",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "LVPP4106116",
+        "seal_no": "SL313139",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "RSXI3478486",
+        "seal_no": "BL995569",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "KXOS0335023",
+        "seal_no": "BL261184",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "number_of_packages": 186,
+    "package_type": "Bag",
+    "gross_weight_kg": 5050.9,
+    "net_weight_kg": 4542.0,
+    "cbm": 15.174,
+    "marks_and_numbers": "XYZ/31"
+  }
+}

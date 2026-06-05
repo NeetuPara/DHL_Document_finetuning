@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0154",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jeffrey Ross",
+    "addressee_company": "Kirby International Inc.",
+    "addressee_address": "7190 Jerry Grove, Lake Lisaburgh, KY 74060, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 4.294,
+    "total_value": 1252.32,
+    "currency": "USD",
+    "issue_date": "2026-01-26",
+    "reference": "REF-568053",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.701,
+        "value": 532.44,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 6,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.593,
+        "value": 719.88,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Poland"
+      }
+    ],
+    "sender_name": "Peter Bennett",
+    "sender_company": "Miller International Co.",
+    "sender_address": "0383 Randy Junction Apt. 315, Shellyfort, CO 79967, Switzerland",
+    "sender_phone": "+1-741-620-6976x5939",
+    "sender_email": "lori01@example.com",
+    "addressee_phone": "748.352.3726",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 73.03,
+    "tracking_number": "CY207253469QR"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0586",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU284499620",
+    "shipper_name": "Marquez Global Inc.",
+    "shipper_address": "0885 Gregory Vista, Nobleland, MH 17294, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Sheppard Commerce AG",
+    "consignee_address": "6708 Shawn Overpass, Owensmouth, WV 68253, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party_name": "Trade Rose S.A.",
+    "notify_party_address": "68354 Mclaughlin Forks Apt. 403, Lake Samantha, FL 76016, Australia",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "545E",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2024-11-25",
+    "issue_place": "Qingdao",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "PSSI6293277",
+        "seal_no": "SL149461",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "WLSN8793633",
+        "seal_no": "BL987845",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "INTK4156530",
+        "seal_no": "SL445055",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 425,
+    "package_type": "Roll",
+    "gross_weight_kg": 14756.5,
+    "net_weight_kg": 13288.9,
+    "cbm": 28.786,
+    "marks_and_numbers": "ABC/13"
+  }
+}

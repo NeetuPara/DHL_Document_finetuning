@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0044",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202407-7039",
+    "usppi_name": "Peterson Tech LLC",
+    "usppi_address": "4051 Alexander Estate, Lake Ryan, MD 23492, Canada",
+    "usppi_country": "Canada",
+    "ein": "46-7280493",
+    "consignee_name": "Commerce Wiley Ltd",
+    "consignee_address": "49232 Hansen Turnpike, Lindaside, WA 58339, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Pacific Nichols Inc.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Kimberly Robinson",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/14",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 156,
+        "unit": "SET",
+        "weight_kg": 429.65,
+        "value_usd": 19956.01
+      },
+      {
+        "marks": "EXP/40",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 116,
+        "unit": "PCS",
+        "weight_kg": 1608.67,
+        "value_usd": 48965.29
+      }
+    ],
+    "total_weight_kg": 2038.32,
+    "total_value_usd": 68921.3,
+    "service": "Ground",
+    "named_port": "Amsterdam Schiphol",
+    "insurance_value_usd": 43874.3,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "United Kingdom"
+  }
+}

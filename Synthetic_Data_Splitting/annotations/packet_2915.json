@@ -1,0 +1,60 @@
+{
+  "packet_id": "packet_2915",
+  "total_pages": 5,
+  "n_documents": 5,
+  "class_sequence": [
+    "Commercial Invoice",
+    "Power of Attorney",
+    "Customs Declaration",
+    "Shipper's Letter of Instruction",
+    "Dangerous Goods Declaration"
+  ],
+  "documents": [
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "commercial_invoice_0434.pdf",
+      "source_class_folder": "01_Commercial_Invoice"
+    },
+    {
+      "doc_class": "Power of Attorney",
+      "class_index": 12,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "poa_0971.pdf",
+      "source_class_folder": "12_Power_of_Attorney"
+    },
+    {
+      "doc_class": "Customs Declaration",
+      "class_index": 9,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "cn23_0249.pdf",
+      "source_class_folder": "09_Customs_Declarations"
+    },
+    {
+      "doc_class": "Shipper's Letter of Instruction",
+      "class_index": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "n_pages": 1,
+      "source_file": "sli_0362.pdf",
+      "source_class_folder": "04_Shippers_Letter_of_Instruction"
+    },
+    {
+      "doc_class": "Dangerous Goods Declaration",
+      "class_index": 5,
+      "page_start": 5,
+      "page_end": 5,
+      "n_pages": 1,
+      "source_file": "dgd_0754.pdf",
+      "source_class_folder": "05_Dangerous_Goods_Declaration"
+    }
+  ],
+  "task": "splitting"
+}

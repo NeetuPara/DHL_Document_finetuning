@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0609",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-95939412",
+    "mawb_number": "057-40470007",
+    "shipper_name": "Powell Tech B.V.",
+    "shipper_address": "774 Patterson Greens, Hallborough, OK 67047, Malaysia",
+    "consignee_name": "International Hamilton B.V.",
+    "consignee_address": "894 Pierce Estates Apt. 704, Randyside, WI 49787, Brazil",
+    "agent_name": "Michael Tech Pte Ltd",
+    "airport_departure": "MIA",
+    "airport_destination": "DXB",
+    "currency": "GBP",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "EUR 34,933.64",
+    "n_pieces": 28,
+    "gross_weight_kg": 33.6,
+    "chargeable_weight": 41.9,
+    "rate": 8.75,
+    "total_charge": 366.62,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "HANDLING CODE: EAP",
+    "issue_date": "2026-01-06",
+    "signatory": "Brian Ford",
+    "iata_code": "45-079",
+    "agent_cass": "2483-2024",
+    "consolidation_ref": "CONS-5497-625184",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-60841782",
+        "pieces": 15,
+        "weight": 54.9,
+        "destination": "YYZ",
+        "consignee": "Peterson Global Inc.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "160-35936348",
+        "pieces": 11,
+        "weight": 96.5,
+        "destination": "DXB",
+        "consignee": "Pacific Jones Pte Ltd",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "085-48226150",
+        "pieces": 14,
+        "weight": 64.4,
+        "destination": "CDG",
+        "consignee": "International Mcdonald Co.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "045-92748542",
+        "pieces": 16,
+        "weight": 20.2,
+        "destination": "CDG",
+        "consignee": "Luna Industry LLC",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0646",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Lopez Pacific S.A.",
+    "shipper_address": "3406 Ramirez Meadow, North Albertfurt, VT 40487, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Industry Macdonald Pte Ltd",
+    "consignee_address": "702 Colleen Mount, South Shawn, UT 70453, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+17 944-695-3507",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 14,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 52.71,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-727026",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Caitlyn Rodriguez",
+    "signature_date": "2026-04-26",
+    "signature_place": "Hong Kong",
+    "awb_number": "125-18937750",
+    "flight_number": "LH5051",
+    "flight_date": "2026-05-31",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "NRT",
+    "destination_airport_name": "Tokyo Narita"
+  }
+}

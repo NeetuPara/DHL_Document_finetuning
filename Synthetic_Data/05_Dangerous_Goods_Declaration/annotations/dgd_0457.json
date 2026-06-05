@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0457",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Wilson Pte Ltd",
+    "shipper_address": "84738 Valerie Mountain, East Stephen, CA 23587, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Wheeler Pacific Inc.",
+    "consignee_address": "35548 Raymond Heights Apt. 922, Lake Ashleymouth, IN 13411, Mexico",
+    "consignee_country": "Mexico",
+    "emergency_telephone": "+86 160-888-4933",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 1,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 81.79,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-295444",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 18,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 56.98,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Christopher Lee",
+    "signature_date": "2026-04-28",
+    "signature_place": "United States",
+    "awb_number": "045-32375363",
+    "flight_number": "UA8293",
+    "flight_date": "2026-05-16",
+    "departure_airport_code": "PVG",
+    "departure_airport_name": "Shanghai Pudong",
+    "destination_airport_code": "LHR",
+    "destination_airport_name": "London Heathrow"
+  }
+}

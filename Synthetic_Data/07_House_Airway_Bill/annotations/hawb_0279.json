@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0279",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-73998382",
+    "mawb_number": "074-93882412",
+    "shipper_name": "Romero Pacific B.V.",
+    "shipper_address": "8566 Laura Bridge, Martinbury, RI 99003, Singapore",
+    "consignee_name": "Industry Lane Inc.",
+    "consignee_address": "927 Lori Lights Suite 150, New Michael, OH 89097, United Kingdom",
+    "agent_name": "International Garcia Pte Ltd",
+    "airport_departure": "ICN",
+    "airport_destination": "PVG",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CHF 6,656.94",
+    "n_pieces": 18,
+    "gross_weight_kg": 340.8,
+    "chargeable_weight": 343.2,
+    "rate": 3.83,
+    "total_charge": 1314.46,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-04-16",
+    "signatory": "Anthony Hampton",
+    "iata_code": "57-606",
+    "agent_cass": "1712-1349",
+    "consolidation_ref": "CONS-0528-294322",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-35279400",
+        "pieces": 7,
+        "weight": 61.4,
+        "destination": "LHR",
+        "consignee": "Lozano Industry Pte Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "074-62870463",
+        "pieces": 19,
+        "weight": 22.9,
+        "destination": "ORD",
+        "consignee": "Holt Commerce B.V.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "006-89119400",
+        "pieces": 13,
+        "weight": 82.3,
+        "destination": "LAX",
+        "consignee": "Industry Buck AG",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "125-69917135",
+        "pieces": 10,
+        "weight": 21.7,
+        "destination": "PVG",
+        "consignee": "Industry Holloway Pte Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "020-96926983",
+        "pieces": 16,
+        "weight": 61.7,
+        "destination": "AMS",
+        "consignee": "Pacific Huffman LLC",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "074-14708323",
+        "pieces": 8,
+        "weight": 83.9,
+        "destination": "JFK",
+        "consignee": "International Bates Corp.",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

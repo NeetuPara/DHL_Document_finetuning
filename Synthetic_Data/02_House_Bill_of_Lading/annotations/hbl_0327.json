@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0327",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU229986662",
+    "shipper_name": "Smith Commerce Corp.",
+    "shipper_address": "38550 Nelson Pass, Williamborough, MO 29670, India",
+    "shipper_country": "India",
+    "consignee_name": "Ellis Commerce LLC",
+    "consignee_address": "543 Garcia Ports Apt. 888, Hayeston, OH 15530, Australia",
+    "consignee_country": "Australia",
+    "notify_party_name": "Hernandez Commerce Corp.",
+    "notify_party_address": "799 John Knoll Apt. 310, Gordontown, ND 47499, Singapore",
+    "vessel": "MSC GULSUN",
+    "voyage": "542E",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2025-02-09",
+    "issue_place": "Busan",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "MNEH0692236",
+        "seal_no": "CL852003",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "QWIH5584693",
+        "seal_no": "CL307139",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 374,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 11424.2,
+    "net_weight_kg": 10567.3,
+    "cbm": 39.751,
+    "marks_and_numbers": "XYZ/1"
+  }
+}

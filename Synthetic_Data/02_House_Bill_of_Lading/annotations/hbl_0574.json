@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0574",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU646602806",
+    "shipper_name": "Byrd Tech Ltd",
+    "shipper_address": "2580 Stephens Spurs, West Williamland, VT 96831, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Parrish Trade AG",
+    "consignee_address": "621 Anderson Skyway Suite 141, Cookton, MO 86607, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party_name": "International Warren Ltd",
+    "notify_party_address": "5805 Collins Islands Apt. 799, South Morganport, IA 70809, Italy",
+    "vessel": "MADRID MAERSK",
+    "voyage": "485S",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Singapore, SG",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2024-07-11",
+    "issue_place": "Long Beach",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "CHMQ9902667",
+        "seal_no": "CL137056",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "ADKF6277042",
+        "seal_no": "SL348084",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 42,
+    "package_type": "Drum",
+    "gross_weight_kg": 8956.9,
+    "net_weight_kg": 8421.5,
+    "cbm": 4.652,
+    "marks_and_numbers": "ABC/5"
+  }
+}

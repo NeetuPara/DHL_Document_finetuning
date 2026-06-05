@@ -1,0 +1,75 @@
+{
+  "document_id": "cn23_0668",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Samantha Giles",
+    "addressee_company": "Nixon Trade AG",
+    "addressee_address": "Unit 5088 Box 1922, DPO AP 02672, Sweden",
+    "addressee_country": "Sweden",
+    "total_weight_kg": 8.614,
+    "total_value": 5451.66,
+    "currency": "SGD",
+    "issue_date": "2025-11-23",
+    "reference": "REF-598136",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.851,
+        "value": 1454.09,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 17,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.556,
+        "value": 312.29,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 13,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.282,
+        "value": 448.24,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 10,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.796,
+        "value": 1422.2,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 1,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.044,
+        "value": 25.1,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 18,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.085,
+        "value": 1789.74,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "Kevin Terrell",
+    "sender_company": "Smith Tech Inc.",
+    "sender_address": "8833 Karl Points, Georgeside, WI 44241, United States",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 71.9,
+    "tracking_number": "AF978541055VM"
+  }
+}

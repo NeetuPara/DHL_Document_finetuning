@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0638",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220830064569",
+    "export_date": "2026-02-25",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Trade Thomas Inc.",
+    "usppi_ein": "10-0040929",
+    "usppi_address": "40080 Karla Forks, Velasquezland, WY 93333, Hong Kong",
+    "ultimate_consignee": "Garcia International Ltd",
+    "intermediate_consignee": "International Crane Inc.",
+    "forwarding_agent": "Baldwin International Ltd",
+    "destination_country": "Belgium",
+    "carrier": "FedEx",
+    "bl_awb": "160-30677702",
+    "total_value": 206115.1,
+    "currency": "CNY",
+    "signatory": "Kelly Taylor",
+    "line_items": [
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "France",
+        "qty": 471,
+        "unit": "CTN",
+        "entered_value": 170487.87,
+        "duty_rate": 19.1,
+        "duty_amount": 32563.18,
+        "eccn": "9A515",
+        "schedule_b": "4819.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Germany",
+        "qty": 191,
+        "unit": "PKG",
+        "entered_value": 35627.23,
+        "duty_rate": 22.0,
+        "duty_amount": 7837.99,
+        "eccn": "3A992",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

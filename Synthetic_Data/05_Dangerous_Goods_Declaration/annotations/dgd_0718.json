@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0718",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Cantu LLC",
+    "shipper_address": "66473 Coleman Grove Apt. 937, Port Laurie, OK 70382, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Tech Sellers Pte Ltd",
+    "consignee_address": "774 Tabitha Village Suite 293, Lake Cameronside, AL 44357, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+22 116-651-6569",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 22,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 52.55,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 46,
+        "pkg_type": "Steel Drum",
+        "net_qty": 41.52,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-420355",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jessica Young",
+    "signature_date": "2026-05-07",
+    "signature_place": "Japan",
+    "awb_number": "045-59275076",
+    "flight_number": "DL2470",
+    "flight_date": "2026-05-09",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "LHR",
+    "destination_airport_name": "London Heathrow"
+  }
+}

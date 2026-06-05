@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0312",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-30930586",
+    "mawb_number": "057-59806314",
+    "shipper_name": "Commerce Dawson Inc.",
+    "shipper_address": "PSC 3207, Box 3637, APO AP 81174, Japan",
+    "consignee_name": "Pacific Vazquez B.V.",
+    "consignee_address": "43970 Navarro Village, Port Michael, AZ 93840, Mexico",
+    "agent_name": "Vargas International LLC",
+    "airport_departure": "LHR",
+    "airport_destination": "DXB",
+    "currency": "USD",
+    "charge_code": "PP",
+    "declared_value_carriage": "AED 24,121.17",
+    "declared_value_customs": "AED 5,391.24",
+    "n_pieces": 7,
+    "gross_weight_kg": 61.0,
+    "chargeable_weight": 72.8,
+    "rate": 6.98,
+    "total_charge": 508.14,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-05-22",
+    "signatory": "John Keller",
+    "iata_code": "54-454",
+    "agent_cass": "0703-1424",
+    "consolidation_ref": "CONS-4884-050882",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-48315062",
+        "pieces": 16,
+        "weight": 86.1,
+        "destination": "PVG",
+        "consignee": "Industry Barnes Corp.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "160-68634551",
+        "pieces": 17,
+        "weight": 49.4,
+        "destination": "LAX",
+        "consignee": "Trade Johnston Inc.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "045-48701450",
+        "pieces": 9,
+        "weight": 41.4,
+        "destination": "DXB",
+        "consignee": "Lopez Pacific Co.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "020-40596936",
+        "pieces": 4,
+        "weight": 59.3,
+        "destination": "YYZ",
+        "consignee": "Trade Perez Inc.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "057-95950292",
+        "pieces": 1,
+        "weight": 31.0,
+        "destination": "YYZ",
+        "consignee": "Rose Global LLC",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "074-89453848",
+        "pieces": 16,
+        "weight": 49.4,
+        "destination": "YYZ",
+        "consignee": "York Industry Pte Ltd",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "176-91178164",
+        "pieces": 12,
+        "weight": 78.1,
+        "destination": "YYZ",
+        "consignee": "Reese Trade Corp.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "074-76300499",
+        "pieces": 2,
+        "weight": 6.3,
+        "destination": "DXB",
+        "consignee": "Wolf Trade GmbH",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

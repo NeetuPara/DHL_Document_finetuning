@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0279",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Ruiz Trade Co.",
+    "shipper_address": "250 Robert Oval, Lake Tyrone, TX 25730, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Glover Industry Co.",
+    "consignee_address": "0705 Mitchell Forges, Angelashire, AK 68619, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+24 982-429-2921",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 40,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 39.3,
+        "qty_unit": "mL",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-160946",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Chelsea Roy",
+    "signature_date": "2026-05-05",
+    "signature_place": "Belgium",
+    "awb_number": "057-97090467",
+    "flight_number": "LH8434",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport",
+    "non_dg_reason": "Excepted quantities (EQ) per IATA DGR 2.6"
+  }
+}

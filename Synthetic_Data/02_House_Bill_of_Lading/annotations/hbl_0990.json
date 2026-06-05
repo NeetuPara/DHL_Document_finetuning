@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0990",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV988363753",
+    "shipper_name": "Tech Reed B.V.",
+    "shipper_address": "646 David Loop, Floydhaven, TX 36596, France",
+    "shipper_country": "France",
+    "consignee_name": "George Pacific Inc.",
+    "consignee_address": "935 Amanda Turnpike Suite 031, Port Tylertown, FL 42001, Japan",
+    "consignee_country": "Japan",
+    "notify_party_name": "Richardson Trade AG",
+    "notify_party_address": "8774 Tracy Motorway, Masontown, TN 09039, France",
+    "vessel": "MADRID MAERSK",
+    "voyage": "861W",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Los Angeles, US",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2026-03-13",
+    "issue_place": "Los Angeles",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "QBOI1277551",
+        "seal_no": "CL308083",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "VHPE1309147",
+        "seal_no": "BL763866",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "EPBJ9314609",
+        "seal_no": "CL775298",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "IJTB8193884",
+        "seal_no": "SL838769",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 418,
+    "package_type": "Bundle",
+    "gross_weight_kg": 9566.7,
+    "net_weight_kg": 8772.2,
+    "cbm": 35.253,
+    "marks_and_numbers": "XYZ/36"
+  }
+}

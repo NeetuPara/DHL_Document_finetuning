@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0262",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202102-6656",
+    "usppi_name": "Jackson Tech S.A.",
+    "usppi_address": "36336 Sara Inlet, Andrewberg, VA 13837, India",
+    "usppi_country": "India",
+    "ein": "97-5397253",
+    "consignee_name": "Trade Castillo Ltd",
+    "consignee_address": "3924 Donald Dale Apt. 222, East Micheleton, NH 83524, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "International Tyler Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Thomas West",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/47",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 49,
+        "unit": "BOX",
+        "weight_kg": 79.53,
+        "value_usd": 1659.2
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 129,
+        "unit": "PCS",
+        "weight_kg": 171.26,
+        "value_usd": 2478.68
+      },
+      {
+        "marks": "EXP/22",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 92,
+        "unit": "PCS",
+        "weight_kg": 994.25,
+        "value_usd": 54405.94
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 31,
+        "unit": "KGS",
+        "weight_kg": 31.0,
+        "value_usd": 416.64
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 15,
+        "unit": "PCS",
+        "weight_kg": 4.35,
+        "value_usd": 421.33
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 171,
+        "unit": "PCS",
+        "weight_kg": 1820.28,
+        "value_usd": 67704.58
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 9,
+        "unit": "PCS",
+        "weight_kg": 1.18,
+        "value_usd": 831.5
+      },
+      {
+        "marks": "SLI/7",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 79,
+        "unit": "KGS",
+        "weight_kg": 79.0,
+        "value_usd": 84.2
+      }
+    ],
+    "total_weight_kg": 3180.85,
+    "total_value_usd": 128002.07,
+    "service": "Ocean Freight",
+    "named_port": "Long Beach, US",
+    "insurance_value_usd": 33937.51,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-196670",
+    "destination_country": "Switzerland"
+  }
+}

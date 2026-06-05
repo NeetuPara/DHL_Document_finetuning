@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0989",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV743367317",
+    "shipper_name": "Commerce Russell Corp.",
+    "shipper_address": "9752 Jacob Flat Apt. 377, Williamsonburgh, PR 99646, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Mcneil Pacific LLC",
+    "consignee_address": "15168 Boyd Land Suite 512, Andrewsmouth, MD 28969, Germany",
+    "consignee_country": "Germany",
+    "notify_party_name": "Pacific Alexander Corp.",
+    "notify_party_address": "4311 Helen Rapid, Hollyfort, MS 34281, Mexico",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "527S",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Antwerp, BE",
+    "issue_date": "2025-04-10",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "MNNN5286399",
+        "seal_no": "BL222140",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "FSMS6096103",
+        "seal_no": "CL246101",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "HPSB9931812",
+        "seal_no": "BL128033",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 219,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 12275.7,
+    "net_weight_kg": 11848.5,
+    "cbm": 10.205,
+    "marks_and_numbers": "XYZ/12"
+  }
+}

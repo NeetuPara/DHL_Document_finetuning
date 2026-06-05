@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0991",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Monica Williams",
+    "addressee_company": "Smith Tech Co.",
+    "addressee_address": "0977 Cody Point Apt. 536, West Tara, MP 62124, India",
+    "addressee_country": "India",
+    "total_weight_kg": 4.116,
+    "total_value": 3820.84,
+    "currency": "CAD",
+    "issue_date": "2025-11-30",
+    "reference": "REF-336553",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.284,
+        "value": 2222.08,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 18,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.832,
+        "value": 1598.76,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Luis Johnson",
+    "sender_company": "Green Global Inc.",
+    "sender_address": "8539 Harper Vista, Douglasshire, NV 68629, Japan",
+    "sender_phone": "815.359.3572",
+    "sender_email": "nwells@example.com",
+    "addressee_phone": "204-896-5567x987",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 36.31,
+    "tracking_number": "SP780434880NH"
+  }
+}

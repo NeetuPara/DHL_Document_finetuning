@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0468",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG874953351",
+    "shipper_name": "Trade Hill GmbH",
+    "shipper_address": "060 Robert Crossroad, Lake Katieland, TX 78976, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Oconnor Pacific Co.",
+    "consignee_address": "84976 Randall Plaza Suite 803, West Thomasview, KY 21767, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party_name": "Osborne Tech Ltd",
+    "notify_party_address": "917 Bailey Way, New Ariel, DC 61758, Germany",
+    "vessel": "EVER GOLDEN",
+    "voyage": "527S",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2026-02-11",
+    "issue_place": "Busan",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "OHCP0312255",
+        "seal_no": "SL145227",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "YTUN8732931",
+        "seal_no": "BL401054",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "VREE6159724",
+        "seal_no": "CL352781",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "JOFC5717917",
+        "seal_no": "BL966775",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 491,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 6343.4,
+    "net_weight_kg": 6098.4,
+    "cbm": 33.982,
+    "marks_and_numbers": "ABC/50"
+  }
+}

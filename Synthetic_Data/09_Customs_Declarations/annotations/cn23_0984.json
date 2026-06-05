@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0984",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Steven Rocha",
+    "addressee_company": "Phillips Trade S.A.",
+    "addressee_address": "4960 Brittany Harbor Suite 478, Denisemouth, SC 53487, China",
+    "addressee_country": "China",
+    "total_weight_kg": 8.549,
+    "total_value": 629.57,
+    "currency": "USD",
+    "issue_date": "2025-11-06",
+    "reference": "REF-703952",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.821,
+        "value": 221.85,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 2,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.722,
+        "value": 291.84,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 1,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.006,
+        "value": 115.88,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_country": "Netherlands",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "710-52570799-0",
+    "entry_type": "Informal Entry",
+    "duty_rate": 8.2,
+    "estimated_duty": 51.62,
+    "importer_ein": "98-0957981",
+    "customs_broker": "Tech Foster LLC"
+  }
+}

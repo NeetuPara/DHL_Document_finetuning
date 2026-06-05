@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0298",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Burns Co.",
+    "shipper_address": "941 Laura Road, Lake Tonyport, CO 33745, France",
+    "shipper_country": "France",
+    "consignee_name": "Commerce Price S.A.",
+    "consignee_address": "97525 Saunders Flats Suite 193, North Brian, FM 53364, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+87 177-128-3716",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 27,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 0.68,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-323559",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 37,
+        "pkg_type": "Steel Drum",
+        "net_qty": 83.76,
+        "qty_unit": "mL",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Abigail Adams",
+    "signature_date": "2026-05-10",
+    "signature_place": "France",
+    "awb_number": "085-77274966",
+    "flight_number": "QR3106",
+    "flight_date": "2026-04-24",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "SYD",
+    "destination_airport_name": "Sydney Kingsford Smith"
+  }
+}

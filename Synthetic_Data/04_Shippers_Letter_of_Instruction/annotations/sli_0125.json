@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0125",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202203-5723",
+    "usppi_name": "Smith Pacific Co.",
+    "usppi_address": "41632 Benton Vista Apt. 271, West Ryan, DE 99222, United States",
+    "usppi_country": "United States",
+    "ein": "14-3436299",
+    "consignee_name": "Tech Hicks B.V.",
+    "consignee_address": "41633 Robinson Mills Apt. 151, North John, OH 89427, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Johnson Pacific Pte Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Christina Clark DVM",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/30",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 52,
+        "unit": "BOX",
+        "weight_kg": 94.48,
+        "value_usd": 4394.32
+      },
+      {
+        "marks": "ABC/10",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 73,
+        "unit": "PCS",
+        "weight_kg": 7.42,
+        "value_usd": 12221.07
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 148,
+        "unit": "CTN",
+        "weight_kg": 103.65,
+        "value_usd": 2201.01
+      }
+    ],
+    "total_weight_kg": 205.55,
+    "total_value_usd": 18816.4,
+    "service": "Express Courier",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 28983.57,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Malaysia"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0135",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202011-2528",
+    "exporter_name": "Commerce Chan GmbH",
+    "exporter_address": "411 Holland Place, Sabrinamouth, NE 87920, Netherlands",
+    "exporter_country": "Netherlands",
+    "consignee_name": "Rodriguez Industry B.V.",
+    "consignee_address": "USNS Castro, FPO AP 94628, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "country_of_origin": "Netherlands",
+    "country_of_destination": "United Arab Emirates",
+    "bl_or_awb": "618-61810990",
+    "issue_date": "2025-07-29",
+    "certifier_name": "Joel Fox",
+    "goods": [
+      {
+        "description": "Textile Fabrics - Woven Polyester",
+        "hs_code": "5407.42.00",
+        "qty": 235,
+        "unit": "MTR",
+        "weight_kg": 152.94,
+        "origin_criterion": "E",
+        "value": 2033.48
+      },
+      {
+        "description": "Automotive Spare Parts - Brake Pads",
+        "hs_code": "8708.30.00",
+        "qty": 215,
+        "unit": "SET",
+        "weight_kg": 190.68,
+        "origin_criterion": "E",
+        "value": 22103.12
+      },
+      {
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "hs_code": "4016.93.00",
+        "qty": 155,
+        "unit": "PKG",
+        "weight_kg": 85.04,
+        "origin_criterion": "A",
+        "value": 2685.73
+      }
+    ],
+    "fta_agreement": "EU-Canada CETA",
+    "chamber": "Chamber of Commerce"
+  }
+}

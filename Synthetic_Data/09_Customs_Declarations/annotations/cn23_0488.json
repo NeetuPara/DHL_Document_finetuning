@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0488",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Eric Jones",
+    "addressee_company": "International Allen Pte Ltd",
+    "addressee_address": "7264 Olson Meadows, Lake Angelview, RI 53742, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 7.345,
+    "total_value": 3433.78,
+    "currency": "GBP",
+    "issue_date": "2025-05-23",
+    "reference": "REF-399383",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.364,
+        "value": 1208.02,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 9,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.117,
+        "value": 656.46,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 15,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.366,
+        "value": 880.05,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 5,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.498,
+        "value": 689.25,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_name": "Victoria Harper",
+    "sender_company": "International Douglas Inc.",
+    "sender_address": "Unit 8762 Box 8982, DPO AE 68136, Netherlands",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 3777.16,
+    "postal_charges": 79.53,
+    "tracking_number": "ZW546938460UE"
+  }
+}

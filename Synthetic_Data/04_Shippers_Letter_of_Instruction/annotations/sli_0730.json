@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0730",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202402-6457",
+    "usppi_name": "Vang Trade S.A.",
+    "usppi_address": "45844 Tiffany Freeway Apt. 105, Lake Reginaldfurt, MS 95680, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "13-4859831",
+    "consignee_name": "International Raymond Co.",
+    "consignee_address": "866 Thompson Mission Suite 793, West Charlesville, PA 71144, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Global Crawford Inc.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Matthew Russell",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/4",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 36,
+        "unit": "KGS",
+        "weight_kg": 36.0,
+        "value_usd": 58.45
+      },
+      {
+        "marks": "SLI/17",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 200,
+        "unit": "PCS",
+        "weight_kg": 162.67,
+        "value_usd": 4984.7
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 170,
+        "unit": "MTR",
+        "weight_kg": 165.91,
+        "value_usd": 946.9
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 40,
+        "unit": "PCS",
+        "weight_kg": 5.54,
+        "value_usd": 1067.61
+      },
+      {
+        "marks": "ABC/31",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 177,
+        "unit": "PKG",
+        "weight_kg": 361.76,
+        "value_usd": 14084.13
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 41,
+        "unit": "PCS",
+        "weight_kg": 405.33,
+        "value_usd": 7018.85
+      }
+    ],
+    "total_weight_kg": 1137.21,
+    "total_value_usd": 28160.64,
+    "service": "Ocean Freight",
+    "named_port": "Hamburg, DE",
+    "insurance_value_usd": 43472.56,
+    "license_type": "Distributor License",
+    "license_number": "LIC-441120",
+    "destination_country": "Australia"
+  }
+}

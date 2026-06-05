@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0487",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "970-08036733-0",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2025-11-21",
+    "port_of_entry": "SFO - San Francisco",
+    "transport_mode": "Rail",
+    "carrier": "UPS",
+    "bl_awb": "125-58411269",
+    "importer_name": "Commerce Pace S.A.",
+    "importer_ein": "86-1175745",
+    "consignee_name": "Bell International S.A.",
+    "customs_broker": "Watson Industry Co.",
+    "broker_filer_code": "jRB",
+    "country_of_origin": "Mexico",
+    "total_value": 289263.66,
+    "total_duty": 33928.48,
+    "currency": "AED",
+    "signatory": "Cheryl Williams",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Sweden",
+        "qty": 211,
+        "unit": "LTR",
+        "entered_value": 70412.81,
+        "duty_rate": 9.4,
+        "duty_amount": 6618.8,
+        "eccn": "0A919",
+        "schedule_b": "2901.10.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Malaysia",
+        "qty": 340,
+        "unit": "PCS",
+        "entered_value": 152309.8,
+        "duty_rate": 13.2,
+        "duty_amount": 20104.89,
+        "eccn": "EAR99",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Netherlands",
+        "qty": 208,
+        "unit": "MTR",
+        "entered_value": 2000.96,
+        "duty_rate": 18.3,
+        "duty_amount": 366.18,
+        "eccn": "EAR99",
+        "schedule_b": "5407.42.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Mexico",
+        "qty": 143,
+        "unit": "BOX",
+        "entered_value": 35957.35,
+        "duty_rate": 3.2,
+        "duty_amount": 1150.64,
+        "eccn": "7A994",
+        "schedule_b": "2936.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "United Kingdom",
+        "qty": 369,
+        "unit": "BOX",
+        "entered_value": 28582.74,
+        "duty_rate": 19.9,
+        "duty_amount": 5687.97,
+        "eccn": "2B350",
+        "schedule_b": "2936.90.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

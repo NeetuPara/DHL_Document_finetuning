@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0939",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-84155191",
+    "mawb_number": "085-31022475",
+    "shipper_name": "Trade Lopez B.V.",
+    "shipper_address": "901 Miguel Spur, Jeremyhaven, SD 52312, Mexico",
+    "consignee_name": "Mckinney Commerce Co.",
+    "consignee_address": "Unit 1143 Box 3934, DPO AA 90629, Italy",
+    "agent_name": "Industry Ross Co.",
+    "airport_departure": "AMS",
+    "airport_destination": "ORD",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 27,
+    "gross_weight_kg": 77.2,
+    "chargeable_weight": 91.7,
+    "rate": 5.45,
+    "total_charge": 499.77,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "TEMP CONTROLLED: 8\u00b0C - 21\u00b0C",
+    "issue_date": "2026-04-28",
+    "signatory": "Elizabeth Williams",
+    "iata_code": "61-143",
+    "agent_cass": "0674-7621",
+    "consolidation_ref": "CONS-0802-216679",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-69928739",
+        "pieces": 17,
+        "weight": 93.3,
+        "destination": "FRA",
+        "consignee": "Hobbs Tech Co.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "618-83337875",
+        "pieces": 18,
+        "weight": 10.8,
+        "destination": "NRT",
+        "consignee": "Commerce King AG",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "006-93159402",
+        "pieces": 13,
+        "weight": 61.0,
+        "destination": "YYZ",
+        "consignee": "Tech Hutchinson LLC",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "045-63918394",
+        "pieces": 7,
+        "weight": 71.8,
+        "destination": "LHR",
+        "consignee": "Jones Industry Pte Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "085-57643654",
+        "pieces": 17,
+        "weight": 27.9,
+        "destination": "DXB",
+        "consignee": "Martinez Pacific Inc.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "618-53955679",
+        "pieces": 5,
+        "weight": 83.4,
+        "destination": "SYD",
+        "consignee": "Adams Industry LLC",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

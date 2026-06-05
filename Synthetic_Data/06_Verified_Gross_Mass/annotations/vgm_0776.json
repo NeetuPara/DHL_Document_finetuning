@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0776",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Tech Terry Ltd",
+    "shipper_address": "64894 Jackson Trafficway, Vanessaview, HI 84024, Belgium",
+    "shipper_country": "Belgium",
+    "container_number": "JFML7026668",
+    "seal_number": "BL197917",
+    "container_size": "20'GP",
+    "iso_type_code": "22G0",
+    "tare_weight_kg": 2200,
+    "cargo_weight_kg": 5838.7,
+    "packing_materials_kg": 206.7,
+    "vgm_kg": 8245.4,
+    "vessel": "MSC GULSUN",
+    "voyage": "455W",
+    "bl_number": "COSU896389349",
+    "booking_reference": "BKG-223886",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-69215",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-17",
+    "signature_date": "2026-05-08",
+    "signatory_name": "Jessica Green",
+    "signatory_title": "VGM Officer",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Crate",
+        "n_units": 17,
+        "gross_wt_kg": 1402.3
+      },
+      {
+        "item_no": 2,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Drum",
+        "n_units": 13,
+        "gross_wt_kg": 1082.3
+      },
+      {
+        "item_no": 3,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Case",
+        "n_units": 7,
+        "gross_wt_kg": 1373.3
+      },
+      {
+        "item_no": 4,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Cylinder",
+        "n_units": 15,
+        "gross_wt_kg": 784.1
+      },
+      {
+        "item_no": 5,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Pallet",
+        "n_units": 20,
+        "gross_wt_kg": 1196.7
+      }
+    ]
+  }
+}

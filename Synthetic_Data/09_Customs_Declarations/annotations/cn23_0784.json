@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0784",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Joseph Carrillo",
+    "addressee_company": "Trade Blackwell Corp.",
+    "addressee_address": "045 Thompson Port, North Jeffrey, MO 25827, United Kingdom",
+    "addressee_country": "United Kingdom",
+    "total_weight_kg": 14.774,
+    "total_value": 4076.04,
+    "currency": "AUD",
+    "issue_date": "2025-07-15",
+    "reference": "REF-079472",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.045,
+        "value": 1211.98,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 17,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.655,
+        "value": 2491.86,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 5,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.169,
+        "value": 330.4,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 1,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.692,
+        "value": 22.73,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 1,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.213,
+        "value": 19.07,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_name": "Mark Braun",
+    "sender_company": "Glenn Commerce GmbH",
+    "sender_address": "4935 Austin Tunnel, Mcmillanborough, SC 11710, Hong Kong",
+    "sender_phone": "+1-377-576-9683x6176",
+    "sender_email": "kaylamendoza@example.org",
+    "addressee_phone": "001-344-393-6549x44619",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 38.34,
+    "tracking_number": "AW271610653KT"
+  }
+}

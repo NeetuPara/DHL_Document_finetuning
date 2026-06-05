@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0490",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202304-1363",
+    "usppi_name": "Harper Global Corp.",
+    "usppi_address": "82405 Yvonne Oval, Brownhaven, MO 91385, India",
+    "usppi_country": "India",
+    "ein": "17-3990175",
+    "consignee_name": "International Mcdowell Inc.",
+    "consignee_address": "USS Rollins, FPO AA 47657, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Tech Aguilar Pte Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Eric Salas",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/47",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 29,
+        "unit": "PKG",
+        "weight_kg": 29.34,
+        "value_usd": 730.62
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 101,
+        "unit": "KGS",
+        "weight_kg": 101.0,
+        "value_usd": 1373.02
+      }
+    ],
+    "total_weight_kg": 130.34,
+    "total_value_usd": 2103.64,
+    "service": "Ocean Freight",
+    "named_port": "Tanjung Pelepas, MY",
+    "insurance_value_usd": 11780.85,
+    "license_type": "Distributor License",
+    "license_number": "LIC-424734",
+    "destination_country": "Australia"
+  }
+}

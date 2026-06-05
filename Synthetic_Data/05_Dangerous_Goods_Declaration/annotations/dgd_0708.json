@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0708",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Oliver Pacific Co.",
+    "shipper_address": "1356 Jessica Path, North Oliviastad, GA 58789, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "International Thompson Ltd",
+    "consignee_address": "417 Walter Branch, South David, UT 34299, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "emergency_telephone": "+43 933-929-9363",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 5,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 18.35,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-103008",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Garrett Nixon",
+    "signature_date": "2026-04-23",
+    "signature_place": "South Korea",
+    "awb_number": "045-44162679",
+    "flight_number": "UA6763",
+    "departure_airport_code": "LAX",
+    "departure_airport_name": "Los Angeles International",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0214",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Martinez Co.",
+    "shipper_address": "82413 Amy Locks, Stephaniefurt, CT 98278, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Evans Pacific LLC",
+    "consignee_address": "04038 Bradford Prairie Apt. 093, East Rebeccafurt, ID 19254, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+78 634-474-7435",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 2,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 36.92,
+        "qty_unit": "L",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-197060",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 40,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 17.71,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Amy Reed",
+    "signature_date": "2026-05-01",
+    "signature_place": "Singapore",
+    "awb_number": "618-14263085",
+    "flight_number": "SQ8204",
+    "flight_date": "2026-04-16",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "SYD",
+    "destination_airport_name": "Sydney Kingsford Smith"
+  }
+}

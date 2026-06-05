@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0057",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Jenkins Pacific Co.",
+    "shipper_address": "5369 Cody Curve Suite 165, South Zacharyberg, HI 42448, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Industry Gonzalez LLC",
+    "consignee_address": "USS Evans, FPO AA 23948, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+14 972-537-1962",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 31,
+        "pkg_type": "Steel Drum",
+        "net_qty": 83.12,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-556513",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Daniel Wilcox",
+    "signature_date": "2026-05-05",
+    "signature_place": "Hong Kong",
+    "awb_number": "618-88968938",
+    "flight_number": "UA7427",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "LHR",
+    "destination_airport_name": "London Heathrow",
+    "non_dg_reason": "Excepted quantities (EQ) per IATA DGR 2.6"
+  }
+}

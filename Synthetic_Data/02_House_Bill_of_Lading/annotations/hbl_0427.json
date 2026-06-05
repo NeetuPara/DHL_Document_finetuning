@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0427",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU107203513",
+    "shipper_name": "International Daniels LLC",
+    "shipper_address": "928 Kirk Walk, East Meghan, CO 59639, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Pacific Mcconnell Inc.",
+    "consignee_address": "2592 Rachel Turnpike Apt. 452, New Carlhaven, VI 62354, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "Pacific Potter S.A.",
+    "notify_party_address": "987 Lindsay Walk Apt. 238, South Paulberg, DE 21658, Canada",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "947S",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2025-09-09",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "HYJC5678409",
+        "seal_no": "BL375813",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "PSQK2461617",
+        "seal_no": "BL327943",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "TSCL6508498",
+        "seal_no": "BL911950",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "XMWH8097626",
+        "seal_no": "CL910284",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 113,
+    "package_type": "Bundle",
+    "gross_weight_kg": 628.6,
+    "net_weight_kg": 577.2,
+    "cbm": 11.062,
+    "marks_and_numbers": "ABC/4"
+  }
+}

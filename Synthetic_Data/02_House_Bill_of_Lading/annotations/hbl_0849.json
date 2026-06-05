@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0849",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU236795189",
+    "shipper_name": "Ward International LLC",
+    "shipper_address": "284 Bailey Mews, West Kristin, AK 08593, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Santos Pacific Corp.",
+    "consignee_address": "2745 Steele Island Apt. 451, East Alexander, SD 90564, India",
+    "consignee_country": "India",
+    "notify_party_name": "Mathews Industry Inc.",
+    "notify_party_address": "PSC 4170, Box 3512, APO AE 89624, Japan",
+    "vessel": "MADRID MAERSK",
+    "voyage": "564E",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2025-07-21",
+    "issue_place": "Long Beach",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "COWB7598767",
+        "seal_no": "SL474019",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "OTHX3777020",
+        "seal_no": "BL679602",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "QPHD9092056",
+        "seal_no": "BL832915",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 252,
+    "package_type": "Bag",
+    "gross_weight_kg": 13654.0,
+    "net_weight_kg": 12095.1,
+    "cbm": 25.718,
+    "marks_and_numbers": "GLB/38"
+  }
+}

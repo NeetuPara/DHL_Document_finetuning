@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0611",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Myers AG",
+    "shipper_address": "USNS Cruz, FPO AA 67387, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Cox International Inc.",
+    "consignee_address": "11178 King Island, West Ryan, PW 38642, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+26 890-941-5357",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 19,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 32.39,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Mario Davenport",
+    "signature_date": "2026-04-18",
+    "signature_place": "Japan",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "338E",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Felixstowe, GB"
+  }
+}

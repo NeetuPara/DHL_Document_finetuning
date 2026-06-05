@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0509",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU811080546",
+    "shipper_name": "Pacific Smith Ltd",
+    "shipper_address": "295 Cantrell Ferry Apt. 873, Rebeccaberg, HI 44095, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Tech Gonzalez S.A.",
+    "consignee_address": "64110 Scott Junction, Royburgh, MH 75700, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party_name": "Mckenzie Tech B.V.",
+    "notify_party_address": "75292 Miller Plains Suite 377, Alexanderborough, MT 39320, France",
+    "vessel": "YANG MING MYTH",
+    "voyage": "659N",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2025-11-13",
+    "issue_place": "Colombo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "WXUI0706247",
+        "seal_no": "BL390644",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "IXQE1086379",
+        "seal_no": "BL250880",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "AMJN2448334",
+        "seal_no": "BL252075",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "YMAM9024656",
+        "seal_no": "BL581627",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 188,
+    "package_type": "Roll",
+    "gross_weight_kg": 22649.1,
+    "net_weight_kg": 20505.7,
+    "cbm": 7.364,
+    "marks_and_numbers": "GLB/27"
+  }
+}

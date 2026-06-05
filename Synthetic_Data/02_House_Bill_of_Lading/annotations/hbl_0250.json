@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0250",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU651916827",
+    "shipper_name": "Commerce Wong GmbH",
+    "shipper_address": "44870 Jones Springs Apt. 594, Wallaceshire, NH 91334, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Global Turner AG",
+    "consignee_address": "6881 Gregory Fields, Gonzalezmouth, MO 37705, Italy",
+    "consignee_country": "Italy",
+    "notify_party_name": "Salazar Industry LLC",
+    "notify_party_address": "559 Sara Knolls Suite 985, West Adam, SC 74504, Australia",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "824W",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2025-07-20",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "YREK6154131",
+        "seal_no": "BL850845",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "OHES6990365",
+        "seal_no": "BL924725",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "YNJF3317189",
+        "seal_no": "CL911927",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "number_of_packages": 346,
+    "package_type": "Bag",
+    "gross_weight_kg": 15192.2,
+    "net_weight_kg": 13488.6,
+    "cbm": 21.243,
+    "marks_and_numbers": "XYZ/16"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0064",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Monica Burns",
+    "addressee_company": "Commerce Monroe Inc.",
+    "addressee_address": "737 Wilson Land, Lake Tarafort, SC 82490, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 6.583,
+    "total_value": 4579.9,
+    "currency": "JPY",
+    "issue_date": "2026-03-26",
+    "reference": "REF-194391",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.292,
+        "value": 523.6,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 16,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.526,
+        "value": 1182.4,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 16,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.365,
+        "value": 2370.4,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 1,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.71,
+        "value": 51.58,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 14,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.69,
+        "value": 451.92,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Jacqueline Vaughn",
+    "sender_company": "Industry Smith B.V.",
+    "sender_address": "72627 Cory Meadow Suite 326, West Kaylaport, GA 62142, Singapore",
+    "sender_phone": "922.627.5640",
+    "sender_email": "amy62@example.com",
+    "addressee_phone": "563.867.0260",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 60.27,
+    "tracking_number": "GP345886890DX"
+  }
+}

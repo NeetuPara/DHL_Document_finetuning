@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0700",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Powell Global Ltd",
+    "shipper_address": "43011 Wood Prairie, West Trevor, AL 62553, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Pacific Mcdonald LLC",
+    "consignee_address": "534 Cynthia Island, New Jennifer, NE 00839, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+1 561-740-8981",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 18,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 24.44,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 44,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 80.2,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-791702",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Jesus Cole",
+    "signature_date": "2026-04-30",
+    "signature_place": "Malaysia",
+    "awb_number": "006-31011292",
+    "flight_number": "SQ8097",
+    "flight_date": "2026-06-01",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "JFK",
+    "destination_airport_name": "JFK New York"
+  }
+}

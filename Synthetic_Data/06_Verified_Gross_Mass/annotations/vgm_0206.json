@@ -1,0 +1,103 @@
+{
+  "document_id": "vgm_0206",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Sanchez Pacific B.V.",
+    "shipper_address": "203 White Hill, East Benjamin, DC 57129, Australia",
+    "shipper_country": "Australia",
+    "container_number": "VAPG0889883",
+    "seal_number": "CL766788",
+    "container_size": "20'RF",
+    "iso_type_code": "22R1",
+    "tare_weight_kg": 3100,
+    "cargo_weight_kg": 9419.0,
+    "packing_materials_kg": 324.4,
+    "vgm_kg": 12843.4,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "640E",
+    "bl_number": "OOLU920180567",
+    "booking_reference": "BKG-796577",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-45736",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-24",
+    "signature_date": "2026-05-12",
+    "signatory_name": "Daisy Bailey",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 10,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Crate",
+        "n_units": 20,
+        "gross_wt_kg": 375.5
+      },
+      {
+        "item_no": 2,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Crate",
+        "n_units": 7,
+        "gross_wt_kg": 628.6
+      },
+      {
+        "item_no": 3,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Bundle",
+        "n_units": 5,
+        "gross_wt_kg": 440.5
+      },
+      {
+        "item_no": 4,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Roll",
+        "n_units": 13,
+        "gross_wt_kg": 1681.4
+      },
+      {
+        "item_no": 5,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Cylinder",
+        "n_units": 12,
+        "gross_wt_kg": 190.7
+      },
+      {
+        "item_no": 6,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Carton",
+        "n_units": 19,
+        "gross_wt_kg": 946.3
+      },
+      {
+        "item_no": 7,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Crate",
+        "n_units": 14,
+        "gross_wt_kg": 103.6
+      },
+      {
+        "item_no": 8,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Drum",
+        "n_units": 7,
+        "gross_wt_kg": 224.8
+      },
+      {
+        "item_no": 9,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Case",
+        "n_units": 11,
+        "gross_wt_kg": 1564.7
+      },
+      {
+        "item_no": 10,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Carton",
+        "n_units": 13,
+        "gross_wt_kg": 3262.9
+      }
+    ]
+  }
+}

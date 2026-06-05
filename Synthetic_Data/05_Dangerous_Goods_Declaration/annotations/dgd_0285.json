@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0285",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Ali Corp.",
+    "shipper_address": "981 Erica Plaza Suite 336, Rodriguezberg, WY 55814, France",
+    "shipper_country": "France",
+    "consignee_name": "Ramsey Pacific Co.",
+    "consignee_address": "34107 Monique Hollow Apt. 539, Julianshire, TX 41911, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+93 710-810-5849",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 24,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 95.49,
+        "qty_unit": "L",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Sydney Miller",
+    "signature_date": "2026-05-05",
+    "signature_place": "France",
+    "awb_number": "085-49933033",
+    "flight_number": "UA3116",
+    "departure_airport_code": "PVG",
+    "departure_airport_name": "Shanghai Pudong",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

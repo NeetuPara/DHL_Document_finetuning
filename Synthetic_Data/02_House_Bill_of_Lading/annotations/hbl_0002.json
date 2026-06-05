@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0002",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU115022416",
+    "shipper_name": "Jackson Global GmbH",
+    "shipper_address": "76126 Clayton Street, North Veronica, DE 53753, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "International Harper Corp.",
+    "consignee_address": "765 Valdez Harbor Suite 851, West William, RI 35619, France",
+    "consignee_country": "France",
+    "notify_party_name": "Atkinson Pacific Co.",
+    "notify_party_address": "601 Dan Radial Apt. 512, Trujillohaven, PR 73813, Sweden",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "426N",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2025-07-15",
+    "issue_place": "New York",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "WIPG9364217",
+        "seal_no": "SL542716",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "WWJH1095062",
+        "seal_no": "BL502997",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "LXFL8963226",
+        "seal_no": "SL147164",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 229,
+    "package_type": "Bag",
+    "gross_weight_kg": 13089.5,
+    "net_weight_kg": 12221.3,
+    "cbm": 18.143,
+    "marks_and_numbers": "ABC/4"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "document_id": "vgm_0392",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Anderson Global Corp.",
+    "shipper_address": "2298 Lorraine Summit Apt. 735, Poncefort, GA 23553, Italy",
+    "shipper_country": "Italy",
+    "container_number": "DQMY8447715",
+    "seal_number": "BL761466",
+    "container_size": "45'HC",
+    "iso_type_code": "L5G0",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 4294.1,
+    "packing_materials_kg": 73.6,
+    "vgm_kg": 9167.7,
+    "vessel": "PIL PACIFIC",
+    "voyage": "671S",
+    "bl_number": "COSU733451879",
+    "booking_reference": "BKG-615638",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-82857",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-20",
+    "signature_date": "2026-05-12",
+    "signatory_name": "Linda Farrell",
+    "signatory_title": "Operations Director",
+    "number_of_packages": 4,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Pallet",
+        "n_units": 9,
+        "gross_wt_kg": 117.1
+      },
+      {
+        "item_no": 2,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Pallet",
+        "n_units": 11,
+        "gross_wt_kg": 2049.3
+      },
+      {
+        "item_no": 3,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Case",
+        "n_units": 5,
+        "gross_wt_kg": 1411.3
+      },
+      {
+        "item_no": 4,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Drum",
+        "n_units": 6,
+        "gross_wt_kg": 716.4
+      }
+    ]
+  }
+}

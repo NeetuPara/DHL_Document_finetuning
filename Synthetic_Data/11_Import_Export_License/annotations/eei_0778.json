@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0778",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "321-21891252-3",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2025-12-12",
+    "port_of_entry": "SEA - Seattle",
+    "transport_mode": "Ocean",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "618-83031383",
+    "importer_name": "Tech Barrett B.V.",
+    "importer_ein": "91-3620912",
+    "consignee_name": "Rogers Industry Corp.",
+    "customs_broker": "Williams Trade Ltd",
+    "broker_filer_code": "zXb",
+    "country_of_origin": "Sweden",
+    "total_value": 181939.0,
+    "total_duty": 41718.58,
+    "currency": "GBP",
+    "signatory": "Mr. Shane Vasquez",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Thailand",
+        "qty": 458,
+        "unit": "MTR",
+        "entered_value": 128720.9,
+        "duty_rate": 24.1,
+        "duty_amount": 31021.74,
+        "eccn": "3A992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Spain",
+        "qty": 335,
+        "unit": "MTR",
+        "entered_value": 53218.1,
+        "duty_rate": 20.1,
+        "duty_amount": 10696.84,
+        "eccn": "5E992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

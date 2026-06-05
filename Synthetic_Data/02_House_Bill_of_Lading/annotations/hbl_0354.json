@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0354",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU461389965",
+    "shipper_name": "International Smith Co.",
+    "shipper_address": "84375 Garcia Ford, Fosterview, MI 83209, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Mcgee Trade Ltd",
+    "consignee_address": "PSC 6222, Box 6031, APO AA 02039, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "King Trade Ltd",
+    "notify_party_address": "391 Lucas Streets Suite 374, Smithside, NV 92627, Malaysia",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "381S",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2024-10-30",
+    "issue_place": "Felixstowe",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "MLEF0592918",
+        "seal_no": "BL979612",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "KOTH3648880",
+        "seal_no": "BL624182",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "QXQG4469188",
+        "seal_no": "SL821867",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "number_of_packages": 189,
+    "package_type": "Case",
+    "gross_weight_kg": 12825.3,
+    "net_weight_kg": 11345.5,
+    "cbm": 7.529,
+    "marks_and_numbers": "GLB/1"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "document_id": "cn23_0893",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jennifer Bowers",
+    "addressee_company": "Tech Jenkins Ltd",
+    "addressee_address": "USNS Hatfield, FPO AE 77767, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 15.841,
+    "total_value": 4357.53,
+    "currency": "CNY",
+    "issue_date": "2026-05-13",
+    "reference": "REF-539058",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.84,
+        "value": 458.66,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 13,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 0.294,
+        "value": 1359.02,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 1,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.683,
+        "value": 50.93,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 20,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.608,
+        "value": 1400.0,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 5,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.905,
+        "value": 398.1,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 13,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.511,
+        "value": 690.82,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "Jeffrey Rivers",
+    "sender_company": "Trade Smith LLC",
+    "sender_address": "136 Patel Ports Suite 195, East Ericmouth, MN 00855, Japan",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 4793.28,
+    "postal_charges": 16.68,
+    "tracking_number": "HJ248159830GI"
+  }
+}

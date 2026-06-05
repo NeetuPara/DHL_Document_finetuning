@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0141",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU133085021",
+    "shipper_name": "Ross Commerce Ltd",
+    "shipper_address": "94427 Bryan Light Apt. 473, New Angela, FM 89048, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Roberts Industry B.V.",
+    "consignee_address": "9755 Moreno Creek Apt. 799, Jontown, CO 14133, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Commerce Bruce Inc.",
+    "notify_party_address": "091 Martinez Junctions Apt. 886, East Justintown, OK 34762, United Kingdom",
+    "vessel": "MSC OSCAR",
+    "voyage": "509W",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2025-10-12",
+    "issue_place": "Tokyo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "WYZC0573364",
+        "seal_no": "SL610961",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "OBTO2876844",
+        "seal_no": "SL664212",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "FHNR5351674",
+        "seal_no": "CL187584",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 73,
+    "package_type": "Crate",
+    "gross_weight_kg": 2551.3,
+    "net_weight_kg": 2280.3,
+    "cbm": 7.48,
+    "marks_and_numbers": "ABC/20"
+  }
+}

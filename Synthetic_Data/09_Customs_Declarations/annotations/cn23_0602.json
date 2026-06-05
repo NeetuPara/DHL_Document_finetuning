@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0602",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Mark Davis",
+    "addressee_company": "Trade Aguilar Pte Ltd",
+    "addressee_address": "357 Kathryn Via Apt. 070, Melissatown, HI 67974, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 3.759,
+    "total_value": 2636.82,
+    "currency": "AED",
+    "issue_date": "2025-05-31",
+    "reference": "REF-991549",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.759,
+        "value": 2636.82,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Jessica Ritter",
+    "sender_company": "Smith Pacific GmbH",
+    "sender_address": "53297 Simon Mount Apt. 027, Nguyenmouth, OK 09244, Italy",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 55.01,
+    "tracking_number": "WL075813946AH"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0409",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Brandon Morrison",
+    "addressee_company": "International Mcgee Pte Ltd",
+    "addressee_address": "8083 Rush Forge, Micheleland, PR 44894, India",
+    "addressee_country": "India",
+    "total_weight_kg": 8.006,
+    "total_value": 3386.9,
+    "currency": "SGD",
+    "issue_date": "2025-11-28",
+    "reference": "REF-417096",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.575,
+        "value": 1591.5,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 20,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.431,
+        "value": 1795.4,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "Ariana Cook",
+    "sender_company": "Lopez Commerce LLC",
+    "sender_address": "82175 Linda Ways Apt. 483, Bethville, OK 91366, France",
+    "sender_phone": "666-338-6032x1188",
+    "sender_email": "paul07@example.com",
+    "addressee_phone": "001-824-214-8867x853",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 3725.59,
+    "postal_charges": 10.56,
+    "tracking_number": "DR643101836HJ"
+  }
+}

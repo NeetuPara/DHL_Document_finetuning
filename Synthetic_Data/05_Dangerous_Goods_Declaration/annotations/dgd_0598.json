@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0598",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Erickson AG",
+    "shipper_address": "896 Nicholas Passage, Port Brittanyberg, UT 19008, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Global Johnson Inc.",
+    "consignee_address": "68649 Davis Views Suite 441, North Mackenzieberg, MA 64080, Japan",
+    "consignee_country": "Japan",
+    "emergency_telephone": "+60 910-800-1612",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 45,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 23.88,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Diana Webb",
+    "signature_date": "2026-05-08",
+    "signature_place": "Poland",
+    "awb_number": "125-62979139",
+    "flight_number": "SQ9890",
+    "flight_date": "2026-05-03",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International"
+  }
+}

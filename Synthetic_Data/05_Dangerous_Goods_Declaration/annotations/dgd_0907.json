@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0907",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Bradshaw B.V.",
+    "shipper_address": "05901 Lucas Circle, North Michaelstad, DE 14856, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Tech Holmes LLC",
+    "consignee_address": "PSC 2051, Box 7313, APO AP 80820, Germany",
+    "consignee_country": "Germany",
+    "emergency_telephone": "+63 101-878-5523",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 15,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 35.45,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 25,
+        "pkg_type": "Steel Drum",
+        "net_qty": 45.37,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Joseph Woods",
+    "signature_date": "2026-04-30",
+    "signature_place": "Malaysia",
+    "awb_number": "045-70290677",
+    "flight_number": "UA3009",
+    "flight_date": "2026-04-30",
+    "departure_airport_code": "FRA",
+    "departure_airport_name": "Frankfurt Airport",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International"
+  }
+}

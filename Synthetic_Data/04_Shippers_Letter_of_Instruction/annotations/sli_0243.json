@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0243",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202404-4155",
+    "usppi_name": "Jordan Tech Co.",
+    "usppi_address": "657 Cheyenne Forks Apt. 813, Douglashaven, WV 41831, United States",
+    "usppi_country": "United States",
+    "ein": "55-2289255",
+    "consignee_name": "Commerce Holden Co.",
+    "consignee_address": "84676 Dwayne Pines, Tristanburgh, CA 69105, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Rivas International Inc.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Stacy Mason",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/43",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 132,
+        "unit": "PCS",
+        "weight_kg": 131.04,
+        "value_usd": 66687.69
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 126,
+        "unit": "CTN",
+        "weight_kg": 273.67,
+        "value_usd": 9321.85
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 129,
+        "unit": "BOX",
+        "weight_kg": 44.21,
+        "value_usd": 9851.17
+      },
+      {
+        "marks": "ABC/2",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 64,
+        "unit": "PCS",
+        "weight_kg": 281.51,
+        "value_usd": 11971.41
+      }
+    ],
+    "total_weight_kg": 730.43,
+    "total_value_usd": 97832.12,
+    "vessel": "PIL PACIFIC",
+    "voyage": "145S",
+    "booking_ref": "BKG-330008",
+    "bl_number": "YMLU333799306",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Hamburg, DE",
+    "container_number": "UDAG6900777",
+    "seal_number": "BL257563",
+    "container_type": "20'GP",
+    "cbm": 10.665
+  }
+}

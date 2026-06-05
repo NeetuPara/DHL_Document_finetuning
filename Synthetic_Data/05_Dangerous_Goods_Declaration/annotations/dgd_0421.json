@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0421",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Warner Ltd",
+    "shipper_address": "25370 Charles Drive Apt. 442, Lindaport, AS 04622, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Tech Bowers Co.",
+    "consignee_address": "329 Ryan Islands Suite 494, Nicholasborough, VA 86533, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+29 770-745-2544",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 37,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 87.29,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-412366",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Mariah Robbins",
+    "signature_date": "2026-04-29",
+    "signature_place": "Switzerland",
+    "awb_number": "125-71223233",
+    "flight_number": "EK4377",
+    "flight_date": "2026-05-27",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0891",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Greg Payne",
+    "addressee_company": "Global Hopkins S.A.",
+    "addressee_address": "PSC 1441, Box 4433, APO AA 29097, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 1.93,
+    "total_value": 2228.78,
+    "currency": "EUR",
+    "issue_date": "2025-09-17",
+    "reference": "REF-108655",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 0.444,
+        "value": 2031.86,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 18,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 1.486,
+        "value": 196.92,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_country": "Japan",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "528-37111194-8",
+    "entry_type": "Informal Entry",
+    "duty_rate": 9.9,
+    "estimated_duty": 220.65,
+    "importer_ein": "69-2581426",
+    "customs_broker": "Fitzgerald Trade Inc."
+  }
+}

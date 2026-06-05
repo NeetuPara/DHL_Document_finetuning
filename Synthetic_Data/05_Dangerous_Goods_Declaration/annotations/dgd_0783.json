@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0783",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Perry Pacific Corp.",
+    "shipper_address": "843 Li Burg, Rojasfort, RI 11252, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Pacific Cantrell Corp.",
+    "consignee_address": "42065 Martinez Pine Suite 574, Port Amandaview, MI 63541, Japan",
+    "consignee_country": "Japan",
+    "emergency_telephone": "+30 296-738-3762",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 15,
+        "pkg_type": "Steel Drum",
+        "net_qty": 68.42,
+        "qty_unit": "mL",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 46,
+        "pkg_type": "Steel Drum",
+        "net_qty": 64.65,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-291973",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Andrea Jenkins",
+    "signature_date": "2026-05-11",
+    "signature_place": "Belgium",
+    "awb_number": "006-43343830",
+    "flight_number": "QR5365",
+    "departure_airport_code": "LAX",
+    "departure_airport_name": "Los Angeles International",
+    "destination_airport_code": "LHR",
+    "destination_airport_name": "London Heathrow",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

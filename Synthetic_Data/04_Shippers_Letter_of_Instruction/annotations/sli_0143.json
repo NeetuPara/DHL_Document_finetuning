@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0143",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202110-4260",
+    "usppi_name": "International Hernandez LLC",
+    "usppi_address": "85379 Ryan Manors, East Michael, MO 83326, Japan",
+    "usppi_country": "Japan",
+    "ein": "56-4488442",
+    "consignee_name": "Hall International Co.",
+    "consignee_address": "02407 Brown Lodge, West Jack, MD 54149, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Jones Commerce Pte Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Hayden Smith",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/19",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 104,
+        "unit": "PCS",
+        "weight_kg": 48.57,
+        "value_usd": 18887.48
+      },
+      {
+        "marks": "EXP/22",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 187,
+        "unit": "PKG",
+        "weight_kg": 82.69,
+        "value_usd": 8654.49
+      },
+      {
+        "marks": "SLI/5",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 129,
+        "unit": "PCS",
+        "weight_kg": 14.01,
+        "value_usd": 5194.2
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 116,
+        "unit": "SET",
+        "weight_kg": 240.09,
+        "value_usd": 11140.22
+      },
+      {
+        "marks": "ABC/3",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 196,
+        "unit": "PCS",
+        "weight_kg": 2344.61,
+        "value_usd": 21189.74
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 178,
+        "unit": "CTN",
+        "weight_kg": 145.67,
+        "value_usd": 992.75
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 56,
+        "unit": "KGS",
+        "weight_kg": 56.0,
+        "value_usd": 58.61
+      }
+    ],
+    "total_weight_kg": 2931.64,
+    "total_value_usd": 66117.49,
+    "service": "Air Freight",
+    "named_port": "Sydney Kingsford Smith",
+    "insurance_value_usd": 40799.86,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-232881",
+    "destination_country": "Netherlands"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0631",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Smith Pte Ltd",
+    "shipper_address": "6592 Bradley Shoals Apt. 190, Susanview, RI 16316, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Wong Global Co.",
+    "consignee_address": "60727 Kayla Spurs Suite 585, New Monicaview, WY 74757, Poland",
+    "consignee_country": "Poland",
+    "emergency_telephone": "+89 189-445-7520",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 1,
+        "pkg_type": "Steel Drum",
+        "net_qty": 38.32,
+        "qty_unit": "mL",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-454443",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Mark Bailey",
+    "signature_date": "2026-04-28",
+    "signature_place": "United States",
+    "awb_number": "085-27856660",
+    "flight_number": "SQ6252",
+    "flight_date": "2026-05-26",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson"
+  }
+}

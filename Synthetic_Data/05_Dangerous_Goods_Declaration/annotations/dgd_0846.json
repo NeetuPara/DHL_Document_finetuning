@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0846",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Norris Trade Co.",
+    "shipper_address": "0770 Joe Mill Apt. 747, Mitchellhaven, FL 79364, United States",
+    "shipper_country": "United States",
+    "consignee_name": "International Decker AG",
+    "consignee_address": "258 Bailey Stream Apt. 324, Brianside, AR 05199, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+84 523-600-1437",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 46,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 18.52,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Michael Macias",
+    "signature_date": "2026-05-11",
+    "signature_place": "United States",
+    "awb_number": "057-36586623",
+    "flight_number": "UA6497",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "SYD",
+    "destination_airport_name": "Sydney Kingsford Smith",
+    "non_dg_reason": "Excepted quantities (EQ) per IATA DGR 2.6"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0609",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202312-2272",
+    "exporter_name": "Rivera Industry LLC",
+    "exporter_address": "75724 Vasquez Shores, Blakeport, WA 71816, Brazil",
+    "exporter_country": "Brazil",
+    "consignee_name": "International Silva S.A.",
+    "consignee_address": "4052 Jessica Station, North Aaron, ND 03318, Germany",
+    "consignee_country": "Germany",
+    "country_of_origin": "Brazil",
+    "country_of_destination": "Germany",
+    "bl_or_awb": "EGLV370271838",
+    "issue_date": "2025-11-24",
+    "certifier_name": "Samantha Lewis",
+    "goods": [
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 378,
+        "unit": "KGS",
+        "weight_kg": 378.0,
+        "origin_criterion": "A",
+        "value": 7835.87
+      },
+      {
+        "description": "Automotive Spare Parts - Brake Pads",
+        "hs_code": "8708.30.00",
+        "qty": 309,
+        "unit": "SET",
+        "weight_kg": 743.05,
+        "origin_criterion": "F",
+        "value": 53468.94
+      },
+      {
+        "description": "Medical Devices - Disposable Syringes",
+        "hs_code": "9018.31.00",
+        "qty": 141,
+        "unit": "CTN",
+        "weight_kg": 461.38,
+        "origin_criterion": "D",
+        "value": 11225.64
+      }
+    ],
+    "fta_agreement": "EU-Japan EPA",
+    "chamber": "Export Council"
+  }
+}

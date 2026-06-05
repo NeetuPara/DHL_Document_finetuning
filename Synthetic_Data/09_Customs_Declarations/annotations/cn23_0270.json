@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0270",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Patricia Olson",
+    "addressee_company": "Global Thompson Co.",
+    "addressee_address": "10280 Paula Trace Apt. 176, Williamton, NY 62512, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 15.409,
+    "total_value": 2507.84,
+    "currency": "EUR",
+    "issue_date": "2025-11-30",
+    "reference": "REF-020782",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.577,
+        "value": 745.5,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 13,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.167,
+        "value": 326.04,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 2,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.689,
+        "value": 164.48,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 11,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.976,
+        "value": 1271.82,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_country": "Singapore",
+    "port_of_entry": "New York, NY",
+    "entry_number": "684-45188404-2",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 8.8,
+    "estimated_duty": 220.69,
+    "importer_ein": "10-8933781",
+    "customs_broker": "Stephens Trade Pte Ltd"
+  }
+}

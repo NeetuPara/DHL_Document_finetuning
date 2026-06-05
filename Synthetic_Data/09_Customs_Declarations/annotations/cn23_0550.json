@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0550",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "James Williams",
+    "addressee_company": "International Campos Corp.",
+    "addressee_address": "71975 Bass Stravenue Suite 354, Raystad, CO 08741, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 5.108,
+    "total_value": 2882.19,
+    "currency": "EUR",
+    "issue_date": "2026-03-20",
+    "reference": "REF-494199",
+    "line_items": [
+      {
+        "qty": 13,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.069,
+        "value": 1548.17,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 9,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.652,
+        "value": 1287.27,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 1,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.387,
+        "value": 46.75,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_name": "Kara Barry",
+    "sender_company": "Clark Global Co.",
+    "sender_address": "5502 Smith Meadow Apt. 310, South Jeremybury, VA 06872, Mexico",
+    "sender_phone": "4376897760",
+    "sender_email": "davidballard@example.net",
+    "addressee_phone": "001-424-302-8216x70189",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 3170.41,
+    "postal_charges": 63.33,
+    "tracking_number": "IL478662060MW"
+  }
+}

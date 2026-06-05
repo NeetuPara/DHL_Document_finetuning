@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0485",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Gonzales Commerce Inc.",
+    "shipper_address": "65737 Cooper Club Suite 506, South Michaelside, AL 66293, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Trade Webb Ltd",
+    "consignee_address": "0793 Christopher Ford, South Kristin, FM 15500, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+72 452-606-4261",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 40,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 30.86,
+        "qty_unit": "L",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 49,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 18.25,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-300316",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Michele Patrick DVM",
+    "signature_date": "2026-05-11",
+    "signature_place": "Poland",
+    "vessel": "CSCL GLOBE",
+    "voyage": "680E",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Dubai, AE"
+  }
+}

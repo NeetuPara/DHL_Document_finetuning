@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0091",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Velazquez Inc.",
+    "shipper_address": "080 Gomez Alley Apt. 865, West Michelle, SD 24734, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "International Phillips GmbH",
+    "consignee_address": "811 Hill Walk, North Cynthia, WA 58991, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+71 490-452-9997",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 28,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 97.54,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-448439",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Karl Fisher",
+    "signature_date": "2026-04-20",
+    "signature_place": "Italy",
+    "awb_number": "160-20637849",
+    "flight_number": "LH5979",
+    "flight_date": "2026-05-11",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International"
+  }
+}

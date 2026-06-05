@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0761",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20200811032206",
+    "export_date": "2025-07-20",
+    "aes_option": "AES Filing",
+    "usppi_name": "Hartman Pacific Corp.",
+    "usppi_ein": "98-0348440",
+    "usppi_address": "Unit 6806 Box 8007, DPO AP 57020, Italy",
+    "ultimate_consignee": "International Stephens Inc.",
+    "intermediate_consignee": "Rollins Global Ltd",
+    "forwarding_agent": "Higgins Global Ltd",
+    "destination_country": "Canada",
+    "carrier": "Maersk",
+    "bl_awb": "085-87502162",
+    "total_value": 560885.28,
+    "currency": "GBP",
+    "signatory": "Kristin Medina",
+    "line_items": [
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "South Korea",
+        "qty": 467,
+        "unit": "BOX",
+        "entered_value": 151583.53,
+        "duty_rate": 7.3,
+        "duty_amount": 11065.6,
+        "eccn": "9A515",
+        "schedule_b": "2936.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "France",
+        "qty": 459,
+        "unit": "PCS",
+        "entered_value": 159309.72,
+        "duty_rate": 3.7,
+        "duty_amount": 5894.46,
+        "eccn": "3A992",
+        "schedule_b": "8483.40.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Mexico",
+        "qty": 403,
+        "unit": "PCS",
+        "entered_value": 155179.18,
+        "duty_rate": 5.2,
+        "duty_amount": 8069.32,
+        "eccn": "EAR99",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Thailand",
+        "qty": 473,
+        "unit": "LTR",
+        "entered_value": 94812.85,
+        "duty_rate": 13.4,
+        "duty_amount": 12704.92,
+        "eccn": "2B350",
+        "schedule_b": "2901.10.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

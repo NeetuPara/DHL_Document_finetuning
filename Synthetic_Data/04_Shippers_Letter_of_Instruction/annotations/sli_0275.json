@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0275",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202011-9695",
+    "usppi_name": "Murray Trade Corp.",
+    "usppi_address": "561 Smith Route Apt. 488, Brianberg, DE 70796, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "37-1790762",
+    "consignee_name": "Hickman Trade Ltd",
+    "consignee_address": "777 Stephanie Viaduct Suite 306, West Linda, SC 05391, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Wells Commerce Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Jason Romero",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/9",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 187,
+        "unit": "CTN",
+        "weight_kg": 678.29,
+        "value_usd": 3745.5
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 21,
+        "unit": "PCS",
+        "weight_kg": 412.62,
+        "value_usd": 2427.84
+      },
+      {
+        "marks": "EXP/12",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 73,
+        "unit": "SET",
+        "weight_kg": 78.2,
+        "value_usd": 3016.12
+      }
+    ],
+    "total_weight_kg": 1169.11,
+    "total_value_usd": 9189.46,
+    "service": "Air Freight",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 14833.07,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-361996",
+    "destination_country": "Canada"
+  }
+}

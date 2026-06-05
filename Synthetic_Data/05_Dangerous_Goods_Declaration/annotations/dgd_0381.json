@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0381",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Torres Ltd",
+    "shipper_address": "0382 Elizabeth Orchard, Robertston, NC 66598, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Trade Robinson Co.",
+    "consignee_address": "351 Daniel Underpass Apt. 268, Joshuabury, OR 84417, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+52 571-729-8491",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 44,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 9.12,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-470320",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 5,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 91.5,
+        "qty_unit": "kg",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-353623",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Sharon Griffith",
+    "signature_date": "2026-05-07",
+    "signature_place": "Hong Kong",
+    "awb_number": "020-82508254",
+    "flight_number": "QR8738",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

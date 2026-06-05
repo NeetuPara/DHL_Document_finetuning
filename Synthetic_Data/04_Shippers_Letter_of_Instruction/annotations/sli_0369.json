@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0369",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202008-2078",
+    "usppi_name": "Wade Commerce S.A.",
+    "usppi_address": "99134 Kristy Port, Jamesview, MN 15886, United Kingdom",
+    "usppi_country": "United Kingdom",
+    "ein": "72-6515514",
+    "consignee_name": "Phillips International LLC",
+    "consignee_address": "413 Beck Mall Apt. 612, Orozcofort, IA 07426, United States",
+    "consignee_country": "United States",
+    "notify_party": "Kidd Commerce B.V.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Raymond Williams",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/24",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 183,
+        "unit": "CTN",
+        "weight_kg": 617.07,
+        "value_usd": 10169.63
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 143,
+        "unit": "MTR",
+        "weight_kg": 112.25,
+        "value_usd": 1010.71
+      }
+    ],
+    "total_weight_kg": 729.32,
+    "total_value_usd": 11180.34,
+    "vessel": "CSCL GLOBE",
+    "voyage": "367E",
+    "booking_ref": "BKG-628208",
+    "bl_number": "COSU515712564",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Los Angeles, US",
+    "container_number": "FNZZ3558631",
+    "seal_number": "BL361361",
+    "container_type": "40'GP",
+    "cbm": 22.631
+  }
+}

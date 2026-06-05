@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0805",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "David Adams",
+    "addressee_company": "Wilkins Commerce Pte Ltd",
+    "addressee_address": "467 Duffy Ford, Thomaschester, WV 86651, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 8.049,
+    "total_value": 1914.58,
+    "currency": "AED",
+    "issue_date": "2025-08-04",
+    "reference": "REF-902801",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 1.812,
+        "value": 1519.8,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 2,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.61,
+        "value": 140.26,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 14,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.627,
+        "value": 254.52,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Poland"
+      }
+    ],
+    "sender_name": "Michael Shields DDS",
+    "sender_company": "Trade Turner Inc.",
+    "sender_address": "0729 Kelly Ford Apt. 348, Lindastad, SD 31897, Japan",
+    "sender_phone": "001-343-918-3969x528",
+    "sender_email": "barbaracox@example.com",
+    "addressee_phone": "001-878-937-2111x13558",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 2106.04,
+    "postal_charges": 76.53,
+    "tracking_number": "LC611679317SY"
+  }
+}

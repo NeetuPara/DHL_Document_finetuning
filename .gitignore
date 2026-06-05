@@ -1,0 +1,31 @@
+# Git ignore file for DHL Document Finetuning project
+
+# User specified exclusions
+model_output_v2/
+model_output_v3/
+models/
+Training_Data/
+Training_Data_v2/
+Training_Data_v3/
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Training / IDE / cache folders
+.claude/
+.sixth/
+.training/
+unsloth_compiled_cache/
+
+# Office temporary files
+~$*.docx
+~$*.doc
+
+# Virtual environment (just in case)
+venv/
+.venv/
+env/
+.env

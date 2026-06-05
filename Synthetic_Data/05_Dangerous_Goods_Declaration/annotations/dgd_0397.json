@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0397",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Bell LLC",
+    "shipper_address": "4806 Katrina Greens Apt. 505, Knoxshire, MN 28259, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Tech Potter GmbH",
+    "consignee_address": "9187 Smith Hollow Apt. 372, Deannaside, CT 03232, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+26 441-338-1451",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 1,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 58.15,
+        "qty_unit": "kg",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 28,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 77.35,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-638632",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Kelly Eaton",
+    "signature_date": "2026-05-13",
+    "signature_place": "United Arab Emirates",
+    "awb_number": "045-77994013",
+    "flight_number": "CX4575",
+    "flight_date": "2026-04-27",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International"
+  }
+}

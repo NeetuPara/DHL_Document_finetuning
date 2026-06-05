@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0502",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU161738767",
+    "shipper_name": "Murphy International Ltd",
+    "shipper_address": "37015 Joshua Radial, West Raymondton, NC 47399, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Holt Trade Co.",
+    "consignee_address": "70081 Billy Fort Apt. 960, Port Evan, CT 45175, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Global Vega Co.",
+    "notify_party_address": "Unit 3203 Box 9552, DPO AE 20244, Japan",
+    "vessel": "CSCL GLOBE",
+    "voyage": "778W",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2024-10-02",
+    "issue_place": "Colombo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "EQUZ5054348",
+        "seal_no": "SL352937",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "KBBF9957886",
+        "seal_no": "CL871487",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 25,
+    "package_type": "Roll",
+    "gross_weight_kg": 20989.4,
+    "net_weight_kg": 19518.3,
+    "cbm": 2.536,
+    "marks_and_numbers": "XYZ/19"
+  }
+}

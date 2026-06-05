@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0864",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Ramsey Commerce B.V.",
+    "shipper_address": "199 Barry Streets, Port Andrewmouth, IL 76866, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Industry George Inc.",
+    "consignee_address": "107 Robert Crossroad Apt. 161, East Danielle, KS 35697, Belgium",
+    "consignee_country": "Belgium",
+    "emergency_telephone": "+64 313-552-8768",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 20,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 56.13,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 22,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 88.88,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Brandon Bishop",
+    "signature_date": "2026-04-24",
+    "signature_place": "South Korea",
+    "awb_number": "618-28598759",
+    "flight_number": "EK6864",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "JFK",
+    "destination_airport_name": "JFK New York",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0948",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202009-6672",
+    "usppi_name": "Global Bryan Pte Ltd",
+    "usppi_address": "3691 Smith Estate Apt. 031, North Jamesfort, IL 89075, Canada",
+    "usppi_country": "Canada",
+    "ein": "29-1958513",
+    "consignee_name": "Hamilton Trade AG",
+    "consignee_address": "15676 Klein Vista Apt. 566, Jacksonside, CA 46342, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Wright Pacific AG",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DAP",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Ryan Kelly",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/4",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 7,
+        "unit": "KGS",
+        "weight_kg": 7.0,
+        "value_usd": 34.91
+      },
+      {
+        "marks": "ABC/28",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 98,
+        "unit": "BOX",
+        "weight_kg": 142.69,
+        "value_usd": 6647.16
+      },
+      {
+        "marks": "SLI/37",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 110,
+        "unit": "PKG",
+        "weight_kg": 297.95,
+        "value_usd": 5454.02
+      },
+      {
+        "marks": "ABC/15",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 176,
+        "unit": "PCS",
+        "weight_kg": 1617.23,
+        "value_usd": 64808.4
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 147,
+        "unit": "PCS",
+        "weight_kg": 80.41,
+        "value_usd": 974.15
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 32,
+        "unit": "PCS",
+        "weight_kg": 456.17,
+        "value_usd": 8720.74
+      },
+      {
+        "marks": "EXP/40",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 98,
+        "unit": "MTR",
+        "weight_kg": 109.16,
+        "value_usd": 458.92
+      }
+    ],
+    "total_weight_kg": 2710.61,
+    "total_value_usd": 87098.3,
+    "vessel": "CSCL GLOBE",
+    "voyage": "985E",
+    "booking_ref": "BKG-948137",
+    "bl_number": "EGLV927063262",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Busan, KR",
+    "container_number": "ODMR1449820",
+    "seal_number": "SL368729",
+    "container_type": "20'GP",
+    "cbm": 31.361
+  }
+}

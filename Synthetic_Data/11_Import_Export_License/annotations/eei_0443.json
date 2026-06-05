@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0443",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210418048301",
+    "export_date": "2026-03-01",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Global Poole Co.",
+    "usppi_ein": "99-4838636",
+    "usppi_address": "351 Sara Course, Lake Erica, LA 44545, Poland",
+    "ultimate_consignee": "Lewis Industry Pte Ltd",
+    "intermediate_consignee": "Tech Davis Inc.",
+    "forwarding_agent": "Pacific Wright B.V.",
+    "destination_country": "Hong Kong",
+    "carrier": "Maersk",
+    "bl_awb": "006-13638165",
+    "total_value": 155064.84,
+    "currency": "CNY",
+    "signatory": "Taylor Jones",
+    "line_items": [
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Switzerland",
+        "qty": 22,
+        "unit": "LTR",
+        "entered_value": 8425.56,
+        "duty_rate": 18.5,
+        "duty_amount": 1558.73,
+        "eccn": "0A919",
+        "schedule_b": "2901.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Italy",
+        "qty": 64,
+        "unit": "PCS",
+        "entered_value": 29270.4,
+        "duty_rate": 17.3,
+        "duty_amount": 5063.78,
+        "eccn": "2B350",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Belgium",
+        "qty": 488,
+        "unit": "PKG",
+        "entered_value": 117368.88,
+        "duty_rate": 0.8,
+        "duty_amount": 938.95,
+        "eccn": "0A919",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

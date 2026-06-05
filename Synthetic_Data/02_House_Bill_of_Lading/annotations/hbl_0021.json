@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0021",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU692756204",
+    "shipper_name": "International Gillespie Corp.",
+    "shipper_address": "62777 Amanda Pines Suite 013, Caitlinport, IA 29922, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Trade Navarro GmbH",
+    "consignee_address": "460 Michael Oval, Jasonfurt, TX 50179, Australia",
+    "consignee_country": "Australia",
+    "notify_party_name": "Industry Johnson Inc.",
+    "notify_party_address": "5179 Ramos Square Suite 565, Bakerville, MI 75278, Switzerland",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "427N",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Los Angeles, US",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2026-04-17",
+    "issue_place": "Singapore",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "XWDD1171209",
+        "seal_no": "BL899060",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "WPQY0453290",
+        "seal_no": "SL607108",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "LMYM1487358",
+        "seal_no": "BL930895",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "NHFC9010811",
+        "seal_no": "SL901718",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "number_of_packages": 410,
+    "package_type": "Pallet",
+    "gross_weight_kg": 10337.9,
+    "net_weight_kg": 9745.6,
+    "cbm": 26.52,
+    "marks_and_numbers": "GLB/5"
+  }
+}

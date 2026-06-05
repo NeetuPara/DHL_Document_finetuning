@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0871",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Young Ltd",
+    "shipper_address": "05116 David Pass Suite 732, New Jennaside, NM 23755, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Powers Trade Ltd",
+    "consignee_address": "79554 Nguyen Lights Suite 399, Lake Ginafurt, WY 69781, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+72 428-266-3268",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 6,
+        "pkg_type": "Steel Drum",
+        "net_qty": 70.87,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Philip Davis",
+    "signature_date": "2026-04-29",
+    "signature_place": "Mexico",
+    "awb_number": "085-72538873",
+    "flight_number": "QR1463",
+    "flight_date": "2026-04-14",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "NRT",
+    "destination_airport_name": "Tokyo Narita"
+  }
+}

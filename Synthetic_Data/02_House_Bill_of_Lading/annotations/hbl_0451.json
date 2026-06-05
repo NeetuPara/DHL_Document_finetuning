@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0451",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV586670476",
+    "shipper_name": "International Blackwell LLC",
+    "shipper_address": "56156 Hill Brooks Apt. 271, Petersonchester, PR 74408, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Patel Trade S.A.",
+    "consignee_address": "07166 Dominic Points, Port Michellehaven, PR 25236, Canada",
+    "consignee_country": "Canada",
+    "notify_party_name": "Vang Industry Corp.",
+    "notify_party_address": "84294 Ryan Forges, East Courtney, ND 88824, Poland",
+    "vessel": "CSCL GLOBE",
+    "voyage": "755E",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Qingdao, CN",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Qingdao, CN",
+    "issue_date": "2025-02-01",
+    "issue_place": "Hamburg",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "NLTZ6511094",
+        "seal_no": "CL759298",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "XRTF8353090",
+        "seal_no": "BL913516",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "ETJR1805005",
+        "seal_no": "SL588958",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "IVQE3073274",
+        "seal_no": "BL283901",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 13,
+    "package_type": "Crate",
+    "gross_weight_kg": 14291.3,
+    "net_weight_kg": 13820.5,
+    "cbm": 1.261,
+    "marks_and_numbers": "XYZ/39"
+  }
+}

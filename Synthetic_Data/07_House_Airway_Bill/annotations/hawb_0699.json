@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0699",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-50704394",
+    "mawb_number": "618-64590648",
+    "shipper_name": "Shaffer Industry GmbH",
+    "shipper_address": "24627 Bray Fort, North Tanyashire, MA 70572, United Kingdom",
+    "consignee_name": "Trade Rodriguez Co.",
+    "consignee_address": "46696 Angela Hills, East Danielleburgh, SD 66885, Japan",
+    "agent_name": "Singh Global Inc.",
+    "airport_departure": "CDG",
+    "airport_destination": "MIA",
+    "currency": "CAD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "SGD 2,930.74",
+    "n_pieces": 46,
+    "gross_weight_kg": 132.9,
+    "chargeable_weight": 150.0,
+    "rate": 5.44,
+    "total_charge": 816.0,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "HANDLING CODE: SUR",
+    "issue_date": "2026-02-25",
+    "signatory": "Michael Hall",
+    "iata_code": "91-514",
+    "agent_cass": "4390-4366",
+    "consolidation_ref": "CONS-1643-160100",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-17213511",
+        "pieces": 3,
+        "weight": 36.9,
+        "destination": "PVG",
+        "consignee": "Global Hernandez Co.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "006-49861866",
+        "pieces": 5,
+        "weight": 59.8,
+        "destination": "ICN",
+        "consignee": "Industry Clements Corp.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "125-29453401",
+        "pieces": 1,
+        "weight": 94.9,
+        "destination": "LAX",
+        "consignee": "Lewis Commerce AG",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

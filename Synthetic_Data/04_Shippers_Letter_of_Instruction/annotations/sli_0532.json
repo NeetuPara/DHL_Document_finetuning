@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0532",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202410-8091",
+    "usppi_name": "Gonzalez Industry Co.",
+    "usppi_address": "5122 Taylor Radial Suite 678, New Tamihaven, TN 60467, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "97-8260447",
+    "consignee_name": "Freeman Commerce Co.",
+    "consignee_address": "9726 Christy Motorway, Port Charles, MT 65765, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Brady International Pte Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Brandon Jackson",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/12",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 79,
+        "unit": "PCS",
+        "weight_kg": 115.37,
+        "value_usd": 2085.71
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 37,
+        "unit": "CTN",
+        "weight_kg": 55.72,
+        "value_usd": 205.11
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 172,
+        "unit": "MTR",
+        "weight_kg": 184.78,
+        "value_usd": 1819.76
+      },
+      {
+        "marks": "EXP/10",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 107,
+        "unit": "KGS",
+        "weight_kg": 107.0,
+        "value_usd": 144.43
+      },
+      {
+        "marks": "ABC/41",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 66,
+        "unit": "PCS",
+        "weight_kg": 278.4,
+        "value_usd": 16194.14
+      }
+    ],
+    "total_weight_kg": 741.27,
+    "total_value_usd": 20449.15,
+    "service": "Ocean Freight",
+    "named_port": "Hong Kong, HK",
+    "insurance_value_usd": 19027.36,
+    "license_type": "Distributor License",
+    "license_number": "LIC-776003",
+    "destination_country": "Switzerland"
+  }
+}

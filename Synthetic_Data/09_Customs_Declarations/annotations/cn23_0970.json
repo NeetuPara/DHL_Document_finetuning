@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0970",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Christopher Alvarez",
+    "addressee_company": "Elliott Industry Pte Ltd",
+    "addressee_address": "47660 Carl Road Apt. 656, Nicholasport, PA 64158, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 11.329,
+    "total_value": 4315.63,
+    "currency": "USD",
+    "issue_date": "2025-08-08",
+    "reference": "REF-440805",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.424,
+        "value": 61.14,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 8,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.787,
+        "value": 1130.16,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 20,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.971,
+        "value": 554.2,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 19,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.147,
+        "value": 2570.13,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Joshua Allen",
+    "sender_company": "Industry Roberts Ltd",
+    "sender_address": "63389 Shaw Plains, Morganmouth, AL 08111, Spain",
+    "sender_phone": "001-491-398-7955x589",
+    "sender_email": "shane01@example.com",
+    "addressee_phone": "(297)437-0430",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 61.96,
+    "tracking_number": "YD329161086LT"
+  }
+}

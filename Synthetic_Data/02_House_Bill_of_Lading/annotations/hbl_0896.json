@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0896",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV207531474",
+    "shipper_name": "Perry Tech AG",
+    "shipper_address": "2353 Craig Gateway, East Deborahport, OH 65666, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Bass International Inc.",
+    "consignee_address": "0144 Guerra Inlet, Donaldmouth, TN 06472, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "Poole Tech S.A.",
+    "notify_party_address": "USS Edwards, FPO AP 02786, Germany",
+    "vessel": "MSC GULSUN",
+    "voyage": "735N",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Hong Kong, HK",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Hong Kong, HK",
+    "issue_date": "2025-07-13",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "FGMH7788848",
+        "seal_no": "SL150979",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "EKKX0835687",
+        "seal_no": "CL800709",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "WBYR1819604",
+        "seal_no": "CL782493",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 17,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 7143.6,
+    "net_weight_kg": 6396.4,
+    "cbm": 1.797,
+    "marks_and_numbers": "GLB/38"
+  }
+}

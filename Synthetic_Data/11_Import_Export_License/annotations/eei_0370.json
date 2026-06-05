@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0370",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "608-48224247-6",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2025-06-06",
+    "port_of_entry": "ORD - Chicago",
+    "transport_mode": "Truck",
+    "carrier": "UPS",
+    "bl_awb": "020-88486734",
+    "importer_name": "Trade Johnson GmbH",
+    "importer_ein": "68-7141141",
+    "consignee_name": "Elliott Industry LLC",
+    "customs_broker": "Guzman Trade S.A.",
+    "broker_filer_code": "okp",
+    "country_of_origin": "South Korea",
+    "total_value": 400873.17,
+    "total_duty": 31398.28,
+    "currency": "JPY",
+    "signatory": "Patricia Anderson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "United Kingdom",
+        "qty": 453,
+        "unit": "SET",
+        "entered_value": 216447.93,
+        "duty_rate": 1.7,
+        "duty_amount": 3679.61,
+        "eccn": "EAR99",
+        "schedule_b": "8708.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Spain",
+        "qty": 158,
+        "unit": "MTR",
+        "entered_value": 54470.5,
+        "duty_rate": 9.8,
+        "duty_amount": 5338.11,
+        "eccn": "1A002",
+        "schedule_b": "5407.42.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "France",
+        "qty": 318,
+        "unit": "CTN",
+        "entered_value": 24005.82,
+        "duty_rate": 15.7,
+        "duty_amount": 3768.91,
+        "eccn": "7A994",
+        "schedule_b": "4819.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Netherlands",
+        "qty": 222,
+        "unit": "LTR",
+        "entered_value": 28009.74,
+        "duty_rate": 6.9,
+        "duty_amount": 1932.67,
+        "eccn": "1A002",
+        "schedule_b": "2901.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "India",
+        "qty": 211,
+        "unit": "SET",
+        "entered_value": 77939.18,
+        "duty_rate": 21.4,
+        "duty_amount": 16678.98,
+        "eccn": "2B350",
+        "schedule_b": "8708.30.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0616",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202303-5839",
+    "usppi_name": "Tech Underwood Corp.",
+    "usppi_address": "3141 Amanda Trafficway Apt. 987, Katietown, MI 62544, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "11-4590976",
+    "consignee_name": "Smith International Co.",
+    "consignee_address": "27276 Shelby Center Suite 482, Kennethton, VT 86612, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "International Phillips AG",
+    "forwarder": "DB Schenker",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Michael Lynn",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/3",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 17,
+        "unit": "CTN",
+        "weight_kg": 46.48,
+        "value_usd": 217.31
+      },
+      {
+        "marks": "SLI/2",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 58,
+        "unit": "KGS",
+        "weight_kg": 58.0,
+        "value_usd": 1247.35
+      },
+      {
+        "marks": "SLI/17",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 42,
+        "unit": "PCS",
+        "weight_kg": 19.85,
+        "value_usd": 36281.76
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 175,
+        "unit": "PCS",
+        "weight_kg": 829.59,
+        "value_usd": 50434.56
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 184,
+        "unit": "MTR",
+        "weight_kg": 155.27,
+        "value_usd": 2183.21
+      },
+      {
+        "marks": "EXP/1",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 10,
+        "unit": "CTN",
+        "weight_kg": 15.34,
+        "value_usd": 706.92
+      }
+    ],
+    "total_weight_kg": 1124.53,
+    "total_value_usd": 91071.11,
+    "service": "Ocean Freight",
+    "named_port": "Colombo, LK",
+    "insurance_value_usd": 32782.5,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-503567",
+    "destination_country": "Japan"
+  }
+}

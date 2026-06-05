@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0715",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jeffrey Fowler",
+    "addressee_company": "West Industry Ltd",
+    "addressee_address": "80929 Brandon Manor Apt. 159, North Katiestad, ME 48145, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 6.407,
+    "total_value": 2320.26,
+    "currency": "JPY",
+    "issue_date": "2025-10-03",
+    "reference": "REF-128729",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.239,
+        "value": 1330.5,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 8,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.168,
+        "value": 989.76,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Poland"
+      }
+    ],
+    "sender_name": "Joseph Moore",
+    "sender_company": "Smith Industry Corp.",
+    "sender_address": "38544 Joseph Village Apt. 342, Gloverville, MH 72613, Belgium",
+    "sender_phone": "7139684016",
+    "sender_email": "amanda54@example.com",
+    "addressee_phone": "(397)919-1638x5233",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 2552.29,
+    "postal_charges": 22.99,
+    "tracking_number": "RV109830802IS"
+  }
+}

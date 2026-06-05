@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0727",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202412-5992",
+    "usppi_name": "Pacific Camacho Pte Ltd",
+    "usppi_address": "99893 Evans Wells, Vickitown, VA 93237, Spain",
+    "usppi_country": "Spain",
+    "ein": "53-4041325",
+    "consignee_name": "Diaz Pacific LLC",
+    "consignee_address": "646 Wheeler Tunnel Apt. 473, Alyssaberg, AK 74454, India",
+    "consignee_country": "India",
+    "notify_party": "Jacobs Commerce Inc.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Alejandra Sanchez",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/49",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 155,
+        "unit": "CTN",
+        "weight_kg": 445.3,
+        "value_usd": 832.01
+      },
+      {
+        "marks": "EXP/25",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 134,
+        "unit": "PCS",
+        "weight_kg": 90.3,
+        "value_usd": 12986.2
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 67,
+        "unit": "PCS",
+        "weight_kg": 1344.32,
+        "value_usd": 21399.79
+      }
+    ],
+    "total_weight_kg": 1879.92,
+    "total_value_usd": 35218.0,
+    "service": "Air Freight",
+    "named_port": "Miami International",
+    "insurance_value_usd": 22686.76,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "India"
+  }
+}

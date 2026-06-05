@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0920",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU102850738",
+    "shipper_name": "Commerce Clayton Corp.",
+    "shipper_address": "6363 Jennifer Union Suite 073, East Emily, NJ 42879, China",
+    "shipper_country": "China",
+    "consignee_name": "Pacific Fitzpatrick GmbH",
+    "consignee_address": "537 Lee Oval, New Elizabeth, KY 34354, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party_name": "Ford Industry Inc.",
+    "notify_party_address": "95878 Zachary Meadow Suite 321, North Rachelburgh, PA 81917, Poland",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "221N",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Qingdao, CN",
+    "issue_date": "2026-01-29",
+    "issue_place": "Antwerp",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "DNFS9092720",
+        "seal_no": "SL608944",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "TNKZ1839399",
+        "seal_no": "CL648951",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "number_of_packages": 267,
+    "package_type": "Drum",
+    "gross_weight_kg": 13944.0,
+    "net_weight_kg": 13150.2,
+    "cbm": 24.435,
+    "marks_and_numbers": "GLB/2"
+  }
+}

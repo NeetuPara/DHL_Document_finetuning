@@ -1,0 +1,82 @@
+{
+  "document_id": "vgm_0455",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Pacific Hernandez Corp.",
+    "shipper_address": "146 Thompson Tunnel, South Jason, ME 17841, Netherlands",
+    "shipper_country": "Netherlands",
+    "container_number": "FBBL5666733",
+    "seal_number": "BL513507",
+    "container_size": "40'HC",
+    "iso_type_code": "45G0",
+    "tare_weight_kg": 4000,
+    "cargo_weight_kg": 17010.1,
+    "packing_materials_kg": 282.0,
+    "vgm_kg": 21292.1,
+    "vessel": "PIL PACIFIC",
+    "voyage": "522E",
+    "bl_number": "MAEU787541226",
+    "booking_reference": "BKG-166460",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-88433",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-22",
+    "signature_date": "2026-05-07",
+    "signatory_name": "Mary Rojas",
+    "signatory_title": "Operations Director",
+    "number_of_packages": 7,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Drum",
+        "n_units": 8,
+        "gross_wt_kg": 1741.0
+      },
+      {
+        "item_no": 2,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Drum",
+        "n_units": 7,
+        "gross_wt_kg": 1127.9
+      },
+      {
+        "item_no": 3,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Carton",
+        "n_units": 15,
+        "gross_wt_kg": 4142.8
+      },
+      {
+        "item_no": 4,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Bundle",
+        "n_units": 4,
+        "gross_wt_kg": 1481.0
+      },
+      {
+        "item_no": 5,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Pallet",
+        "n_units": 14,
+        "gross_wt_kg": 2120.7
+      },
+      {
+        "item_no": 6,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Pallet",
+        "n_units": 15,
+        "gross_wt_kg": 428.7
+      },
+      {
+        "item_no": 7,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Case",
+        "n_units": 4,
+        "gross_wt_kg": 5968.0
+      }
+    ]
+  }
+}

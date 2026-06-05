@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0286",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202604-7509",
+    "usppi_name": "Trade Lucas GmbH",
+    "usppi_address": "PSC 7182, Box 6718, APO AA 75512, United States",
+    "usppi_country": "United States",
+    "ein": "17-9519404",
+    "consignee_name": "Rodriguez Tech Pte Ltd",
+    "consignee_address": "4541 Williams Ridges Apt. 040, Lawsonside, MO 14045, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Trade Herrera Co.",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "David White",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/37",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 139,
+        "unit": "CTN",
+        "weight_kg": 118.2,
+        "value_usd": 1049.24
+      },
+      {
+        "marks": "ABC/2",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 176,
+        "unit": "KGS",
+        "weight_kg": 176.0,
+        "value_usd": 195.56
+      },
+      {
+        "marks": "EXP/10",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 195,
+        "unit": "BOX",
+        "weight_kg": 293.18,
+        "value_usd": 9713.74
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 96,
+        "unit": "PCS",
+        "weight_kg": 927.32,
+        "value_usd": 43100.58
+      },
+      {
+        "marks": "SLI/15",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 65,
+        "unit": "SET",
+        "weight_kg": 145.95,
+        "value_usd": 7301.36
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 91,
+        "unit": "KGS",
+        "weight_kg": 91.0,
+        "value_usd": 1775.44
+      }
+    ],
+    "total_weight_kg": 1751.65,
+    "total_value_usd": 63135.92,
+    "service": "Express Courier",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 19384.88,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-653367",
+    "destination_country": "Spain"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0350",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Peter Hill",
+    "addressee_company": "Burgess Tech Corp.",
+    "addressee_address": "738 Cruz Gardens, East Christina, TX 03416, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 2.606,
+    "total_value": 894.08,
+    "currency": "EUR",
+    "issue_date": "2025-10-07",
+    "reference": "REF-007322",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.606,
+        "value": 894.08,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Mary Greer",
+    "sender_company": "Industry Leach GmbH",
+    "sender_address": "1780 Raymond Ranch Apt. 349, Lake Kelly, SD 60143, Thailand",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 26.08,
+    "tracking_number": "YD346885024WZ"
+  }
+}

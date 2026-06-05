@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0293",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Brenda Green",
+    "addressee_company": "Vazquez Trade Inc.",
+    "addressee_address": "559 James Branch, East Christine, NV 49529, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 11.771,
+    "total_value": 4689.48,
+    "currency": "EUR",
+    "issue_date": "2026-04-04",
+    "reference": "REF-709914",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.865,
+        "value": 36.48,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 14,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.881,
+        "value": 2031.82,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 11,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.267,
+        "value": 1452.22,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 13,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.758,
+        "value": 1168.96,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_name": "Alicia Phillips",
+    "sender_company": "Industry Jones GmbH",
+    "sender_address": "46009 Richards Lake Suite 179, South Taylorside, UT 53527, Sweden",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 42.23,
+    "tracking_number": "YE209939986VD"
+  }
+}

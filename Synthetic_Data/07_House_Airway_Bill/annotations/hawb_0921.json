@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0921",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-33442067",
+    "mawb_number": "125-55451860",
+    "shipper_name": "Tech Briggs AG",
+    "shipper_address": "5681 Abbott Shore Apt. 961, Port Sheila, WA 49566, Sweden",
+    "consignee_name": "Industry Conway AG",
+    "consignee_address": "95127 Smith Track, West Lisamouth, MN 27793, United Arab Emirates",
+    "agent_name": "Fisher Industry AG",
+    "airport_departure": "ORD",
+    "airport_destination": "JFK",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 10,
+    "gross_weight_kg": 319.7,
+    "chargeable_weight": 406.3,
+    "rate": 4.23,
+    "total_charge": 1718.65,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-01-25",
+    "signatory": "Kathleen Reeves",
+    "iata_code": "87-928",
+    "agent_cass": "2010-4475",
+    "consolidation_ref": "CONS-2204-052447",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-43788706",
+        "pieces": 19,
+        "weight": 46.2,
+        "destination": "JFK",
+        "consignee": "International Gonzalez Pte Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "045-59055724",
+        "pieces": 18,
+        "weight": 37.8,
+        "destination": "AMS",
+        "consignee": "Trade Brown AG",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "074-47509416",
+        "pieces": 4,
+        "weight": 93.5,
+        "destination": "NRT",
+        "consignee": "Pacific Smith Co.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

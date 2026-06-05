@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0239",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210704316347",
+    "export_date": "2025-06-06",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Carlson Commerce Ltd",
+    "usppi_ein": "42-1565796",
+    "usppi_address": "910 Michelle Glens, Garciashire, KY 73134, United Arab Emirates",
+    "ultimate_consignee": "International Thompson B.V.",
+    "intermediate_consignee": "Global Wilkerson B.V.",
+    "forwarding_agent": "Stevenson Trade Pte Ltd",
+    "destination_country": "India",
+    "carrier": "UPS",
+    "bl_awb": "176-75696881",
+    "total_value": 207155.4,
+    "currency": "USD",
+    "signatory": "David Anderson",
+    "line_items": [
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Canada",
+        "qty": 439,
+        "unit": "BOX",
+        "entered_value": 160164.76,
+        "duty_rate": 13.8,
+        "duty_amount": 22102.74,
+        "eccn": "5E992",
+        "schedule_b": "2936.90.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Mexico",
+        "qty": 49,
+        "unit": "SET",
+        "entered_value": 7105.98,
+        "duty_rate": 24.3,
+        "duty_amount": 1726.75,
+        "eccn": "2B350",
+        "schedule_b": "8708.30.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Netherlands",
+        "qty": 56,
+        "unit": "MTR",
+        "entered_value": 26088.16,
+        "duty_rate": 24.3,
+        "duty_amount": 6339.42,
+        "eccn": "9A515",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "China",
+        "qty": 205,
+        "unit": "LTR",
+        "entered_value": 13796.5,
+        "duty_rate": 15.0,
+        "duty_amount": 2069.47,
+        "eccn": "2B350",
+        "schedule_b": "2901.10.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

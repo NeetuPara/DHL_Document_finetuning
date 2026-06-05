@@ -1,0 +1,82 @@
+{
+  "document_id": "vgm_0254",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Industry Martinez Ltd",
+    "shipper_address": "PSC 0125, Box 0639, APO AP 68647, Sweden",
+    "shipper_country": "Sweden",
+    "container_number": "LMJE9587573",
+    "seal_number": "BL317395",
+    "container_size": "40'HC",
+    "iso_type_code": "45G0",
+    "tare_weight_kg": 4000,
+    "cargo_weight_kg": 13281.3,
+    "packing_materials_kg": 87.8,
+    "vgm_kg": 17369.1,
+    "vessel": "CSCL GLOBE",
+    "voyage": "738E",
+    "bl_number": "DHLG528536758",
+    "booking_reference": "BKG-739615",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-84238",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-15",
+    "signature_date": "2026-05-09",
+    "signatory_name": "Jenna Roberts",
+    "signatory_title": "VGM Officer",
+    "number_of_packages": 7,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Carton",
+        "n_units": 4,
+        "gross_wt_kg": 2493.3
+      },
+      {
+        "item_no": 2,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Carton",
+        "n_units": 19,
+        "gross_wt_kg": 1306.8
+      },
+      {
+        "item_no": 3,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Cylinder",
+        "n_units": 2,
+        "gross_wt_kg": 184.6
+      },
+      {
+        "item_no": 4,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Crate",
+        "n_units": 4,
+        "gross_wt_kg": 1721.7
+      },
+      {
+        "item_no": 5,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Cylinder",
+        "n_units": 20,
+        "gross_wt_kg": 3602.6
+      },
+      {
+        "item_no": 6,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Drum",
+        "n_units": 10,
+        "gross_wt_kg": 1610.3
+      },
+      {
+        "item_no": 7,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Bundle",
+        "n_units": 3,
+        "gross_wt_kg": 2362.0
+      }
+    ]
+  }
+}

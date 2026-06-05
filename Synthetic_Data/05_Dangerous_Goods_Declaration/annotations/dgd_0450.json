@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0450",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Johnson Industry Corp.",
+    "shipper_address": "842 Tami Locks, Port Jennifer, KY 29550, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Vega Industry Inc.",
+    "consignee_address": "4542 Felicia Villages, Smithville, WV 51416, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+10 478-932-5397",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 9,
+        "pkg_type": "Steel Drum",
+        "net_qty": 96.15,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-143787",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Leslie Lucero",
+    "signature_date": "2026-04-30",
+    "signature_place": "Spain",
+    "awb_number": "618-54928413",
+    "flight_number": "DL4845",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

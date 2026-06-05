@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0606",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Bell International Pte Ltd",
+    "shipper_address": "3512 Kim Ways, Ginaview, AZ 84078, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Todd Tech Pte Ltd",
+    "consignee_address": "92326 Nelson Rapids, Johnsonmouth, OK 89493, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+87 821-273-3214",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 48,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 14.4,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-390398",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Darrell Berry",
+    "signature_date": "2026-05-05",
+    "signature_place": "Germany",
+    "awb_number": "020-71372291",
+    "flight_number": "UA1781",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

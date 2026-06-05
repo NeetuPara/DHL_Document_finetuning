@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0737",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202508-1370",
+    "usppi_name": "Davis Trade Co.",
+    "usppi_address": "9858 Trevor Motorway, New Anthonyfurt, WI 39907, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "67-5681902",
+    "consignee_name": "Commerce Jones AG",
+    "consignee_address": "515 Cooper Creek Apt. 947, New Robertmouth, RI 10638, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Pacific Fisher Pte Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "7A994",
+    "signatory_name": "Eduardo Gamble",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/38",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 113,
+        "unit": "KGS",
+        "weight_kg": 113.0,
+        "value_usd": 159.21
+      },
+      {
+        "marks": "EXP/41",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 165,
+        "unit": "PCS",
+        "weight_kg": 51.45,
+        "value_usd": 1183.6
+      },
+      {
+        "marks": "EXP/27",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 152,
+        "unit": "CTN",
+        "weight_kg": 428.19,
+        "value_usd": 9165.52
+      },
+      {
+        "marks": "ABC/11",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 111,
+        "unit": "CTN",
+        "weight_kg": 269.86,
+        "value_usd": 289.02
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 139,
+        "unit": "MTR",
+        "weight_kg": 74.56,
+        "value_usd": 426.42
+      }
+    ],
+    "total_weight_kg": 937.06,
+    "total_value_usd": 11223.77,
+    "service": "Ground",
+    "named_port": "Sydney Kingsford Smith",
+    "insurance_value_usd": 40810.28,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-806592",
+    "destination_country": "Japan"
+  }
+}

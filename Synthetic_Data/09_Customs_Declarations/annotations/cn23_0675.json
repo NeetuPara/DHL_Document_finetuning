@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0675",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jennifer Hayes",
+    "addressee_company": "Tech Young Ltd",
+    "addressee_address": "56882 Williams Station Suite 718, Robinhaven, OK 43951, India",
+    "addressee_country": "India",
+    "total_weight_kg": 12.172,
+    "total_value": 4726.61,
+    "currency": "AED",
+    "issue_date": "2025-06-28",
+    "reference": "REF-205522",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.311,
+        "value": 1214.2,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 17,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.178,
+        "value": 1787.21,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 19,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.683,
+        "value": 1725.2,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_country": "United States",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "632-33593356-9",
+    "entry_type": "Formal Entry",
+    "duty_rate": 1.3,
+    "estimated_duty": 61.45,
+    "importer_ein": "87-5194568",
+    "customs_broker": "Trade Duncan Inc."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0070",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Gary Hayden",
+    "addressee_company": "Trade Wright S.A.",
+    "addressee_address": "579 Hines Squares, West Debbiefurt, AS 66406, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 8.495,
+    "total_value": 2510.11,
+    "currency": "EUR",
+    "issue_date": "2025-05-22",
+    "reference": "REF-199704",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.291,
+        "value": 113.56,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 13,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.148,
+        "value": 1312.35,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 15,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.056,
+        "value": 1084.2,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_name": "Lauren White",
+    "sender_company": "Commerce Rodriguez LLC",
+    "sender_address": "72500 Michelle Path Suite 203, Allenstad, MO 27753, Malaysia",
+    "sender_phone": "(318)260-3437x710",
+    "sender_email": "barry60@example.net",
+    "addressee_phone": "828.985.5837",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 2761.12,
+    "postal_charges": 37.74,
+    "tracking_number": "PH174814745WI"
+  }
+}

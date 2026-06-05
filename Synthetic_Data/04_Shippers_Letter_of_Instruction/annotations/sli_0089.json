@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0089",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202007-6175",
+    "usppi_name": "Trade Smith B.V.",
+    "usppi_address": "6061 Rebecca Extension, Robertfurt, WY 71969, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "97-7404131",
+    "consignee_name": "Barnes Trade Corp.",
+    "consignee_address": "49858 Rachel Summit, East Jamesside, NJ 27289, United States",
+    "consignee_country": "United States",
+    "notify_party": "Silva Commerce S.A.",
+    "forwarder": "Expeditors",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Michael Case",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/6",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 25,
+        "unit": "PCS",
+        "weight_kg": 15.43,
+        "value_usd": 139.06
+      },
+      {
+        "marks": "ABC/50",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 55,
+        "unit": "PCS",
+        "weight_kg": 28.72,
+        "value_usd": 81024.7
+      }
+    ],
+    "total_weight_kg": 44.15,
+    "total_value_usd": 81163.76,
+    "service": "Ground",
+    "named_port": "Toronto Pearson",
+    "insurance_value_usd": 38000.36,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "United States"
+  }
+}

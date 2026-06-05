@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0578",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202510-9197",
+    "usppi_name": "Mason Global GmbH",
+    "usppi_address": "35284 Bell Knoll Suite 955, South Ericaville, ND 20183, United States",
+    "usppi_country": "United States",
+    "ein": "48-8721736",
+    "consignee_name": "Salazar Trade Co.",
+    "consignee_address": "7996 Joshua Forest Apt. 890, Schwartzstad, MH 66504, China",
+    "consignee_country": "China",
+    "notify_party": "Carroll Commerce Inc.",
+    "forwarder": "Expeditors",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Justin Clements",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/23",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 180,
+        "unit": "CTN",
+        "weight_kg": 253.58,
+        "value_usd": 6962.6
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 127,
+        "unit": "PCS",
+        "weight_kg": 322.33,
+        "value_usd": 76830.63
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 100,
+        "unit": "PKG",
+        "weight_kg": 50.89,
+        "value_usd": 9279.28
+      },
+      {
+        "marks": "ABC/11",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 77,
+        "unit": "KGS",
+        "weight_kg": 77.0,
+        "value_usd": 874.84
+      },
+      {
+        "marks": "EXP/38",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 99,
+        "unit": "PCS",
+        "weight_kg": 9.59,
+        "value_usd": 7825.22
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 81,
+        "unit": "CTN",
+        "weight_kg": 100.81,
+        "value_usd": 440.19
+      },
+      {
+        "marks": "SLI/12",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 112,
+        "unit": "PCS",
+        "weight_kg": 9.55,
+        "value_usd": 14674.87
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 198,
+        "unit": "KGS",
+        "weight_kg": 198.0,
+        "value_usd": 401.83
+      }
+    ],
+    "total_weight_kg": 1021.75,
+    "total_value_usd": 117289.46,
+    "service": "Ground",
+    "named_port": "Shanghai Pudong",
+    "insurance_value_usd": 29814.64,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "China"
+  }
+}

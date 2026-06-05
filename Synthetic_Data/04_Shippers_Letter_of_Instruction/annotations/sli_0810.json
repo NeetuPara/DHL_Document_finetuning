@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0810",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202511-8927",
+    "usppi_name": "Commerce Rodriguez Inc.",
+    "usppi_address": "70998 Hernandez Greens, Jeremiahtown, MH 50598, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "43-5919698",
+    "consignee_name": "Pacific Hernandez AG",
+    "consignee_address": "4698 Sosa Valleys, Port Keith, SD 32161, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Warren Commerce Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Larry Soto",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/46",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 90,
+        "unit": "CTN",
+        "weight_kg": 88.84,
+        "value_usd": 851.39
+      },
+      {
+        "marks": "ABC/21",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 8,
+        "unit": "PCS",
+        "weight_kg": 2.76,
+        "value_usd": 1811.06
+      }
+    ],
+    "total_weight_kg": 91.6,
+    "total_value_usd": 2662.45,
+    "vessel": "MSC OSCAR",
+    "voyage": "871W",
+    "booking_ref": "BKG-152545",
+    "bl_number": "YMLU289594514",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Dubai, AE",
+    "container_number": "BASS7189372",
+    "seal_number": "CL505332",
+    "container_type": "20'GP",
+    "cbm": 4.842
+  }
+}

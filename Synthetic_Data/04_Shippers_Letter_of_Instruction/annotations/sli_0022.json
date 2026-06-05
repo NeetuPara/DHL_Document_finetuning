@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0022",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202411-3182",
+    "usppi_name": "Spencer Trade Ltd",
+    "usppi_address": "PSC 1716, Box 4661, APO AE 13163, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "88-5012340",
+    "consignee_name": "Shaw Industry S.A.",
+    "consignee_address": "5686 Roberts Square, South Jacob, GU 26909, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Tran Industry Inc.",
+    "forwarder": "Expeditors",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Haley Carter",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/43",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 122,
+        "unit": "PCS",
+        "weight_kg": 12.86,
+        "value_usd": 9251.69
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 77,
+        "unit": "PCS",
+        "weight_kg": 11.15,
+        "value_usd": 5025.21
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 111,
+        "unit": "PCS",
+        "weight_kg": 1969.01,
+        "value_usd": 29473.75
+      }
+    ],
+    "total_weight_kg": 1993.02,
+    "total_value_usd": 43750.65,
+    "service": "LCL Ocean",
+    "named_port": "Hamburg, DE",
+    "insurance_value_usd": 3875.57,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-410597",
+    "destination_country": "Hong Kong"
+  }
+}

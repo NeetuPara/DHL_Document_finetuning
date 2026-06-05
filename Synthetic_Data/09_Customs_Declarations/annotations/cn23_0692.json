@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0692",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Heidi Williams",
+    "addressee_company": "Trade Velez GmbH",
+    "addressee_address": "3397 Suzanne Green, New Kimberlyland, GA 76479, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 7.912,
+    "total_value": 3340.65,
+    "currency": "EUR",
+    "issue_date": "2025-08-03",
+    "reference": "REF-127755",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.548,
+        "value": 142.95,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 15,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.001,
+        "value": 1297.2,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 15,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.363,
+        "value": 1900.5,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Joseph Andrews",
+    "sender_company": "Trade Thomas Inc.",
+    "sender_address": "6434 Pena Locks, South Misty, RI 55068, China",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 3674.72,
+    "postal_charges": 11.17,
+    "tracking_number": "YW619304625OD"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0926",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250813839143",
+    "export_date": "2025-11-10",
+    "aes_option": "EEI Exception",
+    "usppi_name": "International Stark Co.",
+    "usppi_ein": "74-3991959",
+    "usppi_address": "843 Murphy Loaf Suite 307, Joville, MD 58924, Sweden",
+    "ultimate_consignee": "Browning International Ltd",
+    "intermediate_consignee": "Pacific Johnson B.V.",
+    "forwarding_agent": "Archer Pacific Pte Ltd",
+    "destination_country": "Malaysia",
+    "carrier": "DHL Express",
+    "bl_awb": "125-95039210",
+    "total_value": 142920.82,
+    "currency": "CHF",
+    "signatory": "Sarah Williams",
+    "line_items": [
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "China",
+        "qty": 102,
+        "unit": "SET",
+        "entered_value": 27961.26,
+        "duty_rate": 8.0,
+        "duty_amount": 2236.9,
+        "eccn": "5E992",
+        "schedule_b": "8708.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Belgium",
+        "qty": 100,
+        "unit": "CTN",
+        "entered_value": 48053.0,
+        "duty_rate": 6.4,
+        "duty_amount": 3075.39,
+        "eccn": "0A919",
+        "schedule_b": "9018.31.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Singapore",
+        "qty": 238,
+        "unit": "MTR",
+        "entered_value": 66906.56,
+        "duty_rate": 13.4,
+        "duty_amount": 8965.48,
+        "eccn": "2B350",
+        "schedule_b": "5407.42.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

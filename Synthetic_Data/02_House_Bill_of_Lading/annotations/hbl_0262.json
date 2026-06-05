@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0262",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU465656386",
+    "shipper_name": "Washington Global Pte Ltd",
+    "shipper_address": "1906 Melinda Estates Suite 215, Antonioburgh, ME 23869, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Brady Industry S.A.",
+    "consignee_address": "1313 Watts Villages Suite 996, East Rodney, AL 47914, United States",
+    "consignee_country": "United States",
+    "notify_party_name": "Tech Taylor B.V.",
+    "notify_party_address": "41061 Green Rue Suite 042, Port Stephanie, CO 53758, Brazil",
+    "vessel": "MSC OSCAR",
+    "voyage": "780E",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2026-03-09",
+    "issue_place": "Busan",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "PAMS0313674",
+        "seal_no": "BL331525",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "KSKF7787088",
+        "seal_no": "SL476795",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "FQSI9778933",
+        "seal_no": "BL201094",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "LUPU4041369",
+        "seal_no": "CL784088",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 489,
+    "package_type": "Pallet",
+    "gross_weight_kg": 8715.1,
+    "net_weight_kg": 8024.6,
+    "cbm": 20.293,
+    "marks_and_numbers": "XYZ/8"
+  }
+}

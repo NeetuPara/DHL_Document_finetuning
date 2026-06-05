@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0570",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-59756561",
+    "mawb_number": "057-51868924",
+    "shipper_name": "Pacific Myers Corp.",
+    "shipper_address": "1204 Hicks Road, New Jessica, RI 41693, Brazil",
+    "consignee_name": "Ritter International B.V.",
+    "consignee_address": "721 Maria Plain Suite 523, Stephenside, IA 57796, Singapore",
+    "agent_name": "Simon Commerce Corp.",
+    "airport_departure": "NRT",
+    "airport_destination": "JFK",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "AED 33,234.24",
+    "declared_value_customs": "USD 25,714.44",
+    "n_pieces": 23,
+    "gross_weight_kg": 14.8,
+    "chargeable_weight": 16.9,
+    "rate": 6.5,
+    "total_charge": 109.85,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-07-19",
+    "signatory": "Brandi Krueger",
+    "iata_code": "20-633",
+    "agent_cass": "6987-9075",
+    "consolidation_ref": "CONS-7869-844359",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-61944655",
+        "pieces": 9,
+        "weight": 1.4,
+        "destination": "MIA",
+        "consignee": "Pacific Castillo Corp.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "074-95959987",
+        "pieces": 2,
+        "weight": 2.9,
+        "destination": "ICN",
+        "consignee": "Gutierrez Trade Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "006-77495157",
+        "pieces": 13,
+        "weight": 80.2,
+        "destination": "YYZ",
+        "consignee": "Global Smith Co.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "085-68866504",
+        "pieces": 12,
+        "weight": 36.9,
+        "destination": "NRT",
+        "consignee": "Trade Key Co.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "020-24249056",
+        "pieces": 8,
+        "weight": 6.2,
+        "destination": "JFK",
+        "consignee": "Wilson Industry B.V.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "020-15549634",
+        "pieces": 14,
+        "weight": 10.2,
+        "destination": "ORD",
+        "consignee": "Martinez Commerce GmbH",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "125-26361965",
+        "pieces": 14,
+        "weight": 54.7,
+        "destination": "ICN",
+        "consignee": "Industry Johnson Inc.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "618-12946203",
+        "pieces": 15,
+        "weight": 93.3,
+        "destination": "SYD",
+        "consignee": "Global Bryant Corp.",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

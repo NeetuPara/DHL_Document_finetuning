@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0837",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU961045617",
+    "shipper_name": "Ponce Global Ltd",
+    "shipper_address": "8174 Diaz Unions, Petersonport, CT 33470, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Leon Trade Ltd",
+    "consignee_address": "0098 Thomas Mountain, Debrahaven, TN 43889, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Tech Phillips B.V.",
+    "notify_party_address": "76119 Christina Mission, Lake Jamesfort, VA 38690, India",
+    "vessel": "CSCL GLOBE",
+    "voyage": "758N",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2025-12-25",
+    "issue_place": "Hong Kong",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "NCXG7561302",
+        "seal_no": "CL731297",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "XBWO7909719",
+        "seal_no": "SL521915",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "VNKF5871444",
+        "seal_no": "CL436362",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 411,
+    "package_type": "Drum",
+    "gross_weight_kg": 15855.7,
+    "net_weight_kg": 14698.2,
+    "cbm": 44.085,
+    "marks_and_numbers": "XYZ/12"
+  }
+}

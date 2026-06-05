@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0244",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202303-2418",
+    "usppi_name": "Global Johnson Pte Ltd",
+    "usppi_address": "88229 Wright Drive, Elizabethstad, MA 06631, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "33-9304292",
+    "consignee_name": "Pacific Reynolds Co.",
+    "consignee_address": "739 Alexander Camp, West Justin, NM 21983, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Hunt Industry S.A.",
+    "forwarder": "Panalpina",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "James Murphy",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/49",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 50,
+        "unit": "PCS",
+        "weight_kg": 15.26,
+        "value_usd": 6970.52
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 156,
+        "unit": "PCS",
+        "weight_kg": 82.68,
+        "value_usd": 532.33
+      }
+    ],
+    "total_weight_kg": 97.94,
+    "total_value_usd": 7502.85,
+    "service": "Express Courier",
+    "named_port": "Miami International",
+    "insurance_value_usd": 18273.34,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-747833",
+    "destination_country": "Belgium"
+  }
+}

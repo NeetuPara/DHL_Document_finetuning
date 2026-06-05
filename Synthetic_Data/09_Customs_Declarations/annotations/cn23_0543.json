@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0543",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Thomas Peterson",
+    "addressee_company": "Davis Pacific Pte Ltd",
+    "addressee_address": "837 Meredith Circle Apt. 647, Kennedystad, SC 63209, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 7.837,
+    "total_value": 1672.36,
+    "currency": "CAD",
+    "issue_date": "2025-05-18",
+    "reference": "REF-742761",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 4.431,
+        "value": 568.84,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 8,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.406,
+        "value": 1103.52,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_country": "India",
+    "port_of_entry": "New York, NY",
+    "entry_number": "492-49550300-3",
+    "entry_type": "Formal Entry",
+    "duty_rate": 20.5,
+    "estimated_duty": 342.83,
+    "importer_ein": "88-8193138",
+    "customs_broker": "Bell Industry GmbH"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0877",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202510-6894",
+    "usppi_name": "Commerce Thompson Inc.",
+    "usppi_address": "7763 White Key, East Cassandra, NE 94816, Italy",
+    "usppi_country": "Italy",
+    "ein": "17-2360710",
+    "consignee_name": "Global Reynolds Pte Ltd",
+    "consignee_address": "0717 Maria Forks Apt. 874, Kristaland, ME 42510, India",
+    "consignee_country": "India",
+    "notify_party": "Commerce English Co.",
+    "forwarder": "Panalpina",
+    "incoterm": "DAP",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Kimberly Small",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/7",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 125,
+        "unit": "PCS",
+        "weight_kg": 1192.32,
+        "value_usd": 40214.58
+      },
+      {
+        "marks": "ABC/7",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 56,
+        "unit": "BOX",
+        "weight_kg": 110.81,
+        "value_usd": 4608.79
+      },
+      {
+        "marks": "EXP/38",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 146,
+        "unit": "SET",
+        "weight_kg": 187.89,
+        "value_usd": 9236.72
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 155,
+        "unit": "KGS",
+        "weight_kg": 155.0,
+        "value_usd": 3162.56
+      }
+    ],
+    "total_weight_kg": 1646.02,
+    "total_value_usd": 57222.65,
+    "service": "Express Courier",
+    "named_port": "Tokyo Narita",
+    "insurance_value_usd": 20417.45,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "India"
+  }
+}

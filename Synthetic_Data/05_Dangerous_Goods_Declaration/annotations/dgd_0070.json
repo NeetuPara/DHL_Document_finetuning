@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0070",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Fuentes Commerce B.V.",
+    "shipper_address": "601 Buckley Plains Apt. 915, West Albert, ME 56529, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Harvey Tech Inc.",
+    "consignee_address": "763 Jonathan Motorway Apt. 014, Robinview, UT 48503, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+85 972-293-2836",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 25,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 48.28,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Shawn Williams",
+    "signature_date": "2026-04-18",
+    "signature_place": "Poland",
+    "awb_number": "057-44892265",
+    "flight_number": "EK4251",
+    "flight_date": "2026-04-19",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International"
+  }
+}

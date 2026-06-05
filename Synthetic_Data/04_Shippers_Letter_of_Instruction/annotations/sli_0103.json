@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0103",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202306-9283",
+    "usppi_name": "Trade Collins Ltd",
+    "usppi_address": "5807 Elizabeth Ports, Williamsland, MO 63063, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "90-3691893",
+    "consignee_name": "Global Boyd S.A.",
+    "consignee_address": "6076 Eric View Suite 645, Cunninghamberg, WV 06912, France",
+    "consignee_country": "France",
+    "notify_party": "Pacific Gould Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Shannon Davis",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/28",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 48,
+        "unit": "KGS",
+        "weight_kg": 48.0,
+        "value_usd": 41.23
+      },
+      {
+        "marks": "EXP/31",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 74,
+        "unit": "KGS",
+        "weight_kg": 74.0,
+        "value_usd": 1141.04
+      },
+      {
+        "marks": "EXP/31",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 89,
+        "unit": "PCS",
+        "weight_kg": 1454.09,
+        "value_usd": 18963.1
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 5,
+        "unit": "BOX",
+        "weight_kg": 3.07,
+        "value_usd": 567.67
+      }
+    ],
+    "total_weight_kg": 1579.16,
+    "total_value_usd": 20713.04,
+    "service": "Ground",
+    "named_port": "Shanghai Pudong",
+    "insurance_value_usd": 16227.85,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-876630",
+    "destination_country": "France"
+  }
+}

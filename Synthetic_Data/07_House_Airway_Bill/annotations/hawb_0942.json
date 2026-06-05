@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0942",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-61343153",
+    "mawb_number": "125-91371665",
+    "shipper_name": "Industry Morris S.A.",
+    "shipper_address": "6335 Owen Via Suite 721, South Paulabury, MI 88779, India",
+    "consignee_name": "Tech Novak AG",
+    "consignee_address": "910 Alexander Alley, Dominiquebury, DE 90869, Germany",
+    "agent_name": "Pacific Hughes LLC",
+    "airport_departure": "CDG",
+    "airport_destination": "PVG",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "GBP 46,798.98",
+    "declared_value_customs": "NCV",
+    "n_pieces": 4,
+    "gross_weight_kg": 447.3,
+    "chargeable_weight": 579.0,
+    "rate": 2.64,
+    "total_charge": 1528.56,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-08-20",
+    "signatory": "Margaret Mitchell",
+    "iata_code": "99-117",
+    "agent_cass": "1366-8846",
+    "consolidation_ref": "CONS-9189-650149",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-95130889",
+        "pieces": 20,
+        "weight": 20.6,
+        "destination": "CDG",
+        "consignee": "International Gonzalez GmbH",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "176-90888301",
+        "pieces": 5,
+        "weight": 39.6,
+        "destination": "MIA",
+        "consignee": "Commerce Santiago Pte Ltd",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "085-19388260",
+        "pieces": 12,
+        "weight": 2.1,
+        "destination": "YYZ",
+        "consignee": "Bonilla Industry Co.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "160-17193533",
+        "pieces": 2,
+        "weight": 29.4,
+        "destination": "ORD",
+        "consignee": "Gross Pacific Inc.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "057-93333407",
+        "pieces": 6,
+        "weight": 22.8,
+        "destination": "SYD",
+        "consignee": "Crawford Industry LLC",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "176-16314791",
+        "pieces": 16,
+        "weight": 52.0,
+        "destination": "SIN",
+        "consignee": "Cherry Commerce S.A.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "020-61855633",
+        "pieces": 6,
+        "weight": 15.2,
+        "destination": "JFK",
+        "consignee": "Santos International Co.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "045-38137855",
+        "pieces": 19,
+        "weight": 6.8,
+        "destination": "SIN",
+        "consignee": "Industry Garcia B.V.",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

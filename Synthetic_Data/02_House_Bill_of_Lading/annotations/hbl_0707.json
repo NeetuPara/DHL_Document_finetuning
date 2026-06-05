@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0707",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU829015927",
+    "shipper_name": "Trade Jenkins Corp.",
+    "shipper_address": "9234 Elizabeth Unions Suite 165, Brendafurt, NH 18027, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Global Hawkins Pte Ltd",
+    "consignee_address": "99598 John Club Suite 786, Jayburgh, HI 45916, France",
+    "consignee_country": "France",
+    "notify_party_name": "Trade Flores LLC",
+    "notify_party_address": "USCGC White, FPO AE 94212, India",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "427S",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Hong Kong, HK",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2024-10-05",
+    "issue_place": "Shanghai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "QTDN0363443",
+        "seal_no": "BL578300",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "CWMN0798696",
+        "seal_no": "CL956291",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "MBKY3167067",
+        "seal_no": "BL337657",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 471,
+    "package_type": "Bag",
+    "gross_weight_kg": 7989.7,
+    "net_weight_kg": 7558.5,
+    "cbm": 45.447,
+    "marks_and_numbers": "GLB/45"
+  }
+}

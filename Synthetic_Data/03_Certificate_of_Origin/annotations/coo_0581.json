@@ -1,0 +1,45 @@
+{
+  "document_id": "coo_0581",
+  "document_class": "Certificate of Origin",
+  "format_variant": "FTA-USMCA-Numbered-Fields",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202405-5134",
+    "exporter_name": "Johnston Trade Co.",
+    "exporter_address": "91543 Hill Camp Apt. 408, Berryburgh, KY 67509, Netherlands",
+    "exporter_country": "Netherlands",
+    "consignee_name": "Trade Thompson B.V.",
+    "consignee_address": "86273 Hawkins Streets, Robbinsmouth, ME 07016, Switzerland",
+    "consignee_country": "Switzerland",
+    "country_of_origin": "Netherlands",
+    "country_of_destination": "Switzerland",
+    "bl_or_awb": "DHLG606695769",
+    "issue_date": "2024-07-21",
+    "certifier_name": "Sheri Banks",
+    "goods": [
+      {
+        "description": "Electronic Components - Printed Circuit Boards",
+        "hs_code": "8534.00.00",
+        "qty": 220,
+        "unit": "PCS",
+        "weight_kg": 29.28,
+        "origin_criterion": "B",
+        "value": 50049.34
+      },
+      {
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "hs_code": "8518.30.00",
+        "qty": 496,
+        "unit": "PCS",
+        "weight_kg": 43.24,
+        "origin_criterion": "C",
+        "value": 27319.68
+      }
+    ],
+    "fta_agreement": "US-Korea FTA (KORUS)",
+    "blanket_period_from": "2024-01-24",
+    "blanket_period_to": "2024-10-04",
+    "producer_name": "Pacific Frye GmbH",
+    "producer_country": "Singapore"
+  }
+}

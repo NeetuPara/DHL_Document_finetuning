@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0508",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Pamela Cameron",
+    "addressee_company": "Barker Global AG",
+    "addressee_address": "9941 Renee Flats Apt. 099, North Tony, AZ 48625, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 6.007,
+    "total_value": 2279.54,
+    "currency": "AED",
+    "issue_date": "2025-12-10",
+    "reference": "REF-686763",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.443,
+        "value": 113.76,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 18,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.304,
+        "value": 510.84,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 14,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.26,
+        "value": 1654.94,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Jeff Holland",
+    "sender_company": "Trade Irwin GmbH",
+    "sender_address": "USNS Lopez, FPO AE 89349, Japan",
+    "sender_phone": "(676)533-5339x764",
+    "sender_email": "sydneylin@example.net",
+    "addressee_phone": "+1-771-781-3861x3629",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 2507.49,
+    "postal_charges": 48.19,
+    "tracking_number": "ZN376891306KR"
+  }
+}

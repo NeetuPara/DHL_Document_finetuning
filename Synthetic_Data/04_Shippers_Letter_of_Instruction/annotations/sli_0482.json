@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0482",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202409-9250",
+    "usppi_name": "Shepherd International S.A.",
+    "usppi_address": "17188 Sweeney Divide Suite 789, Lake Donaldshire, AR 87416, Italy",
+    "usppi_country": "Italy",
+    "ein": "98-1391558",
+    "consignee_name": "Trade Flynn Ltd",
+    "consignee_address": "59373 Jacob Springs Apt. 142, Lake Lisamouth, IL 09485, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Sutton Pacific S.A.",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Megan Cline",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/9",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 178,
+        "unit": "PCS",
+        "weight_kg": 2024.68,
+        "value_usd": 22409.56
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 81,
+        "unit": "CTN",
+        "weight_kg": 162.53,
+        "value_usd": 413.58
+      },
+      {
+        "marks": "ABC/41",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 166,
+        "unit": "PCS",
+        "weight_kg": 67.49,
+        "value_usd": 3199.49
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 165,
+        "unit": "LTR",
+        "weight_kg": 179.15,
+        "value_usd": 1990.21
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 178,
+        "unit": "PCS",
+        "weight_kg": 51.01,
+        "value_usd": 24107.74
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 81,
+        "unit": "BOX",
+        "weight_kg": 133.51,
+        "value_usd": 2382.72
+      },
+      {
+        "marks": "ABC/19",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 112,
+        "unit": "CTN",
+        "weight_kg": 247.52,
+        "value_usd": 2807.09
+      }
+    ],
+    "total_weight_kg": 2865.89,
+    "total_value_usd": 57310.39,
+    "service": "Ground",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 30850.92,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Thailand"
+  }
+}

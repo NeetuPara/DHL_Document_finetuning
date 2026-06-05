@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0429",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-51508816",
+    "mawb_number": "020-32276907",
+    "shipper_name": "Industry Smith Pte Ltd",
+    "shipper_address": "3915 Mackenzie Field, East Jamesbury, MD 15478, Sweden",
+    "consignee_name": "Commerce Jones Inc.",
+    "consignee_address": "59653 Sandoval Roads, Rebeccaborough, PR 02602, United Arab Emirates",
+    "agent_name": "Jones Tech S.A.",
+    "airport_departure": "YYZ",
+    "airport_destination": "FRA",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "AUD 27,130.36",
+    "declared_value_customs": "GBP 30,049.79",
+    "n_pieces": 28,
+    "gross_weight_kg": 82.5,
+    "chargeable_weight": 100.5,
+    "rate": 8.94,
+    "total_charge": 898.47,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-04-20",
+    "signatory": "Nancy Smith",
+    "iata_code": "64-498",
+    "agent_cass": "0349-6695",
+    "consolidation_ref": "CONS-9174-242793",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-38111191",
+        "pieces": 19,
+        "weight": 96.4,
+        "destination": "DXB",
+        "consignee": "Industry Gomez Co.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "160-14172377",
+        "pieces": 15,
+        "weight": 95.1,
+        "destination": "LAX",
+        "consignee": "Tech White Pte Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "006-20858106",
+        "pieces": 1,
+        "weight": 17.9,
+        "destination": "JFK",
+        "consignee": "Brown Industry Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "125-77494257",
+        "pieces": 20,
+        "weight": 19.3,
+        "destination": "SYD",
+        "consignee": "Lewis Pacific AG",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "057-23382747",
+        "pieces": 18,
+        "weight": 53.5,
+        "destination": "SIN",
+        "consignee": "International Torres Inc.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "176-56823004",
+        "pieces": 12,
+        "weight": 0.8,
+        "destination": "LAX",
+        "consignee": "Commerce Taylor Corp.",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

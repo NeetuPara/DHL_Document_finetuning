@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0283",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202111-1169",
+    "usppi_name": "Pittman International B.V.",
+    "usppi_address": "6037 Stacey Fall, Leviland, AL 55815, United Kingdom",
+    "usppi_country": "United Kingdom",
+    "ein": "62-8058872",
+    "consignee_name": "Esparza Industry B.V.",
+    "consignee_address": "6042 Gilbert Stream Apt. 614, Jenkinston, OR 13659, United States",
+    "consignee_country": "United States",
+    "notify_party": "Jones Pacific Inc.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Carrie Fritz",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/20",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 190,
+        "unit": "PCS",
+        "weight_kg": 27.41,
+        "value_usd": 14721.31
+      },
+      {
+        "marks": "EXP/3",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 198,
+        "unit": "PCS",
+        "weight_kg": 164.81,
+        "value_usd": 140895.3
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 161,
+        "unit": "BOX",
+        "weight_kg": 118.18,
+        "value_usd": 3501.18
+      },
+      {
+        "marks": "ABC/35",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 121,
+        "unit": "PCS",
+        "weight_kg": 122.24,
+        "value_usd": 2673.2
+      }
+    ],
+    "total_weight_kg": 432.64,
+    "total_value_usd": 161790.99,
+    "service": "Air Freight",
+    "named_port": "Sydney Kingsford Smith",
+    "insurance_value_usd": 11212.91,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-315749",
+    "destination_country": "United States"
+  }
+}

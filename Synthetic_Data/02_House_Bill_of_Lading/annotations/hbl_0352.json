@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0352",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU634154189",
+    "shipper_name": "Hill Commerce Inc.",
+    "shipper_address": "Unit 4050 Box 7141, DPO AP 24593, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Lee Pacific S.A.",
+    "consignee_address": "993 Paul Views Apt. 884, West Robertview, ND 17674, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party_name": "Stone Industry Inc.",
+    "notify_party_address": "044 Gates Burgs Suite 502, North Linda, CO 86673, Singapore",
+    "vessel": "CSCL GLOBE",
+    "voyage": "794S",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Los Angeles, US",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2025-08-19",
+    "issue_place": "Long Beach",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "VPAW3333803",
+        "seal_no": "BL289686",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "RVCI3619261",
+        "seal_no": "BL147791",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 225,
+    "package_type": "Roll",
+    "gross_weight_kg": 19221.1,
+    "net_weight_kg": 18063.5,
+    "cbm": 9.157,
+    "marks_and_numbers": "GLB/25"
+  }
+}

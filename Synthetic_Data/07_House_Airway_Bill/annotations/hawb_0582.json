@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0582",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-71036116",
+    "mawb_number": "020-38024001",
+    "shipper_name": "Pacific Campbell Corp.",
+    "shipper_address": "117 Torres Rapids Suite 956, Ramirezstad, AS 82041, Singapore",
+    "consignee_name": "Allen International Pte Ltd",
+    "consignee_address": "915 James Corner Suite 392, East Erin, MT 37719, Malaysia",
+    "agent_name": "Ramos Industry LLC",
+    "airport_departure": "CDG",
+    "airport_destination": "HKG",
+    "currency": "AUD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 28,
+    "gross_weight_kg": 373.2,
+    "chargeable_weight": 452.9,
+    "rate": 3.44,
+    "total_charge": 1557.98,
+    "nature_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-02-06",
+    "signatory": "Connie Lynch",
+    "iata_code": "63-547",
+    "agent_cass": "7213-2409",
+    "consolidation_ref": "CONS-7761-132439",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-34344095",
+        "pieces": 4,
+        "weight": 77.5,
+        "destination": "SYD",
+        "consignee": "Global Raymond Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "074-65597763",
+        "pieces": 19,
+        "weight": 2.4,
+        "destination": "FRA",
+        "consignee": "International Smith Corp.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "160-13170909",
+        "pieces": 8,
+        "weight": 76.5,
+        "destination": "LAX",
+        "consignee": "Commerce Martin GmbH",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "006-65436958",
+        "pieces": 6,
+        "weight": 60.8,
+        "destination": "YYZ",
+        "consignee": "Global Murphy Corp.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "160-42614843",
+        "pieces": 7,
+        "weight": 44.1,
+        "destination": "AMS",
+        "consignee": "Nelson International Co.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "125-40457532",
+        "pieces": 7,
+        "weight": 59.8,
+        "destination": "SYD",
+        "consignee": "International Knight AG",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "020-27259587",
+        "pieces": 3,
+        "weight": 74.9,
+        "destination": "NRT",
+        "consignee": "Griffin Pacific Inc.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "006-44218307",
+        "pieces": 6,
+        "weight": 24.2,
+        "destination": "NRT",
+        "consignee": "Clark Industry S.A.",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

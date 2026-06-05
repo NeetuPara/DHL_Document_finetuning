@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0920",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210821260125",
+    "export_date": "2025-08-01",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Trade Atkinson LLC",
+    "usppi_ein": "12-7536184",
+    "usppi_address": "Unit 0915 Box 4307, DPO AE 07285, China",
+    "ultimate_consignee": "International Baker AG",
+    "intermediate_consignee": "International Fisher Inc.",
+    "forwarding_agent": "Dominguez Global Inc.",
+    "destination_country": "South Korea",
+    "carrier": "MSC",
+    "bl_awb": "085-12619358",
+    "total_value": 459932.96,
+    "currency": "GBP",
+    "signatory": "Margaret Baker",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Germany",
+        "qty": 330,
+        "unit": "PCS",
+        "entered_value": 100996.5,
+        "duty_rate": 20.1,
+        "duty_amount": 20300.3,
+        "eccn": "0A919",
+        "schedule_b": "9002.11.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "France",
+        "qty": 149,
+        "unit": "BOX",
+        "entered_value": 72209.87,
+        "duty_rate": 20.5,
+        "duty_amount": 14803.02,
+        "eccn": "2B350",
+        "schedule_b": "2936.90.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Spain",
+        "qty": 251,
+        "unit": "KGS",
+        "entered_value": 122796.73,
+        "duty_rate": 7.1,
+        "duty_amount": 8718.57,
+        "eccn": "5E992",
+        "schedule_b": "2008.19.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Singapore",
+        "qty": 350,
+        "unit": "SET",
+        "entered_value": 126605.5,
+        "duty_rate": 19.2,
+        "duty_amount": 24308.26,
+        "eccn": "2B350",
+        "schedule_b": "8708.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Belgium",
+        "qty": 134,
+        "unit": "PKG",
+        "entered_value": 37324.36,
+        "duty_rate": 15.8,
+        "duty_amount": 5897.25,
+        "eccn": "3A992",
+        "schedule_b": "4016.93.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

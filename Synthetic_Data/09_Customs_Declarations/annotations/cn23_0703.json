@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0703",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Phillip Stephens",
+    "addressee_company": "Global Reed Ltd",
+    "addressee_address": "7784 Rubio Highway Apt. 015, New Matthewchester, PR 14568, Malaysia",
+    "addressee_country": "Malaysia",
+    "total_weight_kg": 5.135,
+    "total_value": 2006.26,
+    "currency": "AUD",
+    "issue_date": "2025-07-03",
+    "reference": "REF-791744",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.887,
+        "value": 913.84,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 17,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.248,
+        "value": 1092.42,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_name": "Norman Mercer",
+    "sender_company": "Buchanan Pacific LLC",
+    "sender_address": "PSC 7983, Box 1376, APO AA 70570, United Kingdom",
+    "sender_phone": "984-627-9109",
+    "sender_email": "tina50@example.com",
+    "addressee_phone": "(552)681-5585",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 2206.89,
+    "postal_charges": 63.09,
+    "tracking_number": "OH328836868NE"
+  }
+}

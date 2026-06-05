@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0503",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20251209167066",
+    "export_date": "2025-08-20",
+    "aes_option": "AES Filing",
+    "usppi_name": "Tanner Tech Corp.",
+    "usppi_ein": "20-5152435",
+    "usppi_address": "928 Brown Stravenue Suite 944, Anthonyton, WA 90633, Malaysia",
+    "ultimate_consignee": "Trade Brown Inc.",
+    "intermediate_consignee": "Chen Trade Ltd",
+    "forwarding_agent": "Garner Trade Co.",
+    "destination_country": "Germany",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "020-32569872",
+    "total_value": 379779.86,
+    "currency": "JPY",
+    "signatory": "Christina Lee",
+    "line_items": [
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Mexico",
+        "qty": 489,
+        "unit": "BOX",
+        "entered_value": 241654.02,
+        "duty_rate": 4.4,
+        "duty_amount": 10632.78,
+        "eccn": "7A994",
+        "schedule_b": "2936.90.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Netherlands",
+        "qty": 383,
+        "unit": "PCS",
+        "entered_value": 114930.64,
+        "duty_rate": 22.5,
+        "duty_amount": 25859.39,
+        "eccn": "9A515",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Sweden",
+        "qty": 218,
+        "unit": "PCS",
+        "entered_value": 23195.2,
+        "duty_rate": 8.1,
+        "duty_amount": 1878.81,
+        "eccn": "1A002",
+        "schedule_b": "9002.11.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

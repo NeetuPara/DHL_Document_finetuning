@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0045",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU581647608",
+    "shipper_name": "Tech Jones Corp.",
+    "shipper_address": "65591 Linda Square Suite 196, Janeberg, WV 67237, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Commerce Hoover Corp.",
+    "consignee_address": "0941 Eric Ford, North Mathewborough, NY 20023, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party_name": "Commerce Gordon AG",
+    "notify_party_address": "285 Bradford Turnpike, Lake Stephanieton, TN 17707, United Arab Emirates",
+    "vessel": "EVER GOLDEN",
+    "voyage": "640E",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2025-02-06",
+    "issue_place": "Tokyo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "CCFG6578441",
+        "seal_no": "CL268241",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "SDZU5066017",
+        "seal_no": "SL356846",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "OMQV6873854",
+        "seal_no": "CL619768",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 34,
+    "package_type": "Carton",
+    "gross_weight_kg": 17648.5,
+    "net_weight_kg": 16894.9,
+    "cbm": 3.839,
+    "marks_and_numbers": "XYZ/2"
+  }
+}

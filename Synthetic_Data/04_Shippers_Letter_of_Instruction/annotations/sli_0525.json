@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0525",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202402-9565",
+    "usppi_name": "Tech Reyes AG",
+    "usppi_address": "05114 Alfred Springs, East Nicolehaven, GA 07087, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "65-2266662",
+    "consignee_name": "Commerce Young GmbH",
+    "consignee_address": "8871 Robin Roads Apt. 673, Jenniferport, ID 04932, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Reyes Commerce AG",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Patrick Hernandez",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/41",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 152,
+        "unit": "BOX",
+        "weight_kg": 217.59,
+        "value_usd": 16332.47
+      },
+      {
+        "marks": "SLI/9",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 34,
+        "unit": "PCS",
+        "weight_kg": 49.31,
+        "value_usd": 16042.38
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 143,
+        "unit": "PCS",
+        "weight_kg": 33.67,
+        "value_usd": 29591.83
+      },
+      {
+        "marks": "SLI/11",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 24,
+        "unit": "PCS",
+        "weight_kg": 226.02,
+        "value_usd": 3975.26
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 148,
+        "unit": "SET",
+        "weight_kg": 441.25,
+        "value_usd": 3826.73
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 37,
+        "unit": "CTN",
+        "weight_kg": 104.53,
+        "value_usd": 2490.35
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 105,
+        "unit": "KGS",
+        "weight_kg": 105.0,
+        "value_usd": 144.15
+      }
+    ],
+    "total_weight_kg": 1177.37,
+    "total_value_usd": 72403.17,
+    "vessel": "MOL TRIUMPH",
+    "voyage": "803W",
+    "booking_ref": "BKG-922592",
+    "bl_number": "EGLV403128991",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Singapore, SG",
+    "container_number": "AWTQ1418553",
+    "seal_number": "SL198750",
+    "container_type": "40'GP",
+    "cbm": 25.088
+  }
+}

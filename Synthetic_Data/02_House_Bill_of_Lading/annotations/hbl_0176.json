@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0176",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV707935462",
+    "shipper_name": "Fisher Commerce Co.",
+    "shipper_address": "327 Powell Drives, West Toddmouth, IA 68280, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Kirby International Pte Ltd",
+    "consignee_address": "Unit 4940 Box 1249, DPO AE 08276, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Trade Andrews AG",
+    "notify_party_address": "USS Nelson, FPO AP 73170, Hong Kong",
+    "vessel": "CSCL GLOBE",
+    "voyage": "594E",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2025-07-04",
+    "issue_place": "Long Beach",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "RGHS9078964",
+        "seal_no": "BL812207",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "GPCJ2654086",
+        "seal_no": "SL801330",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 454,
+    "package_type": "Roll",
+    "gross_weight_kg": 1954.1,
+    "net_weight_kg": 1813.9,
+    "cbm": 48.945,
+    "marks_and_numbers": "XYZ/28"
+  }
+}

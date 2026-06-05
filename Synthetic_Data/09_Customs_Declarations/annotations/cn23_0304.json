@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0304",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kathleen Davis",
+    "addressee_company": "Peters Pacific Co.",
+    "addressee_address": "0950 Barrett Parkways, West Dominic, PA 44687, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 7.144,
+    "total_value": 2637.12,
+    "currency": "USD",
+    "issue_date": "2025-07-11",
+    "reference": "REF-900717",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.948,
+        "value": 2078.72,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 5,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.196,
+        "value": 558.4,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_name": "Richard Johnson",
+    "sender_company": "Commerce Carson Inc.",
+    "sender_address": "7356 Rogers Extensions, West Melaniehaven, MN 24683, Hong Kong",
+    "sender_phone": "8678492345",
+    "sender_email": "michelemcmillan@example.com",
+    "addressee_phone": "463.573.1314x1451",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 34.7,
+    "tracking_number": "WX045879014VA"
+  }
+}

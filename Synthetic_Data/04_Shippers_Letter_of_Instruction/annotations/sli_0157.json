@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0157",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202001-1148",
+    "usppi_name": "Hunter Industry Pte Ltd",
+    "usppi_address": "PSC 9270, Box 9155, APO AE 01246, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "50-1123357",
+    "consignee_name": "Industry Harrington Corp.",
+    "consignee_address": "0499 Perez Plaza Apt. 048, Chelseaberg, MT 96370, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Johnston International S.A.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Larry Pierce",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/44",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 147,
+        "unit": "PCS",
+        "weight_kg": 219.77,
+        "value_usd": 632.05
+      },
+      {
+        "marks": "SLI/38",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 74,
+        "unit": "KGS",
+        "weight_kg": 74.0,
+        "value_usd": 1247.8
+      },
+      {
+        "marks": "EXP/1",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 146,
+        "unit": "PCS",
+        "weight_kg": 2214.64,
+        "value_usd": 46142.77
+      }
+    ],
+    "total_weight_kg": 2508.41,
+    "total_value_usd": 48022.62,
+    "service": "Air Freight",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 12477.05,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-605065",
+    "destination_country": "United Arab Emirates"
+  }
+}

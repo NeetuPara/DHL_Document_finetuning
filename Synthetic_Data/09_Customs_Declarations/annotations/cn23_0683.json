@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0683",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Shannon Short",
+    "addressee_company": "Smith Global AG",
+    "addressee_address": "271 Gordon Land Apt. 744, East Jorgeville, NY 97064, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 12.749,
+    "total_value": 2639.3,
+    "currency": "USD",
+    "issue_date": "2026-01-22",
+    "reference": "REF-665124",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.221,
+        "value": 249.13,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 6,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.364,
+        "value": 435.42,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 14,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.402,
+        "value": 1055.6,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 7,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.762,
+        "value": 899.15,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_name": "Kyle Anderson",
+    "sender_company": "West Global B.V.",
+    "sender_address": "35914 Fred Trafficway, East Alexis, VI 28053, United Kingdom",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 32.15,
+    "tracking_number": "VE105595891HS"
+  }
+}

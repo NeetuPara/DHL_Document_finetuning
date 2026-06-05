@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0010",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Duffy GmbH",
+    "shipper_address": "177 Joshua Branch Apt. 030, South Joshuaton, KY 82347, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Pacific Elliott Pte Ltd",
+    "consignee_address": "441 Tiffany Brooks, Charlesview, IN 42874, Thailand",
+    "consignee_country": "Thailand",
+    "emergency_telephone": "+67 822-975-4085",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 41,
+        "pkg_type": "Steel Drum",
+        "net_qty": 15.83,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-846953",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Melissa Hooper",
+    "signature_date": "2026-05-06",
+    "signature_place": "Netherlands",
+    "awb_number": "085-32895944",
+    "flight_number": "CX7127",
+    "flight_date": "2026-04-29",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol"
+  }
+}

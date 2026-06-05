@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0959",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202006-5216",
+    "usppi_name": "Trade Woodard B.V.",
+    "usppi_address": "009 Evelyn Prairie, Laurafurt, WI 31001, Poland",
+    "usppi_country": "Poland",
+    "ein": "72-1910109",
+    "consignee_name": "Chambers Pacific AG",
+    "consignee_address": "452 Allison Light, Burnsstad, VT 49221, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Blair Commerce Corp.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Hannah Robles",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/47",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 48,
+        "unit": "KGS",
+        "weight_kg": 48.0,
+        "value_usd": 764.94
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 140,
+        "unit": "CTN",
+        "weight_kg": 123.33,
+        "value_usd": 599.16
+      }
+    ],
+    "total_weight_kg": 171.33,
+    "total_value_usd": 1364.1,
+    "service": "Ground",
+    "named_port": "Dubai International",
+    "insurance_value_usd": 26132.04,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-371060",
+    "destination_country": "Sweden"
+  }
+}

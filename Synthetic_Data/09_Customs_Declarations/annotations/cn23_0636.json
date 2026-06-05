@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0636",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Richard Wilson",
+    "addressee_company": "Bates Trade LLC",
+    "addressee_address": "751 Crystal Fords Suite 628, Deckerburgh, UT 95660, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 2.115,
+    "total_value": 2521.48,
+    "currency": "GBP",
+    "issue_date": "2026-04-01",
+    "reference": "REF-023555",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.827,
+        "value": 410.76,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 17,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.288,
+        "value": 2110.72,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_country": "Germany",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "457-02532954-4",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 7.6,
+    "estimated_duty": 191.63,
+    "importer_ein": "40-9397238",
+    "customs_broker": "Global Huff Co."
+  }
+}

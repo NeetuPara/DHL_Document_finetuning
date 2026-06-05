@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0160",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "677-13521121-0",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2025-12-08",
+    "port_of_entry": "LAX - Los Angeles",
+    "transport_mode": "Rail",
+    "carrier": "UPS",
+    "bl_awb": "618-87095333",
+    "importer_name": "Pacific Reynolds AG",
+    "importer_ein": "16-4364541",
+    "consignee_name": "Wright Commerce B.V.",
+    "customs_broker": "Global Gardner LLC",
+    "broker_filer_code": "fPt",
+    "country_of_origin": "Mexico",
+    "total_value": 121285.12,
+    "total_duty": 14944.57,
+    "currency": "AED",
+    "signatory": "Cody Dodson",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Japan",
+        "qty": 248,
+        "unit": "LTR",
+        "entered_value": 113340.96,
+        "duty_rate": 12.8,
+        "duty_amount": 14507.64,
+        "eccn": "EAR99",
+        "schedule_b": "2901.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "China",
+        "qty": 28,
+        "unit": "PCS",
+        "entered_value": 7944.16,
+        "duty_rate": 5.5,
+        "duty_amount": 436.93,
+        "eccn": "7A994",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "coo_0759",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202512-6535",
+    "exporter_name": "Mclean Commerce GmbH",
+    "exporter_address": "Unit 2588 Box 8907, DPO AE 35904, Australia",
+    "exporter_country": "Australia",
+    "consignee_name": "Trade Tucker Inc.",
+    "consignee_address": "613 Aaron Stravenue, Graveston, LA 83769, Germany",
+    "consignee_country": "Germany",
+    "country_of_origin": "Australia",
+    "country_of_destination": "Germany",
+    "bl_or_awb": "085-89013376",
+    "issue_date": "2025-10-24",
+    "certifier_name": "Robert Jackson",
+    "goods": [
+      {
+        "description": "Textile Fabrics - Woven Polyester",
+        "hs_code": "5407.42.00",
+        "qty": 223,
+        "unit": "MTR",
+        "weight_kg": 134.64,
+        "origin_criterion": "E",
+        "value": 3170.24
+      },
+      {
+        "description": "Automotive Spare Parts - Brake Pads",
+        "hs_code": "8708.30.00",
+        "qty": 240,
+        "unit": "SET",
+        "weight_kg": 456.49,
+        "origin_criterion": "C",
+        "value": 15169.44
+      },
+      {
+        "description": "Chemical Compounds - Industrial Solvents",
+        "hs_code": "2901.10.00",
+        "qty": 132,
+        "unit": "LTR",
+        "weight_kg": 143.85,
+        "origin_criterion": "F",
+        "value": 1579.43
+      },
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 199,
+        "unit": "KGS",
+        "weight_kg": 199.0,
+        "origin_criterion": "C",
+        "value": 3485.47
+      }
+    ],
+    "fta_agreement": "Australia-US FTA",
+    "chamber": "Board of Trade"
+  }
+}

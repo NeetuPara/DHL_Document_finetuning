@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0882",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202101-8207",
+    "usppi_name": "International Smith Inc.",
+    "usppi_address": "89779 Dixon Bridge Apt. 180, North Jamie, NM 74429, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "58-1055598",
+    "consignee_name": "Commerce Anderson LLC",
+    "consignee_address": "Unit 4120 Box 5088, DPO AP 08135, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Mayer Industry GmbH",
+    "forwarder": "DB Schenker",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Janet Montgomery",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/33",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 44,
+        "unit": "MTR",
+        "weight_kg": 16.78,
+        "value_usd": 294.94
+      },
+      {
+        "marks": "SLI/46",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 96,
+        "unit": "PKG",
+        "weight_kg": 146.66,
+        "value_usd": 3864.95
+      },
+      {
+        "marks": "EXP/22",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 70,
+        "unit": "PCS",
+        "weight_kg": 32.55,
+        "value_usd": 75256.21
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 18,
+        "unit": "LTR",
+        "weight_kg": 19.16,
+        "value_usd": 304.52
+      },
+      {
+        "marks": "SLI/27",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 131,
+        "unit": "PCS",
+        "weight_kg": 1696.18,
+        "value_usd": 23657.04
+      }
+    ],
+    "total_weight_kg": 1911.33,
+    "total_value_usd": 103377.66,
+    "vessel": "MSC OSCAR",
+    "voyage": "862W",
+    "booking_ref": "BKG-116495",
+    "bl_number": "MAEU590783918",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Felixstowe, GB",
+    "container_number": "DMDF9533263",
+    "seal_number": "SL846612",
+    "container_type": "45'HC",
+    "cbm": 12.181
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0943",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Khan International Ltd",
+    "shipper_address": "30469 Melissa Mountains Suite 808, Lawrencehaven, CO 61660, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Pacific Martinez LLC",
+    "consignee_address": "28409 Sims Turnpike, Davisstad, GU 19530, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+2 906-160-1222",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 44,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 72.55,
+        "qty_unit": "kg",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 36,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 99.1,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-429551",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Molly Winters",
+    "signature_date": "2026-04-24",
+    "signature_place": "Mexico",
+    "awb_number": "618-26719507",
+    "flight_number": "UA5395",
+    "flight_date": "2026-05-10",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong"
+  }
+}

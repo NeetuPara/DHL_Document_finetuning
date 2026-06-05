@@ -1,0 +1,40 @@
+{
+  "packet_id": "packet_2383",
+  "total_pages": 3,
+  "n_documents": 3,
+  "class_sequence": [
+    "Cargo Manifest",
+    "Commercial Invoice",
+    "Dangerous Goods Declaration"
+  ],
+  "documents": [
+    {
+      "doc_class": "Cargo Manifest",
+      "class_index": 10,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "manifest_0457.pdf",
+      "source_class_folder": "10_Cargo_Manifest"
+    },
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "commercial_invoice_0998.pdf",
+      "source_class_folder": "01_Commercial_Invoice"
+    },
+    {
+      "doc_class": "Dangerous Goods Declaration",
+      "class_index": 5,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "dgd_0766.pdf",
+      "source_class_folder": "05_Dangerous_Goods_Declaration"
+    }
+  ],
+  "task": "splitting"
+}

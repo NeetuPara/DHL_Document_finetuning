@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0296",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220901874851",
+    "export_date": "2025-12-09",
+    "aes_option": "AES Filing",
+    "usppi_name": "Global Coleman GmbH",
+    "usppi_ein": "16-1305215",
+    "usppi_address": "33584 Stevens Pine, New Erin, AL 27301, China",
+    "ultimate_consignee": "Trade Nichols Pte Ltd",
+    "intermediate_consignee": "Industry Martin Corp.",
+    "forwarding_agent": "Pacific Woods Corp.",
+    "destination_country": "Switzerland",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "006-21004504",
+    "total_value": 292186.06,
+    "currency": "AED",
+    "signatory": "Kristina Brown",
+    "line_items": [
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "United States",
+        "qty": 455,
+        "unit": "CTN",
+        "entered_value": 107493.75,
+        "duty_rate": 11.7,
+        "duty_amount": 12576.77,
+        "eccn": "9A515",
+        "schedule_b": "4819.10.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Poland",
+        "qty": 473,
+        "unit": "CTN",
+        "entered_value": 184692.31,
+        "duty_rate": 12.4,
+        "duty_amount": 22901.85,
+        "eccn": "9A515",
+        "schedule_b": "9018.31.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

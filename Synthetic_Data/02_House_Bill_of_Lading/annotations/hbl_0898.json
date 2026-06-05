@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0898",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU425112342",
+    "shipper_name": "Grant Tech Co.",
+    "shipper_address": "6898 Hicks Parks, Lake Randallport, NJ 16637, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Pacific Ortiz GmbH",
+    "consignee_address": "883 James Square Apt. 856, Coxtown, AK 12151, Canada",
+    "consignee_country": "Canada",
+    "notify_party_name": "Commerce Ray GmbH",
+    "notify_party_address": "2247 Crystal Harbor Suite 517, Port Spencer, MN 45517, Switzerland",
+    "vessel": "MSC OSCAR",
+    "voyage": "336W",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2026-03-04",
+    "issue_place": "Singapore",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "RBVM4039302",
+        "seal_no": "CL732769",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "RHRF8093686",
+        "seal_no": "CL255406",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "SRYO9139375",
+        "seal_no": "CL933587",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 152,
+    "package_type": "Crate",
+    "gross_weight_kg": 19051.4,
+    "net_weight_kg": 17790.0,
+    "cbm": 12.448,
+    "marks_and_numbers": "XYZ/25"
+  }
+}

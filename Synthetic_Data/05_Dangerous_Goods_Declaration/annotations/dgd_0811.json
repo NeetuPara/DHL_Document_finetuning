@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0811",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Cole S.A.",
+    "shipper_address": "2104 Lopez Manor, Stacyton, MP 82001, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Industry Zamora S.A.",
+    "consignee_address": "392 Frederick Views, Simpsonport, MO 20510, Brazil",
+    "consignee_country": "Brazil",
+    "emergency_telephone": "+83 252-262-2087",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 18,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 72.96,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 48,
+        "pkg_type": "Steel Drum",
+        "net_qty": 84.72,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-355064",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Nathan Brown",
+    "signature_date": "2026-04-16",
+    "signature_place": "Singapore",
+    "awb_number": "006-32157338",
+    "flight_number": "DL7855",
+    "flight_date": "2026-06-10",
+    "departure_airport_code": "LAX",
+    "departure_airport_name": "Los Angeles International",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International"
+  }
+}

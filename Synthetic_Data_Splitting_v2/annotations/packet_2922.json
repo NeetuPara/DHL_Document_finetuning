@@ -1,0 +1,81 @@
+{
+  "packet_id": "packet_2922",
+  "total_pages": 7,
+  "n_documents": 7,
+  "class_sequence": [
+    "Certificate of Origin",
+    "Commercial Invoice",
+    "House Bill of Lading",
+    "Certificate of Origin",
+    "Packing List",
+    "Power of Attorney",
+    "Cargo Manifest"
+  ],
+  "task": "splitting",
+  "note": "is_multipage_doc=true means consecutive pages are CONTINUATION of same document instance.",
+  "documents": [
+    {
+      "doc_class": "Certificate of Origin",
+      "class_index": 3,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "coo_0342.pdf"
+    },
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "commercial_invoice_0408.pdf"
+    },
+    {
+      "doc_class": "House Bill of Lading",
+      "class_index": 2,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "hbl_0195.pdf"
+    },
+    {
+      "doc_class": "Certificate of Origin",
+      "class_index": 3,
+      "page_start": 4,
+      "page_end": 4,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "coo_0251.pdf"
+    },
+    {
+      "doc_class": "Packing List",
+      "class_index": 8,
+      "page_start": 5,
+      "page_end": 5,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "packing_list_0355.pdf"
+    },
+    {
+      "doc_class": "Power of Attorney",
+      "class_index": 12,
+      "page_start": 6,
+      "page_end": 6,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "poa_0537.pdf"
+    },
+    {
+      "doc_class": "Cargo Manifest",
+      "class_index": 10,
+      "page_start": 7,
+      "page_end": 7,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "manifest_0120.pdf"
+    }
+  ]
+}

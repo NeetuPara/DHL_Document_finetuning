@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0162",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-49198538",
+    "mawb_number": "176-95247743",
+    "shipper_name": "Johnson Trade S.A.",
+    "shipper_address": "09191 Arellano Center, Estradaborough, MP 51070, United States",
+    "consignee_name": "Global Green S.A.",
+    "consignee_address": "48786 Fowler Ramp, Nortonfort, UT 21694, Mexico",
+    "agent_name": "Moore Tech Ltd",
+    "airport_departure": "LAX",
+    "airport_destination": "PVG",
+    "currency": "AUD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 36,
+    "gross_weight_kg": 375.7,
+    "chargeable_weight": 453.7,
+    "rate": 1.82,
+    "total_charge": 825.73,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "HANDLING CODE: SUR",
+    "issue_date": "2025-05-31",
+    "signatory": "Richard Murphy",
+    "iata_code": "33-983",
+    "agent_cass": "6328-5900",
+    "consolidation_ref": "CONS-2850-226806",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-20184306",
+        "pieces": 1,
+        "weight": 92.6,
+        "destination": "LAX",
+        "consignee": "Industry Aguirre Pte Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "057-73884096",
+        "pieces": 8,
+        "weight": 36.4,
+        "destination": "CDG",
+        "consignee": "Global Jones Corp.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "006-88576656",
+        "pieces": 6,
+        "weight": 53.8,
+        "destination": "LHR",
+        "consignee": "Pacific Williamson LLC",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "057-50356537",
+        "pieces": 3,
+        "weight": 73.7,
+        "destination": "SIN",
+        "consignee": "Mendoza International GmbH",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "160-31467367",
+        "pieces": 5,
+        "weight": 10.3,
+        "destination": "YYZ",
+        "consignee": "Buck Industry S.A.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "125-76727291",
+        "pieces": 15,
+        "weight": 14.8,
+        "destination": "JFK",
+        "consignee": "Commerce Davis Ltd",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "160-29204002",
+        "pieces": 10,
+        "weight": 43.2,
+        "destination": "DXB",
+        "consignee": "International Williams Pte Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

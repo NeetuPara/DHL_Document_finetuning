@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0141",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202407-2002",
+    "usppi_name": "Wagner Global Pte Ltd",
+    "usppi_address": "907 Gillespie Glen Suite 748, New Jonathanborough, GA 16322, France",
+    "usppi_country": "France",
+    "ein": "75-4312232",
+    "consignee_name": "Tech Baker GmbH",
+    "consignee_address": "09079 Jessica Bypass, Brownmouth, AK 47073, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Wright Global Co.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "William Alvarado",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/18",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 121,
+        "unit": "PCS",
+        "weight_kg": 26.85,
+        "value_usd": 5861.03
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 35,
+        "unit": "BOX",
+        "weight_kg": 37.41,
+        "value_usd": 1074.23
+      }
+    ],
+    "total_weight_kg": 64.26,
+    "total_value_usd": 6935.26,
+    "vessel": "PIL PACIFIC",
+    "voyage": "475E",
+    "booking_ref": "BKG-925994",
+    "bl_number": "COSU491201157",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "BZWS5067953",
+    "seal_number": "BL476708",
+    "container_type": "40'GP",
+    "cbm": 7.092
+  }
+}

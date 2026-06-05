@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0097",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Joshua Newman",
+    "addressee_company": "International Hubbard Pte Ltd",
+    "addressee_address": "0219 Christopher Cape, Port Jamie, NE 77520, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 7.61,
+    "total_value": 845.72,
+    "currency": "GBP",
+    "issue_date": "2025-09-29",
+    "reference": "REF-874748",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.336,
+        "value": 811.62,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 10,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.274,
+        "value": 34.1,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "Anthony Haney",
+    "sender_company": "Tech Moore Co.",
+    "sender_address": "74599 Douglas Locks Apt. 374, Jadeland, IL 59270, United Arab Emirates",
+    "sender_phone": "(873)556-0386x1987",
+    "sender_email": "williamhiggins@example.com",
+    "addressee_phone": "645-685-4368x026",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 930.29,
+    "postal_charges": 76.28,
+    "tracking_number": "AV514567880TE"
+  }
+}

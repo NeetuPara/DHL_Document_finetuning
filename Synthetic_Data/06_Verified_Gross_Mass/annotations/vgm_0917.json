@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0917",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Industry Hoover Pte Ltd",
+    "shipper_address": "6211 Adam Summit Apt. 516, South Davidmouth, WI 14848, United States",
+    "shipper_country": "United States",
+    "container_number": "CFDZ0415014",
+    "seal_number": "CL568083",
+    "container_size": "20'GP",
+    "iso_type_code": "22G0",
+    "tare_weight_kg": 2200,
+    "cargo_weight_kg": 13727.5,
+    "packing_materials_kg": 186.8,
+    "vgm_kg": 16114.3,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "830N",
+    "bl_number": "EGLV810842716",
+    "booking_reference": "BKG-750774",
+    "weighing_scale_type": "Certified Electronic Scale",
+    "scale_serial": "Unit-45251",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-22",
+    "signature_date": "2026-05-13",
+    "signatory_name": "Gregory Proctor",
+    "signatory_title": "Shipping Coordinator",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Pallet",
+        "n_units": 8,
+        "gross_wt_kg": 1388.6
+      },
+      {
+        "item_no": 2,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Drum",
+        "n_units": 11,
+        "gross_wt_kg": 2915.7
+      },
+      {
+        "item_no": 3,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Bundle",
+        "n_units": 7,
+        "gross_wt_kg": 3979.6
+      },
+      {
+        "item_no": 4,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Roll",
+        "n_units": 15,
+        "gross_wt_kg": 1368.5
+      },
+      {
+        "item_no": 5,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Bundle",
+        "n_units": 8,
+        "gross_wt_kg": 4075.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0591",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-12828104",
+    "mawb_number": "020-76000195",
+    "shipper_name": "Global Hicks Pte Ltd",
+    "shipper_address": "27508 Mason Lights Apt. 146, Nelsonview, MS 85190, Italy",
+    "consignee_name": "Trade Butler LLC",
+    "consignee_address": "286 Fischer Shoal, North Jessicamouth, NV 47175, Brazil",
+    "agent_name": "Trade Smith Inc.",
+    "airport_departure": "HKG",
+    "airport_destination": "PVG",
+    "currency": "USD",
+    "charge_code": "PP",
+    "declared_value_carriage": "AUD 36,440.54",
+    "declared_value_customs": "NCV",
+    "n_pieces": 31,
+    "gross_weight_kg": 454.9,
+    "chargeable_weight": 511.8,
+    "rate": 4.34,
+    "total_charge": 2221.21,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "TEMP CONTROLLED: 4\u00b0C - 10\u00b0C",
+    "issue_date": "2026-02-27",
+    "signatory": "Randy Mitchell",
+    "iata_code": "71-768",
+    "agent_cass": "1516-8023",
+    "consolidation_ref": "CONS-9147-887771",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-58508948",
+        "pieces": 4,
+        "weight": 86.8,
+        "destination": "ORD",
+        "consignee": "Industry Lopez Inc.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "045-79779459",
+        "pieces": 7,
+        "weight": 36.6,
+        "destination": "ICN",
+        "consignee": "Tech Arnold LLC",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "006-11307626",
+        "pieces": 20,
+        "weight": 95.6,
+        "destination": "SIN",
+        "consignee": "Global Davis S.A.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "057-16884308",
+        "pieces": 20,
+        "weight": 55.2,
+        "destination": "JFK",
+        "consignee": "Global Todd S.A.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "074-15768806",
+        "pieces": 2,
+        "weight": 61.6,
+        "destination": "ICN",
+        "consignee": "Industry Murphy Corp.",
+        "description": "Optical Equipment - Camera Lenses"
+      }
+    ]
+  }
+}

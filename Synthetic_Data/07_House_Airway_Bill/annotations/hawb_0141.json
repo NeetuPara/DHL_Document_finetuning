@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0141",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-88817205",
+    "mawb_number": "176-41893887",
+    "shipper_name": "Brown Commerce Corp.",
+    "shipper_address": "54600 White Heights Suite 818, Martinmouth, IA 64336, Italy",
+    "consignee_name": "Young Industry Ltd",
+    "consignee_address": "4034 Gutierrez Union, Matthewshire, IL 78884, India",
+    "agent_name": "Collins Pacific Corp.",
+    "airport_departure": "FRA",
+    "airport_destination": "CDG",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "USD 1,093.32",
+    "declared_value_customs": "NCV",
+    "n_pieces": 44,
+    "gross_weight_kg": 428.8,
+    "chargeable_weight": 529.0,
+    "rate": 4.93,
+    "total_charge": 2607.97,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-01-30",
+    "signatory": "Angelica Olson",
+    "iata_code": "41-694",
+    "agent_cass": "1033-1405",
+    "consolidation_ref": "CONS-1678-200480",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-59240632",
+        "pieces": 5,
+        "weight": 59.0,
+        "destination": "HKG",
+        "consignee": "Global Johnson LLC",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "074-85959199",
+        "pieces": 16,
+        "weight": 55.4,
+        "destination": "MIA",
+        "consignee": "Industry Morris Co.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "160-31841414",
+        "pieces": 10,
+        "weight": 83.0,
+        "destination": "LAX",
+        "consignee": "Weiss Trade GmbH",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "085-83013502",
+        "pieces": 20,
+        "weight": 13.9,
+        "destination": "SYD",
+        "consignee": "International Salinas Corp.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "074-97408031",
+        "pieces": 19,
+        "weight": 14.8,
+        "destination": "FRA",
+        "consignee": "Industry Maldonado S.A.",
+        "description": "Plastic Products - Injection Moulde"
+      }
+    ]
+  }
+}

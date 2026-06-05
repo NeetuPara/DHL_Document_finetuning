@@ -1,0 +1,69 @@
+{
+  "document_id": "coo_0162",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202401-2817",
+    "exporter_name": "Thornton Trade Co.",
+    "exporter_address": "PSC 5977, Box 3830, APO AP 26717, Sweden",
+    "exporter_country": "Sweden",
+    "consignee_name": "Bowen Global GmbH",
+    "consignee_address": "741 Lopez Drive Apt. 832, Kevinfort, MH 05063, India",
+    "consignee_country": "India",
+    "country_of_origin": "Sweden",
+    "country_of_destination": "India",
+    "bl_or_awb": "006-73319579",
+    "issue_date": "2025-03-03",
+    "certifier_name": "Cynthia Sanders",
+    "goods": [
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 319,
+        "unit": "KGS",
+        "weight_kg": 319.0,
+        "origin_criterion": "B",
+        "value": 3478.45
+      },
+      {
+        "description": "Paper Products - Packaging Cartons",
+        "hs_code": "4819.10.00",
+        "qty": 414,
+        "unit": "CTN",
+        "weight_kg": 580.77,
+        "origin_criterion": "C",
+        "value": 5644.98
+      },
+      {
+        "description": "Automotive Spare Parts - Brake Pads",
+        "hs_code": "8708.30.00",
+        "qty": 147,
+        "unit": "SET",
+        "weight_kg": 357.38,
+        "origin_criterion": "D",
+        "value": 5750.95
+      },
+      {
+        "description": "Wooden Furniture - Office Chairs",
+        "hs_code": "9401.30.00",
+        "qty": 13,
+        "unit": "PCS",
+        "weight_kg": 281.34,
+        "origin_criterion": "B",
+        "value": 4469.79
+      },
+      {
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "hs_code": "2936.90.00",
+        "qty": 152,
+        "unit": "BOX",
+        "weight_kg": 49.2,
+        "origin_criterion": "F",
+        "value": 10716.05
+      }
+    ],
+    "fta_agreement": "USMCA",
+    "chamber": "Chamber of Commerce"
+  }
+}

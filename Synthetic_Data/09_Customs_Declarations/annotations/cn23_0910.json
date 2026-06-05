@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0910",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Juan Wright",
+    "addressee_company": "Global Frazier Pte Ltd",
+    "addressee_address": "43154 Castro Trail Suite 427, Lake Candace, ID 47886, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 5.483,
+    "total_value": 2705.3,
+    "currency": "JPY",
+    "issue_date": "2025-08-30",
+    "reference": "REF-204842",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.76,
+        "value": 1323.08,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 19,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.76,
+        "value": 823.46,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 4,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.963,
+        "value": 558.76,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Tiffany White",
+    "sender_company": "Commerce Obrien S.A.",
+    "sender_address": "631 Michael Trace Apt. 125, Deanville, DC 11607, Mexico",
+    "sender_phone": "(545)246-7601x2986",
+    "sender_email": "adamwilliams@example.org",
+    "addressee_phone": "+1-965-653-4273x877",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 8.01,
+    "tracking_number": "AP587330772RA"
+  }
+}

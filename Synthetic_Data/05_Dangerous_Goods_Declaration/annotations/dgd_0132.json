@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0132",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Jordan International S.A.",
+    "shipper_address": "18893 Wilson Island, Ericmouth, IN 80302, United States",
+    "shipper_country": "United States",
+    "consignee_name": "English International Corp.",
+    "consignee_address": "9730 Jessica Plains Apt. 163, Pachecofurt, AS 38867, Switzerland",
+    "consignee_country": "Switzerland",
+    "emergency_telephone": "+89 384-308-4178",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 35,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 84.37,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-272132",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 3,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 2.15,
+        "qty_unit": "mL",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Angela Mcdonald",
+    "signature_date": "2026-04-15",
+    "signature_place": "United States",
+    "awb_number": "045-63527622",
+    "flight_number": "LH473",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International",
+    "non_dg_reason": "Lithium Ion Batteries \u2014 Section II (PI 967/Section II)"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0845",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202404-9399",
+    "usppi_name": "Lewis Trade Ltd",
+    "usppi_address": "272 Matthew Mountain, South Sean, MO 71584, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "19-8867425",
+    "consignee_name": "Pacific Stewart Corp.",
+    "consignee_address": "057 Bass Pines Apt. 725, South Connor, AL 10076, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Blankenship International S.A.",
+    "forwarder": "Panalpina",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Samantha Frank",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/27",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 183,
+        "unit": "MTR",
+        "weight_kg": 74.41,
+        "value_usd": 774.72
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 165,
+        "unit": "KGS",
+        "weight_kg": 165.0,
+        "value_usd": 100.43
+      },
+      {
+        "marks": "SLI/17",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 92,
+        "unit": "PCS",
+        "weight_kg": 21.81,
+        "value_usd": 3960.49
+      }
+    ],
+    "total_weight_kg": 261.22,
+    "total_value_usd": 4835.64,
+    "service": "Ground",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 2550.34,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-411258",
+    "destination_country": "Japan"
+  }
+}

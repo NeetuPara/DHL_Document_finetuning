@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0663",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202501-7176",
+    "usppi_name": "James Global Co.",
+    "usppi_address": "356 Fuller Junctions Apt. 200, North Jean, OH 53776, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "50-4210984",
+    "consignee_name": "Commerce Walker Inc.",
+    "consignee_address": "844 Thomas Brooks Apt. 083, New Cristina, IA 78129, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Industry Scott Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Emily Lee",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/3",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 160,
+        "unit": "PCS",
+        "weight_kg": 60.4,
+        "value_usd": 4235.04
+      },
+      {
+        "marks": "SLI/18",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 48,
+        "unit": "BOX",
+        "weight_kg": 67.59,
+        "value_usd": 706.45
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 23,
+        "unit": "KGS",
+        "weight_kg": 23.0,
+        "value_usd": 50.36
+      },
+      {
+        "marks": "SLI/28",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 55,
+        "unit": "PCS",
+        "weight_kg": 4.2,
+        "value_usd": 3510.19
+      },
+      {
+        "marks": "SLI/46",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 199,
+        "unit": "KGS",
+        "weight_kg": 199.0,
+        "value_usd": 3625.51
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 130,
+        "unit": "CTN",
+        "weight_kg": 356.91,
+        "value_usd": 779.53
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 73,
+        "unit": "PCS",
+        "weight_kg": 1495.65,
+        "value_usd": 24404.88
+      },
+      {
+        "marks": "SLI/18",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 172,
+        "unit": "PKG",
+        "weight_kg": 217.53,
+        "value_usd": 14003.88
+      }
+    ],
+    "total_weight_kg": 2424.28,
+    "total_value_usd": 51315.84,
+    "vessel": "PIL PACIFIC",
+    "voyage": "411E",
+    "booking_ref": "BKG-243827",
+    "bl_number": "YMLU578541387",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Rotterdam, NL",
+    "container_number": "OVFP7574044",
+    "seal_number": "BL726955",
+    "container_type": "40'GP",
+    "cbm": 64.815
+  }
+}

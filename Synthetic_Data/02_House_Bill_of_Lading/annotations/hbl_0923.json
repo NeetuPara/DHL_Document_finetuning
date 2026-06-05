@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0923",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU167685450",
+    "shipper_name": "International Anderson Corp.",
+    "shipper_address": "15653 Ramirez Brooks Apt. 763, Curtismouth, MT 87308, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Fitzgerald Trade B.V.",
+    "consignee_address": "7865 Brown Estates, New Amanda, AR 66027, India",
+    "consignee_country": "India",
+    "notify_party_name": "Patterson Commerce Co.",
+    "notify_party_address": "867 Brown Plaza, New Kimberlyview, MO 79043, Mexico",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "596N",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2024-12-06",
+    "issue_place": "Antwerp",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "ZFWY4467919",
+        "seal_no": "CL861714",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "YQTC1442801",
+        "seal_no": "CL424517",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 274,
+    "package_type": "Roll",
+    "gross_weight_kg": 3720.9,
+    "net_weight_kg": 3405.8,
+    "cbm": 21.755,
+    "marks_and_numbers": "XYZ/47"
+  }
+}

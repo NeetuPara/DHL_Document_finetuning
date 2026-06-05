@@ -1,0 +1,61 @@
+{
+  "document_id": "vgm_0218",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Tech White Ltd",
+    "shipper_address": "990 Valerie Plains, Lake Jason, MN 60550, Brazil",
+    "shipper_country": "Brazil",
+    "container_number": "ERCB5663813",
+    "seal_number": "BL795306",
+    "container_size": "20'GP",
+    "iso_type_code": "22G0",
+    "tare_weight_kg": 2200,
+    "cargo_weight_kg": 16996.1,
+    "packing_materials_kg": 336.0,
+    "vgm_kg": 19532.1,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "724W",
+    "bl_number": "COSU251829336",
+    "booking_reference": "BKG-609101",
+    "weighing_scale_type": "Certified Electronic Scale",
+    "scale_serial": "Unit-78415",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-23",
+    "signature_date": "2026-05-13",
+    "signatory_name": "Courtney Clark",
+    "signatory_title": "Export Manager",
+    "number_of_packages": 4,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Carton",
+        "n_units": 2,
+        "gross_wt_kg": 1146.8
+      },
+      {
+        "item_no": 2,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Crate",
+        "n_units": 6,
+        "gross_wt_kg": 88.3
+      },
+      {
+        "item_no": 3,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Carton",
+        "n_units": 11,
+        "gross_wt_kg": 2017.6
+      },
+      {
+        "item_no": 4,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Case",
+        "n_units": 17,
+        "gross_wt_kg": 13743.4
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0641",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Carol Bradley",
+    "addressee_company": "Trade Stanley Ltd",
+    "addressee_address": "42894 Crystal Point Apt. 114, Hamiltonstad, MS 97117, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 4.412,
+    "total_value": 4474.53,
+    "currency": "CAD",
+    "issue_date": "2025-12-13",
+    "reference": "REF-106564",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.72,
+        "value": 983.88,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 8,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.291,
+        "value": 862.0,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 19,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.401,
+        "value": 2628.65,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "Casey Bates",
+    "sender_company": "Global Johnson Corp.",
+    "sender_address": "749 Mcdonald Lodge, Brianberg, UT 35039, Brazil",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 34.39,
+    "tracking_number": "OP589094946QH"
+  }
+}

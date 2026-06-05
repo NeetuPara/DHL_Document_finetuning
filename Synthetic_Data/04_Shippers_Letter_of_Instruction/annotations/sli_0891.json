@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0891",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202412-5273",
+    "usppi_name": "Miller Trade Inc.",
+    "usppi_address": "44927 Fernandez Camp Apt. 035, Kelleyberg, NE 85824, United Kingdom",
+    "usppi_country": "United Kingdom",
+    "ein": "98-4852821",
+    "consignee_name": "Goodwin Global Ltd",
+    "consignee_address": "5755 Mueller Groves Apt. 098, New Aaron, MO 77550, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Global Potter LLC",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DPU",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Carol Lawrence",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/20",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 187,
+        "unit": "KGS",
+        "weight_kg": 187.0,
+        "value_usd": 339.68
+      },
+      {
+        "marks": "EXP/38",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 101,
+        "unit": "BOX",
+        "weight_kg": 187.65,
+        "value_usd": 9913.58
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 179,
+        "unit": "PCS",
+        "weight_kg": 240.94,
+        "value_usd": 190315.85
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 126,
+        "unit": "MTR",
+        "weight_kg": 43.72,
+        "value_usd": 977.23
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 41,
+        "unit": "SET",
+        "weight_kg": 32.89,
+        "value_usd": 3594.3
+      },
+      {
+        "marks": "EXP/27",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 112,
+        "unit": "PCS",
+        "weight_kg": 2002.66,
+        "value_usd": 14306.54
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 91,
+        "unit": "CTN",
+        "weight_kg": 56.29,
+        "value_usd": 834.47
+      },
+      {
+        "marks": "SLI/10",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 127,
+        "unit": "KGS",
+        "weight_kg": 127.0,
+        "value_usd": 1108.57
+      }
+    ],
+    "total_weight_kg": 2878.15,
+    "total_value_usd": 221390.22,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "121S",
+    "booking_ref": "BKG-536014",
+    "bl_number": "DHLG725829244",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Felixstowe, GB",
+    "container_number": "OUAC2543406",
+    "seal_number": "SL899525",
+    "container_type": "20'GP",
+    "cbm": 35.995
+  }
+}

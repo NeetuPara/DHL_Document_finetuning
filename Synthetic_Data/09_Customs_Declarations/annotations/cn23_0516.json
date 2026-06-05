@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0516",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Laura Lee",
+    "addressee_company": "Thomas Global GmbH",
+    "addressee_address": "4284 Todd Ville Apt. 016, East Theresashire, ME 50491, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 3.203,
+    "total_value": 1324.34,
+    "currency": "CAD",
+    "issue_date": "2026-01-20",
+    "reference": "REF-100501",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.528,
+        "value": 1262.1,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 8,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.675,
+        "value": 62.24,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Brazil"
+      }
+    ],
+    "sender_country": "Sweden",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "678-54289158-4",
+    "entry_type": "Formal Entry",
+    "duty_rate": 5.6,
+    "estimated_duty": 74.16,
+    "importer_ein": "99-0774013",
+    "customs_broker": "Conway Trade GmbH"
+  }
+}

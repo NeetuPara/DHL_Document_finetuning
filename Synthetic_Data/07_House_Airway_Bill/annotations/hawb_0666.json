@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0666",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-75061648",
+    "mawb_number": "176-27575871",
+    "shipper_name": "Charles Global Corp.",
+    "shipper_address": "50105 Thomas Street Suite 346, Amandafort, AK 69105, Japan",
+    "consignee_name": "Carter Industry Inc.",
+    "consignee_address": "95856 Ramirez Cliffs Apt. 359, Danielfurt, UT 07137, Brazil",
+    "agent_name": "Industry Rogers Pte Ltd",
+    "airport_departure": "AMS",
+    "airport_destination": "MIA",
+    "currency": "CNY",
+    "charge_code": "PP",
+    "declared_value_carriage": "JPY 24,706.15",
+    "declared_value_customs": "USD 46,243.62",
+    "n_pieces": 22,
+    "gross_weight_kg": 244.1,
+    "chargeable_weight": 281.9,
+    "rate": 2.53,
+    "total_charge": 713.21,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-01-18",
+    "signatory": "Christopher Johnson",
+    "iata_code": "73-277",
+    "agent_cass": "2386-7346",
+    "consolidation_ref": "CONS-1025-096001",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-58312952",
+        "pieces": 17,
+        "weight": 80.5,
+        "destination": "ICN",
+        "consignee": "Tech Wright Co.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "057-72373405",
+        "pieces": 17,
+        "weight": 42.3,
+        "destination": "LHR",
+        "consignee": "Industry Rice Co.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "020-66692078",
+        "pieces": 17,
+        "weight": 22.1,
+        "destination": "NRT",
+        "consignee": "Hunter Commerce LLC",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "125-58569274",
+        "pieces": 8,
+        "weight": 46.2,
+        "destination": "CDG",
+        "consignee": "Davis International GmbH",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "176-21389502",
+        "pieces": 12,
+        "weight": 99.6,
+        "destination": "CDG",
+        "consignee": "Global Thomas S.A.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "045-98692285",
+        "pieces": 2,
+        "weight": 16.1,
+        "destination": "DXB",
+        "consignee": "Industry Bailey AG",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "057-95988808",
+        "pieces": 7,
+        "weight": 57.6,
+        "destination": "SIN",
+        "consignee": "Commerce Reese Co.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "045-62364447",
+        "pieces": 9,
+        "weight": 15.8,
+        "destination": "MIA",
+        "consignee": "Walker International Inc.",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

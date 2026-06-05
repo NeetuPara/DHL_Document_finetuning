@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0591",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Ryan Greer",
+    "addressee_company": "International Hill B.V.",
+    "addressee_address": "4547 Michael Spring, Conwayview, MI 09063, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 6.638,
+    "total_value": 1136.27,
+    "currency": "USD",
+    "issue_date": "2025-09-30",
+    "reference": "REF-782836",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.893,
+        "value": 983.52,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 13,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.745,
+        "value": 152.75,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Italy"
+      }
+    ],
+    "sender_country": "United Kingdom",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "136-66176939-9",
+    "entry_type": "Formal Entry",
+    "duty_rate": 6.6,
+    "estimated_duty": 74.99,
+    "importer_ein": "53-8767807",
+    "customs_broker": "Collins Commerce S.A."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0254",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20260322326440",
+    "export_date": "2025-08-19",
+    "aes_option": "AES Filing",
+    "usppi_name": "Dean International Co.",
+    "usppi_ein": "13-0818621",
+    "usppi_address": "756 Sanchez Summit Suite 537, Lake Diana, CO 30899, South Korea",
+    "ultimate_consignee": "Brown International Pte Ltd",
+    "intermediate_consignee": "Trade Ross GmbH",
+    "forwarding_agent": "Parker Tech S.A.",
+    "destination_country": "Poland",
+    "carrier": "FedEx",
+    "bl_awb": "020-41739840",
+    "total_value": 286025.94,
+    "currency": "GBP",
+    "signatory": "Stephanie Patel",
+    "line_items": [
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Singapore",
+        "qty": 452,
+        "unit": "PCS",
+        "entered_value": 62416.68,
+        "duty_rate": 17.8,
+        "duty_amount": 11110.17,
+        "eccn": "3A992",
+        "schedule_b": "8534.00.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "United States",
+        "qty": 266,
+        "unit": "PCS",
+        "entered_value": 11432.68,
+        "duty_rate": 8.8,
+        "duty_amount": 1006.08,
+        "eccn": "0A919",
+        "schedule_b": "8483.40.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Netherlands",
+        "qty": 217,
+        "unit": "KGS",
+        "entered_value": 61354.58,
+        "duty_rate": 22.1,
+        "duty_amount": 13559.36,
+        "eccn": "1A002",
+        "schedule_b": "2008.19.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 342,
+        "unit": "MTR",
+        "entered_value": 150822.0,
+        "duty_rate": 1.7,
+        "duty_amount": 2563.97,
+        "eccn": "7A994",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

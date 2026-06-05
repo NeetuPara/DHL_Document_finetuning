@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0411",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Manning Commerce LLC",
+    "shipper_address": "Unit 4381 Box 8835, DPO AP 09033, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Trade Ryan Ltd",
+    "consignee_address": "89099 Lester Way, Campbellhaven, IN 33914, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "emergency_telephone": "+16 323-888-2353",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 44,
+        "pkg_type": "Steel Drum",
+        "net_qty": 32.14,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-783724",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 34,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 74.65,
+        "qty_unit": "mL",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Erin Hamilton",
+    "signature_date": "2026-04-19",
+    "signature_place": "Germany",
+    "awb_number": "074-50694798",
+    "flight_number": "SQ1028",
+    "departure_airport_code": "PVG",
+    "departure_airport_name": "Shanghai Pudong",
+    "destination_airport_code": "SYD",
+    "destination_airport_name": "Sydney Kingsford Smith",
+    "non_dg_reason": "Excepted quantities (EQ) per IATA DGR 2.6"
+  }
+}

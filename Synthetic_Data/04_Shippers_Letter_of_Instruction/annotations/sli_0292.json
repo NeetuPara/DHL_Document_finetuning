@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0292",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202508-6936",
+    "usppi_name": "Li Pacific Corp.",
+    "usppi_address": "10760 Moore Islands, Gutierrezfort, MA 12743, Poland",
+    "usppi_country": "Poland",
+    "ein": "82-1077737",
+    "consignee_name": "Commerce Nelson Co.",
+    "consignee_address": "7764 Adams Harbors Suite 332, Morrisstad, IA 08208, United States",
+    "consignee_country": "United States",
+    "notify_party": "Pacific Lopez Co.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Jennifer Lawson",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/10",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 114,
+        "unit": "MTR",
+        "weight_kg": 72.13,
+        "value_usd": 1129.42
+      },
+      {
+        "marks": "ABC/10",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 54,
+        "unit": "KGS",
+        "weight_kg": 54.0,
+        "value_usd": 604.95
+      },
+      {
+        "marks": "SLI/34",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 160,
+        "unit": "PCS",
+        "weight_kg": 100.43,
+        "value_usd": 5183.32
+      },
+      {
+        "marks": "ABC/20",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 167,
+        "unit": "CTN",
+        "weight_kg": 87.04,
+        "value_usd": 560.31
+      },
+      {
+        "marks": "EXP/48",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 177,
+        "unit": "BOX",
+        "weight_kg": 199.0,
+        "value_usd": 12935.2
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 93,
+        "unit": "PCS",
+        "weight_kg": 58.21,
+        "value_usd": 150119.65
+      }
+    ],
+    "total_weight_kg": 570.81,
+    "total_value_usd": 170532.85,
+    "service": "Ground",
+    "named_port": "Shanghai Pudong",
+    "insurance_value_usd": 9622.2,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-468112",
+    "destination_country": "United States"
+  }
+}

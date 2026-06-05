@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0575",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Avery International Ltd",
+    "shipper_address": "79609 Murray Avenue, New Ronaldhaven, CA 37854, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Morgan Pacific B.V.",
+    "consignee_address": "972 Paul Forks Suite 207, Michaelshire, ME 02479, United States",
+    "consignee_country": "United States",
+    "emergency_telephone": "+60 905-451-2607",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 45,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 52.72,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Steven Glover",
+    "signature_date": "2026-04-26",
+    "signature_place": "United Kingdom",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "867S",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Hamburg, DE"
+  }
+}

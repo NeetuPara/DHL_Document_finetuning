@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0321",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202212-5388",
+    "usppi_name": "Pacific Valdez Co.",
+    "usppi_address": "13003 Joseph Ways Apt. 658, Granthaven, LA 16178, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "19-2789859",
+    "consignee_name": "Randolph Pacific B.V.",
+    "consignee_address": "08877 Salinas Common, Faulknerfurt, TN 06015, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Mason Global GmbH",
+    "forwarder": "DB Schenker",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Michael Washington",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/28",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 7,
+        "unit": "BOX",
+        "weight_kg": 3.3,
+        "value_usd": 382.63
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 97,
+        "unit": "PCS",
+        "weight_kg": 39.66,
+        "value_usd": 5960.21
+      },
+      {
+        "marks": "EXP/35",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 83,
+        "unit": "PKG",
+        "weight_kg": 133.57,
+        "value_usd": 4442.72
+      }
+    ],
+    "total_weight_kg": 176.53,
+    "total_value_usd": 10785.56,
+    "vessel": "YANG MING MYTH",
+    "voyage": "886E",
+    "booking_ref": "BKG-415825",
+    "bl_number": "YMLU469265055",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "New York, US",
+    "container_number": "HZNB1305089",
+    "seal_number": "SL795786",
+    "container_type": "20'GP",
+    "cbm": 13.174
+  }
+}

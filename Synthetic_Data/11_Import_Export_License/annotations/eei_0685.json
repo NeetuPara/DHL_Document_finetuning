@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0685",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "439-37871730-7",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2026-01-24",
+    "port_of_entry": "LAX - Los Angeles",
+    "transport_mode": "Rail",
+    "carrier": "MSC",
+    "bl_awb": "085-10653938",
+    "importer_name": "Pacific Scott Inc.",
+    "importer_ein": "03-9694694",
+    "consignee_name": "Global Gonzalez LLC",
+    "customs_broker": "Adams Commerce GmbH",
+    "broker_filer_code": "igP",
+    "country_of_origin": "Malaysia",
+    "total_value": 224075.4,
+    "total_duty": 11453.48,
+    "currency": "SGD",
+    "signatory": "Mary Barnett",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Italy",
+        "qty": 420,
+        "unit": "BOX",
+        "entered_value": 145509.0,
+        "duty_rate": 1.5,
+        "duty_amount": 2182.64,
+        "eccn": "3A992",
+        "schedule_b": "2936.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "United States",
+        "qty": 192,
+        "unit": "PCS",
+        "entered_value": 78566.4,
+        "duty_rate": 11.8,
+        "duty_amount": 9270.84,
+        "eccn": "1A002",
+        "schedule_b": "3926.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

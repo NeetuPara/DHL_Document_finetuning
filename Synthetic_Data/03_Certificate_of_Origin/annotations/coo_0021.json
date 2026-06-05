@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0021",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202210-6180",
+    "exporter_name": "Mann Global Corp.",
+    "exporter_address": "Unit 3588 Box 2926, DPO AP 35173, Australia",
+    "exporter_country": "Australia",
+    "consignee_name": "Sanders International Inc.",
+    "consignee_address": "31722 Perry Mission Suite 011, Pattersonview, TN 73226, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "country_of_origin": "Australia",
+    "country_of_destination": "Hong Kong",
+    "bl_or_awb": "085-43463382",
+    "issue_date": "2026-03-02",
+    "certifier_name": "John Schneider",
+    "goods": [
+      {
+        "description": "Paper Products - Packaging Cartons",
+        "hs_code": "4819.10.00",
+        "qty": 159,
+        "unit": "CTN",
+        "weight_kg": 121.26,
+        "origin_criterion": "D",
+        "value": 1676.82
+      },
+      {
+        "description": "Electronic Components - Printed Circuit Boards",
+        "hs_code": "8534.00.00",
+        "qty": 453,
+        "unit": "PCS",
+        "weight_kg": 129.59,
+        "origin_criterion": "C",
+        "value": 72745.84
+      },
+      {
+        "description": "Chemical Compounds - Industrial Solvents",
+        "hs_code": "2901.10.00",
+        "qty": 49,
+        "unit": "LTR",
+        "weight_kg": 45.8,
+        "origin_criterion": "E",
+        "value": 649.2
+      }
+    ],
+    "fta_agreement": "RCEP",
+    "chamber": "Chamber of Commerce"
+  }
+}

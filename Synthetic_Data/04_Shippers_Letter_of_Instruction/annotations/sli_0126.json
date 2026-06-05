@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0126",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202603-5468",
+    "usppi_name": "Trade Acosta Pte Ltd",
+    "usppi_address": "7886 Thomas Harbors Apt. 059, New Ashleystad, NY 51307, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "25-8919283",
+    "consignee_name": "Pacific Myers S.A.",
+    "consignee_address": "1685 Joseph Camp, Richardtown, MN 76616, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Kelly Tech GmbH",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Frances Smith",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/9",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 196,
+        "unit": "PCS",
+        "weight_kg": 117.04,
+        "value_usd": 68566.17
+      },
+      {
+        "marks": "ABC/49",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 51,
+        "unit": "PCS",
+        "weight_kg": 415.41,
+        "value_usd": 17503.28
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 99,
+        "unit": "LTR",
+        "weight_kg": 98.72,
+        "value_usd": 1332.69
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 16,
+        "unit": "PCS",
+        "weight_kg": 1.55,
+        "value_usd": 2361.94
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 36,
+        "unit": "PKG",
+        "weight_kg": 74.06,
+        "value_usd": 1111.02
+      },
+      {
+        "marks": "ABC/49",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 81,
+        "unit": "PCS",
+        "weight_kg": 20.19,
+        "value_usd": 642.47
+      }
+    ],
+    "total_weight_kg": 726.97,
+    "total_value_usd": 91517.57,
+    "vessel": "MADRID MAERSK",
+    "voyage": "781W",
+    "booking_ref": "BKG-277208",
+    "bl_number": "COSU857599491",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "ATBD7935672",
+    "seal_number": "BL998963",
+    "container_type": "40'HC",
+    "cbm": 22.814
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0395",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202312-3626",
+    "usppi_name": "Hammond Commerce AG",
+    "usppi_address": "5304 Erin Ridge, Kylietown, AL 17908, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "68-4536675",
+    "consignee_name": "Pacific Orr Corp.",
+    "consignee_address": "526 Harris Corner Apt. 325, Prattstad, VI 87821, France",
+    "consignee_country": "France",
+    "notify_party": "Pacific Martin Inc.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Blake Riggs",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/25",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 35,
+        "unit": "BOX",
+        "weight_kg": 31.29,
+        "value_usd": 3054.87
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 67,
+        "unit": "SET",
+        "weight_kg": 123.09,
+        "value_usd": 6499.99
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 87,
+        "unit": "PCS",
+        "weight_kg": 33.97,
+        "value_usd": 2598.68
+      },
+      {
+        "marks": "SLI/37",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 108,
+        "unit": "CTN",
+        "weight_kg": 245.09,
+        "value_usd": 350.56
+      },
+      {
+        "marks": "SLI/12",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 159,
+        "unit": "CTN",
+        "weight_kg": 769.72,
+        "value_usd": 10050.9
+      },
+      {
+        "marks": "SLI/9",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 38,
+        "unit": "PCS",
+        "weight_kg": 379.7,
+        "value_usd": 3340.42
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 88,
+        "unit": "KGS",
+        "weight_kg": 88.0,
+        "value_usd": 216.9
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 188,
+        "unit": "PKG",
+        "weight_kg": 156.26,
+        "value_usd": 3472.31
+      }
+    ],
+    "total_weight_kg": 1827.12,
+    "total_value_usd": 29584.63,
+    "service": "LCL Ocean",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 33219.53,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-225061",
+    "destination_country": "France"
+  }
+}

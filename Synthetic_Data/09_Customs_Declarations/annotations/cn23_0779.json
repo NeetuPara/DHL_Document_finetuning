@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0779",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Anthony Baker",
+    "addressee_company": "Tech Gutierrez Pte Ltd",
+    "addressee_address": "3105 Martin Run, South Jordan, NV 01128, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 10.959,
+    "total_value": 3857.75,
+    "currency": "AED",
+    "issue_date": "2026-01-06",
+    "reference": "REF-892150",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.944,
+        "value": 361.44,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 18,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.028,
+        "value": 2192.22,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 1,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.936,
+        "value": 123.47,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 9,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.051,
+        "value": 1180.62,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "Alex Reed",
+    "sender_company": "Bell International AG",
+    "sender_address": "9511 Amanda Street, Lake Ethanbury, PW 75363, United Arab Emirates",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 4243.53,
+    "postal_charges": 43.09,
+    "tracking_number": "VD028292184EB"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0312",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU200448600",
+    "shipper_name": "Industry Owens Pte Ltd",
+    "shipper_address": "USNS Nash, FPO AP 58909, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Pacific Stanley B.V.",
+    "consignee_address": "4661 Crosby Crossroad Suite 448, Kristinamouth, SC 47150, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party_name": "Pacific Lynch AG",
+    "notify_party_address": "8995 Lisa Mount Apt. 568, Port Christopher, MO 76383, Poland",
+    "vessel": "MSC OSCAR",
+    "voyage": "330E",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Felixstowe, GB",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2025-02-23",
+    "issue_place": "Colombo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "BSRZ8851678",
+        "seal_no": "CL350995",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "DDHT1572249",
+        "seal_no": "BL552931",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 497,
+    "package_type": "Bundle",
+    "gross_weight_kg": 16282.3,
+    "net_weight_kg": 15602.1,
+    "cbm": 49.312,
+    "marks_and_numbers": "XYZ/50"
+  }
+}

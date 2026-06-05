@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0606",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-66915295",
+    "mawb_number": "057-27074849",
+    "shipper_name": "International Palmer Inc.",
+    "shipper_address": "2285 Lewis Brooks, Pierceland, WA 69725, India",
+    "consignee_name": "Commerce Bennett LLC",
+    "consignee_address": "443 Christopher Neck, Lake Sean, WA 90450, Spain",
+    "agent_name": "Industry Hayden Inc.",
+    "airport_departure": "PVG",
+    "airport_destination": "NRT",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 24,
+    "gross_weight_kg": 284.6,
+    "chargeable_weight": 346.9,
+    "rate": 6.54,
+    "total_charge": 2268.73,
+    "nature_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "handling_info": "HANDLING CODE: AVI",
+    "issue_date": "2025-07-02",
+    "signatory": "Joy Hubbard",
+    "iata_code": "28-559",
+    "agent_cass": "1708-1402",
+    "consolidation_ref": "CONS-2546-419154",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-10736625",
+        "pieces": 9,
+        "weight": 10.9,
+        "destination": "AMS",
+        "consignee": "Green Tech B.V.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "045-38374809",
+        "pieces": 8,
+        "weight": 96.5,
+        "destination": "AMS",
+        "consignee": "Phillips Global Co.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "057-83063141",
+        "pieces": 13,
+        "weight": 57.2,
+        "destination": "SYD",
+        "consignee": "Hodges Tech S.A.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "057-40329018",
+        "pieces": 16,
+        "weight": 16.2,
+        "destination": "SIN",
+        "consignee": "Davis Global Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "160-89325619",
+        "pieces": 14,
+        "weight": 25.9,
+        "destination": "YYZ",
+        "consignee": "Cox Tech AG",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

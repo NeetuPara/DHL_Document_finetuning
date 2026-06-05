@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0900",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202111-2296",
+    "usppi_name": "Gray Global GmbH",
+    "usppi_address": "3344 Logan Hill Suite 342, South Christine, ND 31245, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "43-1870763",
+    "consignee_name": "Sanders Industry Inc.",
+    "consignee_address": "6055 Patrick Field, Ericstad, DC 26717, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Guzman Pacific Co.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "EXW",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Christina Parker",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/20",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 93,
+        "unit": "PCS",
+        "weight_kg": 13.94,
+        "value_usd": 2436.44
+      },
+      {
+        "marks": "SLI/21",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 97,
+        "unit": "PKG",
+        "weight_kg": 233.15,
+        "value_usd": 5533.88
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 21,
+        "unit": "PCS",
+        "weight_kg": 51.05,
+        "value_usd": 15728.89
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 25,
+        "unit": "CTN",
+        "weight_kg": 33.9,
+        "value_usd": 245.98
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 21,
+        "unit": "PCS",
+        "weight_kg": 218.47,
+        "value_usd": 8054.07
+      },
+      {
+        "marks": "SLI/8",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 87,
+        "unit": "PCS",
+        "weight_kg": 15.83,
+        "value_usd": 17351.08
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 65,
+        "unit": "PCS",
+        "weight_kg": 40.82,
+        "value_usd": 10587.08
+      }
+    ],
+    "total_weight_kg": 607.16,
+    "total_value_usd": 59937.42,
+    "vessel": "MSC GULSUN",
+    "voyage": "394E",
+    "booking_ref": "BKG-812235",
+    "bl_number": "DHLG807902091",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Hong Kong, HK",
+    "container_number": "TFOT6123420",
+    "seal_number": "CL277630",
+    "container_type": "20'GP",
+    "cbm": 12.331
+  }
+}

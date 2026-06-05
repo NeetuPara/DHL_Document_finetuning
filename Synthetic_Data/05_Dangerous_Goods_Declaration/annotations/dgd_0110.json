@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0110",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Winters AG",
+    "shipper_address": "41469 Ramos Square, West Kathy, HI 26505, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Haas Industry S.A.",
+    "consignee_address": "6056 Armstrong Fields, Melissatown, WV 22604, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+61 525-870-4758",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 7,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 19.09,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 49,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 55.05,
+        "qty_unit": "g",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jaime Campbell",
+    "signature_date": "2026-04-30",
+    "signature_place": "Mexico",
+    "vessel": "PIL PACIFIC",
+    "voyage": "919E",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Hamburg, DE"
+  }
+}

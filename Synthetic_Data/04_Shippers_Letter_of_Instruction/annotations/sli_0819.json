@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0819",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202111-1510",
+    "usppi_name": "Global Bryant Ltd",
+    "usppi_address": "USNS Mendez, FPO AE 84912, Canada",
+    "usppi_country": "Canada",
+    "ein": "81-6440172",
+    "consignee_name": "Butler Industry Inc.",
+    "consignee_address": "094 Joseph Glen Apt. 251, Port Alison, OH 92184, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Potts Trade Co.",
+    "forwarder": "Expeditors",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "2B350",
+    "signatory_name": "Kimberly Thomas",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/13",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 39,
+        "unit": "MTR",
+        "weight_kg": 13.58,
+        "value_usd": 690.89
+      },
+      {
+        "marks": "EXP/40",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 199,
+        "unit": "PCS",
+        "weight_kg": 297.97,
+        "value_usd": 6196.94
+      },
+      {
+        "marks": "EXP/15",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 136,
+        "unit": "PCS",
+        "weight_kg": 298.66,
+        "value_usd": 64956.15
+      },
+      {
+        "marks": "ABC/7",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 146,
+        "unit": "SET",
+        "weight_kg": 256.57,
+        "value_usd": 8935.05
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 96,
+        "unit": "KGS",
+        "weight_kg": 96.0,
+        "value_usd": 1572.76
+      }
+    ],
+    "total_weight_kg": 962.78,
+    "total_value_usd": 82351.79,
+    "vessel": "MADRID MAERSK",
+    "voyage": "538S",
+    "booking_ref": "BKG-192272",
+    "bl_number": "MAEU278327511",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Hong Kong, HK",
+    "container_number": "LDRY9548246",
+    "seal_number": "CL351730",
+    "container_type": "40'HC",
+    "cbm": 19.332
+  }
+}

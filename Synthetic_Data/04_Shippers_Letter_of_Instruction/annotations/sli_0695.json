@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0695",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202203-7539",
+    "usppi_name": "Dean Trade LLC",
+    "usppi_address": "62171 Thomas Mission, Adamston, MN 82291, Spain",
+    "usppi_country": "Spain",
+    "ein": "17-4259459",
+    "consignee_name": "Pacific Galloway Co.",
+    "consignee_address": "1182 Tony Place Suite 912, Davischester, VA 68710, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Townsend Trade Corp.",
+    "forwarder": "Expeditors",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Jimmy Ortiz",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/38",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 27,
+        "unit": "CTN",
+        "weight_kg": 67.16,
+        "value_usd": 333.95
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 180,
+        "unit": "MTR",
+        "weight_kg": 180.07,
+        "value_usd": 2144.82
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 92,
+        "unit": "PCS",
+        "weight_kg": 9.55,
+        "value_usd": 3793.19
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 69,
+        "unit": "PCS",
+        "weight_kg": 102.53,
+        "value_usd": 55222.34
+      },
+      {
+        "marks": "ABC/25",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 28,
+        "unit": "PCS",
+        "weight_kg": 6.77,
+        "value_usd": 4184.26
+      }
+    ],
+    "total_weight_kg": 366.08,
+    "total_value_usd": 65678.56,
+    "service": "LCL Ocean",
+    "named_port": "Antwerp, BE",
+    "insurance_value_usd": 36132.23,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-362894",
+    "destination_country": "Japan"
+  }
+}

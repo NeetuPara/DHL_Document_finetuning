@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0485",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Dr. Misty May",
+    "addressee_company": "Chang Trade Pte Ltd",
+    "addressee_address": "6621 Joseph Via Suite 449, Fergusonchester, MS 55666, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 10.277,
+    "total_value": 3094.33,
+    "currency": "SGD",
+    "issue_date": "2026-01-11",
+    "reference": "REF-214413",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.938,
+        "value": 91.1,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 16,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.033,
+        "value": 2246.08,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 19,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.306,
+        "value": 757.15,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_name": "Jorge Martin",
+    "sender_company": "Sullivan Commerce Inc.",
+    "sender_address": "541 Ryan Hills Suite 598, Staceyborough, OK 97758, Thailand",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 3403.76,
+    "postal_charges": 73.17,
+    "tracking_number": "DG692213301ZZ"
+  }
+}

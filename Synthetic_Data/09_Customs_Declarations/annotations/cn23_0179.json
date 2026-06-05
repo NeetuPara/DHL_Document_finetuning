@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0179",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Ricardo Jones",
+    "addressee_company": "Collins International B.V.",
+    "addressee_address": "2868 Wallace Knolls Apt. 841, Port Kristinshire, MA 52984, China",
+    "addressee_country": "China",
+    "total_weight_kg": 2.555,
+    "total_value": 363.75,
+    "currency": "USD",
+    "issue_date": "2025-08-17",
+    "reference": "REF-556439",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.555,
+        "value": 363.75,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_name": "Pamela West",
+    "sender_company": "Tech Miller Pte Ltd",
+    "sender_address": "PSC 7451, Box 2611, APO AE 10857, Japan",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 400.13,
+    "postal_charges": 47.68,
+    "tracking_number": "FL924616377MU"
+  }
+}

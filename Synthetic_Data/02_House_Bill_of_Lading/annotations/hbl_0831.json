@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0831",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU463098772",
+    "shipper_name": "Williams Tech Corp.",
+    "shipper_address": "2218 Lori Glens Suite 018, West Michelle, FL 66175, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Rice Global LLC",
+    "consignee_address": "7428 Johnson Walk, Webbshire, GA 46233, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party_name": "Industry Cruz S.A.",
+    "notify_party_address": "82630 Tapia Mountains, Johnsonchester, SC 46362, Malaysia",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "831W",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2025-01-15",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "TOPC3342184",
+        "seal_no": "SL532442",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "HJSZ1277032",
+        "seal_no": "SL883081",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "ZYCL7159855",
+        "seal_no": "SL770536",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "number_of_packages": 418,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 7546.0,
+    "net_weight_kg": 7208.2,
+    "cbm": 25.041,
+    "marks_and_numbers": "GLB/33"
+  }
+}

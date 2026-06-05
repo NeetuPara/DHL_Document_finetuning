@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0406",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202505-5483",
+    "usppi_name": "Trade Patton S.A.",
+    "usppi_address": "7547 Lamb Ville, Jeremiahberg, IN 33811, France",
+    "usppi_country": "France",
+    "ein": "78-6985573",
+    "consignee_name": "Mcdonald Commerce Corp.",
+    "consignee_address": "538 Megan Lock Suite 297, Lewishaven, MS 89282, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Liu Tech B.V.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Kim Collins PhD",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/3",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 70,
+        "unit": "PCS",
+        "weight_kg": 73.95,
+        "value_usd": 1632.08
+      },
+      {
+        "marks": "SLI/9",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 31,
+        "unit": "PCS",
+        "weight_kg": 611.8,
+        "value_usd": 6988.17
+      }
+    ],
+    "total_weight_kg": 685.75,
+    "total_value_usd": 8620.25,
+    "service": "Ground",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 8419.62,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-856575",
+    "destination_country": "Japan"
+  }
+}

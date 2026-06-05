@@ -1,0 +1,63 @@
+{
+  "document_id": "coo_0173",
+  "document_class": "Certificate of Origin",
+  "format_variant": "FTA-USMCA-Numbered-Fields",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202208-9806",
+    "exporter_name": "International Wood B.V.",
+    "exporter_address": "46184 Jackson Walks Suite 425, Kristinhaven, DC 93617, Netherlands",
+    "exporter_country": "Netherlands",
+    "consignee_name": "Jones International AG",
+    "consignee_address": "4481 Jones Wells, East Jonathanmouth, AK 96833, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "country_of_origin": "Netherlands",
+    "country_of_destination": "United Kingdom",
+    "bl_or_awb": "074-47968020",
+    "issue_date": "2025-08-02",
+    "certifier_name": "Anthony Browning",
+    "goods": [
+      {
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "hs_code": "8483.40.00",
+        "qty": 499,
+        "unit": "PCS",
+        "weight_kg": 4725.73,
+        "origin_criterion": "A",
+        "value": 123253.48
+      },
+      {
+        "description": "Plastic Products - Injection Moulded Components",
+        "hs_code": "3926.90.00",
+        "qty": 32,
+        "unit": "PCS",
+        "weight_kg": 33.68,
+        "origin_criterion": "E",
+        "value": 773.69
+      },
+      {
+        "description": "Textile Fabrics - Woven Polyester",
+        "hs_code": "5407.42.00",
+        "qty": 375,
+        "unit": "MTR",
+        "weight_kg": 275.44,
+        "origin_criterion": "D",
+        "value": 2500.65
+      },
+      {
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "hs_code": "8518.30.00",
+        "qty": 179,
+        "unit": "PCS",
+        "weight_kg": 25.22,
+        "origin_criterion": "A",
+        "value": 4337.92
+      }
+    ],
+    "fta_agreement": "NAFTA",
+    "blanket_period_from": "2025-02-20",
+    "blanket_period_to": "2026-06-13",
+    "producer_name": "International Barton S.A.",
+    "producer_country": "Japan"
+  }
+}

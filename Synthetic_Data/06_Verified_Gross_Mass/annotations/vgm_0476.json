@@ -1,0 +1,61 @@
+{
+  "document_id": "vgm_0476",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Tech Powell S.A.",
+    "shipper_address": "78441 Villanueva Forks Suite 024, Lake Timothybury, MN 47177, Malaysia",
+    "shipper_country": "Malaysia",
+    "container_number": "IYCB5783589",
+    "seal_number": "CL457138",
+    "container_size": "45'HC",
+    "iso_type_code": "L5G0",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 7198.1,
+    "packing_materials_kg": 230.5,
+    "vgm_kg": 12228.6,
+    "vessel": "MSC OSCAR",
+    "voyage": "292E",
+    "bl_number": "MAEU456638569",
+    "booking_reference": "BKG-942550",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-43558",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-17",
+    "signature_date": "2026-05-07",
+    "signatory_name": "Keith Carlson",
+    "signatory_title": "Operations Director",
+    "number_of_packages": 4,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Drum",
+        "n_units": 19,
+        "gross_wt_kg": 362.4
+      },
+      {
+        "item_no": 2,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Drum",
+        "n_units": 11,
+        "gross_wt_kg": 401.0
+      },
+      {
+        "item_no": 3,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Crate",
+        "n_units": 16,
+        "gross_wt_kg": 2218.5
+      },
+      {
+        "item_no": 4,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Roll",
+        "n_units": 16,
+        "gross_wt_kg": 4216.2
+      }
+    ]
+  }
+}

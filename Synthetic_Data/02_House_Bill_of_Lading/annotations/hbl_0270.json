@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0270",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV692401125",
+    "shipper_name": "Martinez Trade Pte Ltd",
+    "shipper_address": "2840 Nathan Mount Apt. 504, North Michael, HI 61474, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Rogers International Inc.",
+    "consignee_address": "0227 White Radial Suite 396, West Lynn, MI 80597, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Pacific Rodriguez AG",
+    "notify_party_address": "681 Mays Plain Suite 974, Port Susanstad, NC 90628, United Kingdom",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "821S",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2025-09-09",
+    "issue_place": "Felixstowe",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "VGPA6996473",
+        "seal_no": "CL282503",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "RIPE9259103",
+        "seal_no": "CL446002",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "TARZ3581737",
+        "seal_no": "CL314641",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "number_of_packages": 56,
+    "package_type": "Roll",
+    "gross_weight_kg": 16238.7,
+    "net_weight_kg": 15026.3,
+    "cbm": 3.547,
+    "marks_and_numbers": "ABC/39"
+  }
+}

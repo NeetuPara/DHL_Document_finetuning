@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0710",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV172569530",
+    "shipper_name": "Cruz Global S.A.",
+    "shipper_address": "8246 Stewart Expressway, Andrewmouth, IL 88007, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Global Lewis B.V.",
+    "consignee_address": "068 Johnson Field, Tammymouth, UT 16679, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party_name": "Ray Trade GmbH",
+    "notify_party_address": "50225 Terry Village Apt. 415, Katherineview, PW 97051, Poland",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "312E",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Tanjung Pelepas, MY",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2025-02-07",
+    "issue_place": "Hong Kong",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "DYCS6150277",
+        "seal_no": "CL206840",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "GTDX4650180",
+        "seal_no": "CL373094",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "SLNP5633173",
+        "seal_no": "BL116344",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "CLKU6671557",
+        "seal_no": "BL143401",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "number_of_packages": 382,
+    "package_type": "Case",
+    "gross_weight_kg": 19442.3,
+    "net_weight_kg": 17118.1,
+    "cbm": 23.643,
+    "marks_and_numbers": "ABC/23"
+  }
+}

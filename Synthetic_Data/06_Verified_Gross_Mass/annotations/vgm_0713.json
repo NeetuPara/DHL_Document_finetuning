@@ -1,0 +1,61 @@
+{
+  "document_id": "vgm_0713",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Commerce Ward Co.",
+    "shipper_address": "83313 Stacey Mountain Suite 966, South Bryanside, TN 47457, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "container_number": "FQYW8978998",
+    "seal_number": "BL539956",
+    "container_size": "40'HC",
+    "iso_type_code": "45G0",
+    "tare_weight_kg": 4000,
+    "cargo_weight_kg": 19923.3,
+    "packing_materials_kg": 489.4,
+    "vgm_kg": 24412.7,
+    "vessel": "PIL PACIFIC",
+    "voyage": "131S",
+    "bl_number": "YMLU675376783",
+    "booking_reference": "BKG-475989",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-24172",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-22",
+    "signature_date": "2026-05-12",
+    "signatory_name": "Christine Sanchez",
+    "signatory_title": "Export Manager",
+    "number_of_packages": 4,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Pallet",
+        "n_units": 15,
+        "gross_wt_kg": 1360.7
+      },
+      {
+        "item_no": 2,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Roll",
+        "n_units": 19,
+        "gross_wt_kg": 7078.6
+      },
+      {
+        "item_no": 3,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Drum",
+        "n_units": 5,
+        "gross_wt_kg": 2720.3
+      },
+      {
+        "item_no": 4,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Roll",
+        "n_units": 13,
+        "gross_wt_kg": 8763.7
+      }
+    ]
+  }
+}

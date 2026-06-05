@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0138",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-35363451",
+    "mawb_number": "057-17747340",
+    "shipper_name": "Lee Trade GmbH",
+    "shipper_address": "482 Smith Ramp Suite 783, East Pedro, FL 38207, Malaysia",
+    "consignee_name": "Tech Arnold Inc.",
+    "consignee_address": "33785 Salas Junction Suite 129, Port Christopherburgh, MI 95278, United States",
+    "agent_name": "Trade Juarez LLC",
+    "airport_departure": "FRA",
+    "airport_destination": "SIN",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "SGD 41,797.64",
+    "n_pieces": 37,
+    "gross_weight_kg": 372.3,
+    "chargeable_weight": 412.7,
+    "rate": 5.38,
+    "total_charge": 2220.33,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "HANDLING CODE: HEA",
+    "issue_date": "2026-05-01",
+    "signatory": "Dr. Robert Mann",
+    "iata_code": "92-380",
+    "agent_cass": "4918-8374",
+    "consolidation_ref": "CONS-4677-953333",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-50160661",
+        "pieces": 3,
+        "weight": 86.9,
+        "destination": "MIA",
+        "consignee": "Stephenson Industry Ltd",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "045-42813677",
+        "pieces": 5,
+        "weight": 26.0,
+        "destination": "ORD",
+        "consignee": "Tech Mckinney B.V.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "045-90455160",
+        "pieces": 14,
+        "weight": 70.1,
+        "destination": "MIA",
+        "consignee": "Jones Commerce Corp.",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0187",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202507-1773",
+    "usppi_name": "Barrera Industry S.A.",
+    "usppi_address": "293 Terry Terrace Apt. 673, New Rachel, MI 44979, Canada",
+    "usppi_country": "Canada",
+    "ein": "76-2475030",
+    "consignee_name": "Parsons Tech GmbH",
+    "consignee_address": "09958 Washington Place, Laurenfurt, NE 54786, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Blackwell Pacific S.A.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Thomas Bell",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/18",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 63,
+        "unit": "SET",
+        "weight_kg": 53.86,
+        "value_usd": 10629.68
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 192,
+        "unit": "MTR",
+        "weight_kg": 82.75,
+        "value_usd": 1516.65
+      },
+      {
+        "marks": "ABC/43",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 123,
+        "unit": "PCS",
+        "weight_kg": 1434.75,
+        "value_usd": 35569.27
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 90,
+        "unit": "PCS",
+        "weight_kg": 25.43,
+        "value_usd": 147837.79
+      },
+      {
+        "marks": "EXP/42",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 18,
+        "unit": "LTR",
+        "weight_kg": 19.65,
+        "value_usd": 310.86
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 185,
+        "unit": "PCS",
+        "weight_kg": 2946.42,
+        "value_usd": 72624.73
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 181,
+        "unit": "BOX",
+        "weight_kg": 79.8,
+        "value_usd": 13791.36
+      }
+    ],
+    "total_weight_kg": 4642.66,
+    "total_value_usd": 282280.34,
+    "service": "Ground",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 34330.82,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-654918",
+    "destination_country": "Thailand"
+  }
+}

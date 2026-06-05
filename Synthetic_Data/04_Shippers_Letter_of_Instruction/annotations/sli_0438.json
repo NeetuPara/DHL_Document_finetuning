@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0438",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202310-8910",
+    "usppi_name": "Industry Aguilar LLC",
+    "usppi_address": "500 Jeanette Fork Apt. 394, West Douglas, VI 96966, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "87-4644970",
+    "consignee_name": "Global Burns LLC",
+    "consignee_address": "1010 Carl Cliff Suite 682, New Hannahfort, ND 90585, India",
+    "consignee_country": "India",
+    "notify_party": "Velasquez Pacific Pte Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Timothy Rodriguez",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/24",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 164,
+        "unit": "KGS",
+        "weight_kg": 164.0,
+        "value_usd": 248.83
+      },
+      {
+        "marks": "SLI/26",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 15,
+        "unit": "CTN",
+        "weight_kg": 26.27,
+        "value_usd": 205.45
+      },
+      {
+        "marks": "ABC/41",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 186,
+        "unit": "KGS",
+        "weight_kg": 186.0,
+        "value_usd": 3824.27
+      },
+      {
+        "marks": "EXP/12",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 98,
+        "unit": "PCS",
+        "weight_kg": 72.08,
+        "value_usd": 120745.04
+      },
+      {
+        "marks": "SLI/21",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 187,
+        "unit": "PCS",
+        "weight_kg": 243.57,
+        "value_usd": 2060.53
+      },
+      {
+        "marks": "EXP/28",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 132,
+        "unit": "PCS",
+        "weight_kg": 13.66,
+        "value_usd": 7874.7
+      }
+    ],
+    "total_weight_kg": 705.58,
+    "total_value_usd": 134958.82,
+    "vessel": "CSCL GLOBE",
+    "voyage": "207N",
+    "booking_ref": "BKG-752255",
+    "bl_number": "EGLV834840180",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Dubai, AE",
+    "container_number": "VITB1722299",
+    "seal_number": "SL914486",
+    "container_type": "40'GP",
+    "cbm": 25.159
+  }
+}

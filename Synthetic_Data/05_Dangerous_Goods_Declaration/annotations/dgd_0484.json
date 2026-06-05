@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0484",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Jennings Tech GmbH",
+    "shipper_address": "136 Dillon Camp Suite 002, East Davidfort, CA 23492, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Owens Trade GmbH",
+    "consignee_address": "251 Sampson Village, Lake Angelaborough, NV 45627, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+56 393-547-9996",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 35,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 80.4,
+        "qty_unit": "kg",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-406062",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 50,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 16.0,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-349781",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Clayton Smith",
+    "signature_date": "2026-05-07",
+    "signature_place": "Spain",
+    "awb_number": "085-84021740",
+    "flight_number": "UA9972",
+    "flight_date": "2026-05-04",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare"
+  }
+}

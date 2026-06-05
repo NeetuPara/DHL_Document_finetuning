@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0801",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Hill Pacific Ltd",
+    "shipper_address": "610 Kimberly Center, Davidmouth, MP 04627, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Thompson Commerce Pte Ltd",
+    "consignee_address": "047 Jack Course, Georgeton, DC 46606, Thailand",
+    "consignee_country": "Thailand",
+    "emergency_telephone": "+87 583-126-6815",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 41,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 22.01,
+        "qty_unit": "L",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-886363",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 30,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 7.66,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-821942",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Scott May",
+    "signature_date": "2026-05-03",
+    "signature_place": "South Korea",
+    "awb_number": "176-64520911",
+    "flight_number": "EK7622",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "SYD",
+    "destination_airport_name": "Sydney Kingsford Smith",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

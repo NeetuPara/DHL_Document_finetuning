@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0893",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Nguyen S.A.",
+    "shipper_address": "0473 Torres Forge, Wrightburgh, IL 47489, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Industry Ross LLC",
+    "consignee_address": "11815 Cynthia Prairie, Marciatown, WY 27803, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+73 363-941-3770",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 4,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 91.61,
+        "qty_unit": "L",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-353152",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 24,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 41.41,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Stacy Hurley",
+    "signature_date": "2026-04-30",
+    "signature_place": "United Arab Emirates",
+    "vessel": "MADRID MAERSK",
+    "voyage": "198S",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Antwerp, BE"
+  }
+}

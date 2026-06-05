@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0822",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-28493355",
+    "mawb_number": "085-45552152",
+    "shipper_name": "Commerce Brooks B.V.",
+    "shipper_address": "451 Rachel Causeway Suite 880, North Timothy, UT 97723, Switzerland",
+    "consignee_name": "Dennis Pacific Inc.",
+    "consignee_address": "441 Smith Summit Suite 029, Cindyside, NV 64538, France",
+    "agent_name": "Navarro Trade LLC",
+    "airport_departure": "CDG",
+    "airport_destination": "MIA",
+    "currency": "SGD",
+    "charge_code": "PP",
+    "declared_value_carriage": "AED 32,357.68",
+    "declared_value_customs": "CHF 46,633.55",
+    "n_pieces": 18,
+    "gross_weight_kg": 367.3,
+    "chargeable_weight": 437.3,
+    "rate": 10.91,
+    "total_charge": 4770.94,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-02-19",
+    "signatory": "Carolyn Chen",
+    "iata_code": "01-623",
+    "agent_cass": "9645-5535",
+    "consolidation_ref": "CONS-5215-413251",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-97904749",
+        "pieces": 20,
+        "weight": 99.6,
+        "destination": "DXB",
+        "consignee": "Industry Stone AG",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "176-75427859",
+        "pieces": 11,
+        "weight": 35.6,
+        "destination": "AMS",
+        "consignee": "Trade Jones B.V.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "006-38996023",
+        "pieces": 20,
+        "weight": 27.0,
+        "destination": "HKG",
+        "consignee": "Pacific Schwartz Pte Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

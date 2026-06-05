@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0352",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Alicia Howard",
+    "addressee_company": "Martin Pacific S.A.",
+    "addressee_address": "3693 Erica Bypass, South James, FM 37994, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 3.805,
+    "total_value": 2991.72,
+    "currency": "SGD",
+    "issue_date": "2026-05-11",
+    "reference": "REF-876886",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.814,
+        "value": 1467.18,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 10,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.823,
+        "value": 963.1,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 8,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.168,
+        "value": 561.44,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "Cody Richard MD",
+    "sender_company": "Mcneil Trade Pte Ltd",
+    "sender_address": "33658 Bullock Drive Suite 699, Bestton, MT 20468, Switzerland",
+    "sender_phone": "(755)532-7905x4229",
+    "sender_email": "kmcmillan@example.com",
+    "addressee_phone": "444.500.1938x298",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 3290.89,
+    "postal_charges": 74.86,
+    "tracking_number": "FX405369333WG"
+  }
+}

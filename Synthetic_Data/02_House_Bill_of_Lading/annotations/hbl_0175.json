@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0175",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU789623399",
+    "shipper_name": "Brown Global Pte Ltd",
+    "shipper_address": "0055 Thomas Mountains, South Aaron, SD 16730, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Smith Industry AG",
+    "consignee_address": "4693 Brown Cove, North Molly, ND 33348, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Industry Burgess Pte Ltd",
+    "notify_party_address": "05036 Rush Brook Apt. 507, Rachelchester, WI 65636, Canada",
+    "vessel": "MSC OSCAR",
+    "voyage": "812S",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2025-10-02",
+    "issue_place": "Felixstowe",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "JXCZ0124095",
+        "seal_no": "BL720516",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "IICQ5509361",
+        "seal_no": "BL402560",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "GHIO7084685",
+        "seal_no": "SL527504",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "DGWQ5696675",
+        "seal_no": "CL705958",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 344,
+    "package_type": "Drum",
+    "gross_weight_kg": 7436.7,
+    "net_weight_kg": 6702.2,
+    "cbm": 16.303,
+    "marks_and_numbers": "ABC/30"
+  }
+}

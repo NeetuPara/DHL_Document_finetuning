@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0762",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202401-1422",
+    "usppi_name": "Cantu Tech S.A.",
+    "usppi_address": "146 Jacob Motorway Suite 117, North Terrencestad, DC 22502, France",
+    "usppi_country": "France",
+    "ein": "32-8390220",
+    "consignee_name": "Jones Industry Pte Ltd",
+    "consignee_address": "862 Watts Lakes, New Danielleborough, MH 92406, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Garcia Tech Corp.",
+    "forwarder": "Panalpina",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5A002",
+    "signatory_name": "Dr. Charles Kirby",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/50",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 133,
+        "unit": "KGS",
+        "weight_kg": 133.0,
+        "value_usd": 599.37
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 12,
+        "unit": "PCS",
+        "weight_kg": 233.45,
+        "value_usd": 1264.18
+      },
+      {
+        "marks": "EXP/15",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 84,
+        "unit": "PCS",
+        "weight_kg": 20.79,
+        "value_usd": 45462.49
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 52,
+        "unit": "KGS",
+        "weight_kg": 52.0,
+        "value_usd": 112.85
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 26,
+        "unit": "MTR",
+        "weight_kg": 19.48,
+        "value_usd": 462.57
+      }
+    ],
+    "total_weight_kg": 458.72,
+    "total_value_usd": 47901.46,
+    "vessel": "ONE INNOVATION",
+    "voyage": "717E",
+    "booking_ref": "BKG-312242",
+    "bl_number": "DHLG643557359",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "EISV1494289",
+    "seal_number": "SL932021",
+    "container_type": "20'GP",
+    "cbm": 7.145
+  }
+}

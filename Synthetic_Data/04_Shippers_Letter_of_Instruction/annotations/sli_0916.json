@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0916",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202105-5893",
+    "usppi_name": "Global Martin AG",
+    "usppi_address": "831 Ballard Cove Apt. 929, Marissamouth, VT 04470, Spain",
+    "usppi_country": "Spain",
+    "ein": "46-9325614",
+    "consignee_name": "Jensen Industry Pte Ltd",
+    "consignee_address": "1301 Avery Stream Apt. 613, Lisaland, DC 67409, India",
+    "consignee_country": "India",
+    "notify_party": "Hutchinson International Pte Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Tammy Turner",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/47",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 176,
+        "unit": "KGS",
+        "weight_kg": 176.0,
+        "value_usd": 2591.5
+      },
+      {
+        "marks": "EXP/4",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 20,
+        "unit": "PCS",
+        "weight_kg": 1.99,
+        "value_usd": 1274.81
+      }
+    ],
+    "total_weight_kg": 177.99,
+    "total_value_usd": 3866.31,
+    "service": "Express Courier",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 40743.09,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-434101",
+    "destination_country": "India"
+  }
+}

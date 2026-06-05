@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0606",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202305-3662",
+    "usppi_name": "Johnson Pacific LLC",
+    "usppi_address": "019 Paul Curve Suite 482, Millerland, RI 32943, United States",
+    "usppi_country": "United States",
+    "ein": "33-1948788",
+    "consignee_name": "Commerce Thompson S.A.",
+    "consignee_address": "21713 Julie Mill Apt. 740, New Dylanland, UT 64729, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Parks Industry Corp.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Carol Fox",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/12",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 80,
+        "unit": "SET",
+        "weight_kg": 245.79,
+        "value_usd": 10962.71
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 121,
+        "unit": "PCS",
+        "weight_kg": 40.75,
+        "value_usd": 17932.14
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 191,
+        "unit": "PCS",
+        "weight_kg": 55.51,
+        "value_usd": 43104.18
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 14,
+        "unit": "CTN",
+        "weight_kg": 32.02,
+        "value_usd": 191.3
+      },
+      {
+        "marks": "EXP/7",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 200,
+        "unit": "MTR",
+        "weight_kg": 93.85,
+        "value_usd": 3192.68
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 32,
+        "unit": "KGS",
+        "weight_kg": 32.0,
+        "value_usd": 37.36
+      }
+    ],
+    "total_weight_kg": 499.92,
+    "total_value_usd": 75420.37,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "937S",
+    "booking_ref": "BKG-931743",
+    "bl_number": "DHLG588987789",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Dubai, AE",
+    "container_number": "ISPW1084394",
+    "seal_number": "SL206750",
+    "container_type": "40'HC",
+    "cbm": 41.845
+  }
+}

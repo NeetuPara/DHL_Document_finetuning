@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0054",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU328533206",
+    "shipper_name": "Young Pacific GmbH",
+    "shipper_address": "3487 Young Plain Apt. 659, Lake Jeffreystad, CO 08530, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Trade Hess AG",
+    "consignee_address": "4544 Macias Ville Apt. 501, Taylorville, SC 70440, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "Global Martinez GmbH",
+    "notify_party_address": "770 Sherry Well Suite 840, Petersburgh, MD 07416, Hong Kong",
+    "vessel": "MADRID MAERSK",
+    "voyage": "705N",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2026-01-27",
+    "issue_place": "Colombo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "UZTK7772574",
+        "seal_no": "CL932053",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "GPBX8689912",
+        "seal_no": "BL150949",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "AMNO2809916",
+        "seal_no": "BL434208",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "QFLI9524949",
+        "seal_no": "CL156011",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 316,
+    "package_type": "Carton",
+    "gross_weight_kg": 17808.1,
+    "net_weight_kg": 16692.1,
+    "cbm": 22.929,
+    "marks_and_numbers": "XYZ/48"
+  }
+}

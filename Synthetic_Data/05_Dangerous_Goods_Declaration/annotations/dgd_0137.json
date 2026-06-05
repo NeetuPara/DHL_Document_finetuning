@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0137",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacheco Tech Inc.",
+    "shipper_address": "PSC 9748, Box 4016, APO AP 51052, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Bell Industry Pte Ltd",
+    "consignee_address": "035 Amanda Plaza Apt. 189, South Dennis, TN 31360, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+60 977-563-5781",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 12,
+        "pkg_type": "Steel Drum",
+        "net_qty": 11.97,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Steven Benitez",
+    "signature_date": "2026-05-04",
+    "signature_place": "Belgium",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "963W",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Tanjung Pelepas, MY"
+  }
+}

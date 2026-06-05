@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0760",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202206-5288",
+    "usppi_name": "Steele Industry Ltd",
+    "usppi_address": "69002 Ronald Bypass Apt. 334, New Cynthiafort, MS 92946, United States",
+    "usppi_country": "United States",
+    "ein": "55-5642352",
+    "consignee_name": "Brown Commerce LLC",
+    "consignee_address": "4749 Jaime Avenue Suite 970, Murphyfurt, NJ 91783, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Pacific Dominguez B.V.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DPU",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Thomas Garcia",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/35",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 175,
+        "unit": "PCS",
+        "weight_kg": 2686.82,
+        "value_usd": 54765.34
+      },
+      {
+        "marks": "EXP/14",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 60,
+        "unit": "PCS",
+        "weight_kg": 800.05,
+        "value_usd": 32846.57
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 122,
+        "unit": "LTR",
+        "weight_kg": 109.97,
+        "value_usd": 857.07
+      }
+    ],
+    "total_weight_kg": 3596.84,
+    "total_value_usd": 88468.98,
+    "service": "Ground",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 34172.68,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-456055",
+    "destination_country": "Singapore"
+  }
+}

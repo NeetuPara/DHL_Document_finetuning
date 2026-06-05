@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0424",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "966-07656840-2",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2025-07-10",
+    "port_of_entry": "MIA - Miami",
+    "transport_mode": "Truck",
+    "carrier": "MSC",
+    "bl_awb": "006-64049344",
+    "importer_name": "Global Gomez Co.",
+    "importer_ein": "95-7482391",
+    "consignee_name": "Sanchez International Pte Ltd",
+    "customs_broker": "Industry Levy AG",
+    "broker_filer_code": "tZI",
+    "country_of_origin": "Brazil",
+    "total_value": 187078.84,
+    "total_duty": 27741.35,
+    "currency": "EUR",
+    "signatory": "Cynthia Sanford",
+    "signatory_title": "Trade Finance Manager",
+    "line_items": [
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Singapore",
+        "qty": 225,
+        "unit": "PCS",
+        "entered_value": 40144.5,
+        "duty_rate": 19.5,
+        "duty_amount": 7828.18,
+        "eccn": "5E992",
+        "schedule_b": "8518.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Australia",
+        "qty": 178,
+        "unit": "PCS",
+        "entered_value": 80977.54,
+        "duty_rate": 10.5,
+        "duty_amount": 8502.64,
+        "eccn": "EAR99",
+        "schedule_b": "3926.90.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "France",
+        "qty": 260,
+        "unit": "PCS",
+        "entered_value": 65956.8,
+        "duty_rate": 17.3,
+        "duty_amount": 11410.53,
+        "eccn": "7A994",
+        "schedule_b": "8534.00.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

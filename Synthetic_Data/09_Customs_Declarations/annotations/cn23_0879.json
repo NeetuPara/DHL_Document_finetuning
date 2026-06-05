@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0879",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Michelle Byrd",
+    "addressee_company": "Industry Hernandez Ltd",
+    "addressee_address": "6932 Kimberly Meadow, Lake Brandon, GU 89161, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 6.284,
+    "total_value": 2238.34,
+    "currency": "AUD",
+    "issue_date": "2026-02-20",
+    "reference": "REF-996405",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.108,
+        "value": 75.95,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 13,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.107,
+        "value": 1938.95,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 12,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.069,
+        "value": 223.44,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_country": "Australia",
+    "port_of_entry": "Los Angeles, CA",
+    "entry_number": "320-66713827-1",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 14.0,
+    "estimated_duty": 313.37,
+    "importer_ein": "87-9421051",
+    "customs_broker": "Rogers Industry S.A."
+  }
+}

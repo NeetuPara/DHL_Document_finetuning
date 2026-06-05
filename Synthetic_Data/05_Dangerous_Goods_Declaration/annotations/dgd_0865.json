@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0865",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Arnold GmbH",
+    "shipper_address": "PSC 8845, Box 0881, APO AE 25283, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Ferrell Pacific Ltd",
+    "consignee_address": "793 Stacey Turnpike, West Jeffreyberg, NY 21852, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+41 963-618-2235",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 47,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 49.71,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 33,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 46.76,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Emily Martin",
+    "signature_date": "2026-05-03",
+    "signature_place": "Canada",
+    "awb_number": "074-59290803",
+    "flight_number": "QR5752",
+    "flight_date": "2026-06-06",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0227",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Wood S.A.",
+    "shipper_address": "73034 Gordon Ports Suite 376, East Carol, ND 38201, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Global Morgan S.A.",
+    "consignee_address": "45439 Walker View, Kaylastad, OK 57500, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+91 566-758-7267",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 3,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 51.46,
+        "qty_unit": "L",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 1,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 20.43,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-373577",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Andrew Stevenson",
+    "signature_date": "2026-05-06",
+    "signature_place": "Thailand",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "296W",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Long Beach, US"
+  }
+}

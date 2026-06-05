@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0798",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-19391103",
+    "mawb_number": "176-38703809",
+    "shipper_name": "Pacific Miller S.A.",
+    "shipper_address": "51570 Jensen Camp Suite 556, Franklinport, LA 94495, Italy",
+    "consignee_name": "Rodriguez Commerce Co.",
+    "consignee_address": "PSC 2074, Box 3641, APO AE 21107, Australia",
+    "agent_name": "International Burke GmbH",
+    "airport_departure": "FRA",
+    "airport_destination": "SIN",
+    "currency": "CAD",
+    "charge_code": "CC",
+    "declared_value_carriage": "USD 10,218.22",
+    "declared_value_customs": "USD 3,401.37",
+    "n_pieces": 31,
+    "gross_weight_kg": 262.6,
+    "chargeable_weight": 264.3,
+    "rate": 2.77,
+    "total_charge": 732.11,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "HANDLING CODE: HUM",
+    "issue_date": "2026-03-11",
+    "signatory": "John Thornton",
+    "iata_code": "90-720",
+    "agent_cass": "2430-4133",
+    "consolidation_ref": "CONS-2268-102143",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-98701042",
+        "pieces": 10,
+        "weight": 53.7,
+        "destination": "PVG",
+        "consignee": "Global Franco Inc.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "618-61132092",
+        "pieces": 7,
+        "weight": 83.1,
+        "destination": "ORD",
+        "consignee": "Gomez Tech Inc.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "160-37162756",
+        "pieces": 16,
+        "weight": 59.9,
+        "destination": "NRT",
+        "consignee": "Mcclure Pacific GmbH",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "085-47205281",
+        "pieces": 2,
+        "weight": 3.6,
+        "destination": "NRT",
+        "consignee": "Hughes Tech Ltd",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

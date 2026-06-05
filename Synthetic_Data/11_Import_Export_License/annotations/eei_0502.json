@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0502",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "269-46738527-8",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2026-04-26",
+    "port_of_entry": "MIA - Miami",
+    "transport_mode": "Ocean",
+    "carrier": "MSC",
+    "bl_awb": "125-73980333",
+    "importer_name": "Commerce Jones AG",
+    "importer_ein": "22-0054957",
+    "consignee_name": "Hayes Trade Inc.",
+    "customs_broker": "Commerce Wood Co.",
+    "broker_filer_code": "Unf",
+    "country_of_origin": "India",
+    "total_value": 305230.8,
+    "total_duty": 36618.22,
+    "currency": "USD",
+    "signatory": "William Rodriguez",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Thailand",
+        "qty": 423,
+        "unit": "BOX",
+        "entered_value": 168950.43,
+        "duty_rate": 12.5,
+        "duty_amount": 21118.8,
+        "eccn": "2B350",
+        "schedule_b": "2936.90.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Sweden",
+        "qty": 375,
+        "unit": "LTR",
+        "entered_value": 121192.5,
+        "duty_rate": 10.1,
+        "duty_amount": 12240.44,
+        "eccn": "9A515",
+        "schedule_b": "2901.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Germany",
+        "qty": 243,
+        "unit": "MTR",
+        "entered_value": 15087.87,
+        "duty_rate": 21.6,
+        "duty_amount": 3258.98,
+        "eccn": "5E992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

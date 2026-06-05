@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0483",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV131251104",
+    "shipper_name": "Commerce Escobar S.A.",
+    "shipper_address": "53371 Evans Fork Suite 900, New Rebeccamouth, CA 29534, United States",
+    "shipper_country": "United States",
+    "consignee_name": "International Lee S.A.",
+    "consignee_address": "523 Joseph Roads, West Richard, AZ 50142, Italy",
+    "consignee_country": "Italy",
+    "notify_party_name": "Jenkins Tech AG",
+    "notify_party_address": "416 Cameron Plaza, Boydview, MI 10211, South Korea",
+    "vessel": "MSC OSCAR",
+    "voyage": "382S",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Hong Kong, HK",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Hong Kong, HK",
+    "issue_date": "2025-06-15",
+    "issue_place": "Dubai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "FGUP4774728",
+        "seal_no": "BL815111",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "JWQS9466888",
+        "seal_no": "SL966713",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "XZDZ9710466",
+        "seal_no": "SL903945",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 213,
+    "package_type": "Carton",
+    "gross_weight_kg": 5941.1,
+    "net_weight_kg": 5418.9,
+    "cbm": 10.664,
+    "marks_and_numbers": "GLB/49"
+  }
+}

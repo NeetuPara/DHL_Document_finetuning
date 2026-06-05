@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0756",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Miller Corp.",
+    "shipper_address": "57482 Jasmine Prairie, New Cindyside, RI 34281, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "International Wright Inc.",
+    "consignee_address": "8753 Hernandez Junctions, New James, MA 76948, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+94 341-795-2184",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 25,
+        "pkg_type": "Steel Drum",
+        "net_qty": 82.92,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 41,
+        "pkg_type": "Steel Drum",
+        "net_qty": 68.38,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-502648",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Phillip Kim",
+    "signature_date": "2026-05-02",
+    "signature_place": "Spain",
+    "awb_number": "045-94568257",
+    "flight_number": "SQ8140",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

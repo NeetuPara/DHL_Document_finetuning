@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0361",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "266-54894127-4",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2026-03-06",
+    "port_of_entry": "HOU - Houston",
+    "transport_mode": "Rail",
+    "carrier": "MSC",
+    "bl_awb": "057-14230995",
+    "importer_name": "Dickerson Commerce Corp.",
+    "importer_ein": "28-9573450",
+    "consignee_name": "Pacific Rogers Corp.",
+    "customs_broker": "Commerce Torres Co.",
+    "broker_filer_code": "eIh",
+    "country_of_origin": "South Korea",
+    "total_value": 79724.24,
+    "total_duty": 2083.54,
+    "currency": "EUR",
+    "signatory": "Janet Carpenter",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Italy",
+        "qty": 437,
+        "unit": "MTR",
+        "entered_value": 76003.04,
+        "duty_rate": 2.1,
+        "duty_amount": 1596.06,
+        "eccn": "9A515",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Malaysia",
+        "qty": 420,
+        "unit": "KGS",
+        "entered_value": 3721.2,
+        "duty_rate": 13.1,
+        "duty_amount": 487.48,
+        "eccn": "7A994",
+        "schedule_b": "2008.19.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

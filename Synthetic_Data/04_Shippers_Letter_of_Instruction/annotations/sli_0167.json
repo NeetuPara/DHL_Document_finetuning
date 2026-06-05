@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0167",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202110-9377",
+    "usppi_name": "Industry Johns LLC",
+    "usppi_address": "PSC 9556, Box 9123, APO AE 89813, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "59-4761330",
+    "consignee_name": "Bridges Global Corp.",
+    "consignee_address": "998 Kelly Canyon Suite 293, Davidhaven, WI 77297, China",
+    "consignee_country": "China",
+    "notify_party": "Yang Industry Inc.",
+    "forwarder": "Expeditors",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Anna Carter",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/12",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 35,
+        "unit": "PCS",
+        "weight_kg": 15.22,
+        "value_usd": 7889.46
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 87,
+        "unit": "PCS",
+        "weight_kg": 1781.99,
+        "value_usd": 25196.8
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 132,
+        "unit": "PCS",
+        "weight_kg": 18.42,
+        "value_usd": 700.87
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 133,
+        "unit": "LTR",
+        "weight_kg": 126.78,
+        "value_usd": 2612.51
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 104,
+        "unit": "CTN",
+        "weight_kg": 474.23,
+        "value_usd": 1709.66
+      }
+    ],
+    "total_weight_kg": 2416.64,
+    "total_value_usd": 38109.3,
+    "service": "LCL Ocean",
+    "named_port": "New York, US",
+    "insurance_value_usd": 42302.58,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-560039",
+    "destination_country": "China"
+  }
+}

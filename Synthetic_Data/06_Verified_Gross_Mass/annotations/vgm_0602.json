@@ -1,0 +1,61 @@
+{
+  "document_id": "vgm_0602",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Global Davis AG",
+    "shipper_address": "44993 Gary Extensions Apt. 720, Matthewsside, OH 38672, China",
+    "shipper_country": "China",
+    "container_number": "KKYB5473624",
+    "seal_number": "CL197033",
+    "container_size": "40'HC",
+    "iso_type_code": "45G0",
+    "tare_weight_kg": 4000,
+    "cargo_weight_kg": 3731.3,
+    "packing_materials_kg": 403.7,
+    "vgm_kg": 8135.0,
+    "vessel": "EVER GOLDEN",
+    "voyage": "147S",
+    "bl_number": "EGLV385167156",
+    "booking_reference": "BKG-298246",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-88112",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-20",
+    "signature_date": "2026-05-07",
+    "signatory_name": "Megan Hays",
+    "signatory_title": "Operations Director",
+    "number_of_packages": 4,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Crate",
+        "n_units": 6,
+        "gross_wt_kg": 378.1
+      },
+      {
+        "item_no": 2,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Carton",
+        "n_units": 3,
+        "gross_wt_kg": 1342.4
+      },
+      {
+        "item_no": 3,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Drum",
+        "n_units": 16,
+        "gross_wt_kg": 561.8
+      },
+      {
+        "item_no": 4,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Case",
+        "n_units": 5,
+        "gross_wt_kg": 1449.0
+      }
+    ]
+  }
+}

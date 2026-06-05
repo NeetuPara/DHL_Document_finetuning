@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0336",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202409-4291",
+    "usppi_name": "International Rich GmbH",
+    "usppi_address": "7048 Michael Lights Apt. 020, Coxtown, NJ 13581, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "81-5288405",
+    "consignee_name": "International Fox GmbH",
+    "consignee_address": "0495 Diaz Gateway, Robinsonshire, MP 61598, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Stephens Pacific GmbH",
+    "forwarder": "DB Schenker",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Mark Carter",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/42",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 162,
+        "unit": "LTR",
+        "weight_kg": 169.79,
+        "value_usd": 3442.9
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 164,
+        "unit": "PKG",
+        "weight_kg": 347.16,
+        "value_usd": 7674.88
+      }
+    ],
+    "total_weight_kg": 516.95,
+    "total_value_usd": 11117.78,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "691S",
+    "booking_ref": "BKG-909791",
+    "bl_number": "YMLU767001272",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Tokyo, JP",
+    "container_number": "GXDF5002012",
+    "seal_number": "SL873126",
+    "container_type": "20'GP",
+    "cbm": 9.549
+  }
+}

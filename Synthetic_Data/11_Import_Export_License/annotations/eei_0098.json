@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0098",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220614509079",
+    "export_date": "2026-01-27",
+    "aes_option": "AES Filing",
+    "usppi_name": "Baker Commerce Co.",
+    "usppi_ein": "32-1605022",
+    "usppi_address": "514 Gray Ports, Lake Annetteborough, MT 80278, United Kingdom",
+    "ultimate_consignee": "Carlson Commerce Corp.",
+    "intermediate_consignee": "Commerce Hensley Inc.",
+    "forwarding_agent": "Foster Global GmbH",
+    "destination_country": "Japan",
+    "carrier": "MSC",
+    "bl_awb": "020-78790056",
+    "total_value": 168203.43,
+    "currency": "AUD",
+    "signatory": "Megan Jacobs",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "United States",
+        "qty": 263,
+        "unit": "PCS",
+        "entered_value": 74194.93,
+        "duty_rate": 0.4,
+        "duty_amount": 296.78,
+        "eccn": "EAR99",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Canada",
+        "qty": 5,
+        "unit": "KGS",
+        "entered_value": 1226.7,
+        "duty_rate": 8.0,
+        "duty_amount": 98.14,
+        "eccn": "2B350",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "India",
+        "qty": 265,
+        "unit": "PCS",
+        "entered_value": 92781.8,
+        "duty_rate": 15.1,
+        "duty_amount": 14010.05,
+        "eccn": "2B350",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

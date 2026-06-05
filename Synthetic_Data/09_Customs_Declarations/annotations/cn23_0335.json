@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0335",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Tanya David",
+    "addressee_company": "Short Industry Ltd",
+    "addressee_address": "26479 Janet Forge, Danielmouth, UT 92162, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 15.264,
+    "total_value": 5546.97,
+    "currency": "USD",
+    "issue_date": "2025-06-01",
+    "reference": "REF-980502",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.639,
+        "value": 2384.48,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 2,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.158,
+        "value": 115.86,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 14,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.573,
+        "value": 773.5,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 7,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.797,
+        "value": 330.33,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 15,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.097,
+        "value": 1942.8,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_name": "Shannon Baker",
+    "sender_company": "Tech Curtis Co.",
+    "sender_address": "971 Natasha Cliffs Suite 686, Millerside, RI 55802, Malaysia",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 6101.67,
+    "postal_charges": 53.29,
+    "tracking_number": "VW447743681NY"
+  }
+}

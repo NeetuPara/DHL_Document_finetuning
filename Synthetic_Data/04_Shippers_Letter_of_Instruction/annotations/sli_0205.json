@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0205",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202007-8106",
+    "usppi_name": "Commerce Ramirez AG",
+    "usppi_address": "1217 Price Shore, Silvahaven, UT 67767, Canada",
+    "usppi_country": "Canada",
+    "ein": "19-5836608",
+    "consignee_name": "Kelly Pacific AG",
+    "consignee_address": "6073 Guzman Burg Apt. 086, Port Jonathanfurt, IN 07779, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Scott Commerce LLC",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "Bridget Gallagher",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/17",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 107,
+        "unit": "PKG",
+        "weight_kg": 212.55,
+        "value_usd": 3623.17
+      },
+      {
+        "marks": "SLI/40",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 200,
+        "unit": "SET",
+        "weight_kg": 509.58,
+        "value_usd": 18046.26
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 161,
+        "unit": "LTR",
+        "weight_kg": 162.75,
+        "value_usd": 2274.56
+      },
+      {
+        "marks": "ABC/20",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 21,
+        "unit": "CTN",
+        "weight_kg": 48.28,
+        "value_usd": 1444.69
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 20,
+        "unit": "MTR",
+        "weight_kg": 19.62,
+        "value_usd": 307.08
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 164,
+        "unit": "PCS",
+        "weight_kg": 17.32,
+        "value_usd": 35628.72
+      }
+    ],
+    "total_weight_kg": 970.1,
+    "total_value_usd": 61324.48,
+    "service": "Air Freight",
+    "named_port": "Frankfurt Airport",
+    "insurance_value_usd": 7127.18,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-291241",
+    "destination_country": "Poland"
+  }
+}

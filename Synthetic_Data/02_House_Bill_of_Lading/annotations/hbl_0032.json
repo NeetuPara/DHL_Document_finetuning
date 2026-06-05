@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0032",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU776995335",
+    "shipper_name": "Mullins Pacific Pte Ltd",
+    "shipper_address": "0673 Julia View, Lake Thomashaven, DE 44643, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "International Irwin LLC",
+    "consignee_address": "4176 Patel Valley, Thompsonshire, IL 06571, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party_name": "Salazar Trade S.A.",
+    "notify_party_address": "70671 John Mill, Karenchester, DC 87843, Sweden",
+    "vessel": "MSC OSCAR",
+    "voyage": "521S",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2025-12-27",
+    "issue_place": "Tokyo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "UIKI0428125",
+        "seal_no": "BL360646",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "RKCZ6711903",
+        "seal_no": "CL275336",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "TDXR8915684",
+        "seal_no": "CL872582",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 449,
+    "package_type": "Bag",
+    "gross_weight_kg": 8136.1,
+    "net_weight_kg": 7378.6,
+    "cbm": 37.279,
+    "marks_and_numbers": "ABC/47"
+  }
+}

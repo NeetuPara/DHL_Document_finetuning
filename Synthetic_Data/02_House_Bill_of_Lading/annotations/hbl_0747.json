@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0747",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG599456479",
+    "shipper_name": "Global Anderson S.A.",
+    "shipper_address": "79456 Franklin Tunnel, Summersview, IL 49249, China",
+    "shipper_country": "China",
+    "consignee_name": "Trade Gutierrez Corp.",
+    "consignee_address": "64542 Kelly Cliff, South Justin, MS 13645, Canada",
+    "consignee_country": "Canada",
+    "notify_party_name": "Smith Tech S.A.",
+    "notify_party_address": "146 Patricia Locks Suite 695, East Johnside, GA 51002, Italy",
+    "vessel": "MADRID MAERSK",
+    "voyage": "414E",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Antwerp, BE",
+    "issue_date": "2024-11-20",
+    "issue_place": "Busan",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "KBLK2239613",
+        "seal_no": "BL204232",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "KNFR2560760",
+        "seal_no": "CL921360",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 141,
+    "package_type": "Carton",
+    "gross_weight_kg": 20672.9,
+    "net_weight_kg": 18514.9,
+    "cbm": 8.217,
+    "marks_and_numbers": "XYZ/42"
+  }
+}

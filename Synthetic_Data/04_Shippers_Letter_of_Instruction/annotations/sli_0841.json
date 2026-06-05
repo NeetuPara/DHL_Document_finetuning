@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0841",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202307-7881",
+    "usppi_name": "Alvarado Industry Pte Ltd",
+    "usppi_address": "6404 Rebecca Inlet Apt. 367, Lake Tammy, MA 96512, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "51-7176038",
+    "consignee_name": "Pacific Young GmbH",
+    "consignee_address": "1286 Shah Walks, Lake Kristi, MA 53173, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Industry Guzman Pte Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Anthony Jacobs",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/4",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 17,
+        "unit": "PCS",
+        "weight_kg": 7.06,
+        "value_usd": 27191.87
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 86,
+        "unit": "PKG",
+        "weight_kg": 91.66,
+        "value_usd": 3013.24
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 125,
+        "unit": "CTN",
+        "weight_kg": 412.21,
+        "value_usd": 8650.58
+      },
+      {
+        "marks": "ABC/19",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 111,
+        "unit": "KGS",
+        "weight_kg": 111.0,
+        "value_usd": 811.47
+      }
+    ],
+    "total_weight_kg": 621.93,
+    "total_value_usd": 39667.16,
+    "service": "LCL Ocean",
+    "named_port": "Los Angeles, US",
+    "insurance_value_usd": 33563.29,
+    "license_type": "Distributor License",
+    "license_number": "LIC-143704",
+    "destination_country": "Japan"
+  }
+}

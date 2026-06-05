@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0809",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV934911766",
+    "shipper_name": "Ballard Trade B.V.",
+    "shipper_address": "730 Hoffman Ports Apt. 526, Clarketon, TN 88955, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Lynch Global LLC",
+    "consignee_address": "05877 Debra Fords, Kellistad, MT 60118, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "Tech Brewer AG",
+    "notify_party_address": "05981 Tiffany Overpass, Michaelmouth, MT 89520, South Korea",
+    "vessel": "EVER GOLDEN",
+    "voyage": "272S",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2026-04-01",
+    "issue_place": "Tokyo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "UVJJ5662771",
+        "seal_no": "BL805062",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "REIR1270510",
+        "seal_no": "BL675174",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "DSGS8696787",
+        "seal_no": "BL133782",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "QTZH3954798",
+        "seal_no": "BL713823",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 98,
+    "package_type": "Case",
+    "gross_weight_kg": 14417.6,
+    "net_weight_kg": 12916.4,
+    "cbm": 10.782,
+    "marks_and_numbers": "ABC/2"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0789",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-79482428",
+    "mawb_number": "618-31541874",
+    "shipper_name": "International Lopez Pte Ltd",
+    "shipper_address": "05164 Chambers Center, Port Adamhaven, NV 73431, Spain",
+    "consignee_name": "Commerce Flores Co.",
+    "consignee_address": "927 Walker Meadows Apt. 630, Davisland, VT 67790, Sweden",
+    "agent_name": "Smith Commerce Co.",
+    "airport_departure": "HKG",
+    "airport_destination": "FRA",
+    "currency": "CHF",
+    "charge_code": "PP",
+    "declared_value_carriage": "AUD 12,478.42",
+    "declared_value_customs": "JPY 38,856.60",
+    "n_pieces": 43,
+    "gross_weight_kg": 260.6,
+    "chargeable_weight": 269.2,
+    "rate": 10.56,
+    "total_charge": 2842.75,
+    "nature_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-08-26",
+    "signatory": "Samantha Berger",
+    "iata_code": "24-995",
+    "agent_cass": "1595-0501",
+    "consolidation_ref": "CONS-1979-143414",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-96574475",
+        "pieces": 9,
+        "weight": 2.9,
+        "destination": "CDG",
+        "consignee": "Global Huffman Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "045-38561716",
+        "pieces": 19,
+        "weight": 39.1,
+        "destination": "YYZ",
+        "consignee": "Global Jordan LLC",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "006-31179424",
+        "pieces": 15,
+        "weight": 10.9,
+        "destination": "NRT",
+        "consignee": "Rubio Pacific LLC",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "085-17996164",
+        "pieces": 13,
+        "weight": 19.4,
+        "destination": "LAX",
+        "consignee": "Global Gonzalez S.A.",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

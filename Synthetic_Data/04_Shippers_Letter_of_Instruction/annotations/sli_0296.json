@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0296",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202201-7717",
+    "usppi_name": "Commerce Hill S.A.",
+    "usppi_address": "4850 Brooks Pass, Gordonview, DE 86840, Canada",
+    "usppi_country": "Canada",
+    "ein": "86-1322711",
+    "consignee_name": "Wells Industry LLC",
+    "consignee_address": "PSC 2454, Box 7330, APO AA 80581, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Commerce Harrington Pte Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Jessica Merritt",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/29",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 15,
+        "unit": "PCS",
+        "weight_kg": 3.04,
+        "value_usd": 1199.28
+      },
+      {
+        "marks": "SLI/12",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 121,
+        "unit": "MTR",
+        "weight_kg": 68.76,
+        "value_usd": 2153.47
+      }
+    ],
+    "total_weight_kg": 71.8,
+    "total_value_usd": 3352.75,
+    "service": "Ground",
+    "named_port": "Toronto Pearson",
+    "insurance_value_usd": 22358.8,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-620665",
+    "destination_country": "Switzerland"
+  }
+}

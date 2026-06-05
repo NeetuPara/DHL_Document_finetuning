@@ -1,0 +1,50 @@
+{
+  "packet_id": "packet_2098",
+  "total_pages": 4,
+  "n_documents": 4,
+  "class_sequence": [
+    "Commercial Invoice",
+    "House Bill of Lading",
+    "House Airway Bill",
+    "Cargo Manifest"
+  ],
+  "documents": [
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "commercial_invoice_0865.pdf",
+      "source_class_folder": "01_Commercial_Invoice"
+    },
+    {
+      "doc_class": "House Bill of Lading",
+      "class_index": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "hbl_0276.pdf",
+      "source_class_folder": "02_House_Bill_of_Lading"
+    },
+    {
+      "doc_class": "House Airway Bill",
+      "class_index": 7,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "hawb_0347.pdf",
+      "source_class_folder": "07_House_Airway_Bill"
+    },
+    {
+      "doc_class": "Cargo Manifest",
+      "class_index": 10,
+      "page_start": 4,
+      "page_end": 4,
+      "n_pages": 1,
+      "source_file": "manifest_0127.pdf",
+      "source_class_folder": "10_Cargo_Manifest"
+    }
+  ],
+  "task": "splitting"
+}

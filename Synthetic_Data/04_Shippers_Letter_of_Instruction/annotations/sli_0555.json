@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0555",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202002-9293",
+    "usppi_name": "Taylor Pacific LLC",
+    "usppi_address": "31536 Krystal Hills, Port Matthew, AL 97162, Australia",
+    "usppi_country": "Australia",
+    "ein": "57-4267293",
+    "consignee_name": "Trade Mejia AG",
+    "consignee_address": "302 Christian Causeway Suite 968, West Margaretview, KS 19619, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Murphy Trade GmbH",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Christine Mcfarland",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/47",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 192,
+        "unit": "PCS",
+        "weight_kg": 1544.46,
+        "value_usd": 61869.91
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 180,
+        "unit": "SET",
+        "weight_kg": 193.55,
+        "value_usd": 27180.68
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 61,
+        "unit": "CTN",
+        "weight_kg": 303.98,
+        "value_usd": 3282.93
+      }
+    ],
+    "total_weight_kg": 2041.99,
+    "total_value_usd": 92333.52,
+    "vessel": "MSC GULSUN",
+    "voyage": "389S",
+    "booking_ref": "BKG-918871",
+    "bl_number": "MAEU209637204",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Hong Kong, HK",
+    "container_number": "BTTP4729039",
+    "seal_number": "SL670350",
+    "container_type": "40'GP",
+    "cbm": 12.812
+  }
+}

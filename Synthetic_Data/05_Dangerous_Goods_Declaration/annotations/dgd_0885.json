@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0885",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Mcmahon Global Inc.",
+    "shipper_address": "32419 James Stream, Timothymouth, AK 25314, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Solomon Global Corp.",
+    "consignee_address": "64479 Michelle Valleys Apt. 633, Robbinsfort, OR 34293, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+49 458-543-4634",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 44,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 1.96,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 39,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 31.04,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Kyle Andrade",
+    "signature_date": "2026-04-21",
+    "signature_place": "Thailand",
+    "awb_number": "160-44971388",
+    "flight_number": "UA1319",
+    "departure_airport_code": "AMS",
+    "departure_airport_name": "Amsterdam Schiphol",
+    "destination_airport_code": "LHR",
+    "destination_airport_name": "London Heathrow",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

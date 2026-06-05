@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0152",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "James Adams",
+    "addressee_company": "Trade Cox GmbH",
+    "addressee_address": "8500 Jenna Brook, Lake Helenmouth, TX 97587, China",
+    "addressee_country": "China",
+    "total_weight_kg": 7.069,
+    "total_value": 1790.35,
+    "currency": "CAD",
+    "issue_date": "2026-03-03",
+    "reference": "REF-824307",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.836,
+        "value": 577.9,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 13,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.435,
+        "value": 1095.64,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 1,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.798,
+        "value": 116.81,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Catherine Morales",
+    "sender_company": "International Crawford Corp.",
+    "sender_address": "168 Megan Extension, Lake Kevinborough, AR 66314, Australia",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 1969.38,
+    "postal_charges": 61.23,
+    "tracking_number": "IP431648439HG"
+  }
+}

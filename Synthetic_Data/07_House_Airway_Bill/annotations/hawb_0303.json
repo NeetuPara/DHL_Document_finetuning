@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0303",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-22571943",
+    "mawb_number": "125-71137151",
+    "shipper_name": "Commerce Bryant AG",
+    "shipper_address": "965 Jeremy Prairie, South Bonnieshire, OH 68910, United Arab Emirates",
+    "consignee_name": "Pacific Austin Co.",
+    "consignee_address": "7261 Phillip Pass, Yatestown, IL 13354, Canada",
+    "agent_name": "International Williams Pte Ltd",
+    "airport_departure": "NRT",
+    "airport_destination": "YYZ",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "CAD 242.55",
+    "declared_value_customs": "GBP 41,322.55",
+    "n_pieces": 48,
+    "gross_weight_kg": 138.9,
+    "chargeable_weight": 148.8,
+    "rate": 10.68,
+    "total_charge": 1589.18,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-04-28",
+    "signatory": "Vanessa Ellis",
+    "iata_code": "97-491",
+    "agent_cass": "4691-6913",
+    "consolidation_ref": "CONS-4679-570397",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-77733944",
+        "pieces": 9,
+        "weight": 35.4,
+        "destination": "JFK",
+        "consignee": "White Tech Pte Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "074-16446794",
+        "pieces": 5,
+        "weight": 13.7,
+        "destination": "ORD",
+        "consignee": "Espinoza Tech S.A.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "006-13275260",
+        "pieces": 15,
+        "weight": 47.6,
+        "destination": "ICN",
+        "consignee": "Global Knight Pte Ltd",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "160-66202712",
+        "pieces": 4,
+        "weight": 60.4,
+        "destination": "YYZ",
+        "consignee": "Johnson Trade B.V.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "006-55633417",
+        "pieces": 10,
+        "weight": 55.7,
+        "destination": "ORD",
+        "consignee": "Commerce Wade LLC",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

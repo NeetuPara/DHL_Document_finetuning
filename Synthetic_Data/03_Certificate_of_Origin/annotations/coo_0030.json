@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0030",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202403-7171",
+    "exporter_name": "Myers Global AG",
+    "exporter_address": "53981 Daniel Corners, West Catherineview, DE 78368, Poland",
+    "exporter_country": "Poland",
+    "consignee_name": "Williams Industry Corp.",
+    "consignee_address": "1037 Brown Mews Suite 652, Chelseaport, ME 56307, South Korea",
+    "consignee_country": "South Korea",
+    "country_of_origin": "Poland",
+    "country_of_destination": "South Korea",
+    "bl_or_awb": "045-85539691",
+    "issue_date": "2024-12-04",
+    "certifier_name": "Denise Cox",
+    "goods": [
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 435,
+        "unit": "KGS",
+        "weight_kg": 435.0,
+        "origin_criterion": "A",
+        "value": 4309.99
+      },
+      {
+        "description": "Plastic Products - Injection Moulded Components",
+        "hs_code": "3926.90.00",
+        "qty": 223,
+        "unit": "PCS",
+        "weight_kg": 306.33,
+        "origin_criterion": "B",
+        "value": 1221.51
+      },
+      {
+        "description": "Chemical Compounds - Industrial Solvents",
+        "hs_code": "2901.10.00",
+        "qty": 191,
+        "unit": "LTR",
+        "weight_kg": 207.68,
+        "origin_criterion": "F",
+        "value": 7637.82
+      }
+    ],
+    "fta_agreement": "EU-Canada CETA",
+    "chamber": "Trade Association"
+  }
+}

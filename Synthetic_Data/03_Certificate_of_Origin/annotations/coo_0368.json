@@ -1,0 +1,63 @@
+{
+  "document_id": "coo_0368",
+  "document_class": "Certificate of Origin",
+  "format_variant": "FTA-USMCA-Numbered-Fields",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202209-2216",
+    "exporter_name": "Trade Stewart GmbH",
+    "exporter_address": "6233 Jacobs Lodge Suite 586, Williamsonberg, UT 84145, Singapore",
+    "exporter_country": "Singapore",
+    "consignee_name": "Trade Burton AG",
+    "consignee_address": "376 Nguyen Turnpike, Kimland, PW 33719, Italy",
+    "consignee_country": "Italy",
+    "country_of_origin": "Singapore",
+    "country_of_destination": "Italy",
+    "bl_or_awb": "618-64386717",
+    "issue_date": "2024-08-03",
+    "certifier_name": "Bryan Williams",
+    "goods": [
+      {
+        "description": "Chemical Compounds - Industrial Solvents",
+        "hs_code": "2901.10.00",
+        "qty": 299,
+        "unit": "LTR",
+        "weight_kg": 271.5,
+        "origin_criterion": "A",
+        "value": 5832.19
+      },
+      {
+        "description": "Electronic Components - Printed Circuit Boards",
+        "hs_code": "8534.00.00",
+        "qty": 20,
+        "unit": "PCS",
+        "weight_kg": 5.0,
+        "origin_criterion": "A",
+        "value": 513.29
+      },
+      {
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "hs_code": "8483.40.00",
+        "qty": 412,
+        "unit": "PCS",
+        "weight_kg": 1229.32,
+        "origin_criterion": "F",
+        "value": 181093.19
+      },
+      {
+        "description": "Paper Products - Packaging Cartons",
+        "hs_code": "4819.10.00",
+        "qty": 101,
+        "unit": "CTN",
+        "weight_kg": 250.31,
+        "origin_criterion": "B",
+        "value": 1339.17
+      }
+    ],
+    "fta_agreement": "US-Korea FTA (KORUS)",
+    "blanket_period_from": "2024-05-23",
+    "blanket_period_to": "2024-08-19",
+    "producer_name": "Brown Global S.A.",
+    "producer_country": "Sweden"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0308",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU675476120",
+    "shipper_name": "Welch Industry LLC",
+    "shipper_address": "747 William Court, North Parker, SD 54981, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Salinas Commerce Corp.",
+    "consignee_address": "5068 Smith Stravenue Suite 839, North Kellymouth, ME 01895, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party_name": "Chapman Industry Pte Ltd",
+    "notify_party_address": "Unit 9962 Box 8321, DPO AE 55949, Canada",
+    "vessel": "ONE INNOVATION",
+    "voyage": "832W",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Hong Kong, HK",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2024-05-31",
+    "issue_place": "Hong Kong",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "OJSQ2720723",
+        "seal_no": "BL871256",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "TGYQ7690860",
+        "seal_no": "BL880524",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "TPCQ5486076",
+        "seal_no": "CL757435",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "XDSH1786322",
+        "seal_no": "CL922866",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 366,
+    "package_type": "Drum",
+    "gross_weight_kg": 18275.4,
+    "net_weight_kg": 16535.4,
+    "cbm": 32.55,
+    "marks_and_numbers": "GLB/3"
+  }
+}

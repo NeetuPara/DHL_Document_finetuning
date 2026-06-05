@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0379",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202408-8335",
+    "usppi_name": "Trade Clark LLC",
+    "usppi_address": "6740 Lewis Spurs Suite 169, Newmanstad, OK 28564, China",
+    "usppi_country": "China",
+    "ein": "35-5129337",
+    "consignee_name": "Tech Mcknight Ltd",
+    "consignee_address": "715 Steven Locks Apt. 628, Port Tony, ID 78485, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Pacific Lucas B.V.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FOB",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Daniel Ware",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/13",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 126,
+        "unit": "KGS",
+        "weight_kg": 126.0,
+        "value_usd": 148.21
+      },
+      {
+        "marks": "SLI/12",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 129,
+        "unit": "KGS",
+        "weight_kg": 129.0,
+        "value_usd": 1273.9
+      },
+      {
+        "marks": "EXP/3",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 39,
+        "unit": "MTR",
+        "weight_kg": 42.32,
+        "value_usd": 556.7
+      },
+      {
+        "marks": "SLI/3",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 47,
+        "unit": "PCS",
+        "weight_kg": 57.11,
+        "value_usd": 13192.62
+      },
+      {
+        "marks": "ABC/12",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 111,
+        "unit": "PCS",
+        "weight_kg": 49.81,
+        "value_usd": 3859.49
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 137,
+        "unit": "PKG",
+        "weight_kg": 308.58,
+        "value_usd": 12387.65
+      }
+    ],
+    "total_weight_kg": 712.82,
+    "total_value_usd": 31418.57,
+    "service": "Air Freight",
+    "named_port": "Miami International",
+    "insurance_value_usd": 14523.5,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-559886",
+    "destination_country": "Sweden"
+  }
+}

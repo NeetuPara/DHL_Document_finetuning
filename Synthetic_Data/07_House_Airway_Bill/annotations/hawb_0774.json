@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0774",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-44978479",
+    "mawb_number": "057-14600180",
+    "shipper_name": "International Stewart Inc.",
+    "shipper_address": "032 Lewis Pines Apt. 673, Markstad, MS 31905, Malaysia",
+    "consignee_name": "Industry Floyd S.A.",
+    "consignee_address": "16374 Robert Ports, North Mark, PW 60021, Germany",
+    "agent_name": "Clark Trade Pte Ltd",
+    "airport_departure": "MIA",
+    "airport_destination": "AMS",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 8,
+    "gross_weight_kg": 254.8,
+    "chargeable_weight": 321.6,
+    "rate": 11.08,
+    "total_charge": 3563.33,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-08-20",
+    "signatory": "Dennis Baker",
+    "iata_code": "76-761",
+    "agent_cass": "7271-1721",
+    "consolidation_ref": "CONS-6827-667323",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-49791788",
+        "pieces": 14,
+        "weight": 4.1,
+        "destination": "ORD",
+        "consignee": "Buchanan Trade Pte Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "125-50135692",
+        "pieces": 12,
+        "weight": 77.4,
+        "destination": "LAX",
+        "consignee": "Pacific Ramsey Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "006-75624838",
+        "pieces": 10,
+        "weight": 86.5,
+        "destination": "HKG",
+        "consignee": "Pacific Foley Ltd",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "176-81392884",
+        "pieces": 4,
+        "weight": 44.5,
+        "destination": "JFK",
+        "consignee": "Jacobs Global Co.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "074-25058980",
+        "pieces": 20,
+        "weight": 3.6,
+        "destination": "YYZ",
+        "consignee": "Roberts Tech LLC",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "085-40415616",
+        "pieces": 10,
+        "weight": 16.9,
+        "destination": "LHR",
+        "consignee": "Trade Martinez Inc.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "045-78643106",
+        "pieces": 18,
+        "weight": 61.6,
+        "destination": "LHR",
+        "consignee": "Anderson Pacific Pte Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "125-86717286",
+        "pieces": 2,
+        "weight": 42.1,
+        "destination": "DXB",
+        "consignee": "Trade Schwartz Corp.",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

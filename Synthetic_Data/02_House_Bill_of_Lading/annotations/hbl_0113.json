@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0113",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU952744782",
+    "shipper_name": "International Ferguson GmbH",
+    "shipper_address": "4033 Ellis Common, Morsemouth, DE 11160, China",
+    "shipper_country": "China",
+    "consignee_name": "Trade Hebert AG",
+    "consignee_address": "93564 Bowen Forge, Martinezstad, NM 46206, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party_name": "Global Johnson Corp.",
+    "notify_party_address": "2186 Scott Creek Suite 344, Rebekahfurt, NV 91425, Belgium",
+    "vessel": "ONE INNOVATION",
+    "voyage": "362W",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2025-05-06",
+    "issue_place": "Antwerp",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "LCES0002933",
+        "seal_no": "BL169276",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "YUPU6398820",
+        "seal_no": "SL340940",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "UXRE0375081",
+        "seal_no": "CL158931",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 410,
+    "package_type": "Roll",
+    "gross_weight_kg": 19437.1,
+    "net_weight_kg": 17660.2,
+    "cbm": 48.612,
+    "marks_and_numbers": "XYZ/42"
+  }
+}

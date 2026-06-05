@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0203",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Casey Lewis",
+    "addressee_company": "Davies Commerce AG",
+    "addressee_address": "32167 Cobb Common Suite 973, Port Cherylview, KS 69809, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 10.773,
+    "total_value": 4923.09,
+    "currency": "CAD",
+    "issue_date": "2025-05-28",
+    "reference": "REF-640937",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.603,
+        "value": 788.4,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 15,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.443,
+        "value": 705.3,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 9,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 0.992,
+        "value": 887.67,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 18,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.215,
+        "value": 2142.72,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 12,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.52,
+        "value": 399.0,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Mary Moore",
+    "sender_company": "Global Murphy GmbH",
+    "sender_address": "17408 Lynn Road Suite 962, Lake Carolineborough, AL 87636, Switzerland",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 26.32,
+    "tracking_number": "LR823656269XA"
+  }
+}

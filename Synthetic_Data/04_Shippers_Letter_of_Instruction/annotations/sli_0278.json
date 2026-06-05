@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0278",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202305-9829",
+    "usppi_name": "Long Pacific Co.",
+    "usppi_address": "64229 Jordan Course, North Joannamouth, OK 44317, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "43-9957589",
+    "consignee_name": "Hall Commerce Corp.",
+    "consignee_address": "PSC 5303, Box 6894, APO AE 77566, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Lewis Tech Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Dr. David Oliver PhD",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/15",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 133,
+        "unit": "SET",
+        "weight_kg": 275.01,
+        "value_usd": 15631.47
+      },
+      {
+        "marks": "EXP/31",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 99,
+        "unit": "KGS",
+        "weight_kg": 99.0,
+        "value_usd": 1614.05
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 71,
+        "unit": "PKG",
+        "weight_kg": 190.41,
+        "value_usd": 2090.63
+      },
+      {
+        "marks": "ABC/10",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 176,
+        "unit": "PCS",
+        "weight_kg": 113.48,
+        "value_usd": 94308.16
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 73,
+        "unit": "BOX",
+        "weight_kg": 117.51,
+        "value_usd": 5287.55
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 14,
+        "unit": "PCS",
+        "weight_kg": 9.17,
+        "value_usd": 401.58
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 111,
+        "unit": "PCS",
+        "weight_kg": 99.29,
+        "value_usd": 68457.43
+      }
+    ],
+    "total_weight_kg": 903.87,
+    "total_value_usd": 187790.87,
+    "service": "LCL Ocean",
+    "named_port": "Rotterdam, NL",
+    "insurance_value_usd": 4911.85,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-222919",
+    "destination_country": "Sweden"
+  }
+}

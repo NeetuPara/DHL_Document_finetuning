@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0537",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Schwartz AG",
+    "shipper_address": "PSC 0920, Box 4722, APO AA 46700, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Carr Trade Pte Ltd",
+    "consignee_address": "17246 Patel Ville Suite 282, West Amy, OK 60416, Mexico",
+    "consignee_country": "Mexico",
+    "emergency_telephone": "+26 700-806-4423",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 18,
+        "pkg_type": "Steel Drum",
+        "net_qty": 35.0,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Krista Barrett",
+    "signature_date": "2026-05-05",
+    "signature_place": "Singapore",
+    "awb_number": "045-61449692",
+    "flight_number": "SQ8336",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

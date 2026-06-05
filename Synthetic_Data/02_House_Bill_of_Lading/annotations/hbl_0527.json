@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0527",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU447103595",
+    "shipper_name": "Global Jones Ltd",
+    "shipper_address": "PSC 1295, Box 8211, APO AE 79773, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Smith Tech GmbH",
+    "consignee_address": "1641 Jose Rue, Kylechester, CO 83887, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Fowler Pacific LLC",
+    "notify_party_address": "07131 Joseph Corner, Williamshire, CO 79883, Belgium",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "694S",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2025-01-12",
+    "issue_place": "Colombo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "HFQP6196220",
+        "seal_no": "BL727051",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "SGVG4737075",
+        "seal_no": "CL377711",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "SDOG9141655",
+        "seal_no": "SL938407",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "PNOB9426194",
+        "seal_no": "CL443280",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 20,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 19619.2,
+    "net_weight_kg": 18236.1,
+    "cbm": 1.344,
+    "marks_and_numbers": "GLB/22"
+  }
+}

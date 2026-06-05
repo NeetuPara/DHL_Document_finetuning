@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0045",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202412-7739",
+    "usppi_name": "International Chang Inc.",
+    "usppi_address": "61137 Heather Crescent, Port Emilyshire, CO 44773, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "38-7128111",
+    "consignee_name": "Howard Pacific Pte Ltd",
+    "consignee_address": "300 Morris Vista Suite 855, Amyberg, NJ 17881, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Commerce Moran LLC",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Nicholas King",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/36",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 35,
+        "unit": "KGS",
+        "weight_kg": 35.0,
+        "value_usd": 39.17
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 16,
+        "unit": "CTN",
+        "weight_kg": 12.62,
+        "value_usd": 66.37
+      },
+      {
+        "marks": "ABC/12",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 91,
+        "unit": "PKG",
+        "weight_kg": 129.82,
+        "value_usd": 3233.95
+      },
+      {
+        "marks": "SLI/29",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 100,
+        "unit": "MTR",
+        "weight_kg": 38.89,
+        "value_usd": 1691.61
+      },
+      {
+        "marks": "ABC/10",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 138,
+        "unit": "PCS",
+        "weight_kg": 38.85,
+        "value_usd": 83724.4
+      },
+      {
+        "marks": "SLI/21",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 88,
+        "unit": "SET",
+        "weight_kg": 307.84,
+        "value_usd": 13194.87
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 132,
+        "unit": "PCS",
+        "weight_kg": 678.65,
+        "value_usd": 7896.58
+      }
+    ],
+    "total_weight_kg": 1241.67,
+    "total_value_usd": 109846.95,
+    "vessel": "MOL TRIUMPH",
+    "voyage": "374W",
+    "booking_ref": "BKG-399551",
+    "bl_number": "YMLU968234138",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Hamburg, DE",
+    "container_number": "RKLH7423020",
+    "seal_number": "SL155064",
+    "container_type": "20'GP",
+    "cbm": 18.639
+  }
+}

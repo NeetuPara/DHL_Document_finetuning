@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0792",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV637086568",
+    "shipper_name": "Russell Global AG",
+    "shipper_address": "5301 Coleman Village, Martinchester, ME 62228, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Barr Global GmbH",
+    "consignee_address": "097 Frederick Radial Suite 702, Villegasborough, DC 50475, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party_name": "Castillo Commerce B.V.",
+    "notify_party_address": "854 Simmons Forges, South Daniel, DC 56473, Hong Kong",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "674S",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2024-10-12",
+    "issue_place": "Qingdao",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "MQXA2268741",
+        "seal_no": "CL902242",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "XWIO9999046",
+        "seal_no": "CL501578",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "TXBL4553338",
+        "seal_no": "CL272916",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "BEGK0008099",
+        "seal_no": "BL259984",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 299,
+    "package_type": "Roll",
+    "gross_weight_kg": 11288.2,
+    "net_weight_kg": 10389.3,
+    "cbm": 34.362,
+    "marks_and_numbers": "XYZ/18"
+  }
+}

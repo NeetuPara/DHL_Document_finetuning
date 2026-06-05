@@ -1,0 +1,72 @@
+{
+  "document_id": "coo_0050",
+  "document_class": "Certificate of Origin",
+  "format_variant": "FTA-USMCA-Numbered-Fields",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202209-1923",
+    "exporter_name": "Tech Johnson Ltd",
+    "exporter_address": "779 Barber Burg Apt. 846, Lake Ryanmouth, AL 87366, Mexico",
+    "exporter_country": "Mexico",
+    "consignee_name": "Snow Global Pte Ltd",
+    "consignee_address": "1885 Sara Prairie, East Jacob, VI 43356, Malaysia",
+    "consignee_country": "Malaysia",
+    "country_of_origin": "Mexico",
+    "country_of_destination": "Malaysia",
+    "bl_or_awb": "006-43888955",
+    "issue_date": "2026-02-01",
+    "certifier_name": "Crystal Rose",
+    "goods": [
+      {
+        "description": "Optical Equipment - Camera Lenses",
+        "hs_code": "9002.11.00",
+        "qty": 37,
+        "unit": "PCS",
+        "weight_kg": 35.24,
+        "origin_criterion": "A",
+        "value": 30765.32
+      },
+      {
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "hs_code": "2936.90.00",
+        "qty": 300,
+        "unit": "BOX",
+        "weight_kg": 479.67,
+        "origin_criterion": "B",
+        "value": 3543.14
+      },
+      {
+        "description": "Chemical Compounds - Industrial Solvents",
+        "hs_code": "2901.10.00",
+        "qty": 246,
+        "unit": "LTR",
+        "weight_kg": 241.03,
+        "origin_criterion": "B",
+        "value": 1875.92
+      },
+      {
+        "description": "Electronic Components - Printed Circuit Boards",
+        "hs_code": "8534.00.00",
+        "qty": 388,
+        "unit": "PCS",
+        "weight_kg": 132.12,
+        "origin_criterion": "D",
+        "value": 31446.25
+      },
+      {
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "hs_code": "4016.93.00",
+        "qty": 334,
+        "unit": "PKG",
+        "weight_kg": 375.68,
+        "origin_criterion": "A",
+        "value": 12868.42
+      }
+    ],
+    "fta_agreement": "ASEAN FTA",
+    "blanket_period_from": "2026-01-02",
+    "blanket_period_to": "2026-04-08",
+    "producer_name": "Howard Industry GmbH",
+    "producer_country": "Germany"
+  }
+}

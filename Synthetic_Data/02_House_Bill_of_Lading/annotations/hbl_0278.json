@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0278",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU912183873",
+    "shipper_name": "Global Dickson Ltd",
+    "shipper_address": "8659 Bridget Falls Apt. 622, Port Emilyland, AR 76991, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Harmon Commerce Inc.",
+    "consignee_address": "019 Briggs Manors Suite 108, North Walter, NV 86040, Italy",
+    "consignee_country": "Italy",
+    "notify_party_name": "Tech Campbell Corp.",
+    "notify_party_address": "USS Williams, FPO AA 28111, Singapore",
+    "vessel": "CSCL GLOBE",
+    "voyage": "779W",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2026-01-06",
+    "issue_place": "Singapore",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "ZXSQ6476884",
+        "seal_no": "CL264997",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "BHOT4033230",
+        "seal_no": "BL894503",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "number_of_packages": 400,
+    "package_type": "Pallet",
+    "gross_weight_kg": 2224.5,
+    "net_weight_kg": 2152.3,
+    "cbm": 22.434,
+    "marks_and_numbers": "GLB/35"
+  }
+}

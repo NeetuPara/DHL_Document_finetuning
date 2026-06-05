@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0677",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202201-1407",
+    "usppi_name": "Pacific Cabrera Corp.",
+    "usppi_address": "2909 Darlene Circles Apt. 014, Lindachester, PW 94986, Germany",
+    "usppi_country": "Germany",
+    "ein": "10-5223814",
+    "consignee_name": "Industry Rodriguez GmbH",
+    "consignee_address": "90605 Hamilton Villages, Boydmouth, MS 36530, India",
+    "consignee_country": "India",
+    "notify_party": "Tech Hardy Corp.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Edward Burns",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/8",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 197,
+        "unit": "KGS",
+        "weight_kg": 197.0,
+        "value_usd": 312.83
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 75,
+        "unit": "PCS",
+        "weight_kg": 1311.96,
+        "value_usd": 23498.44
+      }
+    ],
+    "total_weight_kg": 1508.96,
+    "total_value_usd": 23811.27,
+    "service": "Air Freight",
+    "named_port": "Tokyo Narita",
+    "insurance_value_usd": 3158.4,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "India"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0629",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202405-2939",
+    "usppi_name": "Harris Trade B.V.",
+    "usppi_address": "220 Mark Vista, North Leonardville, LA 55340, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "25-3430329",
+    "consignee_name": "Rice Trade Inc.",
+    "consignee_address": "PSC 5169, Box 7618, APO AP 18201, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Gentry Pacific Co.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIP",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Michele Roberts",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/10",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 175,
+        "unit": "SET",
+        "weight_kg": 411.89,
+        "value_usd": 7975.85
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 88,
+        "unit": "CTN",
+        "weight_kg": 169.59,
+        "value_usd": 480.36
+      },
+      {
+        "marks": "SLI/14",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 170,
+        "unit": "PCS",
+        "weight_kg": 557.72,
+        "value_usd": 111269.83
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 137,
+        "unit": "PKG",
+        "weight_kg": 219.61,
+        "value_usd": 12471.6
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 198,
+        "unit": "PCS",
+        "weight_kg": 21.87,
+        "value_usd": 7242.21
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 149,
+        "unit": "PCS",
+        "weight_kg": 51.86,
+        "value_usd": 20196.75
+      }
+    ],
+    "total_weight_kg": 1432.54,
+    "total_value_usd": 159636.6,
+    "service": "Ocean Freight",
+    "named_port": "Qingdao, CN",
+    "insurance_value_usd": 15828.15,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Netherlands"
+  }
+}

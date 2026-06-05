@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0919",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU177722638",
+    "shipper_name": "Williams Trade AG",
+    "shipper_address": "111 Padilla Square, Frankhaven, WA 97026, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Industry Montgomery AG",
+    "consignee_address": "27688 Coleman Circle, Melissaport, VT 69150, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Lawrence Trade GmbH",
+    "notify_party_address": "4724 Alex Neck Suite 070, West Sarahfort, KS 63670, Sweden",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "714W",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2024-11-06",
+    "issue_place": "Felixstowe",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "AUFJ9633346",
+        "seal_no": "SL924056",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "DJBO6048717",
+        "seal_no": "SL678760",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "KOEY5313697",
+        "seal_no": "BL440275",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 418,
+    "package_type": "Crate",
+    "gross_weight_kg": 9140.2,
+    "net_weight_kg": 8167.4,
+    "cbm": 23.764,
+    "marks_and_numbers": "XYZ/17"
+  }
+}

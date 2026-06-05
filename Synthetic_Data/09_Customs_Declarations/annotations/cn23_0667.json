@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0667",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Ryan Barnes",
+    "addressee_company": "Fox Commerce B.V.",
+    "addressee_address": "9542 Kathleen Manor Suite 987, Masseyfurt, PW 87187, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 10.659,
+    "total_value": 5711.72,
+    "currency": "JPY",
+    "issue_date": "2026-01-15",
+    "reference": "REF-956670",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.082,
+        "value": 541.04,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 16,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.54,
+        "value": 1657.76,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 15,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.709,
+        "value": 1977.6,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 11,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.852,
+        "value": 918.28,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 12,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.476,
+        "value": 617.04,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_name": "Shawn Turner",
+    "sender_company": "Sanchez Trade S.A.",
+    "sender_address": "9847 Maria Junctions Suite 776, New Marisa, IA 63456, Switzerland",
+    "sender_phone": "(840)770-0930x62285",
+    "sender_email": "dariusjackson@example.net",
+    "addressee_phone": "+1-473-971-4656",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 55.28,
+    "tracking_number": "RK790798972WP"
+  }
+}

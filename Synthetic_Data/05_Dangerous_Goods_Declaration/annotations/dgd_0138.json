@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0138",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Kelley Trade Co.",
+    "shipper_address": "37368 Hurst Pike, Darleneland, KS 43807, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Global Glenn S.A.",
+    "consignee_address": "2826 Weber Mountain Suite 716, Jeffreyfurt, CO 01609, Spain",
+    "consignee_country": "Spain",
+    "emergency_telephone": "+3 649-118-2384",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 8,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 96.5,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-148068",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 40,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 87.0,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-148530",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Stacey Johnson",
+    "signature_date": "2026-04-30",
+    "signature_place": "Switzerland",
+    "awb_number": "045-46371878",
+    "flight_number": "EK4971",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "CDG",
+    "destination_airport_name": "Paris CDG",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0725",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Wolfe Industry Pte Ltd",
+    "shipper_address": "0001 Dakota Parkway Suite 928, Gibsonville, CO 05031, Germany",
+    "shipper_country": "Germany",
+    "container_number": "RVGZ5968199",
+    "seal_number": "CL767668",
+    "container_size": "40'GP",
+    "iso_type_code": "42G0",
+    "tare_weight_kg": 3800,
+    "cargo_weight_kg": 7325.2,
+    "packing_materials_kg": 454.2,
+    "vgm_kg": 11579.4,
+    "vessel": "MOL TRIUMPH",
+    "voyage": "656E",
+    "bl_number": "DHLG671251712",
+    "booking_reference": "BKG-847169",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-69590",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-18",
+    "signature_date": "2026-05-13",
+    "signatory_name": "Rebecca Walker",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Bundle",
+        "n_units": 14,
+        "gross_wt_kg": 219.9
+      },
+      {
+        "item_no": 2,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Case",
+        "n_units": 6,
+        "gross_wt_kg": 1140.6
+      },
+      {
+        "item_no": 3,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Crate",
+        "n_units": 16,
+        "gross_wt_kg": 1759.2
+      },
+      {
+        "item_no": 4,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Pallet",
+        "n_units": 7,
+        "gross_wt_kg": 1968.5
+      },
+      {
+        "item_no": 5,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Case",
+        "n_units": 13,
+        "gross_wt_kg": 2237.0
+      }
+    ]
+  }
+}

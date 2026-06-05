@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0312",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202008-6477",
+    "usppi_name": "Trade Thompson Pte Ltd",
+    "usppi_address": "481 Cook Drives, Thomasland, CA 17754, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "58-9655354",
+    "consignee_name": "Maldonado Pacific Corp.",
+    "consignee_address": "11994 Carter Brook Apt. 426, East Shaneberg, MI 00845, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Bell International B.V.",
+    "forwarder": "Panalpina",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Jill Lamb",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/44",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 65,
+        "unit": "PCS",
+        "weight_kg": 1373.39,
+        "value_usd": 23581.21
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 48,
+        "unit": "PCS",
+        "weight_kg": 380.93,
+        "value_usd": 8333.71
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 114,
+        "unit": "BOX",
+        "weight_kg": 70.4,
+        "value_usd": 5069.44
+      },
+      {
+        "marks": "EXP/1",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 119,
+        "unit": "LTR",
+        "weight_kg": 112.44,
+        "value_usd": 1096.61
+      }
+    ],
+    "total_weight_kg": 1937.16,
+    "total_value_usd": 38080.97,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "706S",
+    "booking_ref": "BKG-682302",
+    "bl_number": "YMLU143988426",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "KCCW4177234",
+    "seal_number": "CL666072",
+    "container_type": "20'GP",
+    "cbm": 19.273
+  }
+}

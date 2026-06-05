@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0105",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-30879281",
+    "mawb_number": "057-66853578",
+    "shipper_name": "Holland Industry S.A.",
+    "shipper_address": "3781 Brittany Freeway, Nicholehaven, FL 30159, Poland",
+    "consignee_name": "Wright Pacific LLC",
+    "consignee_address": "Unit 3368 Box 8681, DPO AE 21320, Canada",
+    "agent_name": "Saunders International Corp.",
+    "airport_departure": "AMS",
+    "airport_destination": "CDG",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "EUR 41,911.00",
+    "n_pieces": 23,
+    "gross_weight_kg": 428.3,
+    "chargeable_weight": 532.8,
+    "rate": 6.41,
+    "total_charge": 3415.25,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-11-23",
+    "signatory": "Angela Leonard",
+    "iata_code": "24-013",
+    "agent_cass": "1270-8109",
+    "consolidation_ref": "CONS-2341-094084",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-68977706",
+        "pieces": 14,
+        "weight": 31.1,
+        "destination": "ICN",
+        "consignee": "International Barnes LLC",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "125-36166550",
+        "pieces": 16,
+        "weight": 33.7,
+        "destination": "CDG",
+        "consignee": "Scott Pacific AG",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "176-91473787",
+        "pieces": 14,
+        "weight": 35.4,
+        "destination": "FRA",
+        "consignee": "Pacific Anderson GmbH",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "006-99555089",
+        "pieces": 10,
+        "weight": 97.7,
+        "destination": "CDG",
+        "consignee": "International Ramsey Pte Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "006-62525342",
+        "pieces": 7,
+        "weight": 97.2,
+        "destination": "SIN",
+        "consignee": "International Livingston Pte Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

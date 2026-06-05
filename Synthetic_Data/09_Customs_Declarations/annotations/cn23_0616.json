@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0616",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jennifer Stewart MD",
+    "addressee_company": "King Pacific Pte Ltd",
+    "addressee_address": "31751 Eddie Brooks, Connorside, OR 11251, France",
+    "addressee_country": "France",
+    "total_weight_kg": 2.75,
+    "total_value": 410.9,
+    "currency": "AUD",
+    "issue_date": "2026-01-11",
+    "reference": "REF-776485",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.75,
+        "value": 410.9,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Poland"
+      }
+    ],
+    "sender_name": "Christian Hodges",
+    "sender_company": "Bush Industry S.A.",
+    "sender_address": "472 Stephen Terrace Apt. 996, Watersfort, MO 97393, Hong Kong",
+    "sender_phone": "570.770.7076x7888",
+    "sender_email": "josereid@example.org",
+    "addressee_phone": "001-962-566-5181",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 451.99,
+    "postal_charges": 38.66,
+    "tracking_number": "CD982212710MW"
+  }
+}

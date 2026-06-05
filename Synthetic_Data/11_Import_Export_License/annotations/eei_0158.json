@@ -1,0 +1,103 @@
+{
+  "document_id": "eei_0158",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210127544005",
+    "export_date": "2025-05-17",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "International Smith LLC",
+    "usppi_ein": "57-4024140",
+    "usppi_address": "39304 Joshua Locks Suite 475, Kyleborough, DC 07382, Belgium",
+    "ultimate_consignee": "Welch Tech Inc.",
+    "intermediate_consignee": "Fox Trade Pte Ltd",
+    "forwarding_agent": "Industry Sweeney Inc.",
+    "destination_country": "Singapore",
+    "carrier": "Maersk",
+    "bl_awb": "160-30376006",
+    "total_value": 505431.09,
+    "currency": "EUR",
+    "signatory": "Charles Shelton",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Singapore",
+        "qty": 429,
+        "unit": "PCS",
+        "entered_value": 179356.32,
+        "duty_rate": 19.9,
+        "duty_amount": 35691.91,
+        "eccn": "3A992",
+        "schedule_b": "9002.11.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Canada",
+        "qty": 147,
+        "unit": "CTN",
+        "entered_value": 48573.21,
+        "duty_rate": 5.2,
+        "duty_amount": 2525.81,
+        "eccn": "1A002",
+        "schedule_b": "4819.10.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Thailand",
+        "qty": 321,
+        "unit": "PCS",
+        "entered_value": 100360.65,
+        "duty_rate": 16.8,
+        "duty_amount": 16860.59,
+        "eccn": "5E992",
+        "schedule_b": "9002.11.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 62,
+        "unit": "CTN",
+        "entered_value": 5025.1,
+        "duty_rate": 10.8,
+        "duty_amount": 542.71,
+        "eccn": "1A002",
+        "schedule_b": "4819.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "South Korea",
+        "qty": 110,
+        "unit": "KGS",
+        "entered_value": 7221.5,
+        "duty_rate": 1.7,
+        "duty_amount": 122.77,
+        "eccn": "1A002",
+        "schedule_b": "7208.37.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Italy",
+        "qty": 441,
+        "unit": "PCS",
+        "entered_value": 164894.31,
+        "duty_rate": 17.5,
+        "duty_amount": 28856.5,
+        "eccn": "9A515",
+        "schedule_b": "8518.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

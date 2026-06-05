@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0791",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Robbins AG",
+    "shipper_address": "545 Hogan Square, South Carl, MN 77262, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Delgado Pacific B.V.",
+    "consignee_address": "140 Jason Rapid Suite 736, Hicksfurt, PR 79415, United States",
+    "consignee_country": "United States",
+    "emergency_telephone": "+11 891-244-6882",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 22,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 54.79,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-232566",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Jennifer Allen",
+    "signature_date": "2026-05-06",
+    "signature_place": "Netherlands",
+    "vessel": "MADRID MAERSK",
+    "voyage": "444E",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Tokyo, JP"
+  }
+}

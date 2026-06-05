@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0463",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202101-1250",
+    "usppi_name": "Murphy Global S.A.",
+    "usppi_address": "83821 Goodman Avenue Apt. 683, Cynthiaburgh, OH 72448, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "37-8172835",
+    "consignee_name": "Hernandez Trade GmbH",
+    "consignee_address": "9700 Eric Knoll, Murrayhaven, FL 03875, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Lamb Tech Corp.",
+    "forwarder": "Expeditors",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Brooke Taylor",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/19",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 173,
+        "unit": "PCS",
+        "weight_kg": 51.41,
+        "value_usd": 27319.86
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 95,
+        "unit": "CTN",
+        "weight_kg": 267.19,
+        "value_usd": 1233.42
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 13,
+        "unit": "SET",
+        "weight_kg": 31.47,
+        "value_usd": 1399.06
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 55,
+        "unit": "PKG",
+        "weight_kg": 158.92,
+        "value_usd": 5020.69
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 33,
+        "unit": "KGS",
+        "weight_kg": 33.0,
+        "value_usd": 382.8
+      }
+    ],
+    "total_weight_kg": 541.99,
+    "total_value_usd": 35355.83,
+    "service": "Ground",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 8842.8,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-718638",
+    "destination_country": "Brazil"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0601",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU702551321",
+    "shipper_name": "Aguilar International Corp.",
+    "shipper_address": "4397 Smith Vista Apt. 187, Laurafurt, SD 96727, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Pacific Alexander Pte Ltd",
+    "consignee_address": "86513 Hahn Center Apt. 399, Lake Amy, AS 09371, Spain",
+    "consignee_country": "Spain",
+    "notify_party_name": "International Miller LLC",
+    "notify_party_address": "4356 Patricia Passage Suite 665, Jacksonhaven, WA 33626, Thailand",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "337E",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2026-02-04",
+    "issue_place": "New York",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "SCYR3248610",
+        "seal_no": "SL606421",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "PJKW0029999",
+        "seal_no": "SL790711",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "IOWE6280839",
+        "seal_no": "CL328735",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "OIXU0538061",
+        "seal_no": "SL531589",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 35,
+    "package_type": "Case",
+    "gross_weight_kg": 7177.2,
+    "net_weight_kg": 6366.0,
+    "cbm": 3.941,
+    "marks_and_numbers": "XYZ/14"
+  }
+}

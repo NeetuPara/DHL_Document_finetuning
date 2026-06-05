@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0494",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202110-6191",
+    "usppi_name": "Freeman Global Co.",
+    "usppi_address": "0820 Michele Summit Apt. 666, New Alexisfurt, TX 99575, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "27-5572234",
+    "consignee_name": "Industry Carter LLC",
+    "consignee_address": "USS Moore, FPO AA 22743, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Industry Allen LLC",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Laura Holmes",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/33",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 47,
+        "unit": "CTN",
+        "weight_kg": 99.56,
+        "value_usd": 2124.41
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 49,
+        "unit": "PCS",
+        "weight_kg": 4.52,
+        "value_usd": 2157.92
+      }
+    ],
+    "total_weight_kg": 104.08,
+    "total_value_usd": 4282.33,
+    "service": "Express Courier",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 8292.21,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-946677",
+    "destination_country": "Sweden"
+  }
+}

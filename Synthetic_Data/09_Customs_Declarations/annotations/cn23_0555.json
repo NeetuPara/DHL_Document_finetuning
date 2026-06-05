@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0555",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Sheri Lewis",
+    "addressee_company": "Bradley Commerce AG",
+    "addressee_address": "47868 Long Oval, Richardsonside, MH 72312, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 12.492,
+    "total_value": 1633.57,
+    "currency": "USD",
+    "issue_date": "2026-01-08",
+    "reference": "REF-765650",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.378,
+        "value": 884.76,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 2,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.813,
+        "value": 291.7,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 9,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.301,
+        "value": 457.11,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_country": "Canada",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "560-13668271-6",
+    "entry_type": "Informal Entry",
+    "duty_rate": 23.6,
+    "estimated_duty": 385.52,
+    "importer_ein": "70-8242248",
+    "customs_broker": "Commerce Prince Ltd"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0838",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Bruce Miller",
+    "addressee_company": "Pacific Clarke Corp.",
+    "addressee_address": "6869 Brandon Village, Nicholasland, KS 23305, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 12.001,
+    "total_value": 6057.88,
+    "currency": "GBP",
+    "issue_date": "2025-11-08",
+    "reference": "REF-042973",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.164,
+        "value": 838.18,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 14,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.785,
+        "value": 2078.58,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 15,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.989,
+        "value": 1119.0,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 20,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.342,
+        "value": 1571.6,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 14,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.721,
+        "value": 450.52,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_name": "Mrs. Susan Reynolds",
+    "sender_company": "Pacific Anderson Ltd",
+    "sender_address": "95931 Joshua Valley, Timothyborough, CA 15509, Belgium",
+    "sender_phone": "504-863-9232x217",
+    "sender_email": "ghicks@example.com",
+    "addressee_phone": "001-779-725-9858x51435",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 68.28,
+    "tracking_number": "JE488986754IF"
+  }
+}

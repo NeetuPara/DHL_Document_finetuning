@@ -1,0 +1,75 @@
+{
+  "document_id": "vgm_0284",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Norris Commerce Corp.",
+    "shipper_address": "8127 Fernandez Trail Suite 153, Erichaven, NV 54874, Netherlands",
+    "shipper_country": "Netherlands",
+    "container_number": "TLBJ9290879",
+    "seal_number": "CL379674",
+    "container_size": "45'HC",
+    "iso_type_code": "L5G0",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 20062.8,
+    "packing_materials_kg": 432.1,
+    "vgm_kg": 25294.9,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "880N",
+    "bl_number": "EGLV116230988",
+    "booking_reference": "BKG-886555",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-55859",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-20",
+    "signature_date": "2026-05-09",
+    "signatory_name": "John Webb",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 6,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Pallet",
+        "n_units": 19,
+        "gross_wt_kg": 636.1
+      },
+      {
+        "item_no": 2,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Drum",
+        "n_units": 8,
+        "gross_wt_kg": 4394.2
+      },
+      {
+        "item_no": 3,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Bundle",
+        "n_units": 14,
+        "gross_wt_kg": 511.7
+      },
+      {
+        "item_no": 4,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Pallet",
+        "n_units": 18,
+        "gross_wt_kg": 2090.9
+      },
+      {
+        "item_no": 5,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Cylinder",
+        "n_units": 15,
+        "gross_wt_kg": 1370.3
+      },
+      {
+        "item_no": 6,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Case",
+        "n_units": 15,
+        "gross_wt_kg": 11059.6
+      }
+    ]
+  }
+}

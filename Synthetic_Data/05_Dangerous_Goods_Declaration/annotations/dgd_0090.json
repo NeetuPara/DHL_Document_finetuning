@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0090",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Carter Pacific Co.",
+    "shipper_address": "976 Richard Station Apt. 586, Johnstad, SD 66869, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Industry Andersen Ltd",
+    "consignee_address": "USNV Mcmillan, FPO AP 47388, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+25 238-502-5498",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 21,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 66.47,
+        "qty_unit": "mL",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-942232",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Diana Massey",
+    "signature_date": "2026-04-21",
+    "signature_place": "Singapore",
+    "awb_number": "085-72979864",
+    "flight_number": "QR2774",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International",
+    "non_dg_reason": "Lithium Ion Batteries \u2014 Section II (PI 967/Section II)"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0953",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Industry Coleman Ltd",
+    "shipper_address": "48524 Ortiz Branch, Murillohaven, PA 50285, Sweden",
+    "shipper_country": "Sweden",
+    "container_number": "XJYE2557553",
+    "seal_number": "CL910345",
+    "container_size": "20'OT",
+    "iso_type_code": "22U0",
+    "tare_weight_kg": 2400,
+    "cargo_weight_kg": 13616.0,
+    "packing_materials_kg": 290.7,
+    "vgm_kg": 16306.7,
+    "vessel": "CSCL GLOBE",
+    "voyage": "170W",
+    "bl_number": "OOLU550838299",
+    "booking_reference": "BKG-396985",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-37384",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-21",
+    "signature_date": "2026-05-11",
+    "signatory_name": "James Holland",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Crate",
+        "n_units": 17,
+        "gross_wt_kg": 2423.6
+      },
+      {
+        "item_no": 2,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Drum",
+        "n_units": 2,
+        "gross_wt_kg": 738.0
+      },
+      {
+        "item_no": 3,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Cylinder",
+        "n_units": 15,
+        "gross_wt_kg": 1880.3
+      },
+      {
+        "item_no": 4,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Roll",
+        "n_units": 8,
+        "gross_wt_kg": 652.4
+      },
+      {
+        "item_no": 5,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Drum",
+        "n_units": 4,
+        "gross_wt_kg": 7921.7
+      }
+    ]
+  }
+}

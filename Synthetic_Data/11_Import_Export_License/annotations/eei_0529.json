@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0529",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "261-70433008-6",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2026-01-03",
+    "port_of_entry": "SFO - San Francisco",
+    "transport_mode": "Truck",
+    "carrier": "DHL Express",
+    "bl_awb": "125-79675811",
+    "importer_name": "Tech Williams S.A.",
+    "importer_ein": "98-6754632",
+    "consignee_name": "Tech Dalton Co.",
+    "customs_broker": "Commerce Deleon Pte Ltd",
+    "broker_filer_code": "kXI",
+    "country_of_origin": "United Kingdom",
+    "total_value": 235899.33,
+    "total_duty": 18503.19,
+    "currency": "CAD",
+    "signatory": "Deborah Smith",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Sweden",
+        "qty": 269,
+        "unit": "PCS",
+        "entered_value": 99207.2,
+        "duty_rate": 6.9,
+        "duty_amount": 6845.3,
+        "eccn": "9A515",
+        "schedule_b": "8518.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "India",
+        "qty": 233,
+        "unit": "CTN",
+        "entered_value": 46299.43,
+        "duty_rate": 1.2,
+        "duty_amount": 555.59,
+        "eccn": "7A994",
+        "schedule_b": "4819.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Canada",
+        "qty": 336,
+        "unit": "BOX",
+        "entered_value": 8272.32,
+        "duty_rate": 11.1,
+        "duty_amount": 918.23,
+        "eccn": "5E992",
+        "schedule_b": "2936.90.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Netherlands",
+        "qty": 85,
+        "unit": "PCS",
+        "entered_value": 4741.3,
+        "duty_rate": 1.0,
+        "duty_amount": 47.41,
+        "eccn": "EAR99",
+        "schedule_b": "8483.40.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Poland",
+        "qty": 262,
+        "unit": "PKG",
+        "entered_value": 77379.08,
+        "duty_rate": 13.1,
+        "duty_amount": 10136.66,
+        "eccn": "7A994",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

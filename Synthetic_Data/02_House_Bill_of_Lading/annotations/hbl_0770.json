@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0770",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU214186012",
+    "shipper_name": "Bowen Tech AG",
+    "shipper_address": "5726 Torres Summit Suite 873, Lake Danielleland, TN 59886, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Industry Woods Inc.",
+    "consignee_address": "56267 Bryan Cliff, New John, AR 43778, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "Global Wilson S.A.",
+    "notify_party_address": "063 Robert Springs Apt. 680, Hintonstad, DC 67094, Switzerland",
+    "vessel": "MSC OSCAR",
+    "voyage": "887E",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Antwerp, BE",
+    "issue_date": "2026-03-02",
+    "issue_place": "Felixstowe",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "CZKR2180017",
+        "seal_no": "SL855006",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "YTQU5272888",
+        "seal_no": "SL771198",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 163,
+    "package_type": "Bundle",
+    "gross_weight_kg": 5039.0,
+    "net_weight_kg": 4443.5,
+    "cbm": 13.332,
+    "marks_and_numbers": "ABC/20"
+  }
+}

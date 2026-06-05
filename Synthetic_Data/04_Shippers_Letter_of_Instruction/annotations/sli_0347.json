@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0347",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202507-2166",
+    "usppi_name": "Decker Trade Corp.",
+    "usppi_address": "13433 Shannon Valleys, Julieville, TX 00952, Japan",
+    "usppi_country": "Japan",
+    "ein": "49-4741025",
+    "consignee_name": "Tech Vaughn Co.",
+    "consignee_address": "434 Garcia Rue, Jacksonton, ID 62341, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Commerce Schultz Pte Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Lance Jackson",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/19",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 76,
+        "unit": "PCS",
+        "weight_kg": 397.09,
+        "value_usd": 44186.43
+      },
+      {
+        "marks": "SLI/10",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 64,
+        "unit": "PCS",
+        "weight_kg": 4.47,
+        "value_usd": 3906.51
+      }
+    ],
+    "total_weight_kg": 401.56,
+    "total_value_usd": 48092.94,
+    "service": "LCL Ocean",
+    "named_port": "Busan, KR",
+    "insurance_value_usd": 46648.54,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-620311",
+    "destination_country": "Sweden"
+  }
+}

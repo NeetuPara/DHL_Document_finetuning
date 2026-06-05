@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0511",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202303-9694",
+    "usppi_name": "Peterson Industry LLC",
+    "usppi_address": "4942 Jeffrey Spring Apt. 630, Bernardhaven, MN 71790, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "21-2876936",
+    "consignee_name": "Pacific Obrien S.A.",
+    "consignee_address": "453 Edwards Island Apt. 265, Jaredchester, HI 65296, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Industry Scott Inc.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DPU",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Lauren Allen",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/50",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 64,
+        "unit": "CTN",
+        "weight_kg": 169.63,
+        "value_usd": 4892.53
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 176,
+        "unit": "LTR",
+        "weight_kg": 184.11,
+        "value_usd": 3373.73
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 145,
+        "unit": "PCS",
+        "weight_kg": 258.23,
+        "value_usd": 73410.41
+      },
+      {
+        "marks": "SLI/29",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 40,
+        "unit": "MTR",
+        "weight_kg": 12.35,
+        "value_usd": 356.6
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 185,
+        "unit": "PCS",
+        "weight_kg": 2063.47,
+        "value_usd": 55499.37
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 84,
+        "unit": "BOX",
+        "weight_kg": 101.39,
+        "value_usd": 3881.56
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 59,
+        "unit": "PCS",
+        "weight_kg": 6.82,
+        "value_usd": 6600.0
+      }
+    ],
+    "total_weight_kg": 2796.0,
+    "total_value_usd": 148014.2,
+    "service": "Ground",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 16436.57,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-836357",
+    "destination_country": "United Kingdom"
+  }
+}

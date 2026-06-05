@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0861",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202602-1827",
+    "exporter_name": "Crosby Industry B.V.",
+    "exporter_address": "2081 Hood Road Apt. 883, Buckleymouth, IA 50840, Mexico",
+    "exporter_country": "Mexico",
+    "consignee_name": "Global Hines GmbH",
+    "consignee_address": "880 Raymond Mountain Apt. 551, South Jenniferfurt, NC 92976, Spain",
+    "consignee_country": "Spain",
+    "country_of_origin": "Mexico",
+    "country_of_destination": "Spain",
+    "bl_or_awb": "MAEU443884232",
+    "issue_date": "2026-04-03",
+    "certifier_name": "Kyle Gregory",
+    "goods": [
+      {
+        "description": "Chemical Compounds - Industrial Solvents",
+        "hs_code": "2901.10.00",
+        "qty": 167,
+        "unit": "LTR",
+        "weight_kg": 170.98,
+        "origin_criterion": "B",
+        "value": 4498.3
+      },
+      {
+        "description": "Automotive Spare Parts - Brake Pads",
+        "hs_code": "8708.30.00",
+        "qty": 419,
+        "unit": "SET",
+        "weight_kg": 1280.28,
+        "origin_criterion": "A",
+        "value": 57703.82
+      },
+      {
+        "description": "Medical Devices - Disposable Syringes",
+        "hs_code": "9018.31.00",
+        "qty": 343,
+        "unit": "CTN",
+        "weight_kg": 588.67,
+        "origin_criterion": "F",
+        "value": 5064.81
+      }
+    ],
+    "fta_agreement": "Australia-US FTA",
+    "chamber": "Chamber of Commerce"
+  }
+}

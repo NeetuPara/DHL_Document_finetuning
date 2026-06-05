@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0478",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202305-1658",
+    "usppi_name": "Pacific Carter B.V.",
+    "usppi_address": "0360 Abbott Meadows Suite 378, West Matthew, KS 14564, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "98-5442327",
+    "consignee_name": "International Patterson Inc.",
+    "consignee_address": "342 Osborne Radial, South Isaiah, OR 01913, China",
+    "consignee_country": "China",
+    "notify_party": "Trade Bates AG",
+    "forwarder": "Expeditors",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "James Anderson",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/33",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 17,
+        "unit": "PCS",
+        "weight_kg": 12.82,
+        "value_usd": 310.85
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 40,
+        "unit": "KGS",
+        "weight_kg": 40.0,
+        "value_usd": 38.49
+      },
+      {
+        "marks": "SLI/23",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 73,
+        "unit": "MTR",
+        "weight_kg": 65.49,
+        "value_usd": 239.6
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 193,
+        "unit": "PKG",
+        "weight_kg": 458.02,
+        "value_usd": 15802.92
+      }
+    ],
+    "total_weight_kg": 576.33,
+    "total_value_usd": 16391.86,
+    "service": "Express Courier",
+    "named_port": "Paris CDG",
+    "insurance_value_usd": 49071.67,
+    "license_type": "Distributor License",
+    "license_number": "LIC-105187",
+    "destination_country": "China"
+  }
+}

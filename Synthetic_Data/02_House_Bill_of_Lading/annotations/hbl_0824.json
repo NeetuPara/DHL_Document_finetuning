@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0824",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU535038470",
+    "shipper_name": "Gray Industry GmbH",
+    "shipper_address": "709 Gregg Route Apt. 256, West Tarashire, OK 06107, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Tech Kim GmbH",
+    "consignee_address": "USCGC Hernandez, FPO AE 64155, Japan",
+    "consignee_country": "Japan",
+    "notify_party_name": "Pacific Valenzuela AG",
+    "notify_party_address": "583 Mills Throughway Suite 165, East Stephen, NC 58699, Japan",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "644E",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2024-09-27",
+    "issue_place": "Qingdao",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "DVBA6205544",
+        "seal_no": "BL816678",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "IUJH3616738",
+        "seal_no": "BL584130",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "YXHY8919886",
+        "seal_no": "BL170958",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "MSYQ5342704",
+        "seal_no": "BL523258",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 403,
+    "package_type": "Bundle",
+    "gross_weight_kg": 12620.6,
+    "net_weight_kg": 11773.3,
+    "cbm": 12.667,
+    "marks_and_numbers": "XYZ/8"
+  }
+}

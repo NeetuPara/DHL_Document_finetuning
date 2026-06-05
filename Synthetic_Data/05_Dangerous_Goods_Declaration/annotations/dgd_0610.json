@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0610",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Cooley LLC",
+    "shipper_address": "70618 Harris Road Suite 286, West Shirley, ME 76096, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Tech Garcia Corp.",
+    "consignee_address": "3852 Justin Divide Suite 720, Danielshire, KY 41698, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+93 376-411-7072",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 13,
+        "pkg_type": "Steel Drum",
+        "net_qty": 28.17,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-859851",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Sandra Flores",
+    "signature_date": "2026-04-26",
+    "signature_place": "Canada",
+    "awb_number": "006-68912828",
+    "flight_number": "CX7916",
+    "flight_date": "2026-04-16",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "LHR",
+    "destination_airport_name": "London Heathrow"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0033",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-80532263",
+    "mawb_number": "125-30367884",
+    "shipper_name": "Commerce Lopez Corp.",
+    "shipper_address": "6611 Sean Light, Chantown, OR 93590, Sweden",
+    "consignee_name": "International Lin LLC",
+    "consignee_address": "USNS Harris, FPO AA 90436, Belgium",
+    "agent_name": "Munoz Pacific LLC",
+    "airport_departure": "PVG",
+    "airport_destination": "JFK",
+    "currency": "AUD",
+    "charge_code": "PP",
+    "declared_value_carriage": "JPY 28,057.76",
+    "declared_value_customs": "NCV",
+    "n_pieces": 7,
+    "gross_weight_kg": 386.0,
+    "chargeable_weight": 424.3,
+    "rate": 4.5,
+    "total_charge": 1909.35,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-11-18",
+    "signatory": "Samuel Cochran",
+    "iata_code": "29-339",
+    "agent_cass": "8668-3765",
+    "consolidation_ref": "CONS-0113-090336",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-88998466",
+        "pieces": 15,
+        "weight": 94.9,
+        "destination": "FRA",
+        "consignee": "International Hill Co.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "085-69441611",
+        "pieces": 11,
+        "weight": 61.4,
+        "destination": "ICN",
+        "consignee": "Industry Bell B.V.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "618-46103504",
+        "pieces": 5,
+        "weight": 76.5,
+        "destination": "ORD",
+        "consignee": "Commerce Wright Inc.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "006-50137860",
+        "pieces": 14,
+        "weight": 99.0,
+        "destination": "YYZ",
+        "consignee": "Rasmussen Trade LLC",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "085-66644694",
+        "pieces": 4,
+        "weight": 45.9,
+        "destination": "NRT",
+        "consignee": "Commerce Humphrey GmbH",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "176-24221801",
+        "pieces": 15,
+        "weight": 72.5,
+        "destination": "JFK",
+        "consignee": "Ellis Pacific Corp.",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

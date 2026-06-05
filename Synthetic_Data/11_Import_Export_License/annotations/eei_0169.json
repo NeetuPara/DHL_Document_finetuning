@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0169",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "047-59184750-9",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2026-03-27",
+    "port_of_entry": "ORD - Chicago",
+    "transport_mode": "Air",
+    "carrier": "FedEx",
+    "bl_awb": "074-65613586",
+    "importer_name": "Baxter International S.A.",
+    "importer_ein": "86-9792310",
+    "consignee_name": "Knight Trade LLC",
+    "customs_broker": "International Rodriguez Co.",
+    "broker_filer_code": "Pzi",
+    "country_of_origin": "Belgium",
+    "total_value": 153732.56,
+    "total_duty": 17268.55,
+    "currency": "USD",
+    "signatory": "Ryan Curry MD",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Malaysia",
+        "qty": 195,
+        "unit": "PCS",
+        "entered_value": 49321.35,
+        "duty_rate": 0.7,
+        "duty_amount": 345.25,
+        "eccn": "5E992",
+        "schedule_b": "8518.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "France",
+        "qty": 161,
+        "unit": "PCS",
+        "entered_value": 30543.31,
+        "duty_rate": 22.4,
+        "duty_amount": 6841.7,
+        "eccn": "2B350",
+        "schedule_b": "9401.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "United Kingdom",
+        "qty": 178,
+        "unit": "PCS",
+        "entered_value": 16146.38,
+        "duty_rate": 22.4,
+        "duty_amount": 3616.79,
+        "eccn": "EAR99",
+        "schedule_b": "9401.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Japan",
+        "qty": 332,
+        "unit": "PCS",
+        "entered_value": 57721.52,
+        "duty_rate": 11.2,
+        "duty_amount": 6464.81,
+        "eccn": "7A994",
+        "schedule_b": "3926.90.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0349",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Newman Pacific Pte Ltd",
+    "shipper_address": "0898 Cheryl Road, Delacruzmouth, OK 37126, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Lopez Pacific S.A.",
+    "consignee_address": "64036 Gina Stream, Shannonberg, CA 36216, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+7 704-677-5447",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 4,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 1.8,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Joshua Henson",
+    "signature_date": "2026-05-04",
+    "signature_place": "Spain",
+    "awb_number": "618-25280226",
+    "flight_number": "SQ9354",
+    "flight_date": "2026-05-20",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International"
+  }
+}

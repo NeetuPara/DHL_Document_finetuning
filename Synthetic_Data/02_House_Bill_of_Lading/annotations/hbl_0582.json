@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0582",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU382257632",
+    "shipper_name": "Industry Smith Corp.",
+    "shipper_address": "373 Jenkins Dam, Carrollstad, AR 85029, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Brady Tech Pte Ltd",
+    "consignee_address": "528 Chase Valley, East Dawn, PW 21452, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party_name": "Hernandez Industry B.V.",
+    "notify_party_address": "21839 Woods Skyway Apt. 279, New Sarahtown, WV 64777, Australia",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "253N",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Hong Kong, HK",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2026-01-19",
+    "issue_place": "Singapore",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "NHNH0192077",
+        "seal_no": "SL661255",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "MOFH7249577",
+        "seal_no": "BL267231",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "number_of_packages": 61,
+    "package_type": "Carton",
+    "gross_weight_kg": 10761.3,
+    "net_weight_kg": 9960.2,
+    "cbm": 3.846,
+    "marks_and_numbers": "ABC/47"
+  }
+}

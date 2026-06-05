@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0499",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "982-94044810-1",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2025-12-11",
+    "port_of_entry": "SFO - San Francisco",
+    "transport_mode": "Ocean",
+    "carrier": "FedEx",
+    "bl_awb": "160-20202993",
+    "importer_name": "Williams Tech Inc.",
+    "importer_ein": "05-2161846",
+    "consignee_name": "Commerce Fox B.V.",
+    "customs_broker": "Tech Perry Pte Ltd",
+    "broker_filer_code": "yQS",
+    "country_of_origin": "Thailand",
+    "total_value": 340456.74,
+    "total_duty": 64750.52,
+    "currency": "USD",
+    "signatory": "Michael Ballard",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Netherlands",
+        "qty": 422,
+        "unit": "CTN",
+        "entered_value": 172475.62,
+        "duty_rate": 24.8,
+        "duty_amount": 42773.95,
+        "eccn": "2B350",
+        "schedule_b": "4819.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "United States",
+        "qty": 285,
+        "unit": "PCS",
+        "entered_value": 86637.15,
+        "duty_rate": 18.7,
+        "duty_amount": 16201.15,
+        "eccn": "1A002",
+        "schedule_b": "8483.40.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Japan",
+        "qty": 491,
+        "unit": "PCS",
+        "entered_value": 81343.97,
+        "duty_rate": 7.1,
+        "duty_amount": 5775.42,
+        "eccn": "1A002",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

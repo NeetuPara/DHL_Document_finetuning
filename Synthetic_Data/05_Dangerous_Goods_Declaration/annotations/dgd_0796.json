@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0796",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Reese Inc.",
+    "shipper_address": "90767 Long Haven, Patriciaville, LA 15238, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Howell Global Inc.",
+    "consignee_address": "06475 Cheryl Stream Apt. 758, Angelahaven, MI 80395, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+19 977-789-5740",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 45,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 10.39,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-694244",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 11,
+        "pkg_type": "Steel Drum",
+        "net_qty": 68.77,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jeffery Mclaughlin",
+    "signature_date": "2026-04-21",
+    "signature_place": "Italy",
+    "awb_number": "020-44933687",
+    "flight_number": "CX8278",
+    "flight_date": "2026-06-02",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "LHR",
+    "destination_airport_name": "London Heathrow"
+  }
+}

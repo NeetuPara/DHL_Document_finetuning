@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0413",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Marisa Cox",
+    "addressee_company": "Alvarez Tech B.V.",
+    "addressee_address": "36810 Robert Loaf Apt. 138, Kellyview, AR 69863, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 12.723,
+    "total_value": 4984.7,
+    "currency": "USD",
+    "issue_date": "2025-12-18",
+    "reference": "REF-111326",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.677,
+        "value": 1299.84,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 8,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.608,
+        "value": 968.4,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 16,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.29,
+        "value": 2210.4,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 2,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.213,
+        "value": 200.36,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 3,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.935,
+        "value": 305.7,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_name": "Jill Anderson",
+    "sender_company": "Robles Pacific Corp.",
+    "sender_address": "1654 Thompson Fort, New Jenniferberg, MA 41832, Switzerland",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 5483.17,
+    "postal_charges": 24.61,
+    "tracking_number": "TR671175220FU"
+  }
+}

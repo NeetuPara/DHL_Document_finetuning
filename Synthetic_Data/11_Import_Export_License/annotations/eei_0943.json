@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0943",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "923-81435295-3",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2025-09-09",
+    "port_of_entry": "SFO - San Francisco",
+    "transport_mode": "Air",
+    "carrier": "FedEx",
+    "bl_awb": "160-59090314",
+    "importer_name": "Global Welch Pte Ltd",
+    "importer_ein": "05-0709952",
+    "consignee_name": "Global Everett Ltd",
+    "customs_broker": "Trade Miller B.V.",
+    "broker_filer_code": "Bxb",
+    "country_of_origin": "Italy",
+    "total_value": 126654.88,
+    "total_duty": 13860.62,
+    "currency": "EUR",
+    "signatory": "Taylor Wilkins",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "United Kingdom",
+        "qty": 389,
+        "unit": "PCS",
+        "entered_value": 50616.68,
+        "duty_rate": 14.4,
+        "duty_amount": 7288.8,
+        "eccn": "0A919",
+        "schedule_b": "9401.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "United Kingdom",
+        "qty": 380,
+        "unit": "LTR",
+        "entered_value": 5422.6,
+        "duty_rate": 9.2,
+        "duty_amount": 498.88,
+        "eccn": "2B350",
+        "schedule_b": "2901.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Italy",
+        "qty": 220,
+        "unit": "PCS",
+        "entered_value": 70615.6,
+        "duty_rate": 8.6,
+        "duty_amount": 6072.94,
+        "eccn": "0A919",
+        "schedule_b": "9401.30.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

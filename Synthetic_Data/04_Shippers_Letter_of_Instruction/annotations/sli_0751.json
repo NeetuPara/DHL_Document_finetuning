@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0751",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202502-7936",
+    "usppi_name": "Global Smith Ltd",
+    "usppi_address": "31216 Bryan Manor, Marshallfurt, UT 23447, Poland",
+    "usppi_country": "Poland",
+    "ein": "44-8494682",
+    "consignee_name": "Tech Hodge Pte Ltd",
+    "consignee_address": "0955 Armstrong Brooks, East Anthonyfort, KY 59652, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Commerce Shepard Pte Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Sarah Green",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/36",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 200,
+        "unit": "PCS",
+        "weight_kg": 2437.4,
+        "value_usd": 125748.61
+      },
+      {
+        "marks": "ABC/15",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 74,
+        "unit": "MTR",
+        "weight_kg": 67.77,
+        "value_usd": 1144.4
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 99,
+        "unit": "KGS",
+        "weight_kg": 99.0,
+        "value_usd": 1614.95
+      },
+      {
+        "marks": "SLI/17",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 153,
+        "unit": "PCS",
+        "weight_kg": 20.39,
+        "value_usd": 10889.27
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 95,
+        "unit": "PCS",
+        "weight_kg": 114.66,
+        "value_usd": 59290.35
+      },
+      {
+        "marks": "SLI/5",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 147,
+        "unit": "CTN",
+        "weight_kg": 260.97,
+        "value_usd": 9842.41
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 10,
+        "unit": "CTN",
+        "weight_kg": 27.04,
+        "value_usd": 92.85
+      }
+    ],
+    "total_weight_kg": 3027.23,
+    "total_value_usd": 208622.84,
+    "service": "Ocean Freight",
+    "named_port": "Singapore, SG",
+    "insurance_value_usd": 28652.27,
+    "license_type": "Distributor License",
+    "license_number": "LIC-822668",
+    "destination_country": "Thailand"
+  }
+}

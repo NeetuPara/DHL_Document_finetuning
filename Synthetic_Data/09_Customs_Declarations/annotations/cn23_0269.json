@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0269",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Michael Hernandez",
+    "addressee_company": "Page Global Co.",
+    "addressee_address": "783 Daniel Gardens Suite 693, West Jean, NE 76663, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 11.081,
+    "total_value": 2908.38,
+    "currency": "AUD",
+    "issue_date": "2025-07-30",
+    "reference": "REF-738024",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.79,
+        "value": 759.12,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 16,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.037,
+        "value": 1672.64,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 3,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.427,
+        "value": 426.36,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 1,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.827,
+        "value": 50.26,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Italy"
+      }
+    ],
+    "sender_name": "Jeffrey Johns",
+    "sender_company": "Sutton Pacific B.V.",
+    "sender_address": "81399 Young Oval, North John, TX 92849, Netherlands",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 70.99,
+    "tracking_number": "FS344349006XJ"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0711",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Tonya Gonzalez",
+    "addressee_company": "Commerce Nelson GmbH",
+    "addressee_address": "635 Ortega Loop, Bellport, PA 92981, Brazil",
+    "addressee_country": "Brazil",
+    "total_weight_kg": 3.14,
+    "total_value": 931.09,
+    "currency": "EUR",
+    "issue_date": "2025-06-11",
+    "reference": "REF-575047",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.482,
+        "value": 708.75,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 2,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.658,
+        "value": 222.34,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_country": "Spain",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "312-03194779-4",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 18.5,
+    "estimated_duty": 172.25,
+    "importer_ein": "89-5190059",
+    "customs_broker": "Hernandez Global B.V."
+  }
+}

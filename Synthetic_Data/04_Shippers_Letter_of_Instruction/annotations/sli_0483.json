@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0483",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202002-2338",
+    "usppi_name": "Norris Global GmbH",
+    "usppi_address": "6144 Cody Mall, Benjaminchester, AR 28228, Spain",
+    "usppi_country": "Spain",
+    "ein": "28-9382527",
+    "consignee_name": "Whitaker International GmbH",
+    "consignee_address": "6944 Wayne Spur, Lake Maryberg, ME 58659, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Wheeler Global GmbH",
+    "forwarder": "Expeditors",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "George Hunter",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/22",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 105,
+        "unit": "CTN",
+        "weight_kg": 136.31,
+        "value_usd": 3945.3
+      },
+      {
+        "marks": "ABC/6",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 84,
+        "unit": "PCS",
+        "weight_kg": 66.95,
+        "value_usd": 101615.08
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 141,
+        "unit": "LTR",
+        "weight_kg": 147.29,
+        "value_usd": 646.83
+      }
+    ],
+    "total_weight_kg": 350.55,
+    "total_value_usd": 106207.21,
+    "vessel": "MSC OSCAR",
+    "voyage": "127N",
+    "booking_ref": "BKG-673303",
+    "bl_number": "MAEU374617871",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Tokyo, JP",
+    "container_number": "OPYZ5549569",
+    "seal_number": "SL750503",
+    "container_type": "20'GP",
+    "cbm": 15.089
+  }
+}

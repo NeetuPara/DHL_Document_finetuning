@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0449",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU275538576",
+    "shipper_name": "Alexander Commerce Pte Ltd",
+    "shipper_address": "604 Myers Ports, New Nicholasfort, DE 58491, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Hudson Trade AG",
+    "consignee_address": "131 Katrina Pike, Lake Michaeltown, MH 91335, Canada",
+    "consignee_country": "Canada",
+    "notify_party_name": "Ferguson Pacific Pte Ltd",
+    "notify_party_address": "9697 Anthony Unions Suite 755, South Brittany, MT 40032, Australia",
+    "vessel": "MSC GULSUN",
+    "voyage": "628S",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Tanjung Pelepas, MY",
+    "place_of_delivery": "Antwerp, BE",
+    "issue_date": "2024-11-11",
+    "issue_place": "Tanjung Pelepas",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "EWCF8725738",
+        "seal_no": "SL259811",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "VCEH5724020",
+        "seal_no": "BL873860",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "TTIK1443679",
+        "seal_no": "BL557790",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "DVMQ3095735",
+        "seal_no": "SL301941",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 24,
+    "package_type": "Drum",
+    "gross_weight_kg": 8424.8,
+    "net_weight_kg": 7709.1,
+    "cbm": 1.128,
+    "marks_and_numbers": "ABC/4"
+  }
+}

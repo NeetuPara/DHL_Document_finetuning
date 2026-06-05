@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0406",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Susan Butler",
+    "addressee_company": "International Gonzalez Pte Ltd",
+    "addressee_address": "444 Adam Gateway Suite 548, Lake Courtney, VA 00815, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 15.263,
+    "total_value": 2292.18,
+    "currency": "SGD",
+    "issue_date": "2026-04-30",
+    "reference": "REF-352566",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 0.154,
+        "value": 4.92,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 5,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.959,
+        "value": 721.6,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 2,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.946,
+        "value": 89.44,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 14,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 1.912,
+        "value": 429.52,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 9,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.292,
+        "value": 1046.7,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Michael Silva",
+    "sender_company": "Rojas Commerce Ltd",
+    "sender_address": "809 Lee Loaf Suite 807, North Stephen, SD 15540, Sweden",
+    "sender_phone": "(318)847-9234x64480",
+    "sender_email": "tchristensen@example.org",
+    "addressee_phone": "5095722937",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 46.3,
+    "tracking_number": "HK264088832PF"
+  }
+}

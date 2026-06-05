@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0197",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Smith B.V.",
+    "shipper_address": "071 Brown Heights Suite 661, New Debra, AS 41003, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Pacific Reyes Pte Ltd",
+    "consignee_address": "612 Elizabeth Summit Apt. 633, Kennethshire, WI 27325, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+30 561-153-2623",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 20,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 42.63,
+        "qty_unit": "mL",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-286811",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 31,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 83.08,
+        "qty_unit": "L",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-114527",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Russell Ingram",
+    "signature_date": "2026-05-09",
+    "signature_place": "Malaysia",
+    "vessel": "CSCL GLOBE",
+    "voyage": "552E",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Colombo, LK"
+  }
+}

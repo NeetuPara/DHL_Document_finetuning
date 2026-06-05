@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0918",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-29203076",
+    "mawb_number": "057-81861368",
+    "shipper_name": "Tech Garcia B.V.",
+    "shipper_address": "Unit 4769 Box 2671, DPO AA 31058, Singapore",
+    "consignee_name": "International Clark S.A.",
+    "consignee_address": "07858 Donald Burg Apt. 655, South Paul, VI 54554, Malaysia",
+    "agent_name": "Roberts Commerce Co.",
+    "airport_departure": "LHR",
+    "airport_destination": "NRT",
+    "currency": "CNY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "AUD 13,408.68",
+    "n_pieces": 17,
+    "gross_weight_kg": 118.9,
+    "chargeable_weight": 142.0,
+    "rate": 6.54,
+    "total_charge": 928.68,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "TEMP CONTROLLED: 6\u00b0C - 15\u00b0C",
+    "issue_date": "2025-08-17",
+    "signatory": "Bianca Wright",
+    "iata_code": "52-159",
+    "agent_cass": "2111-7922",
+    "consolidation_ref": "CONS-1911-234921",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-78805617",
+        "pieces": 18,
+        "weight": 61.3,
+        "destination": "ICN",
+        "consignee": "Pacific Davis S.A.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "074-62927915",
+        "pieces": 20,
+        "weight": 15.5,
+        "destination": "LAX",
+        "consignee": "Pacific Roberts Co.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "618-72679605",
+        "pieces": 14,
+        "weight": 60.1,
+        "destination": "LAX",
+        "consignee": "Tech Christensen B.V.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "006-75511573",
+        "pieces": 19,
+        "weight": 28.0,
+        "destination": "NRT",
+        "consignee": "Rollins Industry S.A.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "160-53400637",
+        "pieces": 2,
+        "weight": 80.6,
+        "destination": "LAX",
+        "consignee": "Mayer Commerce B.V.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "057-23394852",
+        "pieces": 8,
+        "weight": 45.9,
+        "destination": "FRA",
+        "consignee": "Foster Industry Co.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "085-51512245",
+        "pieces": 5,
+        "weight": 60.1,
+        "destination": "YYZ",
+        "consignee": "Quinn International AG",
+        "description": "Optical Equipment - Camera Lenses"
+      }
+    ]
+  }
+}

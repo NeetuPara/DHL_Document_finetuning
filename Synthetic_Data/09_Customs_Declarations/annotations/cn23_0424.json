@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0424",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jennifer Wilson",
+    "addressee_company": "Industry Edwards Corp.",
+    "addressee_address": "USCGC Jones, FPO AA 04638, France",
+    "addressee_country": "France",
+    "total_weight_kg": 9.587,
+    "total_value": 2613.33,
+    "currency": "SGD",
+    "issue_date": "2026-01-17",
+    "reference": "REF-641587",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.441,
+        "value": 578.08,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 2,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.253,
+        "value": 268.82,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 19,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.893,
+        "value": 1766.43,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Italy"
+      }
+    ],
+    "sender_name": "Paul Marshall",
+    "sender_company": "Global Long LLC",
+    "sender_address": "81037 Schneider Points Apt. 742, Susanview, DC 59641, Brazil",
+    "sender_phone": "439.589.6066x602",
+    "sender_email": "joseph98@example.net",
+    "addressee_phone": "(740)895-3201",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 21.69,
+    "tracking_number": "VP122455939ME"
+  }
+}

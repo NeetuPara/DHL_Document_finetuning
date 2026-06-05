@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0614",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Jones LLC",
+    "shipper_address": "33373 Amy Parks Suite 172, West Melissaside, VA 10497, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Johnson Global B.V.",
+    "consignee_address": "547 Timothy Terrace, Charlesmouth, OK 36387, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+27 266-482-4565",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 32,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 17.62,
+        "qty_unit": "mL",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 10,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 80.03,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Brandon Norris",
+    "signature_date": "2026-05-07",
+    "signature_place": "Spain",
+    "vessel": "YANG MING MYTH",
+    "voyage": "504W",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Tokyo, JP"
+  }
+}

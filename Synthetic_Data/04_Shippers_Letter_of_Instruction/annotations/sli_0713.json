@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0713",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202311-8956",
+    "usppi_name": "Cooke Industry GmbH",
+    "usppi_address": "228 Holmes Junctions, Craigville, MO 56915, Japan",
+    "usppi_country": "Japan",
+    "ein": "74-1495291",
+    "consignee_name": "Trade Hayden S.A.",
+    "consignee_address": "3458 Sanchez Road, Wrightton, NH 38510, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Pacific Reeves Inc.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DPU",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Michael Jenkins",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/44",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 145,
+        "unit": "MTR",
+        "weight_kg": 169.73,
+        "value_usd": 709.67
+      },
+      {
+        "marks": "SLI/19",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 14,
+        "unit": "PCS",
+        "weight_kg": 15.83,
+        "value_usd": 113.18
+      }
+    ],
+    "total_weight_kg": 185.56,
+    "total_value_usd": 822.85,
+    "service": "Ocean Freight",
+    "named_port": "Felixstowe, GB",
+    "insurance_value_usd": 27535.42,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-779244",
+    "destination_country": "Italy"
+  }
+}

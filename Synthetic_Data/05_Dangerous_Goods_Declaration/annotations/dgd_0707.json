@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0707",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Burgess Co.",
+    "shipper_address": "352 Olsen Lakes Suite 773, South Gregoryborough, VT 12169, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Tech Tran Co.",
+    "consignee_address": "PSC 8583, Box 8347, APO AE 24052, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+45 139-931-3459",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 4,
+        "pkg_type": "Steel Drum",
+        "net_qty": 88.74,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "April Wall",
+    "signature_date": "2026-04-17",
+    "signature_place": "South Korea",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "800N",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Tanjung Pelepas, MY"
+  }
+}

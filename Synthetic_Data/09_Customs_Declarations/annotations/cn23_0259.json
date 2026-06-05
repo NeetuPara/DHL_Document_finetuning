@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0259",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "David Martin",
+    "addressee_company": "Trade Hebert Ltd",
+    "addressee_address": "76652 Jesus Centers Suite 225, New Jesse, AR 88399, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 6.575,
+    "total_value": 2925.55,
+    "currency": "JPY",
+    "issue_date": "2025-07-03",
+    "reference": "REF-014503",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.385,
+        "value": 2411.82,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 9,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.853,
+        "value": 388.71,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 1,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.337,
+        "value": 125.02,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_name": "Bruce Cruz",
+    "sender_company": "Trade Brown Co.",
+    "sender_address": "100 Diane Mills, North Bethfurt, WA 43947, India",
+    "sender_phone": "822-919-1767",
+    "sender_email": "mstewart@example.com",
+    "addressee_phone": "001-443-520-8845x5403",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 3218.11,
+    "postal_charges": 52.0,
+    "tracking_number": "TX871614888KN"
+  }
+}

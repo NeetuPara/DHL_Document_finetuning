@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0482",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Mcconnell Co.",
+    "shipper_address": "5858 Kevin Camp Apt. 399, North Melissa, WV 72392, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Le Tech Co.",
+    "consignee_address": "424 Danielle Mission, Port Oscarberg, MI 43954, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+2 837-701-6179",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 45,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 94.02,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 3,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 81.77,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Kari Morris",
+    "signature_date": "2026-05-09",
+    "signature_place": "South Korea",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "734W",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Busan, KR"
+  }
+}

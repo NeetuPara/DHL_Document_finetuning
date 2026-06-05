@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0064",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "440-24492095-6",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2025-06-09",
+    "port_of_entry": "MIA - Miami",
+    "transport_mode": "Air",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "085-98279133",
+    "importer_name": "Li Pacific LLC",
+    "importer_ein": "61-0864723",
+    "consignee_name": "Industry Walton S.A.",
+    "customs_broker": "Industry House GmbH",
+    "broker_filer_code": "UcS",
+    "country_of_origin": "Switzerland",
+    "total_value": 186966.01,
+    "total_duty": 28104.87,
+    "currency": "CAD",
+    "signatory": "William Moore",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Singapore",
+        "qty": 80,
+        "unit": "CTN",
+        "entered_value": 32656.8,
+        "duty_rate": 10.8,
+        "duty_amount": 3526.93,
+        "eccn": "0A919",
+        "schedule_b": "9018.31.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Australia",
+        "qty": 150,
+        "unit": "SET",
+        "entered_value": 22275.0,
+        "duty_rate": 12.7,
+        "duty_amount": 2828.93,
+        "eccn": "5E992",
+        "schedule_b": "8708.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Italy",
+        "qty": 41,
+        "unit": "KGS",
+        "entered_value": 10977.34,
+        "duty_rate": 6.7,
+        "duty_amount": 735.48,
+        "eccn": "2B350",
+        "schedule_b": "2008.19.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Switzerland",
+        "qty": 209,
+        "unit": "KGS",
+        "entered_value": 63916.38,
+        "duty_rate": 17.5,
+        "duty_amount": 11185.37,
+        "eccn": "9A515",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Singapore",
+        "qty": 499,
+        "unit": "PKG",
+        "entered_value": 57140.49,
+        "duty_rate": 17.2,
+        "duty_amount": 9828.16,
+        "eccn": "5E992",
+        "schedule_b": "4016.93.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

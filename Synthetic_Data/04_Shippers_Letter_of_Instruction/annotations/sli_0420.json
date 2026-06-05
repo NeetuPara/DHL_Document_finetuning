@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0420",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202108-4428",
+    "usppi_name": "Morgan Industry Inc.",
+    "usppi_address": "42434 Janet Groves, Andrewland, NM 58018, France",
+    "usppi_country": "France",
+    "ein": "75-7926390",
+    "consignee_name": "Day Pacific AG",
+    "consignee_address": "785 Burch Union Suite 707, Lake Henrymouth, SD 28309, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Tech Morales Inc.",
+    "forwarder": "Panalpina",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Andrew Moreno",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/26",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 144,
+        "unit": "PCS",
+        "weight_kg": 15.06,
+        "value_usd": 33829.11
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 192,
+        "unit": "PKG",
+        "weight_kg": 546.82,
+        "value_usd": 14935.0
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 145,
+        "unit": "CTN",
+        "weight_kg": 229.92,
+        "value_usd": 4605.47
+      },
+      {
+        "marks": "SLI/20",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 36,
+        "unit": "PCS",
+        "weight_kg": 293.41,
+        "value_usd": 22804.29
+      },
+      {
+        "marks": "SLI/15",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 160,
+        "unit": "BOX",
+        "weight_kg": 46.74,
+        "value_usd": 7246.56
+      },
+      {
+        "marks": "SLI/49",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 9,
+        "unit": "PCS",
+        "weight_kg": 7.4,
+        "value_usd": 9892.93
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 34,
+        "unit": "MTR",
+        "weight_kg": 31.81,
+        "value_usd": 96.58
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 14,
+        "unit": "KGS",
+        "weight_kg": 14.0,
+        "value_usd": 16.9
+      }
+    ],
+    "total_weight_kg": 1185.16,
+    "total_value_usd": 93426.84,
+    "vessel": "MSC GULSUN",
+    "voyage": "938N",
+    "booking_ref": "BKG-368398",
+    "bl_number": "OOLU692193581",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Hamburg, DE",
+    "container_number": "IYHN5130983",
+    "seal_number": "SL800478",
+    "container_type": "20'GP",
+    "cbm": 32.203
+  }
+}

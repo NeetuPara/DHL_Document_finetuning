@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0801",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202504-6369",
+    "usppi_name": "Pacific Ross Co.",
+    "usppi_address": "1908 Isaac Valleys, Timothyton, SD 48462, Japan",
+    "usppi_country": "Japan",
+    "ein": "98-3684307",
+    "consignee_name": "Industry Baldwin Ltd",
+    "consignee_address": "5775 Kenneth Terrace Suite 639, Bettyview, MH 20260, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Lawson International Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Dawn Hughes",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/7",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 36,
+        "unit": "PCS",
+        "weight_kg": 487.27,
+        "value_usd": 23716.92
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 79,
+        "unit": "CTN",
+        "weight_kg": 93.38,
+        "value_usd": 4089.91
+      }
+    ],
+    "total_weight_kg": 580.65,
+    "total_value_usd": 27806.83,
+    "vessel": "YANG MING MYTH",
+    "voyage": "649W",
+    "booking_ref": "BKG-186138",
+    "bl_number": "MAEU964537542",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "New York, US",
+    "container_number": "MJKI3635654",
+    "seal_number": "BL694481",
+    "container_type": "45'HC",
+    "cbm": 4.179
+  }
+}

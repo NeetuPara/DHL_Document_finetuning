@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0645",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Mendoza Tech B.V.",
+    "shipper_address": "135 Michael Fork, East Adam, DE 40048, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Industry Lewis Inc.",
+    "consignee_address": "PSC 3273, Box 9368, APO AA 12015, China",
+    "consignee_country": "China",
+    "emergency_telephone": "+38 108-257-7498",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 29,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 24.95,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-382724",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Vicki Dennis",
+    "signature_date": "2026-04-27",
+    "signature_place": "United Arab Emirates",
+    "awb_number": "074-41330330",
+    "flight_number": "UA5622",
+    "departure_airport_code": "PVG",
+    "departure_airport_name": "Shanghai Pudong",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

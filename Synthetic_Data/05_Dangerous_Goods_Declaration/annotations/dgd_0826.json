@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0826",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Martin Industry Corp.",
+    "shipper_address": "820 Maria Oval, Stacychester, IN 49932, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Tech Harvey LLC",
+    "consignee_address": "96630 Joseph Glens, South Mary, MN 85831, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+28 772-502-6491",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 25,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 79.66,
+        "qty_unit": "mL",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 26,
+        "pkg_type": "Steel Drum",
+        "net_qty": 44.54,
+        "qty_unit": "mL",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-677478",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Cody King",
+    "signature_date": "2026-04-26",
+    "signature_place": "Japan",
+    "awb_number": "074-80950380",
+    "flight_number": "CX1616",
+    "flight_date": "2026-05-16",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International"
+  }
+}

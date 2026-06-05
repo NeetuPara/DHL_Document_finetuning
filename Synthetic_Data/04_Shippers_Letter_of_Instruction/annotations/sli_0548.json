@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0548",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202507-3836",
+    "usppi_name": "Pacific Ross Ltd",
+    "usppi_address": "70241 Sheila Ranch, West Jacobview, AL 47898, Poland",
+    "usppi_country": "Poland",
+    "ein": "92-7067302",
+    "consignee_name": "Morgan Pacific B.V.",
+    "consignee_address": "222 Rhodes Squares, Lake Brenda, DE 73038, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Gross Trade Co.",
+    "forwarder": "Panalpina",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Joshua Martin",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/43",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 60,
+        "unit": "CTN",
+        "weight_kg": 98.4,
+        "value_usd": 364.51
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 136,
+        "unit": "PCS",
+        "weight_kg": 947.19,
+        "value_usd": 53774.73
+      }
+    ],
+    "total_weight_kg": 1045.59,
+    "total_value_usd": 54139.24,
+    "service": "Ground",
+    "named_port": "Toronto Pearson",
+    "insurance_value_usd": 18859.68,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-316870",
+    "destination_country": "Sweden"
+  }
+}

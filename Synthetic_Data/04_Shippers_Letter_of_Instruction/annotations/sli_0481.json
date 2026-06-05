@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0481",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202008-3976",
+    "usppi_name": "Burnett Industry Ltd",
+    "usppi_address": "66953 Heather Prairie Suite 241, New Whitneychester, MS 25752, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "63-4500882",
+    "consignee_name": "Roberson Commerce GmbH",
+    "consignee_address": "702 Robin Street Suite 725, North Jonathanshire, WA 88212, United States",
+    "consignee_country": "United States",
+    "notify_party": "Marshall Tech Inc.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "2B350",
+    "signatory_name": "Shari Miller",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/26",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 192,
+        "unit": "PCS",
+        "weight_kg": 3280.91,
+        "value_usd": 37481.43
+      },
+      {
+        "marks": "EXP/32",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 125,
+        "unit": "CTN",
+        "weight_kg": 543.05,
+        "value_usd": 7561.46
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 29,
+        "unit": "BOX",
+        "weight_kg": 40.67,
+        "value_usd": 1433.74
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 72,
+        "unit": "PCS",
+        "weight_kg": 47.04,
+        "value_usd": 870.62
+      },
+      {
+        "marks": "EXP/14",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 12,
+        "unit": "MTR",
+        "weight_kg": 8.33,
+        "value_usd": 137.79
+      }
+    ],
+    "total_weight_kg": 3920.0,
+    "total_value_usd": 47485.04,
+    "service": "Air Freight",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 7335.78,
+    "license_type": "Distributor License",
+    "license_number": "LIC-791526",
+    "destination_country": "United States"
+  }
+}

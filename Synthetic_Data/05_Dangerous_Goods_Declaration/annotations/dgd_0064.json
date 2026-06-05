@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0064",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Sanchez Global Co.",
+    "shipper_address": "5219 Waters Roads, Sarahhaven, OK 99000, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Anderson Tech S.A.",
+    "consignee_address": "33378 Randy Extensions Apt. 416, Meyerstown, PR 31051, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+72 113-247-8703",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 40,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 22.31,
+        "qty_unit": "L",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-335631",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 12,
+        "pkg_type": "Steel Drum",
+        "net_qty": 98.49,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Brian Caldwell",
+    "signature_date": "2026-04-25",
+    "signature_place": "Singapore",
+    "awb_number": "045-17756832",
+    "flight_number": "DL9445",
+    "flight_date": "2026-04-15",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong"
+  }
+}

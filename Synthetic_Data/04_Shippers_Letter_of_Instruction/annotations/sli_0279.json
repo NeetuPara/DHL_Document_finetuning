@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0279",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202011-8571",
+    "usppi_name": "Eaton International Inc.",
+    "usppi_address": "PSC 5104, Box 1529, APO AE 59057, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "54-8176328",
+    "consignee_name": "Tech Bailey AG",
+    "consignee_address": "01061 Suzanne Mount, North Carolinemouth, PR 58900, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Russell Industry S.A.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Sonya Flores",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/34",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 61,
+        "unit": "PCS",
+        "weight_kg": 53.68,
+        "value_usd": 82802.32
+      },
+      {
+        "marks": "ABC/7",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 78,
+        "unit": "KGS",
+        "weight_kg": 78.0,
+        "value_usd": 633.23
+      }
+    ],
+    "total_weight_kg": 131.68,
+    "total_value_usd": 83435.55,
+    "vessel": "PIL PACIFIC",
+    "voyage": "591S",
+    "booking_ref": "BKG-945061",
+    "bl_number": "EGLV392121944",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Long Beach, US",
+    "container_number": "VPFX6623336",
+    "seal_number": "BL683148",
+    "container_type": "40'HC",
+    "cbm": 4.145
+  }
+}

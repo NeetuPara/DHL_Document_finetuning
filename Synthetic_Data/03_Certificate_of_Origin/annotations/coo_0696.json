@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0696",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202304-4552",
+    "exporter_name": "Koch Pacific Pte Ltd",
+    "exporter_address": "45815 Harris Cliff Suite 581, Williamberg, AL 42566, Brazil",
+    "exporter_country": "Brazil",
+    "consignee_name": "Industry Wallace S.A.",
+    "consignee_address": "385 Davidson Springs Suite 723, Haleyborough, WI 42510, Germany",
+    "consignee_country": "Germany",
+    "country_of_origin": "Brazil",
+    "country_of_destination": "Germany",
+    "bl_or_awb": "045-83950717",
+    "issue_date": "2026-01-21",
+    "certifier_name": "Nicholas Johnson",
+    "goods": [
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 15,
+        "unit": "KGS",
+        "weight_kg": 15.0,
+        "origin_criterion": "C",
+        "value": 76.85
+      },
+      {
+        "description": "Wooden Furniture - Office Chairs",
+        "hs_code": "9401.30.00",
+        "qty": 28,
+        "unit": "PCS",
+        "weight_kg": 506.3,
+        "origin_criterion": "E",
+        "value": 10765.13
+      },
+      {
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "hs_code": "8483.40.00",
+        "qty": 82,
+        "unit": "PCS",
+        "weight_kg": 189.14,
+        "origin_criterion": "F",
+        "value": 30056.71
+      }
+    ],
+    "fta_agreement": "CPTPP",
+    "chamber": "Board of Trade"
+  }
+}

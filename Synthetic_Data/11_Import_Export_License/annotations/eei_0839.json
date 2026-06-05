@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0839",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240403755788",
+    "export_date": "2025-08-13",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Trade Thomas AG",
+    "usppi_ein": "27-2981522",
+    "usppi_address": "2021 Sandra Drives Apt. 183, Lake Matthew, MP 19033, Spain",
+    "ultimate_consignee": "Industry Johnson LLC",
+    "intermediate_consignee": "Perkins Tech Pte Ltd",
+    "forwarding_agent": "Bridges Global GmbH",
+    "destination_country": "Malaysia",
+    "carrier": "DHL Express",
+    "bl_awb": "176-87583368",
+    "total_value": 141969.96,
+    "currency": "SGD",
+    "signatory": "Danielle Andrade",
+    "line_items": [
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "China",
+        "qty": 220,
+        "unit": "SET",
+        "entered_value": 95141.2,
+        "duty_rate": 10.4,
+        "duty_amount": 9894.68,
+        "eccn": "3A992",
+        "schedule_b": "8708.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Italy",
+        "qty": 6,
+        "unit": "CTN",
+        "entered_value": 2224.86,
+        "duty_rate": 0.0,
+        "duty_amount": 0.0,
+        "eccn": "3A992",
+        "schedule_b": "9018.31.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Thailand",
+        "qty": 110,
+        "unit": "PCS",
+        "entered_value": 44603.9,
+        "duty_rate": 7.9,
+        "duty_amount": 3523.71,
+        "eccn": "2B350",
+        "schedule_b": "8534.00.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

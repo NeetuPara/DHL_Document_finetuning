@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0189",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-37890977",
+    "mawb_number": "057-42779423",
+    "shipper_name": "Commerce Park S.A.",
+    "shipper_address": "53395 Johnson Village, Jasonfurt, IL 86996, Mexico",
+    "consignee_name": "Jones International Co.",
+    "consignee_address": "01042 Barnett Plains, East Daniel, RI 97515, Hong Kong",
+    "agent_name": "Evans Trade Pte Ltd",
+    "airport_departure": "HKG",
+    "airport_destination": "AMS",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CAD 21,025.21",
+    "n_pieces": 47,
+    "gross_weight_kg": 67.4,
+    "chargeable_weight": 78.8,
+    "rate": 11.28,
+    "total_charge": 888.86,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "TEMP CONTROLLED: 5\u00b0C - 24\u00b0C",
+    "issue_date": "2025-10-27",
+    "signatory": "Molly Ryan",
+    "iata_code": "37-663",
+    "agent_cass": "7091-5820",
+    "consolidation_ref": "CONS-2108-032100",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-17715560",
+        "pieces": 20,
+        "weight": 70.3,
+        "destination": "CDG",
+        "consignee": "Yoder Pacific B.V.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "045-30837118",
+        "pieces": 4,
+        "weight": 84.8,
+        "destination": "FRA",
+        "consignee": "Industry Lee Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "618-86308520",
+        "pieces": 16,
+        "weight": 82.7,
+        "destination": "HKG",
+        "consignee": "Trade Williams Corp.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "020-45168829",
+        "pieces": 15,
+        "weight": 5.4,
+        "destination": "LAX",
+        "consignee": "Fisher Global Corp.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "057-89114503",
+        "pieces": 6,
+        "weight": 43.0,
+        "destination": "LHR",
+        "consignee": "Estrada Trade B.V.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "176-45566168",
+        "pieces": 10,
+        "weight": 90.3,
+        "destination": "SIN",
+        "consignee": "Pacific Roberts Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "045-64748583",
+        "pieces": 11,
+        "weight": 16.0,
+        "destination": "MIA",
+        "consignee": "International Moreno Corp.",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

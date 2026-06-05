@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0167",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Emma Winters",
+    "addressee_company": "Lewis Pacific Ltd",
+    "addressee_address": "53640 Michael Island Apt. 649, Denisetown, GA 02747, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 8.336,
+    "total_value": 3890.13,
+    "currency": "CHF",
+    "issue_date": "2025-07-15",
+    "reference": "REF-622666",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.978,
+        "value": 2636.25,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 20,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.158,
+        "value": 279.2,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 7,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.2,
+        "value": 974.68,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Gail Turner",
+    "sender_company": "Tech Ortiz B.V.",
+    "sender_address": "51967 Joseph Squares Suite 515, Amyshire, WA 49749, Singapore",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 29.94,
+    "tracking_number": "YJ563820997CF"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0992",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210201486393",
+    "export_date": "2025-09-02",
+    "aes_option": "AES Filing",
+    "usppi_name": "Pacific Arnold LLC",
+    "usppi_ein": "02-7451806",
+    "usppi_address": "9479 Carter Grove Suite 750, North Denisestad, KS 79714, India",
+    "ultimate_consignee": "Jones International AG",
+    "intermediate_consignee": "Industry Ruiz AG",
+    "forwarding_agent": "Ramirez International Ltd",
+    "destination_country": "Netherlands",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "020-79600736",
+    "total_value": 36927.61,
+    "currency": "CHF",
+    "signatory": "Brian Erickson",
+    "line_items": [
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Spain",
+        "qty": 335,
+        "unit": "PCS",
+        "entered_value": 35761.25,
+        "duty_rate": 24.8,
+        "duty_amount": 8868.79,
+        "eccn": "2B350",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Thailand",
+        "qty": 13,
+        "unit": "PCS",
+        "entered_value": 1166.36,
+        "duty_rate": 20.4,
+        "duty_amount": 237.94,
+        "eccn": "9A515",
+        "schedule_b": "9401.30.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

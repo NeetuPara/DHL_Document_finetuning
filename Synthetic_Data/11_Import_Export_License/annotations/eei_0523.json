@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0523",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "394-10808665-9",
+    "entry_type": "01 - Free and Dutiable",
+    "entry_date": "2025-09-20",
+    "port_of_entry": "LAX - Los Angeles",
+    "transport_mode": "Hand-Carried",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "045-17701232",
+    "importer_name": "Sanchez Pacific GmbH",
+    "importer_ein": "95-2559263",
+    "consignee_name": "Jackson Commerce Co.",
+    "customs_broker": "Potter Global Corp.",
+    "broker_filer_code": "nuP",
+    "country_of_origin": "Singapore",
+    "total_value": 526202.97,
+    "total_duty": 60953.25,
+    "currency": "EUR",
+    "signatory": "Kathryn Moore",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Belgium",
+        "qty": 335,
+        "unit": "PCS",
+        "entered_value": 104195.05,
+        "duty_rate": 15.2,
+        "duty_amount": 15837.65,
+        "eccn": "9A515",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Italy",
+        "qty": 373,
+        "unit": "SET",
+        "entered_value": 165843.26,
+        "duty_rate": 15.7,
+        "duty_amount": 26037.39,
+        "eccn": "1A002",
+        "schedule_b": "8708.30.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Malaysia",
+        "qty": 115,
+        "unit": "KGS",
+        "entered_value": 17845.7,
+        "duty_rate": 19.5,
+        "duty_amount": 3479.91,
+        "eccn": "1A002",
+        "schedule_b": "2008.19.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Germany",
+        "qty": 344,
+        "unit": "PCS",
+        "entered_value": 151638.64,
+        "duty_rate": 8.0,
+        "duty_amount": 12131.09,
+        "eccn": "EAR99",
+        "schedule_b": "3926.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "India",
+        "qty": 384,
+        "unit": "CTN",
+        "entered_value": 86680.32,
+        "duty_rate": 4.0,
+        "duty_amount": 3467.21,
+        "eccn": "7A994",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

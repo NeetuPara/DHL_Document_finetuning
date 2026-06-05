@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0357",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-33563703",
+    "mawb_number": "020-94796974",
+    "shipper_name": "Pham Trade Ltd",
+    "shipper_address": "PSC 1085, Box 7844, APO AP 38879, Italy",
+    "consignee_name": "Phillips Pacific Ltd",
+    "consignee_address": "7263 Crystal Crossing, Russelltown, ME 88267, Sweden",
+    "agent_name": "Alexander Tech Pte Ltd",
+    "airport_departure": "NRT",
+    "airport_destination": "HKG",
+    "currency": "EUR",
+    "charge_code": "PP",
+    "declared_value_carriage": "USD 17,891.23",
+    "declared_value_customs": "USD 34,999.38",
+    "n_pieces": 12,
+    "gross_weight_kg": 396.1,
+    "chargeable_weight": 427.4,
+    "rate": 9.49,
+    "total_charge": 4056.03,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "TEMP CONTROLLED: 7\u00b0C - 24\u00b0C",
+    "issue_date": "2026-04-03",
+    "signatory": "Holly Dean",
+    "iata_code": "57-148",
+    "agent_cass": "0349-7514",
+    "consolidation_ref": "CONS-7562-592135",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-80532098",
+        "pieces": 5,
+        "weight": 27.9,
+        "destination": "FRA",
+        "consignee": "Williams Global S.A.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "125-19188632",
+        "pieces": 5,
+        "weight": 53.7,
+        "destination": "DXB",
+        "consignee": "Martin Trade AG",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "085-24320129",
+        "pieces": 3,
+        "weight": 39.0,
+        "destination": "JFK",
+        "consignee": "Tech Harris Inc.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "160-87199441",
+        "pieces": 17,
+        "weight": 60.3,
+        "destination": "ORD",
+        "consignee": "Martinez Pacific GmbH",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "074-30967737",
+        "pieces": 11,
+        "weight": 77.1,
+        "destination": "LHR",
+        "consignee": "Hill International Pte Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "176-88245278",
+        "pieces": 3,
+        "weight": 39.4,
+        "destination": "SIN",
+        "consignee": "Pacific Kramer B.V.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "085-89350910",
+        "pieces": 18,
+        "weight": 39.1,
+        "destination": "LAX",
+        "consignee": "Robertson Commerce Corp.",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

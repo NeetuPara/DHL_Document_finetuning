@@ -1,0 +1,75 @@
+{
+  "document_id": "cn23_0137",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Andrea Lindsey",
+    "addressee_company": "International Jefferson Ltd",
+    "addressee_address": "63376 Kyle Hollow Suite 017, Richardfort, MO 54351, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 21.313,
+    "total_value": 8125.3,
+    "currency": "USD",
+    "issue_date": "2026-04-10",
+    "reference": "REF-101721",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.669,
+        "value": 2769.63,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 19,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.932,
+        "value": 1999.75,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 17,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.655,
+        "value": 1835.15,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 6,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.391,
+        "value": 245.94,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 15,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.998,
+        "value": 1093.95,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 2,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.668,
+        "value": 180.88,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "William Stone",
+    "sender_company": "Sims Commerce LLC",
+    "sender_address": "44404 Matthew Summit, West Charlesside, WA 28872, United States",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 46.9,
+    "tracking_number": "HZ718150678JJ"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0723",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jennifer Garcia",
+    "addressee_company": "Tech Jones Pte Ltd",
+    "addressee_address": "06778 Ryan Vista, Port Margaret, WY 82879, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 5.64,
+    "total_value": 3100.67,
+    "currency": "CHF",
+    "issue_date": "2026-01-03",
+    "reference": "REF-077801",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.756,
+        "value": 2762.03,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 3,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.884,
+        "value": 338.64,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_country": "United Kingdom",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "816-08643875-2",
+    "entry_type": "Formal Entry",
+    "duty_rate": 15.4,
+    "estimated_duty": 477.5,
+    "importer_ein": "78-9118078",
+    "customs_broker": "Clark International Ltd"
+  }
+}

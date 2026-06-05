@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0319",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Costa Ltd",
+    "shipper_address": "2779 Jonathan Brooks Apt. 222, Campbellside, GA 65009, France",
+    "shipper_country": "France",
+    "consignee_name": "Global Gomez B.V.",
+    "consignee_address": "5569 Mary Lock Suite 240, Port Michelleborough, RI 27043, Brazil",
+    "consignee_country": "Brazil",
+    "emergency_telephone": "+60 694-927-8751",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 4,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 42.18,
+        "qty_unit": "mL",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-610516",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 41,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 28.96,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-471074",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Jerry Chapman",
+    "signature_date": "2026-05-02",
+    "signature_place": "France",
+    "awb_number": "125-74392731",
+    "flight_number": "UA4511",
+    "flight_date": "2026-06-11",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson"
+  }
+}

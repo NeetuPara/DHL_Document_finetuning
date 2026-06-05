@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0518",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kevin Carrillo",
+    "addressee_company": "International Atkinson B.V.",
+    "addressee_address": "981 Miller Light Suite 176, Lake Joshua, KY 59701, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 5.278,
+    "total_value": 5665.27,
+    "currency": "JPY",
+    "issue_date": "2026-01-01",
+    "reference": "REF-539492",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.074,
+        "value": 2170.9,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 19,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.769,
+        "value": 2421.93,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 4,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.149,
+        "value": 43.24,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 8,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.286,
+        "value": 1029.2,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "Amy Walters",
+    "sender_company": "Jackson International Pte Ltd",
+    "sender_address": "Unit 0929 Box 3521, DPO AP 31489, Italy",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 6231.8,
+    "postal_charges": 38.52,
+    "tracking_number": "QR462914838QB"
+  }
+}

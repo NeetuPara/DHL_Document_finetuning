@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0108",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202304-2140",
+    "usppi_name": "International Christensen Co.",
+    "usppi_address": "4256 Garcia Inlet Suite 261, Port Christystad, MP 34270, United Kingdom",
+    "usppi_country": "United Kingdom",
+    "ein": "86-4319165",
+    "consignee_name": "Pacific Farrell Ltd",
+    "consignee_address": "1409 Evans Place Suite 156, North Megan, IN 75027, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Pacific Jordan Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Melissa Moreno",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/9",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 9,
+        "unit": "PCS",
+        "weight_kg": 0.82,
+        "value_usd": 257.98
+      },
+      {
+        "marks": "SLI/40",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 26,
+        "unit": "PKG",
+        "weight_kg": 56.26,
+        "value_usd": 1226.37
+      },
+      {
+        "marks": "EXP/49",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 30,
+        "unit": "PCS",
+        "weight_kg": 35.29,
+        "value_usd": 5388.97
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 50,
+        "unit": "PCS",
+        "weight_kg": 750.74,
+        "value_usd": 7119.08
+      },
+      {
+        "marks": "SLI/27",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 156,
+        "unit": "KGS",
+        "weight_kg": 156.0,
+        "value_usd": 2839.01
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 44,
+        "unit": "MTR",
+        "weight_kg": 50.75,
+        "value_usd": 597.91
+      },
+      {
+        "marks": "EXP/1",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 158,
+        "unit": "LTR",
+        "weight_kg": 163.95,
+        "value_usd": 1963.95
+      }
+    ],
+    "total_weight_kg": 1213.81,
+    "total_value_usd": 19393.27,
+    "vessel": "MADRID MAERSK",
+    "voyage": "704W",
+    "booking_ref": "BKG-205477",
+    "bl_number": "EGLV133097400",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Singapore, SG",
+    "container_number": "FYTD8016143",
+    "seal_number": "BL809465",
+    "container_type": "20'GP",
+    "cbm": 17.209
+  }
+}

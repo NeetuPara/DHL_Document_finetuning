@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0874",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jennifer Holt",
+    "addressee_company": "Medina International LLC",
+    "addressee_address": "206 Barajas Plains Suite 842, New Robert, WA 37625, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 7.523,
+    "total_value": 3265.93,
+    "currency": "USD",
+    "issue_date": "2026-05-08",
+    "reference": "REF-849429",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.057,
+        "value": 162.72,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 11,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.743,
+        "value": 1591.48,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 11,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.723,
+        "value": 1511.73,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Canada"
+      }
+    ],
+    "sender_name": "Victoria Sherman",
+    "sender_company": "Global Bridges GmbH",
+    "sender_address": "Unit 8385 Box 2812, DPO AE 88845, Spain",
+    "sender_phone": "(817)693-2577x215",
+    "sender_email": "zpage@example.org",
+    "addressee_phone": "(283)207-7489x1253",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 3592.52,
+    "postal_charges": 24.89,
+    "tracking_number": "NE050429345FS"
+  }
+}

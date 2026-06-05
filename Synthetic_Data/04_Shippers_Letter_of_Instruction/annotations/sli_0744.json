@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0744",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202306-5658",
+    "usppi_name": "Rivera Global S.A.",
+    "usppi_address": "8474 Parker Street Apt. 846, South Michaelbury, AR 58048, Italy",
+    "usppi_country": "Italy",
+    "ein": "56-3736590",
+    "consignee_name": "Barrett International Ltd",
+    "consignee_address": "84810 Jessica Summit, Port Abigailfort, SD 40004, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Tech Myers Pte Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5A002",
+    "signatory_name": "Diana Cabrera",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/11",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 11,
+        "unit": "BOX",
+        "weight_kg": 5.67,
+        "value_usd": 774.76
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 160,
+        "unit": "PCS",
+        "weight_kg": 203.23,
+        "value_usd": 110695.43
+      },
+      {
+        "marks": "SLI/19",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 95,
+        "unit": "SET",
+        "weight_kg": 155.34,
+        "value_usd": 15044.94
+      }
+    ],
+    "total_weight_kg": 364.24,
+    "total_value_usd": 126515.13,
+    "vessel": "EVER GOLDEN",
+    "voyage": "229S",
+    "booking_ref": "BKG-451488",
+    "bl_number": "YMLU440996682",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Rotterdam, NL",
+    "container_number": "ABJC3312687",
+    "seal_number": "CL502178",
+    "container_type": "45'HC",
+    "cbm": 11.203
+  }
+}

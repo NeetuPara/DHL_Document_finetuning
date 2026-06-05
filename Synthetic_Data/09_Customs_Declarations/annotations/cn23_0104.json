@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0104",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Rebecca Ross",
+    "addressee_company": "Gomez Pacific B.V.",
+    "addressee_address": "4291 Brown Lodge, New Ashleyfort, AZ 14256, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 9.745,
+    "total_value": 3732.75,
+    "currency": "SGD",
+    "issue_date": "2026-01-16",
+    "reference": "REF-108372",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.781,
+        "value": 524.5,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 7,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.178,
+        "value": 686.91,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 8,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.658,
+        "value": 610.48,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 14,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.128,
+        "value": 1910.86,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Scott Cantu",
+    "sender_company": "Industry Jones S.A.",
+    "sender_address": "1424 Knox Garden, West Dana, DC 06813, Mexico",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 36.17,
+    "tracking_number": "EA172344651AZ"
+  }
+}

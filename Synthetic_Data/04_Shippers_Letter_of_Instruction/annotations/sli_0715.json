@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0715",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202106-8036",
+    "usppi_name": "Commerce Walker B.V.",
+    "usppi_address": "654 John Rapids, Lake Mary, MA 08980, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "24-5124002",
+    "consignee_name": "Jones International LLC",
+    "consignee_address": "1174 Holt Islands, South Gabriela, OR 27865, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Trade Johnson Co.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Connor Durham",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/5",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 58,
+        "unit": "PCS",
+        "weight_kg": 50.51,
+        "value_usd": 69941.45
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 62,
+        "unit": "PKG",
+        "weight_kg": 48.15,
+        "value_usd": 2311.26
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 29,
+        "unit": "BOX",
+        "weight_kg": 43.84,
+        "value_usd": 3328.58
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 184,
+        "unit": "SET",
+        "weight_kg": 200.25,
+        "value_usd": 29383.11
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 82,
+        "unit": "LTR",
+        "weight_kg": 84.81,
+        "value_usd": 1942.59
+      }
+    ],
+    "total_weight_kg": 427.56,
+    "total_value_usd": 106906.99,
+    "service": "LCL Ocean",
+    "named_port": "Tanjung Pelepas, MY",
+    "insurance_value_usd": 2273.53,
+    "license_type": "Distributor License",
+    "license_number": "LIC-307441",
+    "destination_country": "Singapore"
+  }
+}

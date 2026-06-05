@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0656",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Global Murphy B.V.",
+    "shipper_address": "094 Jason Hollow, Johnmouth, VA 65467, Sweden",
+    "shipper_country": "Sweden",
+    "container_number": "QMEA7077480",
+    "seal_number": "CL930810",
+    "container_size": "20'RF",
+    "iso_type_code": "22R1",
+    "tare_weight_kg": 3100,
+    "cargo_weight_kg": 7875.0,
+    "packing_materials_kg": 222.4,
+    "vgm_kg": 11197.4,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "843W",
+    "bl_number": "OOLU655636804",
+    "booking_reference": "BKG-145076",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-48293",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-25",
+    "signature_date": "2026-05-07",
+    "signatory_name": "Amy Jones",
+    "signatory_title": "Shipping Coordinator",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Pallet",
+        "n_units": 14,
+        "gross_wt_kg": 1578.1
+      },
+      {
+        "item_no": 2,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Pallet",
+        "n_units": 16,
+        "gross_wt_kg": 529.1
+      },
+      {
+        "item_no": 3,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Crate",
+        "n_units": 11,
+        "gross_wt_kg": 1976.2
+      },
+      {
+        "item_no": 4,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Drum",
+        "n_units": 3,
+        "gross_wt_kg": 1281.8
+      },
+      {
+        "item_no": 5,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Cylinder",
+        "n_units": 16,
+        "gross_wt_kg": 2509.8
+      }
+    ]
+  }
+}

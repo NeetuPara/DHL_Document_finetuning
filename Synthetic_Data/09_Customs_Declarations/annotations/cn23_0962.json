@@ -1,0 +1,75 @@
+{
+  "document_id": "cn23_0962",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Miranda Diaz",
+    "addressee_company": "Williams Trade GmbH",
+    "addressee_address": "16879 Williams Walk Apt. 342, Angelafurt, DC 05290, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 14.418,
+    "total_value": 5878.83,
+    "currency": "EUR",
+    "issue_date": "2025-07-12",
+    "reference": "REF-812645",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.676,
+        "value": 1638.6,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 16,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.476,
+        "value": 656.8,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 1,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.812,
+        "value": 98.48,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 13,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.15,
+        "value": 1688.83,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 12,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.064,
+        "value": 1237.92,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 4,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.24,
+        "value": 558.2,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "John Ward",
+    "sender_company": "Watson International Co.",
+    "sender_address": "912 Adams Divide Suite 971, Port Donald, CA 25471, France",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 53.41,
+    "tracking_number": "KO032026455CE"
+  }
+}

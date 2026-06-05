@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0329",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU187800236",
+    "shipper_name": "Trade Morton Inc.",
+    "shipper_address": "7562 Felicia View, North Walter, IL 44487, France",
+    "shipper_country": "France",
+    "consignee_name": "Pacific Taylor Inc.",
+    "consignee_address": "09898 Sampson River Apt. 357, Port Anthonyborough, PA 25437, Spain",
+    "consignee_country": "Spain",
+    "notify_party_name": "Industry Browning B.V.",
+    "notify_party_address": "218 Ricardo Spur Apt. 668, Hartbury, SD 66573, Malaysia",
+    "vessel": "ONE INNOVATION",
+    "voyage": "879E",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "Hong Kong, HK",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2025-10-19",
+    "issue_place": "Long Beach",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "ZHNR7055597",
+        "seal_no": "SL452163",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "IPVD1680120",
+        "seal_no": "CL214642",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "JSZL2997922",
+        "seal_no": "SL459374",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "SILF0293518",
+        "seal_no": "CL836373",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 473,
+    "package_type": "Roll",
+    "gross_weight_kg": 12655.0,
+    "net_weight_kg": 11848.6,
+    "cbm": 24.623,
+    "marks_and_numbers": "XYZ/40"
+  }
+}

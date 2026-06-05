@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0010",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Laura Solis",
+    "addressee_company": "Deleon Pacific Pte Ltd",
+    "addressee_address": "931 Ryan Path, Timothyberg, AZ 58458, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 4.069,
+    "total_value": 1696.69,
+    "currency": "EUR",
+    "issue_date": "2026-01-10",
+    "reference": "REF-022795",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.331,
+        "value": 748.02,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 19,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 0.738,
+        "value": 948.67,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "James Lloyd",
+    "sender_company": "Trade May B.V.",
+    "sender_address": "119 Cooper Meadow Suite 182, Kimberlyland, GA 93913, Belgium",
+    "sender_phone": "222.520.6149x5690",
+    "sender_email": "bauerolivia@example.net",
+    "addressee_phone": "+1-619-813-6484",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 26.16,
+    "tracking_number": "VU538687869OF"
+  }
+}

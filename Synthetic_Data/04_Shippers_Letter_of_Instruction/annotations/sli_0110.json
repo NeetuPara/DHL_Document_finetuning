@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0110",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202404-8214",
+    "usppi_name": "Benjamin Tech Ltd",
+    "usppi_address": "855 Donald Islands, Jeremyview, CT 56059, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "39-9658625",
+    "consignee_name": "Industry Johnson Pte Ltd",
+    "consignee_address": "297 Mccann Field Suite 327, Port Anaton, AR 31647, France",
+    "consignee_country": "France",
+    "notify_party": "Pacific Conway Corp.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Felicia Gonzales",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/24",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 167,
+        "unit": "KGS",
+        "weight_kg": 167.0,
+        "value_usd": 1701.69
+      },
+      {
+        "marks": "ABC/12",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 127,
+        "unit": "PCS",
+        "weight_kg": 355.93,
+        "value_usd": 72974.54
+      },
+      {
+        "marks": "EXP/38",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 80,
+        "unit": "CTN",
+        "weight_kg": 136.95,
+        "value_usd": 4565.81
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 111,
+        "unit": "KGS",
+        "weight_kg": 111.0,
+        "value_usd": 261.54
+      }
+    ],
+    "total_weight_kg": 770.88,
+    "total_value_usd": 79503.58,
+    "service": "Ground",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 18297.99,
+    "license_type": "Distributor License",
+    "license_number": "LIC-944210",
+    "destination_country": "France"
+  }
+}

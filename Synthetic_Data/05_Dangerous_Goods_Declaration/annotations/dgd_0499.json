@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0499",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Shaffer International Ltd",
+    "shipper_address": "75577 Brooks Square Apt. 215, Travisside, IA 53027, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Valentine Industry AG",
+    "consignee_address": "187 Peggy Ports, Clarkstad, CO 94166, Japan",
+    "consignee_country": "Japan",
+    "emergency_telephone": "+34 738-121-1830",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 46,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 80.72,
+        "qty_unit": "g",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 20,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 4.92,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-816408",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Greg Rivera",
+    "signature_date": "2026-04-20",
+    "signature_place": "Singapore",
+    "awb_number": "085-96404571",
+    "flight_number": "SQ5670",
+    "flight_date": "2026-04-15",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "ICN",
+    "destination_airport_name": "Seoul Incheon"
+  }
+}

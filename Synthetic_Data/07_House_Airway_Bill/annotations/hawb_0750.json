@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0750",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-17631932",
+    "mawb_number": "074-92022339",
+    "shipper_name": "Harris International GmbH",
+    "shipper_address": "673 Robert Spurs Suite 197, Adrianaside, FM 04236, Germany",
+    "consignee_name": "Cardenas Commerce GmbH",
+    "consignee_address": "24209 Sloan Courts Suite 972, Port Kristin, UT 67761, Netherlands",
+    "agent_name": "Industry Gibson B.V.",
+    "airport_departure": "FRA",
+    "airport_destination": "AMS",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "SGD 44,468.12",
+    "declared_value_customs": "NCV",
+    "n_pieces": 44,
+    "gross_weight_kg": 293.1,
+    "chargeable_weight": 350.1,
+    "rate": 8.08,
+    "total_charge": 2828.81,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-04-14",
+    "signatory": "Angela Wallace",
+    "iata_code": "31-188",
+    "agent_cass": "3224-6760",
+    "consolidation_ref": "CONS-0602-722333",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-40116533",
+        "pieces": 12,
+        "weight": 98.0,
+        "destination": "DXB",
+        "consignee": "Global Parker S.A.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "125-70944358",
+        "pieces": 9,
+        "weight": 27.4,
+        "destination": "DXB",
+        "consignee": "Global Church GmbH",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "074-90947044",
+        "pieces": 6,
+        "weight": 56.6,
+        "destination": "AMS",
+        "consignee": "Holmes International Pte Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "160-44190013",
+        "pieces": 3,
+        "weight": 8.9,
+        "destination": "FRA",
+        "consignee": "Miller International LLC",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "160-39231584",
+        "pieces": 17,
+        "weight": 18.6,
+        "destination": "CDG",
+        "consignee": "Thomas Commerce Pte Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "045-74225929",
+        "pieces": 11,
+        "weight": 6.2,
+        "destination": "PVG",
+        "consignee": "Crawford Commerce Co.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "618-63279439",
+        "pieces": 13,
+        "weight": 44.7,
+        "destination": "HKG",
+        "consignee": "Price Pacific B.V.",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

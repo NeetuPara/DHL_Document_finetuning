@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0280",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Antonio Cunningham",
+    "addressee_company": "Smith Trade Corp.",
+    "addressee_address": "278 Benson Stravenue Suite 813, Port Nicholas, MS 98942, United Kingdom",
+    "addressee_country": "United Kingdom",
+    "total_weight_kg": 7.16,
+    "total_value": 4910.52,
+    "currency": "CHF",
+    "issue_date": "2026-03-30",
+    "reference": "REF-135506",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.662,
+        "value": 1800.0,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 20,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.08,
+        "value": 2708.0,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 4,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.418,
+        "value": 402.52,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "Craig Hall",
+    "sender_company": "Pacific Craig Ltd",
+    "sender_address": "572 Lowe Square, West Courtney, MT 45919, Mexico",
+    "sender_phone": "001-683-817-5550x44235",
+    "sender_email": "vancekevin@example.com",
+    "addressee_phone": "371-582-2988",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 58.04,
+    "tracking_number": "ZW358742466CJ"
+  }
+}

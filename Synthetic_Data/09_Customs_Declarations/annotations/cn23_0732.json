@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0732",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Tim Franco",
+    "addressee_company": "Gonzalez Industry S.A.",
+    "addressee_address": "1198 Lindsey Cliff Apt. 497, Lake Anna, WY 46495, Sweden",
+    "addressee_country": "Sweden",
+    "total_weight_kg": 2.583,
+    "total_value": 1514.5,
+    "currency": "AED",
+    "issue_date": "2025-11-19",
+    "reference": "REF-609311",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 0.167,
+        "value": 795.96,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 7,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.176,
+        "value": 509.32,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 2,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.24,
+        "value": 209.22,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_country": "Canada",
+    "port_of_entry": "Chicago, IL",
+    "entry_number": "780-15121005-7",
+    "entry_type": "Formal Entry",
+    "duty_rate": 8.6,
+    "estimated_duty": 130.25,
+    "importer_ein": "93-3589442",
+    "customs_broker": "Pacific Huynh Pte Ltd"
+  }
+}

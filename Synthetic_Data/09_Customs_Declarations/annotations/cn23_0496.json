@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0496",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jose Miller",
+    "addressee_company": "Cross Global Co.",
+    "addressee_address": "USS Nelson, FPO AA 50877, United Kingdom",
+    "addressee_country": "United Kingdom",
+    "total_weight_kg": 13.904,
+    "total_value": 4564.88,
+    "currency": "USD",
+    "issue_date": "2025-12-29",
+    "reference": "REF-417863",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.212,
+        "value": 2621.52,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 2,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.822,
+        "value": 30.24,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 10,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.968,
+        "value": 365.4,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 9,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.61,
+        "value": 889.38,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 8,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.671,
+        "value": 631.76,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 6,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.621,
+        "value": 26.58,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_name": "Rebecca Kennedy",
+    "sender_company": "Sanchez Industry Inc.",
+    "sender_address": "517 Lewis Keys Apt. 990, Bowmanberg, IA 74257, Canada",
+    "sender_phone": "224.357.7394x198",
+    "sender_email": "fwood@example.net",
+    "addressee_phone": "(284)876-7462",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 5021.37,
+    "postal_charges": 17.06,
+    "tracking_number": "VI171441128AT"
+  }
+}

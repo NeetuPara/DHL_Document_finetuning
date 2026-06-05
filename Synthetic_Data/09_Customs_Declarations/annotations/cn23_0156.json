@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0156",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Julia Patrick",
+    "addressee_company": "Scott Global GmbH",
+    "addressee_address": "29856 Brent Pass Suite 302, West Waynefort, VA 87820, United Kingdom",
+    "addressee_country": "United Kingdom",
+    "total_weight_kg": 2.383,
+    "total_value": 2868.0,
+    "currency": "AUD",
+    "issue_date": "2025-11-05",
+    "reference": "REF-588986",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.011,
+        "value": 2004.64,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 8,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.372,
+        "value": 863.36,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_country": "South Korea",
+    "port_of_entry": "Chicago, IL",
+    "entry_number": "193-03886241-7",
+    "entry_type": "Formal Entry",
+    "duty_rate": 23.9,
+    "estimated_duty": 685.45,
+    "importer_ein": "13-6695215",
+    "customs_broker": "International Spears Ltd"
+  }
+}

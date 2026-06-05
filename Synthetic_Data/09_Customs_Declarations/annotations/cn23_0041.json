@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0041",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Michael Lee",
+    "addressee_company": "Trade Baird B.V.",
+    "addressee_address": "1059 Nguyen Way, New Kathleen, PW 68009, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 5.974,
+    "total_value": 3593.72,
+    "currency": "AED",
+    "issue_date": "2025-08-19",
+    "reference": "REF-554632",
+    "line_items": [
+      {
+        "qty": 13,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.164,
+        "value": 1242.8,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 15,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.134,
+        "value": 1801.8,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 4,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.909,
+        "value": 534.8,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 2,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.767,
+        "value": 14.32,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_name": "Karina Dunn",
+    "sender_company": "Commerce Contreras Co.",
+    "sender_address": "114 Jared Valley Apt. 394, Morrisland, NE 01966, India",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 7.56,
+    "tracking_number": "JQ684098702WW"
+  }
+}

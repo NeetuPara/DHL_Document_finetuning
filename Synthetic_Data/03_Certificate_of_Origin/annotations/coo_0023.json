@@ -1,0 +1,45 @@
+{
+  "document_id": "coo_0023",
+  "document_class": "Certificate of Origin",
+  "format_variant": "FTA-USMCA-Numbered-Fields",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202202-5825",
+    "exporter_name": "International Harrison GmbH",
+    "exporter_address": "3980 Mary Centers Suite 400, Lake Susan, SC 03347, United Kingdom",
+    "exporter_country": "United Kingdom",
+    "consignee_name": "Hernandez Commerce B.V.",
+    "consignee_address": "02753 Henderson Rest, Port Stevenland, TX 43321, Italy",
+    "consignee_country": "Italy",
+    "country_of_origin": "United Kingdom",
+    "country_of_destination": "Italy",
+    "bl_or_awb": "057-25609269",
+    "issue_date": "2025-05-16",
+    "certifier_name": "Brian Maxwell",
+    "goods": [
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 204,
+        "unit": "KGS",
+        "weight_kg": 204.0,
+        "origin_criterion": "C",
+        "value": 1004.7
+      },
+      {
+        "description": "Electronic Components - Printed Circuit Boards",
+        "hs_code": "8534.00.00",
+        "qty": 35,
+        "unit": "PCS",
+        "weight_kg": 8.38,
+        "origin_criterion": "F",
+        "value": 3206.51
+      }
+    ],
+    "fta_agreement": "USMCA",
+    "blanket_period_from": "2025-03-06",
+    "blanket_period_to": "2026-02-10",
+    "producer_name": "Global Becker Ltd",
+    "producer_country": "Hong Kong"
+  }
+}

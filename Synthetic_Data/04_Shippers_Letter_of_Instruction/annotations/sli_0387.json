@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0387",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202501-2086",
+    "usppi_name": "Industry Lee AG",
+    "usppi_address": "436 Jennifer Squares Apt. 510, South Jacobton, NV 33850, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "69-9743386",
+    "consignee_name": "Parsons Trade Ltd",
+    "consignee_address": "9196 Spencer Brook, West Katrinahaven, AR 06878, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Pacific Hall Inc.",
+    "forwarder": "Expeditors",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Richard Matthews",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/15",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 115,
+        "unit": "LTR",
+        "weight_kg": 121.67,
+        "value_usd": 1184.73
+      },
+      {
+        "marks": "SLI/17",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 154,
+        "unit": "BOX",
+        "weight_kg": 144.17,
+        "value_usd": 16250.11
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 19,
+        "unit": "SET",
+        "weight_kg": 73.56,
+        "value_usd": 2286.31
+      },
+      {
+        "marks": "SLI/27",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 67,
+        "unit": "CTN",
+        "weight_kg": 86.85,
+        "value_usd": 479.22
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 14,
+        "unit": "PCS",
+        "weight_kg": 113.61,
+        "value_usd": 3054.18
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 107,
+        "unit": "MTR",
+        "weight_kg": 101.34,
+        "value_usd": 1414.94
+      },
+      {
+        "marks": "ABC/13",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 166,
+        "unit": "PKG",
+        "weight_kg": 428.71,
+        "value_usd": 7606.8
+      },
+      {
+        "marks": "ABC/25",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 88,
+        "unit": "PCS",
+        "weight_kg": 129.85,
+        "value_usd": 1869.2
+      }
+    ],
+    "total_weight_kg": 1199.76,
+    "total_value_usd": 34145.49,
+    "vessel": "ONE INNOVATION",
+    "voyage": "478W",
+    "booking_ref": "BKG-751116",
+    "bl_number": "EGLV643496535",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Hamburg, DE",
+    "container_number": "RKNG4231737",
+    "seal_number": "BL469126",
+    "container_type": "20'GP",
+    "cbm": 30.482
+  }
+}

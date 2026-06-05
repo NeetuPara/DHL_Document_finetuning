@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0878",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Joshua Williams",
+    "addressee_company": "Lopez Industry Inc.",
+    "addressee_address": "06202 Austin Square Suite 161, Marymouth, OR 63715, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 7.317,
+    "total_value": 2003.82,
+    "currency": "SGD",
+    "issue_date": "2026-01-02",
+    "reference": "REF-731191",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.215,
+        "value": 1286.85,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 6,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.152,
+        "value": 359.16,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 3,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.95,
+        "value": 357.81,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Charles Weaver",
+    "sender_company": "Ramirez Pacific LLC",
+    "sender_address": "85697 Carol Court Suite 519, New Ruthmouth, AZ 08301, Switzerland",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 2204.2,
+    "postal_charges": 77.83,
+    "tracking_number": "KS236437779VS"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0120",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Wendy Weber",
+    "addressee_company": "Global Bell Inc.",
+    "addressee_address": "3837 Andrea Ports Apt. 914, West Chase, MT 24184, China",
+    "addressee_country": "China",
+    "total_weight_kg": 14.472,
+    "total_value": 4799.74,
+    "currency": "CHF",
+    "issue_date": "2025-11-21",
+    "reference": "REF-441898",
+    "line_items": [
+      {
+        "qty": 13,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.976,
+        "value": 944.84,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 8,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.855,
+        "value": 758.72,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 13,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.547,
+        "value": 104.78,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 20,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.094,
+        "value": 2991.4,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_country": "Spain",
+    "port_of_entry": "New York, NY",
+    "entry_number": "805-70073601-4",
+    "entry_type": "Informal Entry",
+    "duty_rate": 20.9,
+    "estimated_duty": 1003.15,
+    "importer_ein": "33-2675315",
+    "customs_broker": "Adkins Global Inc."
+  }
+}

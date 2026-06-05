@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0779",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20260513883848",
+    "export_date": "2025-08-07",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Shields Commerce Ltd",
+    "usppi_ein": "31-7444056",
+    "usppi_address": "0436 Amanda Heights Apt. 442, West Rodney, IN 41720, Spain",
+    "ultimate_consignee": "Tech Carroll AG",
+    "intermediate_consignee": "Tech Hays Inc.",
+    "forwarding_agent": "Kelly Global LLC",
+    "destination_country": "Malaysia",
+    "carrier": "UPS",
+    "bl_awb": "160-63577787",
+    "total_value": 84592.9,
+    "currency": "SGD",
+    "signatory": "Johnny Miller",
+    "line_items": [
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Germany",
+        "qty": 29,
+        "unit": "KGS",
+        "entered_value": 1033.27,
+        "duty_rate": 24.9,
+        "duty_amount": 257.28,
+        "eccn": "5E992",
+        "schedule_b": "2008.19.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Sweden",
+        "qty": 183,
+        "unit": "PCS",
+        "entered_value": 83559.63,
+        "duty_rate": 1.7,
+        "duty_amount": 1420.51,
+        "eccn": "2B350",
+        "schedule_b": "8518.30.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

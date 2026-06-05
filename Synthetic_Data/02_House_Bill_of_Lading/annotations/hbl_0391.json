@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0391",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU760024847",
+    "shipper_name": "Trade Anderson Pte Ltd",
+    "shipper_address": "3295 Bernard Rapids Apt. 776, South Victoria, AK 71727, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Morrison International GmbH",
+    "consignee_address": "USCGC Frederick, FPO AE 62710, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Tech Collins B.V.",
+    "notify_party_address": "76517 Kimberly Garden Apt. 727, East Robert, VI 97232, Spain",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "258N",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2026-02-14",
+    "issue_place": "Tokyo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "WHJD1919094",
+        "seal_no": "BL851248",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "MCMY1921953",
+        "seal_no": "SL939169",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "ZKFN6143898",
+        "seal_no": "SL931039",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 365,
+    "package_type": "Crate",
+    "gross_weight_kg": 6532.9,
+    "net_weight_kg": 5823.8,
+    "cbm": 38.331,
+    "marks_and_numbers": "GLB/22"
+  }
+}

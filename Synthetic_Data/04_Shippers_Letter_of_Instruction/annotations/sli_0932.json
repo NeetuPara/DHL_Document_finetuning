@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0932",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202004-5641",
+    "usppi_name": "Industry Vasquez GmbH",
+    "usppi_address": "99122 Elijah Ferry, South Samuel, FM 49808, Poland",
+    "usppi_country": "Poland",
+    "ein": "67-4475316",
+    "consignee_name": "Commerce Young AG",
+    "consignee_address": "8310 Mcgee Meadows Suite 832, Lake Caitlin, IL 52818, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Pacific Orr Co.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Kara Elliott",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/47",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 99,
+        "unit": "KGS",
+        "weight_kg": 99.0,
+        "value_usd": 160.88
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 168,
+        "unit": "CTN",
+        "weight_kg": 304.57,
+        "value_usd": 1908.7
+      }
+    ],
+    "total_weight_kg": 403.57,
+    "total_value_usd": 2069.58,
+    "service": "Air Freight",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 3531.26,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-483376",
+    "destination_country": "United Kingdom"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0645",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-86223039",
+    "mawb_number": "176-36317236",
+    "shipper_name": "Pacific Smith Pte Ltd",
+    "shipper_address": "756 Rogers Fords Suite 139, Mcculloughport, NV 76259, India",
+    "consignee_name": "Tech Wong LLC",
+    "consignee_address": "83357 Nicole Mills Suite 137, Maryview, LA 92413, Switzerland",
+    "agent_name": "Industry Clark LLC",
+    "airport_departure": "PVG",
+    "airport_destination": "ORD",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "GBP 27,827.09",
+    "n_pieces": 26,
+    "gross_weight_kg": 358.7,
+    "chargeable_weight": 381.9,
+    "rate": 6.12,
+    "total_charge": 2337.23,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "HANDLING CODE: AVI",
+    "issue_date": "2026-01-09",
+    "signatory": "Brian Ray",
+    "iata_code": "90-997",
+    "agent_cass": "0823-0390",
+    "consolidation_ref": "CONS-6148-261261",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-72665429",
+        "pieces": 13,
+        "weight": 58.7,
+        "destination": "YYZ",
+        "consignee": "Bryant Industry Co.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "125-46735289",
+        "pieces": 2,
+        "weight": 60.8,
+        "destination": "ICN",
+        "consignee": "Smith Trade Corp.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "020-68947163",
+        "pieces": 17,
+        "weight": 67.8,
+        "destination": "YYZ",
+        "consignee": "Global Gordon LLC",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "125-73939024",
+        "pieces": 10,
+        "weight": 58.4,
+        "destination": "MIA",
+        "consignee": "Pacific Scott Co.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "125-58090973",
+        "pieces": 2,
+        "weight": 1.2,
+        "destination": "MIA",
+        "consignee": "Barton Trade LLC",
+        "description": "Industrial Machinery Parts - Steel "
+      }
+    ]
+  }
+}

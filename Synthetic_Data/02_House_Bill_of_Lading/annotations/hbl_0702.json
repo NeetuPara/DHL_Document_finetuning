@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0702",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU817371052",
+    "shipper_name": "Ray Trade Pte Ltd",
+    "shipper_address": "852 Brown Light, North Kyle, AS 15051, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Pacific Callahan AG",
+    "consignee_address": "86844 Larry Hill, Heidiport, MD 16266, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party_name": "Fisher International AG",
+    "notify_party_address": "491 Megan Loaf Suite 717, East Katherine, GA 42564, Canada",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "246S",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2026-05-05",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "ADKC2401640",
+        "seal_no": "SL873607",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "WNYQ0436753",
+        "seal_no": "SL962512",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "MQUT8698320",
+        "seal_no": "CL480239",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "number_of_packages": 394,
+    "package_type": "Bundle",
+    "gross_weight_kg": 20179.0,
+    "net_weight_kg": 18524.0,
+    "cbm": 11.986,
+    "marks_and_numbers": "XYZ/28"
+  }
+}

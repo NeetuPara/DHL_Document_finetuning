@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0028",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Ray Corp.",
+    "shipper_address": "8415 King Keys, New Elizabethborough, PA 16688, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "International Andersen Ltd",
+    "consignee_address": "86451 Theresa Overpass, Leahside, NM 08503, Japan",
+    "consignee_country": "Japan",
+    "emergency_telephone": "+80 590-922-6649",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 22,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 98.48,
+        "qty_unit": "L",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 20,
+        "pkg_type": "Steel Drum",
+        "net_qty": 48.72,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-410754",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Mr. Charles Carpenter",
+    "signature_date": "2026-04-21",
+    "signature_place": "Sweden",
+    "awb_number": "074-78416755",
+    "flight_number": "SQ419",
+    "flight_date": "2026-05-01",
+    "departure_airport_code": "LAX",
+    "departure_airport_name": "Los Angeles International",
+    "destination_airport_code": "CDG",
+    "destination_airport_name": "Paris CDG"
+  }
+}

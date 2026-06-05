@@ -1,0 +1,42 @@
+{
+  "document_id": "coo_0102",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202403-4372",
+    "exporter_name": "Pacific Ramirez Co.",
+    "exporter_address": "PSC 9037, Box 0734, APO AP 77747, Brazil",
+    "exporter_country": "Brazil",
+    "consignee_name": "Trade Peters Co.",
+    "consignee_address": "533 White Expressway Suite 724, Christophershire, AL 95097, France",
+    "consignee_country": "France",
+    "country_of_origin": "Brazil",
+    "country_of_destination": "France",
+    "bl_or_awb": "DHLG583746227",
+    "issue_date": "2024-07-05",
+    "certifier_name": "Mr. Michael Meyer",
+    "goods": [
+      {
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "hs_code": "2936.90.00",
+        "qty": 267,
+        "unit": "BOX",
+        "weight_kg": 253.5,
+        "origin_criterion": "B",
+        "value": 18649.41
+      },
+      {
+        "description": "Wooden Furniture - Office Chairs",
+        "hs_code": "9401.30.00",
+        "qty": 294,
+        "unit": "PCS",
+        "weight_kg": 3677.06,
+        "origin_criterion": "D",
+        "value": 111452.19
+      }
+    ],
+    "fta_agreement": "RCEP",
+    "chamber": "Export Council"
+  }
+}

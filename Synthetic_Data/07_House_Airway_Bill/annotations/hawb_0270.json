@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0270",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-67748453",
+    "mawb_number": "618-65403653",
+    "shipper_name": "Global Frazier GmbH",
+    "shipper_address": "0327 Lisa Gardens, Christineberg, AZ 44036, France",
+    "consignee_name": "Harper Commerce Inc.",
+    "consignee_address": "USNV Neal, FPO AP 87957, Mexico",
+    "agent_name": "Pacific Arnold Inc.",
+    "airport_departure": "SYD",
+    "airport_destination": "HKG",
+    "currency": "CHF",
+    "charge_code": "PP",
+    "declared_value_carriage": "CAD 33,816.67",
+    "declared_value_customs": "USD 23,453.44",
+    "n_pieces": 16,
+    "gross_weight_kg": 485.7,
+    "chargeable_weight": 599.9,
+    "rate": 3.62,
+    "total_charge": 2171.64,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-10-15",
+    "signatory": "Michelle Hunt",
+    "iata_code": "47-061",
+    "agent_cass": "1826-1478",
+    "consolidation_ref": "CONS-4618-357627",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-26330091",
+        "pieces": 18,
+        "weight": 94.0,
+        "destination": "DXB",
+        "consignee": "Commerce Downs Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "074-43749112",
+        "pieces": 18,
+        "weight": 64.1,
+        "destination": "JFK",
+        "consignee": "Commerce Coleman Co.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "057-53775877",
+        "pieces": 15,
+        "weight": 38.1,
+        "destination": "AMS",
+        "consignee": "International Vega Ltd",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "045-10139470",
+        "pieces": 4,
+        "weight": 72.7,
+        "destination": "LHR",
+        "consignee": "Walters Pacific GmbH",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "618-45286371",
+        "pieces": 9,
+        "weight": 99.9,
+        "destination": "MIA",
+        "consignee": "Trade Steele Corp.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "176-15339058",
+        "pieces": 9,
+        "weight": 85.7,
+        "destination": "JFK",
+        "consignee": "Smith Global AG",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

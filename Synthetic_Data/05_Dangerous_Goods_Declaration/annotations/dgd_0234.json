@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0234",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Figueroa Global AG",
+    "shipper_address": "5321 Mark Road, Lake Michaelmouth, WY 09011, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Global Brown Co.",
+    "consignee_address": "78951 Taylor Junctions Apt. 437, South Phillipview, IL 21505, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+92 547-212-6677",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 15,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 86.65,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-795982",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Travis Walker",
+    "signature_date": "2026-05-05",
+    "signature_place": "South Korea",
+    "awb_number": "006-88982104",
+    "flight_number": "DL3105",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

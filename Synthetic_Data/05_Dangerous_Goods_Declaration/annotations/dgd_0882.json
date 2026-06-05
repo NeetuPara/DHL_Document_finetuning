@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0882",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Chambers Commerce AG",
+    "shipper_address": "5433 Erin Roads Apt. 324, Kristenville, NE 68862, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "International Howe Ltd",
+    "consignee_address": "3208 Shawn Overpass Apt. 185, Lake Brianburgh, NM 27167, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+67 256-959-2294",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 50,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 86.85,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Amanda Jones",
+    "signature_date": "2026-04-30",
+    "signature_place": "Belgium",
+    "awb_number": "057-48860619",
+    "flight_number": "DL2971",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

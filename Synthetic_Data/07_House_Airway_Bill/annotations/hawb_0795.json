@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0795",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-29949914",
+    "mawb_number": "057-85156391",
+    "shipper_name": "International Gordon B.V.",
+    "shipper_address": "83761 Reyes Dale, Andersonville, AR 97039, Poland",
+    "consignee_name": "Munoz International Co.",
+    "consignee_address": "80475 Williamson Light Apt. 561, Ellisland, KS 38688, Malaysia",
+    "agent_name": "Flores Tech Corp.",
+    "airport_departure": "LHR",
+    "airport_destination": "HKG",
+    "currency": "CAD",
+    "charge_code": "PP",
+    "declared_value_carriage": "JPY 48,755.42",
+    "declared_value_customs": "NCV",
+    "n_pieces": 34,
+    "gross_weight_kg": 329.2,
+    "chargeable_weight": 383.6,
+    "rate": 10.46,
+    "total_charge": 4012.46,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-03-05",
+    "signatory": "Joanne Moore",
+    "iata_code": "83-697",
+    "agent_cass": "9828-4842",
+    "consolidation_ref": "CONS-5793-152399",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-90249157",
+        "pieces": 14,
+        "weight": 97.0,
+        "destination": "JFK",
+        "consignee": "Commerce Cochran AG",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "160-44051246",
+        "pieces": 11,
+        "weight": 68.1,
+        "destination": "HKG",
+        "consignee": "International Allen Inc.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "006-22317914",
+        "pieces": 14,
+        "weight": 82.0,
+        "destination": "PVG",
+        "consignee": "Pacific Bates Corp.",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

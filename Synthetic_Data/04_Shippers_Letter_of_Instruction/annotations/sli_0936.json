@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0936",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202103-8923",
+    "usppi_name": "Rogers Industry GmbH",
+    "usppi_address": "216 Allen Circles Apt. 447, Boydburgh, VT 35698, France",
+    "usppi_country": "France",
+    "ein": "47-5136954",
+    "consignee_name": "Wagner Trade B.V.",
+    "consignee_address": "397 Hernandez Streets Apt. 998, Bestfort, OK 74738, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Gordon Tech Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Marc Rowland",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/33",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 116,
+        "unit": "PKG",
+        "weight_kg": 184.95,
+        "value_usd": 7083.24
+      },
+      {
+        "marks": "EXP/14",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 97,
+        "unit": "MTR",
+        "weight_kg": 107.29,
+        "value_usd": 874.42
+      },
+      {
+        "marks": "ABC/37",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 68,
+        "unit": "KGS",
+        "weight_kg": 68.0,
+        "value_usd": 125.33
+      }
+    ],
+    "total_weight_kg": 360.24,
+    "total_value_usd": 8082.99,
+    "vessel": "ONE INNOVATION",
+    "voyage": "603E",
+    "booking_ref": "BKG-590013",
+    "bl_number": "COSU719485100",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "YAHZ4028048",
+    "seal_number": "BL282795",
+    "container_type": "40'HC",
+    "cbm": 20.967
+  }
+}

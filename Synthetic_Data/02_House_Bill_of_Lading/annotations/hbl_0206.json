@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0206",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU454075429",
+    "shipper_name": "Commerce Wilson AG",
+    "shipper_address": "PSC 0243, Box 4500, APO AA 81437, India",
+    "shipper_country": "India",
+    "consignee_name": "Industry Beck Ltd",
+    "consignee_address": "384 Lewis Estates, Port Lisa, CT 31694, Italy",
+    "consignee_country": "Italy",
+    "notify_party_name": "Tech Farmer Pte Ltd",
+    "notify_party_address": "048 Jones Port, Port Gregory, MN 82047, Italy",
+    "vessel": "PIL PACIFIC",
+    "voyage": "761N",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2024-08-14",
+    "issue_place": "New York",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "IFHX7206672",
+        "seal_no": "BL983220",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "SJKU9107337",
+        "seal_no": "CL520529",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 182,
+    "package_type": "Bag",
+    "gross_weight_kg": 9021.6,
+    "net_weight_kg": 8392.2,
+    "cbm": 19.372,
+    "marks_and_numbers": "XYZ/10"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0280",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU661334844",
+    "shipper_name": "Gregory Tech LLC",
+    "shipper_address": "77975 Brian Crescent, Bowerston, CO 61161, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Tech Ballard Corp.",
+    "consignee_address": "18398 Dennis Common, South Gabriel, GU 25851, India",
+    "consignee_country": "India",
+    "notify_party_name": "Global Salazar Inc.",
+    "notify_party_address": "7481 Michael Inlet Apt. 210, Port Michaelburgh, DE 56701, Canada",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "623N",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2025-09-28",
+    "issue_place": "Busan",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "RLOQ4134660",
+        "seal_no": "CL767600",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "SAOK2674223",
+        "seal_no": "CL306279",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "ZBZS6891722",
+        "seal_no": "CL724259",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 420,
+    "package_type": "Drum",
+    "gross_weight_kg": 15093.3,
+    "net_weight_kg": 13799.3,
+    "cbm": 44.568,
+    "marks_and_numbers": "ABC/43"
+  }
+}

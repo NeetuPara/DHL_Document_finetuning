@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0054",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Wells Pte Ltd",
+    "shipper_address": "049 Flores River Apt. 604, Walkerhaven, MI 07842, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Robinson Pacific S.A.",
+    "consignee_address": "553 Johnson Mount, North Christopher, UT 82617, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+82 704-897-2349",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 29,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 15.93,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-808574",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 22,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 24.42,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-875893",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Eric Benton",
+    "signature_date": "2026-04-21",
+    "signature_place": "Malaysia",
+    "awb_number": "057-51707307",
+    "flight_number": "CX1167",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

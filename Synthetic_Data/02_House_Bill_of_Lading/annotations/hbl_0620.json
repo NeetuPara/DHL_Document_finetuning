@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0620",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU800144935",
+    "shipper_name": "Peterson Tech Corp.",
+    "shipper_address": "9884 Lindsey Key, Moonbury, ID 29235, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Global Smith Inc.",
+    "consignee_address": "195 Jimenez Field Apt. 795, Antoniobury, FL 85818, Japan",
+    "consignee_country": "Japan",
+    "notify_party_name": "Owen International Corp.",
+    "notify_party_address": "5419 Barbara Locks, Walkerhaven, NV 33967, Japan",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "115S",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2025-01-12",
+    "issue_place": "Busan",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "MMDG5910885",
+        "seal_no": "SL384591",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "ZIOZ4253928",
+        "seal_no": "SL654533",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 479,
+    "package_type": "Bag",
+    "gross_weight_kg": 16947.8,
+    "net_weight_kg": 15679.4,
+    "cbm": 33.968,
+    "marks_and_numbers": "XYZ/6"
+  }
+}

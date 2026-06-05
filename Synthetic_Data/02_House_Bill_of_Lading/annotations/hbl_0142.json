@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0142",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV828723054",
+    "shipper_name": "Brennan Global GmbH",
+    "shipper_address": "18426 Baxter Extensions, Allenburgh, OK 77905, France",
+    "shipper_country": "France",
+    "consignee_name": "Walter Pacific Co.",
+    "consignee_address": "851 Jennifer Isle, West Jeanchester, WY 44085, China",
+    "consignee_country": "China",
+    "notify_party_name": "Ryan Commerce S.A.",
+    "notify_party_address": "928 Nathan Fort, Port John, ME 83734, Singapore",
+    "vessel": "CSCL GLOBE",
+    "voyage": "332S",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2025-12-09",
+    "issue_place": "Qingdao",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "GNZS9569283",
+        "seal_no": "SL144872",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "LEKB2336955",
+        "seal_no": "SL143474",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "PSJB8162711",
+        "seal_no": "CL497200",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 183,
+    "package_type": "Case",
+    "gross_weight_kg": 2053.9,
+    "net_weight_kg": 1930.7,
+    "cbm": 8.373,
+    "marks_and_numbers": "GLB/30"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0291",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-99553069",
+    "mawb_number": "020-10181826",
+    "shipper_name": "Brown Trade S.A.",
+    "shipper_address": "633 David Coves Apt. 801, Travisbury, MT 07374, Brazil",
+    "consignee_name": "Benson Industry Inc.",
+    "consignee_address": "84615 Christopher Fords Apt. 261, North Davidberg, PW 02327, Sweden",
+    "agent_name": "Mclaughlin Industry Corp.",
+    "airport_departure": "AMS",
+    "airport_destination": "LHR",
+    "currency": "GBP",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 27,
+    "gross_weight_kg": 276.8,
+    "chargeable_weight": 316.7,
+    "rate": 6.2,
+    "total_charge": 1963.54,
+    "nature_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-12-12",
+    "signatory": "Christopher Collins",
+    "iata_code": "30-567",
+    "agent_cass": "0445-7447",
+    "consolidation_ref": "CONS-4565-108878",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-17444643",
+        "pieces": 1,
+        "weight": 10.3,
+        "destination": "ORD",
+        "consignee": "Global Payne Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "045-76244664",
+        "pieces": 13,
+        "weight": 6.4,
+        "destination": "ORD",
+        "consignee": "Sweeney Trade AG",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "160-81097080",
+        "pieces": 20,
+        "weight": 51.4,
+        "destination": "SYD",
+        "consignee": "Commerce Walker LLC",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "085-23895156",
+        "pieces": 5,
+        "weight": 50.8,
+        "destination": "HKG",
+        "consignee": "Commerce Mckinney Corp.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "160-35149950",
+        "pieces": 10,
+        "weight": 80.0,
+        "destination": "MIA",
+        "consignee": "Commerce Barker Corp.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "176-84141047",
+        "pieces": 17,
+        "weight": 66.4,
+        "destination": "SIN",
+        "consignee": "Bruce Trade Ltd",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "176-59947112",
+        "pieces": 1,
+        "weight": 18.2,
+        "destination": "YYZ",
+        "consignee": "Gonzalez Pacific AG",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

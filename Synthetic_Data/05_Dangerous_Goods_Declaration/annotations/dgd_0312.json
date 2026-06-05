@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0312",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Martinez International Pte Ltd",
+    "shipper_address": "86958 Davis Ports Apt. 917, Ashleystad, UT 48680, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Tech Olson Corp.",
+    "consignee_address": "361 Jensen Shores, South Ronald, ID 44879, Spain",
+    "consignee_country": "Spain",
+    "emergency_telephone": "+2 538-763-7117",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 48,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 71.07,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-544301",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Norma Hubbard",
+    "signature_date": "2026-05-07",
+    "signature_place": "Canada",
+    "awb_number": "160-76133193",
+    "flight_number": "SQ9301",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "LHR",
+    "destination_airport_name": "London Heathrow",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

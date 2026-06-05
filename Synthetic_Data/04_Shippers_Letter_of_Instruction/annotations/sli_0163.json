@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0163",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202108-8700",
+    "usppi_name": "Brown Tech GmbH",
+    "usppi_address": "01667 Tara Fields, Williamview, AR 49858, Japan",
+    "usppi_country": "Japan",
+    "ein": "41-1465205",
+    "consignee_name": "Huerta Tech Inc.",
+    "consignee_address": "023 Kim Lake, East Blakeborough, OR 07822, China",
+    "consignee_country": "China",
+    "notify_party": "Tech Johnson S.A.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Heather Walsh",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/21",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 90,
+        "unit": "KGS",
+        "weight_kg": 90.0,
+        "value_usd": 1941.1
+      },
+      {
+        "marks": "ABC/43",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 110,
+        "unit": "CTN",
+        "weight_kg": 227.89,
+        "value_usd": 1005.95
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 86,
+        "unit": "PCS",
+        "weight_kg": 23.44,
+        "value_usd": 8105.18
+      },
+      {
+        "marks": "EXP/42",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 198,
+        "unit": "LTR",
+        "weight_kg": 209.01,
+        "value_usd": 2397.65
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 130,
+        "unit": "PCS",
+        "weight_kg": 1312.56,
+        "value_usd": 16869.74
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 194,
+        "unit": "PCS",
+        "weight_kg": 24.66,
+        "value_usd": 17211.4
+      },
+      {
+        "marks": "ABC/50",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 48,
+        "unit": "PCS",
+        "weight_kg": 65.18,
+        "value_usd": 945.61
+      },
+      {
+        "marks": "EXP/7",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 128,
+        "unit": "PCS",
+        "weight_kg": 1168.23,
+        "value_usd": 15708.78
+      }
+    ],
+    "total_weight_kg": 3120.97,
+    "total_value_usd": 64185.41,
+    "service": "Ground",
+    "named_port": "Shanghai Pudong",
+    "insurance_value_usd": 35303.44,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-821310",
+    "destination_country": "China"
+  }
+}

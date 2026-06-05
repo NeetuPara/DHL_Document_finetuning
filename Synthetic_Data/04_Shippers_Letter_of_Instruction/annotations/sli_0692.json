@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0692",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202111-9391",
+    "usppi_name": "Jackson Global Ltd",
+    "usppi_address": "PSC 5732, Box 9703, APO AE 25414, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "31-7713221",
+    "consignee_name": "Roberts Trade Co.",
+    "consignee_address": "61730 Gregory Radial, Kennethville, WA 89066, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Rubio International GmbH",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Derek Hutchinson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/46",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 133,
+        "unit": "BOX",
+        "weight_kg": 246.56,
+        "value_usd": 12378.23
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 82,
+        "unit": "PCS",
+        "weight_kg": 696.91,
+        "value_usd": 19850.89
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 9,
+        "unit": "PCS",
+        "weight_kg": 7.88,
+        "value_usd": 239.17
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 100,
+        "unit": "SET",
+        "weight_kg": 237.72,
+        "value_usd": 12122.33
+      }
+    ],
+    "total_weight_kg": 1189.07,
+    "total_value_usd": 44590.62,
+    "service": "Air Freight",
+    "named_port": "Toronto Pearson",
+    "insurance_value_usd": 21633.8,
+    "license_type": "Distributor License",
+    "license_number": "LIC-619360",
+    "destination_country": "Malaysia"
+  }
+}

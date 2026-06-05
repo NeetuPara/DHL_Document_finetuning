@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0736",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG410867726",
+    "shipper_name": "Trade Jones S.A.",
+    "shipper_address": "4584 Fleming Lodge, Port Denise, ID 83334, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Global Snyder S.A.",
+    "consignee_address": "70256 Michael Bridge, Lake Travis, AZ 50916, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party_name": "Hart Pacific GmbH",
+    "notify_party_address": "639 Susan Lock, Nancyhaven, RI 25828, Mexico",
+    "vessel": "PIL PACIFIC",
+    "voyage": "499W",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2026-02-09",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "DOKU3618816",
+        "seal_no": "CL573662",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "IJFS8999803",
+        "seal_no": "BL200599",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "MQSV0603630",
+        "seal_no": "CL982258",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 102,
+    "package_type": "Drum",
+    "gross_weight_kg": 23567.6,
+    "net_weight_kg": 21275.6,
+    "cbm": 8.833,
+    "marks_and_numbers": "ABC/7"
+  }
+}

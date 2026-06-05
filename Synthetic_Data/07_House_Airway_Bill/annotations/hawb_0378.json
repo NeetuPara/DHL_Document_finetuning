@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0378",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-32233014",
+    "mawb_number": "125-76529246",
+    "shipper_name": "Adams Commerce Corp.",
+    "shipper_address": "7024 Lozano Roads, Paulside, IL 84361, Mexico",
+    "consignee_name": "Jefferson Pacific Inc.",
+    "consignee_address": "40304 Lisa Estate, Lawrenceville, AK 35067, Sweden",
+    "agent_name": "International Griffin Co.",
+    "airport_departure": "SIN",
+    "airport_destination": "MIA",
+    "currency": "SGD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "EUR 34,499.14",
+    "n_pieces": 34,
+    "gross_weight_kg": 14.0,
+    "chargeable_weight": 16.9,
+    "rate": 5.23,
+    "total_charge": 88.39,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "TEMP CONTROLLED: 7\u00b0C - 24\u00b0C",
+    "issue_date": "2026-04-21",
+    "signatory": "Barbara Myers",
+    "iata_code": "49-415",
+    "agent_cass": "2084-8495",
+    "consolidation_ref": "CONS-9981-600728",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-25078298",
+        "pieces": 7,
+        "weight": 53.7,
+        "destination": "FRA",
+        "consignee": "International Cunningham AG",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "006-82661105",
+        "pieces": 19,
+        "weight": 57.5,
+        "destination": "PVG",
+        "consignee": "Commerce Howell LLC",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "074-52241466",
+        "pieces": 20,
+        "weight": 17.7,
+        "destination": "FRA",
+        "consignee": "Global Harris S.A.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "074-26804973",
+        "pieces": 10,
+        "weight": 47.7,
+        "destination": "LAX",
+        "consignee": "Peck Trade LLC",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "125-43931310",
+        "pieces": 16,
+        "weight": 64.0,
+        "destination": "JFK",
+        "consignee": "Pacific Hess Corp.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "176-33438126",
+        "pieces": 16,
+        "weight": 94.6,
+        "destination": "LHR",
+        "consignee": "Carlson International Co.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "125-51118456",
+        "pieces": 11,
+        "weight": 86.7,
+        "destination": "HKG",
+        "consignee": "Stein Global GmbH",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

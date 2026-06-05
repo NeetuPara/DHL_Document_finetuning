@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0493",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202002-5196",
+    "usppi_name": "Trade Bradley Pte Ltd",
+    "usppi_address": "256 Martin Vista Suite 021, Espinozaville, CT 63131, India",
+    "usppi_country": "India",
+    "ein": "69-8233096",
+    "consignee_name": "Global Ross Co.",
+    "consignee_address": "1100 Katherine Gateway Apt. 242, East Richardport, KS 99422, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Global Kaufman AG",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "2B350",
+    "signatory_name": "Jose Schneider",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/5",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 52,
+        "unit": "KGS",
+        "weight_kg": 52.0,
+        "value_usd": 65.38
+      },
+      {
+        "marks": "ABC/18",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 162,
+        "unit": "PCS",
+        "weight_kg": 2572.48,
+        "value_usd": 49938.43
+      },
+      {
+        "marks": "ABC/2",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 153,
+        "unit": "CTN",
+        "weight_kg": 390.43,
+        "value_usd": 8303.7
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 79,
+        "unit": "KGS",
+        "weight_kg": 79.0,
+        "value_usd": 466.72
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 140,
+        "unit": "MTR",
+        "weight_kg": 45.28,
+        "value_usd": 2324.99
+      },
+      {
+        "marks": "SLI/28",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 144,
+        "unit": "PCS",
+        "weight_kg": 47.04,
+        "value_usd": 18047.97
+      }
+    ],
+    "total_weight_kg": 3186.23,
+    "total_value_usd": 79147.19,
+    "service": "Air Freight",
+    "named_port": "Frankfurt Airport",
+    "insurance_value_usd": 24171.67,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-463918",
+    "destination_country": "Hong Kong"
+  }
+}

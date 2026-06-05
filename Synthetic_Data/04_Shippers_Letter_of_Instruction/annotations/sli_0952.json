@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0952",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202505-9691",
+    "usppi_name": "Lee International Corp.",
+    "usppi_address": "599 Cook Forges Apt. 921, New Cindymouth, WV 64965, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "50-1578984",
+    "consignee_name": "Knox Industry Corp.",
+    "consignee_address": "5989 Benton Drive Apt. 130, Clarktown, DC 24939, China",
+    "consignee_country": "China",
+    "notify_party": "Rivera Tech Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Jeffrey Yang",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/1",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 157,
+        "unit": "CTN",
+        "weight_kg": 619.51,
+        "value_usd": 10233.43
+      },
+      {
+        "marks": "ABC/7",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 60,
+        "unit": "CTN",
+        "weight_kg": 144.17,
+        "value_usd": 453.71
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 71,
+        "unit": "KGS",
+        "weight_kg": 71.0,
+        "value_usd": 512.06
+      },
+      {
+        "marks": "SLI/37",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 91,
+        "unit": "PCS",
+        "weight_kg": 765.4,
+        "value_usd": 38282.81
+      },
+      {
+        "marks": "EXP/3",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 119,
+        "unit": "BOX",
+        "weight_kg": 177.75,
+        "value_usd": 11992.58
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 175,
+        "unit": "PKG",
+        "weight_kg": 414.53,
+        "value_usd": 13635.43
+      }
+    ],
+    "total_weight_kg": 2192.36,
+    "total_value_usd": 75110.02,
+    "service": "Ocean Freight",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 20774.23,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-336302",
+    "destination_country": "China"
+  }
+}

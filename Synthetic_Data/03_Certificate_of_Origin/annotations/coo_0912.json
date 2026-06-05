@@ -1,0 +1,69 @@
+{
+  "document_id": "coo_0912",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202111-9585",
+    "exporter_name": "International Smith B.V.",
+    "exporter_address": "931 Cassandra Burg Suite 348, Riverastad, PW 83123, Germany",
+    "exporter_country": "Germany",
+    "consignee_name": "Scott Global Co.",
+    "consignee_address": "663 Austin Forks Apt. 440, Millerton, WY 31085, Australia",
+    "consignee_country": "Australia",
+    "country_of_origin": "Germany",
+    "country_of_destination": "Australia",
+    "bl_or_awb": "618-29837237",
+    "issue_date": "2024-06-14",
+    "certifier_name": "Kenneth Kelly",
+    "goods": [
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 129,
+        "unit": "KGS",
+        "weight_kg": 129.0,
+        "origin_criterion": "E",
+        "value": 2393.84
+      },
+      {
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "hs_code": "8483.40.00",
+        "qty": 93,
+        "unit": "PCS",
+        "weight_kg": 1259.99,
+        "origin_criterion": "A",
+        "value": 30707.08
+      },
+      {
+        "description": "Electronic Components - Printed Circuit Boards",
+        "hs_code": "8534.00.00",
+        "qty": 51,
+        "unit": "PCS",
+        "weight_kg": 10.32,
+        "origin_criterion": "D",
+        "value": 8161.33
+      },
+      {
+        "description": "Plastic Products - Injection Moulded Components",
+        "hs_code": "3926.90.00",
+        "qty": 143,
+        "unit": "PCS",
+        "weight_kg": 197.64,
+        "origin_criterion": "D",
+        "value": 774.63
+      },
+      {
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "hs_code": "8518.30.00",
+        "qty": 82,
+        "unit": "PCS",
+        "weight_kg": 9.81,
+        "origin_criterion": "D",
+        "value": 4218.8
+      }
+    ],
+    "fta_agreement": "EU-Canada CETA",
+    "chamber": "Chamber of Commerce"
+  }
+}

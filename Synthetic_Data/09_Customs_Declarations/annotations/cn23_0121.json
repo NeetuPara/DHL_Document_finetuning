@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0121",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Rachel Zuniga",
+    "addressee_company": "Commerce Robbins S.A.",
+    "addressee_address": "73228 Kevin Alley, New Howard, SD 09309, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 16.713,
+    "total_value": 3042.81,
+    "currency": "SGD",
+    "issue_date": "2025-06-25",
+    "reference": "REF-721740",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 0.636,
+        "value": 1454.86,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 13,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.86,
+        "value": 79.3,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 11,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.288,
+        "value": 1067.88,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 17,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.628,
+        "value": 91.97,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 8,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.301,
+        "value": 348.8,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_name": "Colleen Wolf",
+    "sender_company": "Savage International Inc.",
+    "sender_address": "69274 Lopez Forest Suite 575, North Aprilmouth, NH 41256, Germany",
+    "sender_phone": "424-975-5664",
+    "sender_email": "rmorris@example.net",
+    "addressee_phone": "5547786484",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 3347.09,
+    "postal_charges": 36.34,
+    "tracking_number": "UR551575602SL"
+  }
+}

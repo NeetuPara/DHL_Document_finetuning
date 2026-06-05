@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0013",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Robert Burns",
+    "addressee_company": "Commerce Carroll S.A.",
+    "addressee_address": "4127 Eric Plains Apt. 568, New Olivia, PW 30239, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 16.41,
+    "total_value": 6310.4,
+    "currency": "EUR",
+    "issue_date": "2025-11-11",
+    "reference": "REF-273032",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.367,
+        "value": 185.24,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 17,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.722,
+        "value": 1207.85,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 16,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.755,
+        "value": 2047.36,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 6,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.416,
+        "value": 749.28,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 18,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.295,
+        "value": 713.16,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 13,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.855,
+        "value": 1407.51,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Ashley Pierce",
+    "sender_company": "Industry Mullins Ltd",
+    "sender_address": "4575 Jacqueline Extensions, Cooperborough, CT 70926, Hong Kong",
+    "sender_phone": "319.467.7493x1338",
+    "sender_email": "dawn32@example.net",
+    "addressee_phone": "561.707.7491",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 6941.44,
+    "postal_charges": 16.49,
+    "tracking_number": "EY202632035CH"
+  }
+}

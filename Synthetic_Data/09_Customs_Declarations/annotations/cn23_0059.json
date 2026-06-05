@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0059",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jessica Walsh",
+    "addressee_company": "Flores International B.V.",
+    "addressee_address": "8870 Navarro Wall Apt. 574, South Derek, GA 88174, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 3.234,
+    "total_value": 1445.13,
+    "currency": "EUR",
+    "issue_date": "2025-10-28",
+    "reference": "REF-170508",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.899,
+        "value": 890.45,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 7,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.397,
+        "value": 389.48,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 2,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.938,
+        "value": 165.2,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Tabitha Kim",
+    "sender_company": "Klein Commerce B.V.",
+    "sender_address": "285 Thomas Bypass, West Carrie, MD 71471, Netherlands",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 28.53,
+    "tracking_number": "GQ340162233XY"
+  }
+}

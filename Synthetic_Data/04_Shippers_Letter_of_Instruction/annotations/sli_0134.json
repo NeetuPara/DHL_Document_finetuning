@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0134",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202509-7047",
+    "usppi_name": "International Moore AG",
+    "usppi_address": "67461 Caitlyn Radial Suite 719, Port Brenda, MD 03605, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "20-5483181",
+    "consignee_name": "Global Avila AG",
+    "consignee_address": "83764 Laura Causeway, Mortonberg, MA 45452, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Industry Adams AG",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Cory Graves",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/46",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 54,
+        "unit": "LTR",
+        "weight_kg": 55.65,
+        "value_usd": 1682.44
+      },
+      {
+        "marks": "ABC/26",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 123,
+        "unit": "PCS",
+        "weight_kg": 9.74,
+        "value_usd": 7560.47
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 186,
+        "unit": "MTR",
+        "weight_kg": 167.35,
+        "value_usd": 2971.66
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 104,
+        "unit": "PCS",
+        "weight_kg": 1217.99,
+        "value_usd": 65066.64
+      }
+    ],
+    "total_weight_kg": 1450.73,
+    "total_value_usd": 77281.21,
+    "service": "LCL Ocean",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 6083.07,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-835340",
+    "destination_country": "United Kingdom"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0015",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-77965758",
+    "mawb_number": "074-72285236",
+    "shipper_name": "Jackson International GmbH",
+    "shipper_address": "PSC 3345, Box 7630, APO AA 71965, Singapore",
+    "consignee_name": "Shepard Commerce AG",
+    "consignee_address": "3307 Robbins Ridges Apt. 337, New Rebecca, NJ 15080, China",
+    "agent_name": "Global Stewart Corp.",
+    "airport_departure": "HKG",
+    "airport_destination": "MIA",
+    "currency": "USD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "USD 43,752.63",
+    "n_pieces": 11,
+    "gross_weight_kg": 243.4,
+    "chargeable_weight": 267.8,
+    "rate": 4.14,
+    "total_charge": 1108.69,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "TEMP CONTROLLED: 7\u00b0C - 20\u00b0C",
+    "issue_date": "2026-02-06",
+    "signatory": "William White",
+    "iata_code": "32-551",
+    "agent_cass": "8660-5567",
+    "consolidation_ref": "CONS-0189-782790",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-10958508",
+        "pieces": 1,
+        "weight": 77.6,
+        "destination": "PVG",
+        "consignee": "Cooper International S.A.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "020-31809644",
+        "pieces": 7,
+        "weight": 43.0,
+        "destination": "LAX",
+        "consignee": "Commerce Alexander Pte Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "074-65751995",
+        "pieces": 13,
+        "weight": 13.2,
+        "destination": "ORD",
+        "consignee": "Global Goodwin Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "074-91243075",
+        "pieces": 19,
+        "weight": 71.1,
+        "destination": "JFK",
+        "consignee": "Smith Commerce Inc.",
+        "description": "Plastic Products - Injection Moulde"
+      }
+    ]
+  }
+}

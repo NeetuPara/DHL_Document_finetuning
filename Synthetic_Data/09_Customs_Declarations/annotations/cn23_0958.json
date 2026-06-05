@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0958",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kelly Jones",
+    "addressee_company": "Industry Lutz Pte Ltd",
+    "addressee_address": "Unit 1738 Box 8351, DPO AA 64022, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 8.03,
+    "total_value": 1162.11,
+    "currency": "CNY",
+    "issue_date": "2026-02-23",
+    "reference": "REF-618622",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.734,
+        "value": 150.12,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 3,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.419,
+        "value": 309.99,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 9,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.877,
+        "value": 702.0,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Jamie Clark",
+    "sender_company": "Martinez International Co.",
+    "sender_address": "415 Dean Ford, Port Brandon, NC 82240, China",
+    "sender_phone": "562-237-4609",
+    "sender_email": "collinskevin@example.org",
+    "addressee_phone": "+1-288-954-0797",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 1278.32,
+    "postal_charges": 16.83,
+    "tracking_number": "MF231331696ST"
+  }
+}

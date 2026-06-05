@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0607",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202510-3980",
+    "usppi_name": "Pacific Francis Corp.",
+    "usppi_address": "76677 Francis River Apt. 425, South Monica, VA 34273, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "14-6802911",
+    "consignee_name": "Commerce Baker AG",
+    "consignee_address": "3920 White Trail, New Jenniferside, NM 97294, United States",
+    "consignee_country": "United States",
+    "notify_party": "International Peterson Inc.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Dominique Stephens",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/22",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 154,
+        "unit": "KGS",
+        "weight_kg": 154.0,
+        "value_usd": 95.6
+      },
+      {
+        "marks": "EXP/17",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 148,
+        "unit": "BOX",
+        "weight_kg": 238.32,
+        "value_usd": 11278.29
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 139,
+        "unit": "PCS",
+        "weight_kg": 2283.42,
+        "value_usd": 42942.86
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 155,
+        "unit": "PCS",
+        "weight_kg": 1184.0,
+        "value_usd": 46529.05
+      }
+    ],
+    "total_weight_kg": 3859.74,
+    "total_value_usd": 100845.8,
+    "service": "Ground",
+    "named_port": "Paris CDG",
+    "insurance_value_usd": 37341.85,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-995095",
+    "destination_country": "United States"
+  }
+}

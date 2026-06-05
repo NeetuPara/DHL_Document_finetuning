@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0738",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Riley Trade AG",
+    "shipper_address": "64820 Rebecca Loaf Apt. 408, Garymouth, MN 31094, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Morales International AG",
+    "consignee_address": "07977 Aaron Neck Apt. 313, Hallville, PA 03626, Japan",
+    "consignee_country": "Japan",
+    "emergency_telephone": "+87 793-326-6136",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 25,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 48.01,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Matthew Lamb",
+    "signature_date": "2026-05-04",
+    "signature_place": "Malaysia",
+    "awb_number": "020-52994410",
+    "flight_number": "DL2371",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "SYD",
+    "destination_airport_name": "Sydney Kingsford Smith",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

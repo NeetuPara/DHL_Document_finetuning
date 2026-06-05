@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0722",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202508-5561",
+    "usppi_name": "Tech Martin Co.",
+    "usppi_address": "12306 Savage Park Apt. 172, East Carolynmouth, CT 09266, Poland",
+    "usppi_country": "Poland",
+    "ein": "96-9462579",
+    "consignee_name": "Yu Tech B.V.",
+    "consignee_address": "892 Garcia Keys, South Teresa, CT 42233, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Global Robinson LLC",
+    "forwarder": "Expeditors",
+    "incoterm": "CIP",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Michael Johnson",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/21",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 62,
+        "unit": "PCS",
+        "weight_kg": 15.25,
+        "value_usd": 9777.01
+      },
+      {
+        "marks": "EXP/32",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 112,
+        "unit": "PCS",
+        "weight_kg": 76.05,
+        "value_usd": 40868.31
+      }
+    ],
+    "total_weight_kg": 91.3,
+    "total_value_usd": 50645.32,
+    "service": "LCL Ocean",
+    "named_port": "Felixstowe, GB",
+    "insurance_value_usd": 19763.62,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-779248",
+    "destination_country": "Canada"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0118",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Nathan Ward",
+    "addressee_company": "Tech Fletcher Corp.",
+    "addressee_address": "69510 Kelly Coves Suite 641, Seanchester, HI 44053, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 7.22,
+    "total_value": 3176.07,
+    "currency": "USD",
+    "issue_date": "2025-09-30",
+    "reference": "REF-654944",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.254,
+        "value": 150.86,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 17,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.032,
+        "value": 505.41,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 20,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.934,
+        "value": 2519.8,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "Stephanie Diaz",
+    "sender_company": "Cole Pacific Ltd",
+    "sender_address": "006 Cody Locks, North Amyview, MD 62027, South Korea",
+    "sender_phone": "+1-560-623-3913x73994",
+    "sender_email": "elizabethgarcia@example.com",
+    "addressee_phone": "(227)314-1754x8741",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 77.81,
+    "tracking_number": "BA761146921RW"
+  }
+}

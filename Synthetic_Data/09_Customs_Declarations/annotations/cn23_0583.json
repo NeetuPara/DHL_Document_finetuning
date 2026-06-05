@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0583",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Joel Montgomery",
+    "addressee_company": "Tech Garza Ltd",
+    "addressee_address": "728 Mills Shoals, Valeriemouth, CT 45171, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 10.129,
+    "total_value": 5307.44,
+    "currency": "JPY",
+    "issue_date": "2026-05-09",
+    "reference": "REF-102253",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.492,
+        "value": 1316.48,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 18,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.277,
+        "value": 2198.16,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 12,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.36,
+        "value": 1792.8,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Ryan Howe",
+    "sender_company": "Griffin Commerce Co.",
+    "sender_address": "427 Hernandez Ridges Apt. 095, West Shannon, KS 26561, India",
+    "sender_phone": "795-864-6443x821",
+    "sender_email": "andrewthomas@example.net",
+    "addressee_phone": "296-567-4607",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 5838.18,
+    "postal_charges": 68.0,
+    "tracking_number": "RE654450606KS"
+  }
+}

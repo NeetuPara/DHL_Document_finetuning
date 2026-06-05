@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0079",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202511-6570",
+    "usppi_name": "Commerce Gordon B.V.",
+    "usppi_address": "4920 Marshall Junction, South Robert, MD 90405, Australia",
+    "usppi_country": "Australia",
+    "ein": "47-1949831",
+    "consignee_name": "Smith International Ltd",
+    "consignee_address": "49552 Samuel Drive Suite 611, North Jennifer, PR 85593, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Jackson Global AG",
+    "forwarder": "Panalpina",
+    "incoterm": "DDP",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Mark Tran",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/36",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 62,
+        "unit": "PKG",
+        "weight_kg": 20.47,
+        "value_usd": 1279.81
+      },
+      {
+        "marks": "EXP/41",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 148,
+        "unit": "PCS",
+        "weight_kg": 332.56,
+        "value_usd": 15473.59
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 43,
+        "unit": "CTN",
+        "weight_kg": 122.86,
+        "value_usd": 492.89
+      },
+      {
+        "marks": "ABC/50",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 18,
+        "unit": "SET",
+        "weight_kg": 43.58,
+        "value_usd": 2707.16
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 124,
+        "unit": "BOX",
+        "weight_kg": 155.84,
+        "value_usd": 4757.88
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 111,
+        "unit": "MTR",
+        "weight_kg": 124.78,
+        "value_usd": 1477.06
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 103,
+        "unit": "PCS",
+        "weight_kg": 48.0,
+        "value_usd": 12772.84
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 81,
+        "unit": "PCS",
+        "weight_kg": 95.87,
+        "value_usd": 1103.7
+      }
+    ],
+    "total_weight_kg": 943.96,
+    "total_value_usd": 40064.93,
+    "service": "Ground",
+    "named_port": "Amsterdam Schiphol",
+    "insurance_value_usd": 12377.79,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-859566",
+    "destination_country": "Italy"
+  }
+}

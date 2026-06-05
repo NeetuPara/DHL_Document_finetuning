@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0150",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-44494165",
+    "mawb_number": "057-72951546",
+    "shipper_name": "Moran Industry Ltd",
+    "shipper_address": "4881 Steven Branch, Lake Sherrimouth, PA 70937, United States",
+    "consignee_name": "Pacific Taylor Corp.",
+    "consignee_address": "526 Davis Court Apt. 265, Jonathanberg, MO 22743, Netherlands",
+    "agent_name": "Global Deleon AG",
+    "airport_departure": "SYD",
+    "airport_destination": "FRA",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "JPY 16,466.10",
+    "declared_value_customs": "NCV",
+    "n_pieces": 11,
+    "gross_weight_kg": 57.1,
+    "chargeable_weight": 63.2,
+    "rate": 1.66,
+    "total_charge": 104.91,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "TEMP CONTROLLED: 8\u00b0C - 19\u00b0C",
+    "issue_date": "2025-10-22",
+    "signatory": "Daniel Barajas",
+    "iata_code": "39-968",
+    "agent_cass": "4404-8845",
+    "consolidation_ref": "CONS-1553-416751",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-51814458",
+        "pieces": 6,
+        "weight": 82.7,
+        "destination": "YYZ",
+        "consignee": "Trade Thomas Ltd",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "020-14549275",
+        "pieces": 4,
+        "weight": 60.2,
+        "destination": "FRA",
+        "consignee": "Trade Drake GmbH",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "125-25467738",
+        "pieces": 18,
+        "weight": 16.6,
+        "destination": "DXB",
+        "consignee": "Bird Industry B.V.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "085-50969836",
+        "pieces": 16,
+        "weight": 75.8,
+        "destination": "NRT",
+        "consignee": "Trade Stone GmbH",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0652",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202505-4156",
+    "usppi_name": "Woods Industry B.V.",
+    "usppi_address": "728 Robert Knolls, Rayview, OH 27758, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "53-9142790",
+    "consignee_name": "Willis Global AG",
+    "consignee_address": "414 Gates Turnpike, South Monicaberg, MI 54375, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Trade Snyder B.V.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIP",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Angel Brown",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/39",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 78,
+        "unit": "PCS",
+        "weight_kg": 66.83,
+        "value_usd": 33142.01
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 61,
+        "unit": "PCS",
+        "weight_kg": 21.28,
+        "value_usd": 12526.41
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 67,
+        "unit": "KGS",
+        "weight_kg": 67.0,
+        "value_usd": 108.75
+      }
+    ],
+    "total_weight_kg": 155.11,
+    "total_value_usd": 45777.17,
+    "service": "Express Courier",
+    "named_port": "Tokyo Narita",
+    "insurance_value_usd": 33543.27,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-483218",
+    "destination_country": "Singapore"
+  }
+}

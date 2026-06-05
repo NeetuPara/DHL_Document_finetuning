@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0145",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Rodgers Pte Ltd",
+    "shipper_address": "6221 Edward Walks Suite 614, West Brandishire, WI 56038, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Smith Commerce Inc.",
+    "consignee_address": "9189 Keith Extensions, Bateschester, TN 44931, Japan",
+    "consignee_country": "Japan",
+    "emergency_telephone": "+56 117-351-6602",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 48,
+        "pkg_type": "Steel Drum",
+        "net_qty": 56.36,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-795930",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Grace Tucker",
+    "signature_date": "2026-05-04",
+    "signature_place": "Hong Kong",
+    "awb_number": "057-80668631",
+    "flight_number": "EK4814",
+    "flight_date": "2026-04-24",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "CDG",
+    "destination_airport_name": "Paris CDG"
+  }
+}

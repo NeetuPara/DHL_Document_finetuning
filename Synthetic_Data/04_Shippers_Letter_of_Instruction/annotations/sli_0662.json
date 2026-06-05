@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0662",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202408-4803",
+    "usppi_name": "Tech Jones Co.",
+    "usppi_address": "104 Misty Greens, Davishaven, TN 88066, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "28-7612398",
+    "consignee_name": "Ramos Commerce Ltd",
+    "consignee_address": "06670 Angel Ways Apt. 007, Port Margaret, AS 37202, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Tech Clark GmbH",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Paul Smith",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/6",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 13,
+        "unit": "PCS",
+        "weight_kg": 4.09,
+        "value_usd": 2310.9
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 23,
+        "unit": "SET",
+        "weight_kg": 37.67,
+        "value_usd": 1806.65
+      },
+      {
+        "marks": "SLI/6",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 194,
+        "unit": "CTN",
+        "weight_kg": 599.14,
+        "value_usd": 2823.98
+      },
+      {
+        "marks": "EXP/25",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 61,
+        "unit": "CTN",
+        "weight_kg": 41.53,
+        "value_usd": 231.03
+      }
+    ],
+    "total_weight_kg": 682.43,
+    "total_value_usd": 7172.56,
+    "service": "Ground",
+    "named_port": "Tokyo Narita",
+    "insurance_value_usd": 35970.44,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-818144",
+    "destination_country": "Canada"
+  }
+}

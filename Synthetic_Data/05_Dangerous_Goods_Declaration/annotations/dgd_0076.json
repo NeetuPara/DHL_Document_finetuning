@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0076",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Livingston International LLC",
+    "shipper_address": "00345 Frederick Valley Suite 169, New Nicoleville, MT 22236, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Alvarado Trade Inc.",
+    "consignee_address": "7211 Bryan Port Suite 616, North Heather, OH 77173, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+68 723-154-4676",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 14,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 51.94,
+        "qty_unit": "g",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Stephen Miller",
+    "signature_date": "2026-04-16",
+    "signature_place": "Poland",
+    "awb_number": "085-73777810",
+    "flight_number": "UA9719",
+    "flight_date": "2026-04-30",
+    "departure_airport_code": "PVG",
+    "departure_airport_name": "Shanghai Pudong",
+    "destination_airport_code": "NRT",
+    "destination_airport_name": "Tokyo Narita"
+  }
+}

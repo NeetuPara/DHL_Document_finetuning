@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0804",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202508-2788",
+    "usppi_name": "Pennington Commerce GmbH",
+    "usppi_address": "USNV Gonzalez, FPO AP 05626, China",
+    "usppi_country": "China",
+    "ein": "37-3785669",
+    "consignee_name": "Global Hunt Co.",
+    "consignee_address": "37014 Robertson Meadows, New Thomas, WY 21900, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Wheeler Industry Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Todd Peterson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/21",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 128,
+        "unit": "PCS",
+        "weight_kg": 63.83,
+        "value_usd": 43021.68
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 198,
+        "unit": "PCS",
+        "weight_kg": 12.49,
+        "value_usd": 40625.46
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 39,
+        "unit": "MTR",
+        "weight_kg": 13.88,
+        "value_usd": 209.53
+      },
+      {
+        "marks": "SLI/17",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 172,
+        "unit": "PCS",
+        "weight_kg": 186.66,
+        "value_usd": 4595.34
+      }
+    ],
+    "total_weight_kg": 276.86,
+    "total_value_usd": 88452.01,
+    "vessel": "EVER GOLDEN",
+    "voyage": "535S",
+    "booking_ref": "BKG-128674",
+    "bl_number": "MAEU188937245",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Long Beach, US",
+    "container_number": "NQEQ9198392",
+    "seal_number": "CL387974",
+    "container_type": "40'HC",
+    "cbm": 26.586
+  }
+}

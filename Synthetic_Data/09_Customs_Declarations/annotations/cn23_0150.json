@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0150",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Megan Mejia",
+    "addressee_company": "Tech Perry Corp.",
+    "addressee_address": "8805 Melanie Haven Apt. 906, Lake Lisamouth, WY 37972, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 5.299,
+    "total_value": 1105.33,
+    "currency": "CAD",
+    "issue_date": "2025-07-05",
+    "reference": "REF-687356",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.562,
+        "value": 397.87,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 6,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.737,
+        "value": 707.46,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_country": "Thailand",
+    "port_of_entry": "Chicago, IL",
+    "entry_number": "431-80306567-2",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 18.5,
+    "estimated_duty": 204.49,
+    "importer_ein": "08-2545294",
+    "customs_broker": "Melton Commerce Pte Ltd"
+  }
+}

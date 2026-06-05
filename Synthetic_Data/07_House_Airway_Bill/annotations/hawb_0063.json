@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0063",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-36877408",
+    "mawb_number": "085-98322357",
+    "shipper_name": "Wheeler Industry Co.",
+    "shipper_address": "9533 Chapman Falls Suite 844, North Jeremy, AR 93582, Thailand",
+    "consignee_name": "International Moon LLC",
+    "consignee_address": "083 Jessica Rue, Port Barbaraborough, HI 17600, Canada",
+    "agent_name": "Cain Trade Pte Ltd",
+    "airport_departure": "SYD",
+    "airport_destination": "LAX",
+    "currency": "EUR",
+    "charge_code": "PP",
+    "declared_value_carriage": "AUD 2,347.83",
+    "declared_value_customs": "NCV",
+    "n_pieces": 34,
+    "gross_weight_kg": 150.3,
+    "chargeable_weight": 159.3,
+    "rate": 2.92,
+    "total_charge": 465.16,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-05-26",
+    "signatory": "Susan Garrett",
+    "iata_code": "08-171",
+    "agent_cass": "7794-7884",
+    "consolidation_ref": "CONS-4046-635268",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-59110844",
+        "pieces": 12,
+        "weight": 47.8,
+        "destination": "HKG",
+        "consignee": "Pacific Montgomery AG",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "020-78763821",
+        "pieces": 19,
+        "weight": 49.0,
+        "destination": "DXB",
+        "consignee": "Maxwell Trade B.V.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "125-72001855",
+        "pieces": 5,
+        "weight": 91.2,
+        "destination": "ICN",
+        "consignee": "Stanley Industry AG",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "618-53170052",
+        "pieces": 13,
+        "weight": 55.1,
+        "destination": "AMS",
+        "consignee": "Gray International LLC",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

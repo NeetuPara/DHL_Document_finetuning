@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0380",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Kirk Pacific Ltd",
+    "shipper_address": "27206 Carpenter Knolls Apt. 972, Meganburgh, TN 49357, Canada",
+    "shipper_country": "Canada",
+    "container_number": "RNQX9429945",
+    "seal_number": "BL559138",
+    "container_size": "20'RF",
+    "iso_type_code": "22R1",
+    "tare_weight_kg": 3100,
+    "cargo_weight_kg": 12807.6,
+    "packing_materials_kg": 225.5,
+    "vgm_kg": 16133.1,
+    "vessel": "EVER GOLDEN",
+    "voyage": "941W",
+    "bl_number": "EGLV237144319",
+    "booking_reference": "BKG-638440",
+    "weighing_scale_type": "Certified Electronic Scale",
+    "scale_serial": "Unit-17173",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-20",
+    "signature_date": "2026-05-07",
+    "signatory_name": "Pamela Hines",
+    "signatory_title": "VGM Officer",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Bundle",
+        "n_units": 3,
+        "gross_wt_kg": 573.9
+      },
+      {
+        "item_no": 2,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Case",
+        "n_units": 1,
+        "gross_wt_kg": 1553.0
+      },
+      {
+        "item_no": 3,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Bag",
+        "n_units": 11,
+        "gross_wt_kg": 4793.5
+      },
+      {
+        "item_no": 4,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Crate",
+        "n_units": 16,
+        "gross_wt_kg": 2069.8
+      },
+      {
+        "item_no": 5,
+        "description": "Textile Fabrics - Woven Polyester",
+        "pkg_type": "Pallet",
+        "n_units": 4,
+        "gross_wt_kg": 3817.4
+      }
+    ]
+  }
+}

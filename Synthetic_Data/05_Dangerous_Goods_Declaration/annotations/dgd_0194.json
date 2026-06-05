@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0194",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Williams AG",
+    "shipper_address": "6093 Joseph Plaza, Port Luis, AK 02248, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Global Martin GmbH",
+    "consignee_address": "4259 Natalie Gateway, South John, IL 42504, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+84 491-934-2276",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 19,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 2.92,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 11,
+        "pkg_type": "Steel Drum",
+        "net_qty": 28.63,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-119534",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Bradley Smith",
+    "signature_date": "2026-04-16",
+    "signature_place": "Malaysia",
+    "vessel": "EVER GOLDEN",
+    "voyage": "685N",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Hamburg, DE"
+  }
+}

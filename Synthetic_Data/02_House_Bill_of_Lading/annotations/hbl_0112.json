@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0112",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU724090778",
+    "shipper_name": "Williams Pacific Co.",
+    "shipper_address": "Unit 4921 Box 3499, DPO AP 06223, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Harvey Industry Corp.",
+    "consignee_address": "86760 Jones Garden Suite 254, Rodriguezmouth, MA 87871, United States",
+    "consignee_country": "United States",
+    "notify_party_name": "International Greene S.A.",
+    "notify_party_address": "235 Rogers Lights, South Steven, IA 72424, Thailand",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "849W",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2024-10-31",
+    "issue_place": "Hamburg",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "PTFB1170877",
+        "seal_no": "BL672252",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "CVKK3355175",
+        "seal_no": "SL341150",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "FHHJ2492214",
+        "seal_no": "BL712697",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 438,
+    "package_type": "Bag",
+    "gross_weight_kg": 10789.0,
+    "net_weight_kg": 10435.5,
+    "cbm": 45.431,
+    "marks_and_numbers": "ABC/5"
+  }
+}

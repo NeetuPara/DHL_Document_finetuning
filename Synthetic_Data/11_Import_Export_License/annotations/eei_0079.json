@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0079",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "499-58947721-3",
+    "entry_type": "11 - Informal - Free",
+    "entry_date": "2025-12-26",
+    "port_of_entry": "MIA - Miami",
+    "transport_mode": "Rail",
+    "carrier": "MSC",
+    "bl_awb": "176-89558727",
+    "importer_name": "Johnston Industry LLC",
+    "importer_ein": "08-3404668",
+    "consignee_name": "Industry Fernandez Corp.",
+    "customs_broker": "Global Ward S.A.",
+    "broker_filer_code": "xEn",
+    "country_of_origin": "Canada",
+    "total_value": 467858.53,
+    "total_duty": 35331.15,
+    "currency": "JPY",
+    "signatory": "Ariel Allen",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Canada",
+        "qty": 236,
+        "unit": "KGS",
+        "entered_value": 77299.44,
+        "duty_rate": 8.6,
+        "duty_amount": 6647.75,
+        "eccn": "2B350",
+        "schedule_b": "7208.37.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Belgium",
+        "qty": 244,
+        "unit": "PKG",
+        "entered_value": 56739.76,
+        "duty_rate": 24.4,
+        "duty_amount": 13844.5,
+        "eccn": "5E992",
+        "schedule_b": "4016.93.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "South Korea",
+        "qty": 456,
+        "unit": "PCS",
+        "entered_value": 207215.52,
+        "duty_rate": 7.1,
+        "duty_amount": 14712.3,
+        "eccn": "5E992",
+        "schedule_b": "3926.90.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Netherlands",
+        "qty": 447,
+        "unit": "BOX",
+        "entered_value": 126603.81,
+        "duty_rate": 0.1,
+        "duty_amount": 126.6,
+        "eccn": "2B350",
+        "schedule_b": "2936.90.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0563",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202003-9065",
+    "usppi_name": "Smith Global S.A.",
+    "usppi_address": "972 William Circle Suite 967, Lake Mark, NH 53718, India",
+    "usppi_country": "India",
+    "ein": "22-5296991",
+    "consignee_name": "Industry Martin B.V.",
+    "consignee_address": "893 Tran Pass Suite 047, North Justin, CO 16453, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Williams International Corp.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Stephanie Alexander",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/11",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 186,
+        "unit": "PCS",
+        "weight_kg": 2607.01,
+        "value_usd": 41833.5
+      },
+      {
+        "marks": "SLI/11",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 165,
+        "unit": "BOX",
+        "weight_kg": 270.64,
+        "value_usd": 18898.38
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 141,
+        "unit": "CTN",
+        "weight_kg": 215.42,
+        "value_usd": 5471.82
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 147,
+        "unit": "PCS",
+        "weight_kg": 172.06,
+        "value_usd": 143169.4
+      },
+      {
+        "marks": "ABC/3",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 157,
+        "unit": "PCS",
+        "weight_kg": 8.24,
+        "value_usd": 14070.87
+      }
+    ],
+    "total_weight_kg": 3273.37,
+    "total_value_usd": 223443.97,
+    "service": "LCL Ocean",
+    "named_port": "Long Beach, US",
+    "insurance_value_usd": 46979.89,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-689889",
+    "destination_country": "Canada"
+  }
+}

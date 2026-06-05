@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0578",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20211029666716",
+    "export_date": "2025-11-03",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Rivera Industry B.V.",
+    "usppi_ein": "00-6852999",
+    "usppi_address": "PSC 9714, Box 1515, APO AE 86567, Thailand",
+    "ultimate_consignee": "Buchanan Trade S.A.",
+    "intermediate_consignee": "Rivera International Co.",
+    "forwarding_agent": "Hines Trade Corp.",
+    "destination_country": "Mexico",
+    "carrier": "FedEx",
+    "bl_awb": "057-51614182",
+    "total_value": 207587.32,
+    "currency": "CAD",
+    "signatory": "Philip Ellis DDS",
+    "line_items": [
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "South Korea",
+        "qty": 199,
+        "unit": "SET",
+        "entered_value": 70434.06,
+        "duty_rate": 19.0,
+        "duty_amount": 13382.47,
+        "eccn": "1A002",
+        "schedule_b": "8708.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "China",
+        "qty": 171,
+        "unit": "LTR",
+        "entered_value": 12310.29,
+        "duty_rate": 22.5,
+        "duty_amount": 2769.82,
+        "eccn": "9A515",
+        "schedule_b": "2901.10.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Malaysia",
+        "qty": 394,
+        "unit": "PCS",
+        "entered_value": 118842.22,
+        "duty_rate": 10.9,
+        "duty_amount": 12953.8,
+        "eccn": "EAR99",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Italy",
+        "qty": 21,
+        "unit": "KGS",
+        "entered_value": 6000.75,
+        "duty_rate": 19.2,
+        "duty_amount": 1152.14,
+        "eccn": "9A515",
+        "schedule_b": "7208.37.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

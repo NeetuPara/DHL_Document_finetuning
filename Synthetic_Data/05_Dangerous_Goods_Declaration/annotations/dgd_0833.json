@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0833",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Johnson Trade GmbH",
+    "shipper_address": "3175 Bennett Station, Danielmouth, OR 84408, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Jenkins Industry Pte Ltd",
+    "consignee_address": "2949 Hughes Point, East Melissaport, IA 89852, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+25 761-769-1629",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 41,
+        "pkg_type": "Steel Drum",
+        "net_qty": 91.93,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 18,
+        "pkg_type": "Steel Drum",
+        "net_qty": 54.65,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Michelle Lewis",
+    "signature_date": "2026-05-08",
+    "signature_place": "Netherlands",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "610W",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Shanghai, CN"
+  }
+}

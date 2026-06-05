@@ -1,0 +1,61 @@
+{
+  "document_id": "vgm_0188",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "International Newman LLC",
+    "shipper_address": "557 Michael Rapid, Port Patricia, KY 83969, Japan",
+    "shipper_country": "Japan",
+    "container_number": "ZTAO0560914",
+    "seal_number": "CL946844",
+    "container_size": "40'OT",
+    "iso_type_code": "42U0",
+    "tare_weight_kg": 4200,
+    "cargo_weight_kg": 15338.3,
+    "packing_materials_kg": 78.2,
+    "vgm_kg": 19616.5,
+    "vessel": "MSC OSCAR",
+    "voyage": "983W",
+    "bl_number": "COSU981511042",
+    "booking_reference": "BKG-769980",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-62464",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-25",
+    "signature_date": "2026-05-12",
+    "signatory_name": "Barbara Lewis",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 4,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Crate",
+        "n_units": 7,
+        "gross_wt_kg": 4904.4
+      },
+      {
+        "item_no": 2,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Roll",
+        "n_units": 1,
+        "gross_wt_kg": 2086.6
+      },
+      {
+        "item_no": 3,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Bag",
+        "n_units": 16,
+        "gross_wt_kg": 5699.8
+      },
+      {
+        "item_no": 4,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Case",
+        "n_units": 9,
+        "gross_wt_kg": 2647.5
+      }
+    ]
+  }
+}

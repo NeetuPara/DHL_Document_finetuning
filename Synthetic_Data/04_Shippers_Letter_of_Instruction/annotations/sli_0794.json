@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0794",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202105-5306",
+    "usppi_name": "Tech Fletcher AG",
+    "usppi_address": "USNS Martinez, FPO AA 48185, Italy",
+    "usppi_country": "Italy",
+    "ein": "48-4211248",
+    "consignee_name": "Trade Bryant Corp.",
+    "consignee_address": "Unit 5418 Box 8345, DPO AP 75497, United States",
+    "consignee_country": "United States",
+    "notify_party": "Shepherd Global B.V.",
+    "forwarder": "DB Schenker",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Chelsea Riddle",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/49",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 72,
+        "unit": "PCS",
+        "weight_kg": 24.55,
+        "value_usd": 15323.1
+      },
+      {
+        "marks": "EXP/41",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 61,
+        "unit": "LTR",
+        "weight_kg": 59.6,
+        "value_usd": 1891.79
+      },
+      {
+        "marks": "ABC/8",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 193,
+        "unit": "MTR",
+        "weight_kg": 92.98,
+        "value_usd": 1253.78
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 16,
+        "unit": "PKG",
+        "weight_kg": 17.93,
+        "value_usd": 1167.82
+      }
+    ],
+    "total_weight_kg": 195.06,
+    "total_value_usd": 19636.49,
+    "service": "Ocean Freight",
+    "named_port": "Antwerp, BE",
+    "insurance_value_usd": 47258.41,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-701382",
+    "destination_country": "United States"
+  }
+}

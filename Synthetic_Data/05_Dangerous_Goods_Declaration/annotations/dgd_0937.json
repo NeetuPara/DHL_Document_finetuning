@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0937",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Myers B.V.",
+    "shipper_address": "5389 Garcia Neck, East Vanessaville, MH 64008, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Commerce Smith Co.",
+    "consignee_address": "37072 Mosley Mountains, South Jeremyberg, AZ 91330, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+90 812-464-5911",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 1,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 14.91,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-426779",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 31,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 96.11,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Heather Rivera",
+    "signature_date": "2026-04-15",
+    "signature_place": "Spain",
+    "awb_number": "085-40444092",
+    "flight_number": "SQ2233",
+    "flight_date": "2026-04-22",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "NRT",
+    "destination_airport_name": "Tokyo Narita"
+  }
+}

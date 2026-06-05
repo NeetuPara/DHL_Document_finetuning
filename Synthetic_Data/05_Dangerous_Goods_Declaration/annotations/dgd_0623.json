@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0623",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Morrow LLC",
+    "shipper_address": "9703 Burke Fort Apt. 700, Josephborough, NC 94516, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "West Trade Ltd",
+    "consignee_address": "67851 Rubio Forge, South Lindseyberg, WA 51310, Spain",
+    "consignee_country": "Spain",
+    "emergency_telephone": "+82 907-996-9743",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 47,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 74.7,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-205052",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 11,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 97.47,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-298150",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Alexis Wood",
+    "signature_date": "2026-05-12",
+    "signature_place": "Japan",
+    "vessel": "EVER GOLDEN",
+    "voyage": "806S",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Qingdao, CN"
+  }
+}

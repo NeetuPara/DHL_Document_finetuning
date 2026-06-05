@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0969",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-35004596",
+    "mawb_number": "618-58917242",
+    "shipper_name": "Tech Jones AG",
+    "shipper_address": "8253 Perez Court, North Adriana, AZ 63249, France",
+    "consignee_name": "Rubio Tech Ltd",
+    "consignee_address": "4923 Bryan Camp, West Hollymouth, MH 70943, South Korea",
+    "agent_name": "Jones Global Pte Ltd",
+    "airport_departure": "ORD",
+    "airport_destination": "MIA",
+    "currency": "CNY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "JPY 27,351.88",
+    "n_pieces": 14,
+    "gross_weight_kg": 88.7,
+    "chargeable_weight": 98.0,
+    "rate": 5.5,
+    "total_charge": 539.0,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-03-28",
+    "signatory": "Brandon Hamilton",
+    "iata_code": "71-393",
+    "agent_cass": "2692-2483",
+    "consolidation_ref": "CONS-1202-724928",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-27081301",
+        "pieces": 13,
+        "weight": 66.5,
+        "destination": "AMS",
+        "consignee": "Hill International LLC",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "074-64084103",
+        "pieces": 6,
+        "weight": 45.4,
+        "destination": "FRA",
+        "consignee": "Commerce Davis Pte Ltd",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "057-34038255",
+        "pieces": 1,
+        "weight": 43.5,
+        "destination": "LHR",
+        "consignee": "Global Shaw LLC",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

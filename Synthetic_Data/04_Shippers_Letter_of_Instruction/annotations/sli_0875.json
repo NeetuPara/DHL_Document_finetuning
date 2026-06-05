@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0875",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202603-9514",
+    "usppi_name": "Griffin Pacific S.A.",
+    "usppi_address": "945 Lee Lakes Apt. 284, Christopherport, VT 85198, Australia",
+    "usppi_country": "Australia",
+    "ein": "99-6876750",
+    "consignee_name": "Trade Bailey B.V.",
+    "consignee_address": "4281 Henderson Alley, North Samanthamouth, AS 28596, United States",
+    "consignee_country": "United States",
+    "notify_party": "Hansen International B.V.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DPU",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Fred White",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/29",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 152,
+        "unit": "KGS",
+        "weight_kg": 152.0,
+        "value_usd": 2698.71
+      },
+      {
+        "marks": "SLI/14",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 15,
+        "unit": "BOX",
+        "weight_kg": 12.36,
+        "value_usd": 1497.15
+      }
+    ],
+    "total_weight_kg": 164.36,
+    "total_value_usd": 4195.86,
+    "service": "Ocean Freight",
+    "named_port": "Long Beach, US",
+    "insurance_value_usd": 23498.76,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-291736",
+    "destination_country": "United States"
+  }
+}

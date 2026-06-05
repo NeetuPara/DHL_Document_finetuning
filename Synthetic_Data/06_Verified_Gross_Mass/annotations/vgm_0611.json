@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0611",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Trade Powers S.A.",
+    "shipper_address": "PSC 4510, Box 9372, APO AP 15116, Japan",
+    "shipper_country": "Japan",
+    "container_number": "IJIX0529909",
+    "seal_number": "BL567071",
+    "container_size": "20'GP",
+    "iso_type_code": "22G0",
+    "tare_weight_kg": 2200,
+    "cargo_weight_kg": 16249.6,
+    "packing_materials_kg": 217.6,
+    "vgm_kg": 18667.2,
+    "vessel": "MSC OSCAR",
+    "voyage": "101E",
+    "bl_number": "OOLU139594310",
+    "booking_reference": "BKG-247693",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-69319",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-15",
+    "signature_date": "2026-05-10",
+    "signatory_name": "Kristin Moore",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Case",
+        "n_units": 12,
+        "gross_wt_kg": 847.9
+      },
+      {
+        "item_no": 2,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Bag",
+        "n_units": 8,
+        "gross_wt_kg": 4478.5
+      },
+      {
+        "item_no": 3,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Case",
+        "n_units": 2,
+        "gross_wt_kg": 3655.2
+      },
+      {
+        "item_no": 4,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Case",
+        "n_units": 14,
+        "gross_wt_kg": 3423.7
+      },
+      {
+        "item_no": 5,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Bag",
+        "n_units": 6,
+        "gross_wt_kg": 3844.3
+      }
+    ]
+  }
+}

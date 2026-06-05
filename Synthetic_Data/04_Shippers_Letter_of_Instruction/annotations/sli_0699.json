@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0699",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202411-8300",
+    "usppi_name": "Commerce Acosta LLC",
+    "usppi_address": "8954 Mathews Mission Suite 206, South Jesse, MO 33339, Germany",
+    "usppi_country": "Germany",
+    "ein": "42-3253913",
+    "consignee_name": "Moore Global Corp.",
+    "consignee_address": "722 Alexander Row, Wileyside, UT 04333, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Larson International Co.",
+    "forwarder": "Expeditors",
+    "incoterm": "EXW",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Stacey Wilson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/37",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 112,
+        "unit": "PCS",
+        "weight_kg": 11.67,
+        "value_usd": 2524.67
+      },
+      {
+        "marks": "ABC/10",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 148,
+        "unit": "CTN",
+        "weight_kg": 363.32,
+        "value_usd": 8044.76
+      },
+      {
+        "marks": "ABC/50",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 53,
+        "unit": "PCS",
+        "weight_kg": 711.23,
+        "value_usd": 23850.37
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 111,
+        "unit": "MTR",
+        "weight_kg": 90.34,
+        "value_usd": 694.28
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 24,
+        "unit": "LTR",
+        "weight_kg": 23.81,
+        "value_usd": 911.0
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 115,
+        "unit": "PKG",
+        "weight_kg": 315.97,
+        "value_usd": 1654.1
+      },
+      {
+        "marks": "ABC/43",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 35,
+        "unit": "PCS",
+        "weight_kg": 2.31,
+        "value_usd": 7639.39
+      }
+    ],
+    "total_weight_kg": 1518.65,
+    "total_value_usd": 45318.57,
+    "vessel": "CSCL GLOBE",
+    "voyage": "497S",
+    "booking_ref": "BKG-213295",
+    "bl_number": "MAEU804494714",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Felixstowe, GB",
+    "container_number": "ZNJS0250001",
+    "seal_number": "SL959683",
+    "container_type": "45'HC",
+    "cbm": 18.208
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0066",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-52890985",
+    "mawb_number": "057-66079636",
+    "shipper_name": "Martin Pacific AG",
+    "shipper_address": "1092 Berry Flat, Ericburgh, DC 24204, Brazil",
+    "consignee_name": "Boone Industry Inc.",
+    "consignee_address": "302 Maxwell Village Apt. 789, South Leslieborough, TX 64467, Switzerland",
+    "agent_name": "Henderson Commerce Pte Ltd",
+    "airport_departure": "PVG",
+    "airport_destination": "SYD",
+    "currency": "CNY",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CNY 15,519.99",
+    "n_pieces": 12,
+    "gross_weight_kg": 233.5,
+    "chargeable_weight": 246.4,
+    "rate": 6.32,
+    "total_charge": 1557.25,
+    "nature_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "handling_info": "HANDLING CODE: SUR",
+    "issue_date": "2025-09-30",
+    "signatory": "Roberta Stafford",
+    "iata_code": "82-529",
+    "agent_cass": "3393-8274",
+    "consolidation_ref": "CONS-5534-274588",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-19053010",
+        "pieces": 10,
+        "weight": 60.2,
+        "destination": "YYZ",
+        "consignee": "Nielsen Commerce Inc.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "125-27777976",
+        "pieces": 3,
+        "weight": 0.8,
+        "destination": "CDG",
+        "consignee": "Ewing Commerce S.A.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "085-22090811",
+        "pieces": 9,
+        "weight": 52.0,
+        "destination": "ORD",
+        "consignee": "Castro Commerce Co.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "020-16130029",
+        "pieces": 12,
+        "weight": 3.8,
+        "destination": "SIN",
+        "consignee": "Perry Pacific S.A.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "085-64856206",
+        "pieces": 10,
+        "weight": 69.2,
+        "destination": "ORD",
+        "consignee": "International Green GmbH",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "074-99947397",
+        "pieces": 16,
+        "weight": 42.6,
+        "destination": "HKG",
+        "consignee": "Tech Gray Co.",
+        "description": "Rubber Goods - Industrial Seals and"
+      }
+    ]
+  }
+}

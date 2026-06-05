@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0087",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Bradley Foster",
+    "addressee_company": "Tech Cruz GmbH",
+    "addressee_address": "702 Franco Drive Suite 725, Lake Jill, MT 07715, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 6.191,
+    "total_value": 1477.69,
+    "currency": "JPY",
+    "issue_date": "2025-11-29",
+    "reference": "REF-519176",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.348,
+        "value": 183.19,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 15,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.843,
+        "value": 1294.5,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Italy"
+      }
+    ],
+    "sender_country": "Singapore",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "783-34984259-1",
+    "entry_type": "Informal Entry",
+    "duty_rate": 18.7,
+    "estimated_duty": 276.33,
+    "importer_ein": "70-9724957",
+    "customs_broker": "Moss Commerce LLC"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "document_id": "coo_0315",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202409-5335",
+    "exporter_name": "Simpson Tech Corp.",
+    "exporter_address": "014 Malone Ranch, East Allison, WY 87473, Australia",
+    "exporter_country": "Australia",
+    "consignee_name": "International Morrison Co.",
+    "consignee_address": "817 Boyd Crossing, Jacksonmouth, OH 57858, Canada",
+    "consignee_country": "Canada",
+    "country_of_origin": "Australia",
+    "country_of_destination": "Canada",
+    "bl_or_awb": "618-77694165",
+    "issue_date": "2024-10-17",
+    "certifier_name": "Nicole Johnson",
+    "goods": [
+      {
+        "description": "Paper Products - Packaging Cartons",
+        "hs_code": "4819.10.00",
+        "qty": 67,
+        "unit": "CTN",
+        "weight_kg": 161.64,
+        "origin_criterion": "B",
+        "value": 318.26
+      },
+      {
+        "description": "Automotive Spare Parts - Brake Pads",
+        "hs_code": "8708.30.00",
+        "qty": 355,
+        "unit": "SET",
+        "weight_kg": 312.65,
+        "origin_criterion": "A",
+        "value": 36142.44
+      },
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 139,
+        "unit": "KGS",
+        "weight_kg": 139.0,
+        "origin_criterion": "F",
+        "value": 894.53
+      },
+      {
+        "description": "Steel Products - Hot Rolled Coils",
+        "hs_code": "7208.37.00",
+        "qty": 472,
+        "unit": "KGS",
+        "weight_kg": 472.0,
+        "origin_criterion": "E",
+        "value": 989.48
+      },
+      {
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "hs_code": "2936.90.00",
+        "qty": 204,
+        "unit": "BOX",
+        "weight_kg": 186.0,
+        "origin_criterion": "D",
+        "value": 23373.95
+      }
+    ],
+    "fta_agreement": "UK-Australia FTA",
+    "chamber": "Chamber of Commerce"
+  }
+}

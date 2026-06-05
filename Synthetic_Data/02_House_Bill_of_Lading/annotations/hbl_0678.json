@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0678",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU287427794",
+    "shipper_name": "Commerce Smith LLC",
+    "shipper_address": "154 Julie Burgs Apt. 499, South Jesse, MI 08376, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Mcgrath Trade Ltd",
+    "consignee_address": "33501 Hancock Point, Lake Jesse, KS 47954, United States",
+    "consignee_country": "United States",
+    "notify_party_name": "Garrett Industry LLC",
+    "notify_party_address": "USNS Roberts, FPO AA 66639, Switzerland",
+    "vessel": "MSC GULSUN",
+    "voyage": "754E",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2025-01-26",
+    "issue_place": "Tanjung Pelepas",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "YPDW3644400",
+        "seal_no": "BL191929",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "KEZV9116762",
+        "seal_no": "BL899744",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "JYRE5611589",
+        "seal_no": "CL540452",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "WXZV9608344",
+        "seal_no": "BL604381",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 17,
+    "package_type": "Crate",
+    "gross_weight_kg": 14263.9,
+    "net_weight_kg": 13746.1,
+    "cbm": 1.704,
+    "marks_and_numbers": "ABC/43"
+  }
+}

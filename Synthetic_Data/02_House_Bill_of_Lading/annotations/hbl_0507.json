@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0507",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU712072816",
+    "shipper_name": "Tech Duran GmbH",
+    "shipper_address": "USNV Morgan, FPO AA 74102, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Pena Tech Inc.",
+    "consignee_address": "2988 Clinton Plain, South Matthewside, AS 41601, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Martin Trade GmbH",
+    "notify_party_address": "PSC 0233, Box 0262, APO AP 78573, Mexico",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "976N",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Singapore, SG",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2026-04-09",
+    "issue_place": "Tokyo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "RDSE8409882",
+        "seal_no": "CL778648",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "CIYZ9763466",
+        "seal_no": "BL908163",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "WGQP0978287",
+        "seal_no": "SL633280",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "JKTP2497666",
+        "seal_no": "SL573149",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 126,
+    "package_type": "Roll",
+    "gross_weight_kg": 10855.5,
+    "net_weight_kg": 9906.4,
+    "cbm": 13.772,
+    "marks_and_numbers": "ABC/26"
+  }
+}

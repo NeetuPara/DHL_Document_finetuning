@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0999",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202103-8686",
+    "usppi_name": "Pierce Trade S.A.",
+    "usppi_address": "PSC 9572, Box 4988, APO AE 82719, India",
+    "usppi_country": "India",
+    "ein": "69-6818461",
+    "consignee_name": "Industry Jackson S.A.",
+    "consignee_address": "Unit 9751 Box 4891, DPO AA 85550, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Scott Pacific S.A.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Caitlin Morris",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/21",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 57,
+        "unit": "PKG",
+        "weight_kg": 144.85,
+        "value_usd": 4762.36
+      },
+      {
+        "marks": "SLI/46",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 188,
+        "unit": "PCS",
+        "weight_kg": 13.09,
+        "value_usd": 10169.06
+      }
+    ],
+    "total_weight_kg": 157.94,
+    "total_value_usd": 14931.42,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "796N",
+    "booking_ref": "BKG-841626",
+    "bl_number": "OOLU599399471",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Dubai, AE",
+    "container_number": "VYMI7800186",
+    "seal_number": "BL928361",
+    "container_type": "20'GP",
+    "cbm": 8.942
+  }
+}

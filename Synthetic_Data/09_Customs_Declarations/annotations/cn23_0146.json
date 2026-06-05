@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0146",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Christopher Lane",
+    "addressee_company": "Wilkerson Tech GmbH",
+    "addressee_address": "16199 Sonia Pine Apt. 257, West Jenniferbury, GA 51926, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 0.932,
+    "total_value": 1659.04,
+    "currency": "CHF",
+    "issue_date": "2025-09-19",
+    "reference": "REF-780428",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.932,
+        "value": 1659.04,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_name": "Kelli Barrera",
+    "sender_company": "Ramsey Global LLC",
+    "sender_address": "77393 Maria Crossing Suite 290, East Jerry, CT 10641, Netherlands",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 20.41,
+    "tracking_number": "EL654367957CM"
+  }
+}

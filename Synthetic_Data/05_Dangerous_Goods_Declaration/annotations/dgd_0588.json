@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0588",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Moore Industry Inc.",
+    "shipper_address": "92014 Thomas Union Apt. 769, Wilsonland, OH 07475, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Trade Cole LLC",
+    "consignee_address": "193 Tammy Summit Apt. 667, Stephensonbury, MA 56665, Thailand",
+    "consignee_country": "Thailand",
+    "emergency_telephone": "+51 291-557-1912",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 30,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 56.38,
+        "qty_unit": "g",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-120864",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 6,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 34.27,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-243108",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "John Wright",
+    "signature_date": "2026-05-05",
+    "signature_place": "Sweden",
+    "awb_number": "085-51424563",
+    "flight_number": "LH8799",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International",
+    "non_dg_reason": "Lithium Ion Batteries \u2014 Section II (PI 967/Section II)"
+  }
+}

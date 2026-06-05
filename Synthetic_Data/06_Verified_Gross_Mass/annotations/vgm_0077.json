@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0077",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Conrad Tech GmbH",
+    "shipper_address": "273 Nathan Freeway, Kellyfort, NJ 24268, Germany",
+    "shipper_country": "Germany",
+    "container_number": "ZNLC4312545",
+    "seal_number": "SL718678",
+    "container_size": "40'HC",
+    "iso_type_code": "45G0",
+    "tare_weight_kg": 4000,
+    "cargo_weight_kg": 20721.8,
+    "packing_materials_kg": 257.0,
+    "vgm_kg": 24978.8,
+    "vessel": "CSCL GLOBE",
+    "voyage": "896S",
+    "bl_number": "OOLU142795921",
+    "booking_reference": "BKG-545085",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-22918",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-17",
+    "signature_date": "2026-05-08",
+    "signatory_name": "Kevin Luna",
+    "signatory_title": "Export Manager",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Drum",
+        "n_units": 7,
+        "gross_wt_kg": 5863.6
+      },
+      {
+        "item_no": 2,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Drum",
+        "n_units": 8,
+        "gross_wt_kg": 169.8
+      },
+      {
+        "item_no": 3,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Bundle",
+        "n_units": 17,
+        "gross_wt_kg": 3856.3
+      },
+      {
+        "item_no": 4,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Cylinder",
+        "n_units": 7,
+        "gross_wt_kg": 384.4
+      },
+      {
+        "item_no": 5,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Case",
+        "n_units": 16,
+        "gross_wt_kg": 10447.7
+      }
+    ]
+  }
+}

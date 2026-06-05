@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0728",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20201217156582",
+    "export_date": "2026-04-28",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Gallegos Commerce Inc.",
+    "usppi_ein": "11-6621805",
+    "usppi_address": "77795 Lopez Ramp Suite 994, Herrerachester, WI 80511, Hong Kong",
+    "ultimate_consignee": "Turner Industry B.V.",
+    "intermediate_consignee": "Trade Lloyd Corp.",
+    "forwarding_agent": "Carlson Commerce GmbH",
+    "destination_country": "Switzerland",
+    "carrier": "FedEx",
+    "bl_awb": "160-31445927",
+    "total_value": 294944.02,
+    "currency": "GBP",
+    "signatory": "John Davidson",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "China",
+        "qty": 414,
+        "unit": "MTR",
+        "entered_value": 130554.9,
+        "duty_rate": 2.3,
+        "duty_amount": 3002.76,
+        "eccn": "0A919",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "South Korea",
+        "qty": 223,
+        "unit": "PKG",
+        "entered_value": 3084.09,
+        "duty_rate": 5.0,
+        "duty_amount": 154.2,
+        "eccn": "5E992",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Japan",
+        "qty": 488,
+        "unit": "KGS",
+        "entered_value": 104144.08,
+        "duty_rate": 0.4,
+        "duty_amount": 416.58,
+        "eccn": "EAR99",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "United States",
+        "qty": 95,
+        "unit": "PKG",
+        "entered_value": 11902.55,
+        "duty_rate": 6.3,
+        "duty_amount": 749.86,
+        "eccn": "0A919",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "United Kingdom",
+        "qty": 407,
+        "unit": "PCS",
+        "entered_value": 45258.4,
+        "duty_rate": 23.1,
+        "duty_amount": 10454.69,
+        "eccn": "EAR99",
+        "schedule_b": "9002.11.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

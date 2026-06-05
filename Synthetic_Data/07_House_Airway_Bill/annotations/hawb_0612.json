@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0612",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-80125932",
+    "mawb_number": "057-43678294",
+    "shipper_name": "Tech Lee Inc.",
+    "shipper_address": "USCGC Cooper, FPO AA 23627, United Arab Emirates",
+    "consignee_name": "Larsen International B.V.",
+    "consignee_address": "37805 Gilbert Corner, Mooreshire, OH 95229, France",
+    "agent_name": "Pacific Gonzalez Ltd",
+    "airport_departure": "SYD",
+    "airport_destination": "ICN",
+    "currency": "GBP",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 26,
+    "gross_weight_kg": 467.2,
+    "chargeable_weight": 603.7,
+    "rate": 5.22,
+    "total_charge": 3151.31,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-12-05",
+    "signatory": "Victoria Dorsey",
+    "iata_code": "29-449",
+    "agent_cass": "4279-7216",
+    "consolidation_ref": "CONS-8376-802459",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-25716234",
+        "pieces": 5,
+        "weight": 68.6,
+        "destination": "YYZ",
+        "consignee": "Stanley International Co.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "085-20750345",
+        "pieces": 8,
+        "weight": 15.1,
+        "destination": "NRT",
+        "consignee": "Industry Shelton S.A.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "020-60133399",
+        "pieces": 14,
+        "weight": 26.6,
+        "destination": "SYD",
+        "consignee": "International Taylor S.A.",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

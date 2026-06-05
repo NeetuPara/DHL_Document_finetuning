@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0351",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-85313786",
+    "mawb_number": "618-23163939",
+    "shipper_name": "Rodgers Commerce Ltd",
+    "shipper_address": "703 Douglas Mountain, Port Nicole, VT 32835, United Arab Emirates",
+    "consignee_name": "Commerce Vargas Ltd",
+    "consignee_address": "USNS Hill, FPO AE 73149, Poland",
+    "agent_name": "Knight Tech Co.",
+    "airport_departure": "NRT",
+    "airport_destination": "DXB",
+    "currency": "AUD",
+    "charge_code": "PP",
+    "declared_value_carriage": "AED 40,743.73",
+    "declared_value_customs": "CNY 40,196.18",
+    "n_pieces": 38,
+    "gross_weight_kg": 75.8,
+    "chargeable_weight": 91.7,
+    "rate": 6.05,
+    "total_charge": 554.78,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-03-04",
+    "signatory": "Jose Peterson MD",
+    "iata_code": "40-918",
+    "agent_cass": "1248-7641",
+    "consolidation_ref": "CONS-5545-419749",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-50557540",
+        "pieces": 19,
+        "weight": 85.8,
+        "destination": "ORD",
+        "consignee": "Contreras Tech AG",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "020-22566227",
+        "pieces": 2,
+        "weight": 67.4,
+        "destination": "YYZ",
+        "consignee": "Reid Commerce GmbH",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "045-83676527",
+        "pieces": 18,
+        "weight": 23.0,
+        "destination": "CDG",
+        "consignee": "Pacific Weber Pte Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "085-80634266",
+        "pieces": 12,
+        "weight": 21.9,
+        "destination": "JFK",
+        "consignee": "Clark Industry Corp.",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

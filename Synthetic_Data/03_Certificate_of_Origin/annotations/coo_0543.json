@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0543",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202512-6221",
+    "exporter_name": "Industry Hamilton Co.",
+    "exporter_address": "6089 Fischer Cliff, Kathleenfurt, MH 09614, Italy",
+    "exporter_country": "Italy",
+    "consignee_name": "Commerce Douglas Ltd",
+    "consignee_address": "360 Shah Square Suite 177, South Mistymouth, NC 90324, Belgium",
+    "consignee_country": "Belgium",
+    "country_of_origin": "Italy",
+    "country_of_destination": "Belgium",
+    "bl_or_awb": "COSU763856307",
+    "issue_date": "2024-09-03",
+    "certifier_name": "Kristen Martinez",
+    "goods": [
+      {
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "hs_code": "2936.90.00",
+        "qty": 28,
+        "unit": "BOX",
+        "weight_kg": 46.29,
+        "origin_criterion": "E",
+        "value": 260.2
+      },
+      {
+        "description": "Electronic Components - Printed Circuit Boards",
+        "hs_code": "8534.00.00",
+        "qty": 347,
+        "unit": "PCS",
+        "weight_kg": 71.38,
+        "origin_criterion": "D",
+        "value": 9071.53
+      },
+      {
+        "description": "Wooden Furniture - Office Chairs",
+        "hs_code": "9401.30.00",
+        "qty": 471,
+        "unit": "PCS",
+        "weight_kg": 8683.71,
+        "origin_criterion": "A",
+        "value": 89366.99
+      }
+    ],
+    "fta_agreement": "NAFTA",
+    "chamber": "Board of Trade"
+  }
+}

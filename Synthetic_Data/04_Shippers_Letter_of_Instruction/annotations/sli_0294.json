@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0294",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202411-3706",
+    "usppi_name": "Hanna Industry AG",
+    "usppi_address": "343 Vanessa Station, West Terri, MD 71906, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "44-5937840",
+    "consignee_name": "Pacific Gilmore Ltd",
+    "consignee_address": "9749 Rachel Port Suite 798, Stevenborough, IA 55521, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Davis Commerce AG",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Kimberly Mitchell",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/16",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 164,
+        "unit": "KGS",
+        "weight_kg": 164.0,
+        "value_usd": 2310.07
+      },
+      {
+        "marks": "EXP/42",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 104,
+        "unit": "PCS",
+        "weight_kg": 109.0,
+        "value_usd": 1011.83
+      },
+      {
+        "marks": "EXP/27",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 161,
+        "unit": "LTR",
+        "weight_kg": 151.91,
+        "value_usd": 4308.19
+      },
+      {
+        "marks": "ABC/7",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 177,
+        "unit": "PCS",
+        "weight_kg": 48.24,
+        "value_usd": 14866.81
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 76,
+        "unit": "PCS",
+        "weight_kg": 5.55,
+        "value_usd": 1954.58
+      }
+    ],
+    "total_weight_kg": 478.7,
+    "total_value_usd": 24451.48,
+    "vessel": "EVER GOLDEN",
+    "voyage": "627N",
+    "booking_ref": "BKG-680537",
+    "bl_number": "OOLU659074600",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Rotterdam, NL",
+    "container_number": "AAMJ8600511",
+    "seal_number": "CL213865",
+    "container_type": "40'GP",
+    "cbm": 34.747
+  }
+}

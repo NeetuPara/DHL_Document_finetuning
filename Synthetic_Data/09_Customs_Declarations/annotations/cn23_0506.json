@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0506",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Walter King",
+    "addressee_company": "Williams Pacific Pte Ltd",
+    "addressee_address": "6219 Harold Ports, Francismouth, MH 65440, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 7.17,
+    "total_value": 3104.96,
+    "currency": "SGD",
+    "issue_date": "2026-01-20",
+    "reference": "REF-071993",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.935,
+        "value": 1777.28,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 16,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.235,
+        "value": 1327.68,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Joshua Rogers",
+    "sender_company": "Trade Hall Inc.",
+    "sender_address": "436 Wade Parkway Apt. 979, Jordanberg, PR 81225, Malaysia",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 40.54,
+    "tracking_number": "JW856641003AA"
+  }
+}

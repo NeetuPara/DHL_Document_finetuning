@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0155",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202603-7965",
+    "usppi_name": "Le Commerce Inc.",
+    "usppi_address": "18157 James Causeway Apt. 267, West Teresa, AR 24429, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "65-8973868",
+    "consignee_name": "Commerce Hernandez Co.",
+    "consignee_address": "3132 Johnson Rue, Micheleview, VT 45862, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Trade Frederick Inc.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Ann Crawford",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/26",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 48,
+        "unit": "PCS",
+        "weight_kg": 401.24,
+        "value_usd": 13030.99
+      },
+      {
+        "marks": "SLI/9",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 66,
+        "unit": "PCS",
+        "weight_kg": 58.15,
+        "value_usd": 267.77
+      },
+      {
+        "marks": "SLI/38",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 39,
+        "unit": "PCS",
+        "weight_kg": 9.27,
+        "value_usd": 35721.34
+      },
+      {
+        "marks": "EXP/4",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 198,
+        "unit": "PKG",
+        "weight_kg": 451.63,
+        "value_usd": 15999.15
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 148,
+        "unit": "PCS",
+        "weight_kg": 21.37,
+        "value_usd": 3568.48
+      }
+    ],
+    "total_weight_kg": 941.66,
+    "total_value_usd": 68587.73,
+    "service": "Air Freight",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 22065.56,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-542960",
+    "destination_country": "Sweden"
+  }
+}

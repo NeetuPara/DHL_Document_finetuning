@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0982",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Steele AG",
+    "shipper_address": "90253 Trevor Estate, East Cathyburgh, WA 43520, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Kelley Global Inc.",
+    "consignee_address": "7360 Delgado Points Suite 237, Saraburgh, SD 13916, Japan",
+    "consignee_country": "Japan",
+    "emergency_telephone": "+84 210-411-8454",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 27,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 78.86,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-302449",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Lisa Watts",
+    "signature_date": "2026-04-18",
+    "signature_place": "Sweden",
+    "awb_number": "160-67705240",
+    "flight_number": "SQ1124",
+    "flight_date": "2026-04-17",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol"
+  }
+}

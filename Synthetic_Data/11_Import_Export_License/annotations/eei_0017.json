@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0017",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20211211442677",
+    "export_date": "2026-01-15",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Chandler International LLC",
+    "usppi_ein": "17-8803778",
+    "usppi_address": "PSC 0591, Box 4080, APO AP 45384, Switzerland",
+    "ultimate_consignee": "International Williams S.A.",
+    "intermediate_consignee": "Global Thompson S.A.",
+    "forwarding_agent": "Industry Schmidt Ltd",
+    "destination_country": "Spain",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "176-31269337",
+    "total_value": 274739.69,
+    "currency": "SGD",
+    "signatory": "Zachary Elliott",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "United States",
+        "qty": 455,
+        "unit": "PCS",
+        "entered_value": 165747.4,
+        "duty_rate": 8.4,
+        "duty_amount": 13922.78,
+        "eccn": "5E992",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Netherlands",
+        "qty": 231,
+        "unit": "PCS",
+        "entered_value": 59817.45,
+        "duty_rate": 3.0,
+        "duty_amount": 1794.52,
+        "eccn": "9A515",
+        "schedule_b": "8518.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "France",
+        "qty": 143,
+        "unit": "MTR",
+        "entered_value": 49174.84,
+        "duty_rate": 17.2,
+        "duty_amount": 8458.07,
+        "eccn": "2B350",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

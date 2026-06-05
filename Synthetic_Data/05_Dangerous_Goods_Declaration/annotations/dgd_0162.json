@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0162",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Hicks International AG",
+    "shipper_address": "5711 Carlson Springs, West Annaton, WY 17960, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Williams Trade Ltd",
+    "consignee_address": "3057 Richard Meadow, North Christine, MI 16240, China",
+    "consignee_country": "China",
+    "emergency_telephone": "+33 816-332-8891",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 20,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 98.43,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-149045",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 19,
+        "pkg_type": "Steel Drum",
+        "net_qty": 60.67,
+        "qty_unit": "g",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-954830",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Valerie Blankenship",
+    "signature_date": "2026-04-16",
+    "signature_place": "Sweden",
+    "awb_number": "006-41711725",
+    "flight_number": "DL194",
+    "departure_airport_code": "PVG",
+    "departure_airport_name": "Shanghai Pudong",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

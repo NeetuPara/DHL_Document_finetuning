@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0063",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Barrett Ltd",
+    "shipper_address": "Unit 0422 Box 6972, DPO AE 35446, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Trade Johnson AG",
+    "consignee_address": "319 Baker Streets Apt. 715, Lake Stephanie, AS 79394, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+6 751-401-5094",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 27,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 18.4,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-421364",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 26,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 93.98,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Justin Gill",
+    "signature_date": "2026-04-22",
+    "signature_place": "United Arab Emirates",
+    "awb_number": "057-65663672",
+    "flight_number": "QR8876",
+    "departure_airport_code": "FRA",
+    "departure_airport_name": "Frankfurt Airport",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International",
+    "non_dg_reason": "Excepted quantities (EQ) per IATA DGR 2.6"
+  }
+}

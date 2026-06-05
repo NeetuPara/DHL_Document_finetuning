@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0317",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202212-1466",
+    "usppi_name": "Fletcher Pacific AG",
+    "usppi_address": "8695 Virginia Overpass, Ellenton, IN 15459, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "57-3406200",
+    "consignee_name": "Global Davis Co.",
+    "consignee_address": "61616 Karen Stravenue Suite 679, Olsonmouth, FL 03195, France",
+    "consignee_country": "France",
+    "notify_party": "Industry Smith Inc.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Austin Wiley",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/35",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 127,
+        "unit": "PCS",
+        "weight_kg": 1237.78,
+        "value_usd": 64875.51
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 47,
+        "unit": "MTR",
+        "weight_kg": 55.16,
+        "value_usd": 639.85
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 92,
+        "unit": "PKG",
+        "weight_kg": 193.21,
+        "value_usd": 3586.68
+      },
+      {
+        "marks": "EXP/38",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 146,
+        "unit": "KGS",
+        "weight_kg": 146.0,
+        "value_usd": 231.34
+      },
+      {
+        "marks": "EXP/41",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 164,
+        "unit": "SET",
+        "weight_kg": 399.34,
+        "value_usd": 15148.58
+      },
+      {
+        "marks": "EXP/32",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 154,
+        "unit": "PCS",
+        "weight_kg": 51.89,
+        "value_usd": 2961.77
+      },
+      {
+        "marks": "ABC/43",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 185,
+        "unit": "CTN",
+        "weight_kg": 103.11,
+        "value_usd": 1721.31
+      }
+    ],
+    "total_weight_kg": 2186.49,
+    "total_value_usd": 89165.04,
+    "service": "Air Freight",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 49088.58,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-431322",
+    "destination_country": "France"
+  }
+}

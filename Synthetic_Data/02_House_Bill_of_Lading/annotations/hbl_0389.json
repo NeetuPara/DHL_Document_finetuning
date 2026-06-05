@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0389",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG701581430",
+    "shipper_name": "Global Conway GmbH",
+    "shipper_address": "5494 Fitzgerald Camp, Lake Mallory, CO 37525, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Smith Trade Pte Ltd",
+    "consignee_address": "990 Hannah Mountain, Lake Ritaberg, HI 78523, Japan",
+    "consignee_country": "Japan",
+    "notify_party_name": "Pacific Macias S.A.",
+    "notify_party_address": "PSC 9653, Box 3457, APO AE 25309, Sweden",
+    "vessel": "EVER GOLDEN",
+    "voyage": "846W",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2024-09-25",
+    "issue_place": "Long Beach",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "UYKR3517229",
+        "seal_no": "SL933720",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "OVWL7486965",
+        "seal_no": "CL208380",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "ILSU3293824",
+        "seal_no": "CL390915",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "number_of_packages": 133,
+    "package_type": "Case",
+    "gross_weight_kg": 14567.0,
+    "net_weight_kg": 12931.6,
+    "cbm": 14.989,
+    "marks_and_numbers": "GLB/20"
+  }
+}

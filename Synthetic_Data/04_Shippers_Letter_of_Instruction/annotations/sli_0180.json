@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0180",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202311-6233",
+    "usppi_name": "Tech Jenkins Co.",
+    "usppi_address": "9995 Rivera Mount Apt. 732, South Michelle, CA 52825, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "35-6396165",
+    "consignee_name": "Pacific Wells Pte Ltd",
+    "consignee_address": "67648 Soto Forge Apt. 701, Lake Jaclyn, NY 52786, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Davis Trade LLC",
+    "forwarder": "Expeditors",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "Stephanie Smith",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/14",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 104,
+        "unit": "MTR",
+        "weight_kg": 92.64,
+        "value_usd": 1476.8
+      },
+      {
+        "marks": "SLI/27",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 51,
+        "unit": "PCS",
+        "weight_kg": 22.17,
+        "value_usd": 901.63
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 39,
+        "unit": "BOX",
+        "weight_kg": 33.74,
+        "value_usd": 1316.61
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 85,
+        "unit": "CTN",
+        "weight_kg": 153.45,
+        "value_usd": 903.29
+      },
+      {
+        "marks": "SLI/5",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 52,
+        "unit": "PKG",
+        "weight_kg": 121.47,
+        "value_usd": 1489.64
+      }
+    ],
+    "total_weight_kg": 423.47,
+    "total_value_usd": 6087.97,
+    "vessel": "MOL TRIUMPH",
+    "voyage": "924E",
+    "booking_ref": "BKG-423631",
+    "bl_number": "YMLU293039724",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "New York, US",
+    "container_number": "WFTZ0816112",
+    "seal_number": "BL844997",
+    "container_type": "45'HC",
+    "cbm": 10.659
+  }
+}

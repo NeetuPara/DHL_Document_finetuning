@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0126",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-61437126",
+    "mawb_number": "125-88258752",
+    "shipper_name": "Tech Marquez GmbH",
+    "shipper_address": "Unit 3464 Box 5105, DPO AE 33289, United States",
+    "consignee_name": "International Goodman Corp.",
+    "consignee_address": "3155 Sharp Square Apt. 565, Arroyostad, ID 32191, Japan",
+    "agent_name": "Commerce Lee Corp.",
+    "airport_departure": "FRA",
+    "airport_destination": "LHR",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "JPY 23,610.11",
+    "declared_value_customs": "NCV",
+    "n_pieces": 34,
+    "gross_weight_kg": 376.4,
+    "chargeable_weight": 423.3,
+    "rate": 5.06,
+    "total_charge": 2141.9,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-06-21",
+    "signatory": "Ralph Tapia",
+    "iata_code": "06-472",
+    "agent_cass": "4562-7284",
+    "consolidation_ref": "CONS-2362-399295",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-16739728",
+        "pieces": 13,
+        "weight": 84.5,
+        "destination": "SYD",
+        "consignee": "Trade Jones Pte Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "074-26720321",
+        "pieces": 17,
+        "weight": 38.9,
+        "destination": "MIA",
+        "consignee": "Gray Trade B.V.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "085-72333306",
+        "pieces": 2,
+        "weight": 20.5,
+        "destination": "SIN",
+        "consignee": "Tech King Corp.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "045-86654232",
+        "pieces": 5,
+        "weight": 63.6,
+        "destination": "ICN",
+        "consignee": "Mcfarland Industry Ltd",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "057-77727514",
+        "pieces": 11,
+        "weight": 25.9,
+        "destination": "MIA",
+        "consignee": "Trade Carr AG",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "618-15831109",
+        "pieces": 3,
+        "weight": 83.1,
+        "destination": "MIA",
+        "consignee": "Foster Pacific AG",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "125-95557555",
+        "pieces": 7,
+        "weight": 67.2,
+        "destination": "SYD",
+        "consignee": "International Vazquez GmbH",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "045-43426519",
+        "pieces": 1,
+        "weight": 50.8,
+        "destination": "HKG",
+        "consignee": "Industry Lopez Co.",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0022",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Andrew Lambert",
+    "addressee_company": "Reeves Tech AG",
+    "addressee_address": "5209 Samantha Station Suite 072, Port James, TX 66861, France",
+    "addressee_country": "France",
+    "total_weight_kg": 7.578,
+    "total_value": 4775.59,
+    "currency": "CNY",
+    "issue_date": "2026-03-15",
+    "reference": "REF-168557",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.516,
+        "value": 1614.32,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 19,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.721,
+        "value": 539.6,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 11,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.168,
+        "value": 1060.51,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 1,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.078,
+        "value": 110.12,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 16,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.095,
+        "value": 1451.04,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "James Cook",
+    "sender_company": "International Greene Co.",
+    "sender_address": "723 Rogers Light, Joshuatown, FM 31490, United States",
+    "sender_phone": "001-584-701-4964x3066",
+    "sender_email": "leslie31@example.net",
+    "addressee_phone": "+1-925-313-1124x091",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 5253.15,
+    "postal_charges": 25.85,
+    "tracking_number": "ML866067785OW"
+  }
+}

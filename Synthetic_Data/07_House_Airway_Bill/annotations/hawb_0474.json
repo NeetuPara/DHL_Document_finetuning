@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0474",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-89906496",
+    "mawb_number": "085-19045244",
+    "shipper_name": "Smith Global Co.",
+    "shipper_address": "1539 Medina Course Apt. 623, New Brandonfort, MS 24717, Japan",
+    "consignee_name": "Taylor International AG",
+    "consignee_address": "54812 Harris Road Apt. 082, Hatfieldberg, AL 39048, Thailand",
+    "agent_name": "Commerce Payne Co.",
+    "airport_departure": "NRT",
+    "airport_destination": "SYD",
+    "currency": "AUD",
+    "charge_code": "PP",
+    "declared_value_carriage": "AUD 44,151.91",
+    "declared_value_customs": "NCV",
+    "n_pieces": 35,
+    "gross_weight_kg": 107.4,
+    "chargeable_weight": 133.2,
+    "rate": 11.67,
+    "total_charge": 1554.44,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "HANDLING CODE: PIL",
+    "issue_date": "2025-10-31",
+    "signatory": "Cindy Gross",
+    "iata_code": "81-450",
+    "agent_cass": "9884-7047",
+    "consolidation_ref": "CONS-7827-683511",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-43105778",
+        "pieces": 14,
+        "weight": 47.6,
+        "destination": "ICN",
+        "consignee": "Jackson Commerce Pte Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "125-76998013",
+        "pieces": 2,
+        "weight": 96.3,
+        "destination": "ICN",
+        "consignee": "Taylor International Co.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "057-26718927",
+        "pieces": 17,
+        "weight": 98.3,
+        "destination": "LHR",
+        "consignee": "Anderson Trade Inc.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

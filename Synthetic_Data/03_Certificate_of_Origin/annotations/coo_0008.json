@@ -1,0 +1,72 @@
+{
+  "document_id": "coo_0008",
+  "document_class": "Certificate of Origin",
+  "format_variant": "FTA-USMCA-Numbered-Fields",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202310-4118",
+    "exporter_name": "Jones Global B.V.",
+    "exporter_address": "39698 Chavez Harbor Apt. 834, South Jacqueline, ND 69287, France",
+    "exporter_country": "France",
+    "consignee_name": "Oliver Industry S.A.",
+    "consignee_address": "041 Wells Forks, Port Sarahchester, AR 04495, Poland",
+    "consignee_country": "Poland",
+    "country_of_origin": "France",
+    "country_of_destination": "Poland",
+    "bl_or_awb": "125-94210021",
+    "issue_date": "2026-01-04",
+    "certifier_name": "Thomas Baker",
+    "goods": [
+      {
+        "description": "Chemical Compounds - Industrial Solvents",
+        "hs_code": "2901.10.00",
+        "qty": 477,
+        "unit": "LTR",
+        "weight_kg": 487.17,
+        "origin_criterion": "F",
+        "value": 9307.78
+      },
+      {
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "hs_code": "2936.90.00",
+        "qty": 309,
+        "unit": "BOX",
+        "weight_kg": 410.28,
+        "origin_criterion": "B",
+        "value": 22904.0
+      },
+      {
+        "description": "Textile Fabrics - Woven Polyester",
+        "hs_code": "5407.42.00",
+        "qty": 476,
+        "unit": "MTR",
+        "weight_kg": 538.3,
+        "origin_criterion": "C",
+        "value": 1632.99
+      },
+      {
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "hs_code": "8518.30.00",
+        "qty": 21,
+        "unit": "PCS",
+        "weight_kg": 2.43,
+        "origin_criterion": "B",
+        "value": 1762.6
+      },
+      {
+        "description": "Medical Devices - Disposable Syringes",
+        "hs_code": "9018.31.00",
+        "qty": 265,
+        "unit": "CTN",
+        "weight_kg": 945.42,
+        "origin_criterion": "B",
+        "value": 16585.63
+      }
+    ],
+    "fta_agreement": "RCEP",
+    "blanket_period_from": "2025-08-17",
+    "blanket_period_to": "2026-09-21",
+    "producer_name": "Martinez Global Inc.",
+    "producer_country": "United Kingdom"
+  }
+}

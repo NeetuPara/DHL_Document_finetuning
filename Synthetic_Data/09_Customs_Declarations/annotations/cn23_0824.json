@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0824",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Sheryl Shepherd",
+    "addressee_company": "Pacific Lopez Pte Ltd",
+    "addressee_address": "38424 Jerry Roads, Duartetown, MN 43951, France",
+    "addressee_country": "France",
+    "total_weight_kg": 4.122,
+    "total_value": 428.2,
+    "currency": "AUD",
+    "issue_date": "2025-07-07",
+    "reference": "REF-451963",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.324,
+        "value": 375.5,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 2,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.798,
+        "value": 52.7,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Lisa Scott",
+    "sender_company": "International Perry Pte Ltd",
+    "sender_address": "62465 Willis Manor Apt. 410, Joseport, SC 38430, India",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 75.19,
+    "tracking_number": "RS884339851DV"
+  }
+}

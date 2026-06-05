@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0421",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202204-1972",
+    "usppi_name": "Murphy Pacific Ltd",
+    "usppi_address": "3796 Cortez Points Suite 658, New Scott, SC 22214, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "52-5352211",
+    "consignee_name": "Barber International LLC",
+    "consignee_address": "62852 Chambers Throughway, North Christopherport, LA 58387, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Commerce Davis GmbH",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Gail Simon",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/38",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 49,
+        "unit": "PCS",
+        "weight_kg": 3.18,
+        "value_usd": 2235.03
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 179,
+        "unit": "PCS",
+        "weight_kg": 1736.27,
+        "value_usd": 66865.63
+      }
+    ],
+    "total_weight_kg": 1739.45,
+    "total_value_usd": 69100.66,
+    "service": "Ground",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 35420.92,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-217083",
+    "destination_country": "Malaysia"
+  }
+}

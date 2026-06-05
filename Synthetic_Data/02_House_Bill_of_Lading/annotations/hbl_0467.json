@@ -1,0 +1,43 @@
+{
+  "document_id": "hbl_0467",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU789264401",
+    "shipper_name": "Tech Ferguson Inc.",
+    "shipper_address": "184 Moran Throughway, Brooksview, AR 07151, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Ballard Industry LLC",
+    "consignee_address": "48550 Ann Island, East Ericview, NJ 59442, Germany",
+    "consignee_country": "Germany",
+    "notify_party_name": "Industry Black Ltd",
+    "notify_party_address": "515 Armstrong Lodge, Port Oscar, CO 75017, Thailand",
+    "vessel": "YANG MING MYTH",
+    "voyage": "153N",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2024-12-16",
+    "issue_place": "Hamburg",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "IBSG7716804",
+        "seal_no": "BL758917",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 182,
+    "package_type": "Bundle",
+    "gross_weight_kg": 11703.4,
+    "net_weight_kg": 10321.4,
+    "cbm": 5.707,
+    "marks_and_numbers": "GLB/20"
+  }
+}

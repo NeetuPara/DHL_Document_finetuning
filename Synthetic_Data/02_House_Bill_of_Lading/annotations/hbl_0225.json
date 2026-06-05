@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0225",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU934397186",
+    "shipper_name": "Richardson Tech Inc.",
+    "shipper_address": "1199 Melissa Valley, Nealmouth, TN 03467, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Trade Holland LLC",
+    "consignee_address": "8451 David Fort Suite 469, Davidland, PR 80812, Germany",
+    "consignee_country": "Germany",
+    "notify_party_name": "Hendricks Global S.A.",
+    "notify_party_address": "116 Morrison Stravenue, Rojasstad, RI 40597, China",
+    "vessel": "MADRID MAERSK",
+    "voyage": "743N",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2025-01-16",
+    "issue_place": "Busan",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "PYRU6129510",
+        "seal_no": "SL430778",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "CAPT2266170",
+        "seal_no": "CL994273",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "AVZK9808196",
+        "seal_no": "BL110254",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "WJLF9904268",
+        "seal_no": "BL816291",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 404,
+    "package_type": "Pallet",
+    "gross_weight_kg": 13507.4,
+    "net_weight_kg": 12606.3,
+    "cbm": 35.873,
+    "marks_and_numbers": "GLB/31"
+  }
+}

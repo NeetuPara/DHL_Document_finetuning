@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0039",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Howell Global AG",
+    "shipper_address": "256 Jones Corner Apt. 969, South Robertport, MP 45210, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Trade Hensley S.A.",
+    "consignee_address": "4123 Rice Flats, Port Brittanyport, CO 21968, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+94 349-333-5011",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 6,
+        "pkg_type": "Steel Drum",
+        "net_qty": 41.15,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-230404",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Zachary Williams",
+    "signature_date": "2026-04-30",
+    "signature_place": "Malaysia",
+    "awb_number": "074-78763549",
+    "flight_number": "LH7361",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

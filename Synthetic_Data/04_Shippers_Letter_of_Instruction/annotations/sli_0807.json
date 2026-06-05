@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0807",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202406-8260",
+    "usppi_name": "International Bradford Ltd",
+    "usppi_address": "5685 Ernest Cliffs Suite 393, Lake Sueview, WA 32214, Italy",
+    "usppi_country": "Italy",
+    "ein": "48-1189328",
+    "consignee_name": "Commerce Hale Ltd",
+    "consignee_address": "51636 Hunter Ranch, West Jeffery, NV 34935, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Sims International LLC",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Glenda Clark",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/31",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 177,
+        "unit": "KGS",
+        "weight_kg": 177.0,
+        "value_usd": 1180.71
+      },
+      {
+        "marks": "SLI/10",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 14,
+        "unit": "CTN",
+        "weight_kg": 37.05,
+        "value_usd": 149.38
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 14,
+        "unit": "PCS",
+        "weight_kg": 16.77,
+        "value_usd": 13922.21
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 195,
+        "unit": "CTN",
+        "weight_kg": 729.92,
+        "value_usd": 8894.28
+      },
+      {
+        "marks": "EXP/7",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 147,
+        "unit": "PCS",
+        "weight_kg": 1217.06,
+        "value_usd": 30841.19
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 85,
+        "unit": "MTR",
+        "weight_kg": 27.73,
+        "value_usd": 306.6
+      }
+    ],
+    "total_weight_kg": 2205.53,
+    "total_value_usd": 55294.37,
+    "vessel": "MSC OSCAR",
+    "voyage": "142W",
+    "booking_ref": "BKG-201161",
+    "bl_number": "OOLU881868124",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Hamburg, DE",
+    "container_number": "CGFV2783646",
+    "seal_number": "SL872886",
+    "container_type": "45'HC",
+    "cbm": 47.416
+  }
+}

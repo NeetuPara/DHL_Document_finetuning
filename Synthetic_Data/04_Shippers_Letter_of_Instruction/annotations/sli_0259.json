@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0259",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202203-2629",
+    "usppi_name": "Taylor Global Pte Ltd",
+    "usppi_address": "7128 Olson Cliff Suite 348, East Frances, MN 38196, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "92-9058642",
+    "consignee_name": "White Pacific AG",
+    "consignee_address": "01112 Andrea Mountains Suite 208, Nancystad, ID 22892, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Johnson Trade Inc.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "2B350",
+    "signatory_name": "Andrew Lyons",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/4",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 177,
+        "unit": "PCS",
+        "weight_kg": 2830.78,
+        "value_usd": 22004.83
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 121,
+        "unit": "BOX",
+        "weight_kg": 59.12,
+        "value_usd": 10489.04
+      }
+    ],
+    "total_weight_kg": 2889.9,
+    "total_value_usd": 32493.87,
+    "service": "LCL Ocean",
+    "named_port": "Hong Kong, HK",
+    "insurance_value_usd": 31689.54,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-810038",
+    "destination_country": "Germany"
+  }
+}

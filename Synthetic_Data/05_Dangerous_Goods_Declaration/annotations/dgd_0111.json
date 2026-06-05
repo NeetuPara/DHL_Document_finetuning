@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0111",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Santos S.A.",
+    "shipper_address": "9012 Clark Trace Apt. 541, Angeltown, GU 41714, France",
+    "shipper_country": "France",
+    "consignee_name": "Tech Clark Co.",
+    "consignee_address": "36079 Ryan Road, South Brittanyville, IN 42551, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+92 243-218-9522",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 41,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 23.23,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Caitlin Stein",
+    "signature_date": "2026-04-18",
+    "signature_place": "France",
+    "awb_number": "085-56059854",
+    "flight_number": "DL1381",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

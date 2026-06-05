@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0678",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-28029468",
+    "mawb_number": "618-56454760",
+    "shipper_name": "Atkinson Industry GmbH",
+    "shipper_address": "2082 Richard Square, Johnfort, VA 69381, Italy",
+    "consignee_name": "Pacific Larson Inc.",
+    "consignee_address": "6318 Black Points, Alfredport, ND 15585, Australia",
+    "agent_name": "Eaton Tech LLC",
+    "airport_departure": "MIA",
+    "airport_destination": "JFK",
+    "currency": "AED",
+    "charge_code": "PP",
+    "declared_value_carriage": "CAD 21,299.64",
+    "declared_value_customs": "NCV",
+    "n_pieces": 9,
+    "gross_weight_kg": 403.0,
+    "chargeable_weight": 492.1,
+    "rate": 9.3,
+    "total_charge": 4576.53,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-09-04",
+    "signatory": "Nathan Davis",
+    "iata_code": "03-338",
+    "agent_cass": "0366-8178",
+    "consolidation_ref": "CONS-2646-307940",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-45939212",
+        "pieces": 6,
+        "weight": 42.4,
+        "destination": "MIA",
+        "consignee": "Global Mcbride S.A.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "045-84867121",
+        "pieces": 14,
+        "weight": 29.5,
+        "destination": "AMS",
+        "consignee": "Global Foster LLC",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "125-41700955",
+        "pieces": 17,
+        "weight": 82.8,
+        "destination": "LAX",
+        "consignee": "Bailey International B.V.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "074-74527687",
+        "pieces": 9,
+        "weight": 63.0,
+        "destination": "AMS",
+        "consignee": "Copeland Tech Inc.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "176-41746070",
+        "pieces": 17,
+        "weight": 95.5,
+        "destination": "LHR",
+        "consignee": "Commerce Elliott B.V.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "045-50421720",
+        "pieces": 3,
+        "weight": 58.6,
+        "destination": "CDG",
+        "consignee": "Miles Tech Corp.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "125-15040802",
+        "pieces": 15,
+        "weight": 33.1,
+        "destination": "NRT",
+        "consignee": "Obrien Global LLC",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

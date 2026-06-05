@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0209",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU390731312",
+    "shipper_name": "Cannon Industry Inc.",
+    "shipper_address": "28014 Hernandez Turnpike Apt. 193, Hopkinsmouth, SC 56850, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Commerce Mendoza LLC",
+    "consignee_address": "1976 Stephanie Ridges, Robbinsborough, AL 85457, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party_name": "Aguirre International GmbH",
+    "notify_party_address": "73360 Joseph View, North Joshualand, NJ 87609, Australia",
+    "vessel": "MSC GULSUN",
+    "voyage": "339S",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2025-06-12",
+    "issue_place": "Singapore",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "KAIO6150005",
+        "seal_no": "CL344503",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "OOWG1274409",
+        "seal_no": "CL643671",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "DLDZ1735979",
+        "seal_no": "SL211548",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 493,
+    "package_type": "Bundle",
+    "gross_weight_kg": 2255.5,
+    "net_weight_kg": 2107.0,
+    "cbm": 18.875,
+    "marks_and_numbers": "XYZ/12"
+  }
+}

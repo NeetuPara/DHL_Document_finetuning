@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0080",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Christina Garcia",
+    "addressee_company": "Commerce Summers GmbH",
+    "addressee_address": "52725 Edwards Village Suite 544, Kathrynside, WI 06497, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 13.802,
+    "total_value": 2931.58,
+    "currency": "EUR",
+    "issue_date": "2025-12-04",
+    "reference": "REF-448666",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.98,
+        "value": 2194.53,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 5,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.906,
+        "value": 307.35,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 15,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.356,
+        "value": 269.4,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 1,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.042,
+        "value": 27.35,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 1,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 4.518,
+        "value": 132.95,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "Ray Martinez",
+    "sender_company": "International Meyer B.V.",
+    "sender_address": "PSC 8315, Box 2119, APO AP 91155, South Korea",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 62.53,
+    "tracking_number": "BT319091790ME"
+  }
+}

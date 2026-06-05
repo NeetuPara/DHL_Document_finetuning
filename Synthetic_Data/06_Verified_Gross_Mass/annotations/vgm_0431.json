@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0431",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "International Hurst Ltd",
+    "shipper_address": "532 Kim Greens, Port Tracybury, ME 38542, Sweden",
+    "shipper_country": "Sweden",
+    "container_number": "UYMZ4612720",
+    "seal_number": "SL531793",
+    "container_size": "20'OT",
+    "iso_type_code": "22U0",
+    "tare_weight_kg": 2400,
+    "cargo_weight_kg": 9826.7,
+    "packing_materials_kg": 200.2,
+    "vgm_kg": 12426.9,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "628S",
+    "bl_number": "YMLU327658499",
+    "booking_reference": "BKG-234822",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-67898",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-26",
+    "signature_date": "2026-05-09",
+    "signatory_name": "Mary Green",
+    "signatory_title": "Shipping Coordinator",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Case",
+        "n_units": 4,
+        "gross_wt_kg": 2370.7
+      },
+      {
+        "item_no": 2,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Drum",
+        "n_units": 8,
+        "gross_wt_kg": 374.7
+      },
+      {
+        "item_no": 3,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Case",
+        "n_units": 3,
+        "gross_wt_kg": 3010.9
+      },
+      {
+        "item_no": 4,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Pallet",
+        "n_units": 17,
+        "gross_wt_kg": 2005.4
+      },
+      {
+        "item_no": 5,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Pallet",
+        "n_units": 16,
+        "gross_wt_kg": 2065.0
+      }
+    ]
+  }
+}

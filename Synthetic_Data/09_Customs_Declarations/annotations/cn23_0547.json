@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0547",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Lisa Simmons",
+    "addressee_company": "Arnold Global LLC",
+    "addressee_address": "73074 Bradford Lodge Apt. 567, Wilsonburgh, WV 65326, China",
+    "addressee_country": "China",
+    "total_weight_kg": 6.139,
+    "total_value": 3873.98,
+    "currency": "JPY",
+    "issue_date": "2026-02-16",
+    "reference": "REF-732705",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.69,
+        "value": 784.7,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 10,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.081,
+        "value": 1314.5,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 14,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.368,
+        "value": 1774.78,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_name": "Douglas Holmes",
+    "sender_company": "Trade Dodson Inc.",
+    "sender_address": "428 Joshua Land Apt. 537, Thomasland, OR 82778, Poland",
+    "sender_phone": "840-897-2302",
+    "sender_email": "kennethstewart@example.net",
+    "addressee_phone": "566-700-4718",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 15.6,
+    "tracking_number": "LS758400772UO"
+  }
+}

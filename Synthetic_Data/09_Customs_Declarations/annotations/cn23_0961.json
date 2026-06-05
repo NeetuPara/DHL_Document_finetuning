@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0961",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jared Delacruz",
+    "addressee_company": "Global Zamora GmbH",
+    "addressee_address": "USNS Soto, FPO AE 94268, Malaysia",
+    "addressee_country": "Malaysia",
+    "total_weight_kg": 10.492,
+    "total_value": 2737.76,
+    "currency": "AUD",
+    "issue_date": "2026-04-17",
+    "reference": "REF-763432",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.684,
+        "value": 123.01,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 19,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.443,
+        "value": 928.15,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 20,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.365,
+        "value": 1686.6,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Cody Miller",
+    "sender_company": "Commerce Green Corp.",
+    "sender_address": "693 Justin Via, Lake Katherineton, AS 50919, France",
+    "sender_phone": "(853)882-0259x5901",
+    "sender_email": "umitchell@example.net",
+    "addressee_phone": "456-867-1739",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 19.05,
+    "tracking_number": "GC022992701VW"
+  }
+}

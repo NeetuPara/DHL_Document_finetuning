@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0452",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Ronald Johnson",
+    "addressee_company": "Young Commerce Corp.",
+    "addressee_address": "484 Evan Unions Apt. 257, East Desiree, ME 22656, India",
+    "addressee_country": "India",
+    "total_weight_kg": 3.439,
+    "total_value": 2818.0,
+    "currency": "USD",
+    "issue_date": "2025-08-27",
+    "reference": "REF-201241",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.681,
+        "value": 2143.52,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 3,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.273,
+        "value": 345.78,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 5,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.485,
+        "value": 328.7,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Alice Fitzgerald",
+    "sender_company": "Global Rodriguez LLC",
+    "sender_address": "5678 Kelsey Knoll, South Frankberg, VI 44882, United States",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 53.12,
+    "tracking_number": "LQ948693236MI"
+  }
+}

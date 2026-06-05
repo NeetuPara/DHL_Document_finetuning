@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0194",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Nielsen International AG",
+    "shipper_address": "93530 Kelly Ridge Apt. 012, West Jacob, PW 32923, South Korea",
+    "shipper_country": "South Korea",
+    "container_number": "WKHH0796212",
+    "seal_number": "CL256392",
+    "container_size": "40'HC",
+    "iso_type_code": "45G0",
+    "tare_weight_kg": 4000,
+    "cargo_weight_kg": 17759.5,
+    "packing_materials_kg": 417.3,
+    "vgm_kg": 22176.8,
+    "vessel": "MADRID MAERSK",
+    "voyage": "359S",
+    "bl_number": "OOLU949471558",
+    "booking_reference": "BKG-491960",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-96169",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-24",
+    "signature_date": "2026-05-08",
+    "signatory_name": "Erin Jacobs",
+    "signatory_title": "Operations Director",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Bag",
+        "n_units": 15,
+        "gross_wt_kg": 472.1
+      },
+      {
+        "item_no": 2,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Cylinder",
+        "n_units": 7,
+        "gross_wt_kg": 2759.0
+      },
+      {
+        "item_no": 3,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Cylinder",
+        "n_units": 3,
+        "gross_wt_kg": 1928.8
+      },
+      {
+        "item_no": 4,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Roll",
+        "n_units": 6,
+        "gross_wt_kg": 2029.4
+      },
+      {
+        "item_no": 5,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Carton",
+        "n_units": 5,
+        "gross_wt_kg": 10570.2
+      }
+    ]
+  }
+}

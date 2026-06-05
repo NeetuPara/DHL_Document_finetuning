@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0359",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Eric Garcia",
+    "addressee_company": "Williams Commerce Ltd",
+    "addressee_address": "86881 Parker Junction Apt. 427, Lake Sandrabury, MD 34075, China",
+    "addressee_country": "China",
+    "total_weight_kg": 2.343,
+    "total_value": 139.47,
+    "currency": "AUD",
+    "issue_date": "2026-03-31",
+    "reference": "REF-632058",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.343,
+        "value": 139.47,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Eric Christensen",
+    "sender_company": "Rice Global Corp.",
+    "sender_address": "73588 Haas Camp Apt. 337, Markport, MP 90769, Spain",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 153.42,
+    "postal_charges": 69.33,
+    "tracking_number": "ES316545798RP"
+  }
+}

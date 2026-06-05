@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0858",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-88536923",
+    "mawb_number": "085-16720381",
+    "shipper_name": "Thompson Global GmbH",
+    "shipper_address": "5259 William Curve, Vincentfurt, MA 72350, France",
+    "consignee_name": "Craig Trade Inc.",
+    "consignee_address": "7125 Alexandria Locks, Blackburgh, MP 92885, Netherlands",
+    "agent_name": "Mcdaniel International Corp.",
+    "airport_departure": "SIN",
+    "airport_destination": "YYZ",
+    "currency": "AUD",
+    "charge_code": "PP",
+    "declared_value_carriage": "EUR 32,316.24",
+    "declared_value_customs": "CHF 14,580.64",
+    "n_pieces": 36,
+    "gross_weight_kg": 276.0,
+    "chargeable_weight": 296.7,
+    "rate": 4.66,
+    "total_charge": 1382.62,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "TEMP CONTROLLED: 5\u00b0C - 24\u00b0C",
+    "issue_date": "2025-08-04",
+    "signatory": "Natasha Miller",
+    "iata_code": "57-771",
+    "agent_cass": "3209-3689",
+    "consolidation_ref": "CONS-1126-656742",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-71420029",
+        "pieces": 10,
+        "weight": 22.0,
+        "destination": "AMS",
+        "consignee": "International Thompson Inc.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "176-58157195",
+        "pieces": 13,
+        "weight": 17.8,
+        "destination": "YYZ",
+        "consignee": "Brown Trade Co.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "125-99308622",
+        "pieces": 7,
+        "weight": 54.5,
+        "destination": "NRT",
+        "consignee": "Global Smith Corp.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "176-10305851",
+        "pieces": 9,
+        "weight": 63.3,
+        "destination": "SYD",
+        "consignee": "Bennett International LLC",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

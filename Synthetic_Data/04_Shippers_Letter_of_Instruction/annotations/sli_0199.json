@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0199",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202509-8030",
+    "usppi_name": "Stephenson Tech Inc.",
+    "usppi_address": "1333 Hayes Forks, Richardstad, CT 16917, Spain",
+    "usppi_country": "Spain",
+    "ein": "47-2453321",
+    "consignee_name": "Industry Lee Co.",
+    "consignee_address": "939 Jennifer Alley, North Joshua, GA 27239, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Global Mathis Inc.",
+    "forwarder": "Panalpina",
+    "incoterm": "EXW",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Angel Bates",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/7",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 42,
+        "unit": "CTN",
+        "weight_kg": 195.28,
+        "value_usd": 2756.51
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 79,
+        "unit": "PCS",
+        "weight_kg": 95.55,
+        "value_usd": 258.96
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 128,
+        "unit": "LTR",
+        "weight_kg": 132.04,
+        "value_usd": 3963.76
+      },
+      {
+        "marks": "ABC/14",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 23,
+        "unit": "PCS",
+        "weight_kg": 3.42,
+        "value_usd": 2147.86
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 27,
+        "unit": "CTN",
+        "weight_kg": 45.37,
+        "value_usd": 225.82
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 169,
+        "unit": "PCS",
+        "weight_kg": 78.65,
+        "value_usd": 40825.17
+      }
+    ],
+    "total_weight_kg": 550.31,
+    "total_value_usd": 50178.08,
+    "service": "Ground",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 20737.34,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-901856",
+    "destination_country": "Malaysia"
+  }
+}

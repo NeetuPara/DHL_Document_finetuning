@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0793",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202008-7629",
+    "usppi_name": "Jenkins Commerce LLC",
+    "usppi_address": "1535 Teresa Road, South Ashley, NM 01975, United States",
+    "usppi_country": "United States",
+    "ein": "39-8923952",
+    "consignee_name": "International Huffman Inc.",
+    "consignee_address": "84831 Wright Cliff, Holtfurt, FL 37621, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Thompson Global Pte Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Sarah Lyons",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/25",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 32,
+        "unit": "PCS",
+        "weight_kg": 11.47,
+        "value_usd": 3976.47
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 190,
+        "unit": "PCS",
+        "weight_kg": 242.87,
+        "value_usd": 3269.1
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 98,
+        "unit": "KGS",
+        "weight_kg": 98.0,
+        "value_usd": 163.98
+      },
+      {
+        "marks": "SLI/27",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 21,
+        "unit": "SET",
+        "weight_kg": 46.87,
+        "value_usd": 3091.62
+      }
+    ],
+    "total_weight_kg": 399.21,
+    "total_value_usd": 10501.17,
+    "service": "Air Freight",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 14162.19,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-423897",
+    "destination_country": "Italy"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0740",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU630358890",
+    "shipper_name": "Wise Trade Pte Ltd",
+    "shipper_address": "37418 Blair Ramp, Port Jennifer, IA 41549, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Harper Pacific Inc.",
+    "consignee_address": "52110 Adam Islands, South Alanfurt, IN 24987, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party_name": "Foster International B.V.",
+    "notify_party_address": "USNV Wright, FPO AP 77147, Netherlands",
+    "vessel": "ONE INNOVATION",
+    "voyage": "233W",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2024-07-24",
+    "issue_place": "New York",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "ONBZ4101964",
+        "seal_no": "BL636861",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "ZEYC1781819",
+        "seal_no": "CL329487",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "ZEYC0012242",
+        "seal_no": "SL218588",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 412,
+    "package_type": "Crate",
+    "gross_weight_kg": 14008.9,
+    "net_weight_kg": 12617.6,
+    "cbm": 18.046,
+    "marks_and_numbers": "XYZ/19"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0028",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "091-16877578-7",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2025-08-25",
+    "port_of_entry": "HOU - Houston",
+    "transport_mode": "Ocean",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "618-86568757",
+    "importer_name": "Global Curry Co.",
+    "importer_ein": "70-9759555",
+    "consignee_name": "Pacific Edwards Corp.",
+    "customs_broker": "Ruiz Global Ltd",
+    "broker_filer_code": "NJn",
+    "country_of_origin": "China",
+    "total_value": 299442.41,
+    "total_duty": 47575.86,
+    "currency": "CAD",
+    "signatory": "Terri Garza",
+    "signatory_title": "Trade Finance Manager",
+    "line_items": [
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Australia",
+        "qty": 163,
+        "unit": "KGS",
+        "entered_value": 34655.43,
+        "duty_rate": 14.6,
+        "duty_amount": 5059.69,
+        "eccn": "EAR99",
+        "schedule_b": "2008.19.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Japan",
+        "qty": 178,
+        "unit": "PCS",
+        "entered_value": 30357.9,
+        "duty_rate": 18.2,
+        "duty_amount": 5525.14,
+        "eccn": "9A515",
+        "schedule_b": "8483.40.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Spain",
+        "qty": 494,
+        "unit": "PCS",
+        "entered_value": 224957.72,
+        "duty_rate": 16.1,
+        "duty_amount": 36218.19,
+        "eccn": "2B350",
+        "schedule_b": "8534.00.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Spain",
+        "qty": 72,
+        "unit": "KGS",
+        "entered_value": 6393.6,
+        "duty_rate": 6.6,
+        "duty_amount": 421.98,
+        "eccn": "3A992",
+        "schedule_b": "2008.19.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Brazil",
+        "qty": 16,
+        "unit": "PCS",
+        "entered_value": 3077.76,
+        "duty_rate": 11.4,
+        "duty_amount": 350.86,
+        "eccn": "EAR99",
+        "schedule_b": "3926.90.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

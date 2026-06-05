@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0112",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Alyssa Bowers",
+    "addressee_company": "Kaufman Trade Pte Ltd",
+    "addressee_address": "9552 Cunningham Lodge, South Christopherhaven, PA 47953, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 7.713,
+    "total_value": 2657.26,
+    "currency": "AED",
+    "issue_date": "2025-09-11",
+    "reference": "REF-347180",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.427,
+        "value": 1877.58,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 2,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.851,
+        "value": 127.48,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 15,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.435,
+        "value": 652.2,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Mr. James Vazquez",
+    "sender_company": "Rodgers Tech AG",
+    "sender_address": "98631 Mitchell Alley, South Amanda, DE 29838, Italy",
+    "sender_phone": "+1-988-465-6596x06508",
+    "sender_email": "caitlincastro@example.com",
+    "addressee_phone": "234.279.1964x8140",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 57.86,
+    "tracking_number": "RM709898168MU"
+  }
+}

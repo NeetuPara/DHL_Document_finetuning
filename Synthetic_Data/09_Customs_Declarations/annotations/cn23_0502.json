@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0502",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Daniel Hoffman",
+    "addressee_company": "Tech Duncan Corp.",
+    "addressee_address": "7084 Lori Walk Suite 786, Westton, LA 78099, China",
+    "addressee_country": "China",
+    "total_weight_kg": 1.07,
+    "total_value": 273.02,
+    "currency": "SGD",
+    "issue_date": "2025-09-13",
+    "reference": "REF-266760",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.07,
+        "value": 273.02,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Jordan Fitzpatrick",
+    "sender_company": "Industry Dickerson Inc.",
+    "sender_address": "11877 Gabriela Spring, Philipburgh, MO 48546, Spain",
+    "sender_phone": "667.973.7510x08613",
+    "sender_email": "jsanders@example.org",
+    "addressee_phone": "(763)678-1053x64277",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 300.32,
+    "postal_charges": 46.31,
+    "tracking_number": "GT502914819RW"
+  }
+}

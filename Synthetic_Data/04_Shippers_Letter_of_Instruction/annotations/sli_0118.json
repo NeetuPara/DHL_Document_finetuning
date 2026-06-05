@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0118",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202603-2580",
+    "usppi_name": "Industry Crosby GmbH",
+    "usppi_address": "82886 Edward Isle, Denisechester, ND 77306, Canada",
+    "usppi_country": "Canada",
+    "ein": "80-5522394",
+    "consignee_name": "Industry Caldwell Co.",
+    "consignee_address": "993 Hancock Road Apt. 878, Martinezville, CT 82959, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "International Strong LLC",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Robert Hill",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/46",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 157,
+        "unit": "PCS",
+        "weight_kg": 18.92,
+        "value_usd": 11828.25
+      },
+      {
+        "marks": "ABC/43",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 48,
+        "unit": "KGS",
+        "weight_kg": 48.0,
+        "value_usd": 96.4
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 75,
+        "unit": "PCS",
+        "weight_kg": 95.07,
+        "value_usd": 67489.46
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 142,
+        "unit": "PCS",
+        "weight_kg": 112.93,
+        "value_usd": 650.15
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 17,
+        "unit": "PCS",
+        "weight_kg": 319.6,
+        "value_usd": 7357.13
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 163,
+        "unit": "SET",
+        "weight_kg": 280.82,
+        "value_usd": 21065.86
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 110,
+        "unit": "PCS",
+        "weight_kg": 18.38,
+        "value_usd": 14419.17
+      }
+    ],
+    "total_weight_kg": 893.72,
+    "total_value_usd": 122906.42,
+    "service": "Express Courier",
+    "named_port": "Dubai International",
+    "insurance_value_usd": 2604.94,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-723945",
+    "destination_country": "United Kingdom"
+  }
+}

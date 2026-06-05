@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0990",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Rachel Kelly",
+    "addressee_company": "Castillo Tech Pte Ltd",
+    "addressee_address": "USS Gay, FPO AP 65682, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 4.266,
+    "total_value": 2241.36,
+    "currency": "AED",
+    "issue_date": "2025-09-17",
+    "reference": "REF-730698",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.989,
+        "value": 31.04,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 4,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.691,
+        "value": 156.56,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 16,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 0.586,
+        "value": 2053.76,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_country": "Thailand",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "370-51049065-1",
+    "entry_type": "Informal Entry",
+    "duty_rate": 3.3,
+    "estimated_duty": 73.96,
+    "importer_ein": "22-6295841",
+    "customs_broker": "International Turner S.A."
+  }
+}

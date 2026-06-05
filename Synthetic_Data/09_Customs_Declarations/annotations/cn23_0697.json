@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0697",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Shawn Perez",
+    "addressee_company": "Commerce Williams LLC",
+    "addressee_address": "86597 Brown Ford, East Leslie, NC 73588, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 11.209,
+    "total_value": 2363.67,
+    "currency": "AUD",
+    "issue_date": "2025-08-02",
+    "reference": "REF-140642",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.463,
+        "value": 52.46,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 9,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.935,
+        "value": 1294.29,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 20,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.013,
+        "value": 865.0,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 4,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.798,
+        "value": 151.92,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Rachael Rodriguez",
+    "sender_company": "Weaver Trade Pte Ltd",
+    "sender_address": "0051 Michael Haven, South Juanside, TX 62328, United Arab Emirates",
+    "sender_phone": "+1-384-214-7602",
+    "sender_email": "lauralamb@example.org",
+    "addressee_phone": "(930)612-0220",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 2600.04,
+    "postal_charges": 67.14,
+    "tracking_number": "FC783854393WY"
+  }
+}

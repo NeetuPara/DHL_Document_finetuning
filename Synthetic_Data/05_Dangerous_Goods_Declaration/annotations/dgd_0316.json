@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0316",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Taylor LLC",
+    "shipper_address": "007 Hardy Viaduct Apt. 192, Ericamouth, AZ 67243, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Industry Walker Pte Ltd",
+    "consignee_address": "4259 Alexandra Land, Jenningstown, TX 60954, Germany",
+    "consignee_country": "Germany",
+    "emergency_telephone": "+18 967-212-3021",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 31,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 12.96,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-130666",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Tammy Delgado",
+    "signature_date": "2026-05-13",
+    "signature_place": "Netherlands",
+    "awb_number": "176-91100321",
+    "flight_number": "LH5059",
+    "flight_date": "2026-05-29",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International"
+  }
+}

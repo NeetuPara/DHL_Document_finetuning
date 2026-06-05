@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0423",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Stephens Ltd",
+    "shipper_address": "91393 Thomas Ferry Suite 323, Brownville, PW 15489, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Gonzalez Global Corp.",
+    "consignee_address": "55387 Gabriela Underpass, Wellsmouth, CA 12345, Thailand",
+    "consignee_country": "Thailand",
+    "emergency_telephone": "+49 292-916-8293",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 7,
+        "pkg_type": "Steel Drum",
+        "net_qty": 30.27,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-525043",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Steven Watts PhD",
+    "signature_date": "2026-04-16",
+    "signature_place": "Singapore",
+    "awb_number": "045-67395658",
+    "flight_number": "SQ7680",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

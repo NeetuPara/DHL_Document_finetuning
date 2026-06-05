@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0136",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Anderson Trade Co.",
+    "shipper_address": "80294 Misty Lights Apt. 930, Port Jasmine, NV 28830, France",
+    "shipper_country": "France",
+    "consignee_name": "Massey Global Inc.",
+    "consignee_address": "65351 Justin Cliff, Kennethton, NY 08311, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+75 119-351-1571",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 35,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 67.64,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-556848",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 48,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 87.2,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-720621",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Carol Turner",
+    "signature_date": "2026-04-15",
+    "signature_place": "France",
+    "awb_number": "618-83177696",
+    "flight_number": "EK218",
+    "flight_date": "2026-05-08",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol"
+  }
+}

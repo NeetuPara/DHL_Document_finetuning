@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0221",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Tina Smith",
+    "addressee_company": "Barnett Global Inc.",
+    "addressee_address": "Unit 2951 Box 5285, DPO AP 90130, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 16.667,
+    "total_value": 4882.36,
+    "currency": "AUD",
+    "issue_date": "2025-10-20",
+    "reference": "REF-763201",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.95,
+        "value": 553.6,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 13,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.925,
+        "value": 809.25,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 20,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.578,
+        "value": 1894.4,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 14,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.715,
+        "value": 1513.96,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 13,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.499,
+        "value": 111.15,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_name": "Matthew Gonzalez",
+    "sender_company": "Haynes Tech LLC",
+    "sender_address": "907 Huffman Crescent Suite 501, Gabrielleberg, MO 25116, Switzerland",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 45.55,
+    "tracking_number": "EB688258760MJ"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0028",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202506-4876",
+    "usppi_name": "Trade Ewing Pte Ltd",
+    "usppi_address": "6541 Mcpherson Mall, Lake Meaganport, WV 15467, Spain",
+    "usppi_country": "Spain",
+    "ein": "64-6412209",
+    "consignee_name": "King Tech Co.",
+    "consignee_address": "894 Smith Canyon, Lewisburgh, TN 30608, India",
+    "consignee_country": "India",
+    "notify_party": "Industry Smith Co.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Mercedes Harvey",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/18",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 131,
+        "unit": "CTN",
+        "weight_kg": 379.48,
+        "value_usd": 1900.99
+      },
+      {
+        "marks": "SLI/9",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 45,
+        "unit": "PCS",
+        "weight_kg": 22.88,
+        "value_usd": 1128.59
+      },
+      {
+        "marks": "SLI/8",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 149,
+        "unit": "LTR",
+        "weight_kg": 147.25,
+        "value_usd": 463.2
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 166,
+        "unit": "MTR",
+        "weight_kg": 166.23,
+        "value_usd": 1616.64
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 163,
+        "unit": "PCS",
+        "weight_kg": 53.3,
+        "value_usd": 34884.93
+      },
+      {
+        "marks": "SLI/19",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 161,
+        "unit": "PCS",
+        "weight_kg": 10.66,
+        "value_usd": 10180.31
+      },
+      {
+        "marks": "ABC/14",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 200,
+        "unit": "CTN",
+        "weight_kg": 379.31,
+        "value_usd": 9039.06
+      },
+      {
+        "marks": "SLI/11",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 91,
+        "unit": "PKG",
+        "weight_kg": 87.58,
+        "value_usd": 5165.85
+      }
+    ],
+    "total_weight_kg": 1246.69,
+    "total_value_usd": 64379.57,
+    "service": "Ocean Freight",
+    "named_port": "Hong Kong, HK",
+    "insurance_value_usd": 16915.08,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-564828",
+    "destination_country": "India"
+  }
+}

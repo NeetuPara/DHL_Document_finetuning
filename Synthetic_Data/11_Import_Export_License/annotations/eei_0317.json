@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0317",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20241227244212",
+    "export_date": "2025-07-30",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Young Tech Ltd",
+    "usppi_ein": "12-7876434",
+    "usppi_address": "37775 Mary Gateway, Ritafort, CA 50546, Malaysia",
+    "ultimate_consignee": "Browning Pacific AG",
+    "intermediate_consignee": "Pacific Washington Pte Ltd",
+    "forwarding_agent": "International Scott Ltd",
+    "destination_country": "Australia",
+    "carrier": "Maersk",
+    "bl_awb": "618-15064515",
+    "total_value": 303040.62,
+    "currency": "EUR",
+    "signatory": "Shelley Morales",
+    "line_items": [
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "France",
+        "qty": 117,
+        "unit": "SET",
+        "entered_value": 14173.38,
+        "duty_rate": 5.8,
+        "duty_amount": 822.06,
+        "eccn": "2B350",
+        "schedule_b": "8708.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Thailand",
+        "qty": 306,
+        "unit": "PCS",
+        "entered_value": 81224.64,
+        "duty_rate": 11.9,
+        "duty_amount": 9665.73,
+        "eccn": "9A515",
+        "schedule_b": "9401.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Mexico",
+        "qty": 152,
+        "unit": "BOX",
+        "entered_value": 36128.88,
+        "duty_rate": 17.5,
+        "duty_amount": 6322.55,
+        "eccn": "7A994",
+        "schedule_b": "2936.90.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Hong Kong",
+        "qty": 378,
+        "unit": "KGS",
+        "entered_value": 171513.72,
+        "duty_rate": 23.7,
+        "duty_amount": 40648.75,
+        "eccn": "2B350",
+        "schedule_b": "7208.37.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

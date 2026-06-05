@@ -1,0 +1,75 @@
+{
+  "document_id": "cn23_0482",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Carlos Carlson",
+    "addressee_company": "Lin Tech Corp.",
+    "addressee_address": "223 Rhodes Lock, Christopherborough, SD 64336, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 11.131,
+    "total_value": 3301.7,
+    "currency": "CHF",
+    "issue_date": "2026-02-02",
+    "reference": "REF-993711",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.107,
+        "value": 135.52,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 3,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.65,
+        "value": 375.06,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 9,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.584,
+        "value": 541.08,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 20,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.536,
+        "value": 841.4,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 14,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.255,
+        "value": 528.92,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 6,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.999,
+        "value": 879.72,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Kara Rios",
+    "sender_company": "Trade Cook GmbH",
+    "sender_address": "69852 Erika Station, Michaelmouth, CA 81147, Netherlands",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 73.44,
+    "tracking_number": "OM676668571AQ"
+  }
+}

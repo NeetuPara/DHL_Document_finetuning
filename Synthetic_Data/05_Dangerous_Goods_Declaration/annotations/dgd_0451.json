@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0451",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Smith B.V.",
+    "shipper_address": "308 Nicole Street, West William, PR 26767, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Pacific Wilkerson B.V.",
+    "consignee_address": "2117 Cole Summit Suite 065, New Antonio, KS 51505, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+33 872-677-1393",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 26,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 68.46,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-333041",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 34,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 75.65,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Tammy Farrell",
+    "signature_date": "2026-05-12",
+    "signature_place": "United Arab Emirates",
+    "awb_number": "618-50296788",
+    "flight_number": "DL8354",
+    "flight_date": "2026-06-04",
+    "departure_airport_code": "FRA",
+    "departure_airport_name": "Frankfurt Airport",
+    "destination_airport_code": "ICN",
+    "destination_airport_name": "Seoul Incheon"
+  }
+}

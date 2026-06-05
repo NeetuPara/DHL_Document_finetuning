@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0851",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Angela Sanchez",
+    "addressee_company": "Prince Tech B.V.",
+    "addressee_address": "9733 Diaz Field, Port Ericahaven, WV 43998, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 8.998,
+    "total_value": 1554.33,
+    "currency": "SGD",
+    "issue_date": "2026-03-09",
+    "reference": "REF-693231",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.524,
+        "value": 139.38,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 9,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.733,
+        "value": 963.99,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 12,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.387,
+        "value": 166.08,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 6,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.354,
+        "value": 284.88,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Rachel Bolton",
+    "sender_company": "Global Powell Ltd",
+    "sender_address": "88480 Lara Ville, New Elizabeth, TN 27905, Brazil",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 41.22,
+    "tracking_number": "HR919580194UN"
+  }
+}

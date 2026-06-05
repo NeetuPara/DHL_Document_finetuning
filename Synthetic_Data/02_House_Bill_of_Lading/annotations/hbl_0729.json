@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0729",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU339211756",
+    "shipper_name": "Ellison Pacific B.V.",
+    "shipper_address": "2960 Jones Viaduct, Elizabethmouth, ID 40206, France",
+    "shipper_country": "France",
+    "consignee_name": "Global Murillo Pte Ltd",
+    "consignee_address": "870 Bates Union Apt. 007, East Jasonport, TX 27537, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party_name": "Trade Martinez Corp.",
+    "notify_party_address": "36987 Nicholas Curve Suite 437, Lake Christopher, KS 41952, South Korea",
+    "vessel": "PIL PACIFIC",
+    "voyage": "767E",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2024-05-22",
+    "issue_place": "Antwerp",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "FCBB7863797",
+        "seal_no": "SL324643",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "DKFO7656520",
+        "seal_no": "SL434114",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "YXBI6186819",
+        "seal_no": "CL971116",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "PSBY5420519",
+        "seal_no": "CL633890",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 49,
+    "package_type": "Bag",
+    "gross_weight_kg": 12383.5,
+    "net_weight_kg": 11462.5,
+    "cbm": 4.369,
+    "marks_and_numbers": "XYZ/5"
+  }
+}

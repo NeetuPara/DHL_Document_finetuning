@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0668",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU905365769",
+    "shipper_name": "Stein Commerce Corp.",
+    "shipper_address": "095 Keller Bridge Suite 206, South Marcus, IA 22567, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "International Brown Co.",
+    "consignee_address": "625 Joshua Fork, East Heatherhaven, AZ 96559, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party_name": "Trade Moreno B.V.",
+    "notify_party_address": "505 Medina Street, Lake Andrewton, LA 31497, Italy",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "110W",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Tanjung Pelepas, MY",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2026-05-09",
+    "issue_place": "Tanjung Pelepas",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "ZIUQ5875822",
+        "seal_no": "SL760652",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "ZPLR0344567",
+        "seal_no": "BL303430",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "HCLR7224193",
+        "seal_no": "CL863828",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 225,
+    "package_type": "Drum",
+    "gross_weight_kg": 15892.9,
+    "net_weight_kg": 14576.5,
+    "cbm": 18.758,
+    "marks_and_numbers": "ABC/42"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0034",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU442078936",
+    "shipper_name": "Valdez Commerce Ltd",
+    "shipper_address": "174 Joel Forest Apt. 317, Port Tiffanyfurt, MI 68421, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Tech Howe Corp.",
+    "consignee_address": "Unit 2199 Box 8766, DPO AA 06219, China",
+    "consignee_country": "China",
+    "notify_party_name": "Trade Flores AG",
+    "notify_party_address": "PSC 5673, Box 3957, APO AP 70286, Thailand",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "833E",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2025-10-26",
+    "issue_place": "Qingdao",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "CLQW7990023",
+        "seal_no": "CL615657",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "ESNY6908787",
+        "seal_no": "CL118139",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "TALV0884366",
+        "seal_no": "SL183389",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "JHYF2193402",
+        "seal_no": "CL627500",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 210,
+    "package_type": "Pallet",
+    "gross_weight_kg": 11194.1,
+    "net_weight_kg": 10339.8,
+    "cbm": 10.972,
+    "marks_and_numbers": "GLB/19"
+  }
+}

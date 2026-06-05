@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0189",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202601-2056",
+    "exporter_name": "Industry Pearson S.A.",
+    "exporter_address": "7743 Peter Locks Apt. 570, North Michael, NM 92111, Switzerland",
+    "exporter_country": "Switzerland",
+    "consignee_name": "Rangel Pacific AG",
+    "consignee_address": "472 Hopkins Inlet Apt. 511, Joshuamouth, IL 02816, Australia",
+    "consignee_country": "Australia",
+    "country_of_origin": "Switzerland",
+    "country_of_destination": "Australia",
+    "bl_or_awb": "OOLU565590553",
+    "issue_date": "2026-02-02",
+    "certifier_name": "Laura Crosby",
+    "goods": [
+      {
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "hs_code": "8483.40.00",
+        "qty": 51,
+        "unit": "PCS",
+        "weight_kg": 413.99,
+        "origin_criterion": "F",
+        "value": 29932.85
+      },
+      {
+        "description": "Wooden Furniture - Office Chairs",
+        "hs_code": "9401.30.00",
+        "qty": 80,
+        "unit": "PCS",
+        "weight_kg": 715.47,
+        "origin_criterion": "D",
+        "value": 13800.55
+      },
+      {
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "hs_code": "2936.90.00",
+        "qty": 147,
+        "unit": "BOX",
+        "weight_kg": 40.91,
+        "origin_criterion": "E",
+        "value": 6130.65
+      }
+    ],
+    "fta_agreement": "UK-Australia FTA",
+    "chamber": "Board of Trade"
+  }
+}

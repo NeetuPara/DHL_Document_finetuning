@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0806",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU715298413",
+    "shipper_name": "Trade Curtis AG",
+    "shipper_address": "657 Mcdonald Hills, Rogersmouth, MI 32370, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Payne Commerce Pte Ltd",
+    "consignee_address": "35742 Robin Trail, Espinozaport, NY 65305, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party_name": "Industry Hicks B.V.",
+    "notify_party_address": "041 Paul Mount, Reidhaven, FM 55978, Spain",
+    "vessel": "MSC GULSUN",
+    "voyage": "905N",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2025-04-12",
+    "issue_place": "Tokyo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "KOOR1157295",
+        "seal_no": "CL739759",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "ZNFX7344783",
+        "seal_no": "SL876154",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "CIHK2352424",
+        "seal_no": "SL989078",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "MRUL0019732",
+        "seal_no": "SL278664",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 77,
+    "package_type": "Crate",
+    "gross_weight_kg": 14866.3,
+    "net_weight_kg": 13211.6,
+    "cbm": 8.984,
+    "marks_and_numbers": "XYZ/34"
+  }
+}

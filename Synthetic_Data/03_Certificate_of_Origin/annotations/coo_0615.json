@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0615",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202104-8564",
+    "exporter_name": "Global Hickman AG",
+    "exporter_address": "748 Gary Shores Suite 526, Millerfurt, MN 83545, Mexico",
+    "exporter_country": "Mexico",
+    "consignee_name": "International Owens Co.",
+    "consignee_address": "542 Wade Garden, Jordanchester, SD 49265, Australia",
+    "consignee_country": "Australia",
+    "country_of_origin": "Mexico",
+    "country_of_destination": "Australia",
+    "bl_or_awb": "COSU591129818",
+    "issue_date": "2026-01-26",
+    "certifier_name": "Angela Ramirez",
+    "goods": [
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 302,
+        "unit": "KGS",
+        "weight_kg": 302.0,
+        "origin_criterion": "E",
+        "value": 4754.44
+      },
+      {
+        "description": "Paper Products - Packaging Cartons",
+        "hs_code": "4819.10.00",
+        "qty": 145,
+        "unit": "CTN",
+        "weight_kg": 147.67,
+        "origin_criterion": "A",
+        "value": 2005.34
+      },
+      {
+        "description": "Medical Devices - Disposable Syringes",
+        "hs_code": "9018.31.00",
+        "qty": 336,
+        "unit": "CTN",
+        "weight_kg": 447.13,
+        "origin_criterion": "B",
+        "value": 13282.37
+      }
+    ],
+    "fta_agreement": "EU-Japan EPA",
+    "chamber": "Trade Association"
+  }
+}

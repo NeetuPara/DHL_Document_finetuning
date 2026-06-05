@@ -1,0 +1,42 @@
+{
+  "document_id": "coo_0801",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202005-1512",
+    "exporter_name": "Global Jones Co.",
+    "exporter_address": "898 Albert Shoal Apt. 355, Josephshire, KY 21966, Italy",
+    "exporter_country": "Italy",
+    "consignee_name": "Commerce Hernandez Ltd",
+    "consignee_address": "2113 Denise Mission Apt. 688, Myersborough, UT 52939, India",
+    "consignee_country": "India",
+    "country_of_origin": "Italy",
+    "country_of_destination": "India",
+    "bl_or_awb": "EGLV844642202",
+    "issue_date": "2025-10-23",
+    "certifier_name": "Breanna Young",
+    "goods": [
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 105,
+        "unit": "KGS",
+        "weight_kg": 105.0,
+        "origin_criterion": "F",
+        "value": 456.54
+      },
+      {
+        "description": "Optical Equipment - Camera Lenses",
+        "hs_code": "9002.11.00",
+        "qty": 311,
+        "unit": "PCS",
+        "weight_kg": 178.05,
+        "origin_criterion": "A",
+        "value": 166268.77
+      }
+    ],
+    "fta_agreement": "US-Korea FTA (KORUS)",
+    "chamber": "Board of Trade"
+  }
+}

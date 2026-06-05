@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0488",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220818168994",
+    "export_date": "2025-10-09",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Pacific Young Corp.",
+    "usppi_ein": "55-3418570",
+    "usppi_address": "464 Steven Lane Suite 581, Lake Hayden, KS 98586, Hong Kong",
+    "ultimate_consignee": "Hill Pacific Ltd",
+    "intermediate_consignee": "Carter Tech Corp.",
+    "forwarding_agent": "Anderson Commerce Ltd",
+    "destination_country": "Singapore",
+    "carrier": "FedEx",
+    "bl_awb": "020-71828340",
+    "total_value": 30148.69,
+    "currency": "JPY",
+    "signatory": "Gerald Mejia",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Canada",
+        "qty": 83,
+        "unit": "PCS",
+        "entered_value": 10782.53,
+        "duty_rate": 22.6,
+        "duty_amount": 2436.85,
+        "eccn": "3A992",
+        "schedule_b": "9002.11.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Singapore",
+        "qty": 44,
+        "unit": "SET",
+        "entered_value": 19366.16,
+        "duty_rate": 22.4,
+        "duty_amount": 4338.02,
+        "eccn": "1A002",
+        "schedule_b": "8708.30.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0833",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Emma Smith",
+    "addressee_company": "Global Winters LLC",
+    "addressee_address": "99905 Parsons Junction, Jeremyton, MP 96060, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 2.788,
+    "total_value": 4053.31,
+    "currency": "CAD",
+    "issue_date": "2026-02-07",
+    "reference": "REF-043521",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.156,
+        "value": 2583.6,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 11,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.632,
+        "value": 1469.71,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Marcia Terrell",
+    "sender_company": "Tech Hardy Inc.",
+    "sender_address": "3070 Michelle Walk Apt. 278, Frederickfort, CO 48499, United Kingdom",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 4458.64,
+    "postal_charges": 34.01,
+    "tracking_number": "DS954556465LE"
+  }
+}

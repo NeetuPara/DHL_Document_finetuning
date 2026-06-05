@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0967",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202002-6024",
+    "usppi_name": "Davis Industry AG",
+    "usppi_address": "39442 Hood Path, Port Jacobshire, IN 78697, Canada",
+    "usppi_country": "Canada",
+    "ein": "53-5384874",
+    "consignee_name": "Industry Grant Co.",
+    "consignee_address": "5773 Amanda Light Suite 715, Port Angela, SC 77301, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Trade Williams Co.",
+    "forwarder": "Expeditors",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "Angela Smith",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/29",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 69,
+        "unit": "PKG",
+        "weight_kg": 191.23,
+        "value_usd": 809.69
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 9,
+        "unit": "CTN",
+        "weight_kg": 26.7,
+        "value_usd": 312.5
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 176,
+        "unit": "SET",
+        "weight_kg": 151.83,
+        "value_usd": 27129.7
+      },
+      {
+        "marks": "SLI/7",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 119,
+        "unit": "PCS",
+        "weight_kg": 1682.81,
+        "value_usd": 48021.01
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 31,
+        "unit": "KGS",
+        "weight_kg": 31.0,
+        "value_usd": 20.77
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 111,
+        "unit": "PCS",
+        "weight_kg": 977.08,
+        "value_usd": 38350.3
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 48,
+        "unit": "PCS",
+        "weight_kg": 23.11,
+        "value_usd": 11954.37
+      },
+      {
+        "marks": "EXP/12",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 65,
+        "unit": "KGS",
+        "weight_kg": 65.0,
+        "value_usd": 650.79
+      }
+    ],
+    "total_weight_kg": 3148.76,
+    "total_value_usd": 127249.13,
+    "service": "LCL Ocean",
+    "named_port": "Los Angeles, US",
+    "insurance_value_usd": 37614.05,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-607524",
+    "destination_country": "United Arab Emirates"
+  }
+}

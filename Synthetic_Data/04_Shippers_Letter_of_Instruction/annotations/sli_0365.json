@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0365",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202011-4995",
+    "usppi_name": "Tech Edwards Co.",
+    "usppi_address": "94170 Rachel Street Suite 113, Johnborough, WV 67758, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "61-6683005",
+    "consignee_name": "Trade Stanley LLC",
+    "consignee_address": "7228 Caitlin Passage, Lake Jason, PW 74898, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Price Global B.V.",
+    "forwarder": "Panalpina",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Ms. Stephanie Wilson MD",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/14",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 40,
+        "unit": "PCS",
+        "weight_kg": 532.57,
+        "value_usd": 8402.38
+      },
+      {
+        "marks": "ABC/2",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 165,
+        "unit": "PCS",
+        "weight_kg": 204.56,
+        "value_usd": 100619.01
+      },
+      {
+        "marks": "EXP/10",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 175,
+        "unit": "MTR",
+        "weight_kg": 141.22,
+        "value_usd": 515.59
+      },
+      {
+        "marks": "EXP/36",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 87,
+        "unit": "CTN",
+        "weight_kg": 150.44,
+        "value_usd": 579.76
+      },
+      {
+        "marks": "SLI/28",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 157,
+        "unit": "PCS",
+        "weight_kg": 182.47,
+        "value_usd": 770.21
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 94,
+        "unit": "KGS",
+        "weight_kg": 94.0,
+        "value_usd": 202.13
+      },
+      {
+        "marks": "EXP/31",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 187,
+        "unit": "LTR",
+        "weight_kg": 185.49,
+        "value_usd": 6534.26
+      },
+      {
+        "marks": "EXP/22",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 172,
+        "unit": "KGS",
+        "weight_kg": 172.0,
+        "value_usd": 3569.54
+      }
+    ],
+    "total_weight_kg": 1662.75,
+    "total_value_usd": 121192.88,
+    "service": "LCL Ocean",
+    "named_port": "Hong Kong, HK",
+    "insurance_value_usd": 23214.44,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-167089",
+    "destination_country": "Brazil"
+  }
+}

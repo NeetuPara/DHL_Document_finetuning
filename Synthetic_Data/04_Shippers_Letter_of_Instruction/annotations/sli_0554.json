@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0554",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202411-6345",
+    "usppi_name": "Global Green Corp.",
+    "usppi_address": "4094 Ortiz Glen, Halltown, MP 91185, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "49-6519980",
+    "consignee_name": "International Garcia Inc.",
+    "consignee_address": "25536 Patel Turnpike Apt. 472, Coxmouth, NV 73899, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "International Gillespie GmbH",
+    "forwarder": "Expeditors",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Anthony Collins",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/39",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 133,
+        "unit": "KGS",
+        "weight_kg": 133.0,
+        "value_usd": 602.57
+      },
+      {
+        "marks": "EXP/31",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 55,
+        "unit": "PCS",
+        "weight_kg": 32.92,
+        "value_usd": 452.82
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 71,
+        "unit": "CTN",
+        "weight_kg": 183.93,
+        "value_usd": 2312.89
+      },
+      {
+        "marks": "SLI/37",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 165,
+        "unit": "LTR",
+        "weight_kg": 157.51,
+        "value_usd": 5414.34
+      }
+    ],
+    "total_weight_kg": 507.36,
+    "total_value_usd": 8782.62,
+    "service": "LCL Ocean",
+    "named_port": "Long Beach, US",
+    "insurance_value_usd": 37847.35,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-671337",
+    "destination_country": "Belgium"
+  }
+}

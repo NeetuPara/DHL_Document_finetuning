@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0024",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Green GmbH",
+    "shipper_address": "52007 Elizabeth Isle, New Richard, NM 57194, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Industry Edwards Co.",
+    "consignee_address": "75809 Robert Road Suite 289, North Rodneyshire, PR 29133, Thailand",
+    "consignee_country": "Thailand",
+    "emergency_telephone": "+33 213-782-1233",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 10,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 47.27,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-905329",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 22,
+        "pkg_type": "Steel Drum",
+        "net_qty": 59.17,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Donna Ortiz",
+    "signature_date": "2026-04-22",
+    "signature_place": "United Kingdom",
+    "awb_number": "160-56456511",
+    "flight_number": "SQ4244",
+    "departure_airport_code": "AMS",
+    "departure_airport_name": "Amsterdam Schiphol",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

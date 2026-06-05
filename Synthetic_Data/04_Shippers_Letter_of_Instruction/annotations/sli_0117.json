@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0117",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202305-4938",
+    "usppi_name": "Trade Walton Inc.",
+    "usppi_address": "16241 Anderson Meadow Suite 363, Floresside, NE 63388, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "97-6427451",
+    "consignee_name": "Costa Industry LLC",
+    "consignee_address": "93495 Melissa Cliff, Brianville, NH 21769, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Trade Johnson B.V.",
+    "forwarder": "Panalpina",
+    "incoterm": "EXW",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "David Lewis",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/24",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 174,
+        "unit": "PCS",
+        "weight_kg": 2608.39,
+        "value_usd": 16447.48
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 38,
+        "unit": "PCS",
+        "weight_kg": 26.79,
+        "value_usd": 19562.45
+      },
+      {
+        "marks": "SLI/28",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 58,
+        "unit": "PCS",
+        "weight_kg": 25.55,
+        "value_usd": 3665.45
+      },
+      {
+        "marks": "ABC/46",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 90,
+        "unit": "CTN",
+        "weight_kg": 414.86,
+        "value_usd": 5698.83
+      }
+    ],
+    "total_weight_kg": 3075.59,
+    "total_value_usd": 45374.21,
+    "vessel": "MOL TRIUMPH",
+    "voyage": "938N",
+    "booking_ref": "BKG-681788",
+    "bl_number": "MAEU893570979",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Felixstowe, GB",
+    "container_number": "MYLQ8796995",
+    "seal_number": "BL594380",
+    "container_type": "45'HC",
+    "cbm": 17.882
+  }
+}

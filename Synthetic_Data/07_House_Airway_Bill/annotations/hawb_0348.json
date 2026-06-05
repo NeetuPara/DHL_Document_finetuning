@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0348",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-79388530",
+    "mawb_number": "618-43686044",
+    "shipper_name": "Commerce Mclaughlin AG",
+    "shipper_address": "8673 Paul Island Apt. 004, New Patrickborough, NV 77457, Japan",
+    "consignee_name": "Perez International Inc.",
+    "consignee_address": "16927 Amanda Plains Suite 338, East Jacobport, OH 72069, Italy",
+    "agent_name": "Johnson Global Pte Ltd",
+    "airport_departure": "JFK",
+    "airport_destination": "MIA",
+    "currency": "AED",
+    "charge_code": "PP",
+    "declared_value_carriage": "GBP 6,808.45",
+    "declared_value_customs": "NCV",
+    "n_pieces": 29,
+    "gross_weight_kg": 354.1,
+    "chargeable_weight": 405.6,
+    "rate": 5.82,
+    "total_charge": 2360.59,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-07-23",
+    "signatory": "Leslie Dudley",
+    "iata_code": "48-723",
+    "agent_cass": "8105-5744",
+    "consolidation_ref": "CONS-8907-948620",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-46620718",
+        "pieces": 20,
+        "weight": 98.4,
+        "destination": "SIN",
+        "consignee": "Tech Arellano Corp.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "057-55835058",
+        "pieces": 10,
+        "weight": 66.2,
+        "destination": "SIN",
+        "consignee": "Pacific Irwin AG",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "176-76691060",
+        "pieces": 13,
+        "weight": 54.0,
+        "destination": "ORD",
+        "consignee": "Valencia Global Co.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "176-12282065",
+        "pieces": 16,
+        "weight": 68.2,
+        "destination": "AMS",
+        "consignee": "Hinton Tech LLC",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "176-40464394",
+        "pieces": 10,
+        "weight": 38.7,
+        "destination": "LHR",
+        "consignee": "Smith Trade Co.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "006-40013528",
+        "pieces": 20,
+        "weight": 92.3,
+        "destination": "NRT",
+        "consignee": "Trade Lewis LLC",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "074-82197671",
+        "pieces": 3,
+        "weight": 39.7,
+        "destination": "YYZ",
+        "consignee": "Sims Tech GmbH",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "006-86148094",
+        "pieces": 16,
+        "weight": 3.7,
+        "destination": "DXB",
+        "consignee": "Tech Crawford Inc.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

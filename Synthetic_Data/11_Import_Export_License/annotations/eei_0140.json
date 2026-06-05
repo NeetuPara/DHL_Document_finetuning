@@ -1,0 +1,103 @@
+{
+  "document_id": "eei_0140",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210126269066",
+    "export_date": "2026-04-04",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Tech Johnson Co.",
+    "usppi_ein": "63-1255006",
+    "usppi_address": "2137 Robinson Drive Apt. 526, East Joyce, FL 91180, France",
+    "ultimate_consignee": "Pacific Lane Corp.",
+    "intermediate_consignee": "Walker Industry S.A.",
+    "forwarding_agent": "Butler Tech B.V.",
+    "destination_country": "United Kingdom",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "618-75867779",
+    "total_value": 567903.86,
+    "currency": "GBP",
+    "signatory": "Derrick Gardner",
+    "line_items": [
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Sweden",
+        "qty": 391,
+        "unit": "LTR",
+        "entered_value": 151977.79,
+        "duty_rate": 5.5,
+        "duty_amount": 8358.78,
+        "eccn": "7A994",
+        "schedule_b": "2901.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "United Kingdom",
+        "qty": 37,
+        "unit": "PCS",
+        "entered_value": 3919.41,
+        "duty_rate": 22.9,
+        "duty_amount": 897.54,
+        "eccn": "2B350",
+        "schedule_b": "8534.00.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "United Kingdom",
+        "qty": 328,
+        "unit": "KGS",
+        "entered_value": 17738.24,
+        "duty_rate": 11.0,
+        "duty_amount": 1951.21,
+        "eccn": "1A002",
+        "schedule_b": "2008.19.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Thailand",
+        "qty": 413,
+        "unit": "BOX",
+        "entered_value": 152764.57,
+        "duty_rate": 13.8,
+        "duty_amount": 21081.51,
+        "eccn": "EAR99",
+        "schedule_b": "2936.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Singapore",
+        "qty": 492,
+        "unit": "PCS",
+        "entered_value": 171658.8,
+        "duty_rate": 15.5,
+        "duty_amount": 26607.11,
+        "eccn": "EAR99",
+        "schedule_b": "9401.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Australia",
+        "qty": 145,
+        "unit": "LTR",
+        "entered_value": 69845.05,
+        "duty_rate": 8.5,
+        "duty_amount": 5936.83,
+        "eccn": "EAR99",
+        "schedule_b": "2901.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

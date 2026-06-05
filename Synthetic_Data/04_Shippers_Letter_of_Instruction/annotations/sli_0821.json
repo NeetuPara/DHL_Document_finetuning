@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0821",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202411-9119",
+    "usppi_name": "Commerce Taylor Co.",
+    "usppi_address": "649 Jackson Heights Apt. 921, Crosstown, MI 32886, France",
+    "usppi_country": "France",
+    "ein": "74-5354822",
+    "consignee_name": "Commerce Mitchell Corp.",
+    "consignee_address": "3051 Chambers Lake, Erinshire, VA 07481, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Pacific Davis Corp.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Scott Higgins",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/29",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 197,
+        "unit": "KGS",
+        "weight_kg": 197.0,
+        "value_usd": 3713.06
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 62,
+        "unit": "CTN",
+        "weight_kg": 97.77,
+        "value_usd": 448.62
+      },
+      {
+        "marks": "ABC/7",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 156,
+        "unit": "CTN",
+        "weight_kg": 326.47,
+        "value_usd": 6983.96
+      },
+      {
+        "marks": "SLI/15",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 102,
+        "unit": "LTR",
+        "weight_kg": 99.55,
+        "value_usd": 417.94
+      },
+      {
+        "marks": "EXP/17",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 92,
+        "unit": "PCS",
+        "weight_kg": 20.31,
+        "value_usd": 7293.91
+      },
+      {
+        "marks": "ABC/39",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 185,
+        "unit": "MTR",
+        "weight_kg": 125.31,
+        "value_usd": 2521.55
+      },
+      {
+        "marks": "EXP/32",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 190,
+        "unit": "PCS",
+        "weight_kg": 24.34,
+        "value_usd": 16049.83
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 86,
+        "unit": "PCS",
+        "weight_kg": 760.59,
+        "value_usd": 23656.85
+      }
+    ],
+    "total_weight_kg": 1651.34,
+    "total_value_usd": 61085.72,
+    "service": "LCL Ocean",
+    "named_port": "Rotterdam, NL",
+    "insurance_value_usd": 8083.27,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-541176",
+    "destination_country": "Australia"
+  }
+}

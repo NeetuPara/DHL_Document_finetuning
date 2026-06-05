@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0657",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-69148137",
+    "mawb_number": "085-42462985",
+    "shipper_name": "Williams Global B.V.",
+    "shipper_address": "845 Steve Rest Suite 610, South Zachary, WA 65820, Japan",
+    "consignee_name": "Singh Pacific LLC",
+    "consignee_address": "USNS Soto, FPO AA 33207, Mexico",
+    "agent_name": "Ross Pacific B.V.",
+    "airport_departure": "SYD",
+    "airport_destination": "ORD",
+    "currency": "CAD",
+    "charge_code": "CC",
+    "declared_value_carriage": "CHF 3,798.29",
+    "declared_value_customs": "CAD 33,198.96",
+    "n_pieces": 8,
+    "gross_weight_kg": 338.1,
+    "chargeable_weight": 359.7,
+    "rate": 7.24,
+    "total_charge": 2604.23,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-06-02",
+    "signatory": "Dylan Cole",
+    "iata_code": "39-218",
+    "agent_cass": "9272-3522",
+    "consolidation_ref": "CONS-3778-371198",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-88551049",
+        "pieces": 10,
+        "weight": 41.8,
+        "destination": "HKG",
+        "consignee": "Stevens Trade Co.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "618-67719973",
+        "pieces": 11,
+        "weight": 14.4,
+        "destination": "ICN",
+        "consignee": "Industry Savage GmbH",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "074-13589567",
+        "pieces": 14,
+        "weight": 37.4,
+        "destination": "YYZ",
+        "consignee": "Global Sexton Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      }
+    ]
+  }
+}

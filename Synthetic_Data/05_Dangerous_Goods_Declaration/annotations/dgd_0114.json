@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0114",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Dorsey Corp.",
+    "shipper_address": "935 Tran Roads, Martinezburgh, PA 75836, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Tech Foster Inc.",
+    "consignee_address": "977 Rodney Shoals Apt. 214, East Maurice, DE 53401, China",
+    "consignee_country": "China",
+    "emergency_telephone": "+37 953-460-2667",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 12,
+        "pkg_type": "Steel Drum",
+        "net_qty": 74.41,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-330517",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Stacy Brown",
+    "signature_date": "2026-04-20",
+    "signature_place": "Germany",
+    "awb_number": "006-88365250",
+    "flight_number": "SQ3385",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

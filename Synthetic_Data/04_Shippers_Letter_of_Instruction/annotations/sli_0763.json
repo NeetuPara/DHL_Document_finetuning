@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0763",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202311-3263",
+    "usppi_name": "Cole Industry B.V.",
+    "usppi_address": "024 Thomas Lights Apt. 540, New Andrew, MH 75811, India",
+    "usppi_country": "India",
+    "ein": "32-4349118",
+    "consignee_name": "Tech Hunter LLC",
+    "consignee_address": "466 Joshua Drive Apt. 454, Port Michaelside, GU 69078, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Wright Tech Inc.",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "2B350",
+    "signatory_name": "Thomas Campos",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/7",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 74,
+        "unit": "KGS",
+        "weight_kg": 74.0,
+        "value_usd": 175.49
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 18,
+        "unit": "MTR",
+        "weight_kg": 16.95,
+        "value_usd": 183.11
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 12,
+        "unit": "PCS",
+        "weight_kg": 143.09,
+        "value_usd": 1077.34
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 194,
+        "unit": "PCS",
+        "weight_kg": 131.13,
+        "value_usd": 241666.93
+      }
+    ],
+    "total_weight_kg": 365.17,
+    "total_value_usd": 243102.87,
+    "service": "LCL Ocean",
+    "named_port": "New York, US",
+    "insurance_value_usd": 27665.48,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-992820",
+    "destination_country": "Netherlands"
+  }
+}

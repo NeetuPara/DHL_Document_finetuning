@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0260",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20241118472305",
+    "export_date": "2026-04-20",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Pacific Jensen Corp.",
+    "usppi_ein": "98-6607130",
+    "usppi_address": "493 Guerra Mountain Suite 039, South Aaronland, PA 67399, Japan",
+    "ultimate_consignee": "Tech Bailey LLC",
+    "intermediate_consignee": "Pacific Pena Ltd",
+    "forwarding_agent": "Tech Anderson LLC",
+    "destination_country": "South Korea",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "020-65108354",
+    "total_value": 99404.7,
+    "currency": "CAD",
+    "signatory": "Beth Prince",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 75,
+        "unit": "PCS",
+        "entered_value": 18221.25,
+        "duty_rate": 22.0,
+        "duty_amount": 4008.68,
+        "eccn": "1A002",
+        "schedule_b": "8483.40.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "United Kingdom",
+        "qty": 373,
+        "unit": "PCS",
+        "entered_value": 81183.45,
+        "duty_rate": 20.2,
+        "duty_amount": 16399.06,
+        "eccn": "2B350",
+        "schedule_b": "8534.00.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

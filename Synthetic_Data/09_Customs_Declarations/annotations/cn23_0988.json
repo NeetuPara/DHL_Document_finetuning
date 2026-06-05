@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0988",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Amber Padilla",
+    "addressee_company": "Ford Tech S.A.",
+    "addressee_address": "558 Hansen Alley Apt. 552, North David, AL 45678, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 10.401,
+    "total_value": 3400.64,
+    "currency": "CHF",
+    "issue_date": "2025-10-17",
+    "reference": "REF-188456",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.324,
+        "value": 35.25,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 7,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.856,
+        "value": 14.42,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 10,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.742,
+        "value": 830.9,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 9,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.377,
+        "value": 1162.71,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 9,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.718,
+        "value": 647.1,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 17,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.384,
+        "value": 710.26,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Linda Snyder",
+    "sender_company": "Trade Hall B.V.",
+    "sender_address": "6882 Santiago Unions, North Michaelhaven, AZ 61354, Brazil",
+    "sender_phone": "001-873-440-1703x1496",
+    "sender_email": "ann05@example.org",
+    "addressee_phone": "+1-217-260-7381",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 24.18,
+    "tracking_number": "AH334197975GQ"
+  }
+}

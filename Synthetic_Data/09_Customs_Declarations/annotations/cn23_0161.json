@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0161",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Susan Juarez",
+    "addressee_company": "Howard Commerce Ltd",
+    "addressee_address": "0967 Christina Wells Suite 430, Ginaborough, DC 72289, Sweden",
+    "addressee_country": "Sweden",
+    "total_weight_kg": 12.626,
+    "total_value": 5044.36,
+    "currency": "JPY",
+    "issue_date": "2026-01-30",
+    "reference": "REF-387434",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.189,
+        "value": 425.34,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 18,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 0.22,
+        "value": 1576.08,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 4,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.878,
+        "value": 297.12,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 19,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.389,
+        "value": 2415.28,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 7,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.95,
+        "value": 330.54,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Pamela Price",
+    "sender_company": "Williams Trade Co.",
+    "sender_address": "USCGC Day, FPO AA 54792, Germany",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 5548.8,
+    "postal_charges": 73.35,
+    "tracking_number": "DB220186385FI"
+  }
+}

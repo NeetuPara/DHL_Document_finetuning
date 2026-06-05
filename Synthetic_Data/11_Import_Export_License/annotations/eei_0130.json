@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0130",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "106-78805406-9",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2025-08-10",
+    "port_of_entry": "ORD - Chicago",
+    "transport_mode": "Rail",
+    "carrier": "Maersk",
+    "bl_awb": "618-99455746",
+    "importer_name": "Commerce Tanner S.A.",
+    "importer_ein": "55-8705041",
+    "consignee_name": "Munoz Trade Inc.",
+    "customs_broker": "Global Mcbride GmbH",
+    "broker_filer_code": "evP",
+    "country_of_origin": "Singapore",
+    "total_value": 469010.14,
+    "total_duty": 65546.27,
+    "currency": "AED",
+    "signatory": "Michelle Fernandez",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "South Korea",
+        "qty": 362,
+        "unit": "PCS",
+        "entered_value": 95452.16,
+        "duty_rate": 12.5,
+        "duty_amount": 11931.52,
+        "eccn": "2B350",
+        "schedule_b": "8534.00.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Canada",
+        "qty": 429,
+        "unit": "PCS",
+        "entered_value": 129279.15,
+        "duty_rate": 11.7,
+        "duty_amount": 15125.66,
+        "eccn": "3A992",
+        "schedule_b": "8483.40.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Brazil",
+        "qty": 439,
+        "unit": "PCS",
+        "entered_value": 176693.11,
+        "duty_rate": 20.1,
+        "duty_amount": 35515.32,
+        "eccn": "7A994",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Poland",
+        "qty": 388,
+        "unit": "MTR",
+        "entered_value": 67585.72,
+        "duty_rate": 4.4,
+        "duty_amount": 2973.77,
+        "eccn": "5E992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

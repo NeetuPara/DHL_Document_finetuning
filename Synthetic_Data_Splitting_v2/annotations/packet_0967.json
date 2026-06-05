@@ -1,0 +1,61 @@
+{
+  "packet_id": "packet_0967",
+  "total_pages": 7,
+  "n_documents": 5,
+  "class_sequence": [
+    "Packing List",
+    "Shipper's Letter of Instruction",
+    "Commercial Invoice",
+    "Certificate of Origin",
+    "House Airway Bill"
+  ],
+  "task": "splitting",
+  "note": "is_multipage_doc=true means consecutive pages are CONTINUATION of same document instance.",
+  "documents": [
+    {
+      "doc_class": "Packing List",
+      "class_index": 8,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "packing_list_0694.pdf"
+    },
+    {
+      "doc_class": "Shipper's Letter of Instruction",
+      "class_index": 4,
+      "page_start": 2,
+      "page_end": 3,
+      "n_pages": 2,
+      "is_multipage_doc": true,
+      "source_file": "sli_mp_0281.pdf"
+    },
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 4,
+      "page_end": 5,
+      "n_pages": 2,
+      "is_multipage_doc": true,
+      "source_file": "ci_mp_0306.pdf"
+    },
+    {
+      "doc_class": "Certificate of Origin",
+      "class_index": 3,
+      "page_start": 6,
+      "page_end": 6,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "coo_0105.pdf"
+    },
+    {
+      "doc_class": "House Airway Bill",
+      "class_index": 7,
+      "page_start": 7,
+      "page_end": 7,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "hawb_0996.pdf"
+    }
+  ]
+}

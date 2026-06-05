@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0070",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG531482652",
+    "shipper_name": "Pacific Cain Inc.",
+    "shipper_address": "503 Jose Mill Apt. 325, East Karenbury, MP 52916, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Commerce Wood B.V.",
+    "consignee_address": "4585 Norris Meadows, Lake Michael, AS 03513, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Jackson Industry LLC",
+    "notify_party_address": "457 Jon Creek Suite 382, Lake Staceymouth, OH 18705, United Arab Emirates",
+    "vessel": "YANG MING MYTH",
+    "voyage": "745W",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Qingdao, CN",
+    "place_of_receipt": "Los Angeles, US",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2024-10-20",
+    "issue_place": "Los Angeles",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "DPWJ6753705",
+        "seal_no": "CL245602",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "EHFD4339010",
+        "seal_no": "SL718003",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 424,
+    "package_type": "Carton",
+    "gross_weight_kg": 1148.9,
+    "net_weight_kg": 1024.5,
+    "cbm": 18.004,
+    "marks_and_numbers": "GLB/18"
+  }
+}

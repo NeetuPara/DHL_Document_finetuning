@@ -1,0 +1,82 @@
+{
+  "document_id": "vgm_0308",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Rodriguez Industry Ltd",
+    "shipper_address": "7274 Tracy Extensions, West Williamburgh, WA 15062, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "container_number": "HODT7438047",
+    "seal_number": "BL248003",
+    "container_size": "40'OT",
+    "iso_type_code": "42U0",
+    "tare_weight_kg": 4200,
+    "cargo_weight_kg": 8167.3,
+    "packing_materials_kg": 125.3,
+    "vgm_kg": 12492.6,
+    "vessel": "PIL PACIFIC",
+    "voyage": "150S",
+    "bl_number": "YMLU736138588",
+    "booking_reference": "BKG-815224",
+    "weighing_scale_type": "Certified Static Scale",
+    "scale_serial": "Serial No.-50098",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-18",
+    "signature_date": "2026-05-11",
+    "signatory_name": "Laura Martinez",
+    "signatory_title": "Operations Director",
+    "number_of_packages": 7,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Carton",
+        "n_units": 18,
+        "gross_wt_kg": 508.6
+      },
+      {
+        "item_no": 2,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Crate",
+        "n_units": 3,
+        "gross_wt_kg": 1295.5
+      },
+      {
+        "item_no": 3,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Cylinder",
+        "n_units": 17,
+        "gross_wt_kg": 1308.7
+      },
+      {
+        "item_no": 4,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Drum",
+        "n_units": 11,
+        "gross_wt_kg": 1236.5
+      },
+      {
+        "item_no": 5,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Bag",
+        "n_units": 20,
+        "gross_wt_kg": 427.1
+      },
+      {
+        "item_no": 6,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Cylinder",
+        "n_units": 15,
+        "gross_wt_kg": 985.8
+      },
+      {
+        "item_no": 7,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Case",
+        "n_units": 9,
+        "gross_wt_kg": 2405.1
+      }
+    ]
+  }
+}

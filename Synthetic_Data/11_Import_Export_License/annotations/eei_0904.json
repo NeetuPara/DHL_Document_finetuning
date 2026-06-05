@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0904",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "582-79082514-0",
+    "entry_type": "01 - Free and Dutiable",
+    "entry_date": "2025-06-11",
+    "port_of_entry": "SFO - San Francisco",
+    "transport_mode": "Air",
+    "carrier": "Maersk",
+    "bl_awb": "125-34516651",
+    "importer_name": "White Commerce AG",
+    "importer_ein": "29-0527816",
+    "consignee_name": "Simmons Industry AG",
+    "customs_broker": "Griffith Global Corp.",
+    "broker_filer_code": "ITV",
+    "country_of_origin": "Germany",
+    "total_value": 139839.15,
+    "total_duty": 8753.78,
+    "currency": "SGD",
+    "signatory": "Michael Silva",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "India",
+        "qty": 481,
+        "unit": "PCS",
+        "entered_value": 56349.15,
+        "duty_rate": 2.2,
+        "duty_amount": 1239.68,
+        "eccn": "3A992",
+        "schedule_b": "9401.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Canada",
+        "qty": 345,
+        "unit": "LTR",
+        "entered_value": 83490.0,
+        "duty_rate": 9.0,
+        "duty_amount": 7514.1,
+        "eccn": "9A515",
+        "schedule_b": "2901.10.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

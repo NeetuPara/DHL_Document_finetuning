@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0108",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-28081536",
+    "mawb_number": "085-61082283",
+    "shipper_name": "Ingram Trade AG",
+    "shipper_address": "416 White Gateway, Lake Carloschester, VT 93710, Thailand",
+    "consignee_name": "Brewer Trade AG",
+    "consignee_address": "995 Conley Garden Apt. 275, Port Marioville, MS 81480, Hong Kong",
+    "agent_name": "Barnes Industry Pte Ltd",
+    "airport_departure": "SIN",
+    "airport_destination": "PVG",
+    "currency": "AUD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "SGD 30,811.22",
+    "n_pieces": 5,
+    "gross_weight_kg": 152.9,
+    "chargeable_weight": 197.2,
+    "rate": 11.47,
+    "total_charge": 2261.88,
+    "nature_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "handling_info": "TEMP CONTROLLED: 6\u00b0C - 21\u00b0C",
+    "issue_date": "2025-10-10",
+    "signatory": "Ryan Brady",
+    "iata_code": "10-339",
+    "agent_cass": "8492-6418",
+    "consolidation_ref": "CONS-8037-875730",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-90729033",
+        "pieces": 2,
+        "weight": 17.9,
+        "destination": "MIA",
+        "consignee": "Tucker Pacific Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "160-14263570",
+        "pieces": 13,
+        "weight": 3.3,
+        "destination": "CDG",
+        "consignee": "Industry Rose Pte Ltd",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "618-63447574",
+        "pieces": 5,
+        "weight": 70.0,
+        "destination": "JFK",
+        "consignee": "Wagner Commerce Corp.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "618-12687915",
+        "pieces": 18,
+        "weight": 67.8,
+        "destination": "DXB",
+        "consignee": "Silva International Co.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "125-45598400",
+        "pieces": 5,
+        "weight": 86.1,
+        "destination": "JFK",
+        "consignee": "Thomas International LLC",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

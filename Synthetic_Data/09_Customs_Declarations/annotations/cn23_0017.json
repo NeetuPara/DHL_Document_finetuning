@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0017",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jeff Suarez",
+    "addressee_company": "Mcclure Industry B.V.",
+    "addressee_address": "48463 English Forest Suite 796, Jenniferville, UT 99634, India",
+    "addressee_country": "India",
+    "total_weight_kg": 5.627,
+    "total_value": 2289.34,
+    "currency": "SGD",
+    "issue_date": "2025-08-21",
+    "reference": "REF-384249",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.775,
+        "value": 1926.88,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 3,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 0.419,
+        "value": 112.08,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 2,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.433,
+        "value": 250.38,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_name": "Jennifer Garrett",
+    "sender_company": "Rosales Trade Ltd",
+    "sender_address": "75807 Shaw Vista Apt. 480, Dawnbury, MI 53729, Australia",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 2518.27,
+    "postal_charges": 19.28,
+    "tracking_number": "BI663858332YZ"
+  }
+}

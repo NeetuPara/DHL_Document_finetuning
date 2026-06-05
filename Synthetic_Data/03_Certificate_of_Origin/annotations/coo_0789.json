@@ -1,0 +1,60 @@
+{
+  "document_id": "coo_0789",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202201-5735",
+    "exporter_name": "Alexander Global Pte Ltd",
+    "exporter_address": "664 Kayla Crest, North Mathewborough, DE 19203, South Korea",
+    "exporter_country": "South Korea",
+    "consignee_name": "Trade King Inc.",
+    "consignee_address": "Unit 3563 Box 8038, DPO AP 11096, Australia",
+    "consignee_country": "Australia",
+    "country_of_origin": "South Korea",
+    "country_of_destination": "Australia",
+    "bl_or_awb": "006-72257359",
+    "issue_date": "2025-08-10",
+    "certifier_name": "Bob Stanley",
+    "goods": [
+      {
+        "description": "Textile Fabrics - Woven Polyester",
+        "hs_code": "5407.42.00",
+        "qty": 138,
+        "unit": "MTR",
+        "weight_kg": 161.09,
+        "origin_criterion": "A",
+        "value": 408.93
+      },
+      {
+        "description": "Steel Products - Hot Rolled Coils",
+        "hs_code": "7208.37.00",
+        "qty": 178,
+        "unit": "KGS",
+        "weight_kg": 178.0,
+        "origin_criterion": "B",
+        "value": 244.1
+      },
+      {
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "hs_code": "2936.90.00",
+        "qty": 259,
+        "unit": "BOX",
+        "weight_kg": 381.06,
+        "origin_criterion": "B",
+        "value": 22929.84
+      },
+      {
+        "description": "Chemical Compounds - Industrial Solvents",
+        "hs_code": "2901.10.00",
+        "qty": 218,
+        "unit": "LTR",
+        "weight_kg": 232.46,
+        "origin_criterion": "A",
+        "value": 7087.88
+      }
+    ],
+    "fta_agreement": "RCEP",
+    "chamber": "Trade Association"
+  }
+}

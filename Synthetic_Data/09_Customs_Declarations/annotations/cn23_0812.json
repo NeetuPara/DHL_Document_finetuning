@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0812",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Deborah Ramirez",
+    "addressee_company": "Fields Industry LLC",
+    "addressee_address": "7370 Hall Roads, Torresbury, GU 48947, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 11.076,
+    "total_value": 3008.92,
+    "currency": "JPY",
+    "issue_date": "2026-01-14",
+    "reference": "REF-772903",
+    "line_items": [
+      {
+        "qty": 13,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.603,
+        "value": 1620.58,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 7,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.007,
+        "value": 553.56,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 6,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.466,
+        "value": 834.78,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Mark Levine",
+    "sender_company": "Trade Beasley Corp.",
+    "sender_address": "3291 Suarez Crossroad Suite 910, Jenkinsfurt, NH 14297, United Kingdom",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 3309.81,
+    "postal_charges": 42.32,
+    "tracking_number": "XG765514131QA"
+  }
+}

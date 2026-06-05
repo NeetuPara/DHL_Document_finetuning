@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0061",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202011-7119",
+    "usppi_name": "Ware Global AG",
+    "usppi_address": "5992 Hall Key, East Steventon, IA 02788, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "40-8908456",
+    "consignee_name": "Commerce Nelson GmbH",
+    "consignee_address": "35192 Brandon Isle Suite 617, New Brandonburgh, TX 51834, China",
+    "consignee_country": "China",
+    "notify_party": "Green Commerce Pte Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Troy Bender MD",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/15",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 126,
+        "unit": "KGS",
+        "weight_kg": 126.0,
+        "value_usd": 277.55
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 59,
+        "unit": "PCS",
+        "weight_kg": 680.43,
+        "value_usd": 36368.07
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 66,
+        "unit": "MTR",
+        "weight_kg": 63.58,
+        "value_usd": 941.18
+      },
+      {
+        "marks": "ABC/25",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 32,
+        "unit": "PCS",
+        "weight_kg": 2.97,
+        "value_usd": 2261.02
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 178,
+        "unit": "PCS",
+        "weight_kg": 1585.71,
+        "value_usd": 67143.98
+      },
+      {
+        "marks": "SLI/15",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 121,
+        "unit": "CTN",
+        "weight_kg": 89.32,
+        "value_usd": 1538.9
+      },
+      {
+        "marks": "ABC/28",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 53,
+        "unit": "PCS",
+        "weight_kg": 17.8,
+        "value_usd": 11751.7
+      }
+    ],
+    "total_weight_kg": 2565.81,
+    "total_value_usd": 120282.4,
+    "service": "Air Freight",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 29357.7,
+    "license_type": "Distributor License",
+    "license_number": "LIC-132646",
+    "destination_country": "China"
+  }
+}

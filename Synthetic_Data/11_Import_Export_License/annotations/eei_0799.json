@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0799",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "478-67434101-6",
+    "entry_type": "11 - Informal - Free",
+    "entry_date": "2025-10-27",
+    "port_of_entry": "MIA - Miami",
+    "transport_mode": "Truck",
+    "carrier": "FedEx",
+    "bl_awb": "176-35842813",
+    "importer_name": "Taylor International Pte Ltd",
+    "importer_ein": "95-7043630",
+    "consignee_name": "International Jones Pte Ltd",
+    "customs_broker": "Flores Commerce S.A.",
+    "broker_filer_code": "ckn",
+    "country_of_origin": "Poland",
+    "total_value": 316135.2,
+    "total_duty": 23356.53,
+    "currency": "AUD",
+    "signatory": "Kenneth Fox",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Hong Kong",
+        "qty": 362,
+        "unit": "CTN",
+        "entered_value": 152456.3,
+        "duty_rate": 7.7,
+        "duty_amount": 11739.14,
+        "eccn": "5E992",
+        "schedule_b": "4819.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Canada",
+        "qty": 260,
+        "unit": "PCS",
+        "entered_value": 94806.4,
+        "duty_rate": 11.6,
+        "duty_amount": 10997.54,
+        "eccn": "2B350",
+        "schedule_b": "8518.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Australia",
+        "qty": 225,
+        "unit": "MTR",
+        "entered_value": 68872.5,
+        "duty_rate": 0.9,
+        "duty_amount": 619.85,
+        "eccn": "2B350",
+        "schedule_b": "5407.42.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

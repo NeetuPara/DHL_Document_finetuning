@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0223",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Wright Trade Co.",
+    "shipper_address": "8118 Black Fort, Lesliemouth, ID 71337, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Kim International Pte Ltd",
+    "consignee_address": "7690 Smith Canyon, East Daniel, MA 87993, Spain",
+    "consignee_country": "Spain",
+    "emergency_telephone": "+25 685-689-7503",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 20,
+        "pkg_type": "Steel Drum",
+        "net_qty": 58.77,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Vincent Hinton",
+    "signature_date": "2026-04-14",
+    "signature_place": "Netherlands",
+    "awb_number": "085-89546530",
+    "flight_number": "LH9642",
+    "flight_date": "2026-05-29",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "CDG",
+    "destination_airport_name": "Paris CDG"
+  }
+}

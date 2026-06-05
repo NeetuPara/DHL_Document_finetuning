@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0150",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Chapman Ltd",
+    "shipper_address": "454 Gregory Lane, Reedland, WV 05315, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Commerce Thomas B.V.",
+    "consignee_address": "9428 Michelle Square Apt. 821, East Alejandrostad, MA 86139, Thailand",
+    "consignee_country": "Thailand",
+    "emergency_telephone": "+7 697-461-9892",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 21,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 75.05,
+        "qty_unit": "kg",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Eric Todd",
+    "signature_date": "2026-04-14",
+    "signature_place": "Spain",
+    "awb_number": "074-69379549",
+    "flight_number": "SQ3044",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

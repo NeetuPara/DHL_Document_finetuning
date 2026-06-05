@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0184",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Torres Trade Ltd",
+    "shipper_address": "613 Frank Manors, Thomaschester, NH 42655, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Industry Carter AG",
+    "consignee_address": "79425 Holden Walk Suite 633, South Christopher, PR 20515, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+43 107-456-4018",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 13,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 14.0,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Jessica Lewis",
+    "signature_date": "2026-05-13",
+    "signature_place": "Canada",
+    "awb_number": "006-67001912",
+    "flight_number": "CX7480",
+    "flight_date": "2026-05-23",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "SYD",
+    "destination_airport_name": "Sydney Kingsford Smith"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0985",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Rhonda Bush",
+    "addressee_company": "Global Russell Inc.",
+    "addressee_address": "6655 Briana Branch Suite 557, East Matthew, PA 75536, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 2.628,
+    "total_value": 754.06,
+    "currency": "EUR",
+    "issue_date": "2025-10-13",
+    "reference": "REF-991337",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.568,
+        "value": 191.4,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 7,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.06,
+        "value": 562.66,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Lisa Johnston",
+    "sender_company": "Price Global LLC",
+    "sender_address": "4900 Black Plain Apt. 332, Patrickview, SC 99067, China",
+    "sender_phone": "001-413-442-1691x52624",
+    "sender_email": "alison42@example.com",
+    "addressee_phone": "001-829-813-6072x3719",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 829.47,
+    "postal_charges": 33.91,
+    "tracking_number": "PA684197111GB"
+  }
+}

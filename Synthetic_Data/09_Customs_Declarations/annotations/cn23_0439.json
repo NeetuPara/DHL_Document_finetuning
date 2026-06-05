@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0439",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Cathy Johnston",
+    "addressee_company": "Commerce Michael B.V.",
+    "addressee_address": "998 Torres Road Apt. 190, East Robin, VI 13559, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 3.21,
+    "total_value": 2660.11,
+    "currency": "CAD",
+    "issue_date": "2026-02-16",
+    "reference": "REF-130331",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.862,
+        "value": 2323.8,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 13,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.348,
+        "value": 336.31,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "Derrick Webb",
+    "sender_company": "Tech Edwards Corp.",
+    "sender_address": "409 Jeanette Square, Lake Shirley, AR 52851, Thailand",
+    "sender_phone": "+1-257-330-0051x5255",
+    "sender_email": "diane79@example.net",
+    "addressee_phone": "291.260.9063x009",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 2926.12,
+    "postal_charges": 50.0,
+    "tracking_number": "ZT256071071JQ"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0613",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "618-93782112-5",
+    "entry_type": "11 - Informal - Free",
+    "entry_date": "2025-11-12",
+    "port_of_entry": "BOS - Boston",
+    "transport_mode": "Truck",
+    "carrier": "FedEx",
+    "bl_awb": "176-95161377",
+    "importer_name": "Barnes Industry Ltd",
+    "importer_ein": "10-3208917",
+    "consignee_name": "Commerce Griffin AG",
+    "customs_broker": "Simpson Industry Corp.",
+    "broker_filer_code": "Gzi",
+    "country_of_origin": "China",
+    "total_value": 338771.02,
+    "total_duty": 23786.82,
+    "currency": "CAD",
+    "signatory": "Kenneth Olson",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Italy",
+        "qty": 425,
+        "unit": "SET",
+        "entered_value": 78259.5,
+        "duty_rate": 4.0,
+        "duty_amount": 3130.38,
+        "eccn": "9A515",
+        "schedule_b": "8708.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Belgium",
+        "qty": 307,
+        "unit": "PCS",
+        "entered_value": 121031.68,
+        "duty_rate": 9.0,
+        "duty_amount": 10892.85,
+        "eccn": "3A992",
+        "schedule_b": "9401.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Mexico",
+        "qty": 389,
+        "unit": "PCS",
+        "entered_value": 139479.84,
+        "duty_rate": 7.0,
+        "duty_amount": 9763.59,
+        "eccn": "7A994",
+        "schedule_b": "3926.90.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

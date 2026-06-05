@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0989",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Perez Pte Ltd",
+    "shipper_address": "097 Williams Club, Port Cindyfort, CT 47493, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Industry Mcgrath AG",
+    "consignee_address": "348 Miller Passage, New Destiny, OH 86801, United States",
+    "consignee_country": "United States",
+    "emergency_telephone": "+41 669-998-5846",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 36,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 27.81,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Sarah Scott",
+    "signature_date": "2026-04-22",
+    "signature_place": "Spain",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "975W",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Colombo, LK"
+  }
+}

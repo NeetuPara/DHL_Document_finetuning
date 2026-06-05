@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0146",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202302-7624",
+    "usppi_name": "Kemp Pacific LLC",
+    "usppi_address": "050 James Heights Suite 162, Port Mikayla, NH 34115, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "64-9240060",
+    "consignee_name": "Johnson Trade Pte Ltd",
+    "consignee_address": "07338 Michael Lights Apt. 955, Charlesburgh, AS 69034, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Trade Hernandez Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "CIP",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "William Potter",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/20",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 158,
+        "unit": "KGS",
+        "weight_kg": 158.0,
+        "value_usd": 292.53
+      },
+      {
+        "marks": "ABC/2",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 47,
+        "unit": "PCS",
+        "weight_kg": 616.1,
+        "value_usd": 8377.55
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 73,
+        "unit": "BOX",
+        "weight_kg": 75.11,
+        "value_usd": 4056.44
+      },
+      {
+        "marks": "EXP/4",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 105,
+        "unit": "PCS",
+        "weight_kg": 63.86,
+        "value_usd": 722.47
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 170,
+        "unit": "CTN",
+        "weight_kg": 343.62,
+        "value_usd": 9124.15
+      }
+    ],
+    "total_weight_kg": 1256.69,
+    "total_value_usd": 22573.14,
+    "service": "Express Courier",
+    "named_port": "Frankfurt Airport",
+    "insurance_value_usd": 8143.32,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-231733",
+    "destination_country": "Netherlands"
+  }
+}

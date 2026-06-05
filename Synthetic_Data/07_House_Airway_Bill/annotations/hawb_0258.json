@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0258",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-27004260",
+    "mawb_number": "057-51994834",
+    "shipper_name": "Trade Callahan S.A.",
+    "shipper_address": "667 Ryan Springs, Lake Amber, AK 86824, Poland",
+    "consignee_name": "International Clarke GmbH",
+    "consignee_address": "1443 Kelly Light, Danielview, OK 87523, Spain",
+    "agent_name": "Bush Commerce AG",
+    "airport_departure": "PVG",
+    "airport_destination": "SYD",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "GBP 47,090.23",
+    "declared_value_customs": "NCV",
+    "n_pieces": 45,
+    "gross_weight_kg": 116.7,
+    "chargeable_weight": 134.5,
+    "rate": 11.81,
+    "total_charge": 1588.45,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-06-20",
+    "signatory": "Dustin Johnson",
+    "iata_code": "23-003",
+    "agent_cass": "5094-3425",
+    "consolidation_ref": "CONS-4470-735292",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-11598296",
+        "pieces": 2,
+        "weight": 50.8,
+        "destination": "FRA",
+        "consignee": "Global Jones Ltd",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "006-95852197",
+        "pieces": 18,
+        "weight": 63.9,
+        "destination": "FRA",
+        "consignee": "Trujillo Global S.A.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "006-72100202",
+        "pieces": 16,
+        "weight": 98.5,
+        "destination": "PVG",
+        "consignee": "May Global Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "020-87285933",
+        "pieces": 17,
+        "weight": 99.8,
+        "destination": "AMS",
+        "consignee": "Walters Industry LLC",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

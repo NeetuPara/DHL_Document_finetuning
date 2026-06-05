@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0229",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Samantha Sanchez",
+    "addressee_company": "Tech Holden Corp.",
+    "addressee_address": "66699 Lee Run Suite 175, Jonberg, KS 82279, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 8.012,
+    "total_value": 3739.52,
+    "currency": "EUR",
+    "issue_date": "2026-03-21",
+    "reference": "REF-414072",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.59,
+        "value": 2340.56,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 18,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.422,
+        "value": 1398.96,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Hannah Saunders",
+    "sender_company": "Gibson Pacific Inc.",
+    "sender_address": "43089 Dennis Lake Apt. 754, North Hannah, DC 10226, South Korea",
+    "sender_phone": "594-888-5281",
+    "sender_email": "laura51@example.net",
+    "addressee_phone": "366-212-4385x304",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 68.91,
+    "tracking_number": "GP292115701YN"
+  }
+}

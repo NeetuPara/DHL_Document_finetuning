@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0721",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "433-79580892-5",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2026-04-07",
+    "port_of_entry": "HOU - Houston",
+    "transport_mode": "Truck",
+    "carrier": "DHL Express",
+    "bl_awb": "618-15161894",
+    "importer_name": "Pacific Mcdaniel B.V.",
+    "importer_ein": "32-1994318",
+    "consignee_name": "Global Johnson GmbH",
+    "customs_broker": "Trade Young Inc.",
+    "broker_filer_code": "RNI",
+    "country_of_origin": "Italy",
+    "total_value": 203711.46,
+    "total_duty": 19747.36,
+    "currency": "GBP",
+    "signatory": "Michael Irwin",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Germany",
+        "qty": 489,
+        "unit": "PCS",
+        "entered_value": 36435.39,
+        "duty_rate": 7.4,
+        "duty_amount": 2696.22,
+        "eccn": "3A992",
+        "schedule_b": "8518.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Netherlands",
+        "qty": 191,
+        "unit": "PCS",
+        "entered_value": 94552.64,
+        "duty_rate": 8.2,
+        "duty_amount": 7753.32,
+        "eccn": "9A515",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Malaysia",
+        "qty": 223,
+        "unit": "PCS",
+        "entered_value": 40958.41,
+        "duty_rate": 7.5,
+        "duty_amount": 3071.88,
+        "eccn": "1A002",
+        "schedule_b": "9002.11.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "India",
+        "qty": 106,
+        "unit": "PCS",
+        "entered_value": 31765.02,
+        "duty_rate": 19.6,
+        "duty_amount": 6225.94,
+        "eccn": "2B350",
+        "schedule_b": "9401.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

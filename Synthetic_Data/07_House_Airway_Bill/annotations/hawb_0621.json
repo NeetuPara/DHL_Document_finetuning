@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0621",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-41615688",
+    "mawb_number": "176-85495809",
+    "shipper_name": "Pacific Diaz Inc.",
+    "shipper_address": "52083 Kelly Cove Apt. 479, North Stacy, MO 73922, United States",
+    "consignee_name": "Global Cook Ltd",
+    "consignee_address": "188 Thomas Corners, Mayerview, GA 77802, United Arab Emirates",
+    "agent_name": "International Byrd S.A.",
+    "airport_departure": "LAX",
+    "airport_destination": "NRT",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 40,
+    "gross_weight_kg": 360.1,
+    "chargeable_weight": 435.7,
+    "rate": 3.68,
+    "total_charge": 1603.38,
+    "nature_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-09-07",
+    "signatory": "Donald Jackson",
+    "iata_code": "55-950",
+    "agent_cass": "4224-9434",
+    "consolidation_ref": "CONS-2461-660009",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-77514110",
+        "pieces": 1,
+        "weight": 39.4,
+        "destination": "MIA",
+        "consignee": "Nielsen Global B.V.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "045-83146546",
+        "pieces": 10,
+        "weight": 63.0,
+        "destination": "AMS",
+        "consignee": "Tech Ferrell Corp.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "125-90375638",
+        "pieces": 4,
+        "weight": 11.5,
+        "destination": "DXB",
+        "consignee": "Industry Smith Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "045-81669773",
+        "pieces": 11,
+        "weight": 94.2,
+        "destination": "NRT",
+        "consignee": "Gutierrez Trade Inc.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "618-75657480",
+        "pieces": 6,
+        "weight": 12.1,
+        "destination": "JFK",
+        "consignee": "James Pacific Co.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "085-49259094",
+        "pieces": 19,
+        "weight": 37.1,
+        "destination": "PVG",
+        "consignee": "Rich Trade Inc.",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

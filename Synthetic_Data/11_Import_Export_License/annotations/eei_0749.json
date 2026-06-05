@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0749",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20211105803730",
+    "export_date": "2026-02-17",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Barnes Tech Co.",
+    "usppi_ein": "14-6079345",
+    "usppi_address": "41374 Chan Mountain Apt. 323, Carrside, OK 90415, United Arab Emirates",
+    "ultimate_consignee": "Jones Pacific LLC",
+    "intermediate_consignee": "Tech Cruz Corp.",
+    "forwarding_agent": "Industry Carter GmbH",
+    "destination_country": "Switzerland",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "074-88892295",
+    "total_value": 113688.78,
+    "currency": "EUR",
+    "signatory": "Frank Bennett",
+    "line_items": [
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Italy",
+        "qty": 78,
+        "unit": "PCS",
+        "entered_value": 33957.3,
+        "duty_rate": 16.6,
+        "duty_amount": 5636.91,
+        "eccn": "9A515",
+        "schedule_b": "3926.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Singapore",
+        "qty": 227,
+        "unit": "PCS",
+        "entered_value": 79731.48,
+        "duty_rate": 16.2,
+        "duty_amount": 12916.5,
+        "eccn": "3A992",
+        "schedule_b": "8483.40.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

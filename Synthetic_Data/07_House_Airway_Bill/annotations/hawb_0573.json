@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0573",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-94187442",
+    "mawb_number": "125-44709866",
+    "shipper_name": "Morris Tech LLC",
+    "shipper_address": "21415 Johnson Fords Suite 541, Luismouth, CT 60379, Thailand",
+    "consignee_name": "Commerce Moreno Co.",
+    "consignee_address": "74441 Cynthia Mill, Port Veronica, SD 52494, Spain",
+    "agent_name": "Global Rodriguez GmbH",
+    "airport_departure": "NRT",
+    "airport_destination": "AMS",
+    "currency": "CNY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "GBP 30,849.64",
+    "n_pieces": 16,
+    "gross_weight_kg": 198.9,
+    "chargeable_weight": 244.1,
+    "rate": 2.13,
+    "total_charge": 519.93,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-09-19",
+    "signatory": "Maria Price",
+    "iata_code": "73-245",
+    "agent_cass": "6287-2762",
+    "consolidation_ref": "CONS-1520-353574",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-94403317",
+        "pieces": 15,
+        "weight": 65.5,
+        "destination": "ORD",
+        "consignee": "Industry Fisher Corp.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "006-43824923",
+        "pieces": 13,
+        "weight": 6.8,
+        "destination": "ICN",
+        "consignee": "Macdonald Global Pte Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "176-99204113",
+        "pieces": 2,
+        "weight": 42.9,
+        "destination": "SIN",
+        "consignee": "Tech Smith Co.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "160-19478239",
+        "pieces": 7,
+        "weight": 11.1,
+        "destination": "MIA",
+        "consignee": "Miller Industry B.V.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "045-81067308",
+        "pieces": 16,
+        "weight": 71.2,
+        "destination": "HKG",
+        "consignee": "Allison Trade S.A.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "006-85766223",
+        "pieces": 1,
+        "weight": 1.8,
+        "destination": "MIA",
+        "consignee": "International Zamora Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "125-49040949",
+        "pieces": 7,
+        "weight": 62.0,
+        "destination": "SIN",
+        "consignee": "International Freeman Corp.",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

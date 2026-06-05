@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0734",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202110-2884",
+    "usppi_name": "Vang Tech Ltd",
+    "usppi_address": "Unit 8976 Box 4100, DPO AE 51236, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "69-5055436",
+    "consignee_name": "Trade Jones LLC",
+    "consignee_address": "5960 Perry Corner, Seanmouth, HI 02678, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Daniels International Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Sharon Stafford",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/15",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 150,
+        "unit": "PCS",
+        "weight_kg": 18.55,
+        "value_usd": 8851.91
+      },
+      {
+        "marks": "SLI/10",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 115,
+        "unit": "LTR",
+        "weight_kg": 112.35,
+        "value_usd": 726.79
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 186,
+        "unit": "PKG",
+        "weight_kg": 490.87,
+        "value_usd": 8914.12
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 140,
+        "unit": "KGS",
+        "weight_kg": 140.0,
+        "value_usd": 2400.67
+      }
+    ],
+    "total_weight_kg": 761.77,
+    "total_value_usd": 20893.49,
+    "service": "Ocean Freight",
+    "named_port": "Felixstowe, GB",
+    "insurance_value_usd": 39632.92,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-649217",
+    "destination_country": "Malaysia"
+  }
+}

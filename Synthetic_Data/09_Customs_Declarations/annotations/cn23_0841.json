@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0841",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Benjamin Walters",
+    "addressee_company": "White Pacific Corp.",
+    "addressee_address": "PSC 6431, Box 1493, APO AE 23228, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 13.331,
+    "total_value": 2590.75,
+    "currency": "USD",
+    "issue_date": "2025-08-18",
+    "reference": "REF-080173",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.844,
+        "value": 411.69,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 3,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.408,
+        "value": 403.47,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 10,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.006,
+        "value": 783.9,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 7,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.073,
+        "value": 991.69,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Steven Gonzalez",
+    "sender_company": "Industry Gibson S.A.",
+    "sender_address": "01863 Patterson Station Suite 938, Port Garytown, CT 82824, Poland",
+    "sender_phone": "477.685.2331x820",
+    "sender_email": "johnjackson@example.net",
+    "addressee_phone": "623.751.6393",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 27.42,
+    "tracking_number": "JC097327425NQ"
+  }
+}

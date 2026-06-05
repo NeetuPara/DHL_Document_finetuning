@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0949",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Vaughn B.V.",
+    "shipper_address": "8983 Matthew Flat, Amyland, VI 47773, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Barnett Tech Corp.",
+    "consignee_address": "508 Campbell Pines Suite 368, North Rachel, IL 15446, China",
+    "consignee_country": "China",
+    "emergency_telephone": "+81 978-936-2411",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 5,
+        "pkg_type": "Steel Drum",
+        "net_qty": 62.47,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-584348",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 35,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 86.49,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-164664",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Shannon Clark",
+    "signature_date": "2026-05-11",
+    "signature_place": "Germany",
+    "awb_number": "045-85391396",
+    "flight_number": "CX5724",
+    "flight_date": "2026-05-10",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International"
+  }
+}

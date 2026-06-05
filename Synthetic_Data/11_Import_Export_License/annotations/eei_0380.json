@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0380",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250628673836",
+    "export_date": "2025-06-16",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Tech Townsend Inc.",
+    "usppi_ein": "59-8956235",
+    "usppi_address": "USS Rojas, FPO AA 50758, Germany",
+    "ultimate_consignee": "Buck Pacific B.V.",
+    "intermediate_consignee": "Bryant Industry Pte Ltd",
+    "forwarding_agent": "Clark Pacific Inc.",
+    "destination_country": "Malaysia",
+    "carrier": "MSC",
+    "bl_awb": "160-74096264",
+    "total_value": 353157.96,
+    "currency": "GBP",
+    "signatory": "Martin Smith",
+    "line_items": [
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Canada",
+        "qty": 291,
+        "unit": "PCS",
+        "entered_value": 117936.48,
+        "duty_rate": 6.5,
+        "duty_amount": 7665.87,
+        "eccn": "1A002",
+        "schedule_b": "8534.00.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 406,
+        "unit": "PCS",
+        "entered_value": 146720.28,
+        "duty_rate": 16.7,
+        "duty_amount": 24502.29,
+        "eccn": "1A002",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "United Kingdom",
+        "qty": 372,
+        "unit": "PCS",
+        "entered_value": 5022.0,
+        "duty_rate": 22.5,
+        "duty_amount": 1129.95,
+        "eccn": "0A919",
+        "schedule_b": "8534.00.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Singapore",
+        "qty": 133,
+        "unit": "PCS",
+        "entered_value": 31467.8,
+        "duty_rate": 0.0,
+        "duty_amount": 0.0,
+        "eccn": "3A992",
+        "schedule_b": "8518.30.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "United States",
+        "qty": 485,
+        "unit": "MTR",
+        "entered_value": 52011.4,
+        "duty_rate": 20.0,
+        "duty_amount": 10402.28,
+        "eccn": "EAR99",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

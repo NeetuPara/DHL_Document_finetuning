@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0330",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU763129033",
+    "shipper_name": "Commerce Meyer GmbH",
+    "shipper_address": "78935 Gardner Circles, Port Brianfort, MP 97202, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Noble Industry Corp.",
+    "consignee_address": "636 Johnson Expressway Apt. 800, Burgessside, TX 01216, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party_name": "Commerce Ortega Corp.",
+    "notify_party_address": "06391 April Via Apt. 017, North Jade, VA 20040, Brazil",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "316S",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Qingdao, CN",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2024-05-22",
+    "issue_place": "Felixstowe",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "JDNK9403176",
+        "seal_no": "SL578075",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "ZWJL1365093",
+        "seal_no": "CL188338",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 34,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 1441.0,
+    "net_weight_kg": 1343.4,
+    "cbm": 3.332,
+    "marks_and_numbers": "ABC/42"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0906",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jennifer White",
+    "addressee_company": "Industry Clark LLC",
+    "addressee_address": "801 Meadows Point, Brianton, OK 14277, United Kingdom",
+    "addressee_country": "United Kingdom",
+    "total_weight_kg": 1.725,
+    "total_value": 54.45,
+    "currency": "CHF",
+    "issue_date": "2026-02-14",
+    "reference": "REF-879133",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.725,
+        "value": 54.45,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_country": "Spain",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "140-60399090-2",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 10.3,
+    "estimated_duty": 5.61,
+    "importer_ein": "48-3524578",
+    "customs_broker": "Smith Pacific Co."
+  }
+}

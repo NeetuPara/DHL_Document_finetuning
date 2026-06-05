@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0211",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU378761989",
+    "shipper_name": "Pacific Meyers GmbH",
+    "shipper_address": "8579 Keith Branch Suite 128, Port John, ME 53683, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Trade Hall LLC",
+    "consignee_address": "65718 Gary Gateway Suite 588, West Pennyfort, WY 14720, Japan",
+    "consignee_country": "Japan",
+    "notify_party_name": "Brooks Global Corp.",
+    "notify_party_address": "5544 Morris Stravenue, Dawnmouth, GA 91307, Singapore",
+    "vessel": "YANG MING MYTH",
+    "voyage": "582W",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Felixstowe, GB",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2025-11-03",
+    "issue_place": "Tokyo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "OEXG4188338",
+        "seal_no": "SL433387",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "XEAT9214209",
+        "seal_no": "BL982567",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "UNBF5072785",
+        "seal_no": "BL107152",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "number_of_packages": 283,
+    "package_type": "Pallet",
+    "gross_weight_kg": 14143.6,
+    "net_weight_kg": 13223.1,
+    "cbm": 29.45,
+    "marks_and_numbers": "GLB/33"
+  }
+}

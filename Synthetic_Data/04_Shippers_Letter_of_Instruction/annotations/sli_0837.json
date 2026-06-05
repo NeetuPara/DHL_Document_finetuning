@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0837",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202003-6244",
+    "usppi_name": "Commerce Braun Pte Ltd",
+    "usppi_address": "52258 Joyce Locks Suite 908, Brycebury, MO 74007, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "68-4463106",
+    "consignee_name": "Green Commerce B.V.",
+    "consignee_address": "7690 Shaw Parkways Apt. 267, Kevinview, AL 07327, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Pacific Evans LLC",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Edward Ryan",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/12",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 76,
+        "unit": "PCS",
+        "weight_kg": 1084.88,
+        "value_usd": 22145.42
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 141,
+        "unit": "PCS",
+        "weight_kg": 721.84,
+        "value_usd": 27889.56
+      }
+    ],
+    "total_weight_kg": 1806.72,
+    "total_value_usd": 50034.98,
+    "vessel": "PIL PACIFIC",
+    "voyage": "533S",
+    "booking_ref": "BKG-652696",
+    "bl_number": "OOLU924463446",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Los Angeles, US",
+    "container_number": "YAJJ1022291",
+    "seal_number": "BL132190",
+    "container_type": "20'GP",
+    "cbm": 4.645
+  }
+}

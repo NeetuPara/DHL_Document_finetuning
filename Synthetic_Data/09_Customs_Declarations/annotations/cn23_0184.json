@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0184",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "John Morrison",
+    "addressee_company": "Johnson Commerce GmbH",
+    "addressee_address": "9296 Guerrero Manors Apt. 914, South Christianborough, AR 00709, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 14.81,
+    "total_value": 5851.36,
+    "currency": "CAD",
+    "issue_date": "2026-04-17",
+    "reference": "REF-026838",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 0.512,
+        "value": 1154.8,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 20,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.904,
+        "value": 1047.0,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 13,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 0.56,
+        "value": 1345.5,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 9,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.284,
+        "value": 258.21,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 15,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.876,
+        "value": 694.5,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 15,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.674,
+        "value": 1351.35,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "Brian Thompson",
+    "sender_company": "Murray Trade GmbH",
+    "sender_address": "9153 Graves Ferry Apt. 197, North Alexander, UT 77303, Australia",
+    "sender_phone": "001-834-418-7241x6630",
+    "sender_email": "jaime26@example.org",
+    "addressee_phone": "682.304.3644x7062",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 6436.5,
+    "postal_charges": 10.17,
+    "tracking_number": "OV100464464PH"
+  }
+}

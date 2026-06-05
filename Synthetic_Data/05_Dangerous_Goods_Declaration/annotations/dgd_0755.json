@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0755",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Butler Trade B.V.",
+    "shipper_address": "PSC 6683, Box 0275, APO AP 54935, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Rowe Global Ltd",
+    "consignee_address": "94562 Gaines Hollow, South Adrian, ID 59884, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+62 756-655-9779",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 38,
+        "pkg_type": "Steel Drum",
+        "net_qty": 95.64,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jessica Mitchell",
+    "signature_date": "2026-05-07",
+    "signature_place": "Germany",
+    "vessel": "PIL PACIFIC",
+    "voyage": "123W",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Tanjung Pelepas, MY"
+  }
+}

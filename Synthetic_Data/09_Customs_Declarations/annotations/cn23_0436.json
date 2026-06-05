@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0436",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kimberly Harrison",
+    "addressee_company": "Wilson Trade Co.",
+    "addressee_address": "Unit 3370 Box 1374, DPO AA 93321, Malaysia",
+    "addressee_country": "Malaysia",
+    "total_weight_kg": 6.035,
+    "total_value": 1491.47,
+    "currency": "EUR",
+    "issue_date": "2026-01-30",
+    "reference": "REF-121568",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.188,
+        "value": 50.81,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 13,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.847,
+        "value": 1440.66,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_name": "Thomas Mullins",
+    "sender_company": "Pacific Roberts S.A.",
+    "sender_address": "20391 Jones Valley, Mariaburgh, AK 79899, Germany",
+    "sender_phone": "223.994.8639",
+    "sender_email": "fburns@example.net",
+    "addressee_phone": "001-428-861-3542x3306",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 1640.62,
+    "postal_charges": 29.44,
+    "tracking_number": "ZE923882162AW"
+  }
+}

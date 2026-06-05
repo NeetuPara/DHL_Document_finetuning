@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0420",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Nicholson Pte Ltd",
+    "shipper_address": "04761 Smith Rapids Suite 801, New Betty, LA 13156, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Guzman Trade Corp.",
+    "consignee_address": "1333 Doris Manor Suite 177, South Jonathan, OK 92030, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+30 435-305-8587",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 7,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 26.07,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Jasmine Dunlap",
+    "signature_date": "2026-04-22",
+    "signature_place": "Canada",
+    "awb_number": "085-55924576",
+    "flight_number": "CX9667",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

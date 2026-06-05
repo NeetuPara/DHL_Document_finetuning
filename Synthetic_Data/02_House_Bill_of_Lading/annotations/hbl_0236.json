@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0236",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU670137341",
+    "shipper_name": "Holmes Trade Ltd",
+    "shipper_address": "571 Victor Prairie, Melissaberg, MH 49639, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Commerce Webb Pte Ltd",
+    "consignee_address": "97840 Cooper Garden Suite 852, East Deniseton, NJ 88487, Germany",
+    "consignee_country": "Germany",
+    "notify_party_name": "Vaughan Trade AG",
+    "notify_party_address": "84472 Charles Port Suite 247, Port Brandonville, RI 37733, Hong Kong",
+    "vessel": "ONE INNOVATION",
+    "voyage": "692E",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Felixstowe, GB",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2025-07-23",
+    "issue_place": "Hamburg",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "ABDD6980140",
+        "seal_no": "SL570174",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "MIYI1978863",
+        "seal_no": "CL226159",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "RUVJ9489490",
+        "seal_no": "SL108193",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "HWAG5254601",
+        "seal_no": "SL108719",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 185,
+    "package_type": "Drum",
+    "gross_weight_kg": 10597.3,
+    "net_weight_kg": 9999.8,
+    "cbm": 9.252,
+    "marks_and_numbers": "XYZ/24"
+  }
+}

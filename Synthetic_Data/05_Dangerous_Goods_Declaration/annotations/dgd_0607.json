@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0607",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Deleon Commerce Ltd",
+    "shipper_address": "36315 Garcia Unions Apt. 933, North Jacqueline, IN 71701, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Rodriguez Industry Ltd",
+    "consignee_address": "1738 Jackson Causeway, Phambury, IA 82765, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+87 625-523-6319",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 2,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 70.21,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-443882",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 30,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 5.64,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Donna Walsh",
+    "signature_date": "2026-05-08",
+    "signature_place": "Belgium",
+    "awb_number": "176-78921133",
+    "flight_number": "UA6121",
+    "flight_date": "2026-05-16",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "NRT",
+    "destination_airport_name": "Tokyo Narita"
+  }
+}

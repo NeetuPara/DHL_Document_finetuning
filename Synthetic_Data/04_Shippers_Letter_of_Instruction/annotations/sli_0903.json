@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0903",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202505-9733",
+    "usppi_name": "Pacific Jackson Ltd",
+    "usppi_address": "8864 William Drive Suite 213, Lake Hannahstad, MO 54473, Japan",
+    "usppi_country": "Japan",
+    "ein": "86-4020044",
+    "consignee_name": "Lane Global Inc.",
+    "consignee_address": "PSC 8854, Box 7781, APO AA 60665, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Trade Sullivan GmbH",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "Elizabeth Jackson",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/19",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 66,
+        "unit": "PCS",
+        "weight_kg": 72.56,
+        "value_usd": 1475.45
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 26,
+        "unit": "PCS",
+        "weight_kg": 30.75,
+        "value_usd": 42615.23
+      },
+      {
+        "marks": "SLI/17",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 99,
+        "unit": "CTN",
+        "weight_kg": 298.16,
+        "value_usd": 2262.24
+      },
+      {
+        "marks": "SLI/5",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 31,
+        "unit": "KGS",
+        "weight_kg": 31.0,
+        "value_usd": 24.1
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 196,
+        "unit": "MTR",
+        "weight_kg": 203.9,
+        "value_usd": 2146.69
+      },
+      {
+        "marks": "SLI/49",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 72,
+        "unit": "SET",
+        "weight_kg": 172.24,
+        "value_usd": 8765.45
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 162,
+        "unit": "LTR",
+        "weight_kg": 168.32,
+        "value_usd": 6440.17
+      },
+      {
+        "marks": "SLI/20",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 62,
+        "unit": "PCS",
+        "weight_kg": 612.88,
+        "value_usd": 19767.79
+      }
+    ],
+    "total_weight_kg": 1589.81,
+    "total_value_usd": 83497.12,
+    "vessel": "MSC GULSUN",
+    "voyage": "370E",
+    "booking_ref": "BKG-550305",
+    "bl_number": "EGLV235012959",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Busan, KR",
+    "container_number": "NWWJ0080588",
+    "seal_number": "SL802052",
+    "container_type": "20'GP",
+    "cbm": 56.827
+  }
+}

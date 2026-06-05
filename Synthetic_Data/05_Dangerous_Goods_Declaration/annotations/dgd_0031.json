@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0031",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Bruce Pacific S.A.",
+    "shipper_address": "1930 Richard Lights Apt. 683, Lake Hannah, UT 40314, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Commerce Mcclain Corp.",
+    "consignee_address": "8235 Miller Drive Apt. 993, New Jessica, ME 13390, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+75 460-849-4682",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 10,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 63.81,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-791462",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Stacey King",
+    "signature_date": "2026-05-04",
+    "signature_place": "Malaysia",
+    "awb_number": "125-65544657",
+    "flight_number": "LH1035",
+    "flight_date": "2026-05-28",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson"
+  }
+}

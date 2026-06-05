@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0499",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202601-9438",
+    "usppi_name": "Pacific Jones Inc.",
+    "usppi_address": "009 Austin Road Suite 770, Lake James, UT 11691, Japan",
+    "usppi_country": "Japan",
+    "ein": "30-6882526",
+    "consignee_name": "Ramirez Pacific GmbH",
+    "consignee_address": "00401 Alan Rapid, South Victoriaborough, GU 75589, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Hull Tech AG",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "2B350",
+    "signatory_name": "Tina Hicks",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/29",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 96,
+        "unit": "PCS",
+        "weight_kg": 1705.42,
+        "value_usd": 33501.71
+      },
+      {
+        "marks": "EXP/50",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 142,
+        "unit": "KGS",
+        "weight_kg": 142.0,
+        "value_usd": 1968.94
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 77,
+        "unit": "PCS",
+        "weight_kg": 7.56,
+        "value_usd": 7064.17
+      },
+      {
+        "marks": "SLI/18",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 174,
+        "unit": "PCS",
+        "weight_kg": 71.05,
+        "value_usd": 78446.48
+      },
+      {
+        "marks": "ABC/13",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 70,
+        "unit": "KGS",
+        "weight_kg": 70.0,
+        "value_usd": 157.8
+      },
+      {
+        "marks": "SLI/12",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 93,
+        "unit": "PCS",
+        "weight_kg": 429.16,
+        "value_usd": 34988.75
+      },
+      {
+        "marks": "SLI/38",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 15,
+        "unit": "PCS",
+        "weight_kg": 0.86,
+        "value_usd": 724.86
+      }
+    ],
+    "total_weight_kg": 2426.05,
+    "total_value_usd": 156852.71,
+    "service": "LCL Ocean",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 48949.43,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-406277",
+    "destination_country": "Mexico"
+  }
+}

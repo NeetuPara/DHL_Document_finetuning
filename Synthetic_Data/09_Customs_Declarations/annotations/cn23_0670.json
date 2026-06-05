@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0670",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Olivia Gallagher",
+    "addressee_company": "International Gonzalez Ltd",
+    "addressee_address": "3708 Elizabeth Centers, Lake Carrie, FM 69865, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 5.979,
+    "total_value": 1893.2,
+    "currency": "GBP",
+    "issue_date": "2025-09-24",
+    "reference": "REF-795671",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.953,
+        "value": 212.15,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 15,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.026,
+        "value": 1681.05,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Kathy Crawford",
+    "sender_company": "Tech Brown Corp.",
+    "sender_address": "555 Anthony Glens, Larastad, IL 94170, Malaysia",
+    "sender_phone": "851.255.8282x01208",
+    "sender_email": "jameserin@example.org",
+    "addressee_phone": "415.938.5926x9381",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 2082.52,
+    "postal_charges": 52.08,
+    "tracking_number": "EN246884915AQ"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0431",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Austin Fernandez",
+    "addressee_company": "Arellano International B.V.",
+    "addressee_address": "58816 Fitzgerald Springs, Benjaminside, AR 08240, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 8.959,
+    "total_value": 3584.17,
+    "currency": "GBP",
+    "issue_date": "2025-10-11",
+    "reference": "REF-989662",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.965,
+        "value": 1321.6,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 1,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.454,
+        "value": 143.97,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 15,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.54,
+        "value": 2118.6,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "Carolyn Whitaker",
+    "sender_company": "Brown International LLC",
+    "sender_address": "872 Stuart Forge, Jeffreyland, MP 97168, Singapore",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 44.58,
+    "tracking_number": "IB903576642VL"
+  }
+}

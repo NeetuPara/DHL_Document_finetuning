@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0680",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202211-2708",
+    "usppi_name": "Lindsey Tech Ltd",
+    "usppi_address": "3401 Natasha Extensions, Sullivanshire, PR 96720, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "89-4836650",
+    "consignee_name": "Olson Pacific Ltd",
+    "consignee_address": "3806 Perry Ports, Port Regina, VA 73719, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Adams Commerce AG",
+    "forwarder": "Panalpina",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "David Harper",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/5",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 191,
+        "unit": "PCS",
+        "weight_kg": 66.0,
+        "value_usd": 5931.54
+      },
+      {
+        "marks": "EXP/1",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 85,
+        "unit": "CTN",
+        "weight_kg": 198.41,
+        "value_usd": 1147.39
+      }
+    ],
+    "total_weight_kg": 264.41,
+    "total_value_usd": 7078.93,
+    "service": "LCL Ocean",
+    "named_port": "Busan, KR",
+    "insurance_value_usd": 44680.22,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-334836",
+    "destination_country": "Australia"
+  }
+}

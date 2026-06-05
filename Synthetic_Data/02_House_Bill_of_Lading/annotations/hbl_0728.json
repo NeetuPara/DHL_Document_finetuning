@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0728",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG827243411",
+    "shipper_name": "Schmitt Tech Inc.",
+    "shipper_address": "93515 Sanchez Harbor, Jonesburgh, NH 16234, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Ruiz Tech AG",
+    "consignee_address": "884 Burgess Tunnel Suite 912, Shanemouth, DC 89677, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party_name": "Poole Trade Corp.",
+    "notify_party_address": "30461 Timothy Passage, Port Juliemouth, HI 62846, Netherlands",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "335E",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2026-02-15",
+    "issue_place": "New York",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "EPGY5300922",
+        "seal_no": "BL138609",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "OSIY8818878",
+        "seal_no": "CL111709",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "TDEX8370609",
+        "seal_no": "CL164023",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "IVSI6464645",
+        "seal_no": "CL879576",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 31,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 19330.1,
+    "net_weight_kg": 17461.1,
+    "cbm": 1.097,
+    "marks_and_numbers": "XYZ/5"
+  }
+}

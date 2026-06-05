@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0876",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-80547076",
+    "mawb_number": "125-99865591",
+    "shipper_name": "Rice Tech LLC",
+    "shipper_address": "PSC 6977, Box 1278, APO AE 76163, Canada",
+    "consignee_name": "Trade Cuevas LLC",
+    "consignee_address": "79322 Sheryl Burg, Grantbury, CT 61062, France",
+    "agent_name": "Tech Miller Pte Ltd",
+    "airport_departure": "SIN",
+    "airport_destination": "JFK",
+    "currency": "SGD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "GBP 34,007.94",
+    "n_pieces": 44,
+    "gross_weight_kg": 449.7,
+    "chargeable_weight": 512.9,
+    "rate": 9.08,
+    "total_charge": 4657.13,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-02-02",
+    "signatory": "Robert Murphy",
+    "iata_code": "63-056",
+    "agent_cass": "7064-2127",
+    "consolidation_ref": "CONS-0352-805732",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-22150371",
+        "pieces": 10,
+        "weight": 47.1,
+        "destination": "JFK",
+        "consignee": "Industry Willis B.V.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "085-64309658",
+        "pieces": 4,
+        "weight": 1.8,
+        "destination": "CDG",
+        "consignee": "Tech Harris Corp.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "045-87978007",
+        "pieces": 8,
+        "weight": 86.4,
+        "destination": "SYD",
+        "consignee": "Pacific Phelps Corp.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "085-90669047",
+        "pieces": 14,
+        "weight": 76.4,
+        "destination": "YYZ",
+        "consignee": "Trade Marshall Co.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "085-95532562",
+        "pieces": 7,
+        "weight": 9.3,
+        "destination": "FRA",
+        "consignee": "Branch Industry Corp.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "618-57825038",
+        "pieces": 14,
+        "weight": 59.8,
+        "destination": "FRA",
+        "consignee": "Williams International Pte Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "085-50029941",
+        "pieces": 14,
+        "weight": 71.8,
+        "destination": "PVG",
+        "consignee": "Turner Industry B.V.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "160-10444676",
+        "pieces": 2,
+        "weight": 7.2,
+        "destination": "NRT",
+        "consignee": "Lewis Global B.V.",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

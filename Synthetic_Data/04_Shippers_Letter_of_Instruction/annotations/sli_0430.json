@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0430",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202301-4079",
+    "usppi_name": "Myers Commerce B.V.",
+    "usppi_address": "76266 Hill Ridge, Destinyfurt, MP 80000, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "56-1998595",
+    "consignee_name": "Trade Banks Inc.",
+    "consignee_address": "492 Allen Vista, Medinaside, IN 07371, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "International Davis S.A.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Adam Townsend",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/43",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 105,
+        "unit": "CTN",
+        "weight_kg": 234.69,
+        "value_usd": 1369.72
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 48,
+        "unit": "CTN",
+        "weight_kg": 86.94,
+        "value_usd": 1561.59
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 143,
+        "unit": "SET",
+        "weight_kg": 176.37,
+        "value_usd": 18328.3
+      },
+      {
+        "marks": "EXP/35",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 118,
+        "unit": "MTR",
+        "weight_kg": 141.46,
+        "value_usd": 1798.05
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 135,
+        "unit": "PCS",
+        "weight_kg": 17.42,
+        "value_usd": 15375.34
+      },
+      {
+        "marks": "SLI/17",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 20,
+        "unit": "PCS",
+        "weight_kg": 13.26,
+        "value_usd": 381.77
+      }
+    ],
+    "total_weight_kg": 670.14,
+    "total_value_usd": 38814.77,
+    "service": "LCL Ocean",
+    "named_port": "Antwerp, BE",
+    "insurance_value_usd": 27236.68,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Thailand"
+  }
+}

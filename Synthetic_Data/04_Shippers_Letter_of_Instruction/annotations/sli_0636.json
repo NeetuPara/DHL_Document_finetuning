@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0636",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202108-9139",
+    "usppi_name": "Commerce Ramirez S.A.",
+    "usppi_address": "061 Faith Mills, Patriciaview, AS 35759, France",
+    "usppi_country": "France",
+    "ein": "95-4171024",
+    "consignee_name": "Leach International Co.",
+    "consignee_address": "Unit 1639 Box 0046, DPO AE 55076, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Pacific Kelly AG",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Melissa Mcconnell",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/8",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 8,
+        "unit": "CTN",
+        "weight_kg": 29.29,
+        "value_usd": 171.47
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 24,
+        "unit": "PKG",
+        "weight_kg": 61.05,
+        "value_usd": 530.54
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 18,
+        "unit": "PCS",
+        "weight_kg": 2.5,
+        "value_usd": 509.3
+      }
+    ],
+    "total_weight_kg": 92.84,
+    "total_value_usd": 1211.31,
+    "vessel": "ONE INNOVATION",
+    "voyage": "566S",
+    "booking_ref": "BKG-904621",
+    "bl_number": "MAEU535493765",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Singapore, SG",
+    "container_number": "LOMF6146801",
+    "seal_number": "CL254865",
+    "container_type": "40'GP",
+    "cbm": 3.211
+  }
+}

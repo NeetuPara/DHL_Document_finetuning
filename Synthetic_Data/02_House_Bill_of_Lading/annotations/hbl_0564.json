@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0564",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV483041888",
+    "shipper_name": "Global Graham GmbH",
+    "shipper_address": "170 Alex Unions Suite 492, Bushview, PW 16618, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Yates Commerce Co.",
+    "consignee_address": "6547 Morgan Bypass Suite 096, West Hollytown, CO 45596, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party_name": "International Clark AG",
+    "notify_party_address": "7472 Meagan Stravenue, South Robert, MN 05674, United States",
+    "vessel": "PIL PACIFIC",
+    "voyage": "174W",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Dubai, AE",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2025-06-14",
+    "issue_place": "Felixstowe",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "GCWS5450659",
+        "seal_no": "BL333744",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "MSXB3591987",
+        "seal_no": "BL551063",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "RQEL8983118",
+        "seal_no": "SL693118",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 312,
+    "package_type": "Case",
+    "gross_weight_kg": 4684.5,
+    "net_weight_kg": 4522.1,
+    "cbm": 20.396,
+    "marks_and_numbers": "XYZ/14"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0741",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202307-9248",
+    "usppi_name": "Tech Long S.A.",
+    "usppi_address": "14070 Smith Prairie Suite 988, Estradabury, FL 43096, China",
+    "usppi_country": "China",
+    "ein": "19-6985106",
+    "consignee_name": "Global Barber S.A.",
+    "consignee_address": "82399 Fuller Center, West Kennethton, AS 48429, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "International Baxter Corp.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Steven Soto",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/38",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 162,
+        "unit": "PCS",
+        "weight_kg": 13.42,
+        "value_usd": 21086.75
+      },
+      {
+        "marks": "SLI/18",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 122,
+        "unit": "PKG",
+        "weight_kg": 189.19,
+        "value_usd": 9376.04
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 57,
+        "unit": "BOX",
+        "weight_kg": 61.99,
+        "value_usd": 4817.39
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 184,
+        "unit": "LTR",
+        "weight_kg": 194.25,
+        "value_usd": 4933.89
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 55,
+        "unit": "MTR",
+        "weight_kg": 61.17,
+        "value_usd": 940.8
+      }
+    ],
+    "total_weight_kg": 520.02,
+    "total_value_usd": 41154.87,
+    "vessel": "EVER GOLDEN",
+    "voyage": "338N",
+    "booking_ref": "BKG-686179",
+    "bl_number": "MAEU110491093",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Felixstowe, GB",
+    "container_number": "MYWH5401489",
+    "seal_number": "BL855874",
+    "container_type": "20'GP",
+    "cbm": 38.175
+  }
+}

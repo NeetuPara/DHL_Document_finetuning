@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0633",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-99887588",
+    "mawb_number": "074-15210020",
+    "shipper_name": "Stewart International LLC",
+    "shipper_address": "491 Christina Corners, South Stacey, AK 60457, Thailand",
+    "consignee_name": "Adams Tech AG",
+    "consignee_address": "3730 Hill Isle Apt. 715, Hernandezport, IA 98643, Switzerland",
+    "agent_name": "Fernandez Trade GmbH",
+    "airport_departure": "LAX",
+    "airport_destination": "YYZ",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "AUD 17,913.28",
+    "n_pieces": 15,
+    "gross_weight_kg": 326.1,
+    "chargeable_weight": 336.9,
+    "rate": 1.6,
+    "total_charge": 539.04,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-11-01",
+    "signatory": "Cynthia Carroll",
+    "iata_code": "12-440",
+    "agent_cass": "1314-1196",
+    "consolidation_ref": "CONS-3233-128305",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-75152232",
+        "pieces": 11,
+        "weight": 90.2,
+        "destination": "LHR",
+        "consignee": "Adams Tech AG",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "057-23695291",
+        "pieces": 14,
+        "weight": 75.6,
+        "destination": "DXB",
+        "consignee": "Trade Williams LLC",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "160-57651271",
+        "pieces": 5,
+        "weight": 81.5,
+        "destination": "SIN",
+        "consignee": "Thomas Trade LLC",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "045-13593453",
+        "pieces": 17,
+        "weight": 66.6,
+        "destination": "SYD",
+        "consignee": "Williams Global Corp.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "074-58668829",
+        "pieces": 18,
+        "weight": 21.0,
+        "destination": "ICN",
+        "consignee": "Merritt Trade Corp.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "176-53526315",
+        "pieces": 17,
+        "weight": 49.9,
+        "destination": "MIA",
+        "consignee": "Pacific Jones AG",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "074-87490435",
+        "pieces": 5,
+        "weight": 79.0,
+        "destination": "MIA",
+        "consignee": "Scott Pacific Co.",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

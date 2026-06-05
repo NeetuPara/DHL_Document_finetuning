@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0553",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kelly Tate",
+    "addressee_company": "Graves Pacific Co.",
+    "addressee_address": "342 Clark Club, Deborahville, IN 60327, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 3.05,
+    "total_value": 170.5,
+    "currency": "AED",
+    "issue_date": "2025-10-19",
+    "reference": "REF-399686",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.58,
+        "value": 61.92,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 1,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.47,
+        "value": 108.58,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "Miranda Gordon",
+    "sender_company": "Thompson International B.V.",
+    "sender_address": "4290 Billy Club Apt. 901, Lake Kimberly, WY 60588, Thailand",
+    "sender_phone": "815.206.6142x0283",
+    "sender_email": "davidperry@example.org",
+    "addressee_phone": "(668)962-7500x95475",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 25.26,
+    "tracking_number": "MU757838698SN"
+  }
+}

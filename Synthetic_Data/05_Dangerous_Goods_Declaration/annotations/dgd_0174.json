@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0174",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Taylor AG",
+    "shipper_address": "594 Jodi Inlet, New Christopher, OK 76693, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Hawkins Industry Inc.",
+    "consignee_address": "9523 Mike Plaza Suite 306, Cookborough, KY 26363, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+75 178-693-8266",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 26,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 68.0,
+        "qty_unit": "mL",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-247667",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 37,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 52.74,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Ann Neal",
+    "signature_date": "2026-05-07",
+    "signature_place": "Malaysia",
+    "awb_number": "020-97576012",
+    "flight_number": "SQ4742",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

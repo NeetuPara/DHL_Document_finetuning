@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0329",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Adam Shannon",
+    "addressee_company": "Bentley Commerce S.A.",
+    "addressee_address": "3202 Porter Viaduct Apt. 169, North Josephfort, LA 99367, France",
+    "addressee_country": "France",
+    "total_weight_kg": 11.676,
+    "total_value": 1605.42,
+    "currency": "CNY",
+    "issue_date": "2025-07-03",
+    "reference": "REF-423064",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.08,
+        "value": 428.88,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 16,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.267,
+        "value": 848.64,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 3,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.329,
+        "value": 327.9,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Luke Jones",
+    "sender_company": "Fritz Trade Inc.",
+    "sender_address": "29982 Anthony Forges, North Tina, MH 14858, Singapore",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 1765.96,
+    "postal_charges": 40.87,
+    "tracking_number": "WT778161287SL"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0848",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202409-1771",
+    "usppi_name": "Industry Gutierrez Ltd",
+    "usppi_address": "68122 Velazquez Street Suite 430, Smithfort, AK 26097, Canada",
+    "usppi_country": "Canada",
+    "ein": "39-4265738",
+    "consignee_name": "International Davis Ltd",
+    "consignee_address": "5241 Santos Isle, Amyhaven, ID 81139, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Fox Pacific Pte Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Rachel Taylor",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/18",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 124,
+        "unit": "MTR",
+        "weight_kg": 108.94,
+        "value_usd": 1629.46
+      },
+      {
+        "marks": "ABC/18",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 60,
+        "unit": "BOX",
+        "weight_kg": 89.33,
+        "value_usd": 1544.37
+      }
+    ],
+    "total_weight_kg": 198.27,
+    "total_value_usd": 3173.83,
+    "service": "Ground",
+    "named_port": "Shanghai Pudong",
+    "insurance_value_usd": 28020.1,
+    "license_type": "Distributor License",
+    "license_number": "LIC-811219",
+    "destination_country": "Italy"
+  }
+}

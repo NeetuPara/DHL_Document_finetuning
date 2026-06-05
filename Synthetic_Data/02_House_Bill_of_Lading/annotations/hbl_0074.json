@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0074",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU698169191",
+    "shipper_name": "Schmitt Commerce Inc.",
+    "shipper_address": "419 Craig Orchard Suite 209, Brandonberg, KY 39621, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Pacific Williams Pte Ltd",
+    "consignee_address": "0563 Christina Lakes, Brianfort, FL 84588, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "Commerce Hodges Ltd",
+    "notify_party_address": "56033 Chan Shoals, Robbinsshire, TX 60400, Poland",
+    "vessel": "MSC OSCAR",
+    "voyage": "925N",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2024-11-28",
+    "issue_place": "Hamburg",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "CTXY5197583",
+        "seal_no": "BL123915",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "VLVO9169001",
+        "seal_no": "BL332158",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "JOLL4593224",
+        "seal_no": "CL961471",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "PRCY5425637",
+        "seal_no": "SL810555",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 69,
+    "package_type": "Bundle",
+    "gross_weight_kg": 20857.6,
+    "net_weight_kg": 19656.7,
+    "cbm": 7.547,
+    "marks_and_numbers": "GLB/1"
+  }
+}

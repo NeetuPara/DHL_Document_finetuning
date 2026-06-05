@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0190",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Julie Cruz",
+    "addressee_company": "Commerce Hudson LLC",
+    "addressee_address": "3208 Sheena Well Apt. 778, West Williamstad, MS 60084, China",
+    "addressee_country": "China",
+    "total_weight_kg": 21.591,
+    "total_value": 7892.02,
+    "currency": "SGD",
+    "issue_date": "2025-11-19",
+    "reference": "REF-906245",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.712,
+        "value": 2068.5,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 16,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.075,
+        "value": 1983.36,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 1,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.645,
+        "value": 41.31,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 14,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.366,
+        "value": 1742.44,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 15,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.483,
+        "value": 1855.95,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 3,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.31,
+        "value": 200.46,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Cassandra Robinson",
+    "sender_company": "Moore Global Pte Ltd",
+    "sender_address": "23351 Alexis Wells, Lopezbury, KY 18396, Singapore",
+    "sender_phone": "+1-529-522-4996x3978",
+    "sender_email": "smithmichael@example.org",
+    "addressee_phone": "925.719.2610",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 8681.22,
+    "postal_charges": 58.4,
+    "tracking_number": "RX976554956ZK"
+  }
+}

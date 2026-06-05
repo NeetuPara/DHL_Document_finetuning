@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0278",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210520859142",
+    "export_date": "2026-04-12",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Nelson Tech Pte Ltd",
+    "usppi_ein": "13-1658483",
+    "usppi_address": "714 Jackson Mills Suite 092, East Karen, AS 98207, Poland",
+    "ultimate_consignee": "Dawson Pacific S.A.",
+    "intermediate_consignee": "Commerce Ibarra Corp.",
+    "forwarding_agent": "Smith Tech S.A.",
+    "destination_country": "Singapore",
+    "carrier": "UPS",
+    "bl_awb": "074-48145724",
+    "total_value": 294035.95,
+    "currency": "AUD",
+    "signatory": "Shawn Parrish",
+    "line_items": [
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "China",
+        "qty": 314,
+        "unit": "CTN",
+        "entered_value": 52839.92,
+        "duty_rate": 7.6,
+        "duty_amount": 4015.83,
+        "eccn": "7A994",
+        "schedule_b": "4819.10.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "United States",
+        "qty": 453,
+        "unit": "LTR",
+        "entered_value": 119795.85,
+        "duty_rate": 19.8,
+        "duty_amount": 23719.58,
+        "eccn": "1A002",
+        "schedule_b": "2901.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Belgium",
+        "qty": 451,
+        "unit": "PCS",
+        "entered_value": 121400.18,
+        "duty_rate": 22.3,
+        "duty_amount": 27072.24,
+        "eccn": "EAR99",
+        "schedule_b": "3926.90.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

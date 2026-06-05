@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0547",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "527-90422136-3",
+    "entry_type": "01 - Free and Dutiable",
+    "entry_date": "2025-10-10",
+    "port_of_entry": "LAX - Los Angeles",
+    "transport_mode": "Hand-Carried",
+    "carrier": "MSC",
+    "bl_awb": "074-33250371",
+    "importer_name": "Smith Industry B.V.",
+    "importer_ein": "58-1961989",
+    "consignee_name": "Pacific Jones AG",
+    "customs_broker": "Hernandez International S.A.",
+    "broker_filer_code": "TJz",
+    "country_of_origin": "Germany",
+    "total_value": 347778.36,
+    "total_duty": 30556.73,
+    "currency": "USD",
+    "signatory": "Crystal Nguyen",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "France",
+        "qty": 420,
+        "unit": "PKG",
+        "entered_value": 39589.2,
+        "duty_rate": 19.6,
+        "duty_amount": 7759.48,
+        "eccn": "9A515",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 444,
+        "unit": "CTN",
+        "entered_value": 192891.36,
+        "duty_rate": 6.2,
+        "duty_amount": 11959.26,
+        "eccn": "EAR99",
+        "schedule_b": "4819.10.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Germany",
+        "qty": 295,
+        "unit": "PCS",
+        "entered_value": 115297.8,
+        "duty_rate": 9.4,
+        "duty_amount": 10837.99,
+        "eccn": "7A994",
+        "schedule_b": "8483.40.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "coo_0610",
+  "document_class": "Certificate of Origin",
+  "format_variant": "Chamber-of-Commerce-COO",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202206-1209",
+    "exporter_name": "Commerce Smith Inc.",
+    "exporter_address": "PSC 8642, Box 3410, APO AE 85583, Canada",
+    "exporter_country": "Canada",
+    "consignee_name": "Arellano Pacific Inc.",
+    "consignee_address": "40015 Clifford Rue Suite 982, Molinaville, MP 11924, Spain",
+    "consignee_country": "Spain",
+    "country_of_origin": "Canada",
+    "country_of_destination": "Spain",
+    "bl_or_awb": "DHLG277389653",
+    "issue_date": "2025-01-31",
+    "certifier_name": "Alex Merritt",
+    "goods": [
+      {
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "hs_code": "2936.90.00",
+        "qty": 42,
+        "unit": "BOX",
+        "weight_kg": 60.44,
+        "origin_criterion": "F",
+        "value": 3188.98
+      },
+      {
+        "description": "Chemical Compounds - Industrial Solvents",
+        "hs_code": "2901.10.00",
+        "qty": 66,
+        "unit": "LTR",
+        "weight_kg": 70.04,
+        "origin_criterion": "A",
+        "value": 1040.16
+      }
+    ],
+    "chamber": "Chamber of Commerce",
+    "chamber_reference": "CH-456419"
+  }
+}

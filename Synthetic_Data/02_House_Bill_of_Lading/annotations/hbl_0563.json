@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0563",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU980359568",
+    "shipper_name": "Cox Global AG",
+    "shipper_address": "723 Daniel Manor, Lake Jacobville, WA 27916, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "International Rodgers Ltd",
+    "consignee_address": "USS Mendez, FPO AE 84315, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party_name": "Reyes Trade B.V.",
+    "notify_party_address": "153 Bailey Lodge Suite 006, Patrickshire, MI 24239, France",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "209W",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Los Angeles, US",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2024-07-29",
+    "issue_place": "Los Angeles",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "CNKG5495917",
+        "seal_no": "CL333141",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "HMCD6862272",
+        "seal_no": "SL634433",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "QEJQ8738993",
+        "seal_no": "CL777518",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "number_of_packages": 351,
+    "package_type": "Roll",
+    "gross_weight_kg": 7759.4,
+    "net_weight_kg": 7233.5,
+    "cbm": 35.085,
+    "marks_and_numbers": "XYZ/42"
+  }
+}

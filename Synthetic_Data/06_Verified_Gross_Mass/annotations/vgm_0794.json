@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0794",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Manning Pacific Pte Ltd",
+    "shipper_address": "38647 Huffman Plaza Apt. 356, Paulmouth, ME 41381, Belgium",
+    "shipper_country": "Belgium",
+    "container_number": "BTXL7706797",
+    "seal_number": "CL982091",
+    "container_size": "20'GP",
+    "iso_type_code": "22G0",
+    "tare_weight_kg": 2200,
+    "cargo_weight_kg": 10932.7,
+    "packing_materials_kg": 175.1,
+    "vgm_kg": 13307.8,
+    "vessel": "MADRID MAERSK",
+    "voyage": "471E",
+    "bl_number": "DHLG233402755",
+    "booking_reference": "BKG-357967",
+    "weighing_scale_type": "Certified Electronic Scale",
+    "scale_serial": "Unit-45105",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-21",
+    "signature_date": "2026-05-07",
+    "signatory_name": "Alexandra Yang",
+    "signatory_title": "Shipping Coordinator",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Roll",
+        "n_units": 14,
+        "gross_wt_kg": 835.3
+      },
+      {
+        "item_no": 2,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Roll",
+        "n_units": 15,
+        "gross_wt_kg": 3667.7
+      },
+      {
+        "item_no": 3,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Roll",
+        "n_units": 11,
+        "gross_wt_kg": 2561.3
+      },
+      {
+        "item_no": 4,
+        "description": "Textile Fabrics - Woven Polyester",
+        "pkg_type": "Case",
+        "n_units": 19,
+        "gross_wt_kg": 2527.7
+      },
+      {
+        "item_no": 5,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Carton",
+        "n_units": 3,
+        "gross_wt_kg": 1340.7
+      }
+    ]
+  }
+}

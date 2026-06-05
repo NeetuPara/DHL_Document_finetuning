@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0990",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Banks LLC",
+    "shipper_address": "74247 Martinez Oval Suite 050, West Lauriestad, NV 06098, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Thomas Trade GmbH",
+    "consignee_address": "48364 Mejia Streets Suite 399, New Sarahchester, ID 27615, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+57 893-598-8766",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 11,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 11.94,
+        "qty_unit": "L",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-652892",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 35,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 25.93,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-439805",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Tammy Summers",
+    "signature_date": "2026-04-16",
+    "signature_place": "Poland",
+    "awb_number": "618-12841403",
+    "flight_number": "SQ9171",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "NRT",
+    "destination_airport_name": "Tokyo Narita",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

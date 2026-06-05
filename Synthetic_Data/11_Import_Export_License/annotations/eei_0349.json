@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0349",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "781-41438196-5",
+    "entry_type": "01 - Free and Dutiable",
+    "entry_date": "2025-11-25",
+    "port_of_entry": "LAX - Los Angeles",
+    "transport_mode": "Ocean",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "074-43079387",
+    "importer_name": "International Medina S.A.",
+    "importer_ein": "68-0380936",
+    "consignee_name": "Watkins Industry B.V.",
+    "customs_broker": "Logan International LLC",
+    "broker_filer_code": "dwI",
+    "country_of_origin": "Sweden",
+    "total_value": 345007.52,
+    "total_duty": 59247.55,
+    "currency": "CAD",
+    "signatory": "Katherine Pittman",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "India",
+        "qty": 428,
+        "unit": "KGS",
+        "entered_value": 99527.12,
+        "duty_rate": 6.5,
+        "duty_amount": 6469.26,
+        "eccn": "5E992",
+        "schedule_b": "7208.37.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Singapore",
+        "qty": 495,
+        "unit": "PCS",
+        "entered_value": 245480.4,
+        "duty_rate": 21.5,
+        "duty_amount": 52778.29,
+        "eccn": "0A919",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

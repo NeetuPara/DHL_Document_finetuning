@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0482",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240103987403",
+    "export_date": "2025-09-09",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Johnson Commerce GmbH",
+    "usppi_ein": "46-5517030",
+    "usppi_address": "82841 April Rue Suite 833, Ruizborough, NV 11715, Hong Kong",
+    "ultimate_consignee": "Martin Industry B.V.",
+    "intermediate_consignee": "Tech Sims Pte Ltd",
+    "forwarding_agent": "Pacific Welch Corp.",
+    "destination_country": "Belgium",
+    "carrier": "DHL Express",
+    "bl_awb": "085-15824003",
+    "total_value": 128259.68,
+    "currency": "EUR",
+    "signatory": "Kelly Valdez",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "China",
+        "qty": 329,
+        "unit": "CTN",
+        "entered_value": 7770.98,
+        "duty_rate": 21.3,
+        "duty_amount": 1655.22,
+        "eccn": "3A992",
+        "schedule_b": "9018.31.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Thailand",
+        "qty": 74,
+        "unit": "BOX",
+        "entered_value": 9441.66,
+        "duty_rate": 12.8,
+        "duty_amount": 1208.53,
+        "eccn": "1A002",
+        "schedule_b": "2936.90.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 234,
+        "unit": "PCS",
+        "entered_value": 111047.04,
+        "duty_rate": 20.8,
+        "duty_amount": 23097.78,
+        "eccn": "5E992",
+        "schedule_b": "8483.40.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

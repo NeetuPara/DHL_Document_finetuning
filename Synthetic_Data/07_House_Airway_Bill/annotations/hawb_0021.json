@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0021",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-75603902",
+    "mawb_number": "085-16863260",
+    "shipper_name": "Ramirez Commerce AG",
+    "shipper_address": "79167 Cox Garden Apt. 047, Port Tylerborough, AS 59917, Brazil",
+    "consignee_name": "International Davidson Corp.",
+    "consignee_address": "5265 Bennett Valleys, Port Charlesmouth, OR 27091, United Arab Emirates",
+    "agent_name": "Nolan Commerce Inc.",
+    "airport_departure": "PVG",
+    "airport_destination": "SYD",
+    "currency": "CAD",
+    "charge_code": "CC",
+    "declared_value_carriage": "CHF 39,331.50",
+    "declared_value_customs": "NCV",
+    "n_pieces": 1,
+    "gross_weight_kg": 165.8,
+    "chargeable_weight": 194.5,
+    "rate": 5.38,
+    "total_charge": 1046.41,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "TEMP CONTROLLED: 8\u00b0C - 25\u00b0C",
+    "issue_date": "2025-11-02",
+    "signatory": "Bryan Scott",
+    "iata_code": "46-150",
+    "agent_cass": "3260-9044",
+    "consolidation_ref": "CONS-3476-576813",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-59601859",
+        "pieces": 19,
+        "weight": 31.0,
+        "destination": "SYD",
+        "consignee": "Global Bradford B.V.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "160-44449704",
+        "pieces": 8,
+        "weight": 63.5,
+        "destination": "LAX",
+        "consignee": "Pacific Wilkinson Co.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "006-28049478",
+        "pieces": 12,
+        "weight": 63.4,
+        "destination": "LHR",
+        "consignee": "Tech Norris AG",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "045-52949326",
+        "pieces": 12,
+        "weight": 54.2,
+        "destination": "HKG",
+        "consignee": "Hansen Commerce Corp.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "125-46841792",
+        "pieces": 20,
+        "weight": 98.0,
+        "destination": "SYD",
+        "consignee": "Miller Tech AG",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "618-87902244",
+        "pieces": 5,
+        "weight": 48.2,
+        "destination": "SYD",
+        "consignee": "Daniels Tech GmbH",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "074-23084273",
+        "pieces": 8,
+        "weight": 26.4,
+        "destination": "YYZ",
+        "consignee": "Richard Industry Inc.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "057-31395414",
+        "pieces": 17,
+        "weight": 69.2,
+        "destination": "JFK",
+        "consignee": "Beck Tech AG",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

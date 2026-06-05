@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0278",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kenneth Daniels",
+    "addressee_company": "Aguirre Tech Inc.",
+    "addressee_address": "3993 Mejia Junction, Caitlynmouth, PW 57667, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 12.319,
+    "total_value": 2308.43,
+    "currency": "EUR",
+    "issue_date": "2025-07-02",
+    "reference": "REF-071342",
+    "line_items": [
+      {
+        "qty": 13,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.243,
+        "value": 511.16,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 9,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.378,
+        "value": 1134.63,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 12,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.698,
+        "value": 662.64,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "Alex Thompson",
+    "sender_company": "Industry Gallagher AG",
+    "sender_address": "648 Lisa Ridge Suite 243, Gonzalezstad, CT 81529, Italy",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 39.07,
+    "tracking_number": "UC651726226PY"
+  }
+}

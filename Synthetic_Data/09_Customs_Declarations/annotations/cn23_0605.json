@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0605",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Ashley Adams",
+    "addressee_company": "Pacific Martin Pte Ltd",
+    "addressee_address": "36651 Lopez Overpass, East Adrianatown, NC 96560, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 9.972,
+    "total_value": 8738.03,
+    "currency": "USD",
+    "issue_date": "2026-03-05",
+    "reference": "REF-230212",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 1.529,
+        "value": 2392.2,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 14,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.235,
+        "value": 744.1,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 19,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.538,
+        "value": 2608.13,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 20,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.67,
+        "value": 2993.6,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_name": "Joshua Harrison",
+    "sender_company": "Pacific Smith B.V.",
+    "sender_address": "52609 Hardin Expressway, South Maryberg, ME 62418, Netherlands",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 9611.83,
+    "postal_charges": 48.25,
+    "tracking_number": "CQ542335206EY"
+  }
+}

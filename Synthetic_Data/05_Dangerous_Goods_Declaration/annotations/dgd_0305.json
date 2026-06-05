@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0305",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Conley Tech Inc.",
+    "shipper_address": "040 Christopher Mill, Vasquezberg, GA 68483, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Brown Global Pte Ltd",
+    "consignee_address": "667 Lisa Center, Port Kennethview, VI 72562, United States",
+    "consignee_country": "United States",
+    "emergency_telephone": "+32 336-271-6729",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 39,
+        "pkg_type": "Steel Drum",
+        "net_qty": 48.7,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-212358",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 3,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 18.48,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Crystal Rangel",
+    "signature_date": "2026-04-29",
+    "signature_place": "Germany",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "416S",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Tanjung Pelepas, MY"
+  }
+}

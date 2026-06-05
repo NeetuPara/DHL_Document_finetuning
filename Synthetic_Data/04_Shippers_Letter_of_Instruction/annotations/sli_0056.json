@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0056",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202305-3394",
+    "usppi_name": "International Herman Pte Ltd",
+    "usppi_address": "10469 James Vista Suite 981, Laurastad, NY 44701, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "43-3853505",
+    "consignee_name": "Kim International Pte Ltd",
+    "consignee_address": "827 Jeffrey Prairie Apt. 810, Rhodesberg, KY 47983, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Trade Morris S.A.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "William Moore",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/23",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 164,
+        "unit": "PCS",
+        "weight_kg": 2483.57,
+        "value_usd": 24237.64
+      },
+      {
+        "marks": "EXP/32",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 144,
+        "unit": "KGS",
+        "weight_kg": 144.0,
+        "value_usd": 3150.79
+      },
+      {
+        "marks": "EXP/35",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 105,
+        "unit": "BOX",
+        "weight_kg": 23.81,
+        "value_usd": 10549.2
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 122,
+        "unit": "PCS",
+        "weight_kg": 38.83,
+        "value_usd": 3642.17
+      }
+    ],
+    "total_weight_kg": 2690.21,
+    "total_value_usd": 41579.8,
+    "service": "Ocean Freight",
+    "named_port": "Hong Kong, HK",
+    "insurance_value_usd": 38231.08,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-967234",
+    "destination_country": "Japan"
+  }
+}

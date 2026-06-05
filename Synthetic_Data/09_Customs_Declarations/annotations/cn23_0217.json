@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0217",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Cynthia Hayes",
+    "addressee_company": "Smith Trade Corp.",
+    "addressee_address": "417 Jeanne Turnpike Apt. 140, Watsontown, NY 68106, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 4.462,
+    "total_value": 1199.41,
+    "currency": "SGD",
+    "issue_date": "2025-11-26",
+    "reference": "REF-399825",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.6,
+        "value": 441.12,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 13,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.862,
+        "value": 758.29,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Steven Rogers",
+    "sender_company": "Trade Mitchell Pte Ltd",
+    "sender_address": "PSC 9071, Box 8137, APO AE 27442, United Arab Emirates",
+    "sender_phone": "523.629.6848x973",
+    "sender_email": "andrew56@example.net",
+    "addressee_phone": "(741)619-6347",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 1319.35,
+    "postal_charges": 22.47,
+    "tracking_number": "ZV414284025HJ"
+  }
+}

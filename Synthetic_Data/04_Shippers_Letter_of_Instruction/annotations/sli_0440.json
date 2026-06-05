@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0440",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202111-8987",
+    "usppi_name": "Tech Odom Co.",
+    "usppi_address": "456 Larson Ford, Zacharyland, DE 37027, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "91-6370642",
+    "consignee_name": "Pacific Brown Corp.",
+    "consignee_address": "475 Lucas Court Suite 226, Karenville, NV 59295, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Global Smith Pte Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Emily Francis",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/8",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 193,
+        "unit": "KGS",
+        "weight_kg": 193.0,
+        "value_usd": 176.02
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 190,
+        "unit": "KGS",
+        "weight_kg": 190.0,
+        "value_usd": 1878.63
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 188,
+        "unit": "PCS",
+        "weight_kg": 71.96,
+        "value_usd": 155499.43
+      }
+    ],
+    "total_weight_kg": 454.96,
+    "total_value_usd": 157554.08,
+    "service": "Express Courier",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 2306.76,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Italy"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0341",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Deborah Day",
+    "addressee_company": "Johnson Global Inc.",
+    "addressee_address": "669 Jason Circles Suite 622, East Sandy, MP 73700, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 12.501,
+    "total_value": 3068.67,
+    "currency": "CHF",
+    "issue_date": "2026-01-31",
+    "reference": "REF-654028",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.833,
+        "value": 238.23,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 20,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.654,
+        "value": 1400.6,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 1,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 1.407,
+        "value": 24.24,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 14,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.607,
+        "value": 1405.6,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Brazil"
+      }
+    ],
+    "sender_name": "Diane Rodriguez",
+    "sender_company": "Tech Jordan Pte Ltd",
+    "sender_address": "175 Thompson Mall, Port Adam, VI 35077, Sweden",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 19.11,
+    "tracking_number": "AH069773848OT"
+  }
+}

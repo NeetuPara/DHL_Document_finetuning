@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0365",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU431091160",
+    "shipper_name": "International White Pte Ltd",
+    "shipper_address": "173 Giles Center, Vincentbury, TX 04855, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Stone Global B.V.",
+    "consignee_address": "8201 Tran Park Suite 963, New Ricky, GA 30221, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Moreno Commerce Pte Ltd",
+    "notify_party_address": "09677 Thomas Valley, South Tammyville, MA 20176, Thailand",
+    "vessel": "MSC OSCAR",
+    "voyage": "744S",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Qingdao, CN",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Qingdao, CN",
+    "issue_date": "2025-12-09",
+    "issue_place": "Colombo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "MOES1597904",
+        "seal_no": "BL157689",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "SFXQ9997846",
+        "seal_no": "BL339580",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "HSZY6090576",
+        "seal_no": "SL226144",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 11,
+    "package_type": "Case",
+    "gross_weight_kg": 23728.4,
+    "net_weight_kg": 21328.8,
+    "cbm": 1.287,
+    "marks_and_numbers": "XYZ/38"
+  }
+}

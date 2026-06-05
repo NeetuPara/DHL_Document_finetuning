@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0770",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Sarah Kennedy",
+    "addressee_company": "Porter Tech AG",
+    "addressee_address": "476 Johnson Ville Suite 517, Allenport, NE 36995, United Kingdom",
+    "addressee_country": "United Kingdom",
+    "total_weight_kg": 0.78,
+    "total_value": 2593.8,
+    "currency": "AUD",
+    "issue_date": "2026-01-30",
+    "reference": "REF-959239",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.78,
+        "value": 2593.8,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_name": "Cheryl Gallagher",
+    "sender_company": "Hopkins Commerce GmbH",
+    "sender_address": "29526 Chavez Brooks, Bethville, PA 73887, South Korea",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 2853.18,
+    "postal_charges": 54.8,
+    "tracking_number": "TL856859906KV"
+  }
+}

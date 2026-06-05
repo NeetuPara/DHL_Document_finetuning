@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0266",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU542872034",
+    "shipper_name": "Commerce Sanchez Co.",
+    "shipper_address": "2253 Scott Rapids, Adamsborough, IL 66969, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Wallace Commerce Inc.",
+    "consignee_address": "476 Rhonda Pass, Lake Jamesfort, NH 49200, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "Sims Global Inc.",
+    "notify_party_address": "048 Kyle Villages, South Adrianville, NC 08678, Thailand",
+    "vessel": "CSCL GLOBE",
+    "voyage": "107N",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2025-07-22",
+    "issue_place": "Dubai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "ICBI8727308",
+        "seal_no": "CL532768",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "XFHF2411737",
+        "seal_no": "CL226003",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "ZLLD9664150",
+        "seal_no": "BL458931",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 21,
+    "package_type": "Bag",
+    "gross_weight_kg": 23280.1,
+    "net_weight_kg": 20855.7,
+    "cbm": 1.557,
+    "marks_and_numbers": "XYZ/8"
+  }
+}

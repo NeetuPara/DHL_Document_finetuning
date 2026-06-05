@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0998",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU420349713",
+    "shipper_name": "Austin Global Inc.",
+    "shipper_address": "634 Evans Estates, North Alexander, OH 12249, India",
+    "shipper_country": "India",
+    "consignee_name": "Myers Industry Corp.",
+    "consignee_address": "05934 King Mission, Robertston, ME 60407, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "Commerce Fields GmbH",
+    "notify_party_address": "81315 Drake Wall, Robertborough, GA 77845, Switzerland",
+    "vessel": "PIL PACIFIC",
+    "voyage": "881N",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2025-12-28",
+    "issue_place": "Singapore",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "ATHW7354289",
+        "seal_no": "SL343727",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "KLNQ5356250",
+        "seal_no": "CL661747",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "JMXQ7753245",
+        "seal_no": "CL400901",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "ZXEH6522528",
+        "seal_no": "CL456083",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 197,
+    "package_type": "Case",
+    "gross_weight_kg": 16061.1,
+    "net_weight_kg": 14283.3,
+    "cbm": 13.406,
+    "marks_and_numbers": "ABC/24"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0026",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250814266185",
+    "export_date": "2025-08-20",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Trade Griffin Corp.",
+    "usppi_ein": "58-7129121",
+    "usppi_address": "7322 Ortiz Drives, West Alexchester, FM 39470, Japan",
+    "ultimate_consignee": "Tech Burke Co.",
+    "intermediate_consignee": "Industry Golden S.A.",
+    "forwarding_agent": "Gutierrez Trade LLC",
+    "destination_country": "France",
+    "carrier": "UPS",
+    "bl_awb": "074-67754260",
+    "total_value": 59121.11,
+    "currency": "SGD",
+    "signatory": "Brandon Rogers",
+    "line_items": [
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Mexico",
+        "qty": 446,
+        "unit": "PCS",
+        "entered_value": 32236.88,
+        "duty_rate": 20.5,
+        "duty_amount": 6608.56,
+        "eccn": "1A002",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "United Kingdom",
+        "qty": 267,
+        "unit": "PCS",
+        "entered_value": 26884.23,
+        "duty_rate": 9.3,
+        "duty_amount": 2500.23,
+        "eccn": "EAR99",
+        "schedule_b": "3926.90.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

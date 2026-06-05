@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0570",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202406-6958",
+    "usppi_name": "Miller Global LLC",
+    "usppi_address": "846 Christine Bypass, Clarktown, IN 59211, Poland",
+    "usppi_country": "Poland",
+    "ein": "39-6196459",
+    "consignee_name": "Tech Beck S.A.",
+    "consignee_address": "3060 Gomez Fall Apt. 907, Port Kurt, CA 10971, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Global Terry Pte Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "7A994",
+    "signatory_name": "Michele Scott",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/29",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 45,
+        "unit": "PCS",
+        "weight_kg": 9.59,
+        "value_usd": 488.84
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 62,
+        "unit": "PCS",
+        "weight_kg": 314.1,
+        "value_usd": 4812.82
+      },
+      {
+        "marks": "ABC/28",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 22,
+        "unit": "KGS",
+        "weight_kg": 22.0,
+        "value_usd": 45.19
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 104,
+        "unit": "PCS",
+        "weight_kg": 60.87,
+        "value_usd": 23567.95
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 191,
+        "unit": "CTN",
+        "weight_kg": 572.68,
+        "value_usd": 2458.24
+      }
+    ],
+    "total_weight_kg": 979.24,
+    "total_value_usd": 31373.04,
+    "vessel": "MADRID MAERSK",
+    "voyage": "137N",
+    "booking_ref": "BKG-242610",
+    "bl_number": "OOLU284353569",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Rotterdam, NL",
+    "container_number": "MOZK1926942",
+    "seal_number": "CL786744",
+    "container_type": "40'HC",
+    "cbm": 9.675
+  }
+}

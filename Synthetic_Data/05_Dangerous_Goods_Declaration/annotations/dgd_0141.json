@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0141",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Atkinson Co.",
+    "shipper_address": "USNS Myers, FPO AA 65333, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Global Garza LLC",
+    "consignee_address": "7327 Jacob Course Suite 458, East Amber, RI 02380, Thailand",
+    "consignee_country": "Thailand",
+    "emergency_telephone": "+28 956-515-8912",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 30,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 31.8,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-265328",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 10,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 53.61,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Julie Martin",
+    "signature_date": "2026-04-30",
+    "signature_place": "Belgium",
+    "awb_number": "057-73173516",
+    "flight_number": "QR6550",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

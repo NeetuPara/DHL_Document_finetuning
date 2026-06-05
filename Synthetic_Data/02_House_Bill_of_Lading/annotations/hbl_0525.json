@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0525",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU375148119",
+    "shipper_name": "Tech Garza AG",
+    "shipper_address": "Unit 7565 Box 7932, DPO AP 46490, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Payne Global AG",
+    "consignee_address": "60967 Drew Camp Suite 056, West Eddie, UT 23599, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Trade Long GmbH",
+    "notify_party_address": "896 Robert Way Apt. 301, West Jason, VI 95247, India",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "467E",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2026-03-01",
+    "issue_place": "Singapore",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "TXYZ3753458",
+        "seal_no": "BL683209",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "KFPZ5315601",
+        "seal_no": "BL812042",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "HAXX3745407",
+        "seal_no": "BL866648",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 94,
+    "package_type": "Crate",
+    "gross_weight_kg": 21582.4,
+    "net_weight_kg": 19445.5,
+    "cbm": 9.533,
+    "marks_and_numbers": "GLB/43"
+  }
+}

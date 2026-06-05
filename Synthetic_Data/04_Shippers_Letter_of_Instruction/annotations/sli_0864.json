@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0864",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202211-9129",
+    "usppi_name": "Taylor Pacific Inc.",
+    "usppi_address": "319 Miguel Hollow Apt. 922, South Lisa, FM 79719, Australia",
+    "usppi_country": "Australia",
+    "ein": "28-4041283",
+    "consignee_name": "Bennett Commerce B.V.",
+    "consignee_address": "6944 Rogers Islands Apt. 137, Lake Donnaview, SD 38002, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Industry Johnson Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Jon King",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/42",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 108,
+        "unit": "MTR",
+        "weight_kg": 85.53,
+        "value_usd": 670.11
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 21,
+        "unit": "BOX",
+        "weight_kg": 21.02,
+        "value_usd": 2155.46
+      },
+      {
+        "marks": "EXP/48",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 104,
+        "unit": "SET",
+        "weight_kg": 186.17,
+        "value_usd": 3113.94
+      },
+      {
+        "marks": "SLI/18",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 57,
+        "unit": "PKG",
+        "weight_kg": 117.59,
+        "value_usd": 1556.59
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 149,
+        "unit": "CTN",
+        "weight_kg": 176.54,
+        "value_usd": 1479.14
+      }
+    ],
+    "total_weight_kg": 586.85,
+    "total_value_usd": 8975.24,
+    "vessel": "ONE INNOVATION",
+    "voyage": "621E",
+    "booking_ref": "BKG-979040",
+    "bl_number": "DHLG374669589",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "New York, US",
+    "container_number": "HKZK1625904",
+    "seal_number": "BL772989",
+    "container_type": "20'GP",
+    "cbm": 14.23
+  }
+}

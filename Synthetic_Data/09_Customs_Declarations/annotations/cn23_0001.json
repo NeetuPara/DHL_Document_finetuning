@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0001",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Justin Smith",
+    "addressee_company": "International Freeman Co.",
+    "addressee_address": "0802 Rangel Green Apt. 796, Elizabethmouth, WA 92343, France",
+    "addressee_country": "France",
+    "total_weight_kg": 4.145,
+    "total_value": 2249.61,
+    "currency": "USD",
+    "issue_date": "2026-03-09",
+    "reference": "REF-096883",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.886,
+        "value": 242.25,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 18,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.259,
+        "value": 2007.36,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Brazil"
+      }
+    ],
+    "sender_name": "Mark Davila",
+    "sender_company": "Weaver Global Co.",
+    "sender_address": "435 Bryan Mountains, Lake Michael, AK 90315, Germany",
+    "sender_phone": "(923)446-5068x7115",
+    "sender_email": "gabrielle06@example.net",
+    "addressee_phone": "3352428081",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 25.1,
+    "tracking_number": "GU659397333ZB"
+  }
+}

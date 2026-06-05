@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0076",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202512-4247",
+    "usppi_name": "Tucker Commerce LLC",
+    "usppi_address": "USNV Anthony, FPO AE 80709, United Kingdom",
+    "usppi_country": "United Kingdom",
+    "ein": "22-4085792",
+    "consignee_name": "Herrera Trade AG",
+    "consignee_address": "792 David Shore, New Brittanyborough, FL 87752, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Berry Pacific Co.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Brian Smith",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/33",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 84,
+        "unit": "MTR",
+        "weight_kg": 40.65,
+        "value_usd": 684.15
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 150,
+        "unit": "PCS",
+        "weight_kg": 136.96,
+        "value_usd": 153979.48
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 6,
+        "unit": "CTN",
+        "weight_kg": 29.48,
+        "value_usd": 465.36
+      },
+      {
+        "marks": "SLI/29",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 157,
+        "unit": "KGS",
+        "weight_kg": 157.0,
+        "value_usd": 107.08
+      }
+    ],
+    "total_weight_kg": 364.09,
+    "total_value_usd": 155236.07,
+    "service": "Ocean Freight",
+    "named_port": "Hong Kong, HK",
+    "insurance_value_usd": 42219.66,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-649860",
+    "destination_country": "Italy"
+  }
+}

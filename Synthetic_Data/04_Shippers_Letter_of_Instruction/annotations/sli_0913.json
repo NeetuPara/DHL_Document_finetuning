@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0913",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202012-7237",
+    "usppi_name": "Charles Global GmbH",
+    "usppi_address": "PSC 0173, Box 6917, APO AE 34729, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "40-3760814",
+    "consignee_name": "Tech Carr Co.",
+    "consignee_address": "PSC 5442, Box 0589, APO AE 93816, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Wells Tech Pte Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Logan Rodgers",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/10",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 21,
+        "unit": "KGS",
+        "weight_kg": 21.0,
+        "value_usd": 129.85
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 9,
+        "unit": "PCS",
+        "weight_kg": 0.67,
+        "value_usd": 737.54
+      },
+      {
+        "marks": "SLI/27",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 10,
+        "unit": "BOX",
+        "weight_kg": 13.83,
+        "value_usd": 1101.32
+      },
+      {
+        "marks": "EXP/7",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 162,
+        "unit": "CTN",
+        "weight_kg": 351.56,
+        "value_usd": 3170.93
+      },
+      {
+        "marks": "EXP/14",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 156,
+        "unit": "PKG",
+        "weight_kg": 47.72,
+        "value_usd": 1347.89
+      },
+      {
+        "marks": "ABC/46",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 192,
+        "unit": "CTN",
+        "weight_kg": 249.75,
+        "value_usd": 2394.23
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 134,
+        "unit": "PCS",
+        "weight_kg": 89.49,
+        "value_usd": 1147.33
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 94,
+        "unit": "LTR",
+        "weight_kg": 89.26,
+        "value_usd": 3648.57
+      }
+    ],
+    "total_weight_kg": 863.28,
+    "total_value_usd": 13677.66,
+    "service": "LCL Ocean",
+    "named_port": "Tanjung Pelepas, MY",
+    "insurance_value_usd": 2795.26,
+    "license_type": "Distributor License",
+    "license_number": "LIC-824999",
+    "destination_country": "Japan"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0842",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20251101550941",
+    "export_date": "2025-07-30",
+    "aes_option": "AES Filing",
+    "usppi_name": "Cline Pacific Co.",
+    "usppi_ein": "21-3098226",
+    "usppi_address": "972 David Plains, Davisshire, AL 82588, India",
+    "ultimate_consignee": "Washington Trade Ltd",
+    "intermediate_consignee": "International Mason Pte Ltd",
+    "forwarding_agent": "Roberts Commerce AG",
+    "destination_country": "Hong Kong",
+    "carrier": "UPS",
+    "bl_awb": "045-72647288",
+    "total_value": 161963.31,
+    "currency": "SGD",
+    "signatory": "Nicole Liu",
+    "line_items": [
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Germany",
+        "qty": 221,
+        "unit": "KGS",
+        "entered_value": 21739.77,
+        "duty_rate": 10.8,
+        "duty_amount": 2347.9,
+        "eccn": "9A515",
+        "schedule_b": "7208.37.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Poland",
+        "qty": 282,
+        "unit": "PCS",
+        "entered_value": 127884.18,
+        "duty_rate": 4.2,
+        "duty_amount": 5371.14,
+        "eccn": "2B350",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "India",
+        "qty": 152,
+        "unit": "LTR",
+        "entered_value": 12339.36,
+        "duty_rate": 16.7,
+        "duty_amount": 2060.67,
+        "eccn": "9A515",
+        "schedule_b": "2901.10.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

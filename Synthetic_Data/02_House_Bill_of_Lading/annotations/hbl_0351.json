@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0351",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU538626825",
+    "shipper_name": "Garrett Global Co.",
+    "shipper_address": "613 Carter Summit, North Elizabethview, VA 26620, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Commerce Smith Inc.",
+    "consignee_address": "61698 Wilson Junctions, South Margaret, WA 91670, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Global Phillips Ltd",
+    "notify_party_address": "29369 Krystal Club, Michaelville, MA 56714, Australia",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "594E",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Hong Kong, HK",
+    "issue_date": "2025-02-03",
+    "issue_place": "Tanjung Pelepas",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "YUOM4782133",
+        "seal_no": "BL296051",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "DEEN4732149",
+        "seal_no": "BL939521",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "FQVT7508893",
+        "seal_no": "CL321355",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 30,
+    "package_type": "Bag",
+    "gross_weight_kg": 3522.1,
+    "net_weight_kg": 3110.5,
+    "cbm": 1.137,
+    "marks_and_numbers": "ABC/30"
+  }
+}

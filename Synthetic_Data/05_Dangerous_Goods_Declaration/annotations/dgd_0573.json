@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0573",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Hammond Co.",
+    "shipper_address": "Unit 3373 Box 0883, DPO AA 86490, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Global Porter S.A.",
+    "consignee_address": "459 Campbell Roads Apt. 096, Williamville, IL 51369, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+58 623-758-5223",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 1,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 42.56,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 28,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 24.48,
+        "qty_unit": "g",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Joshua Dawson",
+    "signature_date": "2026-05-05",
+    "signature_place": "Switzerland",
+    "awb_number": "045-43173877",
+    "flight_number": "QR3184",
+    "departure_airport_code": "PVG",
+    "departure_airport_name": "Shanghai Pudong",
+    "destination_airport_code": "HKG",
+    "destination_airport_name": "Hong Kong International",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0477",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-64653705",
+    "mawb_number": "074-34447587",
+    "shipper_name": "Global Hester GmbH",
+    "shipper_address": "467 Mark Stravenue, Matthewside, VT 10472, Mexico",
+    "consignee_name": "Global Reed B.V.",
+    "consignee_address": "971 Bass Pike, Alanfort, NE 85330, Brazil",
+    "agent_name": "Dunn International Corp.",
+    "airport_departure": "HKG",
+    "airport_destination": "SIN",
+    "currency": "CAD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 28,
+    "gross_weight_kg": 148.5,
+    "chargeable_weight": 170.3,
+    "rate": 8.74,
+    "total_charge": 1488.42,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-12-07",
+    "signatory": "Jeffrey Parsons",
+    "iata_code": "78-900",
+    "agent_cass": "0811-8909",
+    "consolidation_ref": "CONS-4776-013483",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-60802074",
+        "pieces": 5,
+        "weight": 8.8,
+        "destination": "DXB",
+        "consignee": "Mckenzie Trade Co.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "006-77461470",
+        "pieces": 2,
+        "weight": 11.6,
+        "destination": "MIA",
+        "consignee": "Trade Rios B.V.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "006-45052274",
+        "pieces": 17,
+        "weight": 31.3,
+        "destination": "DXB",
+        "consignee": "Escobar Trade AG",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "176-86036209",
+        "pieces": 12,
+        "weight": 15.3,
+        "destination": "FRA",
+        "consignee": "Pacific Ayers S.A.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "006-28449844",
+        "pieces": 12,
+        "weight": 67.6,
+        "destination": "NRT",
+        "consignee": "Industry Perez Inc.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "160-65844418",
+        "pieces": 14,
+        "weight": 91.5,
+        "destination": "YYZ",
+        "consignee": "Lewis International Pte Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "125-61541581",
+        "pieces": 12,
+        "weight": 96.3,
+        "destination": "SYD",
+        "consignee": "Bauer Industry Corp.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "125-17428833",
+        "pieces": 14,
+        "weight": 99.6,
+        "destination": "HKG",
+        "consignee": "International Brown S.A.",
+        "description": "Industrial Machinery Parts - Steel "
+      }
+    ]
+  }
+}

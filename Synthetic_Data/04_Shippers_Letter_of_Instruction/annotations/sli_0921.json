@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0921",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202603-3822",
+    "usppi_name": "Potter Global B.V.",
+    "usppi_address": "47959 Price Mills, Lopezchester, NC 77290, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "62-8754378",
+    "consignee_name": "Industry Gonzalez Co.",
+    "consignee_address": "23036 Ruiz Greens, West Steven, OR 06772, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Young Trade LLC",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "John Roberson",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/11",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 31,
+        "unit": "CTN",
+        "weight_kg": 92.46,
+        "value_usd": 177.53
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 177,
+        "unit": "PCS",
+        "weight_kg": 77.54,
+        "value_usd": 6765.57
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 96,
+        "unit": "SET",
+        "weight_kg": 214.16,
+        "value_usd": 14819.88
+      },
+      {
+        "marks": "SLI/37",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 181,
+        "unit": "CTN",
+        "weight_kg": 244.69,
+        "value_usd": 5307.6
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 200,
+        "unit": "KGS",
+        "weight_kg": 200.0,
+        "value_usd": 465.95
+      }
+    ],
+    "total_weight_kg": 828.85,
+    "total_value_usd": 27536.53,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "783E",
+    "booking_ref": "BKG-883789",
+    "bl_number": "OOLU426160467",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Dubai, AE",
+    "container_number": "NGFW7910346",
+    "seal_number": "CL777937",
+    "container_type": "40'HC",
+    "cbm": 23.453
+  }
+}

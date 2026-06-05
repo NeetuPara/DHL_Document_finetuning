@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0953",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Michael Brown",
+    "addressee_company": "Pacific Hutchinson AG",
+    "addressee_address": "6086 Erin Loaf, Hannahland, MS 82204, India",
+    "addressee_country": "India",
+    "total_weight_kg": 6.969,
+    "total_value": 643.68,
+    "currency": "SGD",
+    "issue_date": "2025-11-07",
+    "reference": "REF-814641",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.263,
+        "value": 478.8,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 8,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.706,
+        "value": 164.88,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Kenneth Rodriguez",
+    "sender_company": "Newman Pacific Corp.",
+    "sender_address": "682 Anthony Street Suite 962, Josetown, MS 86757, France",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 32.49,
+    "tracking_number": "FV531612505QD"
+  }
+}

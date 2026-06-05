@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0139",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International May B.V.",
+    "shipper_address": "54890 Lewis Circle, Pattersonland, MD 65093, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Hall Trade S.A.",
+    "consignee_address": "521 Melissa Grove Apt. 833, South Micheleshire, KY 40275, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+45 896-949-1489",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 15,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 12.35,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 5,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 44.1,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-874279",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Kylie Edwards",
+    "signature_date": "2026-05-11",
+    "signature_place": "Mexico",
+    "awb_number": "006-40527444",
+    "flight_number": "LH3048",
+    "flight_date": "2026-05-29",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol"
+  }
+}

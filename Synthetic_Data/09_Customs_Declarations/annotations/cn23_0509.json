@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0509",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "James Perez",
+    "addressee_company": "Global Shelton Corp.",
+    "addressee_address": "20276 Debra Viaduct, West Rebeccastad, OH 67768, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 14.331,
+    "total_value": 1677.49,
+    "currency": "AUD",
+    "issue_date": "2025-10-20",
+    "reference": "REF-548859",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 0.342,
+        "value": 245.4,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 8,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.512,
+        "value": 659.6,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 3,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.808,
+        "value": 242.25,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 17,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.522,
+        "value": 274.72,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 2,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.147,
+        "value": 255.52,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Anthony Coleman",
+    "sender_company": "International Hess Ltd",
+    "sender_address": "37951 Silva Stream, Pattonview, GU 88046, Thailand",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 11.53,
+    "tracking_number": "QQ845185917AN"
+  }
+}

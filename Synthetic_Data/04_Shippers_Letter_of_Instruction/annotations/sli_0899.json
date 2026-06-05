@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0899",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202407-5211",
+    "usppi_name": "White Commerce Pte Ltd",
+    "usppi_address": "3826 Kimberly Streets, New Anthony, AL 12250, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "43-9980571",
+    "consignee_name": "Alvarez Tech Co.",
+    "consignee_address": "89284 Diaz Crossroad Suite 632, New Bryanmouth, FM 58711, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Green Pacific Pte Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "7A994",
+    "signatory_name": "Rachel Gregory",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/14",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 172,
+        "unit": "PCS",
+        "weight_kg": 3461.76,
+        "value_usd": 26509.71
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 35,
+        "unit": "CTN",
+        "weight_kg": 56.25,
+        "value_usd": 684.92
+      }
+    ],
+    "total_weight_kg": 3518.01,
+    "total_value_usd": 27194.63,
+    "service": "Ocean Freight",
+    "named_port": "Rotterdam, NL",
+    "insurance_value_usd": 29421.51,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-384067",
+    "destination_country": "Thailand"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0365",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Garcia International Pte Ltd",
+    "shipper_address": "42200 Patrick Common, New Patrickside, AS 12030, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Commerce Maxwell Ltd",
+    "consignee_address": "24798 Troy Flats, Thomasside, MS 30249, Belgium",
+    "consignee_country": "Belgium",
+    "emergency_telephone": "+58 867-289-2928",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 46,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 80.33,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 30,
+        "pkg_type": "Steel Drum",
+        "net_qty": 23.83,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-439643",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "James Ramsey",
+    "signature_date": "2026-05-04",
+    "signature_place": "Italy",
+    "vessel": "ONE INNOVATION",
+    "voyage": "766N",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Hamburg, DE"
+  }
+}

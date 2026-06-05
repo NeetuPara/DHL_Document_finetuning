@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0869",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202301-3855",
+    "usppi_name": "Cole Industry Co.",
+    "usppi_address": "539 Coleman Forges Apt. 130, Susanburgh, RI 19284, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "72-4271490",
+    "consignee_name": "Hernandez Commerce S.A.",
+    "consignee_address": "07851 Matthew Island, Camachofurt, OH 94912, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Pacific Padilla LLC",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Yolanda Simmons",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/9",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 134,
+        "unit": "KGS",
+        "weight_kg": 134.0,
+        "value_usd": 192.25
+      },
+      {
+        "marks": "SLI/2",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 26,
+        "unit": "PCS",
+        "weight_kg": 16.91,
+        "value_usd": 3506.44
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 100,
+        "unit": "LTR",
+        "weight_kg": 104.38,
+        "value_usd": 1560.41
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 146,
+        "unit": "MTR",
+        "weight_kg": 112.54,
+        "value_usd": 665.6
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 31,
+        "unit": "BOX",
+        "weight_kg": 14.58,
+        "value_usd": 1720.51
+      },
+      {
+        "marks": "EXP/15",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 196,
+        "unit": "PCS",
+        "weight_kg": 1529.17,
+        "value_usd": 148323.41
+      },
+      {
+        "marks": "SLI/7",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 93,
+        "unit": "PCS",
+        "weight_kg": 1998.35,
+        "value_usd": 22087.31
+      },
+      {
+        "marks": "EXP/25",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 91,
+        "unit": "KGS",
+        "weight_kg": 91.0,
+        "value_usd": 1021.51
+      }
+    ],
+    "total_weight_kg": 4000.93,
+    "total_value_usd": 179077.44,
+    "service": "Express Courier",
+    "named_port": "Amsterdam Schiphol",
+    "insurance_value_usd": 2241.86,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Singapore"
+  }
+}

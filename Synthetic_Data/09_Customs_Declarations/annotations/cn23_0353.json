@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0353",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Tammy Miller",
+    "addressee_company": "Industry Hampton GmbH",
+    "addressee_address": "7604 Anthony Plains, West Michelle, IA 56393, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 6.775,
+    "total_value": 1426.69,
+    "currency": "EUR",
+    "issue_date": "2026-04-25",
+    "reference": "REF-078129",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.853,
+        "value": 794.8,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 9,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.922,
+        "value": 631.89,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_name": "Jeffrey Levy",
+    "sender_company": "Davies International AG",
+    "sender_address": "364 Johnny Lodge Apt. 283, East Robin, SC 48137, Netherlands",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 1569.36,
+    "postal_charges": 5.86,
+    "tracking_number": "IF727502454ZQ"
+  }
+}

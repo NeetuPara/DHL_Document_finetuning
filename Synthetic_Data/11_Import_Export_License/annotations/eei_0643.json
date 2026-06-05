@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0643",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "875-09829192-2",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2025-06-23",
+    "port_of_entry": "JFK - New York",
+    "transport_mode": "Truck",
+    "carrier": "FedEx",
+    "bl_awb": "045-52749152",
+    "importer_name": "Rodgers Pacific Pte Ltd",
+    "importer_ein": "23-0683414",
+    "consignee_name": "Tech Pruitt Ltd",
+    "customs_broker": "Global Dennis Corp.",
+    "broker_filer_code": "BSn",
+    "country_of_origin": "Thailand",
+    "total_value": 96983.86,
+    "total_duty": 16820.12,
+    "currency": "CNY",
+    "signatory": "Mary Meadows",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 160,
+        "unit": "CTN",
+        "entered_value": 10516.8,
+        "duty_rate": 22.7,
+        "duty_amount": 2387.31,
+        "eccn": "9A515",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Canada",
+        "qty": 480,
+        "unit": "LTR",
+        "entered_value": 40814.4,
+        "duty_rate": 9.3,
+        "duty_amount": 3795.74,
+        "eccn": "2B350",
+        "schedule_b": "2901.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Netherlands",
+        "qty": 271,
+        "unit": "PCS",
+        "entered_value": 45652.66,
+        "duty_rate": 23.3,
+        "duty_amount": 10637.07,
+        "eccn": "7A994",
+        "schedule_b": "3926.90.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

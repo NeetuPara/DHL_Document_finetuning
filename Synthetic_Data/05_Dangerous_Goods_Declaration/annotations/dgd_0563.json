@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0563",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Carrillo Global Pte Ltd",
+    "shipper_address": "9466 Vargas Falls, West Rileyborough, ME 71825, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Commerce Riggs B.V.",
+    "consignee_address": "598 Chen Path Suite 882, Theresastad, AK 57749, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+71 608-961-4537",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 16,
+        "pkg_type": "Steel Drum",
+        "net_qty": 20.89,
+        "qty_unit": "L",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-615769",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "David Carter",
+    "signature_date": "2026-04-16",
+    "signature_place": "Switzerland",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "797W",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Tanjung Pelepas, MY"
+  }
+}

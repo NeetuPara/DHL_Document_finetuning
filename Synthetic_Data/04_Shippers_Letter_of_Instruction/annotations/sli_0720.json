@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0720",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202604-1501",
+    "usppi_name": "Acevedo Commerce GmbH",
+    "usppi_address": "786 Walter Dam, Chelseachester, HI 02489, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "68-6309873",
+    "consignee_name": "Cline International Inc.",
+    "consignee_address": "47361 Cunningham Stravenue Apt. 480, North Edward, NH 09653, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Rivera International Pte Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIF",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Anthony Sanchez",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/22",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 85,
+        "unit": "MTR",
+        "weight_kg": 53.77,
+        "value_usd": 1424.8
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 172,
+        "unit": "SET",
+        "weight_kg": 583.48,
+        "value_usd": 19032.58
+      },
+      {
+        "marks": "SLI/2",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 113,
+        "unit": "CTN",
+        "weight_kg": 137.76,
+        "value_usd": 514.73
+      },
+      {
+        "marks": "EXP/42",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 32,
+        "unit": "PCS",
+        "weight_kg": 14.44,
+        "value_usd": 3140.91
+      },
+      {
+        "marks": "EXP/22",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 52,
+        "unit": "LTR",
+        "weight_kg": 54.35,
+        "value_usd": 1763.17
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 34,
+        "unit": "PCS",
+        "weight_kg": 559.93,
+        "value_usd": 14560.44
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 33,
+        "unit": "PKG",
+        "weight_kg": 43.81,
+        "value_usd": 475.66
+      },
+      {
+        "marks": "ABC/3",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 102,
+        "unit": "KGS",
+        "weight_kg": 102.0,
+        "value_usd": 188.13
+      }
+    ],
+    "total_weight_kg": 1549.54,
+    "total_value_usd": 41100.42,
+    "vessel": "PIL PACIFIC",
+    "voyage": "272N",
+    "booking_ref": "BKG-617791",
+    "bl_number": "MAEU920719317",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Busan, KR",
+    "container_number": "YZDJ5290820",
+    "seal_number": "SL512123",
+    "container_type": "20'GP",
+    "cbm": 28.22
+  }
+}

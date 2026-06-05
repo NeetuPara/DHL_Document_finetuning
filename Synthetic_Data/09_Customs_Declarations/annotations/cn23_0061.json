@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0061",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Fernando Lewis",
+    "addressee_company": "Blanchard Tech Ltd",
+    "addressee_address": "PSC 0251, Box 7459, APO AP 44800, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 6.034,
+    "total_value": 4029.89,
+    "currency": "CNY",
+    "issue_date": "2026-05-08",
+    "reference": "REF-818650",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.436,
+        "value": 1485.6,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 19,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.598,
+        "value": 2544.29,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Thomas Wilson",
+    "sender_company": "Simpson Industry Co.",
+    "sender_address": "3220 Paul Centers Apt. 740, Cynthiatown, ID 69509, Australia",
+    "sender_phone": "(262)511-8227",
+    "sender_email": "lukeyoung@example.com",
+    "addressee_phone": "647-623-3412x8269",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 4432.88,
+    "postal_charges": 73.79,
+    "tracking_number": "RJ101923898DF"
+  }
+}

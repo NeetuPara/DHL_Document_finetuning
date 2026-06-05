@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0584",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Landry AG",
+    "shipper_address": "730 Jane Well, East Stephenton, PR 63089, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Commerce Graham GmbH",
+    "consignee_address": "26615 John Flat Apt. 577, Romerochester, TX 35198, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+95 721-673-4229",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 50,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 73.13,
+        "qty_unit": "mL",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 46,
+        "pkg_type": "Steel Drum",
+        "net_qty": 73.89,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-151139",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Brian Price",
+    "signature_date": "2026-04-16",
+    "signature_place": "Netherlands",
+    "vessel": "EVER GOLDEN",
+    "voyage": "434N",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Busan, KR"
+  }
+}

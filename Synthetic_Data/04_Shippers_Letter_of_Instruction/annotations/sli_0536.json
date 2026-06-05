@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0536",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202504-3989",
+    "usppi_name": "Warren Commerce LLC",
+    "usppi_address": "5193 Hess Rest Suite 807, West Edward, GU 74161, Germany",
+    "usppi_country": "Germany",
+    "ein": "93-1509891",
+    "consignee_name": "International Holt S.A.",
+    "consignee_address": "5786 Smith River Suite 724, Richardsbury, IA 22128, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Pugh International LLC",
+    "forwarder": "Panalpina",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Ryan Reyes",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/50",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 108,
+        "unit": "BOX",
+        "weight_kg": 147.33,
+        "value_usd": 2228.43
+      },
+      {
+        "marks": "ABC/5",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 135,
+        "unit": "PCS",
+        "weight_kg": 29.25,
+        "value_usd": 28221.73
+      },
+      {
+        "marks": "ABC/25",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 167,
+        "unit": "CTN",
+        "weight_kg": 509.47,
+        "value_usd": 6434.8
+      },
+      {
+        "marks": "EXP/41",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 127,
+        "unit": "PCS",
+        "weight_kg": 141.34,
+        "value_usd": 3746.6
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 110,
+        "unit": "MTR",
+        "weight_kg": 126.66,
+        "value_usd": 863.75
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 41,
+        "unit": "PCS",
+        "weight_kg": 14.45,
+        "value_usd": 37770.92
+      }
+    ],
+    "total_weight_kg": 968.5,
+    "total_value_usd": 79266.23,
+    "service": "Ground",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 44638.38,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-826151",
+    "destination_country": "Canada"
+  }
+}

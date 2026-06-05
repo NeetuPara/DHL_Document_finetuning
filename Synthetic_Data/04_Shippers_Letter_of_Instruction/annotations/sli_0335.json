@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0335",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202004-6390",
+    "usppi_name": "Marquez Global AG",
+    "usppi_address": "29259 Anderson Glen Suite 030, Lake Christine, RI 42471, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "81-4849237",
+    "consignee_name": "Lopez Trade Inc.",
+    "consignee_address": "8271 Todd Cliffs, North Ryanview, WV 07674, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Brock International S.A.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Connor Moore",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/39",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 58,
+        "unit": "PCS",
+        "weight_kg": 55.12,
+        "value_usd": 209.78
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 185,
+        "unit": "KGS",
+        "weight_kg": 185.0,
+        "value_usd": 281.29
+      },
+      {
+        "marks": "SLI/33",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 173,
+        "unit": "PKG",
+        "weight_kg": 304.8,
+        "value_usd": 9271.86
+      },
+      {
+        "marks": "EXP/41",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 105,
+        "unit": "LTR",
+        "weight_kg": 99.49,
+        "value_usd": 3004.33
+      },
+      {
+        "marks": "SLI/3",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 103,
+        "unit": "PCS",
+        "weight_kg": 863.02,
+        "value_usd": 44629.08
+      },
+      {
+        "marks": "ABC/43",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 155,
+        "unit": "PCS",
+        "weight_kg": 87.94,
+        "value_usd": 165568.36
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 103,
+        "unit": "CTN",
+        "weight_kg": 452.15,
+        "value_usd": 3512.7
+      },
+      {
+        "marks": "EXP/35",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 177,
+        "unit": "PCS",
+        "weight_kg": 24.15,
+        "value_usd": 9775.73
+      }
+    ],
+    "total_weight_kg": 2071.67,
+    "total_value_usd": 236253.13,
+    "service": "Air Freight",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 26049.49,
+    "license_type": "Distributor License",
+    "license_number": "LIC-218898",
+    "destination_country": "Germany"
+  }
+}

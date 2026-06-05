@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0515",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Jackson Trade GmbH",
+    "shipper_address": "233 Andrew Squares, Thompsonbury, RI 26549, Poland",
+    "shipper_country": "Poland",
+    "container_number": "JEFY8307874",
+    "seal_number": "BL214081",
+    "container_size": "20'GP",
+    "iso_type_code": "22G0",
+    "tare_weight_kg": 2200,
+    "cargo_weight_kg": 6025.7,
+    "packing_materials_kg": 266.3,
+    "vgm_kg": 8492.0,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "516W",
+    "bl_number": "OOLU747305651",
+    "booking_reference": "BKG-243800",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-65307",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-19",
+    "signature_date": "2026-05-08",
+    "signatory_name": "David Holmes MD",
+    "signatory_title": "Shipping Coordinator",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Bundle",
+        "n_units": 4,
+        "gross_wt_kg": 320.6
+      },
+      {
+        "item_no": 2,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Case",
+        "n_units": 15,
+        "gross_wt_kg": 334.8
+      },
+      {
+        "item_no": 3,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Drum",
+        "n_units": 6,
+        "gross_wt_kg": 1071.7
+      },
+      {
+        "item_no": 4,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Crate",
+        "n_units": 7,
+        "gross_wt_kg": 1322.9
+      },
+      {
+        "item_no": 5,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Bundle",
+        "n_units": 8,
+        "gross_wt_kg": 2975.7
+      }
+    ]
+  }
+}

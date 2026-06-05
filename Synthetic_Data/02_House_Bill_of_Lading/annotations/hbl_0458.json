@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0458",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV553030506",
+    "shipper_name": "Reid International Co.",
+    "shipper_address": "99714 Fisher Pass, Lake Larryland, AZ 08297, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Jimenez International Co.",
+    "consignee_address": "6755 Christine Roads, New Nicole, MS 09140, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party_name": "Trade Mills B.V.",
+    "notify_party_address": "30347 Jessica Meadow, Hendersonland, AL 71407, Malaysia",
+    "vessel": "PIL PACIFIC",
+    "voyage": "373E",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Singapore, SG",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2024-06-13",
+    "issue_place": "Antwerp",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "CQVX6030946",
+        "seal_no": "SL663817",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "JSKR7613319",
+        "seal_no": "BL659666",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "FEIY0126344",
+        "seal_no": "BL204444",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 40,
+    "package_type": "Carton",
+    "gross_weight_kg": 7157.6,
+    "net_weight_kg": 6647.5,
+    "cbm": 4.253,
+    "marks_and_numbers": "XYZ/48"
+  }
+}

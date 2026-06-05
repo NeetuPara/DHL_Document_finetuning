@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0640",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "881-53367998-9",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2025-11-27",
+    "port_of_entry": "MIA - Miami",
+    "transport_mode": "Ocean",
+    "carrier": "UPS",
+    "bl_awb": "020-65219313",
+    "importer_name": "Trade Chavez B.V.",
+    "importer_ein": "22-2277790",
+    "consignee_name": "Coleman Industry LLC",
+    "customs_broker": "Nunez Trade LLC",
+    "broker_filer_code": "JHc",
+    "country_of_origin": "Thailand",
+    "total_value": 152120.43,
+    "total_duty": 7289.77,
+    "currency": "GBP",
+    "signatory": "Amanda Hernandez",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Singapore",
+        "qty": 211,
+        "unit": "CTN",
+        "entered_value": 53866.19,
+        "duty_rate": 0.4,
+        "duty_amount": 215.46,
+        "eccn": "2B350",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Australia",
+        "qty": 259,
+        "unit": "CTN",
+        "entered_value": 98254.24,
+        "duty_rate": 7.2,
+        "duty_amount": 7074.31,
+        "eccn": "5E992",
+        "schedule_b": "4819.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

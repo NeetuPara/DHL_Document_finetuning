@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0037",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Elizabeth Lee",
+    "addressee_company": "Global Walters GmbH",
+    "addressee_address": "Unit 3243 Box 8847, DPO AP 12601, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 13.166,
+    "total_value": 906.27,
+    "currency": "CHF",
+    "issue_date": "2026-03-03",
+    "reference": "REF-908610",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.859,
+        "value": 369.51,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 17,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.116,
+        "value": 336.6,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 4,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.191,
+        "value": 200.16,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Charles Alexander",
+    "sender_company": "Global Martinez LLC",
+    "sender_address": "05365 Gray Spurs, Normashire, NH 09208, Italy",
+    "sender_phone": "280.814.4363",
+    "sender_email": "daniel70@example.net",
+    "addressee_phone": "001-352-887-2001x4669",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 18.59,
+    "tracking_number": "WT687891637NF"
+  }
+}

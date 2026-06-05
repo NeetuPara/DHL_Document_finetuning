@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0813",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-64894757",
+    "mawb_number": "020-11603489",
+    "shipper_name": "James Industry Pte Ltd",
+    "shipper_address": "6128 Parker Locks, Port Bryan, IN 99046, Malaysia",
+    "consignee_name": "Baker Global S.A.",
+    "consignee_address": "USNS Watts, FPO AE 01108, South Korea",
+    "agent_name": "Global Bryant Co.",
+    "airport_departure": "FRA",
+    "airport_destination": "JFK",
+    "currency": "USD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "GBP 28,109.21",
+    "n_pieces": 35,
+    "gross_weight_kg": 449.2,
+    "chargeable_weight": 567.1,
+    "rate": 9.81,
+    "total_charge": 5563.25,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-04-06",
+    "signatory": "Stephen West",
+    "iata_code": "22-420",
+    "agent_cass": "1889-4720",
+    "consolidation_ref": "CONS-5213-176303",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-13006095",
+        "pieces": 6,
+        "weight": 71.8,
+        "destination": "LHR",
+        "consignee": "Turner Pacific Pte Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "618-65562883",
+        "pieces": 7,
+        "weight": 57.9,
+        "destination": "MIA",
+        "consignee": "Tech Bradley B.V.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "057-73197542",
+        "pieces": 2,
+        "weight": 74.6,
+        "destination": "HKG",
+        "consignee": "Lopez Pacific LLC",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "057-13792832",
+        "pieces": 3,
+        "weight": 3.7,
+        "destination": "ICN",
+        "consignee": "International Ruiz S.A.",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

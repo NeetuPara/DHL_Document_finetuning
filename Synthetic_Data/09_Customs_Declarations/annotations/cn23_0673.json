@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0673",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Hunter Roy",
+    "addressee_company": "Industry Lewis Co.",
+    "addressee_address": "2290 Atkinson Haven, West Brookehaven, MA 38125, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 9.07,
+    "total_value": 4227.66,
+    "currency": "CNY",
+    "issue_date": "2026-04-05",
+    "reference": "REF-186294",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.313,
+        "value": 2267.6,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 8,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.006,
+        "value": 85.2,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 13,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.751,
+        "value": 1874.86,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Benjamin Morris",
+    "sender_company": "Industry Adams LLC",
+    "sender_address": "1329 Michael Rest Apt. 697, South Tarafurt, CT 57851, Spain",
+    "sender_phone": "+1-693-981-8840x028",
+    "sender_email": "parkerdavid@example.com",
+    "addressee_phone": "608.889.4306x735",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 4650.43,
+    "postal_charges": 27.43,
+    "tracking_number": "RS387544133KL"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0936",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202503-3756",
+    "exporter_name": "Davis Pacific Pte Ltd",
+    "exporter_address": "2616 Booker Passage Suite 948, Lake Aaron, MT 85047, Germany",
+    "exporter_country": "Germany",
+    "consignee_name": "Pacific Grant Corp.",
+    "consignee_address": "74217 Lori Row Suite 593, East Dominic, NV 15772, Canada",
+    "consignee_country": "Canada",
+    "country_of_origin": "Germany",
+    "country_of_destination": "Canada",
+    "bl_or_awb": "OOLU307386410",
+    "issue_date": "2025-08-29",
+    "certifier_name": "Megan Arroyo",
+    "goods": [
+      {
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "hs_code": "8483.40.00",
+        "qty": 166,
+        "unit": "PCS",
+        "weight_kg": 2290.77,
+        "origin_criterion": "F",
+        "value": 117143.03
+      },
+      {
+        "description": "Medical Devices - Disposable Syringes",
+        "hs_code": "9018.31.00",
+        "qty": 375,
+        "unit": "CTN",
+        "weight_kg": 1643.31,
+        "origin_criterion": "A",
+        "value": 15471.29
+      },
+      {
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "hs_code": "4016.93.00",
+        "qty": 147,
+        "unit": "PKG",
+        "weight_kg": 159.82,
+        "origin_criterion": "C",
+        "value": 5400.26
+      }
+    ],
+    "fta_agreement": "US-Korea FTA (KORUS)",
+    "chamber": "Export Council"
+  }
+}

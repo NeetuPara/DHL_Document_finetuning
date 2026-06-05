@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0018",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Chavez Tech Corp.",
+    "shipper_address": "8439 Yates Valleys, North Brittanyborough, ID 40909, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Industry Foster S.A.",
+    "consignee_address": "4594 Susan Divide, East Amy, OR 12199, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+12 151-442-1827",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 4,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 7.27,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-149375",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Brianna Olson",
+    "signature_date": "2026-04-28",
+    "signature_place": "Japan",
+    "awb_number": "085-69039182",
+    "flight_number": "EK1350",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

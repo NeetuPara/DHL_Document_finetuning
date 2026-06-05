@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0240",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-35288837",
+    "mawb_number": "618-58390433",
+    "shipper_name": "Commerce Lopez Corp.",
+    "shipper_address": "316 Tanya Fork Apt. 488, Nicolechester, KY 85429, France",
+    "consignee_name": "Barnes Pacific AG",
+    "consignee_address": "PSC 9799, Box 0183, APO AA 46150, Netherlands",
+    "agent_name": "Murphy Pacific B.V.",
+    "airport_departure": "PVG",
+    "airport_destination": "NRT",
+    "currency": "JPY",
+    "charge_code": "PP",
+    "declared_value_carriage": "AED 570.48",
+    "declared_value_customs": "CHF 6,015.73",
+    "n_pieces": 2,
+    "gross_weight_kg": 226.2,
+    "chargeable_weight": 282.6,
+    "rate": 7.11,
+    "total_charge": 2009.29,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-11-13",
+    "signatory": "Christopher Thompson",
+    "iata_code": "49-133",
+    "agent_cass": "3975-9041",
+    "consolidation_ref": "CONS-1414-674564",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-19532993",
+        "pieces": 15,
+        "weight": 84.9,
+        "destination": "YYZ",
+        "consignee": "Garner Trade Inc.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "176-97568925",
+        "pieces": 11,
+        "weight": 59.0,
+        "destination": "CDG",
+        "consignee": "Tech Hernandez AG",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "074-42241985",
+        "pieces": 16,
+        "weight": 93.7,
+        "destination": "LHR",
+        "consignee": "Ballard Pacific S.A.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "074-83640167",
+        "pieces": 11,
+        "weight": 4.3,
+        "destination": "ORD",
+        "consignee": "Dunn International S.A.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "020-66847607",
+        "pieces": 1,
+        "weight": 87.8,
+        "destination": "LHR",
+        "consignee": "Bryant Pacific AG",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

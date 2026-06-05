@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0383",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Luis White",
+    "addressee_company": "Olson Trade Inc.",
+    "addressee_address": "9060 Rojas Springs, Lake Veronica, CO 35644, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 3.434,
+    "total_value": 795.62,
+    "currency": "CHF",
+    "issue_date": "2025-09-05",
+    "reference": "REF-297143",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.434,
+        "value": 795.62,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Stephen Smith",
+    "sender_company": "Pacific Romero Corp.",
+    "sender_address": "0411 King Pines, Delacruzburgh, WY 00908, Spain",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 47.1,
+    "tracking_number": "OP339507815NW"
+  }
+}

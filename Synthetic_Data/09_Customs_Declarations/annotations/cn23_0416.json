@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0416",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Carlos Williams",
+    "addressee_company": "International Roberts LLC",
+    "addressee_address": "042 Clark Field, New Cheyenneborough, GA 83496, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 9.403,
+    "total_value": 2032.8,
+    "currency": "CHF",
+    "issue_date": "2025-11-13",
+    "reference": "REF-361847",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.485,
+        "value": 222.1,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 15,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.737,
+        "value": 1634.7,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 16,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.181,
+        "value": 176.0,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Eric Martinez",
+    "sender_company": "Commerce Gonzalez Inc.",
+    "sender_address": "3847 Mason Mountain, Lake Sandra, IL 92724, India",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 68.0,
+    "tracking_number": "TT966379202CG"
+  }
+}

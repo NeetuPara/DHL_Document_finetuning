@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0992",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202111-2730",
+    "usppi_name": "Waters Commerce Ltd",
+    "usppi_address": "3075 Stephens Haven Apt. 760, Lake Audrey, WV 39536, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "40-6922147",
+    "consignee_name": "Tech Hayes Inc.",
+    "consignee_address": "00110 Lewis Junctions Suite 823, Schmidtville, PA 26520, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Global Stanley LLC",
+    "forwarder": "Expeditors",
+    "incoterm": "CIF",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Catherine Hall PhD",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/45",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 33,
+        "unit": "PCS",
+        "weight_kg": 8.11,
+        "value_usd": 1833.0
+      },
+      {
+        "marks": "EXP/17",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 84,
+        "unit": "MTR",
+        "weight_kg": 50.9,
+        "value_usd": 327.77
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 42,
+        "unit": "KGS",
+        "weight_kg": 42.0,
+        "value_usd": 36.86
+      },
+      {
+        "marks": "ABC/43",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 47,
+        "unit": "BOX",
+        "weight_kg": 11.13,
+        "value_usd": 3468.17
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 191,
+        "unit": "PCS",
+        "weight_kg": 1852.22,
+        "value_usd": 73823.99
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 55,
+        "unit": "CTN",
+        "weight_kg": 179.54,
+        "value_usd": 1165.33
+      }
+    ],
+    "total_weight_kg": 2143.9,
+    "total_value_usd": 80655.12,
+    "service": "Ocean Freight",
+    "named_port": "Tanjung Pelepas, MY",
+    "insurance_value_usd": 23743.53,
+    "license_type": "Distributor License",
+    "license_number": "LIC-523461",
+    "destination_country": "United Kingdom"
+  }
+}

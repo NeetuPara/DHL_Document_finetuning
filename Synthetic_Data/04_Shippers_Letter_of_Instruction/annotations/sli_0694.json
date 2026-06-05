@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0694",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202009-7580",
+    "usppi_name": "Kelly Commerce Pte Ltd",
+    "usppi_address": "Unit 4497 Box 4807, DPO AA 47899, Canada",
+    "usppi_country": "Canada",
+    "ein": "20-8907833",
+    "consignee_name": "Pacific Dawson B.V.",
+    "consignee_address": "05967 Troy Shoals Apt. 192, Nguyenfort, VT 57907, France",
+    "consignee_country": "France",
+    "notify_party": "Cross Industry LLC",
+    "forwarder": "Panalpina",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Reginald Perez",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/13",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 57,
+        "unit": "PCS",
+        "weight_kg": 478.41,
+        "value_usd": 38391.26
+      },
+      {
+        "marks": "ABC/5",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 155,
+        "unit": "MTR",
+        "weight_kg": 70.07,
+        "value_usd": 690.67
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 120,
+        "unit": "PKG",
+        "weight_kg": 323.45,
+        "value_usd": 10311.05
+      },
+      {
+        "marks": "EXP/36",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 192,
+        "unit": "PCS",
+        "weight_kg": 89.4,
+        "value_usd": 45103.06
+      },
+      {
+        "marks": "SLI/46",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 89,
+        "unit": "PCS",
+        "weight_kg": 12.49,
+        "value_usd": 4127.1
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 142,
+        "unit": "KGS",
+        "weight_kg": 142.0,
+        "value_usd": 129.08
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 32,
+        "unit": "KGS",
+        "weight_kg": 32.0,
+        "value_usd": 232.58
+      }
+    ],
+    "total_weight_kg": 1147.82,
+    "total_value_usd": 98984.8,
+    "service": "Express Courier",
+    "named_port": "Sydney Kingsford Smith",
+    "insurance_value_usd": 34350.16,
+    "license_type": "Distributor License",
+    "license_number": "LIC-479978",
+    "destination_country": "France"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0169",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202212-9858",
+    "usppi_name": "Commerce Willis B.V.",
+    "usppi_address": "46772 Gloria Vista Suite 380, Fosterport, CT 03980, Australia",
+    "usppi_country": "Australia",
+    "ein": "30-4750369",
+    "consignee_name": "Trade Perez B.V.",
+    "consignee_address": "26320 Ford Trail, Harrisonhaven, WY 30065, India",
+    "consignee_country": "India",
+    "notify_party": "Industry Goodman Inc.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "5A002",
+    "signatory_name": "Danielle Henry",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/19",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 166,
+        "unit": "PCS",
+        "weight_kg": 112.06,
+        "value_usd": 4426.51
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 88,
+        "unit": "BOX",
+        "weight_kg": 106.5,
+        "value_usd": 5551.72
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 38,
+        "unit": "PKG",
+        "weight_kg": 24.76,
+        "value_usd": 1399.18
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 113,
+        "unit": "PCS",
+        "weight_kg": 55.48,
+        "value_usd": 19038.03
+      },
+      {
+        "marks": "EXP/14",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 160,
+        "unit": "CTN",
+        "weight_kg": 553.11,
+        "value_usd": 4693.16
+      },
+      {
+        "marks": "SLI/19",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 151,
+        "unit": "PCS",
+        "weight_kg": 17.76,
+        "value_usd": 9555.97
+      }
+    ],
+    "total_weight_kg": 869.67,
+    "total_value_usd": 44664.57,
+    "service": "Air Freight",
+    "named_port": "Tokyo Narita",
+    "insurance_value_usd": 8516.22,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-637131",
+    "destination_country": "India"
+  }
+}

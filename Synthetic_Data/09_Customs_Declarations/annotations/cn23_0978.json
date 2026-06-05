@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0978",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Autumn Scott",
+    "addressee_company": "Gibson Tech S.A.",
+    "addressee_address": "7332 Ashley Trace Suite 600, Mayburgh, NY 94490, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 8.764,
+    "total_value": 2882.06,
+    "currency": "AED",
+    "issue_date": "2025-08-14",
+    "reference": "REF-250919",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.656,
+        "value": 542.2,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 10,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.476,
+        "value": 1266.7,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 11,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.632,
+        "value": 1073.16,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_country": "Belgium",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "737-58607490-5",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 21.4,
+    "estimated_duty": 616.76,
+    "importer_ein": "84-7269265",
+    "customs_broker": "Davis Commerce Pte Ltd"
+  }
+}

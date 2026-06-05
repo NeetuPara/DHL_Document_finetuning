@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0281",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Greg Jenkins",
+    "addressee_company": "Industry Parsons AG",
+    "addressee_address": "1740 Laura Villages Suite 903, South Christopherburgh, KY 84459, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 2.872,
+    "total_value": 3287.8,
+    "currency": "EUR",
+    "issue_date": "2025-08-12",
+    "reference": "REF-646643",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.412,
+        "value": 1214.5,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 15,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 0.46,
+        "value": 2073.3,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Claire Craig",
+    "sender_company": "Pacific Christensen LLC",
+    "sender_address": "79846 Brady River, Port Carlos, LA 68703, Singapore",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 3616.58,
+    "postal_charges": 49.94,
+    "tracking_number": "SC759215129JP"
+  }
+}

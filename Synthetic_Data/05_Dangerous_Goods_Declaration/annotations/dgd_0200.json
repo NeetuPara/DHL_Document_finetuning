@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0200",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific White Co.",
+    "shipper_address": "58109 Bush Springs Apt. 413, Jeffersonhaven, IN 89008, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "International Kirby AG",
+    "consignee_address": "88853 Reed Villages Apt. 692, Watkinsland, MS 27762, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+42 275-291-3434",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 48,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 16.77,
+        "qty_unit": "L",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Alexis Becker",
+    "signature_date": "2026-05-08",
+    "signature_place": "Spain",
+    "vessel": "MADRID MAERSK",
+    "voyage": "730S",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "New York, US"
+  }
+}

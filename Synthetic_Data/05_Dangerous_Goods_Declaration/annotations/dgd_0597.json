@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0597",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Dudley International Pte Ltd",
+    "shipper_address": "6200 Hunter Knolls, Ramirezbury, PA 37241, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Turner Trade Inc.",
+    "consignee_address": "Unit 1644 Box 4672, DPO AE 14995, Belgium",
+    "consignee_country": "Belgium",
+    "emergency_telephone": "+18 947-823-1814",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 50,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 67.93,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-339117",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Michael Nelson",
+    "signature_date": "2026-05-13",
+    "signature_place": "Malaysia",
+    "awb_number": "160-41113523",
+    "flight_number": "EK8920",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson",
+    "non_dg_reason": "Excepted quantities (EQ) per IATA DGR 2.6"
+  }
+}

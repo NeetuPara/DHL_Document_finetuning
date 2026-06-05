@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0408",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Williams S.A.",
+    "shipper_address": "0550 Lee Glen, Thomasmouth, AL 33496, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "International Mendoza B.V.",
+    "consignee_address": "38385 Davenport Valley Apt. 464, East Susanshire, MS 45171, China",
+    "consignee_country": "China",
+    "emergency_telephone": "+80 588-677-5681",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 10,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 20.24,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-315131",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 48,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 19.97,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-476640",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "John Gardner",
+    "signature_date": "2026-05-09",
+    "signature_place": "Netherlands",
+    "awb_number": "057-55854845",
+    "flight_number": "SQ4875",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0128",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU233783549",
+    "shipper_name": "Gibson Global Co.",
+    "shipper_address": "678 Dixon Greens Apt. 061, Travisside, VI 07207, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Industry Harrell Co.",
+    "consignee_address": "79965 Bowman Knolls, Danielhaven, ME 02530, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party_name": "Global Myers Inc.",
+    "notify_party_address": "65285 Riley Common, East William, IA 05104, Poland",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "451E",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2024-09-14",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "BFSM0406649",
+        "seal_no": "CL172896",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "VHHC5608712",
+        "seal_no": "BL145267",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "QKHN2274349",
+        "seal_no": "SL689076",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "VWDX0987835",
+        "seal_no": "CL445580",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 49,
+    "package_type": "Bundle",
+    "gross_weight_kg": 19569.4,
+    "net_weight_kg": 17413.0,
+    "cbm": 5.652,
+    "marks_and_numbers": "ABC/42"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0249",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202111-2226",
+    "exporter_name": "Scott Trade Pte Ltd",
+    "exporter_address": "4999 Smith Tunnel, Port Robertburgh, WA 57134, United Arab Emirates",
+    "exporter_country": "United Arab Emirates",
+    "consignee_name": "Pacific Mccall S.A.",
+    "consignee_address": "48922 Brianna Mall Suite 016, South Reginatown, ID 33918, Canada",
+    "consignee_country": "Canada",
+    "country_of_origin": "United Arab Emirates",
+    "country_of_destination": "Canada",
+    "bl_or_awb": "160-80782119",
+    "issue_date": "2025-10-25",
+    "certifier_name": "Brittany Martinez",
+    "goods": [
+      {
+        "description": "Electronic Components - Printed Circuit Boards",
+        "hs_code": "8534.00.00",
+        "qty": 466,
+        "unit": "PCS",
+        "weight_kg": 75.22,
+        "origin_criterion": "B",
+        "value": 112856.82
+      },
+      {
+        "description": "Plastic Products - Injection Moulded Components",
+        "hs_code": "3926.90.00",
+        "qty": 89,
+        "unit": "PCS",
+        "weight_kg": 66.86,
+        "origin_criterion": "D",
+        "value": 695.63
+      },
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 310,
+        "unit": "KGS",
+        "weight_kg": 310.0,
+        "origin_criterion": "E",
+        "value": 5789.93
+      }
+    ],
+    "fta_agreement": "USMCA",
+    "chamber": "Trade Association"
+  }
+}

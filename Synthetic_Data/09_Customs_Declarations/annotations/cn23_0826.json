@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0826",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Robin Thompson",
+    "addressee_company": "Smith Pacific S.A.",
+    "addressee_address": "695 Santos Creek, Lake Michael, OK 12828, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 11.124,
+    "total_value": 3384.84,
+    "currency": "GBP",
+    "issue_date": "2025-12-02",
+    "reference": "REF-963199",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.061,
+        "value": 256.36,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 10,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.356,
+        "value": 1231.6,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 11,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.127,
+        "value": 146.19,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 4,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.544,
+        "value": 412.28,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 17,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.036,
+        "value": 1338.41,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Kathryn Weaver",
+    "sender_company": "Smith Commerce Inc.",
+    "sender_address": "1109 Tracy Villages, New Anthonyside, WI 22720, Thailand",
+    "sender_phone": "930.670.8284",
+    "sender_email": "uberry@example.com",
+    "addressee_phone": "942-560-0174",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 3723.32,
+    "postal_charges": 45.25,
+    "tracking_number": "CT783503817NQ"
+  }
+}

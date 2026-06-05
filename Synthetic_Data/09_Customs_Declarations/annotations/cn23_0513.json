@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0513",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Matthew Brown",
+    "addressee_company": "Trade Thomas Co.",
+    "addressee_address": "76543 Amber Trail Apt. 889, Leslieland, WV 60274, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 6.032,
+    "total_value": 747.23,
+    "currency": "CNY",
+    "issue_date": "2025-09-29",
+    "reference": "REF-520729",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.703,
+        "value": 700.53,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 10,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.329,
+        "value": 46.7,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_country": "Brazil",
+    "port_of_entry": "Chicago, IL",
+    "entry_number": "241-97926843-9",
+    "entry_type": "Informal Entry",
+    "duty_rate": 14.0,
+    "estimated_duty": 104.61,
+    "importer_ein": "97-0117504",
+    "customs_broker": "Commerce Houston Corp."
+  }
+}

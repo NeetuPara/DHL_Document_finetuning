@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0836",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Amy Mahoney",
+    "addressee_company": "Obrien Pacific Corp.",
+    "addressee_address": "674 Karen Brooks Suite 998, East Theresamouth, ID 01580, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 6.547,
+    "total_value": 872.61,
+    "currency": "CNY",
+    "issue_date": "2026-01-01",
+    "reference": "REF-776914",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.13,
+        "value": 153.99,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 7,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.417,
+        "value": 718.62,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Paul Fuentes",
+    "sender_company": "Scott Tech Corp.",
+    "sender_address": "374 Shirley Prairie Suite 376, North Victoria, KS 04745, France",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 19.81,
+    "tracking_number": "CC326403509HU"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0568",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Laura Jones",
+    "addressee_company": "Reid Commerce Corp.",
+    "addressee_address": "439 Alexander Radial, Harrisland, MT 16513, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 10.95,
+    "total_value": 3841.81,
+    "currency": "CAD",
+    "issue_date": "2025-11-30",
+    "reference": "REF-838105",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.483,
+        "value": 273.35,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 20,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.745,
+        "value": 1949.0,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 10,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.431,
+        "value": 340.2,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 18,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.627,
+        "value": 499.68,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 9,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.664,
+        "value": 779.58,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_name": "Patricia Humphrey",
+    "sender_company": "Tech Bentley Corp.",
+    "sender_address": "057 Jimenez Meadow, Lake James, GU 39795, Spain",
+    "sender_phone": "326.249.4771",
+    "sender_email": "uyoder@example.com",
+    "addressee_phone": "+1-629-700-5889",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 78.89,
+    "tracking_number": "JJ471818187JY"
+  }
+}

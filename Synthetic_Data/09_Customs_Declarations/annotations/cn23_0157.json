@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0157",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Angelica Johnson",
+    "addressee_company": "Woodard Trade LLC",
+    "addressee_address": "11107 Nicholas Flat Suite 399, Port Pamelabury, VT 25325, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 10.07,
+    "total_value": 2781.0,
+    "currency": "EUR",
+    "issue_date": "2025-09-07",
+    "reference": "REF-764849",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.549,
+        "value": 157.44,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 3,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.272,
+        "value": 177.42,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 18,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.098,
+        "value": 1197.54,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 15,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.151,
+        "value": 1248.6,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Michael Villarreal",
+    "sender_company": "International Allen S.A.",
+    "sender_address": "65752 Morris Orchard Suite 131, South Jamesport, AR 37937, United States",
+    "sender_phone": "001-973-487-1226",
+    "sender_email": "kwalls@example.com",
+    "addressee_phone": "471.354.5729x29619",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 3059.1,
+    "postal_charges": 39.35,
+    "tracking_number": "TB412966418UO"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0167",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20230417110256",
+    "export_date": "2026-04-30",
+    "aes_option": "AES Filing",
+    "usppi_name": "Tech Bishop Co.",
+    "usppi_ein": "27-8559162",
+    "usppi_address": "693 Anna Crest Apt. 926, West Adamfort, OR 07227, Poland",
+    "ultimate_consignee": "Rogers Pacific Co.",
+    "intermediate_consignee": "Pacific Jensen Pte Ltd",
+    "forwarding_agent": "Newman Trade Corp.",
+    "destination_country": "India",
+    "carrier": "FedEx",
+    "bl_awb": "160-72459803",
+    "total_value": 214896.64,
+    "currency": "AED",
+    "signatory": "Jeffrey Brown",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "South Korea",
+        "qty": 102,
+        "unit": "MTR",
+        "entered_value": 28796.64,
+        "duty_rate": 6.1,
+        "duty_amount": 1756.6,
+        "eccn": "0A919",
+        "schedule_b": "5407.42.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Canada",
+        "qty": 500,
+        "unit": "CTN",
+        "entered_value": 186100.0,
+        "duty_rate": 24.6,
+        "duty_amount": 45780.6,
+        "eccn": "7A994",
+        "schedule_b": "9018.31.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

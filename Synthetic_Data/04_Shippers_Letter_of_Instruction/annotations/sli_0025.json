@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0025",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202306-2023",
+    "usppi_name": "Global Crawford B.V.",
+    "usppi_address": "662 Lopez Key, Longside, NH 72108, Italy",
+    "usppi_country": "Italy",
+    "ein": "19-9269351",
+    "consignee_name": "Pacific Fuentes Corp.",
+    "consignee_address": "3145 Linda Mission Apt. 248, Port Judithborough, OK 87734, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "International Pacheco B.V.",
+    "forwarder": "Expeditors",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Jennifer Daniels",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/3",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 108,
+        "unit": "PCS",
+        "weight_kg": 82.53,
+        "value_usd": 61865.68
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 74,
+        "unit": "PCS",
+        "weight_kg": 447.28,
+        "value_usd": 27888.83
+      },
+      {
+        "marks": "EXP/4",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 32,
+        "unit": "PCS",
+        "weight_kg": 27.26,
+        "value_usd": 621.27
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 150,
+        "unit": "KGS",
+        "weight_kg": 150.0,
+        "value_usd": 253.16
+      },
+      {
+        "marks": "ABC/7",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 32,
+        "unit": "PKG",
+        "weight_kg": 17.72,
+        "value_usd": 2327.17
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 104,
+        "unit": "LTR",
+        "weight_kg": 102.93,
+        "value_usd": 2370.93
+      }
+    ],
+    "total_weight_kg": 827.72,
+    "total_value_usd": 95327.04,
+    "service": "Express Courier",
+    "named_port": "Sydney Kingsford Smith",
+    "insurance_value_usd": 34246.32,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-865868",
+    "destination_country": "Hong Kong"
+  }
+}

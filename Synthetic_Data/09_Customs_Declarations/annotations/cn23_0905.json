@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0905",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Garrett Berry",
+    "addressee_company": "Griffin Industry Ltd",
+    "addressee_address": "USS Ryan, FPO AE 63988, France",
+    "addressee_country": "France",
+    "total_weight_kg": 7.594,
+    "total_value": 4667.22,
+    "currency": "EUR",
+    "issue_date": "2025-12-09",
+    "reference": "REF-514335",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.861,
+        "value": 834.88,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 6,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.627,
+        "value": 651.3,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 10,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.702,
+        "value": 1323.6,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 14,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 0.712,
+        "value": 415.24,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 10,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.692,
+        "value": 1442.2,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Brooke Ferguson",
+    "sender_company": "Leon Tech Ltd",
+    "sender_address": "275 Foster Centers Suite 668, New Steven, PA 79149, Hong Kong",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 55.99,
+    "tracking_number": "HL212965500KX"
+  }
+}

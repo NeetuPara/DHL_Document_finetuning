@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0497",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202005-9948",
+    "usppi_name": "Commerce Gomez Co.",
+    "usppi_address": "781 Samuel Pines, Port Michaelmouth, MI 54603, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "78-3509391",
+    "consignee_name": "Jefferson Tech LLC",
+    "consignee_address": "368 Smith Orchard Apt. 419, West Kristen, SC 13137, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Davidson Tech Co.",
+    "forwarder": "Panalpina",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Brian Ortiz",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/28",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 82,
+        "unit": "PCS",
+        "weight_kg": 23.06,
+        "value_usd": 75777.51
+      },
+      {
+        "marks": "EXP/12",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 154,
+        "unit": "KGS",
+        "weight_kg": 154.0,
+        "value_usd": 100.89
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 96,
+        "unit": "PCS",
+        "weight_kg": 1729.37,
+        "value_usd": 29399.35
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 34,
+        "unit": "PCS",
+        "weight_kg": 306.76,
+        "value_usd": 1697.56
+      },
+      {
+        "marks": "ABC/50",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 25,
+        "unit": "CTN",
+        "weight_kg": 92.9,
+        "value_usd": 727.34
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 46,
+        "unit": "BOX",
+        "weight_kg": 65.29,
+        "value_usd": 2374.77
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 72,
+        "unit": "PCS",
+        "weight_kg": 30.77,
+        "value_usd": 223.91
+      },
+      {
+        "marks": "SLI/9",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 56,
+        "unit": "PCS",
+        "weight_kg": 9.65,
+        "value_usd": 5678.66
+      }
+    ],
+    "total_weight_kg": 2411.8,
+    "total_value_usd": 115979.99,
+    "service": "Air Freight",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 24379.09,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-301621",
+    "destination_country": "Spain"
+  }
+}

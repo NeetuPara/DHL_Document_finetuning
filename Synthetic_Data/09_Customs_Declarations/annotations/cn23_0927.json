@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0927",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Rachel Black",
+    "addressee_company": "Ferguson Pacific B.V.",
+    "addressee_address": "88582 Ann Street Suite 416, Susanshire, ND 63466, France",
+    "addressee_country": "France",
+    "total_weight_kg": 4.608,
+    "total_value": 840.32,
+    "currency": "AUD",
+    "issue_date": "2026-02-20",
+    "reference": "REF-656889",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.519,
+        "value": 786.4,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 1,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 0.089,
+        "value": 53.92,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_country": "Brazil",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "390-19762558-3",
+    "entry_type": "Informal Entry",
+    "duty_rate": 4.1,
+    "estimated_duty": 34.45,
+    "importer_ein": "13-2488763",
+    "customs_broker": "Jones Commerce B.V."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0171",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202505-9506",
+    "usppi_name": "Edwards Trade Pte Ltd",
+    "usppi_address": "896 Archer Villages Apt. 484, North Roberttown, CA 71450, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "87-7962625",
+    "consignee_name": "Proctor Pacific Ltd",
+    "consignee_address": "2567 Renee Bypass Suite 228, Jonathonburgh, OH 03672, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Pacific Scott Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Victoria Melton",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/33",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 31,
+        "unit": "CTN",
+        "weight_kg": 53.16,
+        "value_usd": 1926.14
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 35,
+        "unit": "PCS",
+        "weight_kg": 42.67,
+        "value_usd": 890.15
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 9,
+        "unit": "PCS",
+        "weight_kg": 0.61,
+        "value_usd": 2100.85
+      }
+    ],
+    "total_weight_kg": 96.44,
+    "total_value_usd": 4917.14,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "804N",
+    "booking_ref": "BKG-609991",
+    "bl_number": "MAEU341301549",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Hong Kong, HK",
+    "container_number": "OSXW8310753",
+    "seal_number": "CL485077",
+    "container_type": "20'GP",
+    "cbm": 2.672
+  }
+}

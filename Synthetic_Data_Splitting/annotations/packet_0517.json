@@ -1,0 +1,40 @@
+{
+  "packet_id": "packet_0517",
+  "total_pages": 3,
+  "n_documents": 3,
+  "class_sequence": [
+    "Power of Attorney",
+    "House Bill of Lading",
+    "Customs Declaration"
+  ],
+  "documents": [
+    {
+      "doc_class": "Power of Attorney",
+      "class_index": 12,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "poa_0601.pdf",
+      "source_class_folder": "12_Power_of_Attorney"
+    },
+    {
+      "doc_class": "House Bill of Lading",
+      "class_index": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "hbl_0810.pdf",
+      "source_class_folder": "02_House_Bill_of_Lading"
+    },
+    {
+      "doc_class": "Customs Declaration",
+      "class_index": 9,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "cn23_0160.pdf",
+      "source_class_folder": "09_Customs_Declarations"
+    }
+  ],
+  "task": "splitting"
+}

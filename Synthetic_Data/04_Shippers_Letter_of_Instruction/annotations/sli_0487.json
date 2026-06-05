@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0487",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202107-1185",
+    "usppi_name": "Miller Trade Pte Ltd",
+    "usppi_address": "30505 Angel Locks Apt. 796, Victorialand, NY 51857, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "83-6139468",
+    "consignee_name": "Fleming Tech Co.",
+    "consignee_address": "74554 Woods Bridge Suite 758, North Joanne, NM 24822, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Industry Castillo LLC",
+    "forwarder": "Expeditors",
+    "incoterm": "DDP",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Cody Russell",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/15",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 65,
+        "unit": "BOX",
+        "weight_kg": 58.07,
+        "value_usd": 7306.01
+      },
+      {
+        "marks": "SLI/34",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 94,
+        "unit": "PCS",
+        "weight_kg": 12.21,
+        "value_usd": 6335.92
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 11,
+        "unit": "MTR",
+        "weight_kg": 8.55,
+        "value_usd": 154.82
+      },
+      {
+        "marks": "EXP/23",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 174,
+        "unit": "KGS",
+        "weight_kg": 174.0,
+        "value_usd": 109.11
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 17,
+        "unit": "PCS",
+        "weight_kg": 1.11,
+        "value_usd": 1531.23
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 82,
+        "unit": "PCS",
+        "weight_kg": 60.06,
+        "value_usd": 121910.47
+      }
+    ],
+    "total_weight_kg": 314.0,
+    "total_value_usd": 137347.56,
+    "service": "LCL Ocean",
+    "named_port": "Hamburg, DE",
+    "insurance_value_usd": 39764.74,
+    "license_type": "Distributor License",
+    "license_number": "LIC-152211",
+    "destination_country": "Germany"
+  }
+}

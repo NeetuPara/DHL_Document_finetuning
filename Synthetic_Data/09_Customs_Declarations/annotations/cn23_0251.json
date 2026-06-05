@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0251",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Christopher Taylor",
+    "addressee_company": "Woodard Commerce Pte Ltd",
+    "addressee_address": "586 Wright Grove Apt. 756, Sancheztown, NV 56120, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 9.486,
+    "total_value": 2248.06,
+    "currency": "CNY",
+    "issue_date": "2025-11-11",
+    "reference": "REF-905391",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.293,
+        "value": 284.62,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 9,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.283,
+        "value": 453.42,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 18,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.91,
+        "value": 1510.02,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_name": "Wendy Washington",
+    "sender_company": "Webb Global GmbH",
+    "sender_address": "9802 Daniel Branch, Crawfordfort, TX 63103, Germany",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 61.6,
+    "tracking_number": "UR824412470QG"
+  }
+}

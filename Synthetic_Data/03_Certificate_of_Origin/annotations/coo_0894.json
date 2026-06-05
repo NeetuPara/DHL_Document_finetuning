@@ -1,0 +1,60 @@
+{
+  "document_id": "coo_0894",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202503-8377",
+    "exporter_name": "International Baker Corp.",
+    "exporter_address": "8407 Scott Tunnel Suite 616, Joshuafort, MI 38354, Sweden",
+    "exporter_country": "Sweden",
+    "consignee_name": "Trade Rice Co.",
+    "consignee_address": "603 Laura Freeway Apt. 530, Michaelhaven, OH 21511, South Korea",
+    "consignee_country": "South Korea",
+    "country_of_origin": "Sweden",
+    "country_of_destination": "South Korea",
+    "bl_or_awb": "074-84491736",
+    "issue_date": "2025-01-19",
+    "certifier_name": "Maria Young",
+    "goods": [
+      {
+        "description": "Medical Devices - Disposable Syringes",
+        "hs_code": "9018.31.00",
+        "qty": 203,
+        "unit": "CTN",
+        "weight_kg": 925.16,
+        "origin_criterion": "A",
+        "value": 15012.38
+      },
+      {
+        "description": "Steel Products - Hot Rolled Coils",
+        "hs_code": "7208.37.00",
+        "qty": 312,
+        "unit": "KGS",
+        "weight_kg": 312.0,
+        "origin_criterion": "B",
+        "value": 406.65
+      },
+      {
+        "description": "Wooden Furniture - Office Chairs",
+        "hs_code": "9401.30.00",
+        "qty": 226,
+        "unit": "PCS",
+        "weight_kg": 2409.08,
+        "origin_criterion": "F",
+        "value": 94279.51
+      },
+      {
+        "description": "Paper Products - Packaging Cartons",
+        "hs_code": "4819.10.00",
+        "qty": 194,
+        "unit": "CTN",
+        "weight_kg": 167.75,
+        "origin_criterion": "C",
+        "value": 1581.06
+      }
+    ],
+    "fta_agreement": "RCEP",
+    "chamber": "Export Council"
+  }
+}

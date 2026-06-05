@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0664",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jennifer Key",
+    "addressee_company": "Commerce Hayes Ltd",
+    "addressee_address": "52071 Hale Highway, Johnsonbury, VI 05934, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 6.61,
+    "total_value": 2916.11,
+    "currency": "CAD",
+    "issue_date": "2025-12-04",
+    "reference": "REF-052888",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.301,
+        "value": 342.65,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 7,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.899,
+        "value": 175.49,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 15,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.75,
+        "value": 1028.55,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 13,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.66,
+        "value": 1369.42,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_name": "Brianna Thompson",
+    "sender_company": "Industry Wilson Pte Ltd",
+    "sender_address": "27830 Kathryn Burgs Suite 584, New Kristenborough, WA 94085, Mexico",
+    "sender_phone": "213-373-9935x038",
+    "sender_email": "obailey@example.net",
+    "addressee_phone": "(991)652-3932x43369",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 70.48,
+    "tracking_number": "CF714869223TC"
+  }
+}

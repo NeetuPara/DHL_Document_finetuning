@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0577",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Dr. Sandra Miller",
+    "addressee_company": "Frank Tech LLC",
+    "addressee_address": "141 John Estates Suite 466, West Melissabury, AZ 53451, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 10.424,
+    "total_value": 6886.77,
+    "currency": "USD",
+    "issue_date": "2025-07-19",
+    "reference": "REF-901176",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.818,
+        "value": 721.24,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 11,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.076,
+        "value": 727.98,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 13,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.23,
+        "value": 90.74,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 17,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.639,
+        "value": 917.15,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 19,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.336,
+        "value": 1590.49,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 19,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.325,
+        "value": 2839.17,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Terry Cantrell",
+    "sender_company": "Dalton Global Pte Ltd",
+    "sender_address": "243 Armstrong Valley, Paulfort, OH 06545, Belgium",
+    "sender_phone": "001-800-389-2825",
+    "sender_email": "melissajones@example.net",
+    "addressee_phone": "876.542.1184x6432",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 22.21,
+    "tracking_number": "HB024078138LD"
+  }
+}

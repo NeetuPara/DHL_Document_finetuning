@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0839",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202411-2034",
+    "usppi_name": "Martinez Trade LLC",
+    "usppi_address": "229 Garcia Freeway, Jessicastad, VI 47674, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "55-7790351",
+    "consignee_name": "May International AG",
+    "consignee_address": "26451 Bryan Extension Apt. 605, East Harry, NC 66557, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Foster Tech Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Tammy Spears",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/48",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 188,
+        "unit": "PCS",
+        "weight_kg": 3064.83,
+        "value_usd": 46174.09
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 79,
+        "unit": "PKG",
+        "weight_kg": 75.8,
+        "value_usd": 4506.17
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 198,
+        "unit": "CTN",
+        "weight_kg": 493.14,
+        "value_usd": 1924.92
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 138,
+        "unit": "KGS",
+        "weight_kg": 138.0,
+        "value_usd": 121.57
+      },
+      {
+        "marks": "EXP/33",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 24,
+        "unit": "BOX",
+        "weight_kg": 43.09,
+        "value_usd": 2585.78
+      },
+      {
+        "marks": "EXP/28",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 109,
+        "unit": "PCS",
+        "weight_kg": 1053.61,
+        "value_usd": 29372.42
+      }
+    ],
+    "total_weight_kg": 4868.47,
+    "total_value_usd": 84684.95,
+    "service": "Air Freight",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 19841.06,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "South Korea"
+  }
+}

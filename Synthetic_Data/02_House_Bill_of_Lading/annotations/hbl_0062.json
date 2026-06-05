@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0062",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU789497277",
+    "shipper_name": "International Williams Ltd",
+    "shipper_address": "9577 Brown Prairie, Bradview, VI 78178, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Commerce Riley Co.",
+    "consignee_address": "763 Angela Land, North Christyview, GU 63116, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party_name": "Young Tech B.V.",
+    "notify_party_address": "795 Graves Views Suite 484, Port Bryanshire, NC 52757, France",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "640E",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2025-10-16",
+    "issue_place": "Qingdao",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "IEBZ6766774",
+        "seal_no": "SL205942",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "QPJP9759496",
+        "seal_no": "CL860861",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "FOII9160388",
+        "seal_no": "CL826140",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "EVIE0953306",
+        "seal_no": "SL594080",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 28,
+    "package_type": "Case",
+    "gross_weight_kg": 11640.2,
+    "net_weight_kg": 10452.4,
+    "cbm": 2.921,
+    "marks_and_numbers": "XYZ/25"
+  }
+}

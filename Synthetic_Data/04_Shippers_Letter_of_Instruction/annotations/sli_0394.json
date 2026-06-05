@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0394",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202307-3721",
+    "usppi_name": "Tech Glenn Pte Ltd",
+    "usppi_address": "79410 Williams Ways Suite 516, Gregoryland, PW 77990, Australia",
+    "usppi_country": "Australia",
+    "ein": "52-6176482",
+    "consignee_name": "Bryant Pacific B.V.",
+    "consignee_address": "Unit 9062 Box 6460, DPO AP 49659, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Smith Trade Corp.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Michael Brown",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/22",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 141,
+        "unit": "CTN",
+        "weight_kg": 397.65,
+        "value_usd": 1914.19
+      },
+      {
+        "marks": "EXP/50",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 124,
+        "unit": "PKG",
+        "weight_kg": 265.18,
+        "value_usd": 7457.55
+      },
+      {
+        "marks": "SLI/29",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 60,
+        "unit": "LTR",
+        "weight_kg": 63.76,
+        "value_usd": 605.09
+      },
+      {
+        "marks": "ABC/18",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 43,
+        "unit": "CTN",
+        "weight_kg": 194.63,
+        "value_usd": 1527.33
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 186,
+        "unit": "PCS",
+        "weight_kg": 4047.15,
+        "value_usd": 47402.73
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 122,
+        "unit": "PCS",
+        "weight_kg": 150.09,
+        "value_usd": 167190.32
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 74,
+        "unit": "KGS",
+        "weight_kg": 74.0,
+        "value_usd": 129.09
+      }
+    ],
+    "total_weight_kg": 5192.46,
+    "total_value_usd": 226226.3,
+    "service": "LCL Ocean",
+    "named_port": "Tanjung Pelepas, MY",
+    "insurance_value_usd": 49932.24,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-973161",
+    "destination_country": "Spain"
+  }
+}

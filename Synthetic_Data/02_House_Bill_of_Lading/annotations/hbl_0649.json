@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0649",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU949047759",
+    "shipper_name": "Pacific Garcia GmbH",
+    "shipper_address": "067 James Meadows Apt. 295, Stephenchester, FL 89902, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Tech Adams S.A.",
+    "consignee_address": "2635 Jackson Divide, Stephensonmouth, NY 03483, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party_name": "Tech Jones Inc.",
+    "notify_party_address": "24943 Jones Cliffs Suite 304, South Benjaminfurt, AL 43151, France",
+    "vessel": "MSC OSCAR",
+    "voyage": "735W",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2025-10-12",
+    "issue_place": "Dubai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "ZJAT5120006",
+        "seal_no": "CL906322",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "XYCI4353523",
+        "seal_no": "CL992328",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 14,
+    "package_type": "Bundle",
+    "gross_weight_kg": 10759.1,
+    "net_weight_kg": 9812.5,
+    "cbm": 0.861,
+    "marks_and_numbers": "XYZ/33"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0235",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Isaiah Morris",
+    "addressee_company": "Moore Global AG",
+    "addressee_address": "PSC 9507, Box 6548, APO AE 82246, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 9.902,
+    "total_value": 3600.2,
+    "currency": "JPY",
+    "issue_date": "2026-03-17",
+    "reference": "REF-279333",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.78,
+        "value": 606.1,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 8,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.525,
+        "value": 1050.48,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 14,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.598,
+        "value": 978.74,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 8,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.999,
+        "value": 964.88,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Raymond Smith",
+    "sender_company": "Rhodes Industry B.V.",
+    "sender_address": "USNS Murray, FPO AA 32046, Belgium",
+    "sender_phone": "808-355-5676x41582",
+    "sender_email": "fdavis@example.net",
+    "addressee_phone": "599-782-7403",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 3960.22,
+    "postal_charges": 60.61,
+    "tracking_number": "SF079146645ZD"
+  }
+}

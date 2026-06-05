@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0887",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202205-3381",
+    "usppi_name": "Lee Pacific Inc.",
+    "usppi_address": "17638 Emily Loaf Apt. 766, Amandamouth, RI 65921, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "92-5720748",
+    "consignee_name": "Gomez Commerce Corp.",
+    "consignee_address": "Unit 0032 Box 3780, DPO AA 79257, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Trade Fox Inc.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DDP",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Danielle Myers DDS",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/28",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 163,
+        "unit": "KGS",
+        "weight_kg": 163.0,
+        "value_usd": 3412.25
+      },
+      {
+        "marks": "EXP/35",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 112,
+        "unit": "PCS",
+        "weight_kg": 1169.48,
+        "value_usd": 48149.32
+      }
+    ],
+    "total_weight_kg": 1332.48,
+    "total_value_usd": 51561.57,
+    "service": "LCL Ocean",
+    "named_port": "Felixstowe, GB",
+    "insurance_value_usd": 15974.23,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-868139",
+    "destination_country": "Hong Kong"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0620",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202410-1642",
+    "usppi_name": "Tech Meyer Co.",
+    "usppi_address": "6239 Rodney Ports, Catherineview, AS 06449, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "44-6658237",
+    "consignee_name": "Pacific Crawford Co.",
+    "consignee_address": "8597 Porter Skyway, North Davidmouth, MS 02738, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Johnson Trade GmbH",
+    "forwarder": "Panalpina",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Christina Meza",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/34",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 52,
+        "unit": "PCS",
+        "weight_kg": 77.18,
+        "value_usd": 13116.85
+      },
+      {
+        "marks": "SLI/33",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 78,
+        "unit": "PCS",
+        "weight_kg": 79.38,
+        "value_usd": 10351.46
+      }
+    ],
+    "total_weight_kg": 156.56,
+    "total_value_usd": 23468.31,
+    "service": "LCL Ocean",
+    "named_port": "Hamburg, DE",
+    "insurance_value_usd": 8657.13,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-929448",
+    "destination_country": "Mexico"
+  }
+}

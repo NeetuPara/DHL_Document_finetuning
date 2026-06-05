@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0930",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Petersen Industry AG",
+    "shipper_address": "45719 Lopez Bypass, Markmouth, FM 93598, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Crawford Pacific Inc.",
+    "consignee_address": "Unit 8512 Box 7949, DPO AP 34009, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+20 223-994-6565",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 1,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 55.59,
+        "qty_unit": "mL",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-504891",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Terry Obrien",
+    "signature_date": "2026-05-04",
+    "signature_place": "United Arab Emirates",
+    "awb_number": "176-30334068",
+    "flight_number": "DL6329",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International",
+    "non_dg_reason": "Lithium Ion Batteries \u2014 Section II (PI 967/Section II)"
+  }
+}

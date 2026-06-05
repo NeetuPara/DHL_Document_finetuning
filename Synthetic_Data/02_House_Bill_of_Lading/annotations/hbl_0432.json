@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0432",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU338037434",
+    "shipper_name": "Tech Roberts AG",
+    "shipper_address": "9969 Roberts Pike Apt. 445, South Beth, NC 75086, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Tech Marsh Ltd",
+    "consignee_address": "598 Michael Mall, West Andrea, KS 66393, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Global Miles B.V.",
+    "notify_party_address": "651 Paul Spur, West Javierfort, FL 54467, France",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "493E",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Hong Kong, HK",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2025-03-25",
+    "issue_place": "New York",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "YEAM6389742",
+        "seal_no": "SL908377",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "ANQR5595888",
+        "seal_no": "SL865113",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "RIVM6772063",
+        "seal_no": "CL506868",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 262,
+    "package_type": "Case",
+    "gross_weight_kg": 21590.6,
+    "net_weight_kg": 19270.1,
+    "cbm": 20.229,
+    "marks_and_numbers": "ABC/33"
+  }
+}

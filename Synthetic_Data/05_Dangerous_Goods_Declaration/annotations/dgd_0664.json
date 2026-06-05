@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0664",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Martinez Pte Ltd",
+    "shipper_address": "836 Osborne Lodge Apt. 852, Hurstton, GU 18155, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Trade Sharp Inc.",
+    "consignee_address": "352 Watson Trail, Ramirezfurt, VA 15359, Brazil",
+    "consignee_country": "Brazil",
+    "emergency_telephone": "+59 915-465-1614",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 8,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 20.63,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Margaret Jones",
+    "signature_date": "2026-04-26",
+    "signature_place": "Netherlands",
+    "awb_number": "057-54768343",
+    "flight_number": "UA7147",
+    "flight_date": "2026-04-19",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson"
+  }
+}

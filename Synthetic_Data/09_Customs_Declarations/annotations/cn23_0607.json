@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0607",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kathleen Roy",
+    "addressee_company": "Trade Mitchell Pte Ltd",
+    "addressee_address": "231 Adkins Cove, Serranofurt, ND 65284, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 3.029,
+    "total_value": 302.26,
+    "currency": "USD",
+    "issue_date": "2025-10-31",
+    "reference": "REF-285921",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.029,
+        "value": 302.26,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_name": "Kent Ali",
+    "sender_company": "Turner Industry Ltd",
+    "sender_address": "956 James View, New Matthewbury, GA 70936, South Korea",
+    "sender_phone": "8316780862",
+    "sender_email": "bward@example.net",
+    "addressee_phone": "651.710.1690x113",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 20.64,
+    "tracking_number": "QL749580525OJ"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0125",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240808820732",
+    "export_date": "2025-09-30",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "International Rasmussen AG",
+    "usppi_ein": "16-3318971",
+    "usppi_address": "6971 Stephanie Turnpike, North Sarahland, PW 54518, Hong Kong",
+    "ultimate_consignee": "Martinez Industry B.V.",
+    "intermediate_consignee": "Industry Hart B.V.",
+    "forwarding_agent": "Beasley Industry Pte Ltd",
+    "destination_country": "Mexico",
+    "carrier": "FedEx",
+    "bl_awb": "160-88890680",
+    "total_value": 61146.34,
+    "currency": "USD",
+    "signatory": "Amber Rodriguez",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Spain",
+        "qty": 66,
+        "unit": "PCS",
+        "entered_value": 27105.54,
+        "duty_rate": 0.7,
+        "duty_amount": 189.74,
+        "eccn": "2B350",
+        "schedule_b": "8483.40.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "South Korea",
+        "qty": 250,
+        "unit": "MTR",
+        "entered_value": 9445.0,
+        "duty_rate": 18.7,
+        "duty_amount": 1766.21,
+        "eccn": "7A994",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Germany",
+        "qty": 60,
+        "unit": "PCS",
+        "entered_value": 24595.8,
+        "duty_rate": 14.5,
+        "duty_amount": 3566.39,
+        "eccn": "7A994",
+        "schedule_b": "8518.30.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

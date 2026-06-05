@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0297",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Jacobs Industry AG",
+    "shipper_address": "2543 Jeffrey Corner Apt. 148, Brandtshire, CO 42376, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Mata Global GmbH",
+    "consignee_address": "PSC 4954, Box 7684, APO AA 61192, Mexico",
+    "consignee_country": "Mexico",
+    "emergency_telephone": "+69 223-979-4511",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 3,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 14.23,
+        "qty_unit": "g",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-678325",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 36,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 36.92,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-757644",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Kathryn Phelps",
+    "signature_date": "2026-04-19",
+    "signature_place": "South Korea",
+    "awb_number": "125-17803220",
+    "flight_number": "LH6040",
+    "departure_airport_code": "LAX",
+    "departure_airport_name": "Los Angeles International",
+    "destination_airport_code": "CDG",
+    "destination_airport_name": "Paris CDG",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0733",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Veronica Webster",
+    "addressee_company": "Commerce Rogers Co.",
+    "addressee_address": "PSC 8691, Box 4336, APO AE 48745, Sweden",
+    "addressee_country": "Sweden",
+    "total_weight_kg": 11.004,
+    "total_value": 2037.64,
+    "currency": "USD",
+    "issue_date": "2025-10-04",
+    "reference": "REF-418664",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.332,
+        "value": 345.92,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 15,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.501,
+        "value": 1103.1,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 2,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.692,
+        "value": 229.28,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 3,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.479,
+        "value": 359.34,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "Michael Smith",
+    "sender_company": "Herman Tech Inc.",
+    "sender_address": "USS Webb, FPO AE 14286, Italy",
+    "sender_phone": "950.741.6612x940",
+    "sender_email": "justinthompson@example.net",
+    "addressee_phone": "001-772-774-1664x8117",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 2241.4,
+    "postal_charges": 78.0,
+    "tracking_number": "WD198358405RD"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0892",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pearson International Corp.",
+    "shipper_address": "05985 Watson Mews, Samuelview, IL 65051, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Ryan Industry GmbH",
+    "consignee_address": "5404 Laura Radial Apt. 959, Lake Wanda, IL 88175, Japan",
+    "consignee_country": "Japan",
+    "emergency_telephone": "+97 784-107-1870",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 50,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 8.88,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-282808",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 32,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 73.91,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Brandon Pham",
+    "signature_date": "2026-05-07",
+    "signature_place": "Switzerland",
+    "awb_number": "057-25380501",
+    "flight_number": "DL3032",
+    "flight_date": "2026-05-30",
+    "departure_airport_code": "LAX",
+    "departure_airport_name": "Los Angeles International",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International"
+  }
+}

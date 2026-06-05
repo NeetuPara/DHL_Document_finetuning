@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0911",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202311-2940",
+    "usppi_name": "Dorsey Global S.A.",
+    "usppi_address": "3458 Porter Isle, Lake Stanleybury, NV 61905, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "52-2609693",
+    "consignee_name": "Commerce Allen GmbH",
+    "consignee_address": "84156 Collins Circle Apt. 327, West Karentown, AL 14927, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Brown Industry Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Craig Lewis",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/2",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 174,
+        "unit": "PCS",
+        "weight_kg": 60.16,
+        "value_usd": 9488.89
+      },
+      {
+        "marks": "SLI/17",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 96,
+        "unit": "KGS",
+        "weight_kg": 96.0,
+        "value_usd": 77.7
+      },
+      {
+        "marks": "ABC/28",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 91,
+        "unit": "KGS",
+        "weight_kg": 91.0,
+        "value_usd": 1780.29
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 78,
+        "unit": "PCS",
+        "weight_kg": 10.24,
+        "value_usd": 2657.79
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 198,
+        "unit": "LTR",
+        "weight_kg": 202.52,
+        "value_usd": 4641.98
+      }
+    ],
+    "total_weight_kg": 459.92,
+    "total_value_usd": 18646.65,
+    "service": "Express Courier",
+    "named_port": "Miami International",
+    "insurance_value_usd": 43342.83,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-271984",
+    "destination_country": "Hong Kong"
+  }
+}

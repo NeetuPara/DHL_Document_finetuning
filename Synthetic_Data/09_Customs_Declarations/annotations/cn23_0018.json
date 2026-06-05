@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0018",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Carl Weber",
+    "addressee_company": "Global Hess GmbH",
+    "addressee_address": "984 Laura Wall, South Paula, WV 20569, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 2.456,
+    "total_value": 1697.0,
+    "currency": "GBP",
+    "issue_date": "2025-06-12",
+    "reference": "REF-137174",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.456,
+        "value": 1697.0,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_country": "Spain",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "749-59878182-2",
+    "entry_type": "Informal Entry",
+    "duty_rate": 23.5,
+    "estimated_duty": 398.8,
+    "importer_ein": "65-4042213",
+    "customs_broker": "Vargas International Pte Ltd"
+  }
+}

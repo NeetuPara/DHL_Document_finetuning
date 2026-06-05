@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0654",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-20523622",
+    "mawb_number": "125-99949986",
+    "shipper_name": "Nguyen Pacific LLC",
+    "shipper_address": "13212 Megan Ville Apt. 383, Port James, LA 98519, Belgium",
+    "consignee_name": "Tech Nelson Co.",
+    "consignee_address": "18422 Gutierrez Locks, South Johnland, PA 75751, United Kingdom",
+    "agent_name": "Williams Tech B.V.",
+    "airport_departure": "AMS",
+    "airport_destination": "ICN",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 20,
+    "gross_weight_kg": 324.6,
+    "chargeable_weight": 358.4,
+    "rate": 11.48,
+    "total_charge": 4114.43,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-06-18",
+    "signatory": "Vickie Pitts",
+    "iata_code": "43-597",
+    "agent_cass": "0410-8770",
+    "consolidation_ref": "CONS-1006-915043",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-15210642",
+        "pieces": 14,
+        "weight": 64.5,
+        "destination": "ORD",
+        "consignee": "International Doyle Inc.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "160-83772237",
+        "pieces": 5,
+        "weight": 42.2,
+        "destination": "AMS",
+        "consignee": "Warren Pacific S.A.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "045-70869051",
+        "pieces": 19,
+        "weight": 2.1,
+        "destination": "NRT",
+        "consignee": "Fields Industry Inc.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "045-86680600",
+        "pieces": 4,
+        "weight": 45.5,
+        "destination": "LHR",
+        "consignee": "White Commerce Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      }
+    ]
+  }
+}

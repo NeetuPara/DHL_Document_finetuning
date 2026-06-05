@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0198",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-82386588",
+    "mawb_number": "074-13119573",
+    "shipper_name": "Trade Hart LLC",
+    "shipper_address": "8063 Patricia Roads, Lake Lindachester, PR 29122, United Arab Emirates",
+    "consignee_name": "Industry Gomez LLC",
+    "consignee_address": "4700 Bush Shore, Mccormickville, AL 93390, Brazil",
+    "agent_name": "Knox Global Co.",
+    "airport_departure": "MIA",
+    "airport_destination": "DXB",
+    "currency": "CAD",
+    "charge_code": "CC",
+    "declared_value_carriage": "CHF 25,343.15",
+    "declared_value_customs": "NCV",
+    "n_pieces": 46,
+    "gross_weight_kg": 347.1,
+    "chargeable_weight": 387.6,
+    "rate": 9.87,
+    "total_charge": 3825.61,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "TEMP CONTROLLED: 2\u00b0C - 13\u00b0C",
+    "issue_date": "2026-04-10",
+    "signatory": "Nicholas Fuller",
+    "iata_code": "15-971",
+    "agent_cass": "0333-5081",
+    "consolidation_ref": "CONS-5758-067255",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-48956649",
+        "pieces": 20,
+        "weight": 78.0,
+        "destination": "NRT",
+        "consignee": "Shea Industry B.V.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "020-64743153",
+        "pieces": 2,
+        "weight": 57.0,
+        "destination": "FRA",
+        "consignee": "Tech Crosby S.A.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "045-13102352",
+        "pieces": 14,
+        "weight": 6.8,
+        "destination": "SYD",
+        "consignee": "Ayala Industry Co.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "160-87386665",
+        "pieces": 4,
+        "weight": 67.3,
+        "destination": "CDG",
+        "consignee": "Jones International Corp.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "618-21397878",
+        "pieces": 7,
+        "weight": 99.6,
+        "destination": "PVG",
+        "consignee": "Trade Shaw B.V.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "085-76420534",
+        "pieces": 13,
+        "weight": 26.8,
+        "destination": "PVG",
+        "consignee": "Commerce Wang GmbH",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "160-61978589",
+        "pieces": 16,
+        "weight": 5.8,
+        "destination": "HKG",
+        "consignee": "International Marshall LLC",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

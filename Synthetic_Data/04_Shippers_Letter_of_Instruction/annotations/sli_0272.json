@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0272",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202508-4416",
+    "usppi_name": "Thomas Pacific Ltd",
+    "usppi_address": "088 John Spur Suite 449, West Ashleyberg, MS 36314, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "23-4461789",
+    "consignee_name": "Reyes Trade GmbH",
+    "consignee_address": "69459 Cheryl Forges, Cohenberg, AR 79110, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Global Blake GmbH",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Christina Floyd",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/36",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 88,
+        "unit": "CTN",
+        "weight_kg": 254.27,
+        "value_usd": 6838.77
+      },
+      {
+        "marks": "SLI/10",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 75,
+        "unit": "MTR",
+        "weight_kg": 76.63,
+        "value_usd": 1307.15
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 129,
+        "unit": "PCS",
+        "weight_kg": 40.46,
+        "value_usd": 17850.29
+      },
+      {
+        "marks": "EXP/10",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 144,
+        "unit": "CTN",
+        "weight_kg": 77.33,
+        "value_usd": 1125.06
+      },
+      {
+        "marks": "ABC/46",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 52,
+        "unit": "PCS",
+        "weight_kg": 77.03,
+        "value_usd": 1701.3
+      },
+      {
+        "marks": "ABC/6",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 191,
+        "unit": "KGS",
+        "weight_kg": 191.0,
+        "value_usd": 3538.82
+      },
+      {
+        "marks": "SLI/29",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 118,
+        "unit": "PCS",
+        "weight_kg": 46.31,
+        "value_usd": 59179.88
+      }
+    ],
+    "total_weight_kg": 763.03,
+    "total_value_usd": 91541.27,
+    "service": "LCL Ocean",
+    "named_port": "Long Beach, US",
+    "insurance_value_usd": 47282.54,
+    "license_type": "Distributor License",
+    "license_number": "LIC-276815",
+    "destination_country": "Singapore"
+  }
+}

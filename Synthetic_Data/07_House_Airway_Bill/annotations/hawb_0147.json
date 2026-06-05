@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0147",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-97991636",
+    "mawb_number": "057-73072401",
+    "shipper_name": "Williamson Global Co.",
+    "shipper_address": "49116 Sara Terrace, Joelfurt, WI 54694, United States",
+    "consignee_name": "Global Waters S.A.",
+    "consignee_address": "604 Carmen Pine Suite 702, Port Pamelabury, LA 27574, India",
+    "agent_name": "Global Finley LLC",
+    "airport_departure": "LHR",
+    "airport_destination": "CDG",
+    "currency": "CNY",
+    "charge_code": "CC",
+    "declared_value_carriage": "USD 14,417.02",
+    "declared_value_customs": "SGD 46,308.22",
+    "n_pieces": 37,
+    "gross_weight_kg": 490.3,
+    "chargeable_weight": 589.8,
+    "rate": 9.13,
+    "total_charge": 5384.87,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-09-30",
+    "signatory": "Julie Allen DDS",
+    "iata_code": "74-245",
+    "agent_cass": "8523-4615",
+    "consolidation_ref": "CONS-1156-248678",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-20233354",
+        "pieces": 8,
+        "weight": 87.0,
+        "destination": "JFK",
+        "consignee": "Pacific Nguyen LLC",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "085-24023018",
+        "pieces": 3,
+        "weight": 20.0,
+        "destination": "LAX",
+        "consignee": "Reynolds Global Pte Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "020-67371785",
+        "pieces": 13,
+        "weight": 80.9,
+        "destination": "AMS",
+        "consignee": "Global Williams Pte Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "074-35867120",
+        "pieces": 5,
+        "weight": 4.9,
+        "destination": "ICN",
+        "consignee": "Commerce Nguyen Inc.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "045-87686257",
+        "pieces": 4,
+        "weight": 27.0,
+        "destination": "SYD",
+        "consignee": "Pacific Johnson Co.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "057-79509184",
+        "pieces": 11,
+        "weight": 8.6,
+        "destination": "LHR",
+        "consignee": "Carr Trade GmbH",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "006-47365286",
+        "pieces": 14,
+        "weight": 59.9,
+        "destination": "ICN",
+        "consignee": "Global Lopez GmbH",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "176-19584216",
+        "pieces": 2,
+        "weight": 6.4,
+        "destination": "LHR",
+        "consignee": "Trade Perez Inc.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

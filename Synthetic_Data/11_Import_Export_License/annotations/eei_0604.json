@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0604",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "537-21470162-4",
+    "entry_type": "01 - Free and Dutiable",
+    "entry_date": "2025-07-11",
+    "port_of_entry": "SFO - San Francisco",
+    "transport_mode": "Air",
+    "carrier": "FedEx",
+    "bl_awb": "085-82975791",
+    "importer_name": "Trade Lang AG",
+    "importer_ein": "54-3257187",
+    "consignee_name": "Global Nichols S.A.",
+    "customs_broker": "Taylor Global Ltd",
+    "broker_filer_code": "rje",
+    "country_of_origin": "Brazil",
+    "total_value": 176571.98,
+    "total_duty": 31941.03,
+    "currency": "CHF",
+    "signatory": "Joseph Peterson",
+    "signatory_title": "Trade Finance Manager",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Poland",
+        "qty": 439,
+        "unit": "CTN",
+        "entered_value": 156556.18,
+        "duty_rate": 20.3,
+        "duty_amount": 31780.9,
+        "eccn": "7A994",
+        "schedule_b": "9018.31.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Australia",
+        "qty": 140,
+        "unit": "KGS",
+        "entered_value": 20015.8,
+        "duty_rate": 0.8,
+        "duty_amount": 160.13,
+        "eccn": "2B350",
+        "schedule_b": "7208.37.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

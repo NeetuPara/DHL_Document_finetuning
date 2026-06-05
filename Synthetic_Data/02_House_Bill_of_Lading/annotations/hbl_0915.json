@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0915",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU867035507",
+    "shipper_name": "International Chavez Corp.",
+    "shipper_address": "504 Ashley Bridge, West Rebecca, WV 43827, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Industry Jones LLC",
+    "consignee_address": "0435 Peterson Expressway, New Kathy, ID 36924, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party_name": "West Tech Pte Ltd",
+    "notify_party_address": "745 Collins Stream Apt. 953, Loriberg, MD 31798, Belgium",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "581N",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2024-12-19",
+    "issue_place": "Antwerp",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "WFCT8360583",
+        "seal_no": "CL615587",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "ZFEE2054343",
+        "seal_no": "CL697627",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "VFLA9729195",
+        "seal_no": "SL480968",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "UKCL1678610",
+        "seal_no": "CL603144",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 440,
+    "package_type": "Crate",
+    "gross_weight_kg": 15906.0,
+    "net_weight_kg": 14563.5,
+    "cbm": 25.645,
+    "marks_and_numbers": "GLB/34"
+  }
+}

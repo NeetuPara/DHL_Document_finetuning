@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0069",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Franklin Green",
+    "addressee_company": "Benson Tech GmbH",
+    "addressee_address": "520 Perkins Club, Leonardburgh, WV 20580, Malaysia",
+    "addressee_country": "Malaysia",
+    "total_weight_kg": 7.698,
+    "total_value": 3284.62,
+    "currency": "CNY",
+    "issue_date": "2025-11-30",
+    "reference": "REF-753018",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.483,
+        "value": 1460.36,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 18,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.896,
+        "value": 1098.36,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 7,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 0.434,
+        "value": 315.28,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 7,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.885,
+        "value": 410.62,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_country": "Mexico",
+    "port_of_entry": "Los Angeles, CA",
+    "entry_number": "066-26109285-8",
+    "entry_type": "Informal Entry",
+    "duty_rate": 11.5,
+    "estimated_duty": 377.73,
+    "importer_ein": "84-5304835",
+    "customs_broker": "Tech Johnson Pte Ltd"
+  }
+}

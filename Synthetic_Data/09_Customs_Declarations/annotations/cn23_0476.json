@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0476",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Thomas Harris",
+    "addressee_company": "International Davis Pte Ltd",
+    "addressee_address": "833 Beth Neck, South Pamelaview, AR 36655, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 9.235,
+    "total_value": 1302.58,
+    "currency": "EUR",
+    "issue_date": "2026-03-19",
+    "reference": "REF-923245",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.702,
+        "value": 294.24,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 8,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.577,
+        "value": 914.16,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 2,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.956,
+        "value": 94.18,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_name": "Barbara Sellers",
+    "sender_company": "Trade Clark Ltd",
+    "sender_address": "42331 Kathleen Hill Apt. 694, Juliemouth, MI 03639, Hong Kong",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 26.51,
+    "tracking_number": "OI593631698VI"
+  }
+}

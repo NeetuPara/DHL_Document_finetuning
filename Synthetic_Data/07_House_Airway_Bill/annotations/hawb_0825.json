@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0825",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-11297631",
+    "mawb_number": "618-87824688",
+    "shipper_name": "Smith Tech Corp.",
+    "shipper_address": "5067 Barber Lakes, New Elizabethmouth, NV 84011, Poland",
+    "consignee_name": "International Pena B.V.",
+    "consignee_address": "2940 Timothy Throughway, Parkstad, AK 96156, Australia",
+    "agent_name": "Lamb Industry Co.",
+    "airport_departure": "ORD",
+    "airport_destination": "PVG",
+    "currency": "GBP",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CHF 40,819.24",
+    "n_pieces": 22,
+    "gross_weight_kg": 209.1,
+    "chargeable_weight": 262.9,
+    "rate": 4.55,
+    "total_charge": 1196.19,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "TEMP CONTROLLED: 2\u00b0C - 15\u00b0C",
+    "issue_date": "2026-02-16",
+    "signatory": "Kenneth Small MD",
+    "iata_code": "94-170",
+    "agent_cass": "6473-9928",
+    "consolidation_ref": "CONS-3121-432688",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-84034890",
+        "pieces": 9,
+        "weight": 14.5,
+        "destination": "NRT",
+        "consignee": "Commerce Turner Inc.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "057-92533874",
+        "pieces": 9,
+        "weight": 86.1,
+        "destination": "JFK",
+        "consignee": "Hart Commerce Corp.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "618-45819153",
+        "pieces": 19,
+        "weight": 12.4,
+        "destination": "NRT",
+        "consignee": "Garcia Industry Pte Ltd",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "020-70335392",
+        "pieces": 2,
+        "weight": 36.1,
+        "destination": "DXB",
+        "consignee": "Trade Holt Pte Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "618-47295624",
+        "pieces": 8,
+        "weight": 95.4,
+        "destination": "JFK",
+        "consignee": "Snyder International B.V.",
+        "description": "Industrial Machinery Parts - Steel "
+      }
+    ]
+  }
+}

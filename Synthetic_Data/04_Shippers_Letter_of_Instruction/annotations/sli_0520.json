@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0520",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202605-2969",
+    "usppi_name": "Mata Tech Ltd",
+    "usppi_address": "1879 Farmer Orchard, South Jennifer, HI 97171, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "92-6844708",
+    "consignee_name": "Pacific Shepherd B.V.",
+    "consignee_address": "839 Lambert Light, Mendozaview, PW 62899, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Trade Butler Co.",
+    "forwarder": "Expeditors",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5A002",
+    "signatory_name": "Cassandra Golden",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/14",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 129,
+        "unit": "BOX",
+        "weight_kg": 106.5,
+        "value_usd": 14215.66
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 49,
+        "unit": "PCS",
+        "weight_kg": 42.9,
+        "value_usd": 1687.11
+      }
+    ],
+    "total_weight_kg": 149.4,
+    "total_value_usd": 15902.77,
+    "service": "LCL Ocean",
+    "named_port": "New York, US",
+    "insurance_value_usd": 16351.22,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-895373",
+    "destination_country": "Japan"
+  }
+}

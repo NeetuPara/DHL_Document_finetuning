@@ -1,0 +1,103 @@
+{
+  "document_id": "eei_0410",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20200107957132",
+    "export_date": "2026-02-17",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "International Vasquez B.V.",
+    "usppi_ein": "20-4812296",
+    "usppi_address": "679 Samuel Vista, West Dawnberg, DC 69110, Switzerland",
+    "ultimate_consignee": "Morris Commerce LLC",
+    "intermediate_consignee": "Davis International Co.",
+    "forwarding_agent": "Thomas Industry Pte Ltd",
+    "destination_country": "Japan",
+    "carrier": "UPS",
+    "bl_awb": "045-84365151",
+    "total_value": 417545.66,
+    "currency": "JPY",
+    "signatory": "Mathew Martin",
+    "line_items": [
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Mexico",
+        "qty": 388,
+        "unit": "PCS",
+        "entered_value": 61168.2,
+        "duty_rate": 2.6,
+        "duty_amount": 1590.37,
+        "eccn": "1A002",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Singapore",
+        "qty": 285,
+        "unit": "BOX",
+        "entered_value": 112720.35,
+        "duty_rate": 18.2,
+        "duty_amount": 20515.1,
+        "eccn": "EAR99",
+        "schedule_b": "2936.90.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 454,
+        "unit": "PCS",
+        "entered_value": 132272.9,
+        "duty_rate": 19.0,
+        "duty_amount": 25131.85,
+        "eccn": "1A002",
+        "schedule_b": "3926.90.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Malaysia",
+        "qty": 63,
+        "unit": "PKG",
+        "entered_value": 2736.09,
+        "duty_rate": 11.7,
+        "duty_amount": 320.12,
+        "eccn": "1A002",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "United Kingdom",
+        "qty": 136,
+        "unit": "KGS",
+        "entered_value": 47221.92,
+        "duty_rate": 17.9,
+        "duty_amount": 8452.72,
+        "eccn": "0A919",
+        "schedule_b": "7208.37.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Singapore",
+        "qty": 220,
+        "unit": "BOX",
+        "entered_value": 61426.2,
+        "duty_rate": 20.5,
+        "duty_amount": 12592.37,
+        "eccn": "0A919",
+        "schedule_b": "2936.90.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

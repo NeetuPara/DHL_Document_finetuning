@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0231",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202004-5447",
+    "usppi_name": "Tech Rhodes Co.",
+    "usppi_address": "3214 Benson Trail, Lake Madison, MD 44386, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "73-7776072",
+    "consignee_name": "Perez Trade Pte Ltd",
+    "consignee_address": "13400 Barbara Drive Apt. 825, Julieville, PW 14850, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Tech Sparks Co.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Denise Martinez",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/5",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 194,
+        "unit": "LTR",
+        "weight_kg": 189.75,
+        "value_usd": 2418.95
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 138,
+        "unit": "SET",
+        "weight_kg": 145.88,
+        "value_usd": 20389.86
+      }
+    ],
+    "total_weight_kg": 335.63,
+    "total_value_usd": 22808.81,
+    "vessel": "PIL PACIFIC",
+    "voyage": "274W",
+    "booking_ref": "BKG-151299",
+    "bl_number": "EGLV379205674",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Tokyo, JP",
+    "container_number": "BKOR2079231",
+    "seal_number": "SL679584",
+    "container_type": "40'GP",
+    "cbm": 16.824
+  }
+}

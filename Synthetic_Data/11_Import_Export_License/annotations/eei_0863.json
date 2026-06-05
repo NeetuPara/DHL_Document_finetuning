@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0863",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20221010266192",
+    "export_date": "2026-04-05",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Preston Trade Ltd",
+    "usppi_ein": "14-5149109",
+    "usppi_address": "7433 Humphrey Drive, Andrewhaven, OH 98545, United Arab Emirates",
+    "ultimate_consignee": "Khan Pacific Co.",
+    "intermediate_consignee": "International Kelley AG",
+    "forwarding_agent": "Blake Pacific LLC",
+    "destination_country": "Canada",
+    "carrier": "FedEx",
+    "bl_awb": "618-67180379",
+    "total_value": 296370.22,
+    "currency": "SGD",
+    "signatory": "Mrs. Tasha Rubio",
+    "line_items": [
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Australia",
+        "qty": 306,
+        "unit": "CTN",
+        "entered_value": 144055.62,
+        "duty_rate": 20.0,
+        "duty_amount": 28811.12,
+        "eccn": "2B350",
+        "schedule_b": "4819.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Sweden",
+        "qty": 398,
+        "unit": "PCS",
+        "entered_value": 152314.6,
+        "duty_rate": 4.5,
+        "duty_amount": 6854.16,
+        "eccn": "2B350",
+        "schedule_b": "3926.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

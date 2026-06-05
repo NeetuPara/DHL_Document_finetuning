@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0999",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG545956620",
+    "shipper_name": "Reed Trade Corp.",
+    "shipper_address": "62369 Martin Road Suite 130, Markbury, FL 79393, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Tech Kent S.A.",
+    "consignee_address": "945 Lucas Stream, Lake Renee, OR 05364, Italy",
+    "consignee_country": "Italy",
+    "notify_party_name": "Duncan Commerce AG",
+    "notify_party_address": "9200 Ortiz Fall Apt. 184, New Bethany, OR 42385, Netherlands",
+    "vessel": "CSCL GLOBE",
+    "voyage": "654S",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2024-09-14",
+    "issue_place": "Tokyo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "SQUR4566169",
+        "seal_no": "BL230785",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "QKGY4843194",
+        "seal_no": "CL592218",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "QVLA1114916",
+        "seal_no": "SL667341",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 414,
+    "package_type": "Bag",
+    "gross_weight_kg": 13464.5,
+    "net_weight_kg": 12389.3,
+    "cbm": 14.01,
+    "marks_and_numbers": "XYZ/45"
+  }
+}

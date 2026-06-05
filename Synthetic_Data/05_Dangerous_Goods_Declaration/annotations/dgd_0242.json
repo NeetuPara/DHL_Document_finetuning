@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0242",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Bryant B.V.",
+    "shipper_address": "35615 Jon Forges, South Kimberlyburgh, IN 02712, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Jones Industry B.V.",
+    "consignee_address": "51961 Schneider Gardens Apt. 305, Lake Sergiofort, MD 70331, Brazil",
+    "consignee_country": "Brazil",
+    "emergency_telephone": "+49 644-528-6125",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 37,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 81.25,
+        "qty_unit": "L",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-807116",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 32,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 47.74,
+        "qty_unit": "mL",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-805233",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Andrew Calhoun MD",
+    "signature_date": "2026-05-13",
+    "signature_place": "Japan",
+    "vessel": "PIL PACIFIC",
+    "voyage": "561W",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Shanghai, CN"
+  }
+}

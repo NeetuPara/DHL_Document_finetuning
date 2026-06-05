@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0488",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Green Trade LLC",
+    "shipper_address": "847 Garcia Greens, Underwoodshire, WI 62149, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Tech Hall S.A.",
+    "consignee_address": "3371 Moore Knolls Suite 993, Janetshire, VT 46679, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+61 305-179-1322",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 37,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 87.82,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Stephen Munoz",
+    "signature_date": "2026-05-11",
+    "signature_place": "United States",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "393N",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Busan, KR"
+  }
+}

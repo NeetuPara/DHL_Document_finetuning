@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0629",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU167287987",
+    "shipper_name": "Tech Rios Inc.",
+    "shipper_address": "80076 Roger Cove, Arnoldside, PR 29709, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Hale Trade Pte Ltd",
+    "consignee_address": "007 Rhonda Crossing Suite 193, Snyderfurt, MS 42956, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party_name": "Watson Industry B.V.",
+    "notify_party_address": "431 Elizabeth Land Suite 109, East Yvonne, MS 13742, Spain",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "353W",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Felixstowe, GB",
+    "place_of_receipt": "Tanjung Pelepas, MY",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2024-08-10",
+    "issue_place": "Busan",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "KJZF8624536",
+        "seal_no": "BL158999",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "VVXR2286138",
+        "seal_no": "BL472291",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "RTKQ7379899",
+        "seal_no": "CL350507",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 493,
+    "package_type": "Pallet",
+    "gross_weight_kg": 23296.0,
+    "net_weight_kg": 21349.0,
+    "cbm": 45.187,
+    "marks_and_numbers": "XYZ/12"
+  }
+}

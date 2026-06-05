@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0775",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG402613930",
+    "shipper_name": "Commerce Molina B.V.",
+    "shipper_address": "05715 Lisa Shore, Eileenhaven, VT 18517, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Ellis Global AG",
+    "consignee_address": "5469 Anthony Radial Suite 243, East Mollyside, CO 48906, Germany",
+    "consignee_country": "Germany",
+    "notify_party_name": "Global Bell AG",
+    "notify_party_address": "42105 Gibson Court Suite 972, Williamston, AR 22742, Sweden",
+    "vessel": "MSC OSCAR",
+    "voyage": "547E",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2024-05-16",
+    "issue_place": "Hamburg",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "LZGC0043520",
+        "seal_no": "SL272439",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "DADT7591148",
+        "seal_no": "CL774889",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "DEXP9369095",
+        "seal_no": "BL740390",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "DZYC8362959",
+        "seal_no": "SL825096",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 402,
+    "package_type": "Bag",
+    "gross_weight_kg": 16901.7,
+    "net_weight_kg": 16257.8,
+    "cbm": 29.436,
+    "marks_and_numbers": "ABC/31"
+  }
+}

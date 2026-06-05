@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0393",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-28052822",
+    "mawb_number": "074-39388771",
+    "shipper_name": "Global Smith GmbH",
+    "shipper_address": "PSC 9401, Box 7857, APO AE 83948, United Kingdom",
+    "consignee_name": "International Moss Pte Ltd",
+    "consignee_address": "939 Underwood Causeway, East Carlos, MO 96474, India",
+    "agent_name": "Fisher Pacific Co.",
+    "airport_departure": "NRT",
+    "airport_destination": "CDG",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "CHF 7,665.85",
+    "declared_value_customs": "NCV",
+    "n_pieces": 45,
+    "gross_weight_kg": 173.1,
+    "chargeable_weight": 199.9,
+    "rate": 1.82,
+    "total_charge": 363.82,
+    "nature_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-06-30",
+    "signatory": "Patrick Gordon",
+    "iata_code": "06-379",
+    "agent_cass": "9116-0795",
+    "consolidation_ref": "CONS-1074-955133",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-57430775",
+        "pieces": 13,
+        "weight": 35.1,
+        "destination": "JFK",
+        "consignee": "Nicholson International Corp.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "618-74959330",
+        "pieces": 4,
+        "weight": 21.3,
+        "destination": "SYD",
+        "consignee": "International Collins Corp.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "020-33865286",
+        "pieces": 20,
+        "weight": 84.7,
+        "destination": "LAX",
+        "consignee": "Myers Pacific Corp.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "006-44090734",
+        "pieces": 1,
+        "weight": 30.6,
+        "destination": "SYD",
+        "consignee": "Miller Pacific Co.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "006-23711804",
+        "pieces": 19,
+        "weight": 59.8,
+        "destination": "YYZ",
+        "consignee": "Kelly International LLC",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0061",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU275574571",
+    "shipper_name": "Walker Commerce LLC",
+    "shipper_address": "2956 David Landing, South David, WI 57080, India",
+    "shipper_country": "India",
+    "consignee_name": "Jones Tech GmbH",
+    "consignee_address": "09897 Scott Loop Apt. 602, Garystad, ID 47543, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party_name": "Industry Turner Co.",
+    "notify_party_address": "73750 Jennifer Keys, Aprilside, UT 23171, Australia",
+    "vessel": "PIL PACIFIC",
+    "voyage": "956W",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2024-06-06",
+    "issue_place": "Qingdao",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "GOBP5075738",
+        "seal_no": "SL224711",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "WFCJ9685140",
+        "seal_no": "SL236392",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "BRXJ7086294",
+        "seal_no": "CL713602",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "EIVB1511747",
+        "seal_no": "CL716405",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 217,
+    "package_type": "Pallet",
+    "gross_weight_kg": 5346.9,
+    "net_weight_kg": 4823.7,
+    "cbm": 11.301,
+    "marks_and_numbers": "GLB/47"
+  }
+}

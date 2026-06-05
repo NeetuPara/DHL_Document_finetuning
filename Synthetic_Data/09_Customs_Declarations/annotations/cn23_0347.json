@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0347",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kirk Hinton",
+    "addressee_company": "Tech Matthews Pte Ltd",
+    "addressee_address": "925 Cody Mews, Lisafort, KY 38120, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 4.705,
+    "total_value": 20.22,
+    "currency": "EUR",
+    "issue_date": "2026-03-08",
+    "reference": "REF-767286",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.705,
+        "value": 20.22,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Hannah Ramos",
+    "sender_company": "Pacific Moore Co.",
+    "sender_address": "278 Tran Mill, Amberside, GA 30269, Hong Kong",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 39.4,
+    "tracking_number": "IK235178705FI"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0782",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Michael Williams",
+    "addressee_company": "Vance Commerce Pte Ltd",
+    "addressee_address": "5388 Sydney Prairie Apt. 995, Karenborough, OK 43625, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 0.155,
+    "total_value": 1701.42,
+    "currency": "GBP",
+    "issue_date": "2025-08-15",
+    "reference": "REF-317439",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.155,
+        "value": 1701.42,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "Matthew Mcdonald",
+    "sender_company": "Lane Trade Pte Ltd",
+    "sender_address": "7812 Hopkins Corners, Theresafurt, WI 04152, United Arab Emirates",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 28.65,
+    "tracking_number": "XO774282209ZH"
+  }
+}

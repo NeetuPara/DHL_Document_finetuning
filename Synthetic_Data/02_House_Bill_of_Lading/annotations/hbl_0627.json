@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0627",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG248123764",
+    "shipper_name": "Burch Trade B.V.",
+    "shipper_address": "971 Lisa Shores Suite 849, Grayborough, RI 26610, China",
+    "shipper_country": "China",
+    "consignee_name": "Global Ferrell LLC",
+    "consignee_address": "51529 Mann Bypass Suite 716, Robertsberg, DE 47548, India",
+    "consignee_country": "India",
+    "notify_party_name": "Commerce Bullock Ltd",
+    "notify_party_address": "70939 Garcia Neck Apt. 946, East Gregory, RI 06932, Malaysia",
+    "vessel": "EVER GOLDEN",
+    "voyage": "208E",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2024-09-20",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "FXUX0952894",
+        "seal_no": "BL863734",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "MAVP1939673",
+        "seal_no": "BL386520",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "LCJK1720168",
+        "seal_no": "BL931886",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "AYIR2076432",
+        "seal_no": "BL370298",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "number_of_packages": 57,
+    "package_type": "Crate",
+    "gross_weight_kg": 22692.2,
+    "net_weight_kg": 20951.7,
+    "cbm": 3.191,
+    "marks_and_numbers": "ABC/13"
+  }
+}

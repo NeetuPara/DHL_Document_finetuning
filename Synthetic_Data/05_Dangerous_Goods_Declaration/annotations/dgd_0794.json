@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0794",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Bartlett International B.V.",
+    "shipper_address": "9684 Whitney Mountain Suite 726, Lake Todd, AR 34501, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Moyer Tech Corp.",
+    "consignee_address": "Unit 8062 Box 2544, DPO AE 17607, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+22 462-442-9170",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 33,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 53.04,
+        "qty_unit": "mL",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 47,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 57.74,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Mary Hatfield",
+    "signature_date": "2026-05-09",
+    "signature_place": "Belgium",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "428W",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Singapore, SG"
+  }
+}

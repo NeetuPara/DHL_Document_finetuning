@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0423",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU979133171",
+    "shipper_name": "Tech Thomas GmbH",
+    "shipper_address": "15639 Williams Center Suite 257, South Jose, RI 22971, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Parker Trade AG",
+    "consignee_address": "775 Stacy Run, West Courtneyshire, CO 84952, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party_name": "Kirby Pacific Pte Ltd",
+    "notify_party_address": "PSC 8223, Box 3094, APO AE 56798, Germany",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "987S",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2026-01-31",
+    "issue_place": "Busan",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "IAVU3825797",
+        "seal_no": "SL124660",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "AKNQ1575068",
+        "seal_no": "SL281758",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 290,
+    "package_type": "Carton",
+    "gross_weight_kg": 14989.6,
+    "net_weight_kg": 14312.8,
+    "cbm": 15.046,
+    "marks_and_numbers": "ABC/10"
+  }
+}

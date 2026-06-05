@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0153",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Johnson S.A.",
+    "shipper_address": "720 Frederick Mountains Apt. 234, Whitefort, MN 14712, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "International Griffin GmbH",
+    "consignee_address": "550 Singleton Points Suite 470, Ryanmouth, MA 35658, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+20 238-611-8959",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 13,
+        "pkg_type": "Steel Drum",
+        "net_qty": 35.06,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-399148",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Alyssa Mcdowell",
+    "signature_date": "2026-05-13",
+    "signature_place": "Germany",
+    "awb_number": "160-26502658",
+    "flight_number": "LH7078",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

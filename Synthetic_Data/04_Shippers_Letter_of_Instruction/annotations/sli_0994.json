@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0994",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202005-4365",
+    "usppi_name": "Cox Tech Co.",
+    "usppi_address": "20203 Anne Lodge, West Davidton, WY 42733, France",
+    "usppi_country": "France",
+    "ein": "49-2441038",
+    "consignee_name": "Global Barron Corp.",
+    "consignee_address": "PSC 0366, Box 6651, APO AP 21171, United States",
+    "consignee_country": "United States",
+    "notify_party": "Trade Parker AG",
+    "forwarder": "DB Schenker",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Joseph Johnson",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/5",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 109,
+        "unit": "BOX",
+        "weight_kg": 153.27,
+        "value_usd": 12177.87
+      },
+      {
+        "marks": "SLI/9",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 84,
+        "unit": "PCS",
+        "weight_kg": 108.04,
+        "value_usd": 653.26
+      },
+      {
+        "marks": "ABC/11",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 138,
+        "unit": "KGS",
+        "weight_kg": 138.0,
+        "value_usd": 244.9
+      }
+    ],
+    "total_weight_kg": 399.31,
+    "total_value_usd": 13076.03,
+    "service": "LCL Ocean",
+    "named_port": "Singapore, SG",
+    "insurance_value_usd": 36456.37,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-235637",
+    "destination_country": "United States"
+  }
+}

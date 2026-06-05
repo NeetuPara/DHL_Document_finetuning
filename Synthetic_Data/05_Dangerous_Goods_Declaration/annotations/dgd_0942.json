@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0942",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Hardy Co.",
+    "shipper_address": "2055 Knight Divide Suite 570, Loganburgh, CA 83751, India",
+    "shipper_country": "India",
+    "consignee_name": "Industry Riggs B.V.",
+    "consignee_address": "USNS Phillips, FPO AP 80733, Belgium",
+    "consignee_country": "Belgium",
+    "emergency_telephone": "+34 469-532-1536",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 32,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 52.21,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-992490",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 1,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 80.87,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Lisa Ortega",
+    "signature_date": "2026-05-08",
+    "signature_place": "India",
+    "awb_number": "160-44557603",
+    "flight_number": "LH2977",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

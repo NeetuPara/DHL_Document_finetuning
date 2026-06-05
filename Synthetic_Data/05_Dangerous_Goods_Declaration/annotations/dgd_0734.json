@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0734",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Knox Tech Corp.",
+    "shipper_address": "50877 Erica Pines Apt. 586, Albertchester, DE 15158, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Ross Tech Corp.",
+    "consignee_address": "672 Welch Crest, North Alexandrafurt, VT 24817, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+93 344-479-1593",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 28,
+        "pkg_type": "Steel Drum",
+        "net_qty": 79.73,
+        "qty_unit": "L",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Linda Long",
+    "signature_date": "2026-05-05",
+    "signature_place": "Netherlands",
+    "vessel": "ONE INNOVATION",
+    "voyage": "117N",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Hamburg, DE"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0272",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jose Smith",
+    "addressee_company": "Industry Hill S.A.",
+    "addressee_address": "2296 Bartlett Dale Apt. 814, Smithport, TN 83982, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 11.154,
+    "total_value": 6064.26,
+    "currency": "GBP",
+    "issue_date": "2025-09-29",
+    "reference": "REF-323713",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.071,
+        "value": 42.96,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 17,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.973,
+        "value": 2460.58,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 10,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.977,
+        "value": 906.0,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 18,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.863,
+        "value": 1836.0,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 7,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.27,
+        "value": 818.72,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Lauren Wolf",
+    "sender_company": "Industry Mayer Inc.",
+    "sender_address": "28570 Nathan Parkway, Lake Priscillachester, MS 48786, Thailand",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 6670.69,
+    "postal_charges": 62.23,
+    "tracking_number": "YC420396062UJ"
+  }
+}

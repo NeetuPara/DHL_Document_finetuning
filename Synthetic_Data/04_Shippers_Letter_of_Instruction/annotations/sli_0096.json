@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0096",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202405-6632",
+    "usppi_name": "Cannon Tech LLC",
+    "usppi_address": "398 Jones Row Apt. 187, Churchside, DC 53845, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "35-1858117",
+    "consignee_name": "Industry Torres Co.",
+    "consignee_address": "PSC 8517, Box 7127, APO AP 91727, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Pacific Berger S.A.",
+    "forwarder": "Expeditors",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5A002",
+    "signatory_name": "Ashley Tran",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/50",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 141,
+        "unit": "PCS",
+        "weight_kg": 1962.4,
+        "value_usd": 59964.46
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 179,
+        "unit": "BOX",
+        "weight_kg": 176.34,
+        "value_usd": 13075.83
+      },
+      {
+        "marks": "ABC/25",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 198,
+        "unit": "CTN",
+        "weight_kg": 433.69,
+        "value_usd": 2950.33
+      },
+      {
+        "marks": "ABC/50",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 170,
+        "unit": "PCS",
+        "weight_kg": 3266.53,
+        "value_usd": 43401.04
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 12,
+        "unit": "MTR",
+        "weight_kg": 11.69,
+        "value_usd": 191.44
+      },
+      {
+        "marks": "SLI/8",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 58,
+        "unit": "PCS",
+        "weight_kg": 8.24,
+        "value_usd": 2759.12
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 139,
+        "unit": "PCS",
+        "weight_kg": 45.27,
+        "value_usd": 177360.13
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 107,
+        "unit": "PCS",
+        "weight_kg": 21.54,
+        "value_usd": 3566.92
+      }
+    ],
+    "total_weight_kg": 5925.7,
+    "total_value_usd": 303269.27,
+    "vessel": "MSC OSCAR",
+    "voyage": "719W",
+    "booking_ref": "BKG-664141",
+    "bl_number": "OOLU132001044",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Felixstowe, GB",
+    "container_number": "SDAJ2605611",
+    "seal_number": "BL855767",
+    "container_type": "20'GP",
+    "cbm": 38.949
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0451",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "George Baldwin",
+    "addressee_company": "Tech White GmbH",
+    "addressee_address": "01296 Dennis Orchard, West Jessica, KS 18203, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 3.737,
+    "total_value": 1461.71,
+    "currency": "AUD",
+    "issue_date": "2025-12-03",
+    "reference": "REF-633578",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.021,
+        "value": 177.69,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 19,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.716,
+        "value": 1284.02,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_name": "Joseph Vazquez",
+    "sender_company": "Turner Tech GmbH",
+    "sender_address": "911 Justin Cliffs, Crossland, AL 82222, Italy",
+    "sender_phone": "(778)993-4154x62250",
+    "sender_email": "patrick33@example.com",
+    "addressee_phone": "533-296-4356x037",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 1607.88,
+    "postal_charges": 16.53,
+    "tracking_number": "PJ710199205LD"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0590",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Lara Pte Ltd",
+    "shipper_address": "83327 Clark Gateway, Martinezfort, NH 62245, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Johnson Pacific Pte Ltd",
+    "consignee_address": "PSC 6433, Box 0890, APO AA 46791, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+25 698-426-1561",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 45,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 65.62,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Sandra Sanders",
+    "signature_date": "2026-05-08",
+    "signature_place": "South Korea",
+    "vessel": "YANG MING MYTH",
+    "voyage": "953N",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Busan, KR"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0207",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jonathan Tapia",
+    "addressee_company": "Global Roberts Corp.",
+    "addressee_address": "506 Foster Cliff, South Jamesshire, AK 45411, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 12.334,
+    "total_value": 3750.76,
+    "currency": "CNY",
+    "issue_date": "2026-04-26",
+    "reference": "REF-316543",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.686,
+        "value": 489.04,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 8,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.775,
+        "value": 142.0,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 20,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.614,
+        "value": 1973.8,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 8,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.259,
+        "value": 1145.92,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_country": "Brazil",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "838-30488985-0",
+    "entry_type": "Informal Entry",
+    "duty_rate": 15.2,
+    "estimated_duty": 570.12,
+    "importer_ein": "84-9727625",
+    "customs_broker": "Miller Commerce Inc."
+  }
+}

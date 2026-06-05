@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0457",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Nicole Martin",
+    "addressee_company": "Williams Tech Ltd",
+    "addressee_address": "928 James Harbors, West Zachary, IL 22878, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 8.869,
+    "total_value": 1974.56,
+    "currency": "CNY",
+    "issue_date": "2025-06-14",
+    "reference": "REF-026855",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.378,
+        "value": 1002.0,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 2,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.516,
+        "value": 236.08,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 8,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.975,
+        "value": 736.48,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "Javier Rivas",
+    "sender_company": "Martin Pacific Pte Ltd",
+    "sender_address": "131 Matthew Loop Apt. 233, North Christopher, NJ 32431, India",
+    "sender_phone": "(585)336-5511x4871",
+    "sender_email": "lhood@example.net",
+    "addressee_phone": "4585205938",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 2172.02,
+    "postal_charges": 42.34,
+    "tracking_number": "KX300844491BP"
+  }
+}

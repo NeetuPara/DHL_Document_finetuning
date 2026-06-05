@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0819",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-50179804",
+    "mawb_number": "125-67742537",
+    "shipper_name": "Industry Mcguire Inc.",
+    "shipper_address": "0068 Galvan Views Apt. 232, New Markmouth, MP 97133, Germany",
+    "consignee_name": "Macias Global Inc.",
+    "consignee_address": "87262 Warren Way, North Johnborough, AR 79336, Thailand",
+    "agent_name": "Trade Davis Co.",
+    "airport_departure": "MIA",
+    "airport_destination": "PVG",
+    "currency": "USD",
+    "charge_code": "CC",
+    "declared_value_carriage": "GBP 851.78",
+    "declared_value_customs": "NCV",
+    "n_pieces": 42,
+    "gross_weight_kg": 354.0,
+    "chargeable_weight": 370.9,
+    "rate": 1.94,
+    "total_charge": 719.55,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-06-09",
+    "signatory": "Kenneth George",
+    "iata_code": "81-785",
+    "agent_cass": "5807-5000",
+    "consolidation_ref": "CONS-6420-109486",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-72242444",
+        "pieces": 5,
+        "weight": 31.3,
+        "destination": "PVG",
+        "consignee": "Thompson Trade AG",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "074-94454174",
+        "pieces": 16,
+        "weight": 34.3,
+        "destination": "DXB",
+        "consignee": "Clark Industry Inc.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "618-62125994",
+        "pieces": 13,
+        "weight": 10.0,
+        "destination": "ORD",
+        "consignee": "Global Gardner Inc.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "045-96564527",
+        "pieces": 10,
+        "weight": 6.3,
+        "destination": "YYZ",
+        "consignee": "Pacific Pearson S.A.",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

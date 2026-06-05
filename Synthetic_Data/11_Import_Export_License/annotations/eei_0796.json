@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0796",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "550-11081779-0",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2025-10-07",
+    "port_of_entry": "SEA - Seattle",
+    "transport_mode": "Air",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "074-42354237",
+    "importer_name": "Industry Phillips GmbH",
+    "importer_ein": "89-8885049",
+    "consignee_name": "Hoffman Global Inc.",
+    "customs_broker": "Jackson Global Inc.",
+    "broker_filer_code": "xaM",
+    "country_of_origin": "Japan",
+    "total_value": 491291.54,
+    "total_duty": 63336.94,
+    "currency": "JPY",
+    "signatory": "Benjamin Potter",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Spain",
+        "qty": 317,
+        "unit": "PCS",
+        "entered_value": 93071.2,
+        "duty_rate": 23.8,
+        "duty_amount": 22150.95,
+        "eccn": "7A994",
+        "schedule_b": "8483.40.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "India",
+        "qty": 497,
+        "unit": "PKG",
+        "entered_value": 223242.46,
+        "duty_rate": 3.9,
+        "duty_amount": 8706.46,
+        "eccn": "EAR99",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Thailand",
+        "qty": 249,
+        "unit": "PKG",
+        "entered_value": 91497.54,
+        "duty_rate": 18.2,
+        "duty_amount": 16652.55,
+        "eccn": "1A002",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Hong Kong",
+        "qty": 282,
+        "unit": "CTN",
+        "entered_value": 58055.34,
+        "duty_rate": 21.7,
+        "duty_amount": 12598.01,
+        "eccn": "3A992",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Germany",
+        "qty": 226,
+        "unit": "CTN",
+        "entered_value": 25425.0,
+        "duty_rate": 12.7,
+        "duty_amount": 3228.97,
+        "eccn": "7A994",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

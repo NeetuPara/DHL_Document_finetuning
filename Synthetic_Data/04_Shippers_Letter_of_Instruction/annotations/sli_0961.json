@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0961",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202009-9617",
+    "usppi_name": "Caldwell Tech Inc.",
+    "usppi_address": "427 Daniel Drive Suite 887, Zavalaton, WY 16265, Poland",
+    "usppi_country": "Poland",
+    "ein": "49-5374720",
+    "consignee_name": "Pacific Warren Pte Ltd",
+    "consignee_address": "784 Pena Overpass, Joelbury, FL 98127, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "International Garcia Pte Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Emily Roberts",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/17",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 130,
+        "unit": "CTN",
+        "weight_kg": 529.63,
+        "value_usd": 9512.7
+      },
+      {
+        "marks": "EXP/3",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 25,
+        "unit": "PCS",
+        "weight_kg": 9.83,
+        "value_usd": 53.34
+      }
+    ],
+    "total_weight_kg": 539.46,
+    "total_value_usd": 9566.04,
+    "service": "LCL Ocean",
+    "named_port": "Colombo, LK",
+    "insurance_value_usd": 3546.31,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-115590",
+    "destination_country": "Belgium"
+  }
+}

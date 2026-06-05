@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0382",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG813297860",
+    "shipper_name": "Garrett International LLC",
+    "shipper_address": "02520 Margaret Orchard Apt. 033, Port Vincentstad, FM 43844, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "International Larson LLC",
+    "consignee_address": "5357 Miller Landing Suite 552, Jamesberg, FL 86068, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party_name": "Anderson Pacific Inc.",
+    "notify_party_address": "029 Wolfe Corners, South Deborah, NY 72416, India",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "334W",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Qingdao, CN",
+    "issue_date": "2024-06-01",
+    "issue_place": "Shanghai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "JKZZ9733800",
+        "seal_no": "CL235589",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "OZCI2179111",
+        "seal_no": "BL428680",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "XBBJ6896354",
+        "seal_no": "BL246798",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "MUCY1020563",
+        "seal_no": "SL945640",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 51,
+    "package_type": "Bundle",
+    "gross_weight_kg": 9716.5,
+    "net_weight_kg": 8911.6,
+    "cbm": 5.764,
+    "marks_and_numbers": "GLB/6"
+  }
+}

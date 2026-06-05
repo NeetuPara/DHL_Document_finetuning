@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0583",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202504-8467",
+    "usppi_name": "International Collins Pte Ltd",
+    "usppi_address": "9994 Horton Light Apt. 896, Port Carolynshire, PR 30808, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "43-5920622",
+    "consignee_name": "Tech Myers Corp.",
+    "consignee_address": "PSC 9498, Box 0154, APO AP 09212, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Rodriguez Industry Inc.",
+    "forwarder": "DB Schenker",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Benjamin Howard",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/12",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 66,
+        "unit": "BOX",
+        "weight_kg": 27.93,
+        "value_usd": 4190.51
+      },
+      {
+        "marks": "EXP/12",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 159,
+        "unit": "PCS",
+        "weight_kg": 1263.81,
+        "value_usd": 13706.07
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 77,
+        "unit": "KGS",
+        "weight_kg": 77.0,
+        "value_usd": 74.25
+      },
+      {
+        "marks": "EXP/17",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 146,
+        "unit": "PCS",
+        "weight_kg": 2965.1,
+        "value_usd": 24001.21
+      }
+    ],
+    "total_weight_kg": 4333.84,
+    "total_value_usd": 41972.04,
+    "service": "Express Courier",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 19417.78,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Switzerland"
+  }
+}

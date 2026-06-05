@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0523",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Aaron Smith",
+    "addressee_company": "Trade Smith LLC",
+    "addressee_address": "90652 Johnson Pike, Waltonshire, MN 96760, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 12.297,
+    "total_value": 2164.76,
+    "currency": "GBP",
+    "issue_date": "2025-06-18",
+    "reference": "REF-338601",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.56,
+        "value": 29.65,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 7,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.553,
+        "value": 914.2,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 9,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.833,
+        "value": 564.03,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 14,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.351,
+        "value": 656.88,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_name": "Jeffrey Bradley",
+    "sender_company": "Tech Bryant Inc.",
+    "sender_address": "6009 Tim Circle Apt. 331, South Michael, WA 11308, Sweden",
+    "sender_phone": "(860)293-3806x547",
+    "sender_email": "lmaxwell@example.com",
+    "addressee_phone": "(884)564-5241x15799",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 2381.24,
+    "postal_charges": 11.36,
+    "tracking_number": "GG517813705JL"
+  }
+}

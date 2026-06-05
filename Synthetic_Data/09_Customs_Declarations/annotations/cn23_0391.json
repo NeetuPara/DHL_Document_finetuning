@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0391",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Brandy Gray",
+    "addressee_company": "Walsh Trade Corp.",
+    "addressee_address": "04097 Ivan Forks, West Mitchell, MN 27114, France",
+    "addressee_country": "France",
+    "total_weight_kg": 9.97,
+    "total_value": 3354.01,
+    "currency": "CAD",
+    "issue_date": "2026-01-15",
+    "reference": "REF-966629",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.076,
+        "value": 1981.56,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 10,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 1.278,
+        "value": 1021.6,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 8,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.238,
+        "value": 219.28,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 1,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.378,
+        "value": 131.57,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "Veronica Cross",
+    "sender_company": "Commerce Smith GmbH",
+    "sender_address": "19088 Humphrey Rue Suite 101, Jonathonfurt, OH 91884, South Korea",
+    "sender_phone": "001-568-394-9692",
+    "sender_email": "jpatterson@example.org",
+    "addressee_phone": "396.668.7329x299",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 54.86,
+    "tracking_number": "MJ916860649HW"
+  }
+}

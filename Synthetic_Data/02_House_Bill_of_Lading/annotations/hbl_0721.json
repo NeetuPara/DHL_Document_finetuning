@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0721",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU257864366",
+    "shipper_name": "Commerce Lopez GmbH",
+    "shipper_address": "346 Fisher Unions, Bakerhaven, WV 54492, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Sparks Pacific Inc.",
+    "consignee_address": "36029 Bridget Inlet, Deniseshire, WA 04568, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party_name": "Meyers International Inc.",
+    "notify_party_address": "3056 Matthew Shores, Palmerstad, CA 08590, Malaysia",
+    "vessel": "MSC OSCAR",
+    "voyage": "499N",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2026-03-09",
+    "issue_place": "Qingdao",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "MUEO5467979",
+        "seal_no": "SL372182",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "YIXB7369354",
+        "seal_no": "CL982923",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "DIKF2050362",
+        "seal_no": "BL759674",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 109,
+    "package_type": "Case",
+    "gross_weight_kg": 23655.7,
+    "net_weight_kg": 22668.6,
+    "cbm": 11.406,
+    "marks_and_numbers": "GLB/22"
+  }
+}

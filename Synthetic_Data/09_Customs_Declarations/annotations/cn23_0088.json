@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0088",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Michael Gray",
+    "addressee_company": "Industry Randall Inc.",
+    "addressee_address": "PSC 9486, Box 2206, APO AA 62925, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 5.256,
+    "total_value": 1250.68,
+    "currency": "GBP",
+    "issue_date": "2025-10-09",
+    "reference": "REF-491775",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.785,
+        "value": 116.23,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 15,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.471,
+        "value": 1134.45,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_name": "Jonathan Robinson",
+    "sender_company": "Santos Industry LLC",
+    "sender_address": "507 Lee Extension Suite 997, New Josephfurt, IA 77492, United States",
+    "sender_phone": "(572)732-2601x741",
+    "sender_email": "jackmunoz@example.org",
+    "addressee_phone": "593.760.3185x05544",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 1375.75,
+    "postal_charges": 57.89,
+    "tracking_number": "WJ578639734HD"
+  }
+}

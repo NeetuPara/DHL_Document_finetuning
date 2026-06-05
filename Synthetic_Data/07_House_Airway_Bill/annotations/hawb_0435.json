@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0435",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-56371375",
+    "mawb_number": "085-89859839",
+    "shipper_name": "Clark Global Ltd",
+    "shipper_address": "Unit 0655 Box 0387, DPO AP 14946, France",
+    "consignee_name": "Roberts Pacific Pte Ltd",
+    "consignee_address": "USS Lawrence, FPO AP 13565, India",
+    "agent_name": "Gonzales Tech Corp.",
+    "airport_departure": "SYD",
+    "airport_destination": "CDG",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 16,
+    "gross_weight_kg": 137.5,
+    "chargeable_weight": 163.7,
+    "rate": 7.6,
+    "total_charge": 1244.12,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "TEMP CONTROLLED: 6\u00b0C - 19\u00b0C",
+    "issue_date": "2025-07-22",
+    "signatory": "Megan Ryan",
+    "iata_code": "98-918",
+    "agent_cass": "6411-8794",
+    "consolidation_ref": "CONS-9364-809607",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-68091161",
+        "pieces": 8,
+        "weight": 88.6,
+        "destination": "YYZ",
+        "consignee": "Henry Commerce Inc.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "176-34855501",
+        "pieces": 9,
+        "weight": 54.3,
+        "destination": "HKG",
+        "consignee": "White Trade GmbH",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "160-92685502",
+        "pieces": 7,
+        "weight": 61.1,
+        "destination": "PVG",
+        "consignee": "Cox Tech Pte Ltd",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "006-83480113",
+        "pieces": 9,
+        "weight": 6.2,
+        "destination": "JFK",
+        "consignee": "Smith Tech LLC",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "006-97061993",
+        "pieces": 1,
+        "weight": 36.4,
+        "destination": "ORD",
+        "consignee": "Global Kelly Corp.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "085-72923182",
+        "pieces": 5,
+        "weight": 63.1,
+        "destination": "CDG",
+        "consignee": "Reed Global GmbH",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

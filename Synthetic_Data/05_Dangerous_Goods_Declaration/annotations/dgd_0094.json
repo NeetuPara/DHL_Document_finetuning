@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0094",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Gray LLC",
+    "shipper_address": "4253 Tucker Bypass, South Davidfort, KY 92306, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Industry King Pte Ltd",
+    "consignee_address": "0304 Patrick Brooks Suite 220, Aaronside, WI 37932, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+15 392-807-2446",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 31,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 38.61,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 46,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 74.79,
+        "qty_unit": "mL",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Cynthia Chan",
+    "signature_date": "2026-05-08",
+    "signature_place": "Brazil",
+    "awb_number": "057-20101895",
+    "flight_number": "DL6222",
+    "flight_date": "2026-05-30",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong"
+  }
+}

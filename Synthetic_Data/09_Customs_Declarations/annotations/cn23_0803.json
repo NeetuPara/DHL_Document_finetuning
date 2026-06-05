@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0803",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Diana Cummings",
+    "addressee_company": "International Stafford Ltd",
+    "addressee_address": "861 Audrey Plains Apt. 253, Port Kevin, DE 84082, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 1.293,
+    "total_value": 263.92,
+    "currency": "CAD",
+    "issue_date": "2026-01-25",
+    "reference": "REF-023386",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.293,
+        "value": 263.92,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Meagan Jennings",
+    "sender_company": "Meyers Global S.A.",
+    "sender_address": "845 Taylor Mountains, Justinton, WA 42406, China",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 8.93,
+    "tracking_number": "FZ655866572KD"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0812",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU461487346",
+    "shipper_name": "Campbell Pacific Inc.",
+    "shipper_address": "092 Kenneth Circles Apt. 028, North Michelle, NE 27540, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Daniels Trade AG",
+    "consignee_address": "6011 Shepherd Isle Suite 677, North Lisatown, AL 70525, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party_name": "Commerce Davis AG",
+    "notify_party_address": "257 David Circle Apt. 948, Port Stacyport, NY 71804, Mexico",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "755S",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2025-12-18",
+    "issue_place": "Antwerp",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "JCSZ9336934",
+        "seal_no": "BL378680",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "FZZO3836812",
+        "seal_no": "BL757235",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "IAIO2989654",
+        "seal_no": "BL463980",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "DMLD0075531",
+        "seal_no": "BL934961",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 286,
+    "package_type": "Case",
+    "gross_weight_kg": 14888.4,
+    "net_weight_kg": 13715.4,
+    "cbm": 32.352,
+    "marks_and_numbers": "ABC/48"
+  }
+}

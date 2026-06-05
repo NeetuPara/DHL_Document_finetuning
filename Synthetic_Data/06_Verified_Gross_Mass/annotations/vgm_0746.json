@@ -1,0 +1,82 @@
+{
+  "document_id": "vgm_0746",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Cox Global Inc.",
+    "shipper_address": "9780 Kevin Underpass Suite 985, Port Tammyside, KS 76933, Mexico",
+    "shipper_country": "Mexico",
+    "container_number": "HTEF6221287",
+    "seal_number": "BL561804",
+    "container_size": "20'GP",
+    "iso_type_code": "22G0",
+    "tare_weight_kg": 2200,
+    "cargo_weight_kg": 5976.1,
+    "packing_materials_kg": 491.9,
+    "vgm_kg": 8668.0,
+    "vessel": "MADRID MAERSK",
+    "voyage": "686E",
+    "bl_number": "EGLV885570024",
+    "booking_reference": "BKG-553715",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-20600",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-27",
+    "signature_date": "2026-05-10",
+    "signatory_name": "John Thomas",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 7,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Bag",
+        "n_units": 20,
+        "gross_wt_kg": 799.4
+      },
+      {
+        "item_no": 2,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Pallet",
+        "n_units": 15,
+        "gross_wt_kg": 252.6
+      },
+      {
+        "item_no": 3,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Pallet",
+        "n_units": 2,
+        "gross_wt_kg": 1221.4
+      },
+      {
+        "item_no": 4,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Cylinder",
+        "n_units": 9,
+        "gross_wt_kg": 85.6
+      },
+      {
+        "item_no": 5,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Drum",
+        "n_units": 9,
+        "gross_wt_kg": 1238.5
+      },
+      {
+        "item_no": 6,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Carton",
+        "n_units": 20,
+        "gross_wt_kg": 1441.8
+      },
+      {
+        "item_no": 7,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Pallet",
+        "n_units": 18,
+        "gross_wt_kg": 936.8
+      }
+    ]
+  }
+}

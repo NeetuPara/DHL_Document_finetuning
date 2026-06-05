@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0354",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202509-1730",
+    "usppi_name": "International Contreras Pte Ltd",
+    "usppi_address": "54787 Erin Point Apt. 291, Tranfurt, IL 44879, Spain",
+    "usppi_country": "Spain",
+    "ein": "50-2735875",
+    "consignee_name": "Commerce Smith AG",
+    "consignee_address": "32384 Jacqueline Lodge Apt. 781, Amberburgh, FL 65356, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Anthony Commerce AG",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Bruce Gray",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/26",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 7,
+        "unit": "KGS",
+        "weight_kg": 7.0,
+        "value_usd": 118.83
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 31,
+        "unit": "MTR",
+        "weight_kg": 13.48,
+        "value_usd": 130.09
+      },
+      {
+        "marks": "SLI/14",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 113,
+        "unit": "PCS",
+        "weight_kg": 16.39,
+        "value_usd": 9422.69
+      }
+    ],
+    "total_weight_kg": 36.87,
+    "total_value_usd": 9671.61,
+    "vessel": "YANG MING MYTH",
+    "voyage": "287E",
+    "booking_ref": "BKG-164587",
+    "bl_number": "COSU460329869",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Tokyo, JP",
+    "container_number": "GAKA6964447",
+    "seal_number": "CL756207",
+    "container_type": "40'GP",
+    "cbm": 6.571
+  }
+}

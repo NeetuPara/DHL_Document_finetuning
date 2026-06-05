@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0210",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202003-5759",
+    "usppi_name": "Global Gomez Pte Ltd",
+    "usppi_address": "2791 Mckinney Valleys, West Alexa, WY 52671, Canada",
+    "usppi_country": "Canada",
+    "ein": "69-7928447",
+    "consignee_name": "Bush Global AG",
+    "consignee_address": "5104 Kevin Court, West Andrewport, PW 63946, France",
+    "consignee_country": "France",
+    "notify_party": "Shaw Industry AG",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DDP",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Erik Allen",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/18",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 11,
+        "unit": "PCS",
+        "weight_kg": 14.14,
+        "value_usd": 145.91
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 94,
+        "unit": "KGS",
+        "weight_kg": 94.0,
+        "value_usd": 77.08
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 173,
+        "unit": "LTR",
+        "weight_kg": 165.1,
+        "value_usd": 1363.14
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 149,
+        "unit": "PCS",
+        "weight_kg": 11.12,
+        "value_usd": 6060.65
+      },
+      {
+        "marks": "SLI/29",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 144,
+        "unit": "CTN",
+        "weight_kg": 649.88,
+        "value_usd": 9736.63
+      }
+    ],
+    "total_weight_kg": 934.24,
+    "total_value_usd": 17383.41,
+    "vessel": "YANG MING MYTH",
+    "voyage": "716W",
+    "booking_ref": "BKG-277604",
+    "bl_number": "COSU740655788",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Singapore, SG",
+    "container_number": "UUHF0458966",
+    "seal_number": "SL178598",
+    "container_type": "40'HC",
+    "cbm": 27.956
+  }
+}

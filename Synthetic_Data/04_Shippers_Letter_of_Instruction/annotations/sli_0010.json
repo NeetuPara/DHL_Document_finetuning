@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0010",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202011-7104",
+    "usppi_name": "Anderson Industry Co.",
+    "usppi_address": "2190 Penny Manors, Lake Christinamouth, MT 56321, Poland",
+    "usppi_country": "Poland",
+    "ein": "55-4980516",
+    "consignee_name": "Commerce Delgado GmbH",
+    "consignee_address": "4689 Christopher Ways Suite 756, East Jamie, PR 96728, India",
+    "consignee_country": "India",
+    "notify_party": "Tech Vasquez LLC",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Roberta Hubbard",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/18",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 76,
+        "unit": "KGS",
+        "weight_kg": 76.0,
+        "value_usd": 154.82
+      },
+      {
+        "marks": "ABC/9",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 72,
+        "unit": "PKG",
+        "weight_kg": 88.33,
+        "value_usd": 5706.39
+      },
+      {
+        "marks": "SLI/27",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 71,
+        "unit": "PCS",
+        "weight_kg": 7.32,
+        "value_usd": 13568.46
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 130,
+        "unit": "PCS",
+        "weight_kg": 1983.76,
+        "value_usd": 50006.55
+      }
+    ],
+    "total_weight_kg": 2155.41,
+    "total_value_usd": 69436.22,
+    "service": "Express Courier",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 48199.28,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-286304",
+    "destination_country": "India"
+  }
+}

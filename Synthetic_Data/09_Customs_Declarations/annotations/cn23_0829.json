@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0829",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Heather Cortez",
+    "addressee_company": "Shepard Trade Inc.",
+    "addressee_address": "Unit 8771 Box 4462, DPO AP 60239, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 10.028,
+    "total_value": 1777.62,
+    "currency": "GBP",
+    "issue_date": "2025-11-25",
+    "reference": "REF-686799",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.034,
+        "value": 1372.37,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 10,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.528,
+        "value": 199.1,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 5,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.089,
+        "value": 147.25,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 2,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.377,
+        "value": 58.9,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "Mark Crosby",
+    "sender_company": "Commerce Woods Co.",
+    "sender_address": "804 Charles Meadow Apt. 983, Julieshire, MS 74842, Switzerland",
+    "sender_phone": "862.242.7183",
+    "sender_email": "rowens@example.net",
+    "addressee_phone": "001-646-748-5216",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 1955.38,
+    "postal_charges": 53.96,
+    "tracking_number": "NO095532581ND"
+  }
+}

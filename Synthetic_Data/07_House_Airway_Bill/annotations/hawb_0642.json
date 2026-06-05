@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0642",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-98937421",
+    "mawb_number": "074-62301261",
+    "shipper_name": "Tech Marshall B.V.",
+    "shipper_address": "6723 Michael Trafficway Suite 984, North Elizabethhaven, WV 81590, Thailand",
+    "consignee_name": "Industry Erickson S.A.",
+    "consignee_address": "490 Anderson Turnpike Suite 825, Port Mark, DE 67635, United Kingdom",
+    "agent_name": "Mcgee Tech Co.",
+    "airport_departure": "FRA",
+    "airport_destination": "SIN",
+    "currency": "SGD",
+    "charge_code": "PP",
+    "declared_value_carriage": "AED 13,569.19",
+    "declared_value_customs": "GBP 8,531.80",
+    "n_pieces": 31,
+    "gross_weight_kg": 91.4,
+    "chargeable_weight": 108.9,
+    "rate": 7.77,
+    "total_charge": 846.15,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-06-21",
+    "signatory": "Joanne Collins",
+    "iata_code": "32-007",
+    "agent_cass": "2116-8234",
+    "consolidation_ref": "CONS-7270-399367",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-30815299",
+        "pieces": 17,
+        "weight": 99.2,
+        "destination": "MIA",
+        "consignee": "Vega Industry AG",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "020-38151367",
+        "pieces": 2,
+        "weight": 61.5,
+        "destination": "NRT",
+        "consignee": "Evans Commerce Inc.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "045-93412493",
+        "pieces": 3,
+        "weight": 47.8,
+        "destination": "ICN",
+        "consignee": "Commerce Sanchez AG",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "618-96766445",
+        "pieces": 18,
+        "weight": 81.5,
+        "destination": "HKG",
+        "consignee": "Morales Pacific Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "074-43600040",
+        "pieces": 8,
+        "weight": 36.0,
+        "destination": "ICN",
+        "consignee": "Global Gomez Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "618-35097049",
+        "pieces": 15,
+        "weight": 27.3,
+        "destination": "FRA",
+        "consignee": "Shelton Commerce Co.",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

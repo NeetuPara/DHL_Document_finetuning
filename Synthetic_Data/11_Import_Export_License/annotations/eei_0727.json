@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0727",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "784-20652299-1",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2026-05-12",
+    "port_of_entry": "MIA - Miami",
+    "transport_mode": "Ocean",
+    "carrier": "UPS",
+    "bl_awb": "618-96768901",
+    "importer_name": "Mitchell Industry Ltd",
+    "importer_ein": "58-2761441",
+    "consignee_name": "Cruz Pacific AG",
+    "customs_broker": "White Trade B.V.",
+    "broker_filer_code": "qXk",
+    "country_of_origin": "Poland",
+    "total_value": 225390.17,
+    "total_duty": 41600.5,
+    "currency": "AED",
+    "signatory": "Kevin Hall",
+    "signatory_title": "Trade Finance Manager",
+    "line_items": [
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Malaysia",
+        "qty": 387,
+        "unit": "KGS",
+        "entered_value": 91119.15,
+        "duty_rate": 25.0,
+        "duty_amount": 22779.79,
+        "eccn": "7A994",
+        "schedule_b": "2008.19.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Canada",
+        "qty": 114,
+        "unit": "PCS",
+        "entered_value": 8687.94,
+        "duty_rate": 18.1,
+        "duty_amount": 1572.52,
+        "eccn": "0A919",
+        "schedule_b": "8518.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "India",
+        "qty": 273,
+        "unit": "LTR",
+        "entered_value": 6633.9,
+        "duty_rate": 24.8,
+        "duty_amount": 1645.21,
+        "eccn": "3A992",
+        "schedule_b": "2901.10.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Mexico",
+        "qty": 376,
+        "unit": "PCS",
+        "entered_value": 68676.4,
+        "duty_rate": 11.3,
+        "duty_amount": 7760.43,
+        "eccn": "3A992",
+        "schedule_b": "3926.90.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Thailand",
+        "qty": 134,
+        "unit": "KGS",
+        "entered_value": 50272.78,
+        "duty_rate": 15.6,
+        "duty_amount": 7842.55,
+        "eccn": "3A992",
+        "schedule_b": "2008.19.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

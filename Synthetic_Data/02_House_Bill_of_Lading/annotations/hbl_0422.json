@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0422",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU790310871",
+    "shipper_name": "Industry James Ltd",
+    "shipper_address": "97399 Brown Port, West Stephanie, MT 93790, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Trade Cook Inc.",
+    "consignee_address": "95900 James Prairie, Johnport, MO 82304, Canada",
+    "consignee_country": "Canada",
+    "notify_party_name": "Keith Industry Inc.",
+    "notify_party_address": "57668 Nicole Islands Apt. 314, West Eric, AS 14473, Mexico",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "467S",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2026-01-07",
+    "issue_place": "Tokyo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "GQLU5520144",
+        "seal_no": "BL647820",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "JYSX4990280",
+        "seal_no": "BL826503",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "BLBF6542983",
+        "seal_no": "SL165259",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "number_of_packages": 393,
+    "package_type": "Carton",
+    "gross_weight_kg": 5522.4,
+    "net_weight_kg": 5038.9,
+    "cbm": 19.342,
+    "marks_and_numbers": "GLB/46"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0996",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Bryant Pacific Co.",
+    "shipper_address": "97915 Melissa Manor, Port Jonathan, HI 40549, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Tech Klein Ltd",
+    "consignee_address": "4277 Gonzales View, Kurttown, MA 29139, Belgium",
+    "consignee_country": "Belgium",
+    "emergency_telephone": "+73 715-968-7928",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 16,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 55.0,
+        "qty_unit": "mL",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-688211",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Victoria Fernandez",
+    "signature_date": "2026-05-04",
+    "signature_place": "Japan",
+    "awb_number": "074-69149359",
+    "flight_number": "SQ6058",
+    "departure_airport_code": "FRA",
+    "departure_airport_name": "Frankfurt Airport",
+    "destination_airport_code": "ICN",
+    "destination_airport_name": "Seoul Incheon",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0178",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Gary Whitehead",
+    "addressee_company": "Blake Pacific Pte Ltd",
+    "addressee_address": "72621 Simpson Parkways Suite 738, West Kellybury, LA 81727, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 3.743,
+    "total_value": 2765.6,
+    "currency": "JPY",
+    "issue_date": "2025-09-13",
+    "reference": "REF-885556",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.569,
+        "value": 634.0,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 20,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.174,
+        "value": 2131.6,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Anthony Webster",
+    "sender_company": "Frank Industry AG",
+    "sender_address": "741 Leah Cliffs Apt. 609, Mariaton, RI 86901, Brazil",
+    "sender_phone": "(632)670-1798",
+    "sender_email": "michaelgould@example.net",
+    "addressee_phone": "764.683.1986",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 3042.16,
+    "postal_charges": 31.1,
+    "tracking_number": "LH964729259YV"
+  }
+}

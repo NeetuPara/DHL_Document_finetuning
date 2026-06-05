@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0890",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade King S.A.",
+    "shipper_address": "5659 Darryl Flats, North Robertstad, NJ 90116, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Rodriguez Global Ltd",
+    "consignee_address": "77226 Robert Avenue, Lake Desireeville, AL 65374, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+36 739-148-8542",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 41,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 80.62,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 8,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 94.49,
+        "qty_unit": "kg",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Amanda Collins",
+    "signature_date": "2026-04-22",
+    "signature_place": "Switzerland",
+    "vessel": "MSC OSCAR",
+    "voyage": "760N",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Hong Kong, HK"
+  }
+}

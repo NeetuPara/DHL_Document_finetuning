@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0740",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Diaz Pte Ltd",
+    "shipper_address": "3909 Kristy Estates, Williamchester, MD 96176, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Hayes International Pte Ltd",
+    "consignee_address": "322 Webster Trace Suite 310, Matthewshire, FM 22533, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+24 549-270-4074",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 41,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 36.89,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Christopher Coleman",
+    "signature_date": "2026-05-02",
+    "signature_place": "Spain",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "545W",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Colombo, LK"
+  }
+}

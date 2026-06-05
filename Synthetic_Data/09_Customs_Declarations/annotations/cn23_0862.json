@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0862",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Tracy Montgomery",
+    "addressee_company": "Tech Garcia GmbH",
+    "addressee_address": "72774 Sarah Lock, Garzastad, NJ 51843, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 5.173,
+    "total_value": 3985.02,
+    "currency": "CNY",
+    "issue_date": "2025-07-18",
+    "reference": "REF-503256",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.465,
+        "value": 1204.84,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 10,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.705,
+        "value": 1347.8,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 16,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.338,
+        "value": 1226.88,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 6,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.665,
+        "value": 205.5,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_name": "John Moore",
+    "sender_company": "Nguyen Commerce Pte Ltd",
+    "sender_address": "0100 Esparza Village Suite 749, East Douglasshire, MN 51432, Netherlands",
+    "sender_phone": "6505096385",
+    "sender_email": "jennifer49@example.org",
+    "addressee_phone": "+1-651-409-4298x742",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 4383.52,
+    "postal_charges": 53.77,
+    "tracking_number": "XU846610988AL"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "document_id": "eei_0932",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20230515693544",
+    "export_date": "2025-11-21",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Davis Pacific B.V.",
+    "usppi_ein": "13-4036216",
+    "usppi_address": "50891 Hood Road, West Melissafurt, MH 44179, Canada",
+    "ultimate_consignee": "Grant Trade B.V.",
+    "intermediate_consignee": "Swanson Trade B.V.",
+    "forwarding_agent": "Smith Global S.A.",
+    "destination_country": "Spain",
+    "carrier": "UPS",
+    "bl_awb": "006-96118054",
+    "total_value": 359589.91,
+    "currency": "USD",
+    "signatory": "Jordan Schneider",
+    "line_items": [
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Netherlands",
+        "qty": 327,
+        "unit": "PCS",
+        "entered_value": 8989.23,
+        "duty_rate": 19.9,
+        "duty_amount": 1788.86,
+        "eccn": "0A919",
+        "schedule_b": "8534.00.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 468,
+        "unit": "PCS",
+        "entered_value": 53857.44,
+        "duty_rate": 9.6,
+        "duty_amount": 5170.31,
+        "eccn": "2B350",
+        "schedule_b": "8534.00.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 417,
+        "unit": "PKG",
+        "entered_value": 34711.08,
+        "duty_rate": 9.0,
+        "duty_amount": 3124.0,
+        "eccn": "EAR99",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Brazil",
+        "qty": 330,
+        "unit": "PCS",
+        "entered_value": 40926.6,
+        "duty_rate": 2.0,
+        "duty_amount": 818.53,
+        "eccn": "9A515",
+        "schedule_b": "8483.40.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Spain",
+        "qty": 468,
+        "unit": "SET",
+        "entered_value": 110504.16,
+        "duty_rate": 20.1,
+        "duty_amount": 22211.34,
+        "eccn": "2B350",
+        "schedule_b": "8708.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Poland",
+        "qty": 295,
+        "unit": "PCS",
+        "entered_value": 110601.4,
+        "duty_rate": 10.1,
+        "duty_amount": 11170.74,
+        "eccn": "1A002",
+        "schedule_b": "3926.90.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

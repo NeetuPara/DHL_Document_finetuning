@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0646",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202405-9900",
+    "usppi_name": "Trade Boyd GmbH",
+    "usppi_address": "3371 Autumn Run, Howardport, MP 66408, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "19-8972043",
+    "consignee_name": "Hester Tech S.A.",
+    "consignee_address": "Unit 2154 Box 5325, DPO AE 84562, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Osborne Tech Co.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Larry Mason",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/41",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 48,
+        "unit": "CTN",
+        "weight_kg": 82.32,
+        "value_usd": 2949.38
+      },
+      {
+        "marks": "ABC/31",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 110,
+        "unit": "PCS",
+        "weight_kg": 10.0,
+        "value_usd": 4282.54
+      },
+      {
+        "marks": "SLI/35",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 61,
+        "unit": "CTN",
+        "weight_kg": 165.46,
+        "value_usd": 672.24
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 39,
+        "unit": "PKG",
+        "weight_kg": 99.53,
+        "value_usd": 3370.0
+      }
+    ],
+    "total_weight_kg": 357.31,
+    "total_value_usd": 11274.16,
+    "service": "LCL Ocean",
+    "named_port": "Tanjung Pelepas, MY",
+    "insurance_value_usd": 41327.79,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Switzerland"
+  }
+}

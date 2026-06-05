@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0213",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202104-7268",
+    "usppi_name": "Tech Dawson Corp.",
+    "usppi_address": "09553 Jones Center, South Meganview, ND 62313, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "53-5550969",
+    "consignee_name": "Mitchell Global Pte Ltd",
+    "consignee_address": "565 Megan Locks Suite 177, Sabrinatown, VA 72699, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Johnson Industry GmbH",
+    "forwarder": "DB Schenker",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Carol Cruz",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/13",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 85,
+        "unit": "PCS",
+        "weight_kg": 44.34,
+        "value_usd": 49333.66
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 43,
+        "unit": "KGS",
+        "weight_kg": 43.0,
+        "value_usd": 44.29
+      }
+    ],
+    "total_weight_kg": 87.34,
+    "total_value_usd": 49377.95,
+    "vessel": "EVER GOLDEN",
+    "voyage": "159E",
+    "booking_ref": "BKG-823918",
+    "bl_number": "YMLU628887659",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Rotterdam, NL",
+    "container_number": "GWUE8750242",
+    "seal_number": "SL862994",
+    "container_type": "20'GP",
+    "cbm": 6.303
+  }
+}

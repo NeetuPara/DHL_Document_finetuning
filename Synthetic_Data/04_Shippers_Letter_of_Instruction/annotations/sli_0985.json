@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0985",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202302-7403",
+    "usppi_name": "International West Corp.",
+    "usppi_address": "246 Mcclain Dam Apt. 853, Nancyburgh, DE 53124, Canada",
+    "usppi_country": "Canada",
+    "ein": "58-7669524",
+    "consignee_name": "Commerce Vasquez GmbH",
+    "consignee_address": "9566 Mark Meadows Apt. 241, West Ronaldville, KY 36687, France",
+    "consignee_country": "France",
+    "notify_party": "Tech Larson LLC",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Christopher Cain PhD",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/12",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 108,
+        "unit": "BOX",
+        "weight_kg": 142.32,
+        "value_usd": 12604.84
+      },
+      {
+        "marks": "ABC/3",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 14,
+        "unit": "PCS",
+        "weight_kg": 3.45,
+        "value_usd": 2600.95
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 95,
+        "unit": "KGS",
+        "weight_kg": 95.0,
+        "value_usd": 422.65
+      },
+      {
+        "marks": "EXP/49",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 16,
+        "unit": "PCS",
+        "weight_kg": 133.78,
+        "value_usd": 7479.3
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 119,
+        "unit": "PCS",
+        "weight_kg": 1842.73,
+        "value_usd": 25927.27
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 121,
+        "unit": "PCS",
+        "weight_kg": 11.8,
+        "value_usd": 10281.03
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 43,
+        "unit": "LTR",
+        "weight_kg": 41.66,
+        "value_usd": 512.21
+      }
+    ],
+    "total_weight_kg": 2270.74,
+    "total_value_usd": 59828.25,
+    "service": "Ground",
+    "named_port": "Paris CDG",
+    "insurance_value_usd": 29854.04,
+    "license_type": "Distributor License",
+    "license_number": "LIC-350793",
+    "destination_country": "France"
+  }
+}

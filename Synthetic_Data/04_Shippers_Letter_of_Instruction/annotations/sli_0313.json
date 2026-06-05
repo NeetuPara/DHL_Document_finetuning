@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0313",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202008-4558",
+    "usppi_name": "Frey Commerce B.V.",
+    "usppi_address": "7068 White Vista Apt. 502, Mooreville, TN 63436, Germany",
+    "usppi_country": "Germany",
+    "ein": "27-6465745",
+    "consignee_name": "Pacific Navarro Ltd",
+    "consignee_address": "6434 Ellis Ferry Apt. 561, East Morgan, PA 94608, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "International Perry Pte Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Jennifer Howell",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/43",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 196,
+        "unit": "BOX",
+        "weight_kg": 135.79,
+        "value_usd": 20032.55
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 107,
+        "unit": "PCS",
+        "weight_kg": 9.07,
+        "value_usd": 3190.97
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 66,
+        "unit": "PCS",
+        "weight_kg": 60.8,
+        "value_usd": 1072.25
+      }
+    ],
+    "total_weight_kg": 205.66,
+    "total_value_usd": 24295.77,
+    "service": "Ground",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 41563.44,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-862647",
+    "destination_country": "Italy"
+  }
+}

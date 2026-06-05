@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0671",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU747380024",
+    "shipper_name": "Industry Wells S.A.",
+    "shipper_address": "730 Li Rue Suite 311, Millerchester, CO 34384, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Tech Robertson Pte Ltd",
+    "consignee_address": "9053 Johnson Points, Patrickshire, AL 57239, France",
+    "consignee_country": "France",
+    "notify_party_name": "Trade Wright Corp.",
+    "notify_party_address": "643 Williams Harbor Suite 064, Christopherland, CA 32604, Singapore",
+    "vessel": "PIL PACIFIC",
+    "voyage": "223W",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2025-12-23",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "XGND1416844",
+        "seal_no": "CL228631",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "WAGC9145723",
+        "seal_no": "BL252972",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "DRUJ5929964",
+        "seal_no": "CL543080",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 452,
+    "package_type": "Carton",
+    "gross_weight_kg": 12163.6,
+    "net_weight_kg": 11545.9,
+    "cbm": 28.111,
+    "marks_and_numbers": "ABC/3"
+  }
+}

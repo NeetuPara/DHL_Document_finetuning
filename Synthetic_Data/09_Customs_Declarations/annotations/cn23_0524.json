@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0524",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Matthew Knight",
+    "addressee_company": "Commerce Drake GmbH",
+    "addressee_address": "9105 Jaime Course Apt. 448, Michaelburgh, ID 05347, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 9.281,
+    "total_value": 3459.49,
+    "currency": "JPY",
+    "issue_date": "2025-10-11",
+    "reference": "REF-283205",
+    "line_items": [
+      {
+        "qty": 13,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.092,
+        "value": 1434.68,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 14,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.524,
+        "value": 679.7,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 13,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.665,
+        "value": 1345.11,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_name": "Dr. Alyssa Miller MD",
+    "sender_company": "Reyes Trade Inc.",
+    "sender_address": "0799 Kelly Fall, Port Timothyland, SD 61824, United Arab Emirates",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 72.41,
+    "tracking_number": "FV771912262EM"
+  }
+}

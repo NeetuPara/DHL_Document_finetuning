@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0984",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202212-9068",
+    "usppi_name": "Commerce Oneill Ltd",
+    "usppi_address": "7882 Adams Islands, Lake Danielton, NH 46039, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "31-6730456",
+    "consignee_name": "Johnson International GmbH",
+    "consignee_address": "6697 Davies Skyway Apt. 824, New Kimberly, AZ 78632, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "International Brown B.V.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Kelsey Valencia",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/33",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 55,
+        "unit": "CTN",
+        "weight_kg": 149.7,
+        "value_usd": 3456.19
+      },
+      {
+        "marks": "EXP/49",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 157,
+        "unit": "PCS",
+        "weight_kg": 852.17,
+        "value_usd": 121859.72
+      }
+    ],
+    "total_weight_kg": 1001.87,
+    "total_value_usd": 125315.91,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "279S",
+    "booking_ref": "BKG-888241",
+    "bl_number": "COSU486451193",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "NPYP5729921",
+    "seal_number": "BL315361",
+    "container_type": "40'GP",
+    "cbm": 7.228
+  }
+}

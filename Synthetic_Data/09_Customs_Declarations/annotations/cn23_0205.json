@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0205",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Janet Gillespie",
+    "addressee_company": "Moon International S.A.",
+    "addressee_address": "USS Carter, FPO AA 98906, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 3.223,
+    "total_value": 1592.85,
+    "currency": "AED",
+    "issue_date": "2025-07-10",
+    "reference": "REF-456453",
+    "line_items": [
+      {
+        "qty": 13,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.178,
+        "value": 196.95,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 11,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.045,
+        "value": 1395.9,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_name": "Brett Lane",
+    "sender_company": "Butler Trade LLC",
+    "sender_address": "86931 Hurley Drive, South Erica, MI 16664, India",
+    "sender_phone": "480-731-7579",
+    "sender_email": "kcastillo@example.org",
+    "addressee_phone": "6422450526",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 1752.13,
+    "postal_charges": 49.81,
+    "tracking_number": "GO854253069LY"
+  }
+}

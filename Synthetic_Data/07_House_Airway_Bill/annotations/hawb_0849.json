@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0849",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-29754993",
+    "mawb_number": "085-65404311",
+    "shipper_name": "Mejia Global B.V.",
+    "shipper_address": "83213 Smith Alley Suite 884, South Jeffrey, GA 42305, Sweden",
+    "consignee_name": "Grant Pacific B.V.",
+    "consignee_address": "523 Stephanie Bypass, South Gregoryfurt, DE 90987, United States",
+    "agent_name": "Caldwell Pacific Corp.",
+    "airport_departure": "CDG",
+    "airport_destination": "SYD",
+    "currency": "EUR",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "SGD 28,068.72",
+    "n_pieces": 33,
+    "gross_weight_kg": 163.3,
+    "chargeable_weight": 209.3,
+    "rate": 7.59,
+    "total_charge": 1588.59,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-02-15",
+    "signatory": "Sheri Cunningham",
+    "iata_code": "38-644",
+    "agent_cass": "8800-2569",
+    "consolidation_ref": "CONS-5003-507880",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-25497731",
+        "pieces": 3,
+        "weight": 92.5,
+        "destination": "ORD",
+        "consignee": "Trade Mcdaniel GmbH",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "020-12783859",
+        "pieces": 6,
+        "weight": 88.3,
+        "destination": "LAX",
+        "consignee": "Industry Mahoney Corp.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "160-91991811",
+        "pieces": 17,
+        "weight": 90.5,
+        "destination": "MIA",
+        "consignee": "Trade Woods AG",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

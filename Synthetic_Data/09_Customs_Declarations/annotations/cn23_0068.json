@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0068",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Daniel Jones",
+    "addressee_company": "Trade Robinson Ltd",
+    "addressee_address": "270 Amanda Inlet Apt. 682, Rosemouth, AK 08834, Brazil",
+    "addressee_country": "Brazil",
+    "total_weight_kg": 14.801,
+    "total_value": 2068.25,
+    "currency": "EUR",
+    "issue_date": "2025-06-24",
+    "reference": "REF-709796",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.295,
+        "value": 56.1,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 7,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.656,
+        "value": 142.03,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 19,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.933,
+        "value": 1269.77,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 5,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.968,
+        "value": 339.35,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 15,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.949,
+        "value": 261.0,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "Bridget Randall",
+    "sender_company": "Industry Jimenez Corp.",
+    "sender_address": "055 Adams Lock Suite 526, Morrisbury, NJ 04859, United Arab Emirates",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 27.63,
+    "tracking_number": "IC695536275NV"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0706",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Rebecca Martinez",
+    "addressee_company": "Trade Garcia LLC",
+    "addressee_address": "52705 Maxwell Terrace Suite 149, North Kellyfurt, UT 62416, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 7.172,
+    "total_value": 1775.42,
+    "currency": "USD",
+    "issue_date": "2026-02-27",
+    "reference": "REF-892046",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.086,
+        "value": 127.52,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 18,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.086,
+        "value": 1647.9,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "Damon Neal",
+    "sender_company": "Pacific Johnson GmbH",
+    "sender_address": "37000 Katie Mill Apt. 441, North Christina, PR 87957, Mexico",
+    "sender_phone": "223.374.2777x26637",
+    "sender_email": "davidsanders@example.com",
+    "addressee_phone": "+1-346-578-8286x661",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 17.19,
+    "tracking_number": "SM466676771XH"
+  }
+}

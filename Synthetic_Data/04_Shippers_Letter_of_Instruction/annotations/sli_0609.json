@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0609",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202208-4879",
+    "usppi_name": "Industry Hart Inc.",
+    "usppi_address": "869 Wilkins Plain Apt. 177, North Rebecca, KS 65920, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "91-9035659",
+    "consignee_name": "Tech Lee S.A.",
+    "consignee_address": "894 Thomas Glen Apt. 760, Lake Brent, WV 25129, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "International Greene B.V.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Debra Graves",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/34",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 102,
+        "unit": "PKG",
+        "weight_kg": 115.72,
+        "value_usd": 2047.41
+      },
+      {
+        "marks": "EXP/33",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 189,
+        "unit": "CTN",
+        "weight_kg": 813.15,
+        "value_usd": 2341.47
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 150,
+        "unit": "BOX",
+        "weight_kg": 168.05,
+        "value_usd": 11612.22
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 112,
+        "unit": "PCS",
+        "weight_kg": 41.9,
+        "value_usd": 1973.68
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 21,
+        "unit": "KGS",
+        "weight_kg": 21.0,
+        "value_usd": 453.42
+      },
+      {
+        "marks": "EXP/3",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 38,
+        "unit": "PCS",
+        "weight_kg": 486.34,
+        "value_usd": 28044.54
+      },
+      {
+        "marks": "SLI/23",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 199,
+        "unit": "LTR",
+        "weight_kg": 183.12,
+        "value_usd": 4046.77
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 94,
+        "unit": "PCS",
+        "weight_kg": 19.57,
+        "value_usd": 74076.81
+      }
+    ],
+    "total_weight_kg": 1848.85,
+    "total_value_usd": 124596.32,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "501S",
+    "booking_ref": "BKG-777848",
+    "bl_number": "MAEU943181599",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Los Angeles, US",
+    "container_number": "OMTR1741605",
+    "seal_number": "SL615859",
+    "container_type": "45'HC",
+    "cbm": 31.691
+  }
+}

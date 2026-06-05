@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0534",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-15418217",
+    "mawb_number": "020-34886332",
+    "shipper_name": "Lopez Pacific LLC",
+    "shipper_address": "388 Kenneth Vista Apt. 566, East Megan, AR 39707, Belgium",
+    "consignee_name": "Alvarado Industry S.A.",
+    "consignee_address": "3706 Fuller Estate, Tracystad, CT 57085, China",
+    "agent_name": "Pacific Chase AG",
+    "airport_departure": "LAX",
+    "airport_destination": "AMS",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "AUD 10,362.67",
+    "n_pieces": 8,
+    "gross_weight_kg": 420.3,
+    "chargeable_weight": 514.0,
+    "rate": 5.51,
+    "total_charge": 2832.14,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-02-21",
+    "signatory": "Wendy Wilkerson",
+    "iata_code": "32-491",
+    "agent_cass": "4733-6613",
+    "consolidation_ref": "CONS-5491-957956",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-20178036",
+        "pieces": 14,
+        "weight": 69.8,
+        "destination": "HKG",
+        "consignee": "Morgan Commerce Co.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "020-20559600",
+        "pieces": 11,
+        "weight": 23.5,
+        "destination": "LHR",
+        "consignee": "Williams Trade AG",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "020-16694838",
+        "pieces": 13,
+        "weight": 45.4,
+        "destination": "PVG",
+        "consignee": "Global Berry Co.",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

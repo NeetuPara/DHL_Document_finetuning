@@ -1,0 +1,75 @@
+{
+  "document_id": "vgm_0668",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Tech English S.A.",
+    "shipper_address": "2131 Katherine Glen Suite 182, Sanchezshire, NC 89540, India",
+    "shipper_country": "India",
+    "container_number": "QQIR4501880",
+    "seal_number": "SL334824",
+    "container_size": "40'HC",
+    "iso_type_code": "45G0",
+    "tare_weight_kg": 4000,
+    "cargo_weight_kg": 6876.9,
+    "packing_materials_kg": 162.1,
+    "vgm_kg": 11039.0,
+    "vessel": "MSC OSCAR",
+    "voyage": "151E",
+    "bl_number": "YMLU416233637",
+    "booking_reference": "BKG-129034",
+    "weighing_scale_type": "Certified Static Scale",
+    "scale_serial": "Serial No.-50662",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-19",
+    "signature_date": "2026-05-07",
+    "signatory_name": "Kurt Mack",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 6,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Crate",
+        "n_units": 20,
+        "gross_wt_kg": 555.7
+      },
+      {
+        "item_no": 2,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Crate",
+        "n_units": 6,
+        "gross_wt_kg": 292.5
+      },
+      {
+        "item_no": 3,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Roll",
+        "n_units": 16,
+        "gross_wt_kg": 1596.4
+      },
+      {
+        "item_no": 4,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Bundle",
+        "n_units": 12,
+        "gross_wt_kg": 335.1
+      },
+      {
+        "item_no": 5,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Crate",
+        "n_units": 18,
+        "gross_wt_kg": 69.5
+      },
+      {
+        "item_no": 6,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Carton",
+        "n_units": 5,
+        "gross_wt_kg": 4027.7
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0891",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU458097059",
+    "shipper_name": "Cobb Commerce LLC",
+    "shipper_address": "PSC 5133, Box 0180, APO AE 78392, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Pollard Global Corp.",
+    "consignee_address": "PSC 8469, Box 1996, APO AE 99460, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party_name": "Miller Tech Inc.",
+    "notify_party_address": "1770 Coleman Inlet, New Tina, MA 46035, United Kingdom",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "356N",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2024-09-30",
+    "issue_place": "Long Beach",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "WRMS1807439",
+        "seal_no": "SL284186",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "JITI4104492",
+        "seal_no": "CL524032",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "IUDG3552014",
+        "seal_no": "BL833699",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "BDPA8207241",
+        "seal_no": "SL474342",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 18,
+    "package_type": "Crate",
+    "gross_weight_kg": 14674.7,
+    "net_weight_kg": 14128.0,
+    "cbm": 2.067,
+    "marks_and_numbers": "GLB/5"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0315",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202511-7056",
+    "usppi_name": "Pacific Stanley B.V.",
+    "usppi_address": "85469 Barbara Meadows Apt. 634, Carolville, AR 22209, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "59-7032746",
+    "consignee_name": "Commerce Hill AG",
+    "consignee_address": "64611 West Avenue, North Matthewton, SC 13248, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Industry Miller S.A.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Margaret Hardy",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/50",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 125,
+        "unit": "PKG",
+        "weight_kg": 329.94,
+        "value_usd": 7486.96
+      },
+      {
+        "marks": "EXP/9",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 69,
+        "unit": "PCS",
+        "weight_kg": 39.69,
+        "value_usd": 2371.55
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 88,
+        "unit": "PCS",
+        "weight_kg": 755.19,
+        "value_usd": 10463.0
+      },
+      {
+        "marks": "SLI/20",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 192,
+        "unit": "PCS",
+        "weight_kg": 556.0,
+        "value_usd": 93380.95
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 120,
+        "unit": "PCS",
+        "weight_kg": 45.15,
+        "value_usd": 29270.55
+      }
+    ],
+    "total_weight_kg": 1725.97,
+    "total_value_usd": 142973.01,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "118W",
+    "booking_ref": "BKG-516636",
+    "bl_number": "OOLU279856790",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "New York, US",
+    "container_number": "YMCM1478177",
+    "seal_number": "CL919687",
+    "container_type": "40'GP",
+    "cbm": 34.763
+  }
+}

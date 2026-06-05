@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0471",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Melissa Ford",
+    "addressee_company": "Osborn Industry GmbH",
+    "addressee_address": "47936 Michael Flats, South Williamchester, AK 18419, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 3.908,
+    "total_value": 989.24,
+    "currency": "CAD",
+    "issue_date": "2025-06-03",
+    "reference": "REF-642275",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.784,
+        "value": 114.17,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 9,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.124,
+        "value": 875.07,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_country": "United Arab Emirates",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "483-72650096-8",
+    "entry_type": "Informal Entry",
+    "duty_rate": 19.6,
+    "estimated_duty": 193.89,
+    "importer_ein": "11-1818934",
+    "customs_broker": "Commerce Dean Co."
+  }
+}

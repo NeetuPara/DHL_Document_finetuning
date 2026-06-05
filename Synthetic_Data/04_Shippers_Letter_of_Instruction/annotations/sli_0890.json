@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0890",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202411-5496",
+    "usppi_name": "Hardy Industry GmbH",
+    "usppi_address": "289 Nguyen Extensions Apt. 358, Taylorside, MH 76287, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "83-2268005",
+    "consignee_name": "Smith Commerce GmbH",
+    "consignee_address": "3285 Wallace Squares, West Robertmouth, OH 67685, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Craig Global B.V.",
+    "forwarder": "Expeditors",
+    "incoterm": "CFR",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "7A994",
+    "signatory_name": "Mark Hancock",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/11",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 97,
+        "unit": "LTR",
+        "weight_kg": 99.8,
+        "value_usd": 625.57
+      },
+      {
+        "marks": "EXP/49",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 170,
+        "unit": "SET",
+        "weight_kg": 222.77,
+        "value_usd": 13837.49
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 72,
+        "unit": "PCS",
+        "weight_kg": 21.08,
+        "value_usd": 14685.07
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 47,
+        "unit": "PCS",
+        "weight_kg": 453.04,
+        "value_usd": 13219.13
+      },
+      {
+        "marks": "SLI/14",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 65,
+        "unit": "PCS",
+        "weight_kg": 788.54,
+        "value_usd": 21047.02
+      },
+      {
+        "marks": "EXP/40",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 41,
+        "unit": "PCS",
+        "weight_kg": 24.91,
+        "value_usd": 42431.87
+      },
+      {
+        "marks": "ABC/41",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 81,
+        "unit": "BOX",
+        "weight_kg": 83.18,
+        "value_usd": 6104.0
+      }
+    ],
+    "total_weight_kg": 1693.32,
+    "total_value_usd": 111950.15,
+    "service": "Air Freight",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 33454.24,
+    "license_type": "Distributor License",
+    "license_number": "LIC-534592",
+    "destination_country": "Canada"
+  }
+}

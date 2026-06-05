@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0208",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Vanessa Harmon",
+    "addressee_company": "Davis Industry Co.",
+    "addressee_address": "8286 Cassandra Mall, West Davidfurt, SC 63119, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 9.558,
+    "total_value": 4172.34,
+    "currency": "GBP",
+    "issue_date": "2025-07-12",
+    "reference": "REF-906871",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.781,
+        "value": 502.04,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 13,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.337,
+        "value": 1247.48,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 18,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.269,
+        "value": 302.22,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 19,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.404,
+        "value": 845.88,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 6,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.118,
+        "value": 535.08,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 11,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.649,
+        "value": 739.64,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Katherine Phillips",
+    "sender_company": "Peck Commerce GmbH",
+    "sender_address": "56981 Julia Mountains, Mcdowellshire, AR 03501, Switzerland",
+    "sender_phone": "223-532-6579",
+    "sender_email": "adamwilson@example.net",
+    "addressee_phone": "9422079104",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 67.4,
+    "tracking_number": "VK378426007LV"
+  }
+}

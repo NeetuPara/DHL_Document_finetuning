@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0131",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Brooks Co.",
+    "shipper_address": "PSC 2935, Box 7839, APO AE 39887, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Commerce Nichols Ltd",
+    "consignee_address": "9154 Angelica Expressway Suite 708, New Lorihaven, MN 15270, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+8 657-503-4178",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 1,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 58.43,
+        "qty_unit": "mL",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 7,
+        "pkg_type": "Steel Drum",
+        "net_qty": 97.43,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Vickie Booth",
+    "signature_date": "2026-05-11",
+    "signature_place": "Singapore",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "453S",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Antwerp, BE"
+  }
+}

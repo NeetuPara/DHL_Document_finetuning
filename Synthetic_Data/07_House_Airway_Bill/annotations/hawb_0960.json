@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0960",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-41571595",
+    "mawb_number": "618-87511537",
+    "shipper_name": "Trade Sawyer B.V.",
+    "shipper_address": "94880 Hayes Hills Suite 083, West Aaronborough, OK 57457, Singapore",
+    "consignee_name": "Buchanan Global B.V.",
+    "consignee_address": "63690 Christina Viaduct, Reedton, ND 92380, China",
+    "agent_name": "Global Ponce AG",
+    "airport_departure": "YYZ",
+    "airport_destination": "ICN",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "EUR 1,834.56",
+    "declared_value_customs": "NCV",
+    "n_pieces": 37,
+    "gross_weight_kg": 116.8,
+    "chargeable_weight": 118.0,
+    "rate": 11.74,
+    "total_charge": 1385.32,
+    "nature_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "handling_info": "TEMP CONTROLLED: 8\u00b0C - 23\u00b0C",
+    "issue_date": "2025-07-08",
+    "signatory": "Ashley Hopkins",
+    "iata_code": "03-899",
+    "agent_cass": "3655-9584",
+    "consolidation_ref": "CONS-2768-318283",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-59618981",
+        "pieces": 8,
+        "weight": 18.8,
+        "destination": "YYZ",
+        "consignee": "Commerce Orr Corp.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "160-11182324",
+        "pieces": 8,
+        "weight": 53.9,
+        "destination": "ICN",
+        "consignee": "Jackson Pacific GmbH",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "125-69677097",
+        "pieces": 10,
+        "weight": 63.5,
+        "destination": "ORD",
+        "consignee": "Soto Commerce Ltd",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "160-62103546",
+        "pieces": 18,
+        "weight": 84.3,
+        "destination": "HKG",
+        "consignee": "Barnett Trade S.A.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "074-47925297",
+        "pieces": 10,
+        "weight": 20.7,
+        "destination": "PVG",
+        "consignee": "Tech Higgins LLC",
+        "description": "Industrial Machinery Parts - Steel "
+      }
+    ]
+  }
+}

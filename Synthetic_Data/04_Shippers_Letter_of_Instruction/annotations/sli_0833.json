@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0833",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202109-6673",
+    "usppi_name": "Rice Commerce Inc.",
+    "usppi_address": "499 Rasmussen Station Suite 697, Deborahtown, MS 62955, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "84-5776437",
+    "consignee_name": "Adams Global Corp.",
+    "consignee_address": "8466 Shane Extension, Huertaland, NY 91404, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Pacific Jackson Inc.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "James Parker DVM",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/17",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 26,
+        "unit": "PCS",
+        "weight_kg": 507.13,
+        "value_usd": 11344.72
+      },
+      {
+        "marks": "EXP/1",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 42,
+        "unit": "PCS",
+        "weight_kg": 37.81,
+        "value_usd": 26046.3
+      },
+      {
+        "marks": "SLI/38",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 113,
+        "unit": "KGS",
+        "weight_kg": 113.0,
+        "value_usd": 1622.3
+      },
+      {
+        "marks": "ABC/5",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 49,
+        "unit": "BOX",
+        "weight_kg": 39.79,
+        "value_usd": 1918.07
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 157,
+        "unit": "SET",
+        "weight_kg": 164.51,
+        "value_usd": 9769.57
+      },
+      {
+        "marks": "SLI/23",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 158,
+        "unit": "PCS",
+        "weight_kg": 1878.27,
+        "value_usd": 92692.55
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 138,
+        "unit": "PCS",
+        "weight_kg": 130.05,
+        "value_usd": 3370.84
+      }
+    ],
+    "total_weight_kg": 2870.56,
+    "total_value_usd": 146764.35,
+    "service": "Air Freight",
+    "named_port": "Paris CDG",
+    "insurance_value_usd": 34974.28,
+    "license_type": "Distributor License",
+    "license_number": "LIC-262295",
+    "destination_country": "Italy"
+  }
+}

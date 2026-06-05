@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0136",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kathleen Young",
+    "addressee_company": "Jenkins Industry GmbH",
+    "addressee_address": "76290 Amy Valleys Apt. 528, Port Shawn, MI 58447, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 8.128,
+    "total_value": 872.48,
+    "currency": "CHF",
+    "issue_date": "2025-12-05",
+    "reference": "REF-197395",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.068,
+        "value": 45.04,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 8,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.804,
+        "value": 379.84,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 3,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.256,
+        "value": 447.6,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Shannon Erickson",
+    "sender_company": "Trade Boyd Corp.",
+    "sender_address": "6713 Woods Walks, Barrfurt, LA 62538, Thailand",
+    "sender_phone": "226-320-4364x550",
+    "sender_email": "robert09@example.com",
+    "addressee_phone": "(958)847-5133x2117",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 959.73,
+    "postal_charges": 77.92,
+    "tracking_number": "XY160784736LI"
+  }
+}

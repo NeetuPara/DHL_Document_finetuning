@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0321",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-76821789",
+    "mawb_number": "176-52339371",
+    "shipper_name": "Moss Pacific S.A.",
+    "shipper_address": "0714 Kaylee Garden, Duncanton, ME 08191, Spain",
+    "consignee_name": "Combs Tech Pte Ltd",
+    "consignee_address": "Unit 9306 Box 7098, DPO AE 12548, China",
+    "agent_name": "Trade Ramirez Ltd",
+    "airport_departure": "SYD",
+    "airport_destination": "YYZ",
+    "currency": "USD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "SGD 39,915.46",
+    "n_pieces": 14,
+    "gross_weight_kg": 312.8,
+    "chargeable_weight": 405.6,
+    "rate": 3.88,
+    "total_charge": 1573.73,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-08-08",
+    "signatory": "Holly Shannon",
+    "iata_code": "01-539",
+    "agent_cass": "1812-4741",
+    "consolidation_ref": "CONS-8494-681425",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-44253485",
+        "pieces": 9,
+        "weight": 73.4,
+        "destination": "DXB",
+        "consignee": "International Harris S.A.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "006-37628528",
+        "pieces": 14,
+        "weight": 53.1,
+        "destination": "DXB",
+        "consignee": "Commerce Bullock Inc.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "085-19968057",
+        "pieces": 12,
+        "weight": 52.3,
+        "destination": "PVG",
+        "consignee": "Brown Tech AG",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "085-84367268",
+        "pieces": 11,
+        "weight": 51.1,
+        "destination": "ORD",
+        "consignee": "Tech Miller Corp.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "057-13403025",
+        "pieces": 3,
+        "weight": 86.0,
+        "destination": "AMS",
+        "consignee": "Global Jones LLC",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "057-53724352",
+        "pieces": 10,
+        "weight": 98.6,
+        "destination": "NRT",
+        "consignee": "Neal Global AG",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "045-42425999",
+        "pieces": 11,
+        "weight": 96.5,
+        "destination": "JFK",
+        "consignee": "Avila Trade Inc.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "176-66191146",
+        "pieces": 9,
+        "weight": 99.9,
+        "destination": "MIA",
+        "consignee": "Smith Pacific Inc.",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

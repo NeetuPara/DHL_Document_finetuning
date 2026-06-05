@@ -1,0 +1,42 @@
+{
+  "document_id": "coo_0423",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202102-1817",
+    "exporter_name": "International Moore Corp.",
+    "exporter_address": "Unit 3152 Box 1842, DPO AA 89686, Thailand",
+    "exporter_country": "Thailand",
+    "consignee_name": "International Rose AG",
+    "consignee_address": "73705 Smith Isle Apt. 019, Byrdchester, WA 76003, Belgium",
+    "consignee_country": "Belgium",
+    "country_of_origin": "Thailand",
+    "country_of_destination": "Belgium",
+    "bl_or_awb": "OOLU614829225",
+    "issue_date": "2025-10-21",
+    "certifier_name": "Mallory Duncan",
+    "goods": [
+      {
+        "description": "Steel Products - Hot Rolled Coils",
+        "hs_code": "7208.37.00",
+        "qty": 205,
+        "unit": "KGS",
+        "weight_kg": 205.0,
+        "origin_criterion": "F",
+        "value": 497.46
+      },
+      {
+        "description": "Plastic Products - Injection Moulded Components",
+        "hs_code": "3926.90.00",
+        "qty": 16,
+        "unit": "PCS",
+        "weight_kg": 3.75,
+        "origin_criterion": "E",
+        "value": 199.32
+      }
+    ],
+    "fta_agreement": "ASEAN FTA",
+    "chamber": "Board of Trade"
+  }
+}

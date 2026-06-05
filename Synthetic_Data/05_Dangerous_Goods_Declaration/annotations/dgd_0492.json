@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0492",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Thomas Industry Inc.",
+    "shipper_address": "1577 Shepherd Mountains Apt. 847, Lake Bianca, PR 50861, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "International May S.A.",
+    "consignee_address": "0432 Tammy Tunnel Suite 944, North Angelastad, WV 05557, Brazil",
+    "consignee_country": "Brazil",
+    "emergency_telephone": "+50 658-587-6961",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 34,
+        "pkg_type": "Steel Drum",
+        "net_qty": 41.39,
+        "qty_unit": "L",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-827289",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Aaron Griffin",
+    "signature_date": "2026-04-24",
+    "signature_place": "United Kingdom",
+    "awb_number": "618-54382541",
+    "flight_number": "SQ9215",
+    "departure_airport_code": "AMS",
+    "departure_airport_name": "Amsterdam Schiphol",
+    "destination_airport_code": "ICN",
+    "destination_airport_name": "Seoul Incheon",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

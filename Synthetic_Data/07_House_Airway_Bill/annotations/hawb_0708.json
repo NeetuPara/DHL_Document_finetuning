@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0708",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-56489478",
+    "mawb_number": "176-36519676",
+    "shipper_name": "Whitaker Pacific Pte Ltd",
+    "shipper_address": "324 Frey Path, Port Derrick, SD 09600, Brazil",
+    "consignee_name": "Boyd Trade GmbH",
+    "consignee_address": "607 Brandon Light, Laurafurt, HI 10590, Hong Kong",
+    "agent_name": "Commerce Green B.V.",
+    "airport_departure": "PVG",
+    "airport_destination": "MIA",
+    "currency": "AED",
+    "charge_code": "CC",
+    "declared_value_carriage": "EUR 22,494.10",
+    "declared_value_customs": "NCV",
+    "n_pieces": 36,
+    "gross_weight_kg": 438.4,
+    "chargeable_weight": 481.2,
+    "rate": 3.52,
+    "total_charge": 1693.82,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "HANDLING CODE: DGR",
+    "issue_date": "2026-03-16",
+    "signatory": "Diana Garcia",
+    "iata_code": "74-152",
+    "agent_cass": "0407-2026",
+    "consolidation_ref": "CONS-3834-797791",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-80578638",
+        "pieces": 4,
+        "weight": 48.4,
+        "destination": "PVG",
+        "consignee": "Global Gross B.V.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "045-10986056",
+        "pieces": 8,
+        "weight": 51.2,
+        "destination": "YYZ",
+        "consignee": "Hammond Pacific B.V.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "057-70983998",
+        "pieces": 16,
+        "weight": 39.9,
+        "destination": "YYZ",
+        "consignee": "Commerce Rodriguez Corp.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "006-85859132",
+        "pieces": 11,
+        "weight": 3.5,
+        "destination": "SIN",
+        "consignee": "Pacific Rivera B.V.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "057-62015853",
+        "pieces": 4,
+        "weight": 24.7,
+        "destination": "CDG",
+        "consignee": "Industry Brady B.V.",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

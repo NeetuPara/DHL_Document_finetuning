@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0045",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Wu Pacific Corp.",
+    "shipper_address": "746 Christy Square Apt. 058, New Jacobchester, MD 12962, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Ruiz Pacific Co.",
+    "consignee_address": "05615 Jack Extensions, Port Jessica, DC 85917, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+25 258-465-9591",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 2,
+        "pkg_type": "Steel Drum",
+        "net_qty": 3.25,
+        "qty_unit": "mL",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-610872",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 38,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 54.82,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-631612",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jenny Norris",
+    "signature_date": "2026-05-13",
+    "signature_place": "United Kingdom",
+    "awb_number": "618-56157689",
+    "flight_number": "CX8240",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

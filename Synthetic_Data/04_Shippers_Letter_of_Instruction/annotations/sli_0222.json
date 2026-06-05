@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0222",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202009-6871",
+    "usppi_name": "Pacific Montgomery GmbH",
+    "usppi_address": "185 Robbins Ports, Perezhaven, PA 37593, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "70-1786042",
+    "consignee_name": "Williams Tech Corp.",
+    "consignee_address": "85731 Rice Alley Suite 668, Lake Robertview, NJ 80729, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Tech Allison S.A.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "Michelle Foster",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/37",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 46,
+        "unit": "CTN",
+        "weight_kg": 94.53,
+        "value_usd": 1548.15
+      },
+      {
+        "marks": "EXP/16",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 137,
+        "unit": "LTR",
+        "weight_kg": 144.63,
+        "value_usd": 5228.43
+      },
+      {
+        "marks": "EXP/41",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 119,
+        "unit": "KGS",
+        "weight_kg": 119.0,
+        "value_usd": 82.5
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 163,
+        "unit": "PCS",
+        "weight_kg": 1741.9,
+        "value_usd": 18723.44
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 61,
+        "unit": "PCS",
+        "weight_kg": 90.05,
+        "value_usd": 132.36
+      },
+      {
+        "marks": "EXP/48",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 35,
+        "unit": "PKG",
+        "weight_kg": 55.45,
+        "value_usd": 3147.97
+      }
+    ],
+    "total_weight_kg": 2245.56,
+    "total_value_usd": 28862.85,
+    "vessel": "YANG MING MYTH",
+    "voyage": "451N",
+    "booking_ref": "BKG-730197",
+    "bl_number": "OOLU763049714",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Hong Kong, HK",
+    "container_number": "DAHH8102128",
+    "seal_number": "SL221636",
+    "container_type": "40'GP",
+    "cbm": 42.178
+  }
+}

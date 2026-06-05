@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0493",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "John Aguilar",
+    "addressee_company": "Jones Global B.V.",
+    "addressee_address": "PSC 1776, Box 0458, APO AA 81236, Malaysia",
+    "addressee_country": "Malaysia",
+    "total_weight_kg": 12.141,
+    "total_value": 2413.02,
+    "currency": "CNY",
+    "issue_date": "2025-06-08",
+    "reference": "REF-534691",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.386,
+        "value": 20.68,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 9,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.871,
+        "value": 329.22,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 17,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.748,
+        "value": 696.32,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 1,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.082,
+        "value": 127.52,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 1,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.338,
+        "value": 125.52,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 8,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.716,
+        "value": 1113.76,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_name": "Tyrone Buckley",
+    "sender_company": "Martin Pacific Ltd",
+    "sender_address": "86617 John Mountain Apt. 977, Kaneview, TN 03864, Belgium",
+    "sender_phone": "(926)328-4017x906",
+    "sender_email": "htrevino@example.org",
+    "addressee_phone": "+1-959-983-3908x995",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 2654.32,
+    "postal_charges": 60.26,
+    "tracking_number": "QO365498536BE"
+  }
+}

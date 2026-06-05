@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0896",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Cathy Elliott",
+    "addressee_company": "Stone Trade Corp.",
+    "addressee_address": "497 Harmon Garden Apt. 879, Maryland, OK 76805, United Kingdom",
+    "addressee_country": "United Kingdom",
+    "total_weight_kg": 4.689,
+    "total_value": 692.75,
+    "currency": "CAD",
+    "issue_date": "2026-03-25",
+    "reference": "REF-169453",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.848,
+        "value": 598.88,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 2,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.555,
+        "value": 67.7,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 1,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.286,
+        "value": 26.17,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Casey Chavez",
+    "sender_company": "Trade Cardenas B.V.",
+    "sender_address": "6246 Mann Mount Suite 151, North Patrickfurt, VA 53194, Germany",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 762.03,
+    "postal_charges": 34.02,
+    "tracking_number": "AS871176446NK"
+  }
+}

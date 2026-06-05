@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0669",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-72939206",
+    "mawb_number": "176-91530242",
+    "shipper_name": "Lang Industry B.V.",
+    "shipper_address": "14891 Fowler Summit Suite 581, Jeffreyville, WI 68882, Canada",
+    "consignee_name": "Industry Molina Inc.",
+    "consignee_address": "507 Maxwell Cove Apt. 533, New Frankton, SD 88524, France",
+    "agent_name": "Industry Marquez B.V.",
+    "airport_departure": "AMS",
+    "airport_destination": "PVG",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "GBP 34,098.06",
+    "declared_value_customs": "CHF 38,027.08",
+    "n_pieces": 2,
+    "gross_weight_kg": 222.6,
+    "chargeable_weight": 282.2,
+    "rate": 9.67,
+    "total_charge": 2728.87,
+    "nature_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-02-05",
+    "signatory": "Ashley Mullen",
+    "iata_code": "60-181",
+    "agent_cass": "2921-9549",
+    "consolidation_ref": "CONS-3787-500787",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-93486931",
+        "pieces": 1,
+        "weight": 31.9,
+        "destination": "PVG",
+        "consignee": "Hartman Industry AG",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "125-70242094",
+        "pieces": 6,
+        "weight": 81.2,
+        "destination": "JFK",
+        "consignee": "Young Industry Inc.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "057-67446181",
+        "pieces": 12,
+        "weight": 89.3,
+        "destination": "PVG",
+        "consignee": "Watson Industry S.A.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "085-30701900",
+        "pieces": 8,
+        "weight": 90.6,
+        "destination": "CDG",
+        "consignee": "Lopez Pacific Corp.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "618-81469812",
+        "pieces": 12,
+        "weight": 17.3,
+        "destination": "LHR",
+        "consignee": "Tech Lewis Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "057-40093258",
+        "pieces": 14,
+        "weight": 5.1,
+        "destination": "DXB",
+        "consignee": "Stewart Industry LLC",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "020-27276786",
+        "pieces": 6,
+        "weight": 41.0,
+        "destination": "SIN",
+        "consignee": "Trade Carr Co.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "085-73929970",
+        "pieces": 6,
+        "weight": 64.5,
+        "destination": "FRA",
+        "consignee": "Commerce Brown LLC",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

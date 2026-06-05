@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0466",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Smith Co.",
+    "shipper_address": "825 Jeremiah Prairie Suite 835, West Rickyport, VA 64680, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Johnson Tech B.V.",
+    "consignee_address": "7189 Taylor Plains, New Jeffrey, ND 25772, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+41 901-788-5016",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 29,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 89.89,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-658025",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 21,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 96.57,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Molly Moore",
+    "signature_date": "2026-04-17",
+    "signature_place": "Japan",
+    "awb_number": "020-38058449",
+    "flight_number": "DL4918",
+    "flight_date": "2026-05-21",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "SYD",
+    "destination_airport_name": "Sydney Kingsford Smith"
+  }
+}

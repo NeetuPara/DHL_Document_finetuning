@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0605",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20260205175291",
+    "export_date": "2026-03-05",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Trevino Global S.A.",
+    "usppi_ein": "59-7408279",
+    "usppi_address": "94689 Jasmine Drives Apt. 290, Guzmanland, MD 40127, Germany",
+    "ultimate_consignee": "Hill Trade Ltd",
+    "intermediate_consignee": "Schneider Trade Inc.",
+    "forwarding_agent": "Jones International LLC",
+    "destination_country": "Hong Kong",
+    "carrier": "UPS",
+    "bl_awb": "074-74489240",
+    "total_value": 370402.08,
+    "currency": "CNY",
+    "signatory": "Shawn Mccarthy",
+    "line_items": [
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Belgium",
+        "qty": 429,
+        "unit": "PCS",
+        "entered_value": 158459.73,
+        "duty_rate": 15.5,
+        "duty_amount": 24561.26,
+        "eccn": "7A994",
+        "schedule_b": "9401.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Malaysia",
+        "qty": 339,
+        "unit": "PCS",
+        "entered_value": 98740.53,
+        "duty_rate": 16.6,
+        "duty_amount": 16390.93,
+        "eccn": "2B350",
+        "schedule_b": "3926.90.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Thailand",
+        "qty": 369,
+        "unit": "CTN",
+        "entered_value": 113201.82,
+        "duty_rate": 5.6,
+        "duty_amount": 6339.3,
+        "eccn": "5E992",
+        "schedule_b": "4819.10.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

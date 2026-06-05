@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0644",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Robert Barnes",
+    "addressee_company": "Pacific Estrada Corp.",
+    "addressee_address": "0866 Peter Summit Apt. 563, Clarkport, NH 29987, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 4.003,
+    "total_value": 2644.25,
+    "currency": "AED",
+    "issue_date": "2026-03-21",
+    "reference": "REF-044361",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.746,
+        "value": 723.69,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 20,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.836,
+        "value": 1405.4,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 4,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.421,
+        "value": 515.16,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Brazil"
+      }
+    ],
+    "sender_name": "Maria Wu",
+    "sender_company": "Trade Bryant Co.",
+    "sender_address": "496 George Creek, Samuelfurt, WY 79168, Switzerland",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 54.48,
+    "tracking_number": "ZI027969282DX"
+  }
+}

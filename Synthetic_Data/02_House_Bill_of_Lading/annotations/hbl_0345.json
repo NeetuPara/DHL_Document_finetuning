@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0345",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU802495942",
+    "shipper_name": "Cummings Tech Co.",
+    "shipper_address": "868 Richard Isle, West Carolyn, MT 84939, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Blair Global Ltd",
+    "consignee_address": "3454 Jeffrey Courts, Howardborough, MN 41850, China",
+    "consignee_country": "China",
+    "notify_party_name": "Tech Hunt Corp.",
+    "notify_party_address": "616 Calhoun Haven Suite 886, Joshuaville, MN 89630, India",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "860W",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Antwerp, BE",
+    "issue_date": "2024-10-10",
+    "issue_place": "Felixstowe",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "STNZ3440295",
+        "seal_no": "SL481322",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "WYLG5856190",
+        "seal_no": "BL998448",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "number_of_packages": 272,
+    "package_type": "Case",
+    "gross_weight_kg": 7005.6,
+    "net_weight_kg": 6709.3,
+    "cbm": 30.119,
+    "marks_and_numbers": "ABC/28"
+  }
+}

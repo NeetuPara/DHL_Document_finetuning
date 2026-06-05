@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0239",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Robert Miller",
+    "addressee_company": "Kim International GmbH",
+    "addressee_address": "4560 Steven Tunnel, Kellystad, DC 80532, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 5.169,
+    "total_value": 1396.02,
+    "currency": "JPY",
+    "issue_date": "2026-01-23",
+    "reference": "REF-071890",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.607,
+        "value": 685.2,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 6,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.562,
+        "value": 710.82,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Daniel Gill",
+    "sender_company": "Commerce Day Pte Ltd",
+    "sender_address": "57239 Sara Lights Suite 456, Amandaland, MN 34996, India",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 1535.62,
+    "postal_charges": 72.49,
+    "tracking_number": "PE283964043IB"
+  }
+}

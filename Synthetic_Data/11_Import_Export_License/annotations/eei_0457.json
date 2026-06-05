@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0457",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "084-72087651-0",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2025-11-11",
+    "port_of_entry": "LAX - Los Angeles",
+    "transport_mode": "Rail",
+    "carrier": "DHL Express",
+    "bl_awb": "045-42235236",
+    "importer_name": "Trade Gutierrez Ltd",
+    "importer_ein": "10-6969291",
+    "consignee_name": "Contreras Commerce Inc.",
+    "customs_broker": "Allen Pacific Corp.",
+    "broker_filer_code": "rZL",
+    "country_of_origin": "France",
+    "total_value": 483439.23,
+    "total_duty": 57351.76,
+    "currency": "JPY",
+    "signatory": "Jason Russell",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Malaysia",
+        "qty": 346,
+        "unit": "CTN",
+        "entered_value": 92264.36,
+        "duty_rate": 6.6,
+        "duty_amount": 6089.45,
+        "eccn": "0A919",
+        "schedule_b": "4819.10.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "United Kingdom",
+        "qty": 352,
+        "unit": "CTN",
+        "entered_value": 78752.96,
+        "duty_rate": 9.1,
+        "duty_amount": 7166.52,
+        "eccn": "7A994",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Canada",
+        "qty": 375,
+        "unit": "LTR",
+        "entered_value": 99352.5,
+        "duty_rate": 5.6,
+        "duty_amount": 5563.74,
+        "eccn": "1A002",
+        "schedule_b": "2901.10.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Sweden",
+        "qty": 499,
+        "unit": "KGS",
+        "entered_value": 98178.25,
+        "duty_rate": 23.8,
+        "duty_amount": 23366.42,
+        "eccn": "1A002",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "United States",
+        "qty": 293,
+        "unit": "PCS",
+        "entered_value": 114891.16,
+        "duty_rate": 13.2,
+        "duty_amount": 15165.63,
+        "eccn": "0A919",
+        "schedule_b": "8518.30.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

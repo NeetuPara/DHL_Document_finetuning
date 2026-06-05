@@ -1,0 +1,89 @@
+{
+  "document_id": "vgm_0251",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Noble Commerce LLC",
+    "shipper_address": "Unit 4435 Box 9272, DPO AA 34459, China",
+    "shipper_country": "China",
+    "container_number": "CWTK5949604",
+    "seal_number": "BL462718",
+    "container_size": "20'GP",
+    "iso_type_code": "22G0",
+    "tare_weight_kg": 2200,
+    "cargo_weight_kg": 13002.8,
+    "packing_materials_kg": 105.7,
+    "vgm_kg": 15308.5,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "348E",
+    "bl_number": "COSU226602419",
+    "booking_reference": "BKG-982715",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-50915",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-18",
+    "signature_date": "2026-05-08",
+    "signatory_name": "Karen Andrews",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 8,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Crate",
+        "n_units": 15,
+        "gross_wt_kg": 1684.3
+      },
+      {
+        "item_no": 2,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Bundle",
+        "n_units": 19,
+        "gross_wt_kg": 1519.5
+      },
+      {
+        "item_no": 3,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Carton",
+        "n_units": 17,
+        "gross_wt_kg": 1914.3
+      },
+      {
+        "item_no": 4,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Roll",
+        "n_units": 18,
+        "gross_wt_kg": 734.3
+      },
+      {
+        "item_no": 5,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Case",
+        "n_units": 9,
+        "gross_wt_kg": 2625.2
+      },
+      {
+        "item_no": 6,
+        "description": "Textile Fabrics - Woven Polyester",
+        "pkg_type": "Pallet",
+        "n_units": 3,
+        "gross_wt_kg": 127.8
+      },
+      {
+        "item_no": 7,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Crate",
+        "n_units": 2,
+        "gross_wt_kg": 2022.0
+      },
+      {
+        "item_no": 8,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Crate",
+        "n_units": 15,
+        "gross_wt_kg": 2375.4
+      }
+    ]
+  }
+}

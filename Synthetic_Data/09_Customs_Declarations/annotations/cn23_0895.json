@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0895",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Carlos Chavez",
+    "addressee_company": "International Allen Corp.",
+    "addressee_address": "75681 Tucker Harbors, New Ryanton, AR 68888, India",
+    "addressee_country": "India",
+    "total_weight_kg": 13.844,
+    "total_value": 2723.71,
+    "currency": "AED",
+    "issue_date": "2025-05-14",
+    "reference": "REF-884259",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.04,
+        "value": 1363.78,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 6,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.189,
+        "value": 524.22,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 15,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.023,
+        "value": 582.75,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 8,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.592,
+        "value": 252.96,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "Abigail Calhoun",
+    "sender_company": "Industry Johnson LLC",
+    "sender_address": "875 Roberts Orchard Suite 897, Lake Amanda, NC 75504, Australia",
+    "sender_phone": "001-336-548-9637x812",
+    "sender_email": "alicia75@example.com",
+    "addressee_phone": "372-412-4827",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 44.96,
+    "tracking_number": "JZ919342795BM"
+  }
+}

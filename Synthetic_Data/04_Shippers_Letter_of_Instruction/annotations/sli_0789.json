@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0789",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202001-7690",
+    "usppi_name": "Chapman International Ltd",
+    "usppi_address": "388 William Court, Sullivanburgh, OR 88685, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "76-2012029",
+    "consignee_name": "Santiago Trade S.A.",
+    "consignee_address": "539 Adams Hill Suite 184, Jasminmouth, MI 20719, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Commerce Garcia LLC",
+    "forwarder": "Panalpina",
+    "incoterm": "CFR",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Robert Savage",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/43",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 34,
+        "unit": "LTR",
+        "weight_kg": 35.08,
+        "value_usd": 888.93
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 105,
+        "unit": "PCS",
+        "weight_kg": 108.2,
+        "value_usd": 1768.22
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 128,
+        "unit": "PCS",
+        "weight_kg": 425.35,
+        "value_usd": 76009.26
+      },
+      {
+        "marks": "ABC/28",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 197,
+        "unit": "PCS",
+        "weight_kg": 210.54,
+        "value_usd": 279275.89
+      },
+      {
+        "marks": "ABC/14",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 5,
+        "unit": "KGS",
+        "weight_kg": 5.0,
+        "value_usd": 10.99
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 64,
+        "unit": "BOX",
+        "weight_kg": 115.9,
+        "value_usd": 1665.16
+      },
+      {
+        "marks": "ABC/46",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 25,
+        "unit": "SET",
+        "weight_kg": 67.59,
+        "value_usd": 3083.82
+      }
+    ],
+    "total_weight_kg": 967.66,
+    "total_value_usd": 362702.27,
+    "vessel": "MSC GULSUN",
+    "voyage": "652S",
+    "booking_ref": "BKG-642798",
+    "bl_number": "COSU965424327",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Long Beach, US",
+    "container_number": "OTHE0811349",
+    "seal_number": "CL308510",
+    "container_type": "40'GP",
+    "cbm": 39.503
+  }
+}

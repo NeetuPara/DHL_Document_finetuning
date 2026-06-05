@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0275",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU540736421",
+    "shipper_name": "Schultz Industry LLC",
+    "shipper_address": "178 Spence Rapids, Gonzalezfurt, SD 49351, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Industry Warner Pte Ltd",
+    "consignee_address": "90088 Gonzalez Highway, Port Anthony, VI 95347, Spain",
+    "consignee_country": "Spain",
+    "notify_party_name": "Johnson Industry LLC",
+    "notify_party_address": "Unit 2828 Box 1028, DPO AA 66698, Brazil",
+    "vessel": "MSC OSCAR",
+    "voyage": "714W",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2024-12-06",
+    "issue_place": "New York",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "CRTJ2752911",
+        "seal_no": "SL563037",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "VREB8229905",
+        "seal_no": "BL397862",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "JVAW4966940",
+        "seal_no": "BL213296",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "XINW0097399",
+        "seal_no": "CL493084",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 305,
+    "package_type": "Pallet",
+    "gross_weight_kg": 18791.8,
+    "net_weight_kg": 17210.6,
+    "cbm": 34.371,
+    "marks_and_numbers": "XYZ/7"
+  }
+}

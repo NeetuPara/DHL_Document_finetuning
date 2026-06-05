@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0800",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Chavez Inc.",
+    "shipper_address": "39988 Desiree Garden Suite 148, North Peter, SD 14537, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Global Luna Corp.",
+    "consignee_address": "5647 Hernandez Passage, Hawkinsville, ND 10948, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+71 326-970-4040",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 26,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 39.87,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Brittany Rose",
+    "signature_date": "2026-04-27",
+    "signature_place": "United Kingdom",
+    "vessel": "EVER GOLDEN",
+    "voyage": "278N",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Dubai, AE"
+  }
+}

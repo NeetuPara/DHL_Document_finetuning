@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0077",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202101-2898",
+    "usppi_name": "Swanson Trade LLC",
+    "usppi_address": "0096 Carlos Manor, North Connie, PA 43030, Poland",
+    "usppi_country": "Poland",
+    "ein": "51-4177613",
+    "consignee_name": "Trade Mccoy B.V.",
+    "consignee_address": "8164 Washington Keys, Garciastad, AR 39236, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Giles Global AG",
+    "forwarder": "Expeditors",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Carol Duncan",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/50",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 51,
+        "unit": "CTN",
+        "weight_kg": 40.55,
+        "value_usd": 256.13
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 39,
+        "unit": "CTN",
+        "weight_kg": 153.21,
+        "value_usd": 990.67
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 20,
+        "unit": "MTR",
+        "weight_kg": 22.86,
+        "value_usd": 339.95
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 66,
+        "unit": "KGS",
+        "weight_kg": 66.0,
+        "value_usd": 83.09
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 57,
+        "unit": "PCS",
+        "weight_kg": 2.91,
+        "value_usd": 4432.51
+      }
+    ],
+    "total_weight_kg": 285.53,
+    "total_value_usd": 6102.35,
+    "service": "Ocean Freight",
+    "named_port": "Singapore, SG",
+    "insurance_value_usd": 39535.16,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Spain"
+  }
+}

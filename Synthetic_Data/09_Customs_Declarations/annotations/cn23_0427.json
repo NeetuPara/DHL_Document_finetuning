@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0427",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Dawn Walters",
+    "addressee_company": "International Perez AG",
+    "addressee_address": "744 Jim Mews Suite 866, East Stephanie, MD 55125, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 5.319,
+    "total_value": 322.93,
+    "currency": "JPY",
+    "issue_date": "2025-12-20",
+    "reference": "REF-902774",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.917,
+        "value": 281.68,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 11,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.402,
+        "value": 41.25,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Geoffrey Parsons",
+    "sender_company": "Global Page AG",
+    "sender_address": "077 John Mills, Sandrahaven, MH 73585, Malaysia",
+    "sender_phone": "218-888-7815x214",
+    "sender_email": "jharvey@example.com",
+    "addressee_phone": "2739585369",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 23.0,
+    "tracking_number": "RS551651799LK"
+  }
+}

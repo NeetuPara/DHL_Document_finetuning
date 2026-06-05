@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0035",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220416722437",
+    "export_date": "2025-12-17",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Knight International Ltd",
+    "usppi_ein": "59-5796036",
+    "usppi_address": "66096 Robert Prairie, North Jennifer, RI 78668, United Arab Emirates",
+    "ultimate_consignee": "Tech Mitchell LLC",
+    "intermediate_consignee": "Harris Tech Ltd",
+    "forwarding_agent": "Richards Global Co.",
+    "destination_country": "Poland",
+    "carrier": "Maersk",
+    "bl_awb": "006-12455859",
+    "total_value": 528629.2,
+    "currency": "AED",
+    "signatory": "John Thompson",
+    "line_items": [
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Spain",
+        "qty": 444,
+        "unit": "PCS",
+        "entered_value": 114503.16,
+        "duty_rate": 18.2,
+        "duty_amount": 20839.58,
+        "eccn": "5E992",
+        "schedule_b": "3926.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "United Kingdom",
+        "qty": 105,
+        "unit": "PCS",
+        "entered_value": 42277.2,
+        "duty_rate": 2.0,
+        "duty_amount": 845.54,
+        "eccn": "5E992",
+        "schedule_b": "9002.11.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Brazil",
+        "qty": 459,
+        "unit": "BOX",
+        "entered_value": 228733.47,
+        "duty_rate": 6.3,
+        "duty_amount": 14410.21,
+        "eccn": "1A002",
+        "schedule_b": "2936.90.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Switzerland",
+        "qty": 353,
+        "unit": "MTR",
+        "entered_value": 123666.49,
+        "duty_rate": 5.6,
+        "duty_amount": 6925.32,
+        "eccn": "9A515",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Brazil",
+        "qty": 88,
+        "unit": "PKG",
+        "entered_value": 19448.88,
+        "duty_rate": 4.7,
+        "duty_amount": 914.1,
+        "eccn": "EAR99",
+        "schedule_b": "4016.93.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

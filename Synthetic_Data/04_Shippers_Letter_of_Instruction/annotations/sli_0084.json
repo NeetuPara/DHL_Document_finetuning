@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0084",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202107-3110",
+    "usppi_name": "Skinner Global S.A.",
+    "usppi_address": "14777 Leonard Mill, New Timothyhaven, SC 49992, Germany",
+    "usppi_country": "Germany",
+    "ein": "76-5339337",
+    "consignee_name": "Tech Pham Corp.",
+    "consignee_address": "PSC 1634, Box 7624, APO AP 06432, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Turner Industry Co.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Jacqueline Garcia",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/40",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 181,
+        "unit": "PKG",
+        "weight_kg": 160.21,
+        "value_usd": 9371.18
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 68,
+        "unit": "PCS",
+        "weight_kg": 48.24,
+        "value_usd": 627.86
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 99,
+        "unit": "KGS",
+        "weight_kg": 99.0,
+        "value_usd": 118.83
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 36,
+        "unit": "CTN",
+        "weight_kg": 130.0,
+        "value_usd": 1273.78
+      },
+      {
+        "marks": "ABC/28",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 194,
+        "unit": "SET",
+        "weight_kg": 756.06,
+        "value_usd": 17495.44
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 90,
+        "unit": "CTN",
+        "weight_kg": 158.82,
+        "value_usd": 206.84
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 100,
+        "unit": "KGS",
+        "weight_kg": 100.0,
+        "value_usd": 2088.33
+      }
+    ],
+    "total_weight_kg": 1452.33,
+    "total_value_usd": 31182.26,
+    "vessel": "MSC OSCAR",
+    "voyage": "103S",
+    "booking_ref": "BKG-441759",
+    "bl_number": "COSU488961769",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Rotterdam, NL",
+    "container_number": "NUGK6045831",
+    "seal_number": "BL900577",
+    "container_type": "40'GP",
+    "cbm": 34.526
+  }
+}

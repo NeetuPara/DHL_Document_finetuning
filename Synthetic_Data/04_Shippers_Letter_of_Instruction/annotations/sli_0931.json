@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0931",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202004-1880",
+    "usppi_name": "Austin Trade LLC",
+    "usppi_address": "79093 Flores Route Suite 002, West Robyn, LA 07789, France",
+    "usppi_country": "France",
+    "ein": "71-4279958",
+    "consignee_name": "Davis Tech GmbH",
+    "consignee_address": "353 Sanchez Crest Suite 035, Stanleyfort, NY 58141, China",
+    "consignee_country": "China",
+    "notify_party": "White Commerce LLC",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Bob Fox PhD",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/21",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 40,
+        "unit": "KGS",
+        "weight_kg": 40.0,
+        "value_usd": 87.82
+      },
+      {
+        "marks": "SLI/33",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 87,
+        "unit": "PCS",
+        "weight_kg": 4.79,
+        "value_usd": 6118.13
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 136,
+        "unit": "BOX",
+        "weight_kg": 144.39,
+        "value_usd": 13224.01
+      },
+      {
+        "marks": "EXP/4",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 90,
+        "unit": "LTR",
+        "weight_kg": 84.29,
+        "value_usd": 825.38
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 103,
+        "unit": "MTR",
+        "weight_kg": 75.73,
+        "value_usd": 411.56
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 139,
+        "unit": "CTN",
+        "weight_kg": 198.94,
+        "value_usd": 1144.57
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 134,
+        "unit": "PCS",
+        "weight_kg": 28.35,
+        "value_usd": 19874.4
+      }
+    ],
+    "total_weight_kg": 576.49,
+    "total_value_usd": 41685.87,
+    "service": "Ocean Freight",
+    "named_port": "Los Angeles, US",
+    "insurance_value_usd": 16651.21,
+    "license_type": "Distributor License",
+    "license_number": "LIC-816648",
+    "destination_country": "China"
+  }
+}

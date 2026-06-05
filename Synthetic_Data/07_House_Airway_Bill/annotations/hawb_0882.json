@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0882",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-95633013",
+    "mawb_number": "020-74853987",
+    "shipper_name": "Global Dunlap Co.",
+    "shipper_address": "1948 Jones Roads Apt. 516, Tammymouth, WA 23973, China",
+    "consignee_name": "Foster Industry B.V.",
+    "consignee_address": "959 Derek Divide Apt. 221, Andrewfort, DC 77376, Thailand",
+    "agent_name": "Schultz Industry B.V.",
+    "airport_departure": "NRT",
+    "airport_destination": "AMS",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 17,
+    "gross_weight_kg": 412.2,
+    "chargeable_weight": 505.9,
+    "rate": 5.22,
+    "total_charge": 2640.8,
+    "nature_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "handling_info": "HANDLING CODE: AVI",
+    "issue_date": "2026-05-02",
+    "signatory": "Ronald Diaz",
+    "iata_code": "57-405",
+    "agent_cass": "2896-3502",
+    "consolidation_ref": "CONS-1922-078538",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-38529512",
+        "pieces": 18,
+        "weight": 33.5,
+        "destination": "ORD",
+        "consignee": "Trade Solomon S.A.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "074-66810016",
+        "pieces": 14,
+        "weight": 39.8,
+        "destination": "PVG",
+        "consignee": "International Gomez B.V.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "045-92938967",
+        "pieces": 11,
+        "weight": 80.4,
+        "destination": "HKG",
+        "consignee": "Moore Pacific Corp.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "045-55349954",
+        "pieces": 8,
+        "weight": 7.5,
+        "destination": "MIA",
+        "consignee": "Schwartz Pacific Co.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "020-80710513",
+        "pieces": 1,
+        "weight": 96.6,
+        "destination": "ICN",
+        "consignee": "International Davis Co.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "020-23265167",
+        "pieces": 9,
+        "weight": 66.1,
+        "destination": "SYD",
+        "consignee": "Industry Silva Pte Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "085-68521108",
+        "pieces": 9,
+        "weight": 99.2,
+        "destination": "YYZ",
+        "consignee": "Trade Villarreal GmbH",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "006-97642879",
+        "pieces": 18,
+        "weight": 38.5,
+        "destination": "SYD",
+        "consignee": "International Benson S.A.",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

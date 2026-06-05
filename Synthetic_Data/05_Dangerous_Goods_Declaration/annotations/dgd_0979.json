@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0979",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Duran Global Corp.",
+    "shipper_address": "7962 Juarez Park Suite 989, Brianport, IN 93123, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Clarke Tech Pte Ltd",
+    "consignee_address": "268 Newton Gardens, South Timothyfurt, LA 70737, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+75 519-328-8081",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 13,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 18.37,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 13,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 0.94,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "James Patterson",
+    "signature_date": "2026-04-17",
+    "signature_place": "Switzerland",
+    "awb_number": "045-28248724",
+    "flight_number": "QR7009",
+    "flight_date": "2026-05-14",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International"
+  }
+}

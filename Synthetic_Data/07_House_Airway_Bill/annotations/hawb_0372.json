@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0372",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-51507709",
+    "mawb_number": "074-60818364",
+    "shipper_name": "Chase Global Ltd",
+    "shipper_address": "08967 Santos Plains, West Kathrynberg, CO 59283, Spain",
+    "consignee_name": "Pacific Smith S.A.",
+    "consignee_address": "3531 Kelsey Crescent, North Rebecca, CA 11478, Netherlands",
+    "agent_name": "Tech Yu Inc.",
+    "airport_departure": "AMS",
+    "airport_destination": "SIN",
+    "currency": "SGD",
+    "charge_code": "PP",
+    "declared_value_carriage": "AUD 23,018.14",
+    "declared_value_customs": "NCV",
+    "n_pieces": 31,
+    "gross_weight_kg": 191.0,
+    "chargeable_weight": 201.0,
+    "rate": 10.32,
+    "total_charge": 2074.32,
+    "nature_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-07-16",
+    "signatory": "Jonathan Berry",
+    "iata_code": "42-805",
+    "agent_cass": "5924-2578",
+    "consolidation_ref": "CONS-3319-928445",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-83426353",
+        "pieces": 15,
+        "weight": 15.0,
+        "destination": "ORD",
+        "consignee": "Reed Commerce Pte Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "074-86645442",
+        "pieces": 4,
+        "weight": 25.0,
+        "destination": "FRA",
+        "consignee": "Pacific Hoover Corp.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "020-61170653",
+        "pieces": 5,
+        "weight": 17.1,
+        "destination": "ORD",
+        "consignee": "Commerce Contreras Corp.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "618-84426992",
+        "pieces": 20,
+        "weight": 13.3,
+        "destination": "NRT",
+        "consignee": "Tech Irwin GmbH",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "045-89856340",
+        "pieces": 7,
+        "weight": 43.8,
+        "destination": "LHR",
+        "consignee": "Pacific Meyers GmbH",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

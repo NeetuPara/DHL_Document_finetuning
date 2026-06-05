@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0835",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Mcdonald S.A.",
+    "shipper_address": "PSC 1702, Box 2531, APO AE 23646, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Tech Torres S.A.",
+    "consignee_address": "1556 Kim Plain Apt. 897, East Carolchester, GA 05177, China",
+    "consignee_country": "China",
+    "emergency_telephone": "+20 664-155-7982",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 36,
+        "pkg_type": "Steel Drum",
+        "net_qty": 14.77,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-180886",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 14,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 24.35,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Mrs. Regina Cruz",
+    "signature_date": "2026-05-03",
+    "signature_place": "Malaysia",
+    "awb_number": "160-45101493",
+    "flight_number": "SQ7230",
+    "flight_date": "2026-05-29",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport"
+  }
+}

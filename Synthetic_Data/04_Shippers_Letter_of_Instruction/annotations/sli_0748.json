@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0748",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202101-8105",
+    "usppi_name": "Bailey Trade S.A.",
+    "usppi_address": "7061 Lee Highway, North Steven, MI 48281, Australia",
+    "usppi_country": "Australia",
+    "ein": "33-8167965",
+    "consignee_name": "Hanson International Ltd",
+    "consignee_address": "PSC 7119, Box 8522, APO AA 15627, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Tech Torres GmbH",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DDP",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Debbie Stone",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/26",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 94,
+        "unit": "BOX",
+        "weight_kg": 162.36,
+        "value_usd": 11268.19
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 60,
+        "unit": "PKG",
+        "weight_kg": 22.56,
+        "value_usd": 5169.02
+      }
+    ],
+    "total_weight_kg": 184.92,
+    "total_value_usd": 16437.21,
+    "service": "Ocean Freight",
+    "named_port": "New York, US",
+    "insurance_value_usd": 31450.51,
+    "license_type": "Distributor License",
+    "license_number": "LIC-291769",
+    "destination_country": "South Korea"
+  }
+}

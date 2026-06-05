@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0025",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "John Weaver",
+    "addressee_company": "Hughes Trade Pte Ltd",
+    "addressee_address": "5544 Price Lodge, Lake Joeshire, MI 94900, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 10.728,
+    "total_value": 2300.45,
+    "currency": "CNY",
+    "issue_date": "2025-10-18",
+    "reference": "REF-664409",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.486,
+        "value": 173.18,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 7,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.34,
+        "value": 85.47,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 20,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.902,
+        "value": 2041.8,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Leslie Hughes",
+    "sender_company": "Shaffer Industry B.V.",
+    "sender_address": "PSC 9863, Box 1387, APO AA 10778, India",
+    "sender_phone": "585-212-6691x513",
+    "sender_email": "michaelflowers@example.net",
+    "addressee_phone": "298.834.2892x70875",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 2530.49,
+    "postal_charges": 39.16,
+    "tracking_number": "XP645851495IH"
+  }
+}

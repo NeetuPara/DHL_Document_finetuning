@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0078",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Lewis S.A.",
+    "shipper_address": "39284 Berger Land, Barryport, MP 85456, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Pacific Nelson Ltd",
+    "consignee_address": "317 Susan Circles, South Nancy, HI 38898, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+68 793-103-6861",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 30,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 18.18,
+        "qty_unit": "L",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 16,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 51.36,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Ricardo Maxwell",
+    "signature_date": "2026-04-30",
+    "signature_place": "United Kingdom",
+    "awb_number": "045-28588469",
+    "flight_number": "QR4659",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

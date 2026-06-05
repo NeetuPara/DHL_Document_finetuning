@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0920",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Bray Trade GmbH",
+    "shipper_address": "3365 Phillip Keys Apt. 054, Lindaborough, UT 30537, China",
+    "shipper_country": "China",
+    "consignee_name": "Tech Castillo GmbH",
+    "consignee_address": "4014 Walker Expressway, Lake Lydia, NH 05172, Brazil",
+    "consignee_country": "Brazil",
+    "emergency_telephone": "+18 919-843-4009",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 41,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 60.9,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-727240",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Bradley Guerra",
+    "signature_date": "2026-04-26",
+    "signature_place": "China",
+    "vessel": "MSC OSCAR",
+    "voyage": "453W",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Felixstowe, GB"
+  }
+}

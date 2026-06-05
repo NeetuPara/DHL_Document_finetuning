@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0229",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Wright Corp.",
+    "shipper_address": "2800 Lori Square, Leonton, MS 89995, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Commerce Mills Corp.",
+    "consignee_address": "541 Sims Plaza, West Anthonyport, KS 97998, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+46 240-970-8338",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 43,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 13.15,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 39,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 68.06,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-789185",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Julian Good",
+    "signature_date": "2026-05-02",
+    "signature_place": "Germany",
+    "awb_number": "176-95318155",
+    "flight_number": "LH467",
+    "flight_date": "2026-05-10",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong"
+  }
+}

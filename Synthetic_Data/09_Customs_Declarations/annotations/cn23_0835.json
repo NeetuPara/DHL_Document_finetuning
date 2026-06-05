@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0835",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Susan Collins",
+    "addressee_company": "Commerce Payne GmbH",
+    "addressee_address": "971 Mark Ferry, Gillberg, TN 68883, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 6.421,
+    "total_value": 275.29,
+    "currency": "AUD",
+    "issue_date": "2026-03-02",
+    "reference": "REF-029081",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.614,
+        "value": 240.84,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 13,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.807,
+        "value": 34.45,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Danielle Clark",
+    "sender_company": "Pacific Newman Co.",
+    "sender_address": "644 Ricky Route, Berryside, MT 56639, Belgium",
+    "sender_phone": "001-532-272-3268",
+    "sender_email": "nicoleking@example.org",
+    "addressee_phone": "(460)470-5656x269",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 302.82,
+    "postal_charges": 78.32,
+    "tracking_number": "NA252669384CB"
+  }
+}

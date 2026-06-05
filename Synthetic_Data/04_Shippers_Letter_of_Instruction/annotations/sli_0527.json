@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0527",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202310-8832",
+    "usppi_name": "Walls Industry Co.",
+    "usppi_address": "6952 Anna Land Suite 691, Ashleyhaven, IA 96236, Poland",
+    "usppi_country": "Poland",
+    "ein": "50-5859013",
+    "consignee_name": "Industry Mills Corp.",
+    "consignee_address": "3674 Murphy Mission Apt. 722, West Matthew, CA 21795, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Freeman International B.V.",
+    "forwarder": "Expeditors",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Joy Thomas",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/2",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 63,
+        "unit": "PCS",
+        "weight_kg": 1075.92,
+        "value_usd": 23912.27
+      },
+      {
+        "marks": "ABC/28",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 187,
+        "unit": "BOX",
+        "weight_kg": 178.35,
+        "value_usd": 9574.15
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 121,
+        "unit": "PKG",
+        "weight_kg": 328.69,
+        "value_usd": 9393.89
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 9,
+        "unit": "SET",
+        "weight_kg": 33.35,
+        "value_usd": 861.55
+      },
+      {
+        "marks": "SLI/20",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 144,
+        "unit": "CTN",
+        "weight_kg": 292.02,
+        "value_usd": 2149.37
+      },
+      {
+        "marks": "ABC/28",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 47,
+        "unit": "LTR",
+        "weight_kg": 48.38,
+        "value_usd": 1535.77
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 102,
+        "unit": "PCS",
+        "weight_kg": 18.44,
+        "value_usd": 2929.12
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 26,
+        "unit": "MTR",
+        "weight_kg": 19.91,
+        "value_usd": 166.47
+      }
+    ],
+    "total_weight_kg": 1995.06,
+    "total_value_usd": 50522.59,
+    "service": "LCL Ocean",
+    "named_port": "Long Beach, US",
+    "insurance_value_usd": 43430.29,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-602676",
+    "destination_country": "Malaysia"
+  }
+}

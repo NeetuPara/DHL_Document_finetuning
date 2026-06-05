@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0824",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202308-5769",
+    "usppi_name": "Commerce Martin AG",
+    "usppi_address": "PSC 0739, Box 7491, APO AA 34253, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "45-5002640",
+    "consignee_name": "Arnold Tech B.V.",
+    "consignee_address": "2073 Bryan Burgs, Perezside, AK 79872, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Industry Clark Inc.",
+    "forwarder": "Expeditors",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Jason Davis",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/1",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 139,
+        "unit": "BOX",
+        "weight_kg": 45.97,
+        "value_usd": 11101.43
+      },
+      {
+        "marks": "ABC/13",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 7,
+        "unit": "LTR",
+        "weight_kg": 7.0,
+        "value_usd": 29.93
+      }
+    ],
+    "total_weight_kg": 52.97,
+    "total_value_usd": 11131.36,
+    "service": "Air Freight",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 8796.36,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-864519",
+    "destination_country": "Canada"
+  }
+}

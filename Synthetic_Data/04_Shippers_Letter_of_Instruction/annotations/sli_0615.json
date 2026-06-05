@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0615",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202411-1826",
+    "usppi_name": "Trade Richards Corp.",
+    "usppi_address": "37441 Patrick Turnpike, West Mariahport, TX 29542, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "78-1581659",
+    "consignee_name": "Pacific Brewer GmbH",
+    "consignee_address": "PSC 5044, Box 3972, APO AP 05110, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Global Martinez S.A.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Lisa Munoz",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/1",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 182,
+        "unit": "KGS",
+        "weight_kg": 182.0,
+        "value_usd": 741.36
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 158,
+        "unit": "PCS",
+        "weight_kg": 208.55,
+        "value_usd": 25384.17
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 144,
+        "unit": "PCS",
+        "weight_kg": 1996.36,
+        "value_usd": 7370.2
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 119,
+        "unit": "CTN",
+        "weight_kg": 180.55,
+        "value_usd": 5548.4
+      },
+      {
+        "marks": "ABC/18",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 50,
+        "unit": "PCS",
+        "weight_kg": 431.25,
+        "value_usd": 6264.96
+      }
+    ],
+    "total_weight_kg": 2998.71,
+    "total_value_usd": 45309.09,
+    "vessel": "EVER GOLDEN",
+    "voyage": "651S",
+    "booking_ref": "BKG-455225",
+    "bl_number": "YMLU478687960",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Busan, KR",
+    "container_number": "QIBL5016979",
+    "seal_number": "SL137676",
+    "container_type": "40'HC",
+    "cbm": 26.818
+  }
+}

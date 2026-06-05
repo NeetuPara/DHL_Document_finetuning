@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0747",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202503-8456",
+    "usppi_name": "Preston Trade Pte Ltd",
+    "usppi_address": "55841 Albert Knoll Suite 511, Griffithhaven, DC 51044, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "79-3769791",
+    "consignee_name": "Tech Mcpherson S.A.",
+    "consignee_address": "967 Archer Centers, New Rebecca, SC 63655, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Ferguson Tech S.A.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIF",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "2B350",
+    "signatory_name": "Donald Lee",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/35",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 41,
+        "unit": "PCS",
+        "weight_kg": 5.48,
+        "value_usd": 2045.48
+      },
+      {
+        "marks": "SLI/11",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 191,
+        "unit": "KGS",
+        "weight_kg": 191.0,
+        "value_usd": 2096.06
+      },
+      {
+        "marks": "ABC/3",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 54,
+        "unit": "PCS",
+        "weight_kg": 28.1,
+        "value_usd": 15488.85
+      }
+    ],
+    "total_weight_kg": 224.58,
+    "total_value_usd": 19630.39,
+    "vessel": "MADRID MAERSK",
+    "voyage": "302S",
+    "booking_ref": "BKG-655820",
+    "bl_number": "OOLU250107259",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Los Angeles, US",
+    "container_number": "VYOO2877976",
+    "seal_number": "CL193689",
+    "container_type": "45'HC",
+    "cbm": 12.466
+  }
+}

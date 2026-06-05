@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0660",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202412-7770",
+    "usppi_name": "Floyd Industry GmbH",
+    "usppi_address": "5930 Paul Corners, Rosaleston, RI 31328, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "67-2067320",
+    "consignee_name": "Tech Gonzales B.V.",
+    "consignee_address": "Unit 9379 Box 5968, DPO AE 26107, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Garcia Commerce LLC",
+    "forwarder": "Panalpina",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Willie Singh MD",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/30",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 94,
+        "unit": "LTR",
+        "weight_kg": 87.08,
+        "value_usd": 495.66
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 66,
+        "unit": "KGS",
+        "weight_kg": 66.0,
+        "value_usd": 49.35
+      },
+      {
+        "marks": "EXP/15",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 167,
+        "unit": "CTN",
+        "weight_kg": 338.52,
+        "value_usd": 2107.28
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 29,
+        "unit": "KGS",
+        "weight_kg": 29.0,
+        "value_usd": 261.07
+      },
+      {
+        "marks": "ABC/13",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 170,
+        "unit": "PCS",
+        "weight_kg": 846.99,
+        "value_usd": 126907.26
+      },
+      {
+        "marks": "SLI/3",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 38,
+        "unit": "PKG",
+        "weight_kg": 64.73,
+        "value_usd": 2112.55
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 93,
+        "unit": "SET",
+        "weight_kg": 308.09,
+        "value_usd": 14347.54
+      }
+    ],
+    "total_weight_kg": 1740.41,
+    "total_value_usd": 146280.71,
+    "vessel": "MSC GULSUN",
+    "voyage": "581N",
+    "booking_ref": "BKG-816789",
+    "bl_number": "DHLG663301303",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "WLLA0707526",
+    "seal_number": "BL415325",
+    "container_type": "45'HC",
+    "cbm": 25.96
+  }
+}

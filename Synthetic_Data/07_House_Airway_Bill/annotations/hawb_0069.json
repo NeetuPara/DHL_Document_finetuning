@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0069",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-79838044",
+    "mawb_number": "176-98925115",
+    "shipper_name": "Olson Global Inc.",
+    "shipper_address": "2447 Jacqueline Crescent Apt. 776, Thomasfort, SC 96149, Hong Kong",
+    "consignee_name": "Pacific Gutierrez Corp.",
+    "consignee_address": "829 Arnold Loop, Patrickview, OH 71459, Spain",
+    "agent_name": "Miller Global Co.",
+    "airport_departure": "SIN",
+    "airport_destination": "LAX",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "JPY 32,597.68",
+    "declared_value_customs": "EUR 34,797.28",
+    "n_pieces": 15,
+    "gross_weight_kg": 310.4,
+    "chargeable_weight": 374.6,
+    "rate": 6.87,
+    "total_charge": 2573.5,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-12-21",
+    "signatory": "Michaela Bryant",
+    "iata_code": "33-800",
+    "agent_cass": "1841-2623",
+    "consolidation_ref": "CONS-2277-974171",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-62671922",
+        "pieces": 20,
+        "weight": 75.0,
+        "destination": "LHR",
+        "consignee": "Pacific Howell Inc.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "618-86508155",
+        "pieces": 5,
+        "weight": 30.4,
+        "destination": "SYD",
+        "consignee": "Moreno Trade B.V.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "074-57780580",
+        "pieces": 13,
+        "weight": 16.1,
+        "destination": "LHR",
+        "consignee": "International Gilbert Inc.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "057-41783713",
+        "pieces": 9,
+        "weight": 35.4,
+        "destination": "AMS",
+        "consignee": "Lopez International Corp.",
+        "description": "Plastic Products - Injection Moulde"
+      }
+    ]
+  }
+}

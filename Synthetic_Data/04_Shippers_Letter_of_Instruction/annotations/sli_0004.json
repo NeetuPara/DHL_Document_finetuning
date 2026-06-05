@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0004",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202304-9234",
+    "usppi_name": "Global Davis Ltd",
+    "usppi_address": "998 Villanueva Roads, Moorestad, CA 30245, Canada",
+    "usppi_country": "Canada",
+    "ein": "68-5323772",
+    "consignee_name": "Velasquez Pacific Ltd",
+    "consignee_address": "Unit 2321 Box 0547, DPO AE 11899, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Commerce Kennedy Pte Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Michael Meyer",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/19",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 152,
+        "unit": "KGS",
+        "weight_kg": 152.0,
+        "value_usd": 3145.43
+      },
+      {
+        "marks": "SLI/2",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 152,
+        "unit": "SET",
+        "weight_kg": 506.22,
+        "value_usd": 16985.16
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 191,
+        "unit": "PCS",
+        "weight_kg": 2405.87,
+        "value_usd": 25789.44
+      },
+      {
+        "marks": "SLI/19",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 171,
+        "unit": "PCS",
+        "weight_kg": 128.2,
+        "value_usd": 243800.07
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 194,
+        "unit": "PCS",
+        "weight_kg": 204.51,
+        "value_usd": 6338.41
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 182,
+        "unit": "BOX",
+        "weight_kg": 61.77,
+        "value_usd": 14627.38
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 34,
+        "unit": "MTR",
+        "weight_kg": 24.48,
+        "value_usd": 411.84
+      }
+    ],
+    "total_weight_kg": 3483.05,
+    "total_value_usd": 311097.73,
+    "service": "Air Freight",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 40558.95,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-746016",
+    "destination_country": "Netherlands"
+  }
+}

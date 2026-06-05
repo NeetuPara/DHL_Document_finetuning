@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0681",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202307-9694",
+    "usppi_name": "Mitchell Trade Ltd",
+    "usppi_address": "USS Sanchez, FPO AA 76264, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "54-1152762",
+    "consignee_name": "Chen Industry Ltd",
+    "consignee_address": "53962 Mills Mill, Alexhaven, MN 23436, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Alvarez Industry Co.",
+    "forwarder": "Panalpina",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Melissa George",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/20",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 143,
+        "unit": "PCS",
+        "weight_kg": 24.88,
+        "value_usd": 34638.45
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 48,
+        "unit": "KGS",
+        "weight_kg": 48.0,
+        "value_usd": 86.23
+      },
+      {
+        "marks": "SLI/29",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 155,
+        "unit": "PCS",
+        "weight_kg": 2916.91,
+        "value_usd": 34022.29
+      },
+      {
+        "marks": "ABC/5",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 110,
+        "unit": "BOX",
+        "weight_kg": 150.65,
+        "value_usd": 10971.3
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 90,
+        "unit": "PCS",
+        "weight_kg": 36.93,
+        "value_usd": 108831.81
+      },
+      {
+        "marks": "ABC/41",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 167,
+        "unit": "KGS",
+        "weight_kg": 167.0,
+        "value_usd": 2973.9
+      },
+      {
+        "marks": "SLI/38",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 139,
+        "unit": "PCS",
+        "weight_kg": 1731.58,
+        "value_usd": 61798.25
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 54,
+        "unit": "CTN",
+        "weight_kg": 228.67,
+        "value_usd": 3168.88
+      }
+    ],
+    "total_weight_kg": 5304.62,
+    "total_value_usd": 256491.11,
+    "vessel": "PIL PACIFIC",
+    "voyage": "326W",
+    "booking_ref": "BKG-386127",
+    "bl_number": "EGLV950850866",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "NQYL1969903",
+    "seal_number": "CL851612",
+    "container_type": "40'HC",
+    "cbm": 56.202
+  }
+}

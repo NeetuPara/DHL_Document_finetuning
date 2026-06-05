@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0216",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-80821677",
+    "mawb_number": "176-17637516",
+    "shipper_name": "Howard Trade S.A.",
+    "shipper_address": "1944 Amanda Mills Apt. 284, South William, MT 50097, Japan",
+    "consignee_name": "Pacific Little GmbH",
+    "consignee_address": "976 Samantha Circles, East Barbaraton, SC 61813, United States",
+    "agent_name": "Hunter Commerce Ltd",
+    "airport_departure": "ORD",
+    "airport_destination": "LHR",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "EUR 4,746.70",
+    "declared_value_customs": "NCV",
+    "n_pieces": 46,
+    "gross_weight_kg": 199.2,
+    "chargeable_weight": 230.1,
+    "rate": 8.06,
+    "total_charge": 1854.61,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "TEMP CONTROLLED: 5\u00b0C - 18\u00b0C",
+    "issue_date": "2025-08-20",
+    "signatory": "Brittney Brown",
+    "iata_code": "70-481",
+    "agent_cass": "6190-2441",
+    "consolidation_ref": "CONS-7871-584478",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-84701536",
+        "pieces": 11,
+        "weight": 3.5,
+        "destination": "YYZ",
+        "consignee": "International Weaver Ltd",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "006-69313590",
+        "pieces": 17,
+        "weight": 38.8,
+        "destination": "SIN",
+        "consignee": "Pacific Diaz B.V.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "160-62203735",
+        "pieces": 6,
+        "weight": 6.3,
+        "destination": "ORD",
+        "consignee": "Gibbs Industry B.V.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "618-60367300",
+        "pieces": 8,
+        "weight": 35.9,
+        "destination": "ORD",
+        "consignee": "Pacific Lang S.A.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "176-58738526",
+        "pieces": 7,
+        "weight": 47.1,
+        "destination": "SYD",
+        "consignee": "Pacific Phillips LLC",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "045-73602555",
+        "pieces": 9,
+        "weight": 6.2,
+        "destination": "HKG",
+        "consignee": "Tech Hampton LLC",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "176-86006904",
+        "pieces": 11,
+        "weight": 79.6,
+        "destination": "SIN",
+        "consignee": "Nelson Tech Pte Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "176-47445492",
+        "pieces": 5,
+        "weight": 27.5,
+        "destination": "FRA",
+        "consignee": "Commerce Cortez Inc.",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

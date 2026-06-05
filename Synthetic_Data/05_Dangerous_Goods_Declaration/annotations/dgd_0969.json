@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0969",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Gates Tech B.V.",
+    "shipper_address": "0330 Nicholas Lock, South Ann, MA 11795, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Industry Gonzalez Inc.",
+    "consignee_address": "619 West Radial, Burtonton, MH 63826, Mexico",
+    "consignee_country": "Mexico",
+    "emergency_telephone": "+92 331-598-1686",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 47,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 47.79,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Kenneth Yates",
+    "signature_date": "2026-05-02",
+    "signature_place": "Brazil",
+    "awb_number": "074-21354996",
+    "flight_number": "UA4583",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

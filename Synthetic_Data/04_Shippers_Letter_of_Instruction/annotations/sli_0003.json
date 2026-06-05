@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0003",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202411-8080",
+    "usppi_name": "Pacific Keith Ltd",
+    "usppi_address": "42568 Diana Garden Suite 667, Lake Tracyfort, ND 90584, Poland",
+    "usppi_country": "Poland",
+    "ein": "67-4355526",
+    "consignee_name": "Hendricks International Inc.",
+    "consignee_address": "08648 Daniels Springs Apt. 646, Matthewhaven, CA 11476, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Industry Holmes AG",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DPU",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "Steven Hernandez",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/48",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 11,
+        "unit": "CTN",
+        "weight_kg": 24.4,
+        "value_usd": 53.85
+      },
+      {
+        "marks": "SLI/11",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 171,
+        "unit": "PCS",
+        "weight_kg": 32.55,
+        "value_usd": 5684.55
+      },
+      {
+        "marks": "EXP/9",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 130,
+        "unit": "PCS",
+        "weight_kg": 2264.46,
+        "value_usd": 56822.92
+      }
+    ],
+    "total_weight_kg": 2321.41,
+    "total_value_usd": 62561.32,
+    "vessel": "ONE INNOVATION",
+    "voyage": "276S",
+    "booking_ref": "BKG-275417",
+    "bl_number": "DHLG428397068",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Busan, KR",
+    "container_number": "GGJL7704049",
+    "seal_number": "SL197201",
+    "container_type": "20'GP",
+    "cbm": 17.333
+  }
+}

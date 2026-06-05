@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0193",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "553-69363148-8",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2026-01-25",
+    "port_of_entry": "BOS - Boston",
+    "transport_mode": "Ocean",
+    "carrier": "DHL Express",
+    "bl_awb": "085-84660647",
+    "importer_name": "Morse Pacific Inc.",
+    "importer_ein": "51-3174188",
+    "consignee_name": "Fry Trade LLC",
+    "customs_broker": "Global Bryant B.V.",
+    "broker_filer_code": "JFk",
+    "country_of_origin": "Brazil",
+    "total_value": 88905.52,
+    "total_duty": 5775.25,
+    "currency": "CAD",
+    "signatory": "Derek Curtis",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Thailand",
+        "qty": 21,
+        "unit": "PCS",
+        "entered_value": 1749.3,
+        "duty_rate": 16.5,
+        "duty_amount": 288.63,
+        "eccn": "EAR99",
+        "schedule_b": "8483.40.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Poland",
+        "qty": 197,
+        "unit": "PCS",
+        "entered_value": 19583.77,
+        "duty_rate": 18.7,
+        "duty_amount": 3662.16,
+        "eccn": "9A515",
+        "schedule_b": "8534.00.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Japan",
+        "qty": 365,
+        "unit": "PCS",
+        "entered_value": 67572.45,
+        "duty_rate": 2.7,
+        "duty_amount": 1824.46,
+        "eccn": "2B350",
+        "schedule_b": "8518.30.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

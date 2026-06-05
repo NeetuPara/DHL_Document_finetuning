@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0111",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU606507646",
+    "shipper_name": "Trujillo International Corp.",
+    "shipper_address": "82758 Christopher Turnpike Apt. 788, Hendersonbury, IA 16144, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Pacific Newman LLC",
+    "consignee_address": "49221 Cross Radial, Fernandezshire, MH 72221, China",
+    "consignee_country": "China",
+    "notify_party_name": "Campbell Pacific B.V.",
+    "notify_party_address": "385 Richard Roads, Karimouth, NM 43568, South Korea",
+    "vessel": "MSC GULSUN",
+    "voyage": "470W",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2024-10-18",
+    "issue_place": "Rotterdam",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "PVRC2177224",
+        "seal_no": "CL781386",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "GFAZ4947656",
+        "seal_no": "BL799737",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "MOWY8012693",
+        "seal_no": "BL757756",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "EJDP4454316",
+        "seal_no": "SL244184",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "number_of_packages": 192,
+    "package_type": "Drum",
+    "gross_weight_kg": 13484.4,
+    "net_weight_kg": 12281.4,
+    "cbm": 6.145,
+    "marks_and_numbers": "XYZ/21"
+  }
+}

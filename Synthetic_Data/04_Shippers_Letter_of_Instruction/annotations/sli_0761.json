@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0761",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202110-7091",
+    "usppi_name": "Commerce Russell GmbH",
+    "usppi_address": "85012 Morrow Creek, New Hannahberg, FL 07707, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "40-2294609",
+    "consignee_name": "Underwood Industry Pte Ltd",
+    "consignee_address": "65182 Kenneth Island Suite 724, Davidville, NY 36876, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Davies Pacific Pte Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Mary Grant",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/48",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 176,
+        "unit": "PCS",
+        "weight_kg": 1865.87,
+        "value_usd": 33465.25
+      },
+      {
+        "marks": "EXP/23",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 162,
+        "unit": "PCS",
+        "weight_kg": 62.93,
+        "value_usd": 105736.61
+      },
+      {
+        "marks": "SLI/27",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 49,
+        "unit": "BOX",
+        "weight_kg": 18.73,
+        "value_usd": 3757.75
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 91,
+        "unit": "CTN",
+        "weight_kg": 70.77,
+        "value_usd": 1236.57
+      },
+      {
+        "marks": "EXP/17",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 163,
+        "unit": "PCS",
+        "weight_kg": 173.81,
+        "value_usd": 4141.32
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 50,
+        "unit": "LTR",
+        "weight_kg": 51.32,
+        "value_usd": 1683.17
+      }
+    ],
+    "total_weight_kg": 2243.43,
+    "total_value_usd": 150020.67,
+    "service": "Express Courier",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 16509.4,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-439138",
+    "destination_country": "Poland"
+  }
+}

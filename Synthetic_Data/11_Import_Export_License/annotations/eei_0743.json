@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0743",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250801837265",
+    "export_date": "2026-04-17",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Floyd Commerce Ltd",
+    "usppi_ein": "76-9398251",
+    "usppi_address": "38094 Jessica Roads Apt. 468, Natalieville, FL 34032, Singapore",
+    "ultimate_consignee": "King Trade Pte Ltd",
+    "intermediate_consignee": "Smith Tech LLC",
+    "forwarding_agent": "Pacific Cox S.A.",
+    "destination_country": "Spain",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "176-13356386",
+    "total_value": 125527.16,
+    "currency": "AED",
+    "signatory": "Sara Strickland",
+    "line_items": [
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Italy",
+        "qty": 343,
+        "unit": "KGS",
+        "entered_value": 113001.35,
+        "duty_rate": 1.4,
+        "duty_amount": 1582.02,
+        "eccn": "EAR99",
+        "schedule_b": "2008.19.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Thailand",
+        "qty": 33,
+        "unit": "KGS",
+        "entered_value": 12525.81,
+        "duty_rate": 14.6,
+        "duty_amount": 1828.77,
+        "eccn": "0A919",
+        "schedule_b": "2008.19.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

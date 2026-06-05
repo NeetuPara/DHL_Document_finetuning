@@ -1,0 +1,82 @@
+{
+  "document_id": "vgm_0044",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Best Tech GmbH",
+    "shipper_address": "696 Shannon Park, Lake Ericland, WV 49763, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "container_number": "GQIG0761566",
+    "seal_number": "SL814757",
+    "container_size": "40'HC",
+    "iso_type_code": "45G0",
+    "tare_weight_kg": 4000,
+    "cargo_weight_kg": 17460.3,
+    "packing_materials_kg": 51.7,
+    "vgm_kg": 21512.0,
+    "vessel": "MSC OSCAR",
+    "voyage": "688E",
+    "bl_number": "EGLV403952217",
+    "booking_reference": "BKG-889193",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-22994",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-23",
+    "signature_date": "2026-05-10",
+    "signatory_name": "Amber Butler",
+    "signatory_title": "Shipping Coordinator",
+    "number_of_packages": 7,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Roll",
+        "n_units": 3,
+        "gross_wt_kg": 785.8
+      },
+      {
+        "item_no": 2,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Drum",
+        "n_units": 1,
+        "gross_wt_kg": 3160.9
+      },
+      {
+        "item_no": 3,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Crate",
+        "n_units": 20,
+        "gross_wt_kg": 2167.2
+      },
+      {
+        "item_no": 4,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Bag",
+        "n_units": 18,
+        "gross_wt_kg": 2203.5
+      },
+      {
+        "item_no": 5,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Drum",
+        "n_units": 5,
+        "gross_wt_kg": 2037.3
+      },
+      {
+        "item_no": 6,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Case",
+        "n_units": 12,
+        "gross_wt_kg": 328.2
+      },
+      {
+        "item_no": 7,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Bundle",
+        "n_units": 11,
+        "gross_wt_kg": 6777.4
+      }
+    ]
+  }
+}

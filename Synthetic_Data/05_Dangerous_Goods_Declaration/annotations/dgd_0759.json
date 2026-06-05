@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0759",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Lewis B.V.",
+    "shipper_address": "9810 Allen Light Apt. 818, East Jeanne, MA 28726, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Little International S.A.",
+    "consignee_address": "9521 John Cape Suite 302, Amyfurt, CT 83554, Germany",
+    "consignee_country": "Germany",
+    "emergency_telephone": "+96 272-224-4712",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 5,
+        "pkg_type": "Steel Drum",
+        "net_qty": 53.1,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 44,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 0.62,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-301768",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Linda Woodward",
+    "signature_date": "2026-05-13",
+    "signature_place": "United States",
+    "awb_number": "074-25954964",
+    "flight_number": "EK7016",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "LHR",
+    "destination_airport_name": "London Heathrow",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

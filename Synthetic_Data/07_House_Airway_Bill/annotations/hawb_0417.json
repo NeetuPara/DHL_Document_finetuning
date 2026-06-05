@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0417",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-10871886",
+    "mawb_number": "074-85525043",
+    "shipper_name": "Trade Cook Pte Ltd",
+    "shipper_address": "7593 Lynn Run Suite 984, Destinyton, NV 77965, Brazil",
+    "consignee_name": "International Padilla Co.",
+    "consignee_address": "6974 Lowe Plaza Suite 123, Williamshaven, NJ 22493, Singapore",
+    "agent_name": "Evans International LLC",
+    "airport_departure": "CDG",
+    "airport_destination": "SIN",
+    "currency": "GBP",
+    "charge_code": "PP",
+    "declared_value_carriage": "EUR 2,368.18",
+    "declared_value_customs": "AUD 32,792.39",
+    "n_pieces": 8,
+    "gross_weight_kg": 475.3,
+    "chargeable_weight": 479.1,
+    "rate": 1.97,
+    "total_charge": 943.83,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-01-06",
+    "signatory": "Mark Robinson",
+    "iata_code": "07-639",
+    "agent_cass": "3404-0674",
+    "consolidation_ref": "CONS-2868-133828",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-83319070",
+        "pieces": 19,
+        "weight": 19.7,
+        "destination": "NRT",
+        "consignee": "Tech Aguirre LLC",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "618-15650912",
+        "pieces": 11,
+        "weight": 30.7,
+        "destination": "LHR",
+        "consignee": "Hart Commerce LLC",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "085-58143899",
+        "pieces": 2,
+        "weight": 89.9,
+        "destination": "SYD",
+        "consignee": "Trade Flores Co.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "618-82615647",
+        "pieces": 16,
+        "weight": 81.0,
+        "destination": "SIN",
+        "consignee": "Global Allen AG",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "160-71904089",
+        "pieces": 2,
+        "weight": 76.3,
+        "destination": "ICN",
+        "consignee": "Wilson Pacific AG",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "176-79124391",
+        "pieces": 19,
+        "weight": 48.0,
+        "destination": "LAX",
+        "consignee": "Commerce Garrett Inc.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "006-47139265",
+        "pieces": 7,
+        "weight": 39.1,
+        "destination": "LAX",
+        "consignee": "International Perry S.A.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "618-86317484",
+        "pieces": 10,
+        "weight": 11.1,
+        "destination": "CDG",
+        "consignee": "Burns Industry Pte Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      }
+    ]
+  }
+}

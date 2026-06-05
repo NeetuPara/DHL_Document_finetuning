@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0942",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202208-9360",
+    "usppi_name": "Tech Jones AG",
+    "usppi_address": "66735 Little Ranch, South Deborah, MN 51194, Canada",
+    "usppi_country": "Canada",
+    "ein": "26-3192730",
+    "consignee_name": "Hernandez Industry Pte Ltd",
+    "consignee_address": "889 Monique Ports, Michellefort, KY 01484, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Trade Morse S.A.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Danny Rojas",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/7",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 138,
+        "unit": "BOX",
+        "weight_kg": 99.09,
+        "value_usd": 1475.81
+      },
+      {
+        "marks": "SLI/26",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 20,
+        "unit": "KGS",
+        "weight_kg": 20.0,
+        "value_usd": 309.24
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 74,
+        "unit": "PCS",
+        "weight_kg": 974.92,
+        "value_usd": 39008.9
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 170,
+        "unit": "MTR",
+        "weight_kg": 163.39,
+        "value_usd": 2012.89
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 8,
+        "unit": "PCS",
+        "weight_kg": 2.03,
+        "value_usd": 103.95
+      }
+    ],
+    "total_weight_kg": 1259.43,
+    "total_value_usd": 42910.79,
+    "vessel": "MOL TRIUMPH",
+    "voyage": "296N",
+    "booking_ref": "BKG-570980",
+    "bl_number": "YMLU178359890",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Antwerp, BE",
+    "container_number": "FRAE9587325",
+    "seal_number": "SL901138",
+    "container_type": "40'HC",
+    "cbm": 31.624
+  }
+}

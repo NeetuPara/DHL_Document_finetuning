@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0080",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Roberts International Ltd",
+    "shipper_address": "54364 Adkins Islands Apt. 507, Burnsland, NH 20987, China",
+    "shipper_country": "China",
+    "consignee_name": "Harrison International AG",
+    "consignee_address": "815 Leah Courts, West Davidland, NJ 40212, Poland",
+    "consignee_country": "Poland",
+    "emergency_telephone": "+58 244-200-6343",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 48,
+        "pkg_type": "Steel Drum",
+        "net_qty": 32.1,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 4,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 50.63,
+        "qty_unit": "mL",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Kent Johnson",
+    "signature_date": "2026-04-29",
+    "signature_place": "China",
+    "vessel": "MSC GULSUN",
+    "voyage": "255E",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "New York, US"
+  }
+}

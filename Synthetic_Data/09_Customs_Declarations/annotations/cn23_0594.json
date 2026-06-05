@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0594",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Matthew Nguyen",
+    "addressee_company": "Scott Tech GmbH",
+    "addressee_address": "2404 Thomas Roads, Bakerborough, KS 03882, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 13.163,
+    "total_value": 3831.81,
+    "currency": "SGD",
+    "issue_date": "2025-09-29",
+    "reference": "REF-293704",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 4.777,
+        "value": 1220.38,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 18,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.954,
+        "value": 2570.94,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 7,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.149,
+        "value": 20.79,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 2,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.283,
+        "value": 19.7,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_country": "France",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "463-51766942-5",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 1.7,
+    "estimated_duty": 65.14,
+    "importer_ein": "98-3600712",
+    "customs_broker": "Industry Huerta LLC"
+  }
+}

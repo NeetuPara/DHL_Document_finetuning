@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0081",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-16743931",
+    "mawb_number": "057-64949893",
+    "shipper_name": "Mitchell Global LLC",
+    "shipper_address": "720 Sarah Forks Suite 560, Carterside, MP 53193, Malaysia",
+    "consignee_name": "Taylor Commerce Inc.",
+    "consignee_address": "927 Lauren Crossroad Suite 992, Port Kevinshire, OH 80113, United Arab Emirates",
+    "agent_name": "Ware Pacific S.A.",
+    "airport_departure": "LHR",
+    "airport_destination": "FRA",
+    "currency": "USD",
+    "charge_code": "CC",
+    "declared_value_carriage": "CNY 36,456.36",
+    "declared_value_customs": "CHF 2,003.24",
+    "n_pieces": 5,
+    "gross_weight_kg": 334.0,
+    "chargeable_weight": 361.3,
+    "rate": 8.81,
+    "total_charge": 3183.05,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-08-07",
+    "signatory": "Juan Peck",
+    "iata_code": "54-957",
+    "agent_cass": "1750-2135",
+    "consolidation_ref": "CONS-9672-106720",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-38002994",
+        "pieces": 5,
+        "weight": 6.5,
+        "destination": "PVG",
+        "consignee": "Smith Industry Corp.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "160-64853169",
+        "pieces": 12,
+        "weight": 95.8,
+        "destination": "AMS",
+        "consignee": "Cain Global LLC",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "160-54425970",
+        "pieces": 14,
+        "weight": 14.4,
+        "destination": "CDG",
+        "consignee": "Global Stevens Inc.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "176-48767092",
+        "pieces": 2,
+        "weight": 44.3,
+        "destination": "DXB",
+        "consignee": "Davila Commerce GmbH",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "057-54055250",
+        "pieces": 20,
+        "weight": 3.9,
+        "destination": "LAX",
+        "consignee": "Tech Hernandez Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "074-48285546",
+        "pieces": 7,
+        "weight": 76.9,
+        "destination": "PVG",
+        "consignee": "Goodwin Trade S.A.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "176-22718030",
+        "pieces": 1,
+        "weight": 54.7,
+        "destination": "AMS",
+        "consignee": "Wilkins Tech LLC",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "085-23324951",
+        "pieces": 7,
+        "weight": 68.2,
+        "destination": "FRA",
+        "consignee": "Tech Christian Co.",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

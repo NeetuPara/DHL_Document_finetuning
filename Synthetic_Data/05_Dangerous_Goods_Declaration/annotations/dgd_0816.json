@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0816",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Rodriguez GmbH",
+    "shipper_address": "47327 Patrick Burgs, Longberg, NV 01370, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Global Harris S.A.",
+    "consignee_address": "9365 Parker Island, Joneshaven, UT 83889, Belgium",
+    "consignee_country": "Belgium",
+    "emergency_telephone": "+89 548-865-3372",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 22,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 24.91,
+        "qty_unit": "L",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-270289",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Ryan Rose",
+    "signature_date": "2026-05-07",
+    "signature_place": "Sweden",
+    "awb_number": "125-90446726",
+    "flight_number": "EK6419",
+    "departure_airport_code": "CDG",
+    "departure_airport_name": "Paris CDG",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

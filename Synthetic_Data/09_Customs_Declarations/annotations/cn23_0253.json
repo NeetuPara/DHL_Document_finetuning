@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0253",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Renee Williams",
+    "addressee_company": "Ford Industry Corp.",
+    "addressee_address": "9110 Anna Ports Apt. 037, West Daniel, HI 14403, France",
+    "addressee_country": "France",
+    "total_weight_kg": 7.24,
+    "total_value": 1636.52,
+    "currency": "AED",
+    "issue_date": "2025-10-07",
+    "reference": "REF-549353",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.275,
+        "value": 728.31,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 7,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.304,
+        "value": 46.97,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 12,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.661,
+        "value": 861.24,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_name": "Erica Williams",
+    "sender_company": "Flynn Industry AG",
+    "sender_address": "696 Deborah Plain Apt. 570, Donnaland, FM 83206, Hong Kong",
+    "sender_phone": "+1-533-480-8297x184",
+    "sender_email": "peter78@example.com",
+    "addressee_phone": "387-408-6401",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 32.7,
+    "tracking_number": "CZ761390168PR"
+  }
+}

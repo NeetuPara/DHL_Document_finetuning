@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0185",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Graham Tech Corp.",
+    "shipper_address": "4632 Schwartz Mountain Apt. 814, Hensleyshire, NC 88477, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Commerce Adams AG",
+    "consignee_address": "Unit 3724 Box 2473, DPO AP 49388, Poland",
+    "consignee_country": "Poland",
+    "emergency_telephone": "+21 526-972-3399",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 12,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 62.43,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 2,
+        "pkg_type": "Steel Drum",
+        "net_qty": 49.0,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-131696",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Matthew Waters",
+    "signature_date": "2026-05-11",
+    "signature_place": "Thailand",
+    "vessel": "MADRID MAERSK",
+    "voyage": "921E",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Antwerp, BE"
+  }
+}

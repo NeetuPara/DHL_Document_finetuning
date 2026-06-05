@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0305",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Industry Miller Inc.",
+    "shipper_address": "11108 Amanda Circles Suite 290, New Meredithbury, MI 22131, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "container_number": "JKCJ2255307",
+    "seal_number": "BL755441",
+    "container_size": "45'HC",
+    "iso_type_code": "L5G0",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 8330.2,
+    "packing_materials_kg": 294.3,
+    "vgm_kg": 13424.5,
+    "vessel": "ONE INNOVATION",
+    "voyage": "222E",
+    "bl_number": "YMLU846259522",
+    "booking_reference": "BKG-370689",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-86757",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-21",
+    "signature_date": "2026-05-07",
+    "signatory_name": "Amanda Gay",
+    "signatory_title": "VGM Officer",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Roll",
+        "n_units": 10,
+        "gross_wt_kg": 2353.7
+      },
+      {
+        "item_no": 2,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Cylinder",
+        "n_units": 1,
+        "gross_wt_kg": 1342.6
+      },
+      {
+        "item_no": 3,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Case",
+        "n_units": 17,
+        "gross_wt_kg": 1852.0
+      },
+      {
+        "item_no": 4,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Bundle",
+        "n_units": 18,
+        "gross_wt_kg": 1858.2
+      },
+      {
+        "item_no": 5,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Drum",
+        "n_units": 12,
+        "gross_wt_kg": 923.7
+      }
+    ]
+  }
+}

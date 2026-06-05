@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0817",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Leslie Sanchez",
+    "addressee_company": "Trade Oneill B.V.",
+    "addressee_address": "928 Williams Garden, Lake Cindy, NV 00559, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 9.581,
+    "total_value": 5062.53,
+    "currency": "USD",
+    "issue_date": "2026-03-16",
+    "reference": "REF-123114",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.173,
+        "value": 1307.39,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 18,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.853,
+        "value": 2389.86,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 16,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.555,
+        "value": 1365.28,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Canada"
+      }
+    ],
+    "sender_name": "Joshua Ward",
+    "sender_company": "Hall Industry Co.",
+    "sender_address": "13527 Lucas Freeway Suite 997, Millerborough, MT 78995, Hong Kong",
+    "sender_phone": "+1-279-683-1187x34495",
+    "sender_email": "nicholas63@example.org",
+    "addressee_phone": "+1-573-734-0674x1591",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 79.12,
+    "tracking_number": "CZ529939615TU"
+  }
+}

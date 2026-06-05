@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0095",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Meyer Pacific AG",
+    "shipper_address": "Unit 4495 Box 3668, DPO AE 37641, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Jordan International AG",
+    "consignee_address": "8438 Natalie Alley, New Angelafurt, MH 59060, Japan",
+    "consignee_country": "Japan",
+    "emergency_telephone": "+64 907-104-6930",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 2,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 39.0,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-652309",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Kathleen Cooper",
+    "signature_date": "2026-04-15",
+    "signature_place": "Sweden",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "705N",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Qingdao, CN"
+  }
+}

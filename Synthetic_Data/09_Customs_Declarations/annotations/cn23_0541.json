@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0541",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Cynthia Villa",
+    "addressee_company": "International Wells GmbH",
+    "addressee_address": "27185 Morgan Route, East Lori, KY 36774, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 0.19,
+    "total_value": 969.1,
+    "currency": "AUD",
+    "issue_date": "2026-04-22",
+    "reference": "REF-051640",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.19,
+        "value": 969.1,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Austin Cardenas",
+    "sender_company": "Tech Roberson Co.",
+    "sender_address": "PSC 9839, Box 0433, APO AA 32305, United Kingdom",
+    "sender_phone": "890.613.0275x941",
+    "sender_email": "jamieevans@example.com",
+    "addressee_phone": "838.787.1779",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 1066.01,
+    "postal_charges": 46.49,
+    "tracking_number": "GK283017331PV"
+  }
+}

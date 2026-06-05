@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0462",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV549042357",
+    "shipper_name": "Commerce Mitchell LLC",
+    "shipper_address": "83164 Bennett Summit, East Sally, NH 06906, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Mullins Industry Pte Ltd",
+    "consignee_address": "88114 Garcia Orchard, Walkerborough, OK 57667, Italy",
+    "consignee_country": "Italy",
+    "notify_party_name": "Dominguez Industry S.A.",
+    "notify_party_address": "81020 Elizabeth Inlet Suite 486, Richardstad, MH 79858, Brazil",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "412N",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2026-01-03",
+    "issue_place": "Shanghai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "PDSN7902684",
+        "seal_no": "CL118949",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "BHXW3264369",
+        "seal_no": "BL399008",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "HTSE7640830",
+        "seal_no": "SL239564",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 260,
+    "package_type": "Drum",
+    "gross_weight_kg": 14363.8,
+    "net_weight_kg": 13597.0,
+    "cbm": 27.39,
+    "marks_and_numbers": "ABC/27"
+  }
+}

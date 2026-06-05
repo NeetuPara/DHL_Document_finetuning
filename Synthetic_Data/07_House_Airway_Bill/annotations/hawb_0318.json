@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0318",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-72207709",
+    "mawb_number": "057-99390227",
+    "shipper_name": "Smith Commerce Ltd",
+    "shipper_address": "1069 Roger Trace, North Charlesborough, DC 74973, Canada",
+    "consignee_name": "Tech Roberts Pte Ltd",
+    "consignee_address": "47937 Anderson Oval, Ibarrachester, MH 74353, Brazil",
+    "agent_name": "International Hernandez LLC",
+    "airport_departure": "MIA",
+    "airport_destination": "YYZ",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CAD 39,343.07",
+    "n_pieces": 6,
+    "gross_weight_kg": 489.0,
+    "chargeable_weight": 507.6,
+    "rate": 6.57,
+    "total_charge": 3334.93,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-12-07",
+    "signatory": "David Franco",
+    "iata_code": "32-525",
+    "agent_cass": "8826-8327",
+    "consolidation_ref": "CONS-5713-931293",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-31068947",
+        "pieces": 11,
+        "weight": 23.1,
+        "destination": "PVG",
+        "consignee": "Tech Bailey Co.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "045-60498063",
+        "pieces": 18,
+        "weight": 41.8,
+        "destination": "PVG",
+        "consignee": "Commerce Gilmore B.V.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "125-22344413",
+        "pieces": 4,
+        "weight": 5.7,
+        "destination": "CDG",
+        "consignee": "Industry Vargas LLC",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "006-30491367",
+        "pieces": 3,
+        "weight": 77.7,
+        "destination": "JFK",
+        "consignee": "Martin Trade S.A.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

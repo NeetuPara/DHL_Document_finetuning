@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0681",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-67694398",
+    "mawb_number": "057-11778157",
+    "shipper_name": "Scott Pacific S.A.",
+    "shipper_address": "028 Pruitt Junctions Suite 054, Port Triciaberg, ID 72501, Germany",
+    "consignee_name": "Harrison Tech GmbH",
+    "consignee_address": "11114 Green Way, Jennifertown, HI 46217, Australia",
+    "agent_name": "Smith Pacific Corp.",
+    "airport_departure": "LAX",
+    "airport_destination": "CDG",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "SGD 874.87",
+    "declared_value_customs": "NCV",
+    "n_pieces": 30,
+    "gross_weight_kg": 226.8,
+    "chargeable_weight": 272.8,
+    "rate": 7.21,
+    "total_charge": 1966.89,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-05-05",
+    "signatory": "Jessica Larson",
+    "iata_code": "00-632",
+    "agent_cass": "5182-4734",
+    "consolidation_ref": "CONS-0325-488604",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-25870151",
+        "pieces": 9,
+        "weight": 25.7,
+        "destination": "SIN",
+        "consignee": "Shah Commerce Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "618-32168945",
+        "pieces": 17,
+        "weight": 38.2,
+        "destination": "HKG",
+        "consignee": "Tech Hill Pte Ltd",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "045-77645468",
+        "pieces": 12,
+        "weight": 67.2,
+        "destination": "HKG",
+        "consignee": "Delgado International Co.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "085-19886493",
+        "pieces": 7,
+        "weight": 70.0,
+        "destination": "ICN",
+        "consignee": "Trade Lang GmbH",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "020-61344438",
+        "pieces": 4,
+        "weight": 41.7,
+        "destination": "LHR",
+        "consignee": "Edwards Commerce LLC",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "125-61075237",
+        "pieces": 1,
+        "weight": 95.7,
+        "destination": "ORD",
+        "consignee": "Global Morrow Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "176-73388897",
+        "pieces": 14,
+        "weight": 14.8,
+        "destination": "NRT",
+        "consignee": "Trade Johns Ltd",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

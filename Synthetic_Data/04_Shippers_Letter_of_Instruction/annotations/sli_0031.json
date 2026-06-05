@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0031",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202111-5799",
+    "usppi_name": "Pacific Haley AG",
+    "usppi_address": "644 Sean Inlet, North Karaton, PA 07325, Italy",
+    "usppi_country": "Italy",
+    "ein": "65-1007839",
+    "consignee_name": "Pacific Perkins B.V.",
+    "consignee_address": "74635 Erin Square, Donnatown, MH 53371, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Industry Robinson S.A.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Heather Cardenas",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/50",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 94,
+        "unit": "PCS",
+        "weight_kg": 433.21,
+        "value_usd": 22925.45
+      },
+      {
+        "marks": "SLI/49",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 54,
+        "unit": "PCS",
+        "weight_kg": 5.35,
+        "value_usd": 4973.01
+      },
+      {
+        "marks": "EXP/27",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 40,
+        "unit": "PCS",
+        "weight_kg": 666.12,
+        "value_usd": 13576.96
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 74,
+        "unit": "KGS",
+        "weight_kg": 74.0,
+        "value_usd": 610.93
+      },
+      {
+        "marks": "SLI/26",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 127,
+        "unit": "CTN",
+        "weight_kg": 285.61,
+        "value_usd": 694.59
+      },
+      {
+        "marks": "EXP/27",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 52,
+        "unit": "MTR",
+        "weight_kg": 51.14,
+        "value_usd": 726.61
+      }
+    ],
+    "total_weight_kg": 1515.43,
+    "total_value_usd": 43507.55,
+    "service": "LCL Ocean",
+    "named_port": "Tanjung Pelepas, MY",
+    "insurance_value_usd": 36776.7,
+    "license_type": "Distributor License",
+    "license_number": "LIC-582875",
+    "destination_country": "Poland"
+  }
+}

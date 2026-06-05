@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0151",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Julie Harper",
+    "addressee_company": "Tech Williams Corp.",
+    "addressee_address": "613 Callahan Gateway Apt. 738, Carterside, KS 03400, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 10.125,
+    "total_value": 2123.95,
+    "currency": "SGD",
+    "issue_date": "2026-03-28",
+    "reference": "REF-296373",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.417,
+        "value": 423.6,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 4,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.816,
+        "value": 339.12,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 13,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.371,
+        "value": 996.19,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 12,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.521,
+        "value": 365.04,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "Elizabeth Love",
+    "sender_company": "Commerce Odom Corp.",
+    "sender_address": "186 Daniel Islands, Stacyhaven, WI 85510, Spain",
+    "sender_phone": "+1-301-260-0762x411",
+    "sender_email": "parkerashley@example.org",
+    "addressee_phone": "724-406-6289x52726",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 2336.34,
+    "postal_charges": 24.41,
+    "tracking_number": "DM849198076PQ"
+  }
+}

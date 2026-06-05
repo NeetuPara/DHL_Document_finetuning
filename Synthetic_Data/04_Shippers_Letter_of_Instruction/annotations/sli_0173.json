@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0173",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202308-1590",
+    "usppi_name": "Trade Moore Corp.",
+    "usppi_address": "82695 Carl Brook Apt. 294, West David, AS 66362, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "97-8577634",
+    "consignee_name": "Larson Global LLC",
+    "consignee_address": "8230 Harrison Oval Apt. 988, North Crystalhaven, NE 18876, France",
+    "consignee_country": "France",
+    "notify_party": "Burns Commerce Co.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Michele Mccoy",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/36",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 180,
+        "unit": "PCS",
+        "weight_kg": 80.53,
+        "value_usd": 38505.92
+      },
+      {
+        "marks": "EXP/50",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 59,
+        "unit": "KGS",
+        "weight_kg": 59.0,
+        "value_usd": 90.92
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 74,
+        "unit": "CTN",
+        "weight_kg": 200.7,
+        "value_usd": 4081.74
+      },
+      {
+        "marks": "ABC/13",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 127,
+        "unit": "SET",
+        "weight_kg": 469.99,
+        "value_usd": 12074.9
+      },
+      {
+        "marks": "EXP/36",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 152,
+        "unit": "MTR",
+        "weight_kg": 124.7,
+        "value_usd": 468.73
+      }
+    ],
+    "total_weight_kg": 934.92,
+    "total_value_usd": 55222.21,
+    "service": "Express Courier",
+    "named_port": "Seoul Incheon",
+    "insurance_value_usd": 21997.16,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "France"
+  }
+}

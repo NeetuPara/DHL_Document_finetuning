@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0394",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Christopher Cooper",
+    "addressee_company": "Copeland Pacific B.V.",
+    "addressee_address": "PSC 4228, Box 6913, APO AA 52371, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 3.983,
+    "total_value": 2242.97,
+    "currency": "JPY",
+    "issue_date": "2026-03-01",
+    "reference": "REF-546873",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.916,
+        "value": 672.22,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 1,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.162,
+        "value": 37.15,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 18,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.905,
+        "value": 1533.6,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Canada"
+      }
+    ],
+    "sender_name": "Carolyn Mendez",
+    "sender_company": "Industry Kramer Corp.",
+    "sender_address": "543 Nash Flat Suite 215, Myersburgh, MP 40573, Hong Kong",
+    "sender_phone": "001-923-796-7578",
+    "sender_email": "patrickwilliams@example.org",
+    "addressee_phone": "001-506-714-9458x664",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 54.66,
+    "tracking_number": "TS397992088XB"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0063",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202509-5299",
+    "exporter_name": "Pacific Palmer S.A.",
+    "exporter_address": "2232 Mcdaniel Light, Brownport, MP 39199, India",
+    "exporter_country": "India",
+    "consignee_name": "Shaw Tech Pte Ltd",
+    "consignee_address": "4892 Boyle Loop, Lake Edward, PW 73067, Japan",
+    "consignee_country": "Japan",
+    "country_of_origin": "India",
+    "country_of_destination": "Japan",
+    "bl_or_awb": "YMLU452069135",
+    "issue_date": "2024-10-01",
+    "certifier_name": "Dennis Griffin",
+    "goods": [
+      {
+        "description": "Optical Equipment - Camera Lenses",
+        "hs_code": "9002.11.00",
+        "qty": 386,
+        "unit": "PCS",
+        "weight_kg": 437.24,
+        "origin_criterion": "D",
+        "value": 586974.05
+      },
+      {
+        "description": "Automotive Spare Parts - Brake Pads",
+        "hs_code": "8708.30.00",
+        "qty": 12,
+        "unit": "SET",
+        "weight_kg": 23.54,
+        "origin_criterion": "B",
+        "value": 994.63
+      },
+      {
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "hs_code": "4016.93.00",
+        "qty": 207,
+        "unit": "PKG",
+        "weight_kg": 304.37,
+        "origin_criterion": "A",
+        "value": 10947.3
+      }
+    ],
+    "fta_agreement": "US-Korea FTA (KORUS)",
+    "chamber": "Chamber of Commerce"
+  }
+}

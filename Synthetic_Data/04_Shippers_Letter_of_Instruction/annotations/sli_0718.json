@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0718",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202505-7313",
+    "usppi_name": "Tech Cooper B.V.",
+    "usppi_address": "497 Bell Burg, Port Kevinfort, PW 91411, Australia",
+    "usppi_country": "Australia",
+    "ein": "80-9514399",
+    "consignee_name": "International Lawson Inc.",
+    "consignee_address": "051 Keith Ports, Lake Mariashire, CA 77968, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Commerce Frey S.A.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIP",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Jennifer Terrell",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/44",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 136,
+        "unit": "PCS",
+        "weight_kg": 60.38,
+        "value_usd": 31313.68
+      },
+      {
+        "marks": "EXP/7",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 29,
+        "unit": "PCS",
+        "weight_kg": 411.66,
+        "value_usd": 16938.43
+      },
+      {
+        "marks": "ABC/21",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 70,
+        "unit": "KGS",
+        "weight_kg": 70.0,
+        "value_usd": 1229.19
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 25,
+        "unit": "PCS",
+        "weight_kg": 19.57,
+        "value_usd": 18083.55
+      },
+      {
+        "marks": "ABC/3",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 84,
+        "unit": "LTR",
+        "weight_kg": 92.18,
+        "value_usd": 305.69
+      }
+    ],
+    "total_weight_kg": 653.79,
+    "total_value_usd": 67870.54,
+    "service": "LCL Ocean",
+    "named_port": "Colombo, LK",
+    "insurance_value_usd": 19154.95,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-860784",
+    "destination_country": "Netherlands"
+  }
+}

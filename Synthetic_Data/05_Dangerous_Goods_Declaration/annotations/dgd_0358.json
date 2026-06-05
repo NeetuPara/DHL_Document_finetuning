@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0358",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Roberts International Ltd",
+    "shipper_address": "2047 Sampson Bridge, Sharonport, IA 10690, India",
+    "shipper_country": "India",
+    "consignee_name": "Tech Smith Corp.",
+    "consignee_address": "175 Autumn Vista, West Leslieland, MS 80182, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+79 522-183-4743",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 6,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 82.59,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-408441",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 32,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 30.35,
+        "qty_unit": "kg",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "David Hernandez",
+    "signature_date": "2026-05-09",
+    "signature_place": "India",
+    "awb_number": "074-58022401",
+    "flight_number": "CX2242",
+    "flight_date": "2026-05-01",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi"
+  }
+}

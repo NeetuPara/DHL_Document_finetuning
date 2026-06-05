@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0072",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202301-2521",
+    "usppi_name": "Commerce Meyers Corp.",
+    "usppi_address": "6449 Scott Ford, South Lee, VI 94425, United Kingdom",
+    "usppi_country": "United Kingdom",
+    "ein": "26-4802514",
+    "consignee_name": "Tran Global S.A.",
+    "consignee_address": "84533 Mcmillan Streets, Adamport, OR 08435, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Murray Industry S.A.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Christopher Alvarado",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/24",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 165,
+        "unit": "PCS",
+        "weight_kg": 260.94,
+        "value_usd": 54592.81
+      },
+      {
+        "marks": "SLI/40",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 74,
+        "unit": "MTR",
+        "weight_kg": 81.4,
+        "value_usd": 326.02
+      }
+    ],
+    "total_weight_kg": 342.34,
+    "total_value_usd": 54918.83,
+    "vessel": "CSCL GLOBE",
+    "voyage": "953W",
+    "booking_ref": "BKG-271046",
+    "bl_number": "EGLV788691800",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "container_number": "QTPX3894643",
+    "seal_number": "CL877425",
+    "container_type": "20'GP",
+    "cbm": 10.324
+  }
+}

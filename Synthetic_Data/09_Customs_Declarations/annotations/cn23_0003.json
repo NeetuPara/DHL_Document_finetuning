@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0003",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Alec Lee",
+    "addressee_company": "Blankenship Commerce B.V.",
+    "addressee_address": "227 White Trace Suite 519, Bryanstad, TN 28816, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 9.744,
+    "total_value": 1911.0,
+    "currency": "GBP",
+    "issue_date": "2025-10-12",
+    "reference": "REF-020555",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.691,
+        "value": 663.12,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 1,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.134,
+        "value": 92.28,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 10,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.919,
+        "value": 1155.6,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_country": "Australia",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "633-73279493-6",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 21.8,
+    "estimated_duty": 416.6,
+    "importer_ein": "31-9510561",
+    "customs_broker": "Taylor Pacific B.V."
+  }
+}

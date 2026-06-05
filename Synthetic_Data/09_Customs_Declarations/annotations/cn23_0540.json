@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0540",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Micheal Hughes",
+    "addressee_company": "Robles Trade S.A.",
+    "addressee_address": "09847 Tristan Key, Fowlerberg, SD 81532, China",
+    "addressee_country": "China",
+    "total_weight_kg": 12.935,
+    "total_value": 3715.23,
+    "currency": "SGD",
+    "issue_date": "2026-01-03",
+    "reference": "REF-711436",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.026,
+        "value": 277.32,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 19,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.94,
+        "value": 2499.83,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 16,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.969,
+        "value": 938.08,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_country": "Hong Kong",
+    "port_of_entry": "Chicago, IL",
+    "entry_number": "929-43101854-8",
+    "entry_type": "Informal Entry",
+    "duty_rate": 17.1,
+    "estimated_duty": 635.3,
+    "importer_ein": "43-6586941",
+    "customs_broker": "Sawyer International GmbH"
+  }
+}

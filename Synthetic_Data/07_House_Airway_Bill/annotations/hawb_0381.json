@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0381",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-26419649",
+    "mawb_number": "085-34147508",
+    "shipper_name": "Commerce Simpson Ltd",
+    "shipper_address": "04996 Christina Forest, Ericchester, DE 78668, United Kingdom",
+    "consignee_name": "Global Williams S.A.",
+    "consignee_address": "035 Kimberly Extensions Suite 297, Michaelhaven, CO 46815, Sweden",
+    "agent_name": "Butler Industry Pte Ltd",
+    "airport_departure": "LHR",
+    "airport_destination": "FRA",
+    "currency": "GBP",
+    "charge_code": "PP",
+    "declared_value_carriage": "AED 26,153.44",
+    "declared_value_customs": "AED 3,822.39",
+    "n_pieces": 17,
+    "gross_weight_kg": 416.2,
+    "chargeable_weight": 440.0,
+    "rate": 4.7,
+    "total_charge": 2068.0,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "HANDLING CODE: HUM",
+    "issue_date": "2025-08-21",
+    "signatory": "Lisa Kelly",
+    "iata_code": "37-127",
+    "agent_cass": "3111-8911",
+    "consolidation_ref": "CONS-2208-404310",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-62909631",
+        "pieces": 11,
+        "weight": 33.0,
+        "destination": "NRT",
+        "consignee": "Douglas International LLC",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "057-15981884",
+        "pieces": 12,
+        "weight": 66.8,
+        "destination": "FRA",
+        "consignee": "Henderson Global Corp.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "160-25397655",
+        "pieces": 19,
+        "weight": 80.2,
+        "destination": "MIA",
+        "consignee": "Trade Potter GmbH",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "618-44947679",
+        "pieces": 11,
+        "weight": 37.5,
+        "destination": "YYZ",
+        "consignee": "Cowan Tech AG",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "618-12864183",
+        "pieces": 1,
+        "weight": 23.8,
+        "destination": "SYD",
+        "consignee": "Mooney International AG",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "618-27068009",
+        "pieces": 13,
+        "weight": 93.1,
+        "destination": "LAX",
+        "consignee": "Ward Industry Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "085-92592354",
+        "pieces": 11,
+        "weight": 57.7,
+        "destination": "HKG",
+        "consignee": "Jackson Industry Corp.",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

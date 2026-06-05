@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0830",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Bradshaw Global AG",
+    "shipper_address": "4310 Jacqueline Ports, South Michael, MD 58202, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Tech Wilson Corp.",
+    "consignee_address": "9232 Hernandez Stream, Lake Tammybury, IA 62389, Mexico",
+    "consignee_country": "Mexico",
+    "emergency_telephone": "+17 541-483-9594",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 34,
+        "pkg_type": "Steel Drum",
+        "net_qty": 5.53,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 45,
+        "pkg_type": "Steel Drum",
+        "net_qty": 41.15,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-833031",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Gregory Lopez",
+    "signature_date": "2026-04-25",
+    "signature_place": "United Kingdom",
+    "vessel": "MSC GULSUN",
+    "voyage": "876S",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "New York, US"
+  }
+}

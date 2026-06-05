@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0912",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202009-4655",
+    "usppi_name": "Commerce Ward Pte Ltd",
+    "usppi_address": "990 Cantrell Oval, Lake Donna, GU 36097, China",
+    "usppi_country": "China",
+    "ein": "85-7005502",
+    "consignee_name": "Hernandez Industry B.V.",
+    "consignee_address": "444 Allen Run, East Sarahshire, FL 99080, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Industry Mckee Co.",
+    "forwarder": "Expeditors",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Jose Scott",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/13",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 143,
+        "unit": "PKG",
+        "weight_kg": 403.71,
+        "value_usd": 12850.06
+      },
+      {
+        "marks": "ABC/2",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 85,
+        "unit": "PCS",
+        "weight_kg": 1609.31,
+        "value_usd": 23467.16
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 66,
+        "unit": "PCS",
+        "weight_kg": 91.22,
+        "value_usd": 2207.32
+      }
+    ],
+    "total_weight_kg": 2104.24,
+    "total_value_usd": 38524.54,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "537N",
+    "booking_ref": "BKG-680467",
+    "bl_number": "EGLV135768676",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Dubai, AE",
+    "container_number": "GWLH7924559",
+    "seal_number": "SL373208",
+    "container_type": "45'HC",
+    "cbm": 15.411
+  }
+}

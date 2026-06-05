@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0403",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "945-94636810-3",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2025-10-09",
+    "port_of_entry": "SEA - Seattle",
+    "transport_mode": "Air",
+    "carrier": "FedEx",
+    "bl_awb": "125-59895782",
+    "importer_name": "Evans Industry Inc.",
+    "importer_ein": "58-0106104",
+    "consignee_name": "Commerce Mendoza AG",
+    "customs_broker": "Brown International Ltd",
+    "broker_filer_code": "FiF",
+    "country_of_origin": "France",
+    "total_value": 292325.44,
+    "total_duty": 36722.28,
+    "currency": "GBP",
+    "signatory": "Lawrence Weber",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Australia",
+        "qty": 347,
+        "unit": "CTN",
+        "entered_value": 12047.84,
+        "duty_rate": 5.9,
+        "duty_amount": 710.82,
+        "eccn": "9A515",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Malaysia",
+        "qty": 236,
+        "unit": "KGS",
+        "entered_value": 66530.76,
+        "duty_rate": 6.1,
+        "duty_amount": 4058.38,
+        "eccn": "0A919",
+        "schedule_b": "2008.19.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Sweden",
+        "qty": 61,
+        "unit": "CTN",
+        "entered_value": 6090.24,
+        "duty_rate": 6.2,
+        "duty_amount": 377.59,
+        "eccn": "1A002",
+        "schedule_b": "9018.31.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Hong Kong",
+        "qty": 344,
+        "unit": "LTR",
+        "entered_value": 95638.88,
+        "duty_rate": 20.6,
+        "duty_amount": 19701.61,
+        "eccn": "0A919",
+        "schedule_b": "2901.10.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "United Kingdom",
+        "qty": 348,
+        "unit": "PCS",
+        "entered_value": 112017.72,
+        "duty_rate": 10.6,
+        "duty_amount": 11873.88,
+        "eccn": "7A994",
+        "schedule_b": "8518.30.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

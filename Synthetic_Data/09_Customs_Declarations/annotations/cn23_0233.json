@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0233",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Sheila Kidd",
+    "addressee_company": "Gonzalez Global S.A.",
+    "addressee_address": "0526 Keith Springs Suite 482, South Natalie, KS 87793, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 6.736,
+    "total_value": 1172.47,
+    "currency": "USD",
+    "issue_date": "2026-05-13",
+    "reference": "REF-526801",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.139,
+        "value": 840.51,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 4,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.597,
+        "value": 331.96,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Andrew Pena",
+    "sender_company": "Industry Holland Pte Ltd",
+    "sender_address": "365 Grant Center Apt. 509, Ricardoland, NY 54152, Brazil",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 1289.72,
+    "postal_charges": 29.05,
+    "tracking_number": "WR483582929AA"
+  }
+}

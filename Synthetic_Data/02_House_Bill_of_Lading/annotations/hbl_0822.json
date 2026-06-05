@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0822",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV199705918",
+    "shipper_name": "Robinson Industry Ltd",
+    "shipper_address": "69532 Christopher Plaza, Tylerport, VI 55423, France",
+    "shipper_country": "France",
+    "consignee_name": "Bowman Industry Co.",
+    "consignee_address": "5664 Donald Meadows Apt. 784, Tommyfort, WY 72616, Germany",
+    "consignee_country": "Germany",
+    "notify_party_name": "Peterson Commerce Inc.",
+    "notify_party_address": "206 Joshua Club, New Mariashire, AZ 91883, Malaysia",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "961N",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Qingdao, CN",
+    "place_of_receipt": "Los Angeles, US",
+    "place_of_delivery": "Qingdao, CN",
+    "issue_date": "2025-03-17",
+    "issue_place": "Antwerp",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "KOZI7335061",
+        "seal_no": "SL561952",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "CVVR0670532",
+        "seal_no": "BL634159",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "UCBH7887131",
+        "seal_no": "CL318631",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "WYLE0619672",
+        "seal_no": "BL690700",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 172,
+    "package_type": "Drum",
+    "gross_weight_kg": 6183.0,
+    "net_weight_kg": 5840.3,
+    "cbm": 5.924,
+    "marks_and_numbers": "GLB/18"
+  }
+}

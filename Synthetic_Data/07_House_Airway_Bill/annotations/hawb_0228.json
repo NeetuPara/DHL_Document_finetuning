@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0228",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-60215785",
+    "mawb_number": "074-14755887",
+    "shipper_name": "Hale Global AG",
+    "shipper_address": "020 Powers Light, North Nicholas, ND 14274, South Korea",
+    "consignee_name": "Pacific Parker Pte Ltd",
+    "consignee_address": "84901 William Forest, Sanchezfurt, SD 76070, Germany",
+    "agent_name": "Industry Martinez Co.",
+    "airport_departure": "JFK",
+    "airport_destination": "ORD",
+    "currency": "CAD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "EUR 14,143.15",
+    "n_pieces": 17,
+    "gross_weight_kg": 182.1,
+    "chargeable_weight": 189.9,
+    "rate": 10.65,
+    "total_charge": 2022.44,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-08-05",
+    "signatory": "Jacob Bartlett",
+    "iata_code": "93-440",
+    "agent_cass": "5869-1755",
+    "consolidation_ref": "CONS-4491-745812",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-27724694",
+        "pieces": 5,
+        "weight": 20.3,
+        "destination": "LAX",
+        "consignee": "Hernandez Global GmbH",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "176-28767626",
+        "pieces": 11,
+        "weight": 20.0,
+        "destination": "LHR",
+        "consignee": "Collins Global Co.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "085-22174132",
+        "pieces": 8,
+        "weight": 82.4,
+        "destination": "AMS",
+        "consignee": "Hopkins Global S.A.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "176-59526407",
+        "pieces": 3,
+        "weight": 82.4,
+        "destination": "MIA",
+        "consignee": "International Miller B.V.",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

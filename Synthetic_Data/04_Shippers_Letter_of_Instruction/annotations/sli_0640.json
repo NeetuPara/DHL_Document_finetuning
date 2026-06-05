@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0640",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202505-7993",
+    "usppi_name": "Sanchez Global Co.",
+    "usppi_address": "97167 Jones Street Apt. 862, Cruzfort, NC 28141, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "94-8154408",
+    "consignee_name": "Peterson Commerce Co.",
+    "consignee_address": "9881 Cindy Tunnel, Rosebury, NY 74564, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Manning Tech LLC",
+    "forwarder": "DB Schenker",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Jessica Mendez",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/2",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 57,
+        "unit": "KGS",
+        "weight_kg": 57.0,
+        "value_usd": 86.54
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 186,
+        "unit": "SET",
+        "weight_kg": 568.42,
+        "value_usd": 32837.97
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 147,
+        "unit": "PCS",
+        "weight_kg": 33.53,
+        "value_usd": 4558.73
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 18,
+        "unit": "CTN",
+        "weight_kg": 24.62,
+        "value_usd": 113.79
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 136,
+        "unit": "LTR",
+        "weight_kg": 130.73,
+        "value_usd": 741.97
+      },
+      {
+        "marks": "EXP/23",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 88,
+        "unit": "MTR",
+        "weight_kg": 41.49,
+        "value_usd": 1248.0
+      }
+    ],
+    "total_weight_kg": 855.79,
+    "total_value_usd": 39587.0,
+    "service": "Express Courier",
+    "named_port": "Shanghai Pudong",
+    "insurance_value_usd": 45399.4,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-272607",
+    "destination_country": "Sweden"
+  }
+}

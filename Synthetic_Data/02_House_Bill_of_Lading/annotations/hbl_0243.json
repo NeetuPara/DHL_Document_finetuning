@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0243",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU913180391",
+    "shipper_name": "Obrien Trade Corp.",
+    "shipper_address": "USNV Travis, FPO AE 02449, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Industry Phillips B.V.",
+    "consignee_address": "7010 Mariah Hollow Apt. 400, South John, PW 32900, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Commerce Jenkins S.A.",
+    "notify_party_address": "55892 Yang Vista, South Brandonview, AR 94915, Germany",
+    "vessel": "MADRID MAERSK",
+    "voyage": "937E",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Qingdao, CN",
+    "place_of_receipt": "Tanjung Pelepas, MY",
+    "place_of_delivery": "Qingdao, CN",
+    "issue_date": "2026-02-12",
+    "issue_place": "Tokyo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "KHDC5998652",
+        "seal_no": "BL347262",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "QZEQ4433261",
+        "seal_no": "CL547961",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "RSNY0491428",
+        "seal_no": "CL930466",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 150,
+    "package_type": "Drum",
+    "gross_weight_kg": 2187.0,
+    "net_weight_kg": 1954.9,
+    "cbm": 12.446,
+    "marks_and_numbers": "XYZ/38"
+  }
+}

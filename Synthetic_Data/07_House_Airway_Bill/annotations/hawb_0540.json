@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0540",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-33133498",
+    "mawb_number": "176-81632314",
+    "shipper_name": "Global Anderson B.V.",
+    "shipper_address": "214 Walker Walks, East Latoyaland, MD 77088, India",
+    "consignee_name": "Trade Davila Pte Ltd",
+    "consignee_address": "52799 Bruce Heights Apt. 788, West Michelle, PA 38190, Italy",
+    "agent_name": "Harrington Pacific AG",
+    "airport_departure": "MIA",
+    "airport_destination": "LHR",
+    "currency": "CNY",
+    "charge_code": "PP",
+    "declared_value_carriage": "EUR 47,204.23",
+    "declared_value_customs": "NCV",
+    "n_pieces": 27,
+    "gross_weight_kg": 326.9,
+    "chargeable_weight": 347.5,
+    "rate": 8.77,
+    "total_charge": 3047.57,
+    "nature_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "handling_info": "HANDLING CODE: DGR",
+    "issue_date": "2025-06-26",
+    "signatory": "Madison Lee",
+    "iata_code": "95-129",
+    "agent_cass": "4595-7722",
+    "consolidation_ref": "CONS-0687-982092",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-99921176",
+        "pieces": 7,
+        "weight": 43.4,
+        "destination": "YYZ",
+        "consignee": "Hammond Trade S.A.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "006-92159969",
+        "pieces": 5,
+        "weight": 56.5,
+        "destination": "ORD",
+        "consignee": "Industry Davis Corp.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "057-26968880",
+        "pieces": 14,
+        "weight": 22.7,
+        "destination": "ORD",
+        "consignee": "Warner Trade B.V.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "020-80110742",
+        "pieces": 6,
+        "weight": 62.0,
+        "destination": "SYD",
+        "consignee": "Global Lewis LLC",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

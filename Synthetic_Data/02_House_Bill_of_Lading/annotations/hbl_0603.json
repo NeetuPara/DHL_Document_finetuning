@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0603",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU648045440",
+    "shipper_name": "Roberts Tech Corp.",
+    "shipper_address": "USNS Maldonado, FPO AA 05518, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Torres Pacific Co.",
+    "consignee_address": "USNV Hoover, FPO AE 07739, China",
+    "consignee_country": "China",
+    "notify_party_name": "Jones International S.A.",
+    "notify_party_address": "76352 Charles Ports Suite 092, North Patrick, AK 79090, Belgium",
+    "vessel": "CSCL GLOBE",
+    "voyage": "787S",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Dubai, AE",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2024-09-20",
+    "issue_place": "New York",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "EQZJ1873291",
+        "seal_no": "CL805408",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "ROGK1969474",
+        "seal_no": "SL920996",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "ZWQX3466744",
+        "seal_no": "BL273686",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "BWDL0360098",
+        "seal_no": "CL513733",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 372,
+    "package_type": "Case",
+    "gross_weight_kg": 22890.5,
+    "net_weight_kg": 21127.1,
+    "cbm": 40.592,
+    "marks_and_numbers": "GLB/14"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0951",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-20947119",
+    "mawb_number": "125-14322370",
+    "shipper_name": "Trade Murphy B.V.",
+    "shipper_address": "775 Jordan Stream, Jeffreybury, FL 26253, Switzerland",
+    "consignee_name": "Kennedy Trade Inc.",
+    "consignee_address": "18164 Jacob Rest Apt. 024, Stevenside, KS 96667, Canada",
+    "agent_name": "Tech Lam Corp.",
+    "airport_departure": "ORD",
+    "airport_destination": "DXB",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "CNY 28,808.31",
+    "declared_value_customs": "CNY 29,423.45",
+    "n_pieces": 49,
+    "gross_weight_kg": 313.9,
+    "chargeable_weight": 358.4,
+    "rate": 11.15,
+    "total_charge": 3996.16,
+    "nature_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-03-08",
+    "signatory": "Katie Sullivan",
+    "iata_code": "52-708",
+    "agent_cass": "0956-5914",
+    "consolidation_ref": "CONS-5224-369311",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-64944922",
+        "pieces": 12,
+        "weight": 75.2,
+        "destination": "FRA",
+        "consignee": "Harrison Trade Inc.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "125-78688254",
+        "pieces": 17,
+        "weight": 77.7,
+        "destination": "NRT",
+        "consignee": "Miller Industry S.A.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "057-93641379",
+        "pieces": 8,
+        "weight": 6.5,
+        "destination": "DXB",
+        "consignee": "Trade Benson AG",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "020-81460070",
+        "pieces": 8,
+        "weight": 49.5,
+        "destination": "LAX",
+        "consignee": "Bishop Industry B.V.",
+        "description": "Steel Products - Hot Rolled Coils"
+      }
+    ]
+  }
+}

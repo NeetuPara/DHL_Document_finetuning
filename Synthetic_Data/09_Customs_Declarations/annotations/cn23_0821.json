@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0821",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Rebecca Gonzalez",
+    "addressee_company": "Pacific Clark Ltd",
+    "addressee_address": "PSC 7628, Box 6559, APO AA 08709, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 14.673,
+    "total_value": 5248.22,
+    "currency": "USD",
+    "issue_date": "2026-03-23",
+    "reference": "REF-019029",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.661,
+        "value": 1381.12,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 15,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.633,
+        "value": 563.1,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 19,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.51,
+        "value": 1976.38,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 1,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.911,
+        "value": 27.46,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 16,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.958,
+        "value": 1300.16,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "James Marshall",
+    "sender_company": "Global Gibson LLC",
+    "sender_address": "380 Thomas Gateway Apt. 858, Julieton, CA 21052, Spain",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 5773.04,
+    "postal_charges": 7.47,
+    "tracking_number": "KN395977939FR"
+  }
+}

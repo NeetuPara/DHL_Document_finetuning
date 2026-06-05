@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0567",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202009-8837",
+    "usppi_name": "Pacific Barker AG",
+    "usppi_address": "9927 Walter Forges Apt. 526, Simpsonfurt, NE 19070, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "43-7253550",
+    "consignee_name": "Trade Carter S.A.",
+    "consignee_address": "PSC 3534, Box 5380, APO AP 87562, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Global Hunter Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "DAP",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Erin Jordan",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/48",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 194,
+        "unit": "KGS",
+        "weight_kg": 194.0,
+        "value_usd": 162.34
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 174,
+        "unit": "BOX",
+        "weight_kg": 196.7,
+        "value_usd": 12932.76
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 173,
+        "unit": "PCS",
+        "weight_kg": 18.33,
+        "value_usd": 5783.12
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 161,
+        "unit": "PCS",
+        "weight_kg": 94.49,
+        "value_usd": 628.9
+      },
+      {
+        "marks": "ABC/35",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 57,
+        "unit": "MTR",
+        "weight_kg": 51.07,
+        "value_usd": 575.74
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 121,
+        "unit": "PKG",
+        "weight_kg": 298.38,
+        "value_usd": 11172.65
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 92,
+        "unit": "LTR",
+        "weight_kg": 94.96,
+        "value_usd": 2038.3
+      }
+    ],
+    "total_weight_kg": 947.93,
+    "total_value_usd": 33293.81,
+    "vessel": "CSCL GLOBE",
+    "voyage": "794S",
+    "booking_ref": "BKG-952716",
+    "bl_number": "OOLU540522761",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Los Angeles, US",
+    "container_number": "XNNP2455841",
+    "seal_number": "BL201746",
+    "container_type": "40'HC",
+    "cbm": 58.261
+  }
+}

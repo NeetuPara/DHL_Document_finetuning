@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0706",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Reyes Trade GmbH",
+    "shipper_address": "026 Cindy Port Apt. 211, North Joseph, WY 49514, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Weber Tech GmbH",
+    "consignee_address": "075 Morgan Crossroad Suite 098, Port Victor, LA 10041, United States",
+    "consignee_country": "United States",
+    "emergency_telephone": "+6 499-667-3305",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 3,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 9.02,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-939786",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Amy Li",
+    "signature_date": "2026-05-08",
+    "signature_place": "South Korea",
+    "awb_number": "125-43663132",
+    "flight_number": "SQ3732",
+    "flight_date": "2026-05-12",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "SYD",
+    "destination_airport_name": "Sydney Kingsford Smith"
+  }
+}

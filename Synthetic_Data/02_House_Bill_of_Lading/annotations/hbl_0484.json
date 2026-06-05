@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0484",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU162879547",
+    "shipper_name": "Dunn International Ltd",
+    "shipper_address": "30429 Kristine Circles, Williammouth, OR 39666, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Pacific Fry Inc.",
+    "consignee_address": "9031 Robertson Fords Suite 591, Martinville, NE 31264, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party_name": "Kelly Pacific S.A.",
+    "notify_party_address": "219 Lynch Valleys Apt. 144, Timothymouth, RI 08791, France",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "136W",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2024-11-30",
+    "issue_place": "Qingdao",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "PAFS0806093",
+        "seal_no": "CL402163",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "LSTB7339035",
+        "seal_no": "CL729374",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "NGPX6643769",
+        "seal_no": "BL126873",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 114,
+    "package_type": "Bundle",
+    "gross_weight_kg": 14039.7,
+    "net_weight_kg": 13218.1,
+    "cbm": 13.063,
+    "marks_and_numbers": "ABC/27"
+  }
+}

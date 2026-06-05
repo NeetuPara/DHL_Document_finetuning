@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0529",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202109-7353",
+    "usppi_name": "International Cooper S.A.",
+    "usppi_address": "5289 Walker Station Suite 809, Paigefort, LA 78035, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "96-1954137",
+    "consignee_name": "Commerce Lawrence Co.",
+    "consignee_address": "92191 Julia Vista, East George, LA 56356, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Vasquez Trade AG",
+    "forwarder": "Expeditors",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Jason Anderson",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/15",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 162,
+        "unit": "KGS",
+        "weight_kg": 162.0,
+        "value_usd": 3087.67
+      },
+      {
+        "marks": "SLI/19",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 104,
+        "unit": "BOX",
+        "weight_kg": 204.27,
+        "value_usd": 12207.78
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 157,
+        "unit": "CTN",
+        "weight_kg": 92.33,
+        "value_usd": 1799.38
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 84,
+        "unit": "PCS",
+        "weight_kg": 1570.34,
+        "value_usd": 35294.63
+      }
+    ],
+    "total_weight_kg": 2028.94,
+    "total_value_usd": 52389.46,
+    "service": "LCL Ocean",
+    "named_port": "New York, US",
+    "insurance_value_usd": 24012.72,
+    "license_type": "Distributor License",
+    "license_number": "LIC-917532",
+    "destination_country": "United Kingdom"
+  }
+}

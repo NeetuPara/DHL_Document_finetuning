@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0444",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-24551884",
+    "mawb_number": "176-42598655",
+    "shipper_name": "Thomas Trade S.A.",
+    "shipper_address": "41983 Cindy Park, Fernandezberg, WA 78899, France",
+    "consignee_name": "Thompson Global Corp.",
+    "consignee_address": "28335 Wilson Estates, Shawnburgh, NV 30890, Australia",
+    "agent_name": "Kim Tech Corp.",
+    "airport_departure": "LHR",
+    "airport_destination": "SIN",
+    "currency": "JPY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "AUD 33,257.74",
+    "n_pieces": 36,
+    "gross_weight_kg": 162.8,
+    "chargeable_weight": 176.4,
+    "rate": 10.86,
+    "total_charge": 1915.7,
+    "nature_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-11-08",
+    "signatory": "Mark Torres",
+    "iata_code": "15-201",
+    "agent_cass": "7755-6361",
+    "consolidation_ref": "CONS-8139-884407",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-84045785",
+        "pieces": 3,
+        "weight": 89.1,
+        "destination": "SIN",
+        "consignee": "Tech Donaldson Co.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "006-74444038",
+        "pieces": 9,
+        "weight": 26.0,
+        "destination": "SYD",
+        "consignee": "Global Marshall Inc.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "176-65537927",
+        "pieces": 10,
+        "weight": 55.6,
+        "destination": "AMS",
+        "consignee": "Ayers Trade GmbH",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "085-56733083",
+        "pieces": 3,
+        "weight": 37.2,
+        "destination": "FRA",
+        "consignee": "Bradley Commerce AG",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

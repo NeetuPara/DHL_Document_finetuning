@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0563",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250808527548",
+    "export_date": "2026-04-16",
+    "aes_option": "AES Filing",
+    "usppi_name": "Hunter Global LLC",
+    "usppi_ein": "90-4086941",
+    "usppi_address": "8140 Summers Causeway, Christopherhaven, AK 19694, Brazil",
+    "ultimate_consignee": "Martinez Trade Corp.",
+    "intermediate_consignee": "Brown Pacific S.A.",
+    "forwarding_agent": "Commerce Cabrera S.A.",
+    "destination_country": "Malaysia",
+    "carrier": "UPS",
+    "bl_awb": "160-48846431",
+    "total_value": 221164.06,
+    "currency": "GBP",
+    "signatory": "Nichole Lambert",
+    "line_items": [
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Switzerland",
+        "qty": 359,
+        "unit": "SET",
+        "entered_value": 57120.49,
+        "duty_rate": 6.5,
+        "duty_amount": 3712.83,
+        "eccn": "1A002",
+        "schedule_b": "8708.30.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "France",
+        "qty": 284,
+        "unit": "LTR",
+        "entered_value": 123352.56,
+        "duty_rate": 7.4,
+        "duty_amount": 9128.09,
+        "eccn": "3A992",
+        "schedule_b": "2901.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Spain",
+        "qty": 337,
+        "unit": "PCS",
+        "entered_value": 13682.2,
+        "duty_rate": 19.9,
+        "duty_amount": 2722.76,
+        "eccn": "EAR99",
+        "schedule_b": "9401.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Italy",
+        "qty": 37,
+        "unit": "MTR",
+        "entered_value": 9174.89,
+        "duty_rate": 6.2,
+        "duty_amount": 568.84,
+        "eccn": "3A992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Japan",
+        "qty": 104,
+        "unit": "PCS",
+        "entered_value": 17833.92,
+        "duty_rate": 2.3,
+        "duty_amount": 410.18,
+        "eccn": "5E992",
+        "schedule_b": "8534.00.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

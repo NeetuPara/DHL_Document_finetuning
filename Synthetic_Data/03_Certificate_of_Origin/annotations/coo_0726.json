@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0726",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202106-7612",
+    "exporter_name": "Wade Trade Inc.",
+    "exporter_address": "99220 Crosby Passage Apt. 242, Candacechester, NY 27297, Brazil",
+    "exporter_country": "Brazil",
+    "consignee_name": "Tech Weaver Pte Ltd",
+    "consignee_address": "1447 Michael Grove, Mitchellport, HI 55749, Malaysia",
+    "consignee_country": "Malaysia",
+    "country_of_origin": "Brazil",
+    "country_of_destination": "Malaysia",
+    "bl_or_awb": "045-57893317",
+    "issue_date": "2026-04-23",
+    "certifier_name": "Nicholas Mckee",
+    "goods": [
+      {
+        "description": "Steel Products - Hot Rolled Coils",
+        "hs_code": "7208.37.00",
+        "qty": 449,
+        "unit": "KGS",
+        "weight_kg": 449.0,
+        "origin_criterion": "D",
+        "value": 765.29
+      },
+      {
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "hs_code": "4016.93.00",
+        "qty": 337,
+        "unit": "PKG",
+        "weight_kg": 382.9,
+        "origin_criterion": "F",
+        "value": 8642.81
+      },
+      {
+        "description": "Optical Equipment - Camera Lenses",
+        "hs_code": "9002.11.00",
+        "qty": 316,
+        "unit": "PCS",
+        "weight_kg": 399.16,
+        "origin_criterion": "B",
+        "value": 362088.68
+      }
+    ],
+    "fta_agreement": "RCEP",
+    "chamber": "Export Council"
+  }
+}

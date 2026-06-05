@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0161",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU289062081",
+    "shipper_name": "Brown Trade Inc.",
+    "shipper_address": "22229 Herring Manor, South Jeffreyville, NY 04659, France",
+    "shipper_country": "France",
+    "consignee_name": "Industry White Inc.",
+    "consignee_address": "778 Kerr Spring, Lake Bailey, TX 22689, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "Brown Tech LLC",
+    "notify_party_address": "392 Brown Ways Apt. 345, Adrienneview, AK 95149, United Kingdom",
+    "vessel": "MSC OSCAR",
+    "voyage": "186N",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Dubai, AE",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Antwerp, BE",
+    "issue_date": "2025-04-02",
+    "issue_place": "Felixstowe",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "NJHB5229089",
+        "seal_no": "CL606048",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "FIYH2428594",
+        "seal_no": "SL299630",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "DCTM2232943",
+        "seal_no": "SL648016",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "DRAS5218005",
+        "seal_no": "CL339648",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 465,
+    "package_type": "Bag",
+    "gross_weight_kg": 10329.7,
+    "net_weight_kg": 9206.0,
+    "cbm": 55.778,
+    "marks_and_numbers": "GLB/13"
+  }
+}

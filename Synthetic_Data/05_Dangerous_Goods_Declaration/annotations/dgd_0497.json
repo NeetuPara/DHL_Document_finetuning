@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0497",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Thompson Pte Ltd",
+    "shipper_address": "59570 Steven Shoal Suite 486, Booneside, RI 64840, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Tech Morrison B.V.",
+    "consignee_address": "4853 Chapman Union Apt. 403, South Michaelberg, OK 89518, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "emergency_telephone": "+53 177-775-6338",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 42,
+        "pkg_type": "Steel Drum",
+        "net_qty": 9.74,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-164030",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Jeffery Atkins",
+    "signature_date": "2026-04-24",
+    "signature_place": "Thailand",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "363E",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Hong Kong, HK"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0362",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20211203968875",
+    "export_date": "2026-01-31",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Trade Carter Ltd",
+    "usppi_ein": "09-8528380",
+    "usppi_address": "64777 Odonnell Springs, Chelseatown, CO 59412, Hong Kong",
+    "ultimate_consignee": "Commerce Wood S.A.",
+    "intermediate_consignee": "Hill Tech Pte Ltd",
+    "forwarding_agent": "Watts Tech Pte Ltd",
+    "destination_country": "Singapore",
+    "carrier": "FedEx",
+    "bl_awb": "006-30211275",
+    "total_value": 408715.67,
+    "currency": "EUR",
+    "signatory": "Jordan Chavez",
+    "line_items": [
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Australia",
+        "qty": 116,
+        "unit": "PCS",
+        "entered_value": 15559.08,
+        "duty_rate": 5.1,
+        "duty_amount": 793.51,
+        "eccn": "0A919",
+        "schedule_b": "3926.90.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Canada",
+        "qty": 496,
+        "unit": "PCS",
+        "entered_value": 28787.84,
+        "duty_rate": 14.3,
+        "duty_amount": 4116.66,
+        "eccn": "9A515",
+        "schedule_b": "9401.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Netherlands",
+        "qty": 360,
+        "unit": "CTN",
+        "entered_value": 150688.8,
+        "duty_rate": 23.1,
+        "duty_amount": 34809.11,
+        "eccn": "EAR99",
+        "schedule_b": "4819.10.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Mexico",
+        "qty": 360,
+        "unit": "PCS",
+        "entered_value": 32392.8,
+        "duty_rate": 21.6,
+        "duty_amount": 6996.84,
+        "eccn": "EAR99",
+        "schedule_b": "3926.90.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Poland",
+        "qty": 391,
+        "unit": "PKG",
+        "entered_value": 181287.15,
+        "duty_rate": 8.8,
+        "duty_amount": 15953.27,
+        "eccn": "2B350",
+        "schedule_b": "4016.93.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0616",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "897-56482076-3",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2025-09-04",
+    "port_of_entry": "JFK - New York",
+    "transport_mode": "Truck",
+    "carrier": "UPS",
+    "bl_awb": "006-57075229",
+    "importer_name": "Stewart Pacific S.A.",
+    "importer_ein": "92-6969619",
+    "consignee_name": "Mills Industry B.V.",
+    "customs_broker": "Lewis Global Co.",
+    "broker_filer_code": "FdO",
+    "country_of_origin": "Belgium",
+    "total_value": 268839.43,
+    "total_duty": 15747.9,
+    "currency": "CHF",
+    "signatory": "Kelly Bryant",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Brazil",
+        "qty": 466,
+        "unit": "CTN",
+        "entered_value": 221280.1,
+        "duty_rate": 6.3,
+        "duty_amount": 13940.65,
+        "eccn": "1A002",
+        "schedule_b": "9018.31.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Italy",
+        "qty": 117,
+        "unit": "MTR",
+        "entered_value": 47559.33,
+        "duty_rate": 3.8,
+        "duty_amount": 1807.25,
+        "eccn": "5E992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

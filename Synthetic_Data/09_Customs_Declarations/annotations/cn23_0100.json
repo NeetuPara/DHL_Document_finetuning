@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0100",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Matthew Gilmore",
+    "addressee_company": "Global Roach S.A.",
+    "addressee_address": "128 Timothy Lights Suite 222, Laurenborough, IA 59219, Sweden",
+    "addressee_country": "Sweden",
+    "total_weight_kg": 4.292,
+    "total_value": 86.46,
+    "currency": "SGD",
+    "issue_date": "2025-12-18",
+    "reference": "REF-340597",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.292,
+        "value": 86.46,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_name": "Christopher Rivas",
+    "sender_company": "Snyder Global Corp.",
+    "sender_address": "19244 Parker Mews, New Jessica, AR 04674, South Korea",
+    "sender_phone": "758-305-5251",
+    "sender_email": "valenciamarissa@example.com",
+    "addressee_phone": "(653)708-8565",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 95.11,
+    "postal_charges": 75.45,
+    "tracking_number": "IK263353698KU"
+  }
+}

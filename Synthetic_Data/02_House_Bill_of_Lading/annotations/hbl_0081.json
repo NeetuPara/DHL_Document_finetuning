@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0081",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU432383472",
+    "shipper_name": "Pacific Ryan Ltd",
+    "shipper_address": "5177 Matthew Green, Aimeestad, SC 92735, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Tech White GmbH",
+    "consignee_address": "15840 Jessica Plains, Lake Jenna, AS 46442, Japan",
+    "consignee_country": "Japan",
+    "notify_party_name": "Shepard Trade AG",
+    "notify_party_address": "646 Brittany Expressway, Josestad, MP 37871, Thailand",
+    "vessel": "MADRID MAERSK",
+    "voyage": "435S",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2025-03-10",
+    "issue_place": "New York",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "YDZJ4921304",
+        "seal_no": "CL561047",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "AMFW8768180",
+        "seal_no": "CL841996",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "EPPA8853361",
+        "seal_no": "CL911019",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 201,
+    "package_type": "Roll",
+    "gross_weight_kg": 4104.0,
+    "net_weight_kg": 3980.6,
+    "cbm": 19.342,
+    "marks_and_numbers": "XYZ/2"
+  }
+}

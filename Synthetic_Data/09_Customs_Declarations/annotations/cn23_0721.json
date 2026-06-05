@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0721",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "William Craig",
+    "addressee_company": "Industry Padilla S.A.",
+    "addressee_address": "0597 Mitchell Gardens, Shafferhaven, AL 63176, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 3.949,
+    "total_value": 3165.32,
+    "currency": "EUR",
+    "issue_date": "2025-06-07",
+    "reference": "REF-863923",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.145,
+        "value": 1314.36,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 17,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.804,
+        "value": 1850.96,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Jason Lara",
+    "sender_company": "Fields International S.A.",
+    "sender_address": "1131 Dennis Circles Suite 070, North Jasonbury, KY 55662, Singapore",
+    "sender_phone": "(393)204-7055x124",
+    "sender_email": "bdavies@example.com",
+    "addressee_phone": "996.214.0775",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 3481.85,
+    "postal_charges": 42.85,
+    "tracking_number": "QL566385641BC"
+  }
+}

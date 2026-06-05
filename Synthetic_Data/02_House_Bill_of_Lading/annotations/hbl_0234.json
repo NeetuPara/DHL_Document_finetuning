@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0234",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG560982425",
+    "shipper_name": "Global Cole AG",
+    "shipper_address": "50694 Smith Throughway Suite 500, Coffeyport, WA 28559, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Pacific Reyes AG",
+    "consignee_address": "1576 Nathan Mills Apt. 064, Jenniferborough, MI 28441, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party_name": "Tech Scott Co.",
+    "notify_party_address": "903 Hamilton Parks Apt. 777, Lake Tammybury, MT 75048, Switzerland",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "204E",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2024-12-23",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "QIQZ3695041",
+        "seal_no": "BL442591",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "UXPI3566802",
+        "seal_no": "BL781412",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "ZDDB5814636",
+        "seal_no": "BL103660",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "GRKK2451283",
+        "seal_no": "CL242634",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 108,
+    "package_type": "Carton",
+    "gross_weight_kg": 21052.2,
+    "net_weight_kg": 18891.5,
+    "cbm": 7.212,
+    "marks_and_numbers": "GLB/4"
+  }
+}

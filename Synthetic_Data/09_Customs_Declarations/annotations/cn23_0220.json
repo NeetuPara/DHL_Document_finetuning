@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0220",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jacqueline Rios",
+    "addressee_company": "Nguyen Pacific S.A.",
+    "addressee_address": "960 Chelsea Center, East Yvonneport, IL 89528, France",
+    "addressee_country": "France",
+    "total_weight_kg": 9.14,
+    "total_value": 3316.79,
+    "currency": "AUD",
+    "issue_date": "2026-01-21",
+    "reference": "REF-676072",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 0.321,
+        "value": 1514.64,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 3,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.9,
+        "value": 11.16,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 19,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.269,
+        "value": 300.77,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 8,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.503,
+        "value": 797.92,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 3,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.639,
+        "value": 253.26,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 7,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.508,
+        "value": 439.04,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Margaret Smith",
+    "sender_company": "Hernandez Pacific S.A.",
+    "sender_address": "0762 Jones Grove Apt. 230, Fullerberg, WY 20259, Malaysia",
+    "sender_phone": "337-882-8938x1022",
+    "sender_email": "angela04@example.net",
+    "addressee_phone": "+1-321-424-6920x059",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 3648.47,
+    "postal_charges": 35.64,
+    "tracking_number": "LU047395449SC"
+  }
+}

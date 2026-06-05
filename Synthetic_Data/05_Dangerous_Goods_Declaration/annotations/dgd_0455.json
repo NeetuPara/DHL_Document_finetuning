@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0455",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Ross Industry B.V.",
+    "shipper_address": "9383 Velez Overpass Suite 397, Darleneberg, DC 85073, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Pacific Perry Co.",
+    "consignee_address": "14169 Reyes Terrace Apt. 551, Maxwellmouth, AR 13427, Poland",
+    "consignee_country": "Poland",
+    "emergency_telephone": "+87 425-547-5599",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 39,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 9.28,
+        "qty_unit": "mL",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Andrew Rodgers",
+    "signature_date": "2026-04-14",
+    "signature_place": "Australia",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "689N",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Tokyo, JP"
+  }
+}

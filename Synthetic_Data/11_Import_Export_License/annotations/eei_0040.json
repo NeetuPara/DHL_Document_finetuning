@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0040",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "616-87766399-1",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2026-05-04",
+    "port_of_entry": "ORD - Chicago",
+    "transport_mode": "Rail",
+    "carrier": "MSC",
+    "bl_awb": "006-35324570",
+    "importer_name": "Gomez International Co.",
+    "importer_ein": "87-4550279",
+    "consignee_name": "Industry Rogers Inc.",
+    "customs_broker": "International King Corp.",
+    "broker_filer_code": "rBz",
+    "country_of_origin": "Mexico",
+    "total_value": 355859.1,
+    "total_duty": 40343.22,
+    "currency": "JPY",
+    "signatory": "Christina Yang",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "United States",
+        "qty": 352,
+        "unit": "MTR",
+        "entered_value": 126698.88,
+        "duty_rate": 1.4,
+        "duty_amount": 1773.78,
+        "eccn": "9A515",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Netherlands",
+        "qty": 157,
+        "unit": "MTR",
+        "entered_value": 58086.86,
+        "duty_rate": 7.8,
+        "duty_amount": 4530.78,
+        "eccn": "9A515",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Australia",
+        "qty": 30,
+        "unit": "PCS",
+        "entered_value": 9397.2,
+        "duty_rate": 24.3,
+        "duty_amount": 2283.52,
+        "eccn": "2B350",
+        "schedule_b": "8534.00.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Mexico",
+        "qty": 341,
+        "unit": "LTR",
+        "entered_value": 153030.57,
+        "duty_rate": 20.7,
+        "duty_amount": 31677.33,
+        "eccn": "7A994",
+        "schedule_b": "2901.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Belgium",
+        "qty": 167,
+        "unit": "LTR",
+        "entered_value": 8645.59,
+        "duty_rate": 0.9,
+        "duty_amount": 77.81,
+        "eccn": "2B350",
+        "schedule_b": "2901.10.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

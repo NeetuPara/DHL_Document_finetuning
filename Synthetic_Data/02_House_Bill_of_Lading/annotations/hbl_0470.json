@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0470",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU691485172",
+    "shipper_name": "Glass International B.V.",
+    "shipper_address": "748 Amy Light Suite 829, Ashleymouth, OK 24590, India",
+    "shipper_country": "India",
+    "consignee_name": "Pacific Esparza Corp.",
+    "consignee_address": "PSC 6162, Box 8250, APO AA 70412, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party_name": "Commerce Young GmbH",
+    "notify_party_address": "874 Daniel Branch, Jamesfurt, SD 50654, Brazil",
+    "vessel": "ONE INNOVATION",
+    "voyage": "245N",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2025-11-20",
+    "issue_place": "Colombo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "WWDC8132945",
+        "seal_no": "CL694512",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "DOWX7613963",
+        "seal_no": "BL483346",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "DGNK3161412",
+        "seal_no": "CL659004",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "TRHY1300434",
+        "seal_no": "CL639976",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "number_of_packages": 344,
+    "package_type": "Crate",
+    "gross_weight_kg": 15660.4,
+    "net_weight_kg": 14141.2,
+    "cbm": 14.277,
+    "marks_and_numbers": "XYZ/29"
+  }
+}

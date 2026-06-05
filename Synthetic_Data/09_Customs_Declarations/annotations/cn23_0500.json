@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0500",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "David Patterson",
+    "addressee_company": "Commerce Johnson B.V.",
+    "addressee_address": "Unit 5187 Box 2430, DPO AA 03226, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 1.375,
+    "total_value": 301.4,
+    "currency": "AUD",
+    "issue_date": "2026-05-04",
+    "reference": "REF-012040",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.375,
+        "value": 301.4,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Christopher Bradley",
+    "sender_company": "Commerce White Pte Ltd",
+    "sender_address": "305 Brown Crest, Rodriguezberg, NY 83197, Malaysia",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 47.01,
+    "tracking_number": "CZ713099718SF"
+  }
+}

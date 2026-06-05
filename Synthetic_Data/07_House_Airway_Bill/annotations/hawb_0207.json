@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0207",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-62564648",
+    "mawb_number": "176-61276925",
+    "shipper_name": "Farmer Pacific Pte Ltd",
+    "shipper_address": "086 Jennifer Square Suite 481, Markmouth, HI 52277, France",
+    "consignee_name": "Pacific Hicks S.A.",
+    "consignee_address": "Unit 3461 Box 1951, DPO AP 62912, Malaysia",
+    "agent_name": "Commerce Sherman Corp.",
+    "airport_departure": "MIA",
+    "airport_destination": "ICN",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "EUR 5,923.14",
+    "n_pieces": 40,
+    "gross_weight_kg": 450.9,
+    "chargeable_weight": 586.1,
+    "rate": 10.35,
+    "total_charge": 6066.14,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-11-23",
+    "signatory": "Daniel Brown",
+    "iata_code": "27-153",
+    "agent_cass": "2465-5741",
+    "consolidation_ref": "CONS-4886-337158",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-56819200",
+        "pieces": 14,
+        "weight": 49.3,
+        "destination": "CDG",
+        "consignee": "Industry Palmer LLC",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "020-12342521",
+        "pieces": 9,
+        "weight": 32.1,
+        "destination": "NRT",
+        "consignee": "Cox Industry Inc.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "020-62672829",
+        "pieces": 20,
+        "weight": 35.4,
+        "destination": "CDG",
+        "consignee": "Haney International Inc.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "057-79717324",
+        "pieces": 18,
+        "weight": 25.8,
+        "destination": "DXB",
+        "consignee": "Mccall Trade AG",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "074-39633587",
+        "pieces": 10,
+        "weight": 59.6,
+        "destination": "PVG",
+        "consignee": "Industry Yates Inc.",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

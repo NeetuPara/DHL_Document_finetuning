@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0327",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-66115664",
+    "mawb_number": "085-31085240",
+    "shipper_name": "Pacific Miller GmbH",
+    "shipper_address": "32296 John Glens Suite 136, Maryland, AL 56909, Australia",
+    "consignee_name": "Global Macdonald AG",
+    "consignee_address": "24153 Moody Trail Suite 086, Nicholsland, HI 97946, Hong Kong",
+    "agent_name": "Harris Trade Pte Ltd",
+    "airport_departure": "SIN",
+    "airport_destination": "AMS",
+    "currency": "CHF",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "SGD 46,267.63",
+    "n_pieces": 23,
+    "gross_weight_kg": 361.7,
+    "chargeable_weight": 434.4,
+    "rate": 11.08,
+    "total_charge": 4813.15,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-08-26",
+    "signatory": "Melissa Vargas",
+    "iata_code": "14-755",
+    "agent_cass": "9222-9017",
+    "consolidation_ref": "CONS-5940-755584",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-35780008",
+        "pieces": 15,
+        "weight": 59.1,
+        "destination": "FRA",
+        "consignee": "Industry Bates Pte Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "020-56562977",
+        "pieces": 14,
+        "weight": 50.5,
+        "destination": "FRA",
+        "consignee": "Trade Lynch Inc.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "618-28868863",
+        "pieces": 13,
+        "weight": 51.6,
+        "destination": "JFK",
+        "consignee": "Pacific Arnold Corp.",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

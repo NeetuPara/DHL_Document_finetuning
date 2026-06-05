@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0649",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Donna Montgomery",
+    "addressee_company": "Pacific Burke S.A.",
+    "addressee_address": "0519 Matthew Ramp, Kerristad, NH 90119, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 4.782,
+    "total_value": 2354.23,
+    "currency": "AED",
+    "issue_date": "2025-07-09",
+    "reference": "REF-156574",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.488,
+        "value": 1862.88,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 1,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.211,
+        "value": 78.58,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 3,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.083,
+        "value": 412.77,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Nancy Elliott",
+    "sender_company": "Commerce Williamson Ltd",
+    "sender_address": "407 Lindsay Parkways, Coxview, MT 44962, Malaysia",
+    "sender_phone": "001-462-223-9871",
+    "sender_email": "williamsdonald@example.net",
+    "addressee_phone": "(873)614-2638",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 15.57,
+    "tracking_number": "ZR965225468OI"
+  }
+}

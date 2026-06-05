@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0149",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20231030862711",
+    "export_date": "2025-08-15",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Pacific Johnston B.V.",
+    "usppi_ein": "68-8154458",
+    "usppi_address": "252 John Streets Apt. 201, Proctorville, DE 78423, Poland",
+    "ultimate_consignee": "Trade Haney Ltd",
+    "intermediate_consignee": "Glenn Pacific Inc.",
+    "forwarding_agent": "Commerce Sherman Corp.",
+    "destination_country": "Canada",
+    "carrier": "UPS",
+    "bl_awb": "020-26004154",
+    "total_value": 119448.36,
+    "currency": "AUD",
+    "signatory": "Paul Smith",
+    "line_items": [
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Poland",
+        "qty": 150,
+        "unit": "PKG",
+        "entered_value": 55624.5,
+        "duty_rate": 17.9,
+        "duty_amount": 9956.79,
+        "eccn": "1A002",
+        "schedule_b": "4016.93.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Singapore",
+        "qty": 327,
+        "unit": "PCS",
+        "entered_value": 63823.86,
+        "duty_rate": 21.0,
+        "duty_amount": 13403.01,
+        "eccn": "5E992",
+        "schedule_b": "8518.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

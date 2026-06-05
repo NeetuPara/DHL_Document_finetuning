@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0977",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20211106399526",
+    "export_date": "2026-04-30",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Jimenez International Corp.",
+    "usppi_ein": "92-3687520",
+    "usppi_address": "82913 Villanueva Ferry Suite 485, Armstrongtown, SD 75989, Singapore",
+    "ultimate_consignee": "Boyd Pacific Pte Ltd",
+    "intermediate_consignee": "Howell Industry GmbH",
+    "forwarding_agent": "Commerce Long Co.",
+    "destination_country": "United States",
+    "carrier": "FedEx",
+    "bl_awb": "085-52916404",
+    "total_value": 127964.5,
+    "currency": "CHF",
+    "signatory": "Paul Williams",
+    "line_items": [
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Hong Kong",
+        "qty": 321,
+        "unit": "BOX",
+        "entered_value": 39698.07,
+        "duty_rate": 4.2,
+        "duty_amount": 1667.32,
+        "eccn": "2B350",
+        "schedule_b": "2936.90.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Canada",
+        "qty": 203,
+        "unit": "PCS",
+        "entered_value": 88266.43,
+        "duty_rate": 23.6,
+        "duty_amount": 20830.88,
+        "eccn": "5E992",
+        "schedule_b": "3926.90.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

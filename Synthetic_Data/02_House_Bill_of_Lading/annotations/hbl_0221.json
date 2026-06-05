@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0221",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU300873450",
+    "shipper_name": "Global Henderson Ltd",
+    "shipper_address": "14784 May Place Suite 843, Duaneland, PW 82518, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "International Martinez Corp.",
+    "consignee_address": "729 Blair Springs Apt. 016, West Timothybury, FM 46126, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party_name": "Dean Pacific B.V.",
+    "notify_party_address": "PSC 5705, Box 8478, APO AA 77116, South Korea",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "703W",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Singapore, SG",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2025-05-14",
+    "issue_place": "Busan",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "GKAS1652069",
+        "seal_no": "BL498203",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "EWDP2842655",
+        "seal_no": "SL687857",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 390,
+    "package_type": "Roll",
+    "gross_weight_kg": 1708.9,
+    "net_weight_kg": 1530.5,
+    "cbm": 14.173,
+    "marks_and_numbers": "XYZ/16"
+  }
+}

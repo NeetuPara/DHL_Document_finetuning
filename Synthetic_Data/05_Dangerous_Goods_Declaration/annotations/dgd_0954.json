@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0954",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Wilson Pte Ltd",
+    "shipper_address": "410 Richardson Corner, Hoodfort, ID 57361, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Pacific Bates S.A.",
+    "consignee_address": "9519 Amanda Ville, Emilytown, IL 79182, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+49 655-593-9370",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 6,
+        "pkg_type": "Steel Drum",
+        "net_qty": 27.57,
+        "qty_unit": "L",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-489359",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jane Lowe",
+    "signature_date": "2026-05-07",
+    "signature_place": "United Kingdom",
+    "awb_number": "006-90678395",
+    "flight_number": "CX362",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

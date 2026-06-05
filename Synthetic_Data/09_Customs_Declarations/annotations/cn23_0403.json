@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0403",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Arthur Thomas",
+    "addressee_company": "Young Industry Corp.",
+    "addressee_address": "37197 Gamble Village Apt. 938, South Toniview, ID 13950, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 3.256,
+    "total_value": 103.7,
+    "currency": "SGD",
+    "issue_date": "2025-08-30",
+    "reference": "REF-581322",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.256,
+        "value": 103.7,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Angela Hudson",
+    "sender_company": "Mcdonald Pacific Inc.",
+    "sender_address": "Unit 4161 Box 9738, DPO AE 58769, France",
+    "sender_phone": "294.205.6896x80969",
+    "sender_email": "jonesaustin@example.org",
+    "addressee_phone": "647.720.6547",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 114.07,
+    "postal_charges": 7.84,
+    "tracking_number": "VU938521298GG"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0477",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Daugherty Pacific Corp.",
+    "shipper_address": "60397 Cheryl Isle Suite 308, Perezfurt, PR 18089, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "International Holmes Pte Ltd",
+    "consignee_address": "32666 Brock Port, Kyletown, HI 77904, United States",
+    "consignee_country": "United States",
+    "emergency_telephone": "+43 957-704-1252",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 29,
+        "pkg_type": "Steel Drum",
+        "net_qty": 41.34,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-548843",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "William Fisher",
+    "signature_date": "2026-04-23",
+    "signature_place": "Germany",
+    "awb_number": "020-62812330",
+    "flight_number": "DL2527",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0340",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU833052815",
+    "shipper_name": "Pollard Commerce LLC",
+    "shipper_address": "9407 Kathy Brook Suite 237, Nancyton, WA 84513, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Pacific Brown Inc.",
+    "consignee_address": "670 Tina Place, Port Anthony, KS 88560, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party_name": "Pacific Clark Corp.",
+    "notify_party_address": "0120 Charles Alley Suite 245, East Katherine, VI 89292, France",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "140E",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2025-09-27",
+    "issue_place": "Tanjung Pelepas",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "ETVJ3150878",
+        "seal_no": "BL629967",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "QPAH1968440",
+        "seal_no": "BL189405",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "PVOR5497640",
+        "seal_no": "SL581500",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "JFJD2766992",
+        "seal_no": "CL775908",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 265,
+    "package_type": "Bundle",
+    "gross_weight_kg": 15905.0,
+    "net_weight_kg": 15108.8,
+    "cbm": 30.672,
+    "marks_and_numbers": "XYZ/39"
+  }
+}

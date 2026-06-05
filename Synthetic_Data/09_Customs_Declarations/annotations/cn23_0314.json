@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0314",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kenneth Simpson",
+    "addressee_company": "Industry Davis B.V.",
+    "addressee_address": "380 Kevin Extension Apt. 781, Alexborough, GA 94081, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 2.533,
+    "total_value": 2067.42,
+    "currency": "USD",
+    "issue_date": "2026-05-09",
+    "reference": "REF-965674",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.457,
+        "value": 2038.65,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 1,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.076,
+        "value": 28.77,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_name": "Anne Sutton",
+    "sender_company": "Industry Simmons Corp.",
+    "sender_address": "USS Villegas, FPO AP 51829, Poland",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 28.93,
+    "tracking_number": "GG486260533MC"
+  }
+}

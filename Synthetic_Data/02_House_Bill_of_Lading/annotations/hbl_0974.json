@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0974",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV676890748",
+    "shipper_name": "Wilcox Industry Co.",
+    "shipper_address": "730 Roberts Land Apt. 201, East Amberberg, VT 61712, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Tech Williams Co.",
+    "consignee_address": "USS Perez, FPO AP 96830, Italy",
+    "consignee_country": "Italy",
+    "notify_party_name": "Commerce Taylor Inc.",
+    "notify_party_address": "081 Moore Expressway Apt. 013, Curtisborough, GA 01613, Poland",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "689W",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2024-09-13",
+    "issue_place": "Singapore",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "PHXX0518749",
+        "seal_no": "BL719580",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "DCHR7317040",
+        "seal_no": "CL254154",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 343,
+    "package_type": "Bundle",
+    "gross_weight_kg": 9495.9,
+    "net_weight_kg": 8991.2,
+    "cbm": 31.99,
+    "marks_and_numbers": "GLB/44"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0244",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Buchanan Pte Ltd",
+    "shipper_address": "6688 Troy Park Suite 291, Howellhaven, NM 00887, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Cannon Commerce LLC",
+    "consignee_address": "691 Jesse Viaduct Suite 580, North Sharon, NM 63527, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+76 635-309-3320",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 49,
+        "pkg_type": "Steel Drum",
+        "net_qty": 94.4,
+        "qty_unit": "mL",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "David Moore",
+    "signature_date": "2026-04-28",
+    "signature_place": "Australia",
+    "awb_number": "618-18930997",
+    "flight_number": "QR3860",
+    "flight_date": "2026-05-30",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "SYD",
+    "destination_airport_name": "Sydney Kingsford Smith"
+  }
+}

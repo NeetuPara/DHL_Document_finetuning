@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0938",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202411-3362",
+    "usppi_name": "Andrews Tech Corp.",
+    "usppi_address": "5902 Hoffman Inlet, Anthonyland, MI 12633, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "82-1997316",
+    "consignee_name": "White Tech S.A.",
+    "consignee_address": "2344 Gibson Ramp, Dennisberg, ME 81751, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Bates International GmbH",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Victor Moore",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/50",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 140,
+        "unit": "PCS",
+        "weight_kg": 21.47,
+        "value_usd": 17657.91
+      },
+      {
+        "marks": "EXP/41",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 158,
+        "unit": "PCS",
+        "weight_kg": 1717.87,
+        "value_usd": 46910.46
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 129,
+        "unit": "PCS",
+        "weight_kg": 10.34,
+        "value_usd": 6888.8
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 81,
+        "unit": "BOX",
+        "weight_kg": 122.96,
+        "value_usd": 8461.28
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 163,
+        "unit": "MTR",
+        "weight_kg": 123.29,
+        "value_usd": 964.77
+      }
+    ],
+    "total_weight_kg": 1995.93,
+    "total_value_usd": 80883.22,
+    "service": "Ocean Freight",
+    "named_port": "Felixstowe, GB",
+    "insurance_value_usd": 8657.93,
+    "license_type": "Distributor License",
+    "license_number": "LIC-208023",
+    "destination_country": "Japan"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0455",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "John Smith",
+    "addressee_company": "Tech Blackwell Pte Ltd",
+    "addressee_address": "132 Hogan Shore, North Chelsea, SD 62423, Sweden",
+    "addressee_country": "Sweden",
+    "total_weight_kg": 7.632,
+    "total_value": 708.75,
+    "currency": "AED",
+    "issue_date": "2026-01-04",
+    "reference": "REF-536823",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 4.747,
+        "value": 431.34,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 3,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.885,
+        "value": 277.41,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "Jennifer Webb",
+    "sender_company": "Pacific Carlson GmbH",
+    "sender_address": "184 Robinson Summit, Owensfurt, CT 54755, Thailand",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 56.69,
+    "tracking_number": "UA201288595VF"
+  }
+}

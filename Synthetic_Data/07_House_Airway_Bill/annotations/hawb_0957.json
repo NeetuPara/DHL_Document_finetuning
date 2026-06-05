@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0957",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-42694987",
+    "mawb_number": "176-84982657",
+    "shipper_name": "Gomez Industry B.V.",
+    "shipper_address": "1154 Suzanne Unions, Lake Phillipshire, MT 13339, United States",
+    "consignee_name": "Commerce Richardson Inc.",
+    "consignee_address": "2398 Williams Brooks Apt. 757, Tiffanyfurt, NJ 61505, Malaysia",
+    "agent_name": "Henderson Commerce Ltd",
+    "airport_departure": "ORD",
+    "airport_destination": "YYZ",
+    "currency": "AUD",
+    "charge_code": "CC",
+    "declared_value_carriage": "CNY 23,803.03",
+    "declared_value_customs": "AUD 7,658.14",
+    "n_pieces": 28,
+    "gross_weight_kg": 291.0,
+    "chargeable_weight": 331.1,
+    "rate": 8.37,
+    "total_charge": 2771.31,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-02-18",
+    "signatory": "Dustin Jackson",
+    "iata_code": "38-004",
+    "agent_cass": "7365-4032",
+    "consolidation_ref": "CONS-1511-985616",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-26484729",
+        "pieces": 2,
+        "weight": 11.0,
+        "destination": "SIN",
+        "consignee": "Global Johnson Co.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "045-50719700",
+        "pieces": 10,
+        "weight": 21.7,
+        "destination": "MIA",
+        "consignee": "Baker Tech Pte Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "020-64087406",
+        "pieces": 9,
+        "weight": 42.2,
+        "destination": "NRT",
+        "consignee": "Commerce Smith Inc.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "176-93033452",
+        "pieces": 19,
+        "weight": 3.2,
+        "destination": "ORD",
+        "consignee": "International Campbell GmbH",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "176-27851474",
+        "pieces": 3,
+        "weight": 5.1,
+        "destination": "NRT",
+        "consignee": "Tech Spencer Corp.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "085-82461894",
+        "pieces": 2,
+        "weight": 28.4,
+        "destination": "FRA",
+        "consignee": "Knight Trade S.A.",
+        "description": "Rubber Goods - Industrial Seals and"
+      }
+    ]
+  }
+}

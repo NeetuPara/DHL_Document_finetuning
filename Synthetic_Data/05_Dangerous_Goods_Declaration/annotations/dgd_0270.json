@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0270",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Nicholson Trade Co.",
+    "shipper_address": "94250 Smith Fork, Mccarthymouth, FL 14657, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Industry Grant LLC",
+    "consignee_address": "060 Rodriguez Lock, East Williamville, RI 79360, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+52 439-132-7829",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 18,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 69.19,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Lori Lewis",
+    "signature_date": "2026-05-02",
+    "signature_place": "Sweden",
+    "awb_number": "074-96329091",
+    "flight_number": "CX1272",
+    "departure_airport_code": "JFK",
+    "departure_airport_name": "JFK New York",
+    "destination_airport_code": "LHR",
+    "destination_airport_name": "London Heathrow",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

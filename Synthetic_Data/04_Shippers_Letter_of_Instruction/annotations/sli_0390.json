@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0390",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202204-6933",
+    "usppi_name": "Mason International GmbH",
+    "usppi_address": "5688 Cummings Meadow, East Tara, MO 90432, Italy",
+    "usppi_country": "Italy",
+    "ein": "60-1425331",
+    "consignee_name": "Wilson Commerce LLC",
+    "consignee_address": "7652 Pace View Suite 297, Rachelland, WA 72672, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Parrish Trade B.V.",
+    "forwarder": "Panalpina",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Christopher Webster",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/42",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 129,
+        "unit": "PCS",
+        "weight_kg": 596.99,
+        "value_usd": 6017.76
+      },
+      {
+        "marks": "ABC/8",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 53,
+        "unit": "SET",
+        "weight_kg": 96.99,
+        "value_usd": 5550.16
+      }
+    ],
+    "total_weight_kg": 693.98,
+    "total_value_usd": 11567.92,
+    "vessel": "YANG MING MYTH",
+    "voyage": "460E",
+    "booking_ref": "BKG-440486",
+    "bl_number": "OOLU625312046",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "HKNR9992888",
+    "seal_number": "CL101099",
+    "container_type": "20'GP",
+    "cbm": 7.331
+  }
+}

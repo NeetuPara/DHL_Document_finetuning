@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0830",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jennifer Conway",
+    "addressee_company": "Wilkerson Pacific Inc.",
+    "addressee_address": "USS Anderson, FPO AE 74920, France",
+    "addressee_country": "France",
+    "total_weight_kg": 4.948,
+    "total_value": 155.0,
+    "currency": "GBP",
+    "issue_date": "2025-11-27",
+    "reference": "REF-900070",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.231,
+        "value": 104.94,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 2,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.717,
+        "value": 50.06,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "David Alvarez",
+    "sender_company": "Global Elliott Inc.",
+    "sender_address": "17297 Kirk Valleys, Greeneport, CA 05640, Switzerland",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 72.17,
+    "tracking_number": "KT919529671QM"
+  }
+}

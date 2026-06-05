@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0117",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-83510113",
+    "mawb_number": "176-57116238",
+    "shipper_name": "Skinner Trade Co.",
+    "shipper_address": "8200 Hansen Forks, Drakechester, IL 07151, France",
+    "consignee_name": "International Patrick GmbH",
+    "consignee_address": "03848 Patrick Alley Apt. 153, Francesland, AL 56406, Germany",
+    "agent_name": "Pacific Mitchell AG",
+    "airport_departure": "CDG",
+    "airport_destination": "DXB",
+    "currency": "CAD",
+    "charge_code": "CC",
+    "declared_value_carriage": "GBP 17,806.33",
+    "declared_value_customs": "CNY 29,832.40",
+    "n_pieces": 45,
+    "gross_weight_kg": 87.4,
+    "chargeable_weight": 99.1,
+    "rate": 4.0,
+    "total_charge": 396.4,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-04-24",
+    "signatory": "Maureen Miller",
+    "iata_code": "17-425",
+    "agent_cass": "7794-3076",
+    "consolidation_ref": "CONS-4058-260056",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-91434465",
+        "pieces": 7,
+        "weight": 1.5,
+        "destination": "DXB",
+        "consignee": "Trade Spencer S.A.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "020-41865800",
+        "pieces": 12,
+        "weight": 91.8,
+        "destination": "SIN",
+        "consignee": "Noble International AG",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "618-76474155",
+        "pieces": 3,
+        "weight": 60.2,
+        "destination": "AMS",
+        "consignee": "Pacific Welch B.V.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "618-95506864",
+        "pieces": 2,
+        "weight": 70.0,
+        "destination": "PVG",
+        "consignee": "Baker International LLC",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "125-88460804",
+        "pieces": 1,
+        "weight": 98.6,
+        "destination": "MIA",
+        "consignee": "Industry Lewis B.V.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "085-88744593",
+        "pieces": 16,
+        "weight": 12.5,
+        "destination": "PVG",
+        "consignee": "International Foster Pte Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "160-29671469",
+        "pieces": 7,
+        "weight": 36.8,
+        "destination": "JFK",
+        "consignee": "Reynolds Global B.V.",
+        "description": "Optical Equipment - Camera Lenses"
+      }
+    ]
+  }
+}

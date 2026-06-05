@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0685",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Natalie Parsons",
+    "addressee_company": "Flores International Co.",
+    "addressee_address": "6316 Jeremiah Trail Apt. 583, East Michael, IL 28281, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 7.77,
+    "total_value": 4011.22,
+    "currency": "JPY",
+    "issue_date": "2025-11-26",
+    "reference": "REF-565624",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.08,
+        "value": 2168.09,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 15,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.58,
+        "value": 1683.3,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 11,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.11,
+        "value": 159.83,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Canada"
+      }
+    ],
+    "sender_name": "Stacey Lawson",
+    "sender_company": "Industry Riley LLC",
+    "sender_address": "0001 Miller Center, West Ronaldborough, MH 49528, Spain",
+    "sender_phone": "001-497-456-3900x90268",
+    "sender_email": "levydeborah@example.net",
+    "addressee_phone": "863.404.0961x0608",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 48.5,
+    "tracking_number": "OX737288175MV"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "document_id": "vgm_0722",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Pacheco Global B.V.",
+    "shipper_address": "565 Chandler Isle, Sanchezland, GU 38662, Thailand",
+    "shipper_country": "Thailand",
+    "container_number": "RYNZ3157924",
+    "seal_number": "SL149118",
+    "container_size": "20'OT",
+    "iso_type_code": "22U0",
+    "tare_weight_kg": 2400,
+    "cargo_weight_kg": 3068.0,
+    "packing_materials_kg": 306.8,
+    "vgm_kg": 5774.8,
+    "vessel": "ONE INNOVATION",
+    "voyage": "585E",
+    "bl_number": "DHLG660156496",
+    "booking_reference": "BKG-105919",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-41222",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-27",
+    "signature_date": "2026-05-11",
+    "signatory_name": "Donald Lewis",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 7,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Crate",
+        "n_units": 15,
+        "gross_wt_kg": 98.4
+      },
+      {
+        "item_no": 2,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Bundle",
+        "n_units": 20,
+        "gross_wt_kg": 677.4
+      },
+      {
+        "item_no": 3,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Cylinder",
+        "n_units": 14,
+        "gross_wt_kg": 634.4
+      },
+      {
+        "item_no": 4,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Roll",
+        "n_units": 4,
+        "gross_wt_kg": 131.9
+      },
+      {
+        "item_no": 5,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Bundle",
+        "n_units": 10,
+        "gross_wt_kg": 585.8
+      },
+      {
+        "item_no": 6,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Bag",
+        "n_units": 3,
+        "gross_wt_kg": 648.7
+      },
+      {
+        "item_no": 7,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Crate",
+        "n_units": 7,
+        "gross_wt_kg": 291.4
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0367",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202205-3273",
+    "usppi_name": "Industry Hernandez AG",
+    "usppi_address": "649 Tonya Mountains, West Kevinville, AL 68648, United Kingdom",
+    "usppi_country": "United Kingdom",
+    "ein": "40-4096469",
+    "consignee_name": "Tran Trade S.A.",
+    "consignee_address": "USNV Rush, FPO AE 51416, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Swanson Commerce Inc.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Autumn Hunt",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/6",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 47,
+        "unit": "PCS",
+        "weight_kg": 610.93,
+        "value_usd": 13984.61
+      },
+      {
+        "marks": "ABC/35",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 146,
+        "unit": "MTR",
+        "weight_kg": 136.15,
+        "value_usd": 1475.07
+      },
+      {
+        "marks": "EXP/27",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 83,
+        "unit": "LTR",
+        "weight_kg": 82.24,
+        "value_usd": 730.86
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 72,
+        "unit": "BOX",
+        "weight_kg": 73.25,
+        "value_usd": 4112.44
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 85,
+        "unit": "PCS",
+        "weight_kg": 89.57,
+        "value_usd": 113602.93
+      },
+      {
+        "marks": "EXP/38",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 75,
+        "unit": "SET",
+        "weight_kg": 235.64,
+        "value_usd": 3100.21
+      }
+    ],
+    "total_weight_kg": 1227.78,
+    "total_value_usd": 137006.12,
+    "service": "LCL Ocean",
+    "named_port": "Rotterdam, NL",
+    "insurance_value_usd": 35224.31,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Netherlands"
+  }
+}

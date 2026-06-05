@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0460",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Vincent Robinson",
+    "addressee_company": "Hall Industry Co.",
+    "addressee_address": "Unit 1016 Box 3899, DPO AE 33514, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 11.993,
+    "total_value": 3079.08,
+    "currency": "JPY",
+    "issue_date": "2026-01-22",
+    "reference": "REF-751170",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.372,
+        "value": 2588.0,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 2,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.174,
+        "value": 273.1,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 3,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.447,
+        "value": 217.98,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_name": "Steven Anderson",
+    "sender_company": "Francis Pacific LLC",
+    "sender_address": "5530 Gonzalez Forest, South Kimberly, CT 84200, France",
+    "sender_phone": "248-470-1963x4143",
+    "sender_email": "walkerwesley@example.org",
+    "addressee_phone": "862-900-4558x0175",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 3386.99,
+    "postal_charges": 18.73,
+    "tracking_number": "ZJ620414456UW"
+  }
+}

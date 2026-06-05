@@ -1,0 +1,954 @@
+[
+  {
+    "model": "Qwen2.5-VL-3B  |  Zero-Shot  |  General VLM",
+    "short_label": "Qwen-3B-ZS",
+    "metrics_type": "all",
+    "n": 2371,
+    "n_filled": 2307,
+    "n_blank": 64,
+    "class_accuracy": 80.6,
+    "position_accuracy": 30.8,
+    "field_f1": 51.9,
+    "split_iou": 29.8,
+    "per_class": {
+      "Cargo Manifest": {
+        "class_acc": 99.5,
+        "start_acc": 6.2,
+        "cont_acc": 100.0,
+        "n": 189
+      },
+      "Certificate of Origin": {
+        "class_acc": 64.8,
+        "start_acc": 24.8,
+        "cont_acc": null,
+        "n": 125
+      },
+      "Commercial Invoice": {
+        "class_acc": 99.0,
+        "start_acc": 38.0,
+        "cont_acc": 97.4,
+        "n": 388
+      },
+      "Customs Declaration": {
+        "class_acc": 92.3,
+        "start_acc": 26.4,
+        "cont_acc": null,
+        "n": 208
+      },
+      "Dangerous Goods Declaration": {
+        "class_acc": 77.5,
+        "start_acc": 7.3,
+        "cont_acc": 100.0,
+        "n": 178
+      },
+      "House Airway Bill": {
+        "class_acc": 99.3,
+        "start_acc": 1.3,
+        "cont_acc": null,
+        "n": 152
+      },
+      "House Bill of Lading": {
+        "class_acc": 78.4,
+        "start_acc": 44.1,
+        "cont_acc": 97.1,
+        "n": 162
+      },
+      "Import/Export License": {
+        "class_acc": 22.0,
+        "start_acc": 18.2,
+        "cont_acc": 55.6,
+        "n": 150
+      },
+      "Packing List": {
+        "class_acc": 99.7,
+        "start_acc": 2.0,
+        "cont_acc": 97.9,
+        "n": 294
+      },
+      "Power of Attorney": {
+        "class_acc": 35.8,
+        "start_acc": 9.3,
+        "cont_acc": null,
+        "n": 151
+      },
+      "Shipper's Letter of Instruction": {
+        "class_acc": 41.3,
+        "start_acc": 65.4,
+        "cont_acc": 100.0,
+        "n": 155
+      },
+      "Verified Gross Mass": {
+        "class_acc": 99.4,
+        "start_acc": 0.0,
+        "cont_acc": 100.0,
+        "n": 155
+      }
+    },
+    "per_field_f1": {
+      "shipper_name": 81.7,
+      "consignee_name": 79.2,
+      "document_date": 0.2,
+      "document_number": 59.3,
+      "country_of_origin": 47.1,
+      "country_of_destination": 48.8,
+      "description_of_goods": 62.4,
+      "license_number": 14.6,
+      "validity_start": 0.0,
+      "validity_end": 0.0,
+      "licensee_name": 7.7
+    },
+    "per_class_field_f1": {
+      "Commercial Invoice": 43.6,
+      "House Bill of Lading": 76.2,
+      "Certificate of Origin": 59.8,
+      "Shipper's Letter of Instruction": 67.3,
+      "Dangerous Goods Declaration": 61.9,
+      "Verified Gross Mass": 59.2,
+      "House Airway Bill": 44.9,
+      "Packing List": 53.4,
+      "Customs Declaration": 57.4,
+      "Cargo Manifest": 15.7,
+      "Import/Export License": 47.2,
+      "Power of Attorney": 37.3
+    },
+    "blank_metrics": {
+      "n": 64,
+      "class_acc": 89.1,
+      "hallucination_rate": 4.7,
+      "clean_rate": 95.3,
+      "avg_hallucinated_fields": 0.25,
+      "per_field_hallucination": {
+        "shipper_name": 4.7,
+        "consignee_name": 4.7,
+        "document_date": 1.6,
+        "document_number": 3.1,
+        "country_of_origin": 1.6,
+        "country_of_destination": 1.6,
+        "description_of_goods": 1.6,
+        "license_number": 1.6,
+        "validity_start": 1.6,
+        "validity_end": 1.6,
+        "licensee_name": 1.6
+      }
+    },
+    "split_complexity": {
+      "1-page": {
+        "n": 163,
+        "pos_acc": 42.9,
+        "cls_acc": 81.6
+      },
+      "2-page": {
+        "n": 0,
+        "pos_acc": null,
+        "cls_acc": null
+      },
+      "3-5 pages": {
+        "n": 0,
+        "pos_acc": null,
+        "cls_acc": null
+      },
+      "6+ pages": {
+        "n": 2144,
+        "pos_acc": 29.9,
+        "cls_acc": 80.5
+      }
+    }
+  },
+  {
+    "model": "Qwen2.5-VL-7B  |  Zero-Shot  |  Full Precision  |  H100",
+    "short_label": "Qwen-7B-ZS",
+    "metrics_type": "all",
+    "n": 0,
+    "n_filled": 0,
+    "n_blank": 0,
+    "class_accuracy": null,
+    "position_accuracy": null,
+    "field_f1": null,
+    "split_iou": null,
+    "per_class": {},
+    "per_field_f1": {
+      "shipper_name": null,
+      "consignee_name": null,
+      "document_date": null,
+      "document_number": null,
+      "country_of_origin": null,
+      "country_of_destination": null,
+      "description_of_goods": null,
+      "license_number": null,
+      "validity_start": null,
+      "validity_end": null,
+      "licensee_name": null
+    },
+    "per_class_field_f1": {
+      "Commercial Invoice": null,
+      "House Bill of Lading": null,
+      "Certificate of Origin": null,
+      "Shipper's Letter of Instruction": null,
+      "Dangerous Goods Declaration": null,
+      "Verified Gross Mass": null,
+      "House Airway Bill": null,
+      "Packing List": null,
+      "Customs Declaration": null,
+      "Cargo Manifest": null,
+      "Import/Export License": null,
+      "Power of Attorney": null
+    },
+    "blank_metrics": {},
+    "split_complexity": {},
+    "deferred": true
+  },
+  {
+    "model": "Donut-RVLCDIP  |  Zero-Shot  |  Document Classification Specialist",
+    "short_label": "Donut-RVL",
+    "metrics_type": "class_only",
+    "n": 2371,
+    "n_filled": 2307,
+    "n_blank": 64,
+    "class_accuracy": 0.0,
+    "position_accuracy": null,
+    "field_f1": null,
+    "split_iou": null,
+    "per_class": {
+      "Cargo Manifest": {
+        "class_acc": 0.0,
+        "start_acc": 100.0,
+        "cont_acc": 0.0,
+        "n": 189
+      },
+      "Certificate of Origin": {
+        "class_acc": 0.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 125
+      },
+      "Commercial Invoice": {
+        "class_acc": 0.0,
+        "start_acc": 100.0,
+        "cont_acc": 0.0,
+        "n": 388
+      },
+      "Customs Declaration": {
+        "class_acc": 0.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 208
+      },
+      "Dangerous Goods Declaration": {
+        "class_acc": 0.0,
+        "start_acc": 100.0,
+        "cont_acc": 0.0,
+        "n": 178
+      },
+      "House Airway Bill": {
+        "class_acc": 0.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 152
+      },
+      "House Bill of Lading": {
+        "class_acc": 0.0,
+        "start_acc": 100.0,
+        "cont_acc": 0.0,
+        "n": 162
+      },
+      "Import/Export License": {
+        "class_acc": 0.0,
+        "start_acc": 100.0,
+        "cont_acc": 0.0,
+        "n": 150
+      },
+      "Packing List": {
+        "class_acc": 0.0,
+        "start_acc": 100.0,
+        "cont_acc": 0.0,
+        "n": 294
+      },
+      "Power of Attorney": {
+        "class_acc": 0.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 151
+      },
+      "Shipper's Letter of Instruction": {
+        "class_acc": 0.0,
+        "start_acc": 100.0,
+        "cont_acc": 0.0,
+        "n": 155
+      },
+      "Verified Gross Mass": {
+        "class_acc": 0.0,
+        "start_acc": 100.0,
+        "cont_acc": 0.0,
+        "n": 155
+      }
+    },
+    "per_field_f1": {
+      "shipper_name": null,
+      "consignee_name": null,
+      "document_date": null,
+      "document_number": null,
+      "country_of_origin": null,
+      "country_of_destination": null,
+      "description_of_goods": null,
+      "license_number": null,
+      "validity_start": null,
+      "validity_end": null,
+      "licensee_name": null
+    },
+    "per_class_field_f1": {
+      "Commercial Invoice": null,
+      "House Bill of Lading": null,
+      "Certificate of Origin": null,
+      "Shipper's Letter of Instruction": null,
+      "Dangerous Goods Declaration": null,
+      "Verified Gross Mass": null,
+      "House Airway Bill": null,
+      "Packing List": null,
+      "Customs Declaration": null,
+      "Cargo Manifest": null,
+      "Import/Export License": null,
+      "Power of Attorney": null
+    },
+    "blank_metrics": {
+      "n": 64,
+      "class_acc": 0.0,
+      "hallucination_rate": 0.0,
+      "clean_rate": 100.0,
+      "avg_hallucinated_fields": 0.0,
+      "per_field_hallucination": {
+        "shipper_name": 0.0,
+        "consignee_name": 0.0,
+        "document_date": 0.0,
+        "document_number": 0.0,
+        "country_of_origin": 0.0,
+        "country_of_destination": 0.0,
+        "description_of_goods": 0.0,
+        "license_number": 0.0,
+        "validity_start": 0.0,
+        "validity_end": 0.0,
+        "licensee_name": 0.0
+      }
+    },
+    "split_complexity": {}
+  },
+  {
+    "model": "Ours: Qwen2.5-VL-3B  |  Fine-Tuned v3  |  final  [merged]",
+    "short_label": "Ours-V3",
+    "metrics_type": "all",
+    "n": 2371,
+    "n_filled": 2307,
+    "n_blank": 64,
+    "class_accuracy": 98.4,
+    "position_accuracy": 100.0,
+    "field_f1": 97.6,
+    "split_iou": 100.0,
+    "per_class": {
+      "Cargo Manifest": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 189
+      },
+      "Certificate of Origin": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 125
+      },
+      "Commercial Invoice": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 388
+      },
+      "Customs Declaration": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 208
+      },
+      "Dangerous Goods Declaration": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 178
+      },
+      "House Airway Bill": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 152
+      },
+      "House Bill of Lading": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 162
+      },
+      "Import/Export License": {
+        "class_acc": 76.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 150
+      },
+      "Packing List": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 294
+      },
+      "Power of Attorney": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 151
+      },
+      "Shipper's Letter of Instruction": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 155
+      },
+      "Verified Gross Mass": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 155
+      }
+    },
+    "per_field_f1": {
+      "shipper_name": 97.3,
+      "consignee_name": 98.1,
+      "document_date": 99.2,
+      "document_number": 97.0,
+      "country_of_origin": 95.7,
+      "country_of_destination": 99.8,
+      "description_of_goods": 96.8,
+      "license_number": 82.8,
+      "validity_start": 100.0,
+      "validity_end": 100.0,
+      "licensee_name": 100.0
+    },
+    "per_class_field_f1": {
+      "Commercial Invoice": 99.9,
+      "House Bill of Lading": 99.8,
+      "Certificate of Origin": 99.9,
+      "Shipper's Letter of Instruction": 97.9,
+      "Dangerous Goods Declaration": 96.5,
+      "Verified Gross Mass": 97.9,
+      "House Airway Bill": 83.6,
+      "Packing List": 99.8,
+      "Customs Declaration": 97.6,
+      "Cargo Manifest": 99.4,
+      "Import/Export License": 97.3,
+      "Power of Attorney": 99.3
+    },
+    "blank_metrics": {
+      "n": 64,
+      "class_acc": 100.0,
+      "hallucination_rate": 0.0,
+      "clean_rate": 100.0,
+      "avg_hallucinated_fields": 0.0,
+      "per_field_hallucination": {
+        "shipper_name": 0.0,
+        "consignee_name": 0.0,
+        "document_date": 0.0,
+        "document_number": 0.0,
+        "country_of_origin": 0.0,
+        "country_of_destination": 0.0,
+        "description_of_goods": 0.0,
+        "license_number": 0.0,
+        "validity_start": 0.0,
+        "validity_end": 0.0,
+        "licensee_name": 0.0
+      }
+    },
+    "split_complexity": {
+      "1-page": {
+        "n": 163,
+        "pos_acc": 100.0,
+        "cls_acc": 99.4
+      },
+      "2-page": {
+        "n": 0,
+        "pos_acc": null,
+        "cls_acc": null
+      },
+      "3-5 pages": {
+        "n": 0,
+        "pos_acc": null,
+        "cls_acc": null
+      },
+      "6+ pages": {
+        "n": 2144,
+        "pos_acc": 100.0,
+        "cls_acc": 98.4
+      }
+    }
+  },
+  {
+    "model": "Ours: Qwen2.5-VL-3B  |  Fine-Tuned v3  |  checkpoint-2000  [merged]",
+    "short_label": "Ours-CK2000",
+    "metrics_type": "all",
+    "n": 2371,
+    "n_filled": 2307,
+    "n_blank": 64,
+    "class_accuracy": 98.4,
+    "position_accuracy": 100.0,
+    "field_f1": 97.7,
+    "split_iou": 100.0,
+    "per_class": {
+      "Cargo Manifest": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 189
+      },
+      "Certificate of Origin": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 125
+      },
+      "Commercial Invoice": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 388
+      },
+      "Customs Declaration": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 208
+      },
+      "Dangerous Goods Declaration": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 178
+      },
+      "House Airway Bill": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 152
+      },
+      "House Bill of Lading": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 162
+      },
+      "Import/Export License": {
+        "class_acc": 75.3,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 150
+      },
+      "Packing List": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 294
+      },
+      "Power of Attorney": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 151
+      },
+      "Shipper's Letter of Instruction": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 155
+      },
+      "Verified Gross Mass": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 155
+      }
+    },
+    "per_field_f1": {
+      "shipper_name": 97.3,
+      "consignee_name": 98.2,
+      "document_date": 99.2,
+      "document_number": 97.0,
+      "country_of_origin": 96.0,
+      "country_of_destination": 99.9,
+      "description_of_goods": 97.0,
+      "license_number": 82.8,
+      "validity_start": 100.0,
+      "validity_end": 100.0,
+      "licensee_name": 100.0
+    },
+    "per_class_field_f1": {
+      "Commercial Invoice": 99.9,
+      "House Bill of Lading": 99.9,
+      "Certificate of Origin": 99.9,
+      "Shipper's Letter of Instruction": 97.8,
+      "Dangerous Goods Declaration": 96.6,
+      "Verified Gross Mass": 98.0,
+      "House Airway Bill": 83.8,
+      "Packing List": 99.8,
+      "Customs Declaration": 97.5,
+      "Cargo Manifest": 99.6,
+      "Import/Export License": 97.2,
+      "Power of Attorney": 99.7
+    },
+    "blank_metrics": {
+      "n": 64,
+      "class_acc": 100.0,
+      "hallucination_rate": 0.0,
+      "clean_rate": 100.0,
+      "avg_hallucinated_fields": 0.0,
+      "per_field_hallucination": {
+        "shipper_name": 0.0,
+        "consignee_name": 0.0,
+        "document_date": 0.0,
+        "document_number": 0.0,
+        "country_of_origin": 0.0,
+        "country_of_destination": 0.0,
+        "description_of_goods": 0.0,
+        "license_number": 0.0,
+        "validity_start": 0.0,
+        "validity_end": 0.0,
+        "licensee_name": 0.0
+      }
+    },
+    "split_complexity": {
+      "1-page": {
+        "n": 163,
+        "pos_acc": 100.0,
+        "cls_acc": 99.4
+      },
+      "2-page": {
+        "n": 0,
+        "pos_acc": null,
+        "cls_acc": null
+      },
+      "3-5 pages": {
+        "n": 0,
+        "pos_acc": null,
+        "cls_acc": null
+      },
+      "6+ pages": {
+        "n": 2144,
+        "pos_acc": 100.0,
+        "cls_acc": 98.3
+      }
+    }
+  },
+  {
+    "model": "Ours: Qwen2.5-VL-3B  |  Fine-Tuned v3  |  checkpoint-2250  [merged]",
+    "short_label": "Ours-CK2250",
+    "metrics_type": "all",
+    "n": 2371,
+    "n_filled": 2307,
+    "n_blank": 64,
+    "class_accuracy": 98.4,
+    "position_accuracy": 100.0,
+    "field_f1": 97.6,
+    "split_iou": 100.0,
+    "per_class": {
+      "Cargo Manifest": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 189
+      },
+      "Certificate of Origin": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 125
+      },
+      "Commercial Invoice": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 388
+      },
+      "Customs Declaration": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 208
+      },
+      "Dangerous Goods Declaration": {
+        "class_acc": 100.0,
+        "start_acc": 99.3,
+        "cont_acc": 100.0,
+        "n": 178
+      },
+      "House Airway Bill": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 152
+      },
+      "House Bill of Lading": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 162
+      },
+      "Import/Export License": {
+        "class_acc": 75.3,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 150
+      },
+      "Packing List": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 294
+      },
+      "Power of Attorney": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 151
+      },
+      "Shipper's Letter of Instruction": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 155
+      },
+      "Verified Gross Mass": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 155
+      }
+    },
+    "per_field_f1": {
+      "shipper_name": 97.2,
+      "consignee_name": 98.2,
+      "document_date": 99.1,
+      "document_number": 96.9,
+      "country_of_origin": 95.7,
+      "country_of_destination": 99.8,
+      "description_of_goods": 96.9,
+      "license_number": 82.8,
+      "validity_start": 100.0,
+      "validity_end": 100.0,
+      "licensee_name": 100.0
+    },
+    "per_class_field_f1": {
+      "Commercial Invoice": 99.9,
+      "House Bill of Lading": 99.8,
+      "Certificate of Origin": 99.9,
+      "Shipper's Letter of Instruction": 97.9,
+      "Dangerous Goods Declaration": 96.2,
+      "Verified Gross Mass": 97.9,
+      "House Airway Bill": 83.6,
+      "Packing List": 99.8,
+      "Customs Declaration": 97.6,
+      "Cargo Manifest": 99.3,
+      "Import/Export License": 97.2,
+      "Power of Attorney": 99.4
+    },
+    "blank_metrics": {
+      "n": 64,
+      "class_acc": 100.0,
+      "hallucination_rate": 0.0,
+      "clean_rate": 100.0,
+      "avg_hallucinated_fields": 0.0,
+      "per_field_hallucination": {
+        "shipper_name": 0.0,
+        "consignee_name": 0.0,
+        "document_date": 0.0,
+        "document_number": 0.0,
+        "country_of_origin": 0.0,
+        "country_of_destination": 0.0,
+        "description_of_goods": 0.0,
+        "license_number": 0.0,
+        "validity_start": 0.0,
+        "validity_end": 0.0,
+        "licensee_name": 0.0
+      }
+    },
+    "split_complexity": {
+      "1-page": {
+        "n": 163,
+        "pos_acc": 100.0,
+        "cls_acc": 99.4
+      },
+      "2-page": {
+        "n": 0,
+        "pos_acc": null,
+        "cls_acc": null
+      },
+      "3-5 pages": {
+        "n": 0,
+        "pos_acc": null,
+        "cls_acc": null
+      },
+      "6+ pages": {
+        "n": 2144,
+        "pos_acc": 100.0,
+        "cls_acc": 98.3
+      }
+    }
+  },
+  {
+    "model": "Ours: Qwen2.5-VL-3B  |  Fine-Tuned v2  |  Merged",
+    "short_label": "Ours-V2",
+    "metrics_type": "all",
+    "n": 2371,
+    "n_filled": 2307,
+    "n_blank": 64,
+    "class_accuracy": 100.0,
+    "position_accuracy": 100.0,
+    "field_f1": 93.8,
+    "split_iou": 100.0,
+    "per_class": {
+      "Cargo Manifest": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 189
+      },
+      "Certificate of Origin": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 125
+      },
+      "Commercial Invoice": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 388
+      },
+      "Customs Declaration": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 208
+      },
+      "Dangerous Goods Declaration": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 178
+      },
+      "House Airway Bill": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 152
+      },
+      "House Bill of Lading": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 162
+      },
+      "Import/Export License": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 150
+      },
+      "Packing List": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 294
+      },
+      "Power of Attorney": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": null,
+        "n": 151
+      },
+      "Shipper's Letter of Instruction": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 155
+      },
+      "Verified Gross Mass": {
+        "class_acc": 100.0,
+        "start_acc": 100.0,
+        "cont_acc": 100.0,
+        "n": 155
+      }
+    },
+    "per_field_f1": {
+      "shipper_name": 97.8,
+      "consignee_name": 98.1,
+      "document_date": 97.7,
+      "document_number": 95.0,
+      "country_of_origin": 85.3,
+      "country_of_destination": 99.9,
+      "description_of_goods": 94.8,
+      "license_number": 46.5,
+      "validity_start": 26.0,
+      "validity_end": 26.0,
+      "licensee_name": 100.0
+    },
+    "per_class_field_f1": {
+      "Commercial Invoice": 99.9,
+      "House Bill of Lading": 100.0,
+      "Certificate of Origin": 95.7,
+      "Shipper's Letter of Instruction": 94.4,
+      "Dangerous Goods Declaration": 96.4,
+      "Verified Gross Mass": 94.3,
+      "House Airway Bill": 83.7,
+      "Packing List": 99.9,
+      "Customs Declaration": 94.4,
+      "Cargo Manifest": 93.8,
+      "Import/Export License": 85.3,
+      "Power of Attorney": 73.4
+    },
+    "blank_metrics": {
+      "n": 64,
+      "class_acc": 95.3,
+      "hallucination_rate": 12.5,
+      "clean_rate": 87.5,
+      "avg_hallucinated_fields": 0.84,
+      "per_field_hallucination": {
+        "shipper_name": 12.5,
+        "consignee_name": 12.5,
+        "document_date": 12.5,
+        "document_number": 12.5,
+        "country_of_origin": 10.9,
+        "country_of_destination": 10.9,
+        "description_of_goods": 12.5,
+        "license_number": 0.0,
+        "validity_start": 0.0,
+        "validity_end": 0.0,
+        "licensee_name": 0.0
+      }
+    },
+    "split_complexity": {
+      "1-page": {
+        "n": 163,
+        "pos_acc": 100.0,
+        "cls_acc": 100.0
+      },
+      "2-page": {
+        "n": 0,
+        "pos_acc": null,
+        "cls_acc": null
+      },
+      "3-5 pages": {
+        "n": 0,
+        "pos_acc": null,
+        "cls_acc": null
+      },
+      "6+ pages": {
+        "n": 2144,
+        "pos_acc": 100.0,
+        "cls_acc": 100.0
+      }
+    }
+  }
+]

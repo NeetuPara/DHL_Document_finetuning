@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0969",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Benjamin Evans",
+    "addressee_company": "Global Davis Ltd",
+    "addressee_address": "64750 Harding Ramp, East Markland, GU 11205, Sweden",
+    "addressee_country": "Sweden",
+    "total_weight_kg": 8.183,
+    "total_value": 4411.61,
+    "currency": "CAD",
+    "issue_date": "2026-01-19",
+    "reference": "REF-696380",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.987,
+        "value": 2560.4,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 19,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.692,
+        "value": 1459.77,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 4,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.504,
+        "value": 391.44,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_country": "Mexico",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "130-47776523-0",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 9.2,
+    "estimated_duty": 405.87,
+    "importer_ein": "17-2284143",
+    "customs_broker": "George Tech GmbH"
+  }
+}

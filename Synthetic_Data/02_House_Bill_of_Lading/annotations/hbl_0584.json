@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0584",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV257407401",
+    "shipper_name": "Green Trade B.V.",
+    "shipper_address": "USCGC Norton, FPO AP 62978, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Cook Global Corp.",
+    "consignee_address": "61094 Ethan Haven, Port Michael, WA 36828, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Salazar Commerce GmbH",
+    "notify_party_address": "307 Ramos Circles Apt. 528, Marshallville, NV 83843, France",
+    "vessel": "MADRID MAERSK",
+    "voyage": "610S",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Qingdao, CN",
+    "place_of_receipt": "Los Angeles, US",
+    "place_of_delivery": "Qingdao, CN",
+    "issue_date": "2025-12-24",
+    "issue_place": "Busan",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "EFNJ9553222",
+        "seal_no": "BL489904",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "YEWO4299001",
+        "seal_no": "CL464281",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "KNOG2661244",
+        "seal_no": "CL632471",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "KWWS9179029",
+        "seal_no": "CL132751",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 289,
+    "package_type": "Drum",
+    "gross_weight_kg": 4946.9,
+    "net_weight_kg": 4682.0,
+    "cbm": 20.054,
+    "marks_and_numbers": "ABC/45"
+  }
+}

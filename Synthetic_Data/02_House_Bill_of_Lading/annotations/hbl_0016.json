@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0016",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU216794275",
+    "shipper_name": "Holland Industry Pte Ltd",
+    "shipper_address": "558 Garrett Road, West Michaelchester, MD 89635, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Tech Lewis Pte Ltd",
+    "consignee_address": "733 Nelson Drive Suite 892, North Benjaminton, AS 43314, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Global Miranda B.V.",
+    "notify_party_address": "4839 Jennifer Streets, North Kathleen, NM 24317, Australia",
+    "vessel": "CSCL GLOBE",
+    "voyage": "644N",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2025-01-08",
+    "issue_place": "Rotterdam",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "ZBUT6137100",
+        "seal_no": "BL733281",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "YRJT8041992",
+        "seal_no": "BL758963",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 344,
+    "package_type": "Crate",
+    "gross_weight_kg": 23985.5,
+    "net_weight_kg": 22686.5,
+    "cbm": 40.51,
+    "marks_and_numbers": "GLB/9"
+  }
+}

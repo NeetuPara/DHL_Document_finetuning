@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0806",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Schneider Co.",
+    "shipper_address": "47364 Isaac Shores, Deanburgh, PR 90333, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Lewis Pacific Co.",
+    "consignee_address": "69265 Devin Mountains, Lake Loristad, MN 32078, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+77 741-359-7973",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 41,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 64.41,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Keith Decker",
+    "signature_date": "2026-05-04",
+    "signature_place": "Mexico",
+    "vessel": "CSCL GLOBE",
+    "voyage": "318S",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Los Angeles, US"
+  }
+}

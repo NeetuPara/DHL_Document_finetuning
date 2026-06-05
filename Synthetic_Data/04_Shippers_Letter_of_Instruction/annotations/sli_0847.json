@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0847",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202502-6417",
+    "usppi_name": "Herrera Tech Inc.",
+    "usppi_address": "460 Cross Rapid Suite 280, Danielshire, OH 23784, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "81-7868145",
+    "consignee_name": "Tech Baker Ltd",
+    "consignee_address": "7638 Jones Village Suite 550, Catherinebury, WV 89772, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Trade Morgan Corp.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "Jennifer May",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/19",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 171,
+        "unit": "CTN",
+        "weight_kg": 419.3,
+        "value_usd": 885.44
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 197,
+        "unit": "BOX",
+        "weight_kg": 58.28,
+        "value_usd": 17919.82
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 17,
+        "unit": "PCS",
+        "weight_kg": 294.01,
+        "value_usd": 1992.05
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 10,
+        "unit": "PCS",
+        "weight_kg": 11.45,
+        "value_usd": 229.97
+      },
+      {
+        "marks": "EXP/42",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 75,
+        "unit": "PCS",
+        "weight_kg": 4.45,
+        "value_usd": 5581.54
+      },
+      {
+        "marks": "ABC/25",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 199,
+        "unit": "CTN",
+        "weight_kg": 253.76,
+        "value_usd": 5298.2
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 5,
+        "unit": "LTR",
+        "weight_kg": 4.87,
+        "value_usd": 192.27
+      }
+    ],
+    "total_weight_kg": 1046.12,
+    "total_value_usd": 32099.29,
+    "service": "Ground",
+    "named_port": "Toronto Pearson",
+    "insurance_value_usd": 7100.05,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-493303",
+    "destination_country": "Italy"
+  }
+}

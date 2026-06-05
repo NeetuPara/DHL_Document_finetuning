@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0415",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202201-7763",
+    "usppi_name": "International Garrett LLC",
+    "usppi_address": "9175 Compton Knolls Apt. 256, West Timothyside, OK 17031, Poland",
+    "usppi_country": "Poland",
+    "ein": "23-2897674",
+    "consignee_name": "Commerce Ford Co.",
+    "consignee_address": "7771 Pena Gardens Apt. 693, East Leahberg, MD 51553, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Trade Mcgee S.A.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Tracy Moore",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/50",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 24,
+        "unit": "PCS",
+        "weight_kg": 64.09,
+        "value_usd": 11841.86
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 166,
+        "unit": "CTN",
+        "weight_kg": 799.01,
+        "value_usd": 9890.53
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 81,
+        "unit": "PCS",
+        "weight_kg": 1676.59,
+        "value_usd": 30325.34
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 33,
+        "unit": "PCS",
+        "weight_kg": 3.82,
+        "value_usd": 2043.53
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 33,
+        "unit": "LTR",
+        "weight_kg": 31.32,
+        "value_usd": 1091.76
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 142,
+        "unit": "PCS",
+        "weight_kg": 15.18,
+        "value_usd": 23283.84
+      }
+    ],
+    "total_weight_kg": 2590.01,
+    "total_value_usd": 78476.86,
+    "service": "Ground",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 27297.34,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Singapore"
+  }
+}

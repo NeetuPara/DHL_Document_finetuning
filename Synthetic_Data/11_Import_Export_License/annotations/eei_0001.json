@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0001",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "690-63217402-6",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2025-05-13",
+    "port_of_entry": "BOS - Boston",
+    "transport_mode": "Air",
+    "carrier": "UPS",
+    "bl_awb": "020-18202904",
+    "importer_name": "International Fox Corp.",
+    "importer_ein": "04-8508728",
+    "consignee_name": "Pacific Franklin Co.",
+    "customs_broker": "Clark Commerce S.A.",
+    "broker_filer_code": "YIO",
+    "country_of_origin": "Malaysia",
+    "total_value": 531509.05,
+    "total_duty": 77052.76,
+    "currency": "EUR",
+    "signatory": "Dr. Michael Smith",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "India",
+        "qty": 493,
+        "unit": "CTN",
+        "entered_value": 204762.62,
+        "duty_rate": 19.1,
+        "duty_amount": 39109.66,
+        "eccn": "2B350",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Australia",
+        "qty": 177,
+        "unit": "PCS",
+        "entered_value": 61429.62,
+        "duty_rate": 15.8,
+        "duty_amount": 9705.88,
+        "eccn": "1A002",
+        "schedule_b": "9002.11.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Singapore",
+        "qty": 244,
+        "unit": "PCS",
+        "entered_value": 97812.28,
+        "duty_rate": 1.0,
+        "duty_amount": 978.12,
+        "eccn": "7A994",
+        "schedule_b": "9401.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Canada",
+        "qty": 281,
+        "unit": "CTN",
+        "entered_value": 94163.1,
+        "duty_rate": 10.1,
+        "duty_amount": 9510.47,
+        "eccn": "2B350",
+        "schedule_b": "4819.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "United States",
+        "qty": 227,
+        "unit": "SET",
+        "entered_value": 73341.43,
+        "duty_rate": 24.2,
+        "duty_amount": 17748.63,
+        "eccn": "9A515",
+        "schedule_b": "8708.30.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

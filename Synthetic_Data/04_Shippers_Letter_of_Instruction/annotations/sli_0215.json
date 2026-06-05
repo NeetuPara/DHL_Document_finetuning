@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0215",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202101-4499",
+    "usppi_name": "Global Burnett LLC",
+    "usppi_address": "Unit 0316 Box 0886, DPO AE 83862, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "32-2530887",
+    "consignee_name": "International Edwards LLC",
+    "consignee_address": "617 Matthew Island Apt. 284, Lunahaven, NJ 07787, France",
+    "consignee_country": "France",
+    "notify_party": "Global Hoffman B.V.",
+    "forwarder": "Expeditors",
+    "incoterm": "CFR",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Diana Hill",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/33",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 7,
+        "unit": "PCS",
+        "weight_kg": 98.6,
+        "value_usd": 1440.42
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 18,
+        "unit": "LTR",
+        "weight_kg": 17.33,
+        "value_usd": 377.51
+      },
+      {
+        "marks": "ABC/3",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 31,
+        "unit": "PCS",
+        "weight_kg": 3.93,
+        "value_usd": 1141.68
+      },
+      {
+        "marks": "ABC/20",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 14,
+        "unit": "PCS",
+        "weight_kg": 3.86,
+        "value_usd": 5876.18
+      }
+    ],
+    "total_weight_kg": 123.72,
+    "total_value_usd": 8835.79,
+    "service": "Air Freight",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 16598.26,
+    "license_type": "Distributor License",
+    "license_number": "LIC-593506",
+    "destination_country": "France"
+  }
+}

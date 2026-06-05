@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0237",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jodi Hernandez",
+    "addressee_company": "Tech Castro S.A.",
+    "addressee_address": "0894 Hayden Prairie Apt. 904, Portertown, NJ 96240, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 3.815,
+    "total_value": 619.8,
+    "currency": "JPY",
+    "issue_date": "2026-02-17",
+    "reference": "REF-406095",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.507,
+        "value": 213.0,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 20,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.308,
+        "value": 406.8,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_country": "Poland",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "210-23451677-9",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 10.9,
+    "estimated_duty": 67.56,
+    "importer_ein": "43-1819653",
+    "customs_broker": "Pacific Eaton Inc."
+  }
+}

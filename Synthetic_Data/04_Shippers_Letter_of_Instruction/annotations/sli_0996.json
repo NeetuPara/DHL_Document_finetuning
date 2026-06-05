@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0996",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202310-9462",
+    "usppi_name": "Nunez Global AG",
+    "usppi_address": "37941 James Lodge, Melaniefurt, VA 29334, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "31-2849435",
+    "consignee_name": "International Thompson S.A.",
+    "consignee_address": "04932 Timothy Mall Apt. 576, Samanthaview, HI 06358, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Sexton Pacific S.A.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Ronald Barnes",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/13",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 199,
+        "unit": "PCS",
+        "weight_kg": 225.04,
+        "value_usd": 24661.78
+      },
+      {
+        "marks": "ABC/39",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 104,
+        "unit": "LTR",
+        "weight_kg": 102.65,
+        "value_usd": 2233.94
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 132,
+        "unit": "KGS",
+        "weight_kg": 132.0,
+        "value_usd": 2193.93
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 166,
+        "unit": "PCS",
+        "weight_kg": 1014.65,
+        "value_usd": 49816.19
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 153,
+        "unit": "KGS",
+        "weight_kg": 153.0,
+        "value_usd": 376.03
+      }
+    ],
+    "total_weight_kg": 1627.34,
+    "total_value_usd": 79281.87,
+    "vessel": "MSC OSCAR",
+    "voyage": "238W",
+    "booking_ref": "BKG-971092",
+    "bl_number": "COSU556506818",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Qingdao, CN",
+    "container_number": "QAIC9130893",
+    "seal_number": "BL612979",
+    "container_type": "40'GP",
+    "cbm": 57.42
+  }
+}

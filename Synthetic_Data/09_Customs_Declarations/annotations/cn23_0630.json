@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0630",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Brian Gillespie",
+    "addressee_company": "Ruiz Tech Ltd",
+    "addressee_address": "636 Preston Rue Suite 682, Farrellberg, MT 80318, United Kingdom",
+    "addressee_country": "United Kingdom",
+    "total_weight_kg": 13.244,
+    "total_value": 7725.95,
+    "currency": "EUR",
+    "issue_date": "2025-11-25",
+    "reference": "REF-032808",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.895,
+        "value": 125.74,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 19,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.858,
+        "value": 2253.21,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 20,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.515,
+        "value": 2942.8,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 15,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.167,
+        "value": 135.3,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 18,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.809,
+        "value": 2268.9,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_country": "United States",
+    "port_of_entry": "Chicago, IL",
+    "entry_number": "041-19044864-9",
+    "entry_type": "Informal Entry",
+    "duty_rate": 25.0,
+    "estimated_duty": 1931.49,
+    "importer_ein": "54-0859582",
+    "customs_broker": "Rivera Tech GmbH"
+  }
+}

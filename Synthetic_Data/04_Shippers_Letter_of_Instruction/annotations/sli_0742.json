@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0742",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202604-6086",
+    "usppi_name": "Pacific Hall AG",
+    "usppi_address": "18842 Vickie Walks, Orozcoport, PW 55447, United States",
+    "usppi_country": "United States",
+    "ein": "62-4520553",
+    "consignee_name": "Commerce Wade Inc.",
+    "consignee_address": "8606 Jacobs Stravenue, Sanchezland, HI 04843, China",
+    "consignee_country": "China",
+    "notify_party": "Johnson Trade AG",
+    "forwarder": "Expeditors",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Susan Sanders",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/18",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 73,
+        "unit": "PCS",
+        "weight_kg": 41.91,
+        "value_usd": 125918.31
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 68,
+        "unit": "PCS",
+        "weight_kg": 9.19,
+        "value_usd": 1006.7
+      },
+      {
+        "marks": "ABC/18",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 97,
+        "unit": "BOX",
+        "weight_kg": 129.46,
+        "value_usd": 5220.9
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 9,
+        "unit": "PCS",
+        "weight_kg": 76.11,
+        "value_usd": 2476.18
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 75,
+        "unit": "KGS",
+        "weight_kg": 75.0,
+        "value_usd": 833.36
+      }
+    ],
+    "total_weight_kg": 331.67,
+    "total_value_usd": 135455.45,
+    "service": "Express Courier",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 17754.45,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "China"
+  }
+}

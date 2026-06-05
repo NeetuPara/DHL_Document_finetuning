@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0701",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Christian Cox",
+    "addressee_company": "Global Tucker Corp.",
+    "addressee_address": "4949 Johnson Place Suite 450, Scottville, OK 53067, Malaysia",
+    "addressee_country": "Malaysia",
+    "total_weight_kg": 5.011,
+    "total_value": 3951.92,
+    "currency": "AUD",
+    "issue_date": "2026-03-03",
+    "reference": "REF-299166",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.578,
+        "value": 212.3,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 9,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.651,
+        "value": 648.63,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 7,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.888,
+        "value": 252.49,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 7,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.578,
+        "value": 856.24,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 14,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.316,
+        "value": 1982.26,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_name": "Matthew Campbell",
+    "sender_company": "Estrada Global Corp.",
+    "sender_address": "91375 Mary Isle, Kingfort, MA 84436, United States",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 4347.11,
+    "postal_charges": 73.55,
+    "tracking_number": "XL677815058WQ"
+  }
+}

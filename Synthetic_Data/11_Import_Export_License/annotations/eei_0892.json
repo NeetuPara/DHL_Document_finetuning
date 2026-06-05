@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0892",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "093-15715024-5",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2025-12-04",
+    "port_of_entry": "LAX - Los Angeles",
+    "transport_mode": "Air",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "057-77404530",
+    "importer_name": "Alvarez Industry Ltd",
+    "importer_ein": "28-1448929",
+    "consignee_name": "International Valencia Pte Ltd",
+    "customs_broker": "Pacific Dalton Pte Ltd",
+    "broker_filer_code": "YHj",
+    "country_of_origin": "Australia",
+    "total_value": 77048.54,
+    "total_duty": 11170.31,
+    "currency": "EUR",
+    "signatory": "Tyler Newton",
+    "signatory_title": "Trade Finance Manager",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Thailand",
+        "qty": 48,
+        "unit": "MTR",
+        "entered_value": 3052.8,
+        "duty_rate": 18.6,
+        "duty_amount": 567.82,
+        "eccn": "2B350",
+        "schedule_b": "5407.42.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Netherlands",
+        "qty": 237,
+        "unit": "PKG",
+        "entered_value": 36938.82,
+        "duty_rate": 21.3,
+        "duty_amount": 7867.97,
+        "eccn": "5E992",
+        "schedule_b": "4016.93.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Mexico",
+        "qty": 230,
+        "unit": "PCS",
+        "entered_value": 16592.2,
+        "duty_rate": 0.2,
+        "duty_amount": 33.18,
+        "eccn": "3A992",
+        "schedule_b": "8534.00.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "France",
+        "qty": 116,
+        "unit": "BOX",
+        "entered_value": 20464.72,
+        "duty_rate": 13.2,
+        "duty_amount": 2701.34,
+        "eccn": "0A919",
+        "schedule_b": "2936.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0101",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU976273579",
+    "shipper_name": "Global Hines Co.",
+    "shipper_address": "0237 Jonathan Overpass Apt. 111, Pricemouth, NV 28068, France",
+    "shipper_country": "France",
+    "consignee_name": "Nielsen International Ltd",
+    "consignee_address": "Unit 6541 Box 4838, DPO AA 03387, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party_name": "Carlson Tech Co.",
+    "notify_party_address": "4642 Clifford Pass, Brandtmouth, DC 57117, South Korea",
+    "vessel": "ONE INNOVATION",
+    "voyage": "232S",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2025-10-15",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "IFTM8853726",
+        "seal_no": "CL649721",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "HHTT2283728",
+        "seal_no": "CL353609",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 166,
+    "package_type": "Pallet",
+    "gross_weight_kg": 15013.5,
+    "net_weight_kg": 13559.4,
+    "cbm": 14.328,
+    "marks_and_numbers": "ABC/16"
+  }
+}

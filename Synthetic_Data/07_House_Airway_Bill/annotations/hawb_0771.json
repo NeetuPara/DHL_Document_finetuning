@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0771",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-52412241",
+    "mawb_number": "020-76477430",
+    "shipper_name": "Reyes Trade Inc.",
+    "shipper_address": "1807 Michael Track Apt. 140, Bakerhaven, NM 94707, China",
+    "consignee_name": "Pacific Peterson Corp.",
+    "consignee_address": "488 Lauren Shoals Apt. 414, Port Christinaburgh, MT 11421, Japan",
+    "agent_name": "Lyons Tech S.A.",
+    "airport_departure": "DXB",
+    "airport_destination": "SYD",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "CNY 8,865.96",
+    "declared_value_customs": "NCV",
+    "n_pieces": 14,
+    "gross_weight_kg": 241.9,
+    "chargeable_weight": 274.9,
+    "rate": 7.78,
+    "total_charge": 2138.72,
+    "nature_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "handling_info": "HANDLING CODE: SUR",
+    "issue_date": "2026-02-26",
+    "signatory": "Jeffrey Randolph",
+    "iata_code": "42-319",
+    "agent_cass": "8024-4337",
+    "consolidation_ref": "CONS-0477-434446",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-50278986",
+        "pieces": 18,
+        "weight": 62.4,
+        "destination": "PVG",
+        "consignee": "Wilson Global B.V.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "020-86137828",
+        "pieces": 9,
+        "weight": 59.8,
+        "destination": "FRA",
+        "consignee": "Global Martinez Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "085-93006523",
+        "pieces": 18,
+        "weight": 5.1,
+        "destination": "ICN",
+        "consignee": "Tech Garcia Inc.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "085-26987407",
+        "pieces": 3,
+        "weight": 10.0,
+        "destination": "YYZ",
+        "consignee": "Commerce Wallace GmbH",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "618-39020626",
+        "pieces": 8,
+        "weight": 7.9,
+        "destination": "NRT",
+        "consignee": "Yang Trade S.A.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "618-27022813",
+        "pieces": 10,
+        "weight": 37.8,
+        "destination": "PVG",
+        "consignee": "Simpson Global AG",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "020-36173791",
+        "pieces": 3,
+        "weight": 96.4,
+        "destination": "HKG",
+        "consignee": "Tech Garza GmbH",
+        "description": "Optical Equipment - Camera Lenses"
+      }
+    ]
+  }
+}

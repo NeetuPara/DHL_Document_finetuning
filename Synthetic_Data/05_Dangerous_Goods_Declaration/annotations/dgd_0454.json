@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0454",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Bryant Global LLC",
+    "shipper_address": "21401 Flores Crossing, West Lauren, NJ 83739, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "International Davis Inc.",
+    "consignee_address": "9433 Melissa Street Apt. 416, Howellshire, AR 62763, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+88 247-261-6146",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 14,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 57.14,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-653851",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Edwin Moses",
+    "signature_date": "2026-05-07",
+    "signature_place": "United Arab Emirates",
+    "awb_number": "125-65165126",
+    "flight_number": "QR672",
+    "flight_date": "2026-05-04",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0768",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-76592546",
+    "mawb_number": "176-89108317",
+    "shipper_name": "Torres Pacific Corp.",
+    "shipper_address": "5458 Alex Causeway Apt. 963, East Claudia, AL 79169, China",
+    "consignee_name": "Commerce Carney Corp.",
+    "consignee_address": "279 Andrea Islands, Colleenmouth, MI 01975, Australia",
+    "agent_name": "Industry Fischer GmbH",
+    "airport_departure": "PVG",
+    "airport_destination": "LAX",
+    "currency": "CNY",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 19,
+    "gross_weight_kg": 333.5,
+    "chargeable_weight": 407.4,
+    "rate": 10.24,
+    "total_charge": 4171.78,
+    "nature_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-09-07",
+    "signatory": "James Lopez",
+    "iata_code": "40-993",
+    "agent_cass": "7221-2094",
+    "consolidation_ref": "CONS-4095-199552",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-22837785",
+        "pieces": 2,
+        "weight": 26.0,
+        "destination": "DXB",
+        "consignee": "Commerce Ramos GmbH",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "085-35740449",
+        "pieces": 18,
+        "weight": 40.3,
+        "destination": "ORD",
+        "consignee": "Pacific Walton Ltd",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "085-30575372",
+        "pieces": 19,
+        "weight": 19.9,
+        "destination": "HKG",
+        "consignee": "Tech Stephenson LLC",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "085-58675998",
+        "pieces": 17,
+        "weight": 17.0,
+        "destination": "DXB",
+        "consignee": "Pierce Pacific Inc.",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

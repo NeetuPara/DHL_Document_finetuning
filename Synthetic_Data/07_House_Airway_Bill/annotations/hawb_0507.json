@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0507",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-35789807",
+    "mawb_number": "085-73252759",
+    "shipper_name": "Trade Huff S.A.",
+    "shipper_address": "4753 Daniel Run Suite 697, North Heatherland, DC 75051, Thailand",
+    "consignee_name": "International Gutierrez S.A.",
+    "consignee_address": "04956 Heather Loop, South Jessicaside, CA 68153, Netherlands",
+    "agent_name": "Velez International LLC",
+    "airport_departure": "YYZ",
+    "airport_destination": "LAX",
+    "currency": "AUD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "USD 14,357.24",
+    "n_pieces": 12,
+    "gross_weight_kg": 280.1,
+    "chargeable_weight": 294.1,
+    "rate": 10.58,
+    "total_charge": 3111.58,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-09-13",
+    "signatory": "Susan Crawford",
+    "iata_code": "38-808",
+    "agent_cass": "3480-0338",
+    "consolidation_ref": "CONS-2144-495742",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-52563872",
+        "pieces": 7,
+        "weight": 4.7,
+        "destination": "SYD",
+        "consignee": "Tech Roberts S.A.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "020-63125782",
+        "pieces": 12,
+        "weight": 5.4,
+        "destination": "HKG",
+        "consignee": "Trade Snyder AG",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "074-29360820",
+        "pieces": 10,
+        "weight": 60.8,
+        "destination": "ORD",
+        "consignee": "Miller Pacific Pte Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "045-47446535",
+        "pieces": 3,
+        "weight": 23.9,
+        "destination": "HKG",
+        "consignee": "Martinez Pacific Co.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "160-44226871",
+        "pieces": 18,
+        "weight": 61.7,
+        "destination": "SYD",
+        "consignee": "Global Cordova B.V.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "085-55755987",
+        "pieces": 6,
+        "weight": 36.1,
+        "destination": "SIN",
+        "consignee": "Collins Global LLC",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "085-78486051",
+        "pieces": 16,
+        "weight": 63.6,
+        "destination": "LHR",
+        "consignee": "Ferguson International Corp.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "045-42257449",
+        "pieces": 1,
+        "weight": 27.4,
+        "destination": "ORD",
+        "consignee": "Tech Mcconnell GmbH",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

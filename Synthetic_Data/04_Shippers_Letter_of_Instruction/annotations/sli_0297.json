@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0297",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202511-2205",
+    "usppi_name": "Trade Carroll S.A.",
+    "usppi_address": "00220 Gail Prairie, New Elizabethshire, TX 00866, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "87-3810555",
+    "consignee_name": "Williams International S.A.",
+    "consignee_address": "376 Long Park Apt. 844, Port Thomas, GU 62036, India",
+    "consignee_country": "India",
+    "notify_party": "Johnson Trade S.A.",
+    "forwarder": "Expeditors",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Barbara Williams",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/6",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 81,
+        "unit": "CTN",
+        "weight_kg": 391.0,
+        "value_usd": 4284.77
+      },
+      {
+        "marks": "SLI/20",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 83,
+        "unit": "PCS",
+        "weight_kg": 84.9,
+        "value_usd": 20934.05
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 77,
+        "unit": "PCS",
+        "weight_kg": 10.22,
+        "value_usd": 2026.94
+      },
+      {
+        "marks": "ABC/43",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 101,
+        "unit": "PCS",
+        "weight_kg": 46.15,
+        "value_usd": 4598.41
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 72,
+        "unit": "LTR",
+        "weight_kg": 70.61,
+        "value_usd": 1152.16
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 56,
+        "unit": "PCS",
+        "weight_kg": 916.67,
+        "value_usd": 12423.7
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 30,
+        "unit": "CTN",
+        "weight_kg": 74.48,
+        "value_usd": 222.94
+      }
+    ],
+    "total_weight_kg": 1594.03,
+    "total_value_usd": 45642.97,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "601E",
+    "booking_ref": "BKG-755977",
+    "bl_number": "EGLV692966386",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "GZWI1743780",
+    "seal_number": "BL951885",
+    "container_type": "40'GP",
+    "cbm": 34.775
+  }
+}

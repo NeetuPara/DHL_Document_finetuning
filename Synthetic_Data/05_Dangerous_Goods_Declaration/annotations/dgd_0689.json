@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0689",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Hinton Industry Co.",
+    "shipper_address": "761 Vega Estates Suite 678, Faulknermouth, RI 27102, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Industry Delgado Ltd",
+    "consignee_address": "2633 Kevin Underpass, South Sarah, NV 20652, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+44 162-660-3418",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 36,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 91.16,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Shane Roberts",
+    "signature_date": "2026-04-15",
+    "signature_place": "Japan",
+    "vessel": "EVER GOLDEN",
+    "voyage": "800E",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Felixstowe, GB"
+  }
+}

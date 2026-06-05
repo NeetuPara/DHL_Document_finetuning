@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0832",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202102-7113",
+    "usppi_name": "Global Thompson S.A.",
+    "usppi_address": "6145 Martinez Coves Suite 226, Gilbertbury, IL 38830, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "81-2976984",
+    "consignee_name": "Garcia Commerce S.A.",
+    "consignee_address": "960 Henry Street Suite 393, Matthewchester, GA 40498, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Tech Hampton Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Andrea Chen",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/19",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 133,
+        "unit": "SET",
+        "weight_kg": 127.3,
+        "value_usd": 3743.44
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 117,
+        "unit": "BOX",
+        "weight_kg": 65.32,
+        "value_usd": 12980.89
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 171,
+        "unit": "KGS",
+        "weight_kg": 171.0,
+        "value_usd": 1361.04
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 76,
+        "unit": "CTN",
+        "weight_kg": 358.32,
+        "value_usd": 5369.13
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 148,
+        "unit": "KGS",
+        "weight_kg": 148.0,
+        "value_usd": 290.59
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 81,
+        "unit": "PKG",
+        "weight_kg": 194.38,
+        "value_usd": 4139.38
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 9,
+        "unit": "PCS",
+        "weight_kg": 0.85,
+        "value_usd": 385.97
+      }
+    ],
+    "total_weight_kg": 1065.17,
+    "total_value_usd": 28270.44,
+    "service": "LCL Ocean",
+    "named_port": "Qingdao, CN",
+    "insurance_value_usd": 24806.61,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-913220",
+    "destination_country": "Brazil"
+  }
+}

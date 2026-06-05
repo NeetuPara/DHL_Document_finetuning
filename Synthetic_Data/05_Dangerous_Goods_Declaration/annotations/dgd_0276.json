@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0276",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Hoover Pte Ltd",
+    "shipper_address": "76665 Brock Parkways Apt. 324, Vanessaville, CT 98077, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Pacific Sanchez S.A.",
+    "consignee_address": "936 Emily Skyway Suite 953, Timothymouth, MN 78727, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+55 666-738-3963",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 6,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 5.48,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-645125",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 6,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 62.57,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Nancy Porter",
+    "signature_date": "2026-05-01",
+    "signature_place": "United Kingdom",
+    "awb_number": "085-88887811",
+    "flight_number": "SQ8543",
+    "departure_airport_code": "LAX",
+    "departure_airport_name": "Los Angeles International",
+    "destination_airport_code": "JFK",
+    "destination_airport_name": "JFK New York",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

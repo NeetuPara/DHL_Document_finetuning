@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0500",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Gonzalez GmbH",
+    "shipper_address": "7209 Sean Forge Suite 746, East Justinshire, MO 03157, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Cruz Commerce Co.",
+    "consignee_address": "58412 Salazar Orchard Apt. 861, Port Karenstad, MH 81619, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+45 629-283-3992",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 43,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 93.8,
+        "qty_unit": "g",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-113076",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Alejandro Sanchez",
+    "signature_date": "2026-04-18",
+    "signature_place": "Netherlands",
+    "vessel": "PIL PACIFIC",
+    "voyage": "593E",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Rotterdam, NL"
+  }
+}

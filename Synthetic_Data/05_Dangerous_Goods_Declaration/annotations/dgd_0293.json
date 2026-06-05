@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0293",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Johnson Pacific Co.",
+    "shipper_address": "48687 Benton Stream Suite 639, East Connor, NE 49979, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Rios Industry Corp.",
+    "consignee_address": "2941 Daniel Glen Apt. 006, North Zachary, MO 47571, Poland",
+    "consignee_country": "Poland",
+    "emergency_telephone": "+50 585-332-1933",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 23,
+        "pkg_type": "Steel Drum",
+        "net_qty": 74.95,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-181768",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Alex Silva",
+    "signature_date": "2026-04-21",
+    "signature_place": "Italy",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "742N",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Felixstowe, GB"
+  }
+}

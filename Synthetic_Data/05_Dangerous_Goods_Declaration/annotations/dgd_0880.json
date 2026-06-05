@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0880",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Rodgers S.A.",
+    "shipper_address": "0631 Clark Village Apt. 397, Taylorside, NY 19601, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Tech Williams GmbH",
+    "consignee_address": "22816 Golden Streets Suite 644, East Bryan, VA 48468, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+98 511-519-6527",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 40,
+        "pkg_type": "Steel Drum",
+        "net_qty": 80.46,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-766016",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 35,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 83.04,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Ashley Cross",
+    "signature_date": "2026-04-27",
+    "signature_place": "Spain",
+    "awb_number": "074-51493765",
+    "flight_number": "UA9050",
+    "flight_date": "2026-05-12",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare"
+  }
+}

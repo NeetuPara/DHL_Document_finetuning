@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0174",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202205-7376",
+    "usppi_name": "Global Munoz AG",
+    "usppi_address": "1972 Pacheco Valleys, Lake Alison, KY 55641, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "47-7643169",
+    "consignee_name": "Industry Barnett LLC",
+    "consignee_address": "11029 David Orchard Suite 642, Port Stephanietown, PW 21992, India",
+    "consignee_country": "India",
+    "notify_party": "Industry Dean B.V.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Carlos Mathis",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/25",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 166,
+        "unit": "PCS",
+        "weight_kg": 166.64,
+        "value_usd": 263135.59
+      },
+      {
+        "marks": "ABC/12",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 66,
+        "unit": "PCS",
+        "weight_kg": 1044.32,
+        "value_usd": 8055.67
+      }
+    ],
+    "total_weight_kg": 1210.96,
+    "total_value_usd": 271191.26,
+    "vessel": "YANG MING MYTH",
+    "voyage": "305W",
+    "booking_ref": "BKG-491239",
+    "bl_number": "MAEU939694618",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "New York, US",
+    "container_number": "ZPQJ3203595",
+    "seal_number": "CL187495",
+    "container_type": "40'HC",
+    "cbm": 9.92
+  }
+}

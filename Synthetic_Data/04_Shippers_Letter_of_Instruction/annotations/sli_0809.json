@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0809",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202506-2573",
+    "usppi_name": "Russell Global B.V.",
+    "usppi_address": "516 Brandt Lodge, North Stephanieton, GA 19488, United States",
+    "usppi_country": "United States",
+    "ein": "19-8076789",
+    "consignee_name": "Potts Tech Co.",
+    "consignee_address": "690 Dixon Cape, Allenshire, WA 04346, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Johnson Pacific GmbH",
+    "forwarder": "DB Schenker",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Theodore Miller",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/22",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 145,
+        "unit": "LTR",
+        "weight_kg": 155.6,
+        "value_usd": 4786.63
+      },
+      {
+        "marks": "ABC/31",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 143,
+        "unit": "PCS",
+        "weight_kg": 157.91,
+        "value_usd": 4345.17
+      },
+      {
+        "marks": "EXP/10",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 195,
+        "unit": "PCS",
+        "weight_kg": 2728.69,
+        "value_usd": 26479.05
+      }
+    ],
+    "total_weight_kg": 3042.2,
+    "total_value_usd": 35610.85,
+    "service": "Ground",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 47935.47,
+    "license_type": "Distributor License",
+    "license_number": "LIC-652849",
+    "destination_country": "Sweden"
+  }
+}

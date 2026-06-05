@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0660",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Moss Tech Corp.",
+    "shipper_address": "PSC 8692, Box 9529, APO AA 44901, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Pearson Tech Pte Ltd",
+    "consignee_address": "11759 Pierce Drive Apt. 764, North Laurieport, AL 39922, United States",
+    "consignee_country": "United States",
+    "emergency_telephone": "+34 269-591-1157",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 3,
+        "pkg_type": "Steel Drum",
+        "net_qty": 24.04,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-904732",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 18,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 16.75,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-203464",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Melissa Carroll",
+    "signature_date": "2026-04-21",
+    "signature_place": "Malaysia",
+    "awb_number": "085-19492319",
+    "flight_number": "QR871",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

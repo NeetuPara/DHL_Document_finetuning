@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0271",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Matthews LLC",
+    "shipper_address": "USCGC Thompson, FPO AP 15004, China",
+    "shipper_country": "China",
+    "consignee_name": "Hernandez Industry GmbH",
+    "consignee_address": "87798 Rebekah Meadow, Joshuaville, WA 18243, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+68 290-236-5763",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 26,
+        "pkg_type": "Steel Drum",
+        "net_qty": 13.83,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 13,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 57.01,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Austin Smith",
+    "signature_date": "2026-05-10",
+    "signature_place": "China",
+    "awb_number": "045-18323938",
+    "flight_number": "QR2400",
+    "flight_date": "2026-05-03",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "SYD",
+    "destination_airport_name": "Sydney Kingsford Smith"
+  }
+}

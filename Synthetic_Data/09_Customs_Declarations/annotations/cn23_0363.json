@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0363",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jill Barrett",
+    "addressee_company": "Anderson Commerce GmbH",
+    "addressee_address": "PSC 3081, Box 9394, APO AP 39547, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 10.346,
+    "total_value": 3825.63,
+    "currency": "AED",
+    "issue_date": "2026-04-09",
+    "reference": "REF-882785",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.827,
+        "value": 1188.18,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 6,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.687,
+        "value": 795.3,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 15,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.832,
+        "value": 1842.15,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_country": "Japan",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "238-60605384-3",
+    "entry_type": "Formal Entry",
+    "duty_rate": 21.0,
+    "estimated_duty": 803.38,
+    "importer_ein": "09-3194376",
+    "customs_broker": "Tech Ferguson B.V."
+  }
+}

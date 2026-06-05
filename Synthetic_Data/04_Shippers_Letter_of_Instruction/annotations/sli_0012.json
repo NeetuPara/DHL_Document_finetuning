@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0012",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202012-1328",
+    "usppi_name": "Ferrell Tech Pte Ltd",
+    "usppi_address": "30024 Sue Port Apt. 426, East Jonathonville, GA 27731, India",
+    "usppi_country": "India",
+    "ein": "59-7034585",
+    "consignee_name": "International Brown LLC",
+    "consignee_address": "4158 Bender Spur Apt. 158, Lisafort, DC 13832, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "International Mayer Inc.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Jacob Frank",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/28",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 155,
+        "unit": "PCS",
+        "weight_kg": 2980.76,
+        "value_usd": 19317.16
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 79,
+        "unit": "CTN",
+        "weight_kg": 247.57,
+        "value_usd": 5166.62
+      }
+    ],
+    "total_weight_kg": 3228.33,
+    "total_value_usd": 24483.78,
+    "vessel": "PIL PACIFIC",
+    "voyage": "990N",
+    "booking_ref": "BKG-853938",
+    "bl_number": "COSU936863661",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Qingdao, CN",
+    "container_number": "GEQQ3880851",
+    "seal_number": "CL714471",
+    "container_type": "40'HC",
+    "cbm": 13.861
+  }
+}

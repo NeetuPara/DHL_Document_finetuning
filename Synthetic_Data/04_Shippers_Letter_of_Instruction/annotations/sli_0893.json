@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0893",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202306-8563",
+    "usppi_name": "Anderson Pacific B.V.",
+    "usppi_address": "466 Jeffrey Rapids, North Charleston, AR 28402, United States",
+    "usppi_country": "United States",
+    "ein": "27-3336127",
+    "consignee_name": "Brooks Global Inc.",
+    "consignee_address": "0779 Bradshaw Port Apt. 500, Schmidtshire, KS 12222, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Industry Bailey Inc.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Karen Fisher",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/47",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 188,
+        "unit": "MTR",
+        "weight_kg": 109.7,
+        "value_usd": 3035.61
+      },
+      {
+        "marks": "ABC/46",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 38,
+        "unit": "PCS",
+        "weight_kg": 58.13,
+        "value_usd": 5516.92
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 104,
+        "unit": "CTN",
+        "weight_kg": 300.0,
+        "value_usd": 526.81
+      }
+    ],
+    "total_weight_kg": 467.83,
+    "total_value_usd": 9079.34,
+    "service": "Air Freight",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 48442.27,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-132689",
+    "destination_country": "Japan"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0638",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202402-8054",
+    "usppi_name": "Brady Tech Ltd",
+    "usppi_address": "4240 Santana Courts Suite 254, New Tylertown, IA 39009, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "33-6498863",
+    "consignee_name": "Trade Lynch Pte Ltd",
+    "consignee_address": "4690 Horton Crossing Apt. 104, North Elizabethborough, PR 80669, United States",
+    "consignee_country": "United States",
+    "notify_party": "Mcguire International AG",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Alicia Walker",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/6",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 22,
+        "unit": "SET",
+        "weight_kg": 82.27,
+        "value_usd": 1217.59
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 119,
+        "unit": "CTN",
+        "weight_kg": 117.54,
+        "value_usd": 1252.66
+      },
+      {
+        "marks": "ABC/43",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 63,
+        "unit": "MTR",
+        "weight_kg": 49.64,
+        "value_usd": 485.31
+      },
+      {
+        "marks": "SLI/23",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 42,
+        "unit": "KGS",
+        "weight_kg": 42.0,
+        "value_usd": 507.29
+      },
+      {
+        "marks": "EXP/25",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 104,
+        "unit": "PCS",
+        "weight_kg": 2118.9,
+        "value_usd": 32165.41
+      }
+    ],
+    "total_weight_kg": 2410.35,
+    "total_value_usd": 35628.26,
+    "service": "Air Freight",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 33118.96,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-797817",
+    "destination_country": "United States"
+  }
+}

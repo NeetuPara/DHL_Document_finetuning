@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0057",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202409-1588",
+    "usppi_name": "Pacific Tyler Pte Ltd",
+    "usppi_address": "11548 Christopher Shore Apt. 094, Wrightstad, ME 72918, Japan",
+    "usppi_country": "Japan",
+    "ein": "36-1853543",
+    "consignee_name": "Cordova Pacific GmbH",
+    "consignee_address": "Unit 6254 Box 3718, DPO AE 68419, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Global Parker Pte Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FOB",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Raymond Suarez",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/21",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 115,
+        "unit": "PCS",
+        "weight_kg": 44.34,
+        "value_usd": 27954.04
+      },
+      {
+        "marks": "SLI/14",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 166,
+        "unit": "PCS",
+        "weight_kg": 776.9,
+        "value_usd": 76774.37
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 135,
+        "unit": "BOX",
+        "weight_kg": 118.3,
+        "value_usd": 9963.84
+      }
+    ],
+    "total_weight_kg": 939.54,
+    "total_value_usd": 114692.25,
+    "vessel": "MADRID MAERSK",
+    "voyage": "817W",
+    "booking_ref": "BKG-992833",
+    "bl_number": "EGLV378838685",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "CZOV5088111",
+    "seal_number": "SL989080",
+    "container_type": "45'HC",
+    "cbm": 17.34
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0133",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU957190048",
+    "shipper_name": "Webb Commerce Ltd",
+    "shipper_address": "7293 Baird Wall, Jonesshire, AS 66933, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Global Mann Corp.",
+    "consignee_address": "174 King Shores Suite 182, Lake Charlesfurt, IL 20409, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party_name": "Industry Hughes AG",
+    "notify_party_address": "0658 Kathleen Burg, Tiffanyburgh, CT 36303, Thailand",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "670E",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2025-03-31",
+    "issue_place": "Hamburg",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "FXFS4986965",
+        "seal_no": "CL799274",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "DKPW6795491",
+        "seal_no": "CL284870",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "PNBB8277661",
+        "seal_no": "CL325183",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "number_of_packages": 166,
+    "package_type": "Drum",
+    "gross_weight_kg": 23675.7,
+    "net_weight_kg": 21489.3,
+    "cbm": 10.144,
+    "marks_and_numbers": "GLB/13"
+  }
+}

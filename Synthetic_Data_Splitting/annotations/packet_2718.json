@@ -1,0 +1,40 @@
+{
+  "packet_id": "packet_2718",
+  "total_pages": 3,
+  "n_documents": 3,
+  "class_sequence": [
+    "Packing List",
+    "Dangerous Goods Declaration",
+    "Cargo Manifest"
+  ],
+  "documents": [
+    {
+      "doc_class": "Packing List",
+      "class_index": 8,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "packing_list_0081.pdf",
+      "source_class_folder": "08_Packing_List"
+    },
+    {
+      "doc_class": "Dangerous Goods Declaration",
+      "class_index": 5,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "dgd_0050.pdf",
+      "source_class_folder": "05_Dangerous_Goods_Declaration"
+    },
+    {
+      "doc_class": "Cargo Manifest",
+      "class_index": 10,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "manifest_0528.pdf",
+      "source_class_folder": "10_Cargo_Manifest"
+    }
+  ],
+  "task": "splitting"
+}

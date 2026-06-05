@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0116",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Mcdaniel AG",
+    "shipper_address": "98285 Bryan Brook, New Joy, MN 63489, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Tech Martin B.V.",
+    "consignee_address": "034 Christina Shores, Port Douglasborough, AL 86973, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+69 186-673-5184",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 16,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 42.36,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-543146",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 43,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 9.73,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Brittany Ross",
+    "signature_date": "2026-05-09",
+    "signature_place": "Spain",
+    "vessel": "MSC GULSUN",
+    "voyage": "170W",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Hong Kong, HK"
+  }
+}

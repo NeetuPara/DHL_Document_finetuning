@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0879",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-65611051",
+    "mawb_number": "176-56500209",
+    "shipper_name": "Anderson International LLC",
+    "shipper_address": "USNV Ross, FPO AE 54131, Spain",
+    "consignee_name": "Commerce Harris AG",
+    "consignee_address": "60256 Michael Avenue Suite 237, Port Michelle, NY 93996, United Kingdom",
+    "agent_name": "Thompson Trade Inc.",
+    "airport_departure": "NRT",
+    "airport_destination": "AMS",
+    "currency": "CNY",
+    "charge_code": "CC",
+    "declared_value_carriage": "JPY 1,628.41",
+    "declared_value_customs": "NCV",
+    "n_pieces": 43,
+    "gross_weight_kg": 114.6,
+    "chargeable_weight": 132.0,
+    "rate": 3.97,
+    "total_charge": 524.04,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "HANDLING CODE: HUM",
+    "issue_date": "2025-09-15",
+    "signatory": "Daniel Bush",
+    "iata_code": "32-118",
+    "agent_cass": "1841-8904",
+    "consolidation_ref": "CONS-5076-150769",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-11888844",
+        "pieces": 12,
+        "weight": 28.4,
+        "destination": "HKG",
+        "consignee": "Global Long S.A.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "045-45290960",
+        "pieces": 19,
+        "weight": 42.3,
+        "destination": "ICN",
+        "consignee": "Martinez International Inc.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "045-85655575",
+        "pieces": 20,
+        "weight": 72.6,
+        "destination": "AMS",
+        "consignee": "Trade Burgess Co.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "045-84937262",
+        "pieces": 4,
+        "weight": 74.8,
+        "destination": "HKG",
+        "consignee": "Pacific Montgomery GmbH",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

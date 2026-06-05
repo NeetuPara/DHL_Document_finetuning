@@ -1,0 +1,75 @@
+{
+  "document_id": "cn23_0056",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Andrew Turner",
+    "addressee_company": "Global Morris B.V.",
+    "addressee_address": "819 Harris Via Apt. 952, Lake Eddie, WA 09349, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 15.602,
+    "total_value": 4096.49,
+    "currency": "GBP",
+    "issue_date": "2026-04-18",
+    "reference": "REF-479896",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.747,
+        "value": 29.5,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 10,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.442,
+        "value": 159.5,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 11,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.17,
+        "value": 1376.32,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 10,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.749,
+        "value": 700.5,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 17,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.577,
+        "value": 1797.41,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 1,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.917,
+        "value": 33.26,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Stephanie Hill",
+    "sender_company": "Trade Hull GmbH",
+    "sender_address": "Unit 1467 Box 7413, DPO AP 36627, Netherlands",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 4506.14,
+    "postal_charges": 54.85,
+    "tracking_number": "RZ158466074DS"
+  }
+}

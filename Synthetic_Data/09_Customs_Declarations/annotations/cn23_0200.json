@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0200",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Angela Miller",
+    "addressee_company": "Tech Holland AG",
+    "addressee_address": "30409 Powell Loaf Apt. 181, New Robertfort, FL 77407, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 2.496,
+    "total_value": 3789.47,
+    "currency": "CNY",
+    "issue_date": "2025-09-03",
+    "reference": "REF-247072",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.581,
+        "value": 1510.85,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 18,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.915,
+        "value": 2278.62,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Italy"
+      }
+    ],
+    "sender_name": "Carlos Moore",
+    "sender_company": "International Tanner AG",
+    "sender_address": "9284 Hess Village, Alexanderchester, OK 40423, United Kingdom",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 4168.42,
+    "postal_charges": 32.68,
+    "tracking_number": "SP223182126HW"
+  }
+}

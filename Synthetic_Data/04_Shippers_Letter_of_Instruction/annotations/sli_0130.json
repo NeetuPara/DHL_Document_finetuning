@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0130",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202510-5950",
+    "usppi_name": "International Andersen Co.",
+    "usppi_address": "91266 Faulkner Square, Port Elijah, AZ 44018, Poland",
+    "usppi_country": "Poland",
+    "ein": "79-4044795",
+    "consignee_name": "Moore Global Co.",
+    "consignee_address": "397 Emily Ferry, Dianaview, TN 63093, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Tech Jimenez S.A.",
+    "forwarder": "Expeditors",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Christy Davis",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/30",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 87,
+        "unit": "PKG",
+        "weight_kg": 105.04,
+        "value_usd": 1857.01
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 166,
+        "unit": "PCS",
+        "weight_kg": 209.06,
+        "value_usd": 277517.07
+      },
+      {
+        "marks": "ABC/21",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 48,
+        "unit": "SET",
+        "weight_kg": 68.97,
+        "value_usd": 5486.52
+      }
+    ],
+    "total_weight_kg": 383.07,
+    "total_value_usd": 284860.6,
+    "service": "Ground",
+    "named_port": "Frankfurt Airport",
+    "insurance_value_usd": 37996.4,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-773980",
+    "destination_country": "Mexico"
+  }
+}

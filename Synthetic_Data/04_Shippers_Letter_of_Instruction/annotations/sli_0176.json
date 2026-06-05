@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0176",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202507-6927",
+    "usppi_name": "Mccarthy International Co.",
+    "usppi_address": "7238 Khan Burgs, East Troyview, PW 11953, Germany",
+    "usppi_country": "Germany",
+    "ein": "87-9170029",
+    "consignee_name": "Stewart Tech B.V.",
+    "consignee_address": "2218 Stewart Wall, North Jessica, IN 62372, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Commerce Brown AG",
+    "forwarder": "DB Schenker",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Melissa Quinn",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/1",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 66,
+        "unit": "KGS",
+        "weight_kg": 66.0,
+        "value_usd": 143.18
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 160,
+        "unit": "PCS",
+        "weight_kg": 3298.03,
+        "value_usd": 16419.07
+      }
+    ],
+    "total_weight_kg": 3364.03,
+    "total_value_usd": 16562.25,
+    "service": "Express Courier",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 36161.42,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-994916",
+    "destination_country": "Mexico"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0007",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU409559119",
+    "shipper_name": "Barrett Pacific B.V.",
+    "shipper_address": "24960 Barnes Street, West Carolmouth, VT 18370, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Simmons Global Pte Ltd",
+    "consignee_address": "607 Marissa Hills, Jenniferbury, OR 68841, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party_name": "Tech Romero Corp.",
+    "notify_party_address": "948 Jennifer Orchard, Caseyfort, CO 32524, Mexico",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "637W",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2025-06-05",
+    "issue_place": "Shanghai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "NCNZ9306156",
+        "seal_no": "SL545684",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "IFFJ4161171",
+        "seal_no": "SL818341",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "number_of_packages": 288,
+    "package_type": "Drum",
+    "gross_weight_kg": 21604.5,
+    "net_weight_kg": 19025.2,
+    "cbm": 14.417,
+    "marks_and_numbers": "GLB/4"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0052",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202006-1196",
+    "usppi_name": "International Bond GmbH",
+    "usppi_address": "15112 Paul Hollow Suite 480, Fletcherborough, KS 12599, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "20-1891584",
+    "consignee_name": "King Tech Inc.",
+    "consignee_address": "Unit 4657 Box 1912, DPO AP 54792, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Trade Mathis Inc.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Roger Shaw",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/48",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 187,
+        "unit": "PCS",
+        "weight_kg": 67.34,
+        "value_usd": 173616.76
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 173,
+        "unit": "KGS",
+        "weight_kg": 173.0,
+        "value_usd": 409.91
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 199,
+        "unit": "MTR",
+        "weight_kg": 208.81,
+        "value_usd": 1622.68
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 97,
+        "unit": "CTN",
+        "weight_kg": 396.74,
+        "value_usd": 5167.14
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 64,
+        "unit": "PKG",
+        "weight_kg": 51.89,
+        "value_usd": 2526.07
+      }
+    ],
+    "total_weight_kg": 897.78,
+    "total_value_usd": 183342.56,
+    "service": "Ground",
+    "named_port": "Miami International",
+    "insurance_value_usd": 40535.88,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-662230",
+    "destination_country": "Sweden"
+  }
+}

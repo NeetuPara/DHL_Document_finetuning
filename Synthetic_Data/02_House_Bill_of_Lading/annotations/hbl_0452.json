@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0452",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU836978148",
+    "shipper_name": "International Perez LLC",
+    "shipper_address": "7399 Elijah Circles, Kristineberg, PW 66575, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Marshall Industry Pte Ltd",
+    "consignee_address": "39760 Salazar Overpass Suite 084, Cruzview, TX 15975, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Miller Industry Inc.",
+    "notify_party_address": "285 Archer Village Suite 675, Bentleybury, IN 88513, Japan",
+    "vessel": "PIL PACIFIC",
+    "voyage": "589S",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2025-01-26",
+    "issue_place": "Hamburg",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "ONHT8285596",
+        "seal_no": "BL106803",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "IIDI2265156",
+        "seal_no": "SL974574",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "number_of_packages": 368,
+    "package_type": "Crate",
+    "gross_weight_kg": 10587.6,
+    "net_weight_kg": 10048.1,
+    "cbm": 23.706,
+    "marks_and_numbers": "GLB/1"
+  }
+}

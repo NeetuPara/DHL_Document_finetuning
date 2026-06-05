@@ -1,0 +1,78 @@
+{
+  "document_id": "coo_0771",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202204-7800",
+    "exporter_name": "Jones International Inc.",
+    "exporter_address": "722 Russell Road Apt. 997, Jacksonton, OR 23402, Australia",
+    "exporter_country": "Australia",
+    "consignee_name": "Parker Trade AG",
+    "consignee_address": "783 David Center Suite 373, South Shelby, TX 71823, Italy",
+    "consignee_country": "Italy",
+    "country_of_origin": "Australia",
+    "country_of_destination": "Italy",
+    "bl_or_awb": "DHLG578818636",
+    "issue_date": "2024-09-19",
+    "certifier_name": "Ryan Hill",
+    "goods": [
+      {
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "hs_code": "8483.40.00",
+        "qty": 223,
+        "unit": "PCS",
+        "weight_kg": 431.8,
+        "origin_criterion": "E",
+        "value": 128268.31
+      },
+      {
+        "description": "Paper Products - Packaging Cartons",
+        "hs_code": "4819.10.00",
+        "qty": 51,
+        "unit": "CTN",
+        "weight_kg": 113.37,
+        "origin_criterion": "D",
+        "value": 655.63
+      },
+      {
+        "description": "Automotive Spare Parts - Brake Pads",
+        "hs_code": "8708.30.00",
+        "qty": 160,
+        "unit": "SET",
+        "weight_kg": 167.52,
+        "origin_criterion": "D",
+        "value": 24768.18
+      },
+      {
+        "description": "Steel Products - Hot Rolled Coils",
+        "hs_code": "7208.37.00",
+        "qty": 62,
+        "unit": "KGS",
+        "weight_kg": 62.0,
+        "origin_criterion": "B",
+        "value": 147.44
+      },
+      {
+        "description": "Wooden Furniture - Office Chairs",
+        "hs_code": "9401.30.00",
+        "qty": 358,
+        "unit": "PCS",
+        "weight_kg": 4169.2,
+        "origin_criterion": "A",
+        "value": 63298.25
+      },
+      {
+        "description": "Optical Equipment - Camera Lenses",
+        "hs_code": "9002.11.00",
+        "qty": 132,
+        "unit": "PCS",
+        "weight_kg": 37.05,
+        "origin_criterion": "F",
+        "value": 28275.53
+      }
+    ],
+    "fta_agreement": "ASEAN FTA",
+    "chamber": "Chamber of Commerce"
+  }
+}

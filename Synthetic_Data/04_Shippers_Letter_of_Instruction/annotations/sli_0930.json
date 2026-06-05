@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0930",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202103-8954",
+    "usppi_name": "Industry Lowery S.A.",
+    "usppi_address": "33516 Mary Stravenue Suite 519, Danielville, SD 31701, Spain",
+    "usppi_country": "Spain",
+    "ein": "86-9542092",
+    "consignee_name": "Moran International Pte Ltd",
+    "consignee_address": "778 Castillo Streets Suite 653, Mortonland, VT 02415, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Tech Medina AG",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "James Rangel",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/40",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 16,
+        "unit": "MTR",
+        "weight_kg": 15.16,
+        "value_usd": 168.51
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 74,
+        "unit": "KGS",
+        "weight_kg": 74.0,
+        "value_usd": 85.11
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 22,
+        "unit": "PCS",
+        "weight_kg": 2.03,
+        "value_usd": 1152.5
+      }
+    ],
+    "total_weight_kg": 91.19,
+    "total_value_usd": 1406.12,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "347W",
+    "booking_ref": "BKG-485616",
+    "bl_number": "MAEU493558379",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "New York, US",
+    "container_number": "NKFQ7805394",
+    "seal_number": "CL160713",
+    "container_type": "20'GP",
+    "cbm": 2.289
+  }
+}

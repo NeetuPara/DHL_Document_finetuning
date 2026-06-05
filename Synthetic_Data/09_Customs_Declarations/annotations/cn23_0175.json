@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0175",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Cynthia Aguirre",
+    "addressee_company": "Martinez Pacific Ltd",
+    "addressee_address": "570 Garcia Loop Apt. 327, Port Joshuashire, KY 12577, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 5.108,
+    "total_value": 3064.33,
+    "currency": "EUR",
+    "issue_date": "2025-09-01",
+    "reference": "REF-916176",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.135,
+        "value": 1801.2,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 11,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.239,
+        "value": 79.75,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 11,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.734,
+        "value": 1183.38,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_name": "Emily Rivera",
+    "sender_company": "Shelton Tech Co.",
+    "sender_address": "83527 Wilson Groves Apt. 203, Port Jeffrey, DC 60337, Australia",
+    "sender_phone": "+1-451-893-9437x5944",
+    "sender_email": "peter09@example.com",
+    "addressee_phone": "896-880-0024x24423",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 3370.76,
+    "postal_charges": 24.59,
+    "tracking_number": "QB171835612BT"
+  }
+}

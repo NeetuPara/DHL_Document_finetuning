@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0971",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Moreno Co.",
+    "shipper_address": "USNV Dixon, FPO AA 69053, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Global Thompson AG",
+    "consignee_address": "306 Cunningham Brooks Apt. 957, Cynthiamouth, WI 71649, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+83 906-524-8649",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 4,
+        "pkg_type": "Steel Drum",
+        "net_qty": 13.46,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-642765",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Darrell Alexander",
+    "signature_date": "2026-04-28",
+    "signature_place": "Belgium",
+    "vessel": "EVER GOLDEN",
+    "voyage": "723S",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Hamburg, DE"
+  }
+}

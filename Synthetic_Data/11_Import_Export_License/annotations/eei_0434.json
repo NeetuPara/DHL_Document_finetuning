@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0434",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210907024297",
+    "export_date": "2025-11-23",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Lindsey International B.V.",
+    "usppi_ein": "30-3513688",
+    "usppi_address": "55481 Glen Valley Suite 217, South Tamarafort, MP 07433, United Kingdom",
+    "ultimate_consignee": "Williams Tech AG",
+    "intermediate_consignee": "Davis Pacific Inc.",
+    "forwarding_agent": "Sullivan Trade AG",
+    "destination_country": "Malaysia",
+    "carrier": "MSC",
+    "bl_awb": "085-92067798",
+    "total_value": 239669.38,
+    "currency": "EUR",
+    "signatory": "Leonard Sellers",
+    "line_items": [
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Germany",
+        "qty": 376,
+        "unit": "PCS",
+        "entered_value": 69413.36,
+        "duty_rate": 16.8,
+        "duty_amount": 11661.44,
+        "eccn": "5E992",
+        "schedule_b": "9401.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Japan",
+        "qty": 394,
+        "unit": "KGS",
+        "entered_value": 104737.02,
+        "duty_rate": 15.5,
+        "duty_amount": 16234.24,
+        "eccn": "2B350",
+        "schedule_b": "7208.37.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "South Korea",
+        "qty": 294,
+        "unit": "BOX",
+        "entered_value": 14306.04,
+        "duty_rate": 18.3,
+        "duty_amount": 2618.01,
+        "eccn": "9A515",
+        "schedule_b": "2936.90.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Japan",
+        "qty": 30,
+        "unit": "PCS",
+        "entered_value": 6894.0,
+        "duty_rate": 6.6,
+        "duty_amount": 455.0,
+        "eccn": "9A515",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "United States",
+        "qty": 406,
+        "unit": "PCS",
+        "entered_value": 44318.96,
+        "duty_rate": 14.6,
+        "duty_amount": 6470.57,
+        "eccn": "9A515",
+        "schedule_b": "9002.11.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

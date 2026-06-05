@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0858",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202111-4927",
+    "usppi_name": "Watkins Global GmbH",
+    "usppi_address": "780 Pittman Hollow Suite 680, North Paul, AZ 36696, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "92-2172896",
+    "consignee_name": "Edwards Trade S.A.",
+    "consignee_address": "678 Beth Bridge, Andersonberg, WA 58559, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Lopez Industry Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Tara Martinez",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/5",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 158,
+        "unit": "PCS",
+        "weight_kg": 12.96,
+        "value_usd": 11221.31
+      },
+      {
+        "marks": "ABC/37",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 200,
+        "unit": "PCS",
+        "weight_kg": 1906.9,
+        "value_usd": 31596.78
+      }
+    ],
+    "total_weight_kg": 1919.86,
+    "total_value_usd": 42818.09,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "798S",
+    "booking_ref": "BKG-216687",
+    "bl_number": "EGLV806260179",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Long Beach, US",
+    "container_number": "VRAK4434789",
+    "seal_number": "CL413976",
+    "container_type": "45'HC",
+    "cbm": 13.167
+  }
+}

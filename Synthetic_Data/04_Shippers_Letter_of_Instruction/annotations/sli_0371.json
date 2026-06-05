@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0371",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202109-1089",
+    "usppi_name": "Stephens Trade Inc.",
+    "usppi_address": "984 Cassandra Pass Suite 215, Oliviaside, IN 95065, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "72-2048913",
+    "consignee_name": "Trade Petersen Co.",
+    "consignee_address": "8249 Farmer Cove, South Russell, AL 46849, France",
+    "consignee_country": "France",
+    "notify_party": "Commerce Medina LLC",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "EAR99",
+    "signatory_name": "Joyce Clark",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/19",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 90,
+        "unit": "CTN",
+        "weight_kg": 77.86,
+        "value_usd": 917.09
+      },
+      {
+        "marks": "EXP/3",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 70,
+        "unit": "PCS",
+        "weight_kg": 27.48,
+        "value_usd": 7352.32
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 151,
+        "unit": "KGS",
+        "weight_kg": 151.0,
+        "value_usd": 186.38
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 38,
+        "unit": "BOX",
+        "weight_kg": 66.37,
+        "value_usd": 3518.01
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 69,
+        "unit": "MTR",
+        "weight_kg": 75.71,
+        "value_usd": 345.93
+      }
+    ],
+    "total_weight_kg": 398.42,
+    "total_value_usd": 12319.73,
+    "service": "Ocean Freight",
+    "named_port": "Hamburg, DE",
+    "insurance_value_usd": 46836.33,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-857982",
+    "destination_country": "France"
+  }
+}

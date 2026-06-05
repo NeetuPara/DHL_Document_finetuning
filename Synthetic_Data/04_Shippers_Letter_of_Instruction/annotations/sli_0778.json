@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0778",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202402-1650",
+    "usppi_name": "Tech Vega AG",
+    "usppi_address": "Unit 5375 Box 5200, DPO AA 66467, Italy",
+    "usppi_country": "Italy",
+    "ein": "93-9851917",
+    "consignee_name": "Brown Industry Pte Ltd",
+    "consignee_address": "198 Ortiz Turnpike, South Angelaville, TX 71844, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "International Walsh Corp.",
+    "forwarder": "Expeditors",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Christina Lee",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/2",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 52,
+        "unit": "KGS",
+        "weight_kg": 52.0,
+        "value_usd": 1082.01
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 45,
+        "unit": "PKG",
+        "weight_kg": 31.21,
+        "value_usd": 2155.92
+      },
+      {
+        "marks": "EXP/1",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 90,
+        "unit": "PCS",
+        "weight_kg": 1504.62,
+        "value_usd": 30542.1
+      },
+      {
+        "marks": "ABC/19",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 129,
+        "unit": "SET",
+        "weight_kg": 425.15,
+        "value_usd": 7028.72
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 61,
+        "unit": "PCS",
+        "weight_kg": 71.96,
+        "value_usd": 17416.73
+      },
+      {
+        "marks": "EXP/9",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 23,
+        "unit": "BOX",
+        "weight_kg": 24.2,
+        "value_usd": 1202.87
+      }
+    ],
+    "total_weight_kg": 2109.14,
+    "total_value_usd": 59428.35,
+    "service": "Air Freight",
+    "named_port": "London Heathrow",
+    "insurance_value_usd": 14167.89,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "United Arab Emirates"
+  }
+}

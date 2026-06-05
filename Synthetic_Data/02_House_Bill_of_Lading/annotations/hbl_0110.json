@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0110",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV365624303",
+    "shipper_name": "Li Trade B.V.",
+    "shipper_address": "24374 Christopher Fork Apt. 950, Onealborough, IN 34646, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Commerce Graham B.V.",
+    "consignee_address": "418 Brenda Parkways Apt. 509, Toddside, MA 17416, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "Global Atkins Pte Ltd",
+    "notify_party_address": "51236 Anna Path, West Tony, HI 60386, Thailand",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "856N",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Qingdao, CN",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2024-08-23",
+    "issue_place": "Dubai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "COCB1879494",
+        "seal_no": "CL580683",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "BYJA6932781",
+        "seal_no": "BL678209",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "PTGX1903352",
+        "seal_no": "BL885702",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 272,
+    "package_type": "Carton",
+    "gross_weight_kg": 12039.8,
+    "net_weight_kg": 11098.5,
+    "cbm": 8.396,
+    "marks_and_numbers": "XYZ/28"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0390",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-39427893",
+    "mawb_number": "057-15168406",
+    "shipper_name": "Global Sweeney Inc.",
+    "shipper_address": "91887 Shane Throughway, North Brett, OK 91176, Netherlands",
+    "consignee_name": "Long International Corp.",
+    "consignee_address": "5063 Stacey Squares, Tranchester, TN 24923, Singapore",
+    "agent_name": "Edwards International B.V.",
+    "airport_departure": "NRT",
+    "airport_destination": "HKG",
+    "currency": "JPY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 24,
+    "gross_weight_kg": 37.5,
+    "chargeable_weight": 42.5,
+    "rate": 5.09,
+    "total_charge": 216.32,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "HANDLING CODE: SUR",
+    "issue_date": "2025-07-10",
+    "signatory": "Mitchell Gallagher",
+    "iata_code": "90-230",
+    "agent_cass": "8292-8564",
+    "consolidation_ref": "CONS-4151-221816",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-99096956",
+        "pieces": 19,
+        "weight": 93.4,
+        "destination": "DXB",
+        "consignee": "Pacific Bell Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "125-57543637",
+        "pieces": 12,
+        "weight": 20.5,
+        "destination": "JFK",
+        "consignee": "International Gonzalez Co.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "160-50457605",
+        "pieces": 8,
+        "weight": 23.1,
+        "destination": "ORD",
+        "consignee": "Taylor Trade Pte Ltd",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "045-58813818",
+        "pieces": 3,
+        "weight": 96.6,
+        "destination": "ORD",
+        "consignee": "Moon Industry Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "125-90776811",
+        "pieces": 20,
+        "weight": 2.6,
+        "destination": "SYD",
+        "consignee": "Mueller Industry Corp.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "045-58612945",
+        "pieces": 7,
+        "weight": 75.7,
+        "destination": "ORD",
+        "consignee": "Tech Parker Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "020-94039905",
+        "pieces": 17,
+        "weight": 74.9,
+        "destination": "AMS",
+        "consignee": "Orozco Industry LLC",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

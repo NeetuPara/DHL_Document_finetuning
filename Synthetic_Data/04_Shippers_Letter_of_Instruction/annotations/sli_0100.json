@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0100",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202411-7184",
+    "usppi_name": "Lozano Trade LLC",
+    "usppi_address": "791 Robinson Walk, East Ianland, FL 46989, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "85-2066123",
+    "consignee_name": "Pacific Alvarez Pte Ltd",
+    "consignee_address": "46699 Willis Meadow Apt. 610, New Jesseport, TX 26570, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Hurst Tech Pte Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Lindsey King",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/12",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 31,
+        "unit": "KGS",
+        "weight_kg": 31.0,
+        "value_usd": 73.14
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 29,
+        "unit": "PCS",
+        "weight_kg": 412.63,
+        "value_usd": 3287.95
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 148,
+        "unit": "MTR",
+        "weight_kg": 161.64,
+        "value_usd": 1381.93
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 31,
+        "unit": "SET",
+        "weight_kg": 106.65,
+        "value_usd": 5221.37
+      }
+    ],
+    "total_weight_kg": 711.92,
+    "total_value_usd": 9964.39,
+    "service": "LCL Ocean",
+    "named_port": "Shanghai, CN",
+    "insurance_value_usd": 41681.93,
+    "license_type": "Distributor License",
+    "license_number": "LIC-259225",
+    "destination_country": "Malaysia"
+  }
+}

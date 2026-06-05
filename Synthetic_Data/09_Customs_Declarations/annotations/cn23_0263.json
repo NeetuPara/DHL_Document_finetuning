@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0263",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Robert Velasquez",
+    "addressee_company": "Jensen Global Ltd",
+    "addressee_address": "52562 Wallace Glen Suite 540, North Jasonmouth, NY 74266, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 9.594,
+    "total_value": 2460.82,
+    "currency": "AUD",
+    "issue_date": "2025-07-16",
+    "reference": "REF-358454",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.662,
+        "value": 979.28,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 12,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.825,
+        "value": 1357.32,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 2,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.107,
+        "value": 124.22,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_name": "Michael Buckley",
+    "sender_company": "Jones International GmbH",
+    "sender_address": "104 Marcus Land, Victoriamouth, ND 65703, Australia",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 2706.9,
+    "postal_charges": 34.36,
+    "tracking_number": "SI945055693RF"
+  }
+}

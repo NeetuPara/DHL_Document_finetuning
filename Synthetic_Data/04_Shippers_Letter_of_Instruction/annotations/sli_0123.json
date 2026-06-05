@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0123",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202408-5733",
+    "usppi_name": "Trade Nelson Co.",
+    "usppi_address": "51541 Renee Union Apt. 153, New Michael, ID 58173, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "50-1702725",
+    "consignee_name": "Robinson Commerce AG",
+    "consignee_address": "1746 Thompson Key Apt. 438, West Nicholas, MI 86156, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Elliott International Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Daniel Coffey",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/27",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 36,
+        "unit": "KGS",
+        "weight_kg": 36.0,
+        "value_usd": 644.13
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 152,
+        "unit": "MTR",
+        "weight_kg": 145.33,
+        "value_usd": 1845.64
+      },
+      {
+        "marks": "ABC/11",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 164,
+        "unit": "LTR",
+        "weight_kg": 156.63,
+        "value_usd": 2305.83
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 122,
+        "unit": "CTN",
+        "weight_kg": 579.3,
+        "value_usd": 4309.21
+      },
+      {
+        "marks": "SLI/27",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 156,
+        "unit": "KGS",
+        "weight_kg": 156.0,
+        "value_usd": 144.59
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 134,
+        "unit": "PCS",
+        "weight_kg": 1790.71,
+        "value_usd": 87647.12
+      }
+    ],
+    "total_weight_kg": 2863.97,
+    "total_value_usd": 96896.52,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "573S",
+    "booking_ref": "BKG-440801",
+    "bl_number": "YMLU477843058",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "DGUP0264637",
+    "seal_number": "BL159347",
+    "container_type": "40'HC",
+    "cbm": 56.446
+  }
+}

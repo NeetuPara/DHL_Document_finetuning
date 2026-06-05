@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0579",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202001-4735",
+    "usppi_name": "Global Conley AG",
+    "usppi_address": "006 Lin Plaza, Simmonshaven, PA 99085, Poland",
+    "usppi_country": "Poland",
+    "ein": "91-2020174",
+    "consignee_name": "Commerce Glenn B.V.",
+    "consignee_address": "0790 Brittany Views, West Rachel, NY 46558, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Pacific Bean Pte Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FOB",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Kristy Moreno",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/11",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 21,
+        "unit": "BOX",
+        "weight_kg": 11.24,
+        "value_usd": 665.57
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 99,
+        "unit": "PCS",
+        "weight_kg": 848.25,
+        "value_usd": 33140.24
+      }
+    ],
+    "total_weight_kg": 859.49,
+    "total_value_usd": 33805.81,
+    "vessel": "EVER GOLDEN",
+    "voyage": "125N",
+    "booking_ref": "BKG-361682",
+    "bl_number": "OOLU427972630",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Long Beach, US",
+    "container_number": "FIEB5671249",
+    "seal_number": "SL516822",
+    "container_type": "20'GP",
+    "cbm": 5.927
+  }
+}

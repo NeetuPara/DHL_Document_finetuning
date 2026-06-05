@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0027",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-87841296",
+    "mawb_number": "618-32022833",
+    "shipper_name": "Trade Williams LLC",
+    "shipper_address": "8317 Fischer Islands Suite 682, Jeremyland, ID 84008, Spain",
+    "consignee_name": "Commerce Benton Corp.",
+    "consignee_address": "06740 Michael Courts Apt. 686, Derrickmouth, PW 21331, China",
+    "agent_name": "Hayes Industry S.A.",
+    "airport_departure": "LAX",
+    "airport_destination": "CDG",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "AUD 36,917.04",
+    "n_pieces": 35,
+    "gross_weight_kg": 254.9,
+    "chargeable_weight": 291.0,
+    "rate": 11.33,
+    "total_charge": 3297.03,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-12-08",
+    "signatory": "Daniel Johnson",
+    "iata_code": "76-703",
+    "agent_cass": "7388-9339",
+    "consolidation_ref": "CONS-1463-864375",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-60587785",
+        "pieces": 1,
+        "weight": 3.2,
+        "destination": "MIA",
+        "consignee": "Global Smith LLC",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "176-58603822",
+        "pieces": 3,
+        "weight": 90.6,
+        "destination": "LHR",
+        "consignee": "Bryant Industry Corp.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "085-15171384",
+        "pieces": 8,
+        "weight": 13.0,
+        "destination": "HKG",
+        "consignee": "Commerce Robbins LLC",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "160-86365537",
+        "pieces": 16,
+        "weight": 42.0,
+        "destination": "SIN",
+        "consignee": "Commerce Bright AG",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "176-54225186",
+        "pieces": 11,
+        "weight": 27.5,
+        "destination": "PVG",
+        "consignee": "Trade Thomas AG",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "006-98580093",
+        "pieces": 17,
+        "weight": 60.9,
+        "destination": "ORD",
+        "consignee": "Lara Commerce Inc.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "020-45031691",
+        "pieces": 12,
+        "weight": 48.5,
+        "destination": "ICN",
+        "consignee": "Fields Trade GmbH",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "074-10186544",
+        "pieces": 12,
+        "weight": 99.8,
+        "destination": "JFK",
+        "consignee": "Little Trade GmbH",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

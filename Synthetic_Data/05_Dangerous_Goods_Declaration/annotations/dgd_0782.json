@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0782",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Smith GmbH",
+    "shipper_address": "9629 Eric Shore Apt. 302, Marshallmouth, VA 13764, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "International Smith Pte Ltd",
+    "consignee_address": "3745 Robinson Camp, North Kennethshire, OR 54313, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+60 602-561-4490",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 28,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 1.23,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Mark Becker",
+    "signature_date": "2026-04-28",
+    "signature_place": "Hong Kong",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "630E",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Dubai, AE"
+  }
+}

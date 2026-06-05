@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0722",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Miller AG",
+    "shipper_address": "13327 Clark Row, Martinland, VA 21857, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Pacific Gomez LLC",
+    "consignee_address": "66951 Young Loaf Suite 487, Joelland, FL 02502, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+13 916-374-9998",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 5,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 51.58,
+        "qty_unit": "L",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-548146",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "John Reyes",
+    "signature_date": "2026-04-21",
+    "signature_place": "Hong Kong",
+    "vessel": "PIL PACIFIC",
+    "voyage": "242N",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Tanjung Pelepas, MY"
+  }
+}

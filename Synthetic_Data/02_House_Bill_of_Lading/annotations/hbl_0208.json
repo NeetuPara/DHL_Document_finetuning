@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0208",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU368716573",
+    "shipper_name": "Hill Commerce Corp.",
+    "shipper_address": "383 Sanders Well Apt. 158, Lewismouth, SC 81531, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Johnson Commerce AG",
+    "consignee_address": "PSC 1920, Box 4652, APO AE 40212, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party_name": "Anderson Commerce Pte Ltd",
+    "notify_party_address": "79990 Watkins Plains, New Charles, CA 56227, Switzerland",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "205N",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2024-07-10",
+    "issue_place": "Long Beach",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "BHNM7756671",
+        "seal_no": "BL313436",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "PTVP9427524",
+        "seal_no": "BL162281",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 337,
+    "package_type": "Case",
+    "gross_weight_kg": 11426.9,
+    "net_weight_kg": 10979.0,
+    "cbm": 29.9,
+    "marks_and_numbers": "ABC/31"
+  }
+}

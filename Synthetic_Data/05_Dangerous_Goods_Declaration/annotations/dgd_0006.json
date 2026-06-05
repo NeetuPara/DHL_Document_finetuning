@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0006",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Charles Trade Inc.",
+    "shipper_address": "91689 Beth Gardens Apt. 273, North Williamland, NV 51624, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Trade Larson Pte Ltd",
+    "consignee_address": "751 Jones Flat Suite 691, Wandashire, TX 77073, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+25 624-834-7510",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 8,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 63.51,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-263123",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "David Fowler",
+    "signature_date": "2026-04-25",
+    "signature_place": "Belgium",
+    "awb_number": "045-92560030",
+    "flight_number": "SQ2311",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "CDG",
+    "destination_airport_name": "Paris CDG",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

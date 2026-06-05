@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0422",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202002-9539",
+    "usppi_name": "Industry Clark Inc.",
+    "usppi_address": "733 Rebekah Knolls, Port Ericamouth, LA 86006, Japan",
+    "usppi_country": "Japan",
+    "ein": "26-3302486",
+    "consignee_name": "International Bradshaw Co.",
+    "consignee_address": "969 James Meadows Suite 782, Lisafort, WV 85146, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Wilson Global Inc.",
+    "forwarder": "Panalpina",
+    "incoterm": "EXW",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Rhonda Nelson",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/8",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 40,
+        "unit": "PKG",
+        "weight_kg": 72.31,
+        "value_usd": 3522.5
+      },
+      {
+        "marks": "EXP/14",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 132,
+        "unit": "PCS",
+        "weight_kg": 86.88,
+        "value_usd": 73370.43
+      }
+    ],
+    "total_weight_kg": 159.19,
+    "total_value_usd": 76892.93,
+    "service": "Ground",
+    "named_port": "Miami International",
+    "insurance_value_usd": 26122.27,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-791901",
+    "destination_country": "Poland"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0230",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG735826199",
+    "shipper_name": "Johnson Pacific GmbH",
+    "shipper_address": "112 Brenda Ranch Suite 895, Markville, IL 62236, France",
+    "shipper_country": "France",
+    "consignee_name": "Trade Johnson Ltd",
+    "consignee_address": "Unit 3656 Box 2965, DPO AA 14583, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party_name": "Rowe International LLC",
+    "notify_party_address": "PSC 0433, Box 6061, APO AP 69250, Spain",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "865N",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2024-05-29",
+    "issue_place": "Hamburg",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "XPTU9974571",
+        "seal_no": "BL360489",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "BVJW7528639",
+        "seal_no": "SL144061",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 199,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 15161.5,
+    "net_weight_kg": 14446.7,
+    "cbm": 16.769,
+    "marks_and_numbers": "ABC/27"
+  }
+}

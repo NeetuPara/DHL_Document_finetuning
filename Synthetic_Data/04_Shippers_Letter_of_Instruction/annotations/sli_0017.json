@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0017",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202501-8176",
+    "usppi_name": "Torres Global Co.",
+    "usppi_address": "33148 Velasquez Creek, New Joseburgh, SD 32570, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "49-9994384",
+    "consignee_name": "Commerce Sutton Inc.",
+    "consignee_address": "1032 Adam Radial, East Adam, FM 85607, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Fischer Commerce LLC",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5A002",
+    "signatory_name": "Christopher Brown",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/14",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 26,
+        "unit": "SET",
+        "weight_kg": 86.73,
+        "value_usd": 1248.52
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 148,
+        "unit": "CTN",
+        "weight_kg": 219.7,
+        "value_usd": 389.08
+      },
+      {
+        "marks": "EXP/25",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 109,
+        "unit": "PCS",
+        "weight_kg": 36.78,
+        "value_usd": 6092.05
+      },
+      {
+        "marks": "EXP/41",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 183,
+        "unit": "LTR",
+        "weight_kg": 197.05,
+        "value_usd": 6407.1
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 164,
+        "unit": "PCS",
+        "weight_kg": 235.88,
+        "value_usd": 5257.41
+      }
+    ],
+    "total_weight_kg": 776.14,
+    "total_value_usd": 19394.16,
+    "service": "Express Courier",
+    "named_port": "Sydney Kingsford Smith",
+    "insurance_value_usd": 27784.51,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-686929",
+    "destination_country": "United Arab Emirates"
+  }
+}

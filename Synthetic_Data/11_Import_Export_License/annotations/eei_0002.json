@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0002",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240514035463",
+    "export_date": "2025-11-28",
+    "aes_option": "AES Filing",
+    "usppi_name": "Walker Pacific B.V.",
+    "usppi_ein": "40-2681939",
+    "usppi_address": "Unit 2548 Box 7360, DPO AA 09079, China",
+    "ultimate_consignee": "Commerce Reed S.A.",
+    "intermediate_consignee": "Industry Miller AG",
+    "forwarding_agent": "Industry Snyder Pte Ltd",
+    "destination_country": "Hong Kong",
+    "carrier": "MSC",
+    "bl_awb": "074-45950472",
+    "total_value": 152819.51,
+    "currency": "AUD",
+    "signatory": "Tamara Hunter",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 174,
+        "unit": "PCS",
+        "entered_value": 76502.58,
+        "duty_rate": 6.5,
+        "duty_amount": 4972.67,
+        "eccn": "3A992",
+        "schedule_b": "8483.40.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Germany",
+        "qty": 424,
+        "unit": "SET",
+        "entered_value": 46873.2,
+        "duty_rate": 0.7,
+        "duty_amount": 328.11,
+        "eccn": "7A994",
+        "schedule_b": "8708.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Spain",
+        "qty": 353,
+        "unit": "LTR",
+        "entered_value": 29443.73,
+        "duty_rate": 14.7,
+        "duty_amount": 4328.23,
+        "eccn": "9A515",
+        "schedule_b": "2901.10.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

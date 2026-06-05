@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0599",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Kim Tech GmbH",
+    "shipper_address": "73606 Alexander Underpass, East Jameschester, GA 42181, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Fisher International Corp.",
+    "consignee_address": "98904 Meredith Unions Apt. 177, North Thomas, DE 52580, Brazil",
+    "consignee_country": "Brazil",
+    "emergency_telephone": "+73 148-925-7803",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 29,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 27.95,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 15,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 3.42,
+        "qty_unit": "g",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-209398",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Angela Howard",
+    "signature_date": "2026-04-17",
+    "signature_place": "Switzerland",
+    "vessel": "MSC GULSUN",
+    "voyage": "722N",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Antwerp, BE"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0057",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU645518387",
+    "shipper_name": "Global Forbes S.A.",
+    "shipper_address": "359 Melanie Heights, West David, TN 19430, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Global Jones GmbH",
+    "consignee_address": "4799 Bryan Alley Suite 036, Port Karen, VI 42702, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party_name": "Tech Mcknight Pte Ltd",
+    "notify_party_address": "941 Jensen Well Apt. 302, Ramirezstad, AZ 40190, Australia",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "396S",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Hong Kong, HK",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Hong Kong, HK",
+    "issue_date": "2025-01-06",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "SROL7748693",
+        "seal_no": "CL844536",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "AUBC0070931",
+        "seal_no": "CL201072",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "ENMN0977613",
+        "seal_no": "SL670848",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "VNFB4869407",
+        "seal_no": "CL243444",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 425,
+    "package_type": "Pallet",
+    "gross_weight_kg": 21288.5,
+    "net_weight_kg": 19314.5,
+    "cbm": 20.574,
+    "marks_and_numbers": "GLB/12"
+  }
+}

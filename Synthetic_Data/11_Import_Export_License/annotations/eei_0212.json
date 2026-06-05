@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0212",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20230503439455",
+    "export_date": "2025-11-04",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "White Pacific Corp.",
+    "usppi_ein": "52-7235555",
+    "usppi_address": "371 Blake Flats, Ritaton, NY 11248, Italy",
+    "ultimate_consignee": "Trade Thomas GmbH",
+    "intermediate_consignee": "Clayton Trade AG",
+    "forwarding_agent": "International Payne Pte Ltd",
+    "destination_country": "United Kingdom",
+    "carrier": "Maersk",
+    "bl_awb": "618-35991140",
+    "total_value": 312116.85,
+    "currency": "CHF",
+    "signatory": "Robert Garcia",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Hong Kong",
+        "qty": 265,
+        "unit": "PCS",
+        "entered_value": 45145.4,
+        "duty_rate": 14.5,
+        "duty_amount": 6546.08,
+        "eccn": "0A919",
+        "schedule_b": "8483.40.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "China",
+        "qty": 126,
+        "unit": "MTR",
+        "entered_value": 54929.7,
+        "duty_rate": 6.0,
+        "duty_amount": 3295.78,
+        "eccn": "EAR99",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Switzerland",
+        "qty": 206,
+        "unit": "MTR",
+        "entered_value": 59740.0,
+        "duty_rate": 22.3,
+        "duty_amount": 13322.02,
+        "eccn": "3A992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "France",
+        "qty": 305,
+        "unit": "MTR",
+        "entered_value": 152301.75,
+        "duty_rate": 10.1,
+        "duty_amount": 15382.48,
+        "eccn": "7A994",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

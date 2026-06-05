@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0916",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "527-97087659-2",
+    "entry_type": "11 - Informal - Free",
+    "entry_date": "2026-04-24",
+    "port_of_entry": "HOU - Houston",
+    "transport_mode": "Truck",
+    "carrier": "UPS",
+    "bl_awb": "020-51643763",
+    "importer_name": "Global Chen B.V.",
+    "importer_ein": "04-1866385",
+    "consignee_name": "Trade Ramirez GmbH",
+    "customs_broker": "Martinez Tech LLC",
+    "broker_filer_code": "bfD",
+    "country_of_origin": "Hong Kong",
+    "total_value": 307342.24,
+    "total_duty": 10408.44,
+    "currency": "CNY",
+    "signatory": "Meredith Burton",
+    "signatory_title": "Trade Finance Manager",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Malaysia",
+        "qty": 378,
+        "unit": "CTN",
+        "entered_value": 133139.16,
+        "duty_rate": 2.8,
+        "duty_amount": 3727.9,
+        "eccn": "EAR99",
+        "schedule_b": "9018.31.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "United Kingdom",
+        "qty": 412,
+        "unit": "CTN",
+        "entered_value": 144991.04,
+        "duty_rate": 0.5,
+        "duty_amount": 724.96,
+        "eccn": "0A919",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "France",
+        "qty": 209,
+        "unit": "PCS",
+        "entered_value": 17075.3,
+        "duty_rate": 21.8,
+        "duty_amount": 3722.42,
+        "eccn": "2B350",
+        "schedule_b": "8518.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Australia",
+        "qty": 259,
+        "unit": "CTN",
+        "entered_value": 12136.74,
+        "duty_rate": 18.4,
+        "duty_amount": 2233.16,
+        "eccn": "9A515",
+        "schedule_b": "4819.10.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

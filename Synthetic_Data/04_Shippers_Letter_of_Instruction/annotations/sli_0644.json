@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0644",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202212-2070",
+    "usppi_name": "Barnes International AG",
+    "usppi_address": "0891 Chavez Freeway Suite 539, Lake Tinahaven, MD 58338, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "41-9302856",
+    "consignee_name": "Pacific Johnson S.A.",
+    "consignee_address": "USNS Wright, FPO AA 23777, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Trade Anderson LLC",
+    "forwarder": "Panalpina",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Kevin Ortiz",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/39",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 135,
+        "unit": "PCS",
+        "weight_kg": 1150.68,
+        "value_usd": 75021.79
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 114,
+        "unit": "PCS",
+        "weight_kg": 1770.91,
+        "value_usd": 40663.6
+      },
+      {
+        "marks": "ABC/35",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 147,
+        "unit": "PCS",
+        "weight_kg": 193.83,
+        "value_usd": 20110.12
+      },
+      {
+        "marks": "SLI/23",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 171,
+        "unit": "BOX",
+        "weight_kg": 247.56,
+        "value_usd": 4834.89
+      },
+      {
+        "marks": "EXP/38",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 32,
+        "unit": "SET",
+        "weight_kg": 57.56,
+        "value_usd": 1277.43
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 106,
+        "unit": "PCS",
+        "weight_kg": 15.52,
+        "value_usd": 7568.01
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 22,
+        "unit": "KGS",
+        "weight_kg": 22.0,
+        "value_usd": 376.17
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 195,
+        "unit": "PCS",
+        "weight_kg": 32.6,
+        "value_usd": 3846.74
+      }
+    ],
+    "total_weight_kg": 3490.66,
+    "total_value_usd": 153698.75,
+    "service": "Express Courier",
+    "named_port": "London Heathrow",
+    "insurance_value_usd": 44782.46,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-274163",
+    "destination_country": "United Arab Emirates"
+  }
+}

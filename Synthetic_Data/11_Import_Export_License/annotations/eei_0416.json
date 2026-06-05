@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0416",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220813361002",
+    "export_date": "2025-06-25",
+    "aes_option": "AES Filing",
+    "usppi_name": "International Jackson AG",
+    "usppi_ein": "07-0276411",
+    "usppi_address": "93048 Rodgers Mount Suite 504, South Amberburgh, TN 65713, Mexico",
+    "ultimate_consignee": "Harris International Pte Ltd",
+    "intermediate_consignee": "International Walker GmbH",
+    "forwarding_agent": "Global Bell Pte Ltd",
+    "destination_country": "Malaysia",
+    "carrier": "FedEx",
+    "bl_awb": "618-22431722",
+    "total_value": 268418.46,
+    "currency": "CAD",
+    "signatory": "Monique Brown",
+    "line_items": [
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "United Kingdom",
+        "qty": 262,
+        "unit": "PCS",
+        "entered_value": 100306.7,
+        "duty_rate": 14.5,
+        "duty_amount": 14544.47,
+        "eccn": "9A515",
+        "schedule_b": "3926.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Poland",
+        "qty": 424,
+        "unit": "KGS",
+        "entered_value": 168111.76,
+        "duty_rate": 4.2,
+        "duty_amount": 7060.69,
+        "eccn": "3A992",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

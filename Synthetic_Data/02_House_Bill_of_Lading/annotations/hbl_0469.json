@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0469",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU836419195",
+    "shipper_name": "Commerce Lewis Co.",
+    "shipper_address": "8108 Berry Drive Suite 819, Lindseyview, TX 27842, France",
+    "shipper_country": "France",
+    "consignee_name": "Freeman International AG",
+    "consignee_address": "85320 Joseph Knolls Suite 236, Codyborough, GA 38968, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party_name": "Cameron Global Pte Ltd",
+    "notify_party_address": "17745 Moore Haven Suite 849, South Jennifer, IL 29889, Thailand",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "841W",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2026-05-05",
+    "issue_place": "Qingdao",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "LATI4023287",
+        "seal_no": "SL976582",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "YOYM1709180",
+        "seal_no": "BL566485",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "UDFV9138277",
+        "seal_no": "CL265808",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 335,
+    "package_type": "Crate",
+    "gross_weight_kg": 7320.2,
+    "net_weight_kg": 6622.0,
+    "cbm": 27.631,
+    "marks_and_numbers": "ABC/26"
+  }
+}

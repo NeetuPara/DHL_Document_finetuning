@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0587",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Jones Co.",
+    "shipper_address": "18878 Lee Mill, East Crystalton, KS 71063, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Pacific Cox Corp.",
+    "consignee_address": "8449 Cardenas Lodge, Cochranside, OR 42598, Japan",
+    "consignee_country": "Japan",
+    "emergency_telephone": "+68 869-289-9323",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 47,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 74.67,
+        "qty_unit": "L",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-904569",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Dr. Lisa Brooks",
+    "signature_date": "2026-04-21",
+    "signature_place": "Italy",
+    "vessel": "MADRID MAERSK",
+    "voyage": "603E",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Busan, KR"
+  }
+}

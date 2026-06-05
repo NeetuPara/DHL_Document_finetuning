@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0635",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202104-7045",
+    "usppi_name": "Pacific Smith Inc.",
+    "usppi_address": "646 Ariel Keys Suite 216, Burgessshire, ME 92480, Italy",
+    "usppi_country": "Italy",
+    "ein": "23-6660179",
+    "consignee_name": "Commerce Garcia Inc.",
+    "consignee_address": "86075 Michael Rest, Campbellmouth, DE 68788, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Nelson Industry Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Bryan Wheeler",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/34",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 126,
+        "unit": "PCS",
+        "weight_kg": 18.08,
+        "value_usd": 5829.47
+      },
+      {
+        "marks": "SLI/3",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 158,
+        "unit": "LTR",
+        "weight_kg": 146.99,
+        "value_usd": 5844.23
+      }
+    ],
+    "total_weight_kg": 165.07,
+    "total_value_usd": 11673.7,
+    "service": "Ground",
+    "named_port": "Paris CDG",
+    "insurance_value_usd": 14220.93,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-960589",
+    "destination_country": "Netherlands"
+  }
+}

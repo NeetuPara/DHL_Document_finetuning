@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0303",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "James Macias",
+    "addressee_company": "Tech Ryan Inc.",
+    "addressee_address": "456 Ashley Skyway, Reginafurt, KS 17965, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 11.418,
+    "total_value": 3098.14,
+    "currency": "SGD",
+    "issue_date": "2025-06-25",
+    "reference": "REF-800418",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.192,
+        "value": 1069.68,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 8,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.35,
+        "value": 561.92,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 13,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.764,
+        "value": 514.54,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 7,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.112,
+        "value": 952.0,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Poland"
+      }
+    ],
+    "sender_country": "Belgium",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "691-70092106-7",
+    "entry_type": "Formal Entry",
+    "duty_rate": 13.6,
+    "estimated_duty": 421.35,
+    "importer_ein": "18-8730849",
+    "customs_broker": "Miller International Corp."
+  }
+}

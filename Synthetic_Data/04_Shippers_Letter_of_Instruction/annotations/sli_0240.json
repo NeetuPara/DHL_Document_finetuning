@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0240",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202107-5858",
+    "usppi_name": "Global Bradley AG",
+    "usppi_address": "Unit 9511 Box 8933, DPO AE 44535, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "96-8936479",
+    "consignee_name": "Global Banks AG",
+    "consignee_address": "090 Johnson River, Robbinsville, CO 28942, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Trade Higgins Pte Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Jennifer Stephens",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/26",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 95,
+        "unit": "PCS",
+        "weight_kg": 13.82,
+        "value_usd": 1796.63
+      },
+      {
+        "marks": "SLI/26",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 183,
+        "unit": "CTN",
+        "weight_kg": 607.57,
+        "value_usd": 2318.06
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 163,
+        "unit": "BOX",
+        "weight_kg": 165.61,
+        "value_usd": 9703.66
+      },
+      {
+        "marks": "ABC/13",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 20,
+        "unit": "KGS",
+        "weight_kg": 20.0,
+        "value_usd": 22.67
+      },
+      {
+        "marks": "EXP/31",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 153,
+        "unit": "KGS",
+        "weight_kg": 153.0,
+        "value_usd": 1996.36
+      },
+      {
+        "marks": "SLI/35",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 123,
+        "unit": "MTR",
+        "weight_kg": 79.48,
+        "value_usd": 2124.61
+      }
+    ],
+    "total_weight_kg": 1039.48,
+    "total_value_usd": 17961.99,
+    "vessel": "PIL PACIFIC",
+    "voyage": "568E",
+    "booking_ref": "BKG-350020",
+    "bl_number": "MAEU512366013",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Singapore, SG",
+    "container_number": "ZWXL4335066",
+    "seal_number": "SL853688",
+    "container_type": "40'GP",
+    "cbm": 47.143
+  }
+}

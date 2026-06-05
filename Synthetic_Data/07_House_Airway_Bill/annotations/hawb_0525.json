@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0525",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-90177348",
+    "mawb_number": "074-66777376",
+    "shipper_name": "Powers International Pte Ltd",
+    "shipper_address": "15646 Anderson Lodge Apt. 933, South Emilyview, AR 26544, Australia",
+    "consignee_name": "International Peterson Ltd",
+    "consignee_address": "5416 Anne Trafficway Suite 346, North Brian, MH 41599, Germany",
+    "agent_name": "Industry Ball Pte Ltd",
+    "airport_departure": "CDG",
+    "airport_destination": "SYD",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "SGD 36,091.75",
+    "declared_value_customs": "NCV",
+    "n_pieces": 9,
+    "gross_weight_kg": 51.1,
+    "chargeable_weight": 64.6,
+    "rate": 2.07,
+    "total_charge": 133.72,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "HANDLING CODE: PER",
+    "issue_date": "2025-12-03",
+    "signatory": "Kathy Wagner",
+    "iata_code": "86-896",
+    "agent_cass": "5081-4945",
+    "consolidation_ref": "CONS-6948-473077",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-46263623",
+        "pieces": 16,
+        "weight": 81.7,
+        "destination": "CDG",
+        "consignee": "Ramirez Tech Inc.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "618-49605304",
+        "pieces": 6,
+        "weight": 24.4,
+        "destination": "LAX",
+        "consignee": "Young Trade S.A.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "020-68040274",
+        "pieces": 7,
+        "weight": 92.6,
+        "destination": "SIN",
+        "consignee": "Commerce Bruce Inc.",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

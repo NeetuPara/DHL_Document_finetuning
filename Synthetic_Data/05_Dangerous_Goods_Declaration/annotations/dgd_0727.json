@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0727",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Werner Co.",
+    "shipper_address": "52073 Kenneth Court Apt. 189, Christineshire, MP 17630, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "International Gregory Co.",
+    "consignee_address": "Unit 9807 Box 5870, DPO AA 35833, China",
+    "consignee_country": "China",
+    "emergency_telephone": "+3 728-711-2052",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 26,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 12.74,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-131250",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 9,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 47.58,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-860122",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Matthew Johnston",
+    "signature_date": "2026-05-03",
+    "signature_place": "Spain",
+    "awb_number": "160-63473365",
+    "flight_number": "DL3334",
+    "flight_date": "2026-05-02",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong"
+  }
+}

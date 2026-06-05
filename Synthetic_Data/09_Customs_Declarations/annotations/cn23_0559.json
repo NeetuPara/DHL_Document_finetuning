@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0559",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Mark Gardner",
+    "addressee_company": "Walker International Pte Ltd",
+    "addressee_address": "800 Lutz Knolls, Port Noahmouth, MI 98087, India",
+    "addressee_country": "India",
+    "total_weight_kg": 12.988,
+    "total_value": 4441.34,
+    "currency": "USD",
+    "issue_date": "2026-04-04",
+    "reference": "REF-698039",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.542,
+        "value": 844.6,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 1,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.227,
+        "value": 100.08,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 12,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.093,
+        "value": 1290.48,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 11,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.012,
+        "value": 1258.84,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 6,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.468,
+        "value": 201.6,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 18,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.646,
+        "value": 745.74,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Christopher Ellis",
+    "sender_company": "International Colon B.V.",
+    "sender_address": "3892 Clark Junction, Lake Emily, NH 93091, Spain",
+    "sender_phone": "+1-461-699-3613",
+    "sender_email": "andreolson@example.org",
+    "addressee_phone": "941-755-9165",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 4885.47,
+    "postal_charges": 16.16,
+    "tracking_number": "XJ584787973EL"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0940",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Johnston GmbH",
+    "shipper_address": "24000 Matthew Forest Suite 375, Matthewburgh, NJ 07166, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Industry Young LLC",
+    "consignee_address": "1345 Laurie Drives Suite 771, West Keith, OH 56945, Brazil",
+    "consignee_country": "Brazil",
+    "emergency_telephone": "+77 776-851-2651",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 19,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 38.76,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-988894",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 31,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 54.88,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-390454",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Anthony Hernandez",
+    "signature_date": "2026-04-29",
+    "signature_place": "Sweden",
+    "awb_number": "160-73551350",
+    "flight_number": "SQ6875",
+    "flight_date": "2026-06-06",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "JFK",
+    "destination_airport_name": "JFK New York"
+  }
+}

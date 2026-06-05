@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0627",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Daniel Clark",
+    "addressee_company": "Global Obrien Co.",
+    "addressee_address": "844 John Radial, Moorebury, LA 29891, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 14.329,
+    "total_value": 3702.08,
+    "currency": "EUR",
+    "issue_date": "2026-04-15",
+    "reference": "REF-585735",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.006,
+        "value": 1527.52,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 19,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.066,
+        "value": 1181.99,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 16,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.927,
+        "value": 700.8,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 1,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.828,
+        "value": 88.05,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 4,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.502,
+        "value": 203.72,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_country": "United States",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "582-83402290-4",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 0.0,
+    "estimated_duty": 0.0,
+    "importer_ein": "23-5739269",
+    "customs_broker": "Pacific Gonzalez LLC"
+  }
+}

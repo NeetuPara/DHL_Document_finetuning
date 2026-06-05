@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0927",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202501-3375",
+    "usppi_name": "Commerce Salazar Ltd",
+    "usppi_address": "65971 Brewer Drive, Barberstad, SC 62469, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "88-4897624",
+    "consignee_name": "Industry Wilkins S.A.",
+    "consignee_address": "845 Moore Vista Suite 596, Valeriestad, SD 77009, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Trade Oliver B.V.",
+    "forwarder": "Panalpina",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Brett Larson",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/30",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 159,
+        "unit": "PCS",
+        "weight_kg": 21.2,
+        "value_usd": 3015.45
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 46,
+        "unit": "PCS",
+        "weight_kg": 6.09,
+        "value_usd": 7211.26
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 137,
+        "unit": "CTN",
+        "weight_kg": 386.18,
+        "value_usd": 1541.8
+      }
+    ],
+    "total_weight_kg": 413.47,
+    "total_value_usd": 11768.51,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "723W",
+    "booking_ref": "BKG-399283",
+    "bl_number": "YMLU310436320",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Tokyo, JP",
+    "container_number": "KZVT1957515",
+    "seal_number": "SL746321",
+    "container_type": "40'GP",
+    "cbm": 25.459
+  }
+}

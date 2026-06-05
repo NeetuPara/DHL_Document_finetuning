@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0978",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-43309308",
+    "mawb_number": "176-44044409",
+    "shipper_name": "Greene Tech Co.",
+    "shipper_address": "1655 Harvey Locks Apt. 296, South Hunter, WA 54571, Poland",
+    "consignee_name": "Nguyen Industry S.A.",
+    "consignee_address": "986 Malone Village Apt. 144, Cunninghamchester, AS 65817, Hong Kong",
+    "agent_name": "Commerce Murray LLC",
+    "airport_departure": "HKG",
+    "airport_destination": "ORD",
+    "currency": "JPY",
+    "charge_code": "PP",
+    "declared_value_carriage": "EUR 4,947.87",
+    "declared_value_customs": "AED 47,985.71",
+    "n_pieces": 31,
+    "gross_weight_kg": 305.4,
+    "chargeable_weight": 336.8,
+    "rate": 2.56,
+    "total_charge": 862.21,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-11-29",
+    "signatory": "Alexandra Irwin",
+    "iata_code": "41-151",
+    "agent_cass": "6601-5879",
+    "consolidation_ref": "CONS-8186-065285",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-87934788",
+        "pieces": 11,
+        "weight": 61.2,
+        "destination": "PVG",
+        "consignee": "Garza Commerce Ltd",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "006-92509656",
+        "pieces": 14,
+        "weight": 47.9,
+        "destination": "LAX",
+        "consignee": "Trade Leach Corp.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "006-17530686",
+        "pieces": 9,
+        "weight": 16.3,
+        "destination": "ORD",
+        "consignee": "Gonzalez International Pte Ltd",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "125-26157863",
+        "pieces": 13,
+        "weight": 86.8,
+        "destination": "SYD",
+        "consignee": "Trade Daniel Pte Ltd",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0389",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20230829714453",
+    "export_date": "2026-02-05",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Pacific Wall AG",
+    "usppi_ein": "66-4850707",
+    "usppi_address": "6335 Hector Street, East Tarafort, OH 43715, United States",
+    "ultimate_consignee": "Trade Martinez B.V.",
+    "intermediate_consignee": "Brandt Commerce S.A.",
+    "forwarding_agent": "House Industry Inc.",
+    "destination_country": "France",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "618-71493282",
+    "total_value": 59205.91,
+    "currency": "CNY",
+    "signatory": "Sabrina Ayala",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Malaysia",
+        "qty": 266,
+        "unit": "CTN",
+        "entered_value": 55663.16,
+        "duty_rate": 10.6,
+        "duty_amount": 5900.29,
+        "eccn": "2B350",
+        "schedule_b": "9018.31.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Mexico",
+        "qty": 185,
+        "unit": "PCS",
+        "entered_value": 3542.75,
+        "duty_rate": 3.0,
+        "duty_amount": 106.28,
+        "eccn": "5E992",
+        "schedule_b": "9002.11.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

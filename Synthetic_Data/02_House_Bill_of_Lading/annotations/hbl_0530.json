@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0530",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU903701532",
+    "shipper_name": "Wells Global Ltd",
+    "shipper_address": "16761 Crawford Village Suite 484, Justinfurt, AZ 62832, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Nguyen Global B.V.",
+    "consignee_address": "2387 Scott Ville, Port Brittanyland, SC 49457, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "Mason International AG",
+    "notify_party_address": "33825 Kimberly Island Apt. 773, Cindyport, IA 18552, India",
+    "vessel": "MSC OSCAR",
+    "voyage": "127E",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2026-03-11",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "OFEO1105388",
+        "seal_no": "CL530484",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "SMSA6393474",
+        "seal_no": "BL445289",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "AVBN7328185",
+        "seal_no": "SL714426",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "TWRF2131200",
+        "seal_no": "BL621878",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 332,
+    "package_type": "Crate",
+    "gross_weight_kg": 21428.5,
+    "net_weight_kg": 20774.9,
+    "cbm": 26.304,
+    "marks_and_numbers": "XYZ/3"
+  }
+}

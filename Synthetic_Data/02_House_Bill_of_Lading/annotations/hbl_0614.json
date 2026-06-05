@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0614",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU212058818",
+    "shipper_name": "International Wu AG",
+    "shipper_address": "71305 Kirsten Junction Suite 922, Salinasberg, HI 85524, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "International Taylor GmbH",
+    "consignee_address": "38044 Waller Stream, Carrollland, AL 84770, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "Industry Davis Pte Ltd",
+    "notify_party_address": "29721 Melissa Groves, Brendabury, MN 61335, India",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "706W",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2024-11-18",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "XORB8054149",
+        "seal_no": "SL130323",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "OVME7873335",
+        "seal_no": "CL456732",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "SXNU3506165",
+        "seal_no": "CL839300",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "IGHR6626525",
+        "seal_no": "CL282787",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 128,
+    "package_type": "Drum",
+    "gross_weight_kg": 7688.6,
+    "net_weight_kg": 6958.0,
+    "cbm": 8.048,
+    "marks_and_numbers": "ABC/14"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0470",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210219182381",
+    "export_date": "2025-05-30",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Global Carter AG",
+    "usppi_ein": "65-7554223",
+    "usppi_address": "9532 Mitchell Bridge, North Tiffany, MD 11382, Sweden",
+    "ultimate_consignee": "Park Pacific Corp.",
+    "intermediate_consignee": "International Adams Inc.",
+    "forwarding_agent": "Long Commerce Ltd",
+    "destination_country": "United Kingdom",
+    "carrier": "DHL Express",
+    "bl_awb": "020-86961990",
+    "total_value": 338786.91,
+    "currency": "SGD",
+    "signatory": "Monica Zuniga",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Singapore",
+        "qty": 453,
+        "unit": "PCS",
+        "entered_value": 69105.15,
+        "duty_rate": 7.4,
+        "duty_amount": 5113.78,
+        "eccn": "3A992",
+        "schedule_b": "8483.40.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "China",
+        "qty": 81,
+        "unit": "LTR",
+        "entered_value": 34895.61,
+        "duty_rate": 1.5,
+        "duty_amount": 523.43,
+        "eccn": "0A919",
+        "schedule_b": "2901.10.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Thailand",
+        "qty": 8,
+        "unit": "CTN",
+        "entered_value": 1397.12,
+        "duty_rate": 18.8,
+        "duty_amount": 262.66,
+        "eccn": "9A515",
+        "schedule_b": "4819.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "South Korea",
+        "qty": 228,
+        "unit": "PCS",
+        "entered_value": 61678.56,
+        "duty_rate": 5.0,
+        "duty_amount": 3083.93,
+        "eccn": "0A919",
+        "schedule_b": "8534.00.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "China",
+        "qty": 409,
+        "unit": "MTR",
+        "entered_value": 171710.47,
+        "duty_rate": 6.2,
+        "duty_amount": 10646.05,
+        "eccn": "1A002",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

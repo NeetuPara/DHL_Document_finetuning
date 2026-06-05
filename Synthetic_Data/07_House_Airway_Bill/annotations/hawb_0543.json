@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0543",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-41664848",
+    "mawb_number": "074-39169029",
+    "shipper_name": "Lyons Tech B.V.",
+    "shipper_address": "2608 Brett Throughway, Cortezstad, KY 02340, Germany",
+    "consignee_name": "International Hurst LLC",
+    "consignee_address": "8858 Julie Shoal Suite 002, Bautistaport, SC 26534, Spain",
+    "agent_name": "Global Riggs Ltd",
+    "airport_departure": "SYD",
+    "airport_destination": "DXB",
+    "currency": "AUD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "GBP 5,972.59",
+    "n_pieces": 17,
+    "gross_weight_kg": 448.7,
+    "chargeable_weight": 553.7,
+    "rate": 5.99,
+    "total_charge": 3316.66,
+    "nature_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-08-31",
+    "signatory": "James Miller",
+    "iata_code": "19-609",
+    "agent_cass": "0032-7567",
+    "consolidation_ref": "CONS-6618-024431",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-55712830",
+        "pieces": 14,
+        "weight": 62.1,
+        "destination": "HKG",
+        "consignee": "Tech Palmer AG",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "020-39586767",
+        "pieces": 5,
+        "weight": 2.4,
+        "destination": "DXB",
+        "consignee": "Tech Stokes GmbH",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "160-40499061",
+        "pieces": 17,
+        "weight": 28.1,
+        "destination": "FRA",
+        "consignee": "Richmond Industry GmbH",
+        "description": "Steel Products - Hot Rolled Coils"
+      }
+    ]
+  }
+}

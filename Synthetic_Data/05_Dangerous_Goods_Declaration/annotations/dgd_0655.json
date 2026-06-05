@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0655",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Kramer Co.",
+    "shipper_address": "5526 Lisa Isle Apt. 092, Johnsonside, SD 54801, France",
+    "shipper_country": "France",
+    "consignee_name": "Global Cox AG",
+    "consignee_address": "205 Cindy Cape Apt. 364, North Earl, TX 03169, Mexico",
+    "consignee_country": "Mexico",
+    "emergency_telephone": "+11 385-765-3892",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 27,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 74.31,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-490407",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Gloria Long",
+    "signature_date": "2026-04-25",
+    "signature_place": "France",
+    "awb_number": "160-16621015",
+    "flight_number": "QR2870",
+    "flight_date": "2026-06-09",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson"
+  }
+}

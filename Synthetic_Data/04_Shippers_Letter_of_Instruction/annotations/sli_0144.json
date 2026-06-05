@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0144",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202601-1899",
+    "usppi_name": "Bender Tech Co.",
+    "usppi_address": "62289 Lopez Heights Suite 270, New Stephanieview, GA 98493, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "15-9787830",
+    "consignee_name": "Commerce Braun GmbH",
+    "consignee_address": "9287 Baker Circles Suite 101, Lake Stephanie, VI 80232, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Tate International S.A.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Katherine Rios",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/12",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 11,
+        "unit": "PCS",
+        "weight_kg": 59.76,
+        "value_usd": 8165.65
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 126,
+        "unit": "PKG",
+        "weight_kg": 160.3,
+        "value_usd": 10602.1
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 162,
+        "unit": "MTR",
+        "weight_kg": 181.27,
+        "value_usd": 2439.12
+      },
+      {
+        "marks": "EXP/28",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 166,
+        "unit": "BOX",
+        "weight_kg": 132.46,
+        "value_usd": 18922.29
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 165,
+        "unit": "CTN",
+        "weight_kg": 479.76,
+        "value_usd": 508.01
+      },
+      {
+        "marks": "ABC/7",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 150,
+        "unit": "PCS",
+        "weight_kg": 67.76,
+        "value_usd": 8633.8
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 125,
+        "unit": "LTR",
+        "weight_kg": 123.01,
+        "value_usd": 2936.41
+      }
+    ],
+    "total_weight_kg": 1204.32,
+    "total_value_usd": 52207.38,
+    "vessel": "MADRID MAERSK",
+    "voyage": "502E",
+    "booking_ref": "BKG-973405",
+    "bl_number": "DHLG561694139",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Busan, KR",
+    "container_number": "AFPF3741598",
+    "seal_number": "BL870310",
+    "container_type": "45'HC",
+    "cbm": 65.471
+  }
+}

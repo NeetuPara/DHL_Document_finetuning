@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0249",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jessica Baker",
+    "addressee_company": "Global Carter Ltd",
+    "addressee_address": "Unit 8628 Box 0993, DPO AE 25993, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 13.727,
+    "total_value": 2714.08,
+    "currency": "AUD",
+    "issue_date": "2026-01-27",
+    "reference": "REF-501275",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.198,
+        "value": 538.4,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 6,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.506,
+        "value": 217.8,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 18,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.65,
+        "value": 1030.14,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 11,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.373,
+        "value": 927.74,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_country": "Brazil",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "335-47087787-3",
+    "entry_type": "Formal Entry",
+    "duty_rate": 13.8,
+    "estimated_duty": 374.54,
+    "importer_ein": "24-8849903",
+    "customs_broker": "Industry Stout Inc."
+  }
+}

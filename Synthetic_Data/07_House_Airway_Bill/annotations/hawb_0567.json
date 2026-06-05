@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0567",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-59502860",
+    "mawb_number": "020-22350669",
+    "shipper_name": "Trade Hernandez Pte Ltd",
+    "shipper_address": "633 David Point, Port Nicole, AK 26670, Brazil",
+    "consignee_name": "Commerce Ross B.V.",
+    "consignee_address": "3373 Wanda Turnpike, West Mary, ME 29914, Canada",
+    "agent_name": "Ramsey Trade AG",
+    "airport_departure": "AMS",
+    "airport_destination": "DXB",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "USD 23,676.69",
+    "declared_value_customs": "CHF 32,198.76",
+    "n_pieces": 38,
+    "gross_weight_kg": 138.4,
+    "chargeable_weight": 158.3,
+    "rate": 7.19,
+    "total_charge": 1138.18,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-11-05",
+    "signatory": "Rita Joyce",
+    "iata_code": "87-210",
+    "agent_cass": "0029-6050",
+    "consolidation_ref": "CONS-6207-141231",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-98250263",
+        "pieces": 7,
+        "weight": 81.2,
+        "destination": "CDG",
+        "consignee": "Welch Industry GmbH",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "045-36146701",
+        "pieces": 13,
+        "weight": 65.9,
+        "destination": "MIA",
+        "consignee": "Industry Edwards S.A.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "085-26091774",
+        "pieces": 14,
+        "weight": 60.6,
+        "destination": "PVG",
+        "consignee": "Lewis Commerce GmbH",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "020-29261371",
+        "pieces": 8,
+        "weight": 74.9,
+        "destination": "DXB",
+        "consignee": "Clarke Tech S.A.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "074-38456882",
+        "pieces": 7,
+        "weight": 75.1,
+        "destination": "LHR",
+        "consignee": "International French Inc.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "074-57158822",
+        "pieces": 11,
+        "weight": 10.1,
+        "destination": "CDG",
+        "consignee": "Gordon Tech AG",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "006-55300415",
+        "pieces": 18,
+        "weight": 30.1,
+        "destination": "HKG",
+        "consignee": "Pearson Pacific Inc.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

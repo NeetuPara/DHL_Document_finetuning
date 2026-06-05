@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0400",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202107-7968",
+    "usppi_name": "Trade Wheeler GmbH",
+    "usppi_address": "4092 Washington Center, South Danachester, RI 70714, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "52-8729667",
+    "consignee_name": "Commerce Summers Pte Ltd",
+    "consignee_address": "68280 Kerry Grove Apt. 557, Williamsmouth, VI 86004, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Butler Trade B.V.",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Jeffrey Green",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/36",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 195,
+        "unit": "BOX",
+        "weight_kg": 333.91,
+        "value_usd": 18662.79
+      },
+      {
+        "marks": "SLI/26",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 102,
+        "unit": "KGS",
+        "weight_kg": 102.0,
+        "value_usd": 1996.06
+      },
+      {
+        "marks": "SLI/33",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 167,
+        "unit": "KGS",
+        "weight_kg": 167.0,
+        "value_usd": 197.15
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 132,
+        "unit": "CTN",
+        "weight_kg": 92.44,
+        "value_usd": 1921.8
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 82,
+        "unit": "PCS",
+        "weight_kg": 9.53,
+        "value_usd": 4324.21
+      }
+    ],
+    "total_weight_kg": 704.88,
+    "total_value_usd": 27102.01,
+    "service": "Ground",
+    "named_port": "Amsterdam Schiphol",
+    "insurance_value_usd": 45958.7,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-825116",
+    "destination_country": "Australia"
+  }
+}

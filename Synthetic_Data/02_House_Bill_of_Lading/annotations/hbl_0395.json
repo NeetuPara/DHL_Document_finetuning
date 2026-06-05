@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0395",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG596841689",
+    "shipper_name": "Industry Thompson S.A.",
+    "shipper_address": "594 William Glen, West Nicoleberg, OH 37003, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "International Mcknight B.V.",
+    "consignee_address": "57618 Smith Fields Apt. 992, South Kyle, MS 52929, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party_name": "International Roman GmbH",
+    "notify_party_address": "PSC 0100, Box 6817, APO AE 55403, Belgium",
+    "vessel": "MSC OSCAR",
+    "voyage": "384S",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2024-07-28",
+    "issue_place": "New York",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "TUEL4147926",
+        "seal_no": "SL855918",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "OQVX6006670",
+        "seal_no": "BL491828",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "TETQ3531867",
+        "seal_no": "CL496231",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "IGXW5788497",
+        "seal_no": "SL331520",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 86,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 2428.2,
+    "net_weight_kg": 2176.0,
+    "cbm": 9.653,
+    "marks_and_numbers": "GLB/24"
+  }
+}

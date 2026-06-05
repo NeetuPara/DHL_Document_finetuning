@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0339",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202211-9759",
+    "usppi_name": "Webb Tech Corp.",
+    "usppi_address": "9037 Troy Light, Cortezmouth, TX 79067, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "36-7775633",
+    "consignee_name": "Larsen International LLC",
+    "consignee_address": "56364 Weaver Field, Johnmouth, GA 20524, France",
+    "consignee_country": "France",
+    "notify_party": "International Reeves GmbH",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Taylor Roberson",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/4",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 9,
+        "unit": "LTR",
+        "weight_kg": 9.3,
+        "value_usd": 295.45
+      },
+      {
+        "marks": "EXP/38",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 142,
+        "unit": "PKG",
+        "weight_kg": 90.07,
+        "value_usd": 6691.55
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 13,
+        "unit": "PCS",
+        "weight_kg": 262.07,
+        "value_usd": 1188.11
+      },
+      {
+        "marks": "ABC/7",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 20,
+        "unit": "BOX",
+        "weight_kg": 7.18,
+        "value_usd": 1445.42
+      }
+    ],
+    "total_weight_kg": 368.62,
+    "total_value_usd": 9620.53,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "542E",
+    "booking_ref": "BKG-127054",
+    "bl_number": "EGLV799951719",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Felixstowe, GB",
+    "container_number": "TLZK9965262",
+    "seal_number": "SL662046",
+    "container_type": "40'HC",
+    "cbm": 14.075
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0880",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202511-1099",
+    "usppi_name": "Global Bryant Inc.",
+    "usppi_address": "334 Willis Spring Suite 958, New Terry, MT 54520, Germany",
+    "usppi_country": "Germany",
+    "ein": "50-2107678",
+    "consignee_name": "Perry Commerce Co.",
+    "consignee_address": "8887 Wendy Mills Suite 944, Emilyton, AR 72005, France",
+    "consignee_country": "France",
+    "notify_party": "Kemp Global Inc.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Amanda Rivera",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/9",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 64,
+        "unit": "PCS",
+        "weight_kg": 34.55,
+        "value_usd": 160.61
+      },
+      {
+        "marks": "ABC/12",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 92,
+        "unit": "PCS",
+        "weight_kg": 22.74,
+        "value_usd": 5705.27
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 35,
+        "unit": "KGS",
+        "weight_kg": 35.0,
+        "value_usd": 389.48
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 159,
+        "unit": "CTN",
+        "weight_kg": 267.98,
+        "value_usd": 389.81
+      }
+    ],
+    "total_weight_kg": 360.27,
+    "total_value_usd": 6645.17,
+    "service": "Express Courier",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 16922.24,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-392939",
+    "destination_country": "France"
+  }
+}

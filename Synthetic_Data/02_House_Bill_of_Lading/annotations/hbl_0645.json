@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0645",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU777189378",
+    "shipper_name": "Jones International Pte Ltd",
+    "shipper_address": "Unit 7787 Box 1925, DPO AP 52157, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Tech Jordan AG",
+    "consignee_address": "5233 Blackwell Plaza Apt. 571, West Teresaland, CO 09633, India",
+    "consignee_country": "India",
+    "notify_party_name": "Miller Tech AG",
+    "notify_party_address": "878 Mcdonald Place Apt. 882, Port Brian, AS 68795, Switzerland",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "484E",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "Tanjung Pelepas, MY",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2024-05-28",
+    "issue_place": "Tanjung Pelepas",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "LPYE1285736",
+        "seal_no": "BL126230",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "QBTK7068161",
+        "seal_no": "SL922819",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "KMKT1272181",
+        "seal_no": "BL819040",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 225,
+    "package_type": "Case",
+    "gross_weight_kg": 15434.7,
+    "net_weight_kg": 13821.2,
+    "cbm": 17.097,
+    "marks_and_numbers": "XYZ/3"
+  }
+}

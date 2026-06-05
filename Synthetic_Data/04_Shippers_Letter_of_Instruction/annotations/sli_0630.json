@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0630",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202504-9474",
+    "usppi_name": "Pacific Hutchinson Corp.",
+    "usppi_address": "1055 Austin Station, South Tracyton, PA 98023, Canada",
+    "usppi_country": "Canada",
+    "ein": "13-3158598",
+    "consignee_name": "International Lopez S.A.",
+    "consignee_address": "647 Ronald Inlet, Hernandezborough, MA 40415, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Garcia International B.V.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Ashley Avery",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/45",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 65,
+        "unit": "PCS",
+        "weight_kg": 1422.0,
+        "value_usd": 17332.94
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 198,
+        "unit": "MTR",
+        "weight_kg": 69.04,
+        "value_usd": 991.63
+      },
+      {
+        "marks": "SLI/12",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 139,
+        "unit": "KGS",
+        "weight_kg": 139.0,
+        "value_usd": 210.47
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 23,
+        "unit": "CTN",
+        "weight_kg": 29.73,
+        "value_usd": 1817.28
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 177,
+        "unit": "PCS",
+        "weight_kg": 96.73,
+        "value_usd": 2047.09
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 58,
+        "unit": "SET",
+        "weight_kg": 131.36,
+        "value_usd": 7066.93
+      }
+    ],
+    "total_weight_kg": 1887.86,
+    "total_value_usd": 29466.34,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "786E",
+    "booking_ref": "BKG-437304",
+    "bl_number": "DHLG454245176",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Hong Kong, HK",
+    "container_number": "TSXT4796886",
+    "seal_number": "BL740161",
+    "container_type": "40'GP",
+    "cbm": 14.377
+  }
+}

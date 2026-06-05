@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0414",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Munoz Global Ltd",
+    "shipper_address": "USCGC Dunn, FPO AP 30841, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Kennedy Tech Co.",
+    "consignee_address": "56391 Lane Pine, West Karentown, UT 22581, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+42 400-782-3921",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 38,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 46.47,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-538529",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Paul Barker",
+    "signature_date": "2026-05-11",
+    "signature_place": "South Korea",
+    "awb_number": "020-98388016",
+    "flight_number": "EK4663",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

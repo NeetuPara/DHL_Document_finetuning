@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0921",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU701411742",
+    "shipper_name": "Howell Global Inc.",
+    "shipper_address": "1272 Hunter Crest Apt. 323, New Bethany, MH 01286, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Francis Trade Co.",
+    "consignee_address": "12953 Lisa Turnpike Apt. 403, Lake Jessica, NY 48064, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party_name": "Perez Tech Pte Ltd",
+    "notify_party_address": "609 Derek Squares, Williamston, SC 93386, Japan",
+    "vessel": "CSCL GLOBE",
+    "voyage": "416N",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Los Angeles, US",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2025-01-30",
+    "issue_place": "Los Angeles",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "NHQQ7107987",
+        "seal_no": "BL201554",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "FWXZ6621061",
+        "seal_no": "CL331735",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "OIHR9013382",
+        "seal_no": "BL576359",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "ODDW4152933",
+        "seal_no": "SL547548",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 406,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 8081.4,
+    "net_weight_kg": 7347.3,
+    "cbm": 35.745,
+    "marks_and_numbers": "XYZ/43"
+  }
+}

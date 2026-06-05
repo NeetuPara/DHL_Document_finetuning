@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0628",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202601-6907",
+    "usppi_name": "Pacific Parker S.A.",
+    "usppi_address": "67085 Sandra Prairie, Port Sheilastad, CT 93632, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "95-1182712",
+    "consignee_name": "Commerce Rivers Inc.",
+    "consignee_address": "8538 Blake Curve Suite 721, Derrickmouth, MI 58160, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Perry International Inc.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Ronald Weber",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/48",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 80,
+        "unit": "CTN",
+        "weight_kg": 96.08,
+        "value_usd": 737.86
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 41,
+        "unit": "KGS",
+        "weight_kg": 41.0,
+        "value_usd": 61.67
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 37,
+        "unit": "KGS",
+        "weight_kg": 37.0,
+        "value_usd": 341.93
+      },
+      {
+        "marks": "SLI/26",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 104,
+        "unit": "PKG",
+        "weight_kg": 78.0,
+        "value_usd": 7001.48
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 68,
+        "unit": "BOX",
+        "weight_kg": 72.65,
+        "value_usd": 2072.31
+      },
+      {
+        "marks": "SLI/27",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 121,
+        "unit": "PCS",
+        "weight_kg": 161.34,
+        "value_usd": 65042.44
+      }
+    ],
+    "total_weight_kg": 486.07,
+    "total_value_usd": 75257.69,
+    "service": "Ocean Freight",
+    "named_port": "Busan, KR",
+    "insurance_value_usd": 19184.54,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Canada"
+  }
+}

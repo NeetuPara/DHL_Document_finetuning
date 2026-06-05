@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0392",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Casey Industry GmbH",
+    "shipper_address": "847 Roberto Groves, Jacobhaven, HI 53370, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Barnett International Corp.",
+    "consignee_address": "39677 Wilson Neck Suite 985, New Brianfort, HI 27987, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+14 666-887-4688",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 42,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 42.0,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-418511",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Jeffrey Fowler",
+    "signature_date": "2026-05-09",
+    "signature_place": "South Korea",
+    "vessel": "MSC GULSUN",
+    "voyage": "314S",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Antwerp, BE"
+  }
+}

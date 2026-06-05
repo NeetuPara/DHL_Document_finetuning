@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0966",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-32351446",
+    "mawb_number": "057-32715069",
+    "shipper_name": "Moore Commerce Pte Ltd",
+    "shipper_address": "6788 Terry Burg, Emilyville, VT 62752, United Kingdom",
+    "consignee_name": "Trade Calhoun GmbH",
+    "consignee_address": "704 Roberson Meadows, Port Jenniferchester, WY 98033, Singapore",
+    "agent_name": "Tech Henson LLC",
+    "airport_departure": "DXB",
+    "airport_destination": "LAX",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "SGD 40,124.35",
+    "declared_value_customs": "AUD 12,989.40",
+    "n_pieces": 25,
+    "gross_weight_kg": 18.9,
+    "chargeable_weight": 21.3,
+    "rate": 10.03,
+    "total_charge": 213.64,
+    "nature_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "handling_info": "TEMP CONTROLLED: 4\u00b0C - 25\u00b0C",
+    "issue_date": "2026-01-07",
+    "signatory": "Kathy Williams",
+    "iata_code": "51-843",
+    "agent_cass": "2056-7055",
+    "consolidation_ref": "CONS-9908-964539",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-30869192",
+        "pieces": 11,
+        "weight": 73.1,
+        "destination": "ICN",
+        "consignee": "Pacific Walker S.A.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "074-69328878",
+        "pieces": 19,
+        "weight": 98.6,
+        "destination": "NRT",
+        "consignee": "Commerce Anderson S.A.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "125-23537571",
+        "pieces": 9,
+        "weight": 72.8,
+        "destination": "YYZ",
+        "consignee": "Tech White AG",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "125-54403680",
+        "pieces": 16,
+        "weight": 16.0,
+        "destination": "SYD",
+        "consignee": "Williams Pacific GmbH",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

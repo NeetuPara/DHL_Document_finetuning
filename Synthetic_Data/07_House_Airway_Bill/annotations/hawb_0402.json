@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0402",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-64832944",
+    "mawb_number": "074-32750290",
+    "shipper_name": "Day Global Co.",
+    "shipper_address": "7106 Davis Ports, Robertfurt, MH 76073, Belgium",
+    "consignee_name": "International Moreno Ltd",
+    "consignee_address": "1797 Perry Motorway, West Lisa, AR 69820, Switzerland",
+    "agent_name": "Ayers Global GmbH",
+    "airport_departure": "SYD",
+    "airport_destination": "NRT",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "GBP 45,907.61",
+    "n_pieces": 17,
+    "gross_weight_kg": 411.1,
+    "chargeable_weight": 484.3,
+    "rate": 7.67,
+    "total_charge": 3714.58,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-08-23",
+    "signatory": "Charles Hill",
+    "iata_code": "60-884",
+    "agent_cass": "3341-3808",
+    "consolidation_ref": "CONS-5097-574079",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-88332730",
+        "pieces": 10,
+        "weight": 41.5,
+        "destination": "AMS",
+        "consignee": "Wilkins Industry GmbH",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "176-79669221",
+        "pieces": 13,
+        "weight": 96.5,
+        "destination": "DXB",
+        "consignee": "Global Cardenas Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "176-68981052",
+        "pieces": 16,
+        "weight": 5.0,
+        "destination": "SYD",
+        "consignee": "Global Beltran S.A.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "006-86887574",
+        "pieces": 12,
+        "weight": 52.1,
+        "destination": "JFK",
+        "consignee": "Duran Tech AG",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

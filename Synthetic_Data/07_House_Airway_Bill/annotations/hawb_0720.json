@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0720",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-49662376",
+    "mawb_number": "020-75437326",
+    "shipper_name": "Grant Tech Co.",
+    "shipper_address": "315 Jessica Track, Castillochester, SC 35821, Sweden",
+    "consignee_name": "International Hanna LLC",
+    "consignee_address": "6218 Katherine Rapids Apt. 954, Donaldville, AR 50536, India",
+    "agent_name": "Marquez Tech AG",
+    "airport_departure": "SYD",
+    "airport_destination": "LHR",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "AUD 29,000.77",
+    "declared_value_customs": "NCV",
+    "n_pieces": 3,
+    "gross_weight_kg": 269.2,
+    "chargeable_weight": 274.4,
+    "rate": 7.41,
+    "total_charge": 2033.3,
+    "nature_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-10-15",
+    "signatory": "Victoria Black MD",
+    "iata_code": "36-511",
+    "agent_cass": "4579-2202",
+    "consolidation_ref": "CONS-7470-550662",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-49761860",
+        "pieces": 18,
+        "weight": 89.7,
+        "destination": "LAX",
+        "consignee": "Industry Simmons Pte Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "618-58145150",
+        "pieces": 18,
+        "weight": 20.6,
+        "destination": "NRT",
+        "consignee": "Pacific Trujillo Inc.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "618-84968816",
+        "pieces": 20,
+        "weight": 59.4,
+        "destination": "SIN",
+        "consignee": "Scott Trade LLC",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "045-48834828",
+        "pieces": 14,
+        "weight": 30.9,
+        "destination": "CDG",
+        "consignee": "Lawrence Pacific Pte Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "045-70529045",
+        "pieces": 2,
+        "weight": 26.4,
+        "destination": "DXB",
+        "consignee": "Commerce Williams Inc.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "176-53275998",
+        "pieces": 5,
+        "weight": 91.7,
+        "destination": "SIN",
+        "consignee": "Global Gibson Co.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "125-99619574",
+        "pieces": 1,
+        "weight": 49.4,
+        "destination": "HKG",
+        "consignee": "Gordon Trade Inc.",
+        "description": "Rubber Goods - Industrial Seals and"
+      }
+    ]
+  }
+}

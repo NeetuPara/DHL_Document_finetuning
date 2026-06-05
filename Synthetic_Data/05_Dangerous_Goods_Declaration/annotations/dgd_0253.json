@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0253",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Ross AG",
+    "shipper_address": "923 Mooney Mission Apt. 368, Jamesbury, KS 73252, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Global Daniels AG",
+    "consignee_address": "7588 Rodriguez Glens, Fritzburgh, ID 56292, Poland",
+    "consignee_country": "Poland",
+    "emergency_telephone": "+77 863-476-5904",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 19,
+        "pkg_type": "Steel Drum",
+        "net_qty": 7.34,
+        "qty_unit": "L",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-227322",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 15,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 18.67,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-517906",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "James Holland",
+    "signature_date": "2026-05-04",
+    "signature_place": "South Korea",
+    "awb_number": "618-56664352",
+    "flight_number": "CX9167",
+    "flight_date": "2026-05-04",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "SYD",
+    "destination_airport_name": "Sydney Kingsford Smith"
+  }
+}

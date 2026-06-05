@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0973",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202211-3472",
+    "usppi_name": "Chen International Corp.",
+    "usppi_address": "0922 Barnes Drive Suite 174, Anthonyburgh, NJ 07376, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "78-2605993",
+    "consignee_name": "Smith Tech Inc.",
+    "consignee_address": "52173 Natalie Stream, East Lisa, MP 42481, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Farrell Pacific B.V.",
+    "forwarder": "Panalpina",
+    "incoterm": "CIP",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "James Shepard",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/2",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 190,
+        "unit": "BOX",
+        "weight_kg": 62.46,
+        "value_usd": 18695.42
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 115,
+        "unit": "PKG",
+        "weight_kg": 174.97,
+        "value_usd": 6499.71
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 168,
+        "unit": "KGS",
+        "weight_kg": 168.0,
+        "value_usd": 1877.82
+      },
+      {
+        "marks": "SLI/35",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 58,
+        "unit": "PCS",
+        "weight_kg": 567.68,
+        "value_usd": 18538.65
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 116,
+        "unit": "KGS",
+        "weight_kg": 116.0,
+        "value_usd": 130.83
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 162,
+        "unit": "PCS",
+        "weight_kg": 10.9,
+        "value_usd": 6221.46
+      },
+      {
+        "marks": "SLI/33",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 105,
+        "unit": "LTR",
+        "weight_kg": 107.04,
+        "value_usd": 1492.29
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 146,
+        "unit": "CTN",
+        "weight_kg": 315.24,
+        "value_usd": 470.53
+      }
+    ],
+    "total_weight_kg": 1522.29,
+    "total_value_usd": 53926.71,
+    "service": "Ocean Freight",
+    "named_port": "Antwerp, BE",
+    "insurance_value_usd": 17274.53,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-663148",
+    "destination_country": "South Korea"
+  }
+}

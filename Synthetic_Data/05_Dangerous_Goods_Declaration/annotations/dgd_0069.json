@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0069",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Jackson Ltd",
+    "shipper_address": "730 Kelly Mill Apt. 834, North Ginashire, TN 73555, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Commerce Freeman S.A.",
+    "consignee_address": "486 Alexander Rapid Apt. 931, Toddshire, WV 58768, Switzerland",
+    "consignee_country": "Switzerland",
+    "emergency_telephone": "+81 294-252-5621",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 19,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 31.62,
+        "qty_unit": "kg",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-517325",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Debra Coffey",
+    "signature_date": "2026-05-06",
+    "signature_place": "Japan",
+    "awb_number": "125-55487972",
+    "flight_number": "DL2056",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

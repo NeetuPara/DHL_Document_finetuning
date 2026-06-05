@@ -1,0 +1,50 @@
+{
+  "packet_id": "packet_0711",
+  "total_pages": 4,
+  "n_documents": 4,
+  "class_sequence": [
+    "Dangerous Goods Declaration",
+    "Commercial Invoice",
+    "Packing List",
+    "House Airway Bill"
+  ],
+  "documents": [
+    {
+      "doc_class": "Dangerous Goods Declaration",
+      "class_index": 5,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "dgd_0971.pdf",
+      "source_class_folder": "05_Dangerous_Goods_Declaration"
+    },
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "commercial_invoice_0987.pdf",
+      "source_class_folder": "01_Commercial_Invoice"
+    },
+    {
+      "doc_class": "Packing List",
+      "class_index": 8,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "packing_list_0854.pdf",
+      "source_class_folder": "08_Packing_List"
+    },
+    {
+      "doc_class": "House Airway Bill",
+      "class_index": 7,
+      "page_start": 4,
+      "page_end": 4,
+      "n_pages": 1,
+      "source_file": "hawb_0859.pdf",
+      "source_class_folder": "07_House_Airway_Bill"
+    }
+  ],
+  "task": "splitting"
+}

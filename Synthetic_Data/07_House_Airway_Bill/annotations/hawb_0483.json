@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0483",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-54074654",
+    "mawb_number": "020-35123931",
+    "shipper_name": "Jones Industry S.A.",
+    "shipper_address": "8680 Andrew Mountain Suite 656, Teresahaven, HI 06740, Belgium",
+    "consignee_name": "Pacific Zimmerman B.V.",
+    "consignee_address": "426 Huang Square Apt. 187, Anthonymouth, OR 90011, Spain",
+    "agent_name": "Trade Benton Ltd",
+    "airport_departure": "HKG",
+    "airport_destination": "LAX",
+    "currency": "USD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "AED 29,904.09",
+    "n_pieces": 11,
+    "gross_weight_kg": 168.0,
+    "chargeable_weight": 193.9,
+    "rate": 8.19,
+    "total_charge": 1588.04,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "TEMP CONTROLLED: 6\u00b0C - 19\u00b0C",
+    "issue_date": "2026-03-27",
+    "signatory": "Benjamin Walters",
+    "iata_code": "55-660",
+    "agent_cass": "0000-2882",
+    "consolidation_ref": "CONS-7558-442219",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-80233587",
+        "pieces": 1,
+        "weight": 21.1,
+        "destination": "SIN",
+        "consignee": "Global Smith Corp.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "125-24177689",
+        "pieces": 12,
+        "weight": 55.4,
+        "destination": "NRT",
+        "consignee": "Trade Fox AG",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "085-75323910",
+        "pieces": 20,
+        "weight": 56.7,
+        "destination": "JFK",
+        "consignee": "Malone Industry LLC",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "618-53675855",
+        "pieces": 9,
+        "weight": 8.2,
+        "destination": "MIA",
+        "consignee": "Pacific Taylor AG",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "160-84267313",
+        "pieces": 5,
+        "weight": 32.0,
+        "destination": "ICN",
+        "consignee": "Terry Tech S.A.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "618-60452342",
+        "pieces": 5,
+        "weight": 63.8,
+        "destination": "PVG",
+        "consignee": "Tech Gilbert AG",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

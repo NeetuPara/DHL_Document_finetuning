@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0605",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG139454338",
+    "shipper_name": "Hammond Tech AG",
+    "shipper_address": "26096 Joe Ports, Hollymouth, ID 97772, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Wilson Global S.A.",
+    "consignee_address": "8195 Tina Skyway Apt. 242, Petermouth, GU 79810, India",
+    "consignee_country": "India",
+    "notify_party_name": "Williams Global AG",
+    "notify_party_address": "6626 Katelyn Dam, East Matthew, NY 31107, South Korea",
+    "vessel": "YANG MING MYTH",
+    "voyage": "270E",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2025-08-01",
+    "issue_place": "Qingdao",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "JGWT3838352",
+        "seal_no": "CL661824",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "PSXA7642328",
+        "seal_no": "SL619272",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "QBEZ7523591",
+        "seal_no": "SL896212",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "number_of_packages": 466,
+    "package_type": "Bundle",
+    "gross_weight_kg": 11334.7,
+    "net_weight_kg": 10626.9,
+    "cbm": 47.999,
+    "marks_and_numbers": "XYZ/40"
+  }
+}

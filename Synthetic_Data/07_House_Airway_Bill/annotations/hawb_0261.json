@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0261",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-81635279",
+    "mawb_number": "618-18609886",
+    "shipper_name": "Daniels Tech S.A.",
+    "shipper_address": "7127 Moyer Island, North Stephenhaven, NE 47226, Italy",
+    "consignee_name": "Wood Trade Ltd",
+    "consignee_address": "769 Wells Flats, Paulbury, OR 16901, Sweden",
+    "agent_name": "Industry Miranda Ltd",
+    "airport_departure": "MIA",
+    "airport_destination": "LHR",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CAD 37,319.16",
+    "n_pieces": 31,
+    "gross_weight_kg": 104.7,
+    "chargeable_weight": 109.2,
+    "rate": 8.71,
+    "total_charge": 951.13,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-09-20",
+    "signatory": "Caitlyn Patterson",
+    "iata_code": "11-878",
+    "agent_cass": "4211-3637",
+    "consolidation_ref": "CONS-3056-467420",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-19085244",
+        "pieces": 16,
+        "weight": 76.2,
+        "destination": "FRA",
+        "consignee": "Pacific Brown Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "176-68286020",
+        "pieces": 15,
+        "weight": 75.6,
+        "destination": "MIA",
+        "consignee": "Ferrell Global AG",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "020-18695273",
+        "pieces": 2,
+        "weight": 33.5,
+        "destination": "HKG",
+        "consignee": "Tech Franklin Ltd",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "020-74019460",
+        "pieces": 9,
+        "weight": 49.0,
+        "destination": "DXB",
+        "consignee": "Tech Duran GmbH",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "176-18021994",
+        "pieces": 15,
+        "weight": 26.6,
+        "destination": "SYD",
+        "consignee": "Conway Global S.A.",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

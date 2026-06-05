@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0479",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Johnson Inc.",
+    "shipper_address": "USS Murray, FPO AA 13122, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "International Campbell Inc.",
+    "consignee_address": "90154 Lisa Alley, Sanchezview, KY 08757, Mexico",
+    "consignee_country": "Mexico",
+    "emergency_telephone": "+77 416-247-9144",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 16,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 18.48,
+        "qty_unit": "L",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 48,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 43.4,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Robert Avila",
+    "signature_date": "2026-05-10",
+    "signature_place": "Canada",
+    "vessel": "CSCL GLOBE",
+    "voyage": "221W",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Felixstowe, GB"
+  }
+}

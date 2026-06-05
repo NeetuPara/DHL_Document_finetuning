@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0939",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202602-5634",
+    "usppi_name": "Grant Global LLC",
+    "usppi_address": "01113 Cowan Pike Apt. 229, West Eileenchester, NE 61067, Germany",
+    "usppi_country": "Germany",
+    "ein": "75-1062020",
+    "consignee_name": "Morrison Tech Pte Ltd",
+    "consignee_address": "1005 Kenneth Lodge, Ryanfort, LA 77046, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Ross Tech S.A.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Tara Pearson",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/46",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 54,
+        "unit": "BOX",
+        "weight_kg": 48.21,
+        "value_usd": 4385.67
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 138,
+        "unit": "PCS",
+        "weight_kg": 59.38,
+        "value_usd": 23160.58
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 50,
+        "unit": "PCS",
+        "weight_kg": 73.74,
+        "value_usd": 1094.17
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 59,
+        "unit": "CTN",
+        "weight_kg": 123.26,
+        "value_usd": 1450.48
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 160,
+        "unit": "KGS",
+        "weight_kg": 160.0,
+        "value_usd": 114.22
+      }
+    ],
+    "total_weight_kg": 464.59,
+    "total_value_usd": 30205.12,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "317W",
+    "booking_ref": "BKG-716810",
+    "bl_number": "EGLV636799858",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "UMND7705508",
+    "seal_number": "SL608035",
+    "container_type": "45'HC",
+    "cbm": 35.562
+  }
+}

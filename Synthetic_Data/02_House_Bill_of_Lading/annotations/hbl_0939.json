@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0939",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV463785790",
+    "shipper_name": "Trade Jones GmbH",
+    "shipper_address": "263 Sarah Neck, East Jamesview, IL 28181, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Commerce Giles Co.",
+    "consignee_address": "54042 William Streets Suite 587, Strongfurt, IL 83072, France",
+    "consignee_country": "France",
+    "notify_party_name": "Pacific Vega Inc.",
+    "notify_party_address": "684 Rodgers Throughway, Wilsonside, MN 26957, Australia",
+    "vessel": "ONE INNOVATION",
+    "voyage": "676N",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2024-11-20",
+    "issue_place": "Los Angeles",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "JIEY4353845",
+        "seal_no": "BL628117",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "CTPX2854419",
+        "seal_no": "SL866188",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "WRFD8817860",
+        "seal_no": "CL772623",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "JRJN3541591",
+        "seal_no": "CL446649",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "number_of_packages": 299,
+    "package_type": "Roll",
+    "gross_weight_kg": 6810.4,
+    "net_weight_kg": 6471.2,
+    "cbm": 34.177,
+    "marks_and_numbers": "ABC/21"
+  }
+}

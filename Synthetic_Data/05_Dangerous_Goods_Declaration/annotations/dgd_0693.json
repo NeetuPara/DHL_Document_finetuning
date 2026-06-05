@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0693",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Wiggins Pacific GmbH",
+    "shipper_address": "635 Ashley Ridge Apt. 830, New Patrickport, MA 03451, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Moore Trade S.A.",
+    "consignee_address": "637 Ellen Springs Apt. 405, Lake Sharonberg, NY 63197, Brazil",
+    "consignee_country": "Brazil",
+    "emergency_telephone": "+11 218-977-5620",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 15,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 27.22,
+        "qty_unit": "g",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-695087",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Tony Mcbride",
+    "signature_date": "2026-04-28",
+    "signature_place": "Spain",
+    "awb_number": "085-58536322",
+    "flight_number": "DL3754",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

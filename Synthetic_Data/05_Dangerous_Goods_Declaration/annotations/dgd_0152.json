@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0152",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Patton Corp.",
+    "shipper_address": "57079 Justin Flat, South Aliciaton, VT 81283, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Industry Hanna Corp.",
+    "consignee_address": "60654 Anthony Trail Suite 809, Charleshaven, MA 35560, Mexico",
+    "consignee_country": "Mexico",
+    "emergency_telephone": "+54 296-488-6434",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 21,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 31.0,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Joanna Vega",
+    "signature_date": "2026-04-16",
+    "signature_place": "United Kingdom",
+    "vessel": "CSCL GLOBE",
+    "voyage": "632W",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Hong Kong, HK"
+  }
+}

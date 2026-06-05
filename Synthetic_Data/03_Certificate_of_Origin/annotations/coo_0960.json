@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0960",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202208-9973",
+    "exporter_name": "Smith International B.V.",
+    "exporter_address": "29383 Mitchell Skyway Apt. 093, Williamfort, DC 24671, China",
+    "exporter_country": "China",
+    "consignee_name": "Commerce Smith Inc.",
+    "consignee_address": "PSC 4775, Box 7022, APO AE 98817, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "country_of_origin": "China",
+    "country_of_destination": "United Arab Emirates",
+    "bl_or_awb": "074-96044844",
+    "issue_date": "2025-12-11",
+    "certifier_name": "Robert Miller",
+    "goods": [
+      {
+        "description": "Plastic Products - Injection Moulded Components",
+        "hs_code": "3926.90.00",
+        "qty": 287,
+        "unit": "PCS",
+        "weight_kg": 121.65,
+        "origin_criterion": "E",
+        "value": 725.77
+      },
+      {
+        "description": "Optical Equipment - Camera Lenses",
+        "hs_code": "9002.11.00",
+        "qty": 167,
+        "unit": "PCS",
+        "weight_kg": 115.51,
+        "origin_criterion": "F",
+        "value": 123178.65
+      },
+      {
+        "description": "Steel Products - Hot Rolled Coils",
+        "hs_code": "7208.37.00",
+        "qty": 321,
+        "unit": "KGS",
+        "weight_kg": 321.0,
+        "origin_criterion": "B",
+        "value": 742.69
+      }
+    ],
+    "fta_agreement": "UK-Australia FTA",
+    "chamber": "Board of Trade"
+  }
+}

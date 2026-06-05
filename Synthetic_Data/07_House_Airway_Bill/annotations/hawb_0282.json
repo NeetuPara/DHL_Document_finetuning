@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0282",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-46107479",
+    "mawb_number": "085-11510824",
+    "shipper_name": "Trade Lopez AG",
+    "shipper_address": "Unit 1149 Box 4433, DPO AP 70484, India",
+    "consignee_name": "Pennington Trade B.V.",
+    "consignee_address": "PSC 8290, Box 5751, APO AP 83932, Australia",
+    "agent_name": "Pacific Simpson Ltd",
+    "airport_departure": "AMS",
+    "airport_destination": "SIN",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "USD 15,118.34",
+    "declared_value_customs": "NCV",
+    "n_pieces": 46,
+    "gross_weight_kg": 297.2,
+    "chargeable_weight": 358.0,
+    "rate": 2.12,
+    "total_charge": 758.96,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "HANDLING CODE: DGR",
+    "issue_date": "2025-11-07",
+    "signatory": "Gary Young",
+    "iata_code": "19-200",
+    "agent_cass": "1247-5678",
+    "consolidation_ref": "CONS-2735-492363",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-28601934",
+        "pieces": 4,
+        "weight": 26.8,
+        "destination": "JFK",
+        "consignee": "Trade Brown B.V.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "176-46964032",
+        "pieces": 7,
+        "weight": 63.9,
+        "destination": "MIA",
+        "consignee": "Cortez Commerce LLC",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "125-18363668",
+        "pieces": 15,
+        "weight": 84.8,
+        "destination": "MIA",
+        "consignee": "Kaiser Industry AG",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "045-69309708",
+        "pieces": 2,
+        "weight": 34.6,
+        "destination": "PVG",
+        "consignee": "International Long GmbH",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "006-34061037",
+        "pieces": 11,
+        "weight": 11.6,
+        "destination": "ICN",
+        "consignee": "Global Perez GmbH",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "176-49016221",
+        "pieces": 13,
+        "weight": 87.0,
+        "destination": "FRA",
+        "consignee": "Trade Henderson Inc.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "160-33025892",
+        "pieces": 11,
+        "weight": 53.5,
+        "destination": "NRT",
+        "consignee": "Lopez Global Corp.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "057-57230268",
+        "pieces": 4,
+        "weight": 84.0,
+        "destination": "MIA",
+        "consignee": "Trade Dunn Pte Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      }
+    ]
+  }
+}

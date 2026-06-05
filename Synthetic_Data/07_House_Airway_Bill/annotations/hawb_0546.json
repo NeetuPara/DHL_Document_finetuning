@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0546",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-34939979",
+    "mawb_number": "074-47790281",
+    "shipper_name": "Lane Tech S.A.",
+    "shipper_address": "270 Sullivan Haven Apt. 227, Christopherburgh, IA 59780, Canada",
+    "consignee_name": "Industry Nelson Co.",
+    "consignee_address": "54849 Booth Mews, Scottport, AK 09631, United States",
+    "agent_name": "Chavez Commerce B.V.",
+    "airport_departure": "LHR",
+    "airport_destination": "ORD",
+    "currency": "AUD",
+    "charge_code": "CC",
+    "declared_value_carriage": "AED 28,510.09",
+    "declared_value_customs": "NCV",
+    "n_pieces": 13,
+    "gross_weight_kg": 467.4,
+    "chargeable_weight": 597.6,
+    "rate": 3.41,
+    "total_charge": 2037.82,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-02-21",
+    "signatory": "Xavier Johnson",
+    "iata_code": "58-391",
+    "agent_cass": "1885-8075",
+    "consolidation_ref": "CONS-1495-797254",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-74949721",
+        "pieces": 6,
+        "weight": 65.7,
+        "destination": "ORD",
+        "consignee": "Flores Pacific Inc.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "618-72697125",
+        "pieces": 17,
+        "weight": 71.0,
+        "destination": "ORD",
+        "consignee": "Anderson Pacific AG",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "057-67649941",
+        "pieces": 19,
+        "weight": 91.6,
+        "destination": "NRT",
+        "consignee": "Pacific Hale Ltd",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

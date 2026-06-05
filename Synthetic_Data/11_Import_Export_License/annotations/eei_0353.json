@@ -1,0 +1,103 @@
+{
+  "document_id": "eei_0353",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20200713016459",
+    "export_date": "2025-08-05",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Tech Bray Co.",
+    "usppi_ein": "89-4362498",
+    "usppi_address": "342 Brown Loop, Port Monica, RI 53601, China",
+    "ultimate_consignee": "Industry Gonzalez Co.",
+    "intermediate_consignee": "Griffin Industry AG",
+    "forwarding_agent": "Cannon Trade Ltd",
+    "destination_country": "Netherlands",
+    "carrier": "Maersk",
+    "bl_awb": "125-74910644",
+    "total_value": 559728.24,
+    "currency": "SGD",
+    "signatory": "Jeff Davis",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Canada",
+        "qty": 435,
+        "unit": "PCS",
+        "entered_value": 8539.05,
+        "duty_rate": 2.6,
+        "duty_amount": 222.02,
+        "eccn": "9A515",
+        "schedule_b": "8483.40.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "United States",
+        "qty": 442,
+        "unit": "LTR",
+        "entered_value": 203775.26,
+        "duty_rate": 1.8,
+        "duty_amount": 3667.95,
+        "eccn": "5E992",
+        "schedule_b": "2901.10.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Japan",
+        "qty": 227,
+        "unit": "SET",
+        "entered_value": 40978.04,
+        "duty_rate": 0.5,
+        "duty_amount": 204.89,
+        "eccn": "5E992",
+        "schedule_b": "8708.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Singapore",
+        "qty": 443,
+        "unit": "PCS",
+        "entered_value": 206043.73,
+        "duty_rate": 20.5,
+        "duty_amount": 42238.96,
+        "eccn": "7A994",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Singapore",
+        "qty": 275,
+        "unit": "KGS",
+        "entered_value": 55220.0,
+        "duty_rate": 10.6,
+        "duty_amount": 5853.32,
+        "eccn": "1A002",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Switzerland",
+        "qty": 164,
+        "unit": "KGS",
+        "entered_value": 45172.16,
+        "duty_rate": 6.3,
+        "duty_amount": 2845.85,
+        "eccn": "7A994",
+        "schedule_b": "7208.37.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

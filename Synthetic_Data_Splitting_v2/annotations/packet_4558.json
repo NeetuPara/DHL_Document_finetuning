@@ -1,0 +1,81 @@
+{
+  "packet_id": "packet_4558",
+  "total_pages": 8,
+  "n_documents": 7,
+  "class_sequence": [
+    "House Bill of Lading",
+    "Import/Export License",
+    "Verified Gross Mass",
+    "Power of Attorney",
+    "Cargo Manifest",
+    "Cargo Manifest",
+    "Commercial Invoice"
+  ],
+  "task": "splitting",
+  "note": "is_multipage_doc=true means consecutive pages are CONTINUATION of same document instance.",
+  "documents": [
+    {
+      "doc_class": "House Bill of Lading",
+      "class_index": 2,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "hbl_0014.pdf"
+    },
+    {
+      "doc_class": "Import/Export License",
+      "class_index": 11,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "eei_0401.pdf"
+    },
+    {
+      "doc_class": "Verified Gross Mass",
+      "class_index": 6,
+      "page_start": 3,
+      "page_end": 4,
+      "n_pages": 2,
+      "is_multipage_doc": true,
+      "source_file": "vgm_mp_0178.pdf"
+    },
+    {
+      "doc_class": "Power of Attorney",
+      "class_index": 12,
+      "page_start": 5,
+      "page_end": 5,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "poa_0580.pdf"
+    },
+    {
+      "doc_class": "Cargo Manifest",
+      "class_index": 10,
+      "page_start": 6,
+      "page_end": 6,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "manifest_0079.pdf"
+    },
+    {
+      "doc_class": "Cargo Manifest",
+      "class_index": 10,
+      "page_start": 7,
+      "page_end": 7,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "manifest_0888.pdf"
+    },
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 8,
+      "page_end": 8,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "commercial_invoice_0210.pdf"
+    }
+  ]
+}

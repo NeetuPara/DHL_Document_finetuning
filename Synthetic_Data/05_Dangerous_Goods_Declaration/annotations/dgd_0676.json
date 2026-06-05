@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0676",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Davis Commerce Ltd",
+    "shipper_address": "411 Cody Ports Suite 900, Jimmychester, VT 85718, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Trade Castillo Pte Ltd",
+    "consignee_address": "05442 Turner Turnpike Apt. 337, New Karen, NY 58062, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+92 378-883-1390",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 13,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 16.15,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-988289",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 45,
+        "pkg_type": "Steel Drum",
+        "net_qty": 52.98,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Erika Pugh",
+    "signature_date": "2026-05-05",
+    "signature_place": "Mexico",
+    "awb_number": "618-40266933",
+    "flight_number": "LH5211",
+    "flight_date": "2026-04-18",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "LHR",
+    "destination_airport_name": "London Heathrow"
+  }
+}

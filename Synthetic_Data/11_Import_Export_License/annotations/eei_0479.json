@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0479",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20230614375676",
+    "export_date": "2025-06-22",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Tech Gonzales S.A.",
+    "usppi_ein": "02-8043264",
+    "usppi_address": "57791 Joseph Hollow Suite 294, Melissamouth, AK 83075, Mexico",
+    "ultimate_consignee": "Rodriguez Industry S.A.",
+    "intermediate_consignee": "Quinn Industry Corp.",
+    "forwarding_agent": "Freeman Commerce LLC",
+    "destination_country": "Switzerland",
+    "carrier": "UPS",
+    "bl_awb": "045-29082003",
+    "total_value": 260156.4,
+    "currency": "CNY",
+    "signatory": "Laura Sanchez",
+    "line_items": [
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Canada",
+        "qty": 320,
+        "unit": "SET",
+        "entered_value": 136364.8,
+        "duty_rate": 13.2,
+        "duty_amount": 18000.15,
+        "eccn": "0A919",
+        "schedule_b": "8708.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Malaysia",
+        "qty": 406,
+        "unit": "MTR",
+        "entered_value": 42995.4,
+        "duty_rate": 20.0,
+        "duty_amount": 8599.08,
+        "eccn": "3A992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Mexico",
+        "qty": 133,
+        "unit": "PCS",
+        "entered_value": 4254.67,
+        "duty_rate": 7.0,
+        "duty_amount": 297.83,
+        "eccn": "2B350",
+        "schedule_b": "8534.00.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Australia",
+        "qty": 171,
+        "unit": "KGS",
+        "entered_value": 56958.39,
+        "duty_rate": 20.2,
+        "duty_amount": 11505.59,
+        "eccn": "EAR99",
+        "schedule_b": "2008.19.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Brazil",
+        "qty": 214,
+        "unit": "CTN",
+        "entered_value": 19583.14,
+        "duty_rate": 10.7,
+        "duty_amount": 2095.4,
+        "eccn": "0A919",
+        "schedule_b": "4819.10.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

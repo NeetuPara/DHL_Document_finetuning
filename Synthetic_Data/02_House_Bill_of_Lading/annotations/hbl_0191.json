@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0191",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU568252832",
+    "shipper_name": "Commerce Rivera AG",
+    "shipper_address": "45391 Gonzalez Village, North Brendan, PR 85703, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Richards Pacific Pte Ltd",
+    "consignee_address": "21002 Michael Branch Apt. 179, West Christineville, VA 81979, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "Rodriguez Industry B.V.",
+    "notify_party_address": "4104 Allen Cliff Apt. 869, Lake Erik, DC 76922, Switzerland",
+    "vessel": "MSC OSCAR",
+    "voyage": "208E",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2024-05-16",
+    "issue_place": "Shanghai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "APMN5761260",
+        "seal_no": "SL103210",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "FHNX3993203",
+        "seal_no": "BL470995",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "KGQW2679804",
+        "seal_no": "CL620378",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "AQFD2807566",
+        "seal_no": "BL378729",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "number_of_packages": 302,
+    "package_type": "Carton",
+    "gross_weight_kg": 14728.3,
+    "net_weight_kg": 13572.6,
+    "cbm": 29.164,
+    "marks_and_numbers": "XYZ/3"
+  }
+}

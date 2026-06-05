@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0187",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU354717370",
+    "shipper_name": "Brown International Inc.",
+    "shipper_address": "8896 Sean Locks, Port Raymond, TN 10839, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Anderson International Co.",
+    "consignee_address": "79744 Nicole Trail, West Tylerhaven, ME 26223, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party_name": "Industry Mcneil Inc.",
+    "notify_party_address": "321 Scott Bridge Suite 147, Munozborough, GU 01190, Poland",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "274N",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Qingdao, CN",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Qingdao, CN",
+    "issue_date": "2025-06-09",
+    "issue_place": "Los Angeles",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "HYAC8755555",
+        "seal_no": "CL909606",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "YHYX8383560",
+        "seal_no": "CL440705",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "LTLJ0892730",
+        "seal_no": "CL179783",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "NSXL3569170",
+        "seal_no": "CL163086",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 288,
+    "package_type": "Crate",
+    "gross_weight_kg": 3368.7,
+    "net_weight_kg": 3088.2,
+    "cbm": 13.067,
+    "marks_and_numbers": "XYZ/48"
+  }
+}

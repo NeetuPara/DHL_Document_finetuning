@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0148",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "353-88615692-6",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2025-05-30",
+    "port_of_entry": "JFK - New York",
+    "transport_mode": "Hand-Carried",
+    "carrier": "MSC",
+    "bl_awb": "045-24491712",
+    "importer_name": "Pacific Newton S.A.",
+    "importer_ein": "11-6405355",
+    "consignee_name": "Collins Global Ltd",
+    "customs_broker": "Pacific Johnson S.A.",
+    "broker_filer_code": "grT",
+    "country_of_origin": "Singapore",
+    "total_value": 117360.37,
+    "total_duty": 16862.77,
+    "currency": "GBP",
+    "signatory": "Jill Hickman",
+    "signatory_title": "Trade Finance Manager",
+    "line_items": [
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Malaysia",
+        "qty": 343,
+        "unit": "PCS",
+        "entered_value": 89876.29,
+        "duty_rate": 13.9,
+        "duty_amount": 12492.8,
+        "eccn": "5E992",
+        "schedule_b": "8534.00.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Canada",
+        "qty": 156,
+        "unit": "KGS",
+        "entered_value": 27484.08,
+        "duty_rate": 15.9,
+        "duty_amount": 4369.97,
+        "eccn": "5E992",
+        "schedule_b": "2008.19.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

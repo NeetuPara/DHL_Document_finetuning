@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0986",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202407-7520",
+    "usppi_name": "Global Taylor LLC",
+    "usppi_address": "14952 Robin Ford Apt. 827, South Zacharystad, OR 33305, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "88-6095506",
+    "consignee_name": "Pacific Taylor AG",
+    "consignee_address": "832 Pope Street Apt. 332, Judithside, VI 21710, United States",
+    "consignee_country": "United States",
+    "notify_party": "Fernandez Tech S.A.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CFR",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "2B350",
+    "signatory_name": "Jenna Guzman DDS",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/33",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 76,
+        "unit": "PCS",
+        "weight_kg": 24.64,
+        "value_usd": 193.76
+      },
+      {
+        "marks": "ABC/2",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 62,
+        "unit": "BOX",
+        "weight_kg": 50.58,
+        "value_usd": 864.88
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 78,
+        "unit": "MTR",
+        "weight_kg": 77.55,
+        "value_usd": 271.03
+      },
+      {
+        "marks": "EXP/22",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 167,
+        "unit": "CTN",
+        "weight_kg": 122.52,
+        "value_usd": 853.82
+      },
+      {
+        "marks": "SLI/20",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 192,
+        "unit": "KGS",
+        "weight_kg": 192.0,
+        "value_usd": 3393.29
+      },
+      {
+        "marks": "EXP/50",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 157,
+        "unit": "KGS",
+        "weight_kg": 157.0,
+        "value_usd": 243.94
+      }
+    ],
+    "total_weight_kg": 624.29,
+    "total_value_usd": 5820.72,
+    "service": "Ground",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 6543.52,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-617483",
+    "destination_country": "United States"
+  }
+}

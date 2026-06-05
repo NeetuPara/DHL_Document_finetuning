@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0719",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Davis Tech AG",
+    "shipper_address": "922 Kimberly Stravenue, West Michael, GA 77786, Malaysia",
+    "shipper_country": "Malaysia",
+    "container_number": "HJBQ1056146",
+    "seal_number": "CL541878",
+    "container_size": "20'GP",
+    "iso_type_code": "22G0",
+    "tare_weight_kg": 2200,
+    "cargo_weight_kg": 15972.3,
+    "packing_materials_kg": 120.7,
+    "vgm_kg": 18293.0,
+    "vessel": "YANG MING MYTH",
+    "voyage": "481N",
+    "bl_number": "COSU989268346",
+    "booking_reference": "BKG-796359",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-94140",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-26",
+    "signature_date": "2026-05-08",
+    "signatory_name": "Edwin Martin",
+    "signatory_title": "Operations Director",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Drum",
+        "n_units": 20,
+        "gross_wt_kg": 1573.4
+      },
+      {
+        "item_no": 2,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Bundle",
+        "n_units": 2,
+        "gross_wt_kg": 2523.4
+      },
+      {
+        "item_no": 3,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Drum",
+        "n_units": 19,
+        "gross_wt_kg": 1976.0
+      },
+      {
+        "item_no": 4,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Bag",
+        "n_units": 5,
+        "gross_wt_kg": 1039.8
+      },
+      {
+        "item_no": 5,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Crate",
+        "n_units": 20,
+        "gross_wt_kg": 8859.7
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "document_id": "vgm_0275",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Tran Trade GmbH",
+    "shipper_address": "1366 Johnson Mountains, South Jay, NH 84448, Singapore",
+    "shipper_country": "Singapore",
+    "container_number": "NNRO1464535",
+    "seal_number": "SL822597",
+    "container_size": "40'RF",
+    "iso_type_code": "42R1",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 11054.3,
+    "packing_materials_kg": 167.9,
+    "vgm_kg": 16022.2,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "785E",
+    "bl_number": "DHLG940279178",
+    "booking_reference": "BKG-149315",
+    "weighing_scale_type": "Certified Electronic Scale",
+    "scale_serial": "Unit-75710",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-15",
+    "signature_date": "2026-05-11",
+    "signatory_name": "Jeff Castro",
+    "signatory_title": "Export Manager",
+    "number_of_packages": 6,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Case",
+        "n_units": 10,
+        "gross_wt_kg": 1130.3
+      },
+      {
+        "item_no": 2,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Bundle",
+        "n_units": 18,
+        "gross_wt_kg": 1806.4
+      },
+      {
+        "item_no": 3,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Pallet",
+        "n_units": 3,
+        "gross_wt_kg": 113.1
+      },
+      {
+        "item_no": 4,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Crate",
+        "n_units": 15,
+        "gross_wt_kg": 963.2
+      },
+      {
+        "item_no": 5,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Cylinder",
+        "n_units": 2,
+        "gross_wt_kg": 614.3
+      },
+      {
+        "item_no": 6,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Crate",
+        "n_units": 15,
+        "gross_wt_kg": 6427.0
+      }
+    ]
+  }
+}

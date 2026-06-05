@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0202",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202510-6887",
+    "usppi_name": "Commerce Mueller Inc.",
+    "usppi_address": "USNV Carlson, FPO AP 96592, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "23-2634128",
+    "consignee_name": "Ellis Tech Inc.",
+    "consignee_address": "Unit 4199 Box 9165, DPO AE 64447, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Young Global GmbH",
+    "forwarder": "Panalpina",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5A002",
+    "signatory_name": "Jacob Robinson",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/21",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 66,
+        "unit": "CTN",
+        "weight_kg": 72.18,
+        "value_usd": 5131.65
+      },
+      {
+        "marks": "ABC/15",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 83,
+        "unit": "PCS",
+        "weight_kg": 14.99,
+        "value_usd": 11311.14
+      },
+      {
+        "marks": "SLI/23",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 27,
+        "unit": "PCS",
+        "weight_kg": 32.51,
+        "value_usd": 773.33
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 176,
+        "unit": "KGS",
+        "weight_kg": 176.0,
+        "value_usd": 260.65
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 34,
+        "unit": "PCS",
+        "weight_kg": 390.05,
+        "value_usd": 26003.2
+      },
+      {
+        "marks": "SLI/34",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 37,
+        "unit": "PKG",
+        "weight_kg": 39.07,
+        "value_usd": 2121.72
+      }
+    ],
+    "total_weight_kg": 724.8,
+    "total_value_usd": 45601.69,
+    "service": "Express Courier",
+    "named_port": "Frankfurt Airport",
+    "insurance_value_usd": 2668.5,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-851860",
+    "destination_country": "Japan"
+  }
+}

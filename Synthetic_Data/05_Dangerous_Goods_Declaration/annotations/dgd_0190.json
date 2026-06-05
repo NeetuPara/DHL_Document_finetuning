@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0190",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Douglas Corp.",
+    "shipper_address": "88716 Merritt Common Apt. 982, Edwardhaven, PW 18750, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Gallagher Tech GmbH",
+    "consignee_address": "450 Joshua Freeway Suite 188, Jonathanton, NC 29171, Switzerland",
+    "consignee_country": "Switzerland",
+    "emergency_telephone": "+22 544-776-4328",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 18,
+        "pkg_type": "Steel Drum",
+        "net_qty": 42.27,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-168824",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Jennifer Hall",
+    "signature_date": "2026-05-07",
+    "signature_place": "Sweden",
+    "awb_number": "176-32252578",
+    "flight_number": "CX1552",
+    "flight_date": "2026-04-21",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "SYD",
+    "destination_airport_name": "Sydney Kingsford Smith"
+  }
+}

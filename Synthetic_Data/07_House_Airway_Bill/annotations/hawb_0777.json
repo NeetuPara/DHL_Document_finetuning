@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0777",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-23539800",
+    "mawb_number": "176-73492689",
+    "shipper_name": "International Diaz Pte Ltd",
+    "shipper_address": "0402 Hartman Court, North Matthew, ID 53204, Netherlands",
+    "consignee_name": "Jones Commerce GmbH",
+    "consignee_address": "3290 Nathaniel Garden, Allenmouth, MI 99136, Switzerland",
+    "agent_name": "Global Humphrey Co.",
+    "airport_departure": "JFK",
+    "airport_destination": "LHR",
+    "currency": "CNY",
+    "charge_code": "CC",
+    "declared_value_carriage": "CNY 40,403.98",
+    "declared_value_customs": "EUR 27,254.92",
+    "n_pieces": 35,
+    "gross_weight_kg": 275.2,
+    "chargeable_weight": 296.8,
+    "rate": 1.56,
+    "total_charge": 463.01,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "HANDLING CODE: AVI",
+    "issue_date": "2025-08-11",
+    "signatory": "Nathan Taylor",
+    "iata_code": "20-131",
+    "agent_cass": "8470-9041",
+    "consolidation_ref": "CONS-9812-943701",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-63697813",
+        "pieces": 4,
+        "weight": 81.6,
+        "destination": "ICN",
+        "consignee": "Lopez Trade Ltd",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "160-78326621",
+        "pieces": 5,
+        "weight": 24.2,
+        "destination": "PVG",
+        "consignee": "Villegas Industry Pte Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "006-95439384",
+        "pieces": 20,
+        "weight": 40.3,
+        "destination": "FRA",
+        "consignee": "Mercado Trade Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "074-71950855",
+        "pieces": 20,
+        "weight": 69.3,
+        "destination": "SIN",
+        "consignee": "Rodriguez Pacific S.A.",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0702",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-94320270",
+    "mawb_number": "618-73522057",
+    "shipper_name": "Industry Murphy Inc.",
+    "shipper_address": "11357 Zachary Glen Suite 156, East Monicabury, SC 01736, Poland",
+    "consignee_name": "Blake Industry AG",
+    "consignee_address": "PSC 2984, Box 5394, APO AP 42871, United Arab Emirates",
+    "agent_name": "Anderson Trade LLC",
+    "airport_departure": "FRA",
+    "airport_destination": "CDG",
+    "currency": "GBP",
+    "charge_code": "PP",
+    "declared_value_carriage": "GBP 31,625.10",
+    "declared_value_customs": "AED 14,920.43",
+    "n_pieces": 10,
+    "gross_weight_kg": 3.6,
+    "chargeable_weight": 3.8,
+    "rate": 8.22,
+    "total_charge": 31.24,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "TEMP CONTROLLED: 3\u00b0C - 21\u00b0C",
+    "issue_date": "2025-08-31",
+    "signatory": "William Martinez",
+    "iata_code": "45-562",
+    "agent_cass": "5376-8371",
+    "consolidation_ref": "CONS-4274-831669",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-40150117",
+        "pieces": 6,
+        "weight": 34.5,
+        "destination": "AMS",
+        "consignee": "Woods Tech LLC",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "045-21521620",
+        "pieces": 20,
+        "weight": 47.3,
+        "destination": "JFK",
+        "consignee": "Hamilton International AG",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "020-54040242",
+        "pieces": 17,
+        "weight": 77.8,
+        "destination": "NRT",
+        "consignee": "Commerce Evans Corp.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "074-69935236",
+        "pieces": 18,
+        "weight": 32.1,
+        "destination": "AMS",
+        "consignee": "Trade Winters AG",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

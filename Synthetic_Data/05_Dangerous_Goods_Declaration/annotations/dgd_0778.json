@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0778",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Brown Pacific LLC",
+    "shipper_address": "0633 Jeffrey Prairie, North Pamelachester, NH 20671, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Commerce Horton Inc.",
+    "consignee_address": "9619 Jeffery Mission, Port Nancybury, PA 54201, Mexico",
+    "consignee_country": "Mexico",
+    "emergency_telephone": "+5 750-489-5691",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 26,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 25.81,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-749139",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 26,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 84.05,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-255407",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Juan Lane",
+    "signature_date": "2026-05-11",
+    "signature_place": "United Arab Emirates",
+    "awb_number": "085-47111193",
+    "flight_number": "CX4593",
+    "flight_date": "2026-05-20",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International"
+  }
+}

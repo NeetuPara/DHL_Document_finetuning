@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0626",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202005-5574",
+    "usppi_name": "Trade Wells Ltd",
+    "usppi_address": "PSC 0693, Box 0691, APO AP 60475, Spain",
+    "usppi_country": "Spain",
+    "ein": "19-9359352",
+    "consignee_name": "Industry Taylor AG",
+    "consignee_address": "987 Reynolds Forges Suite 048, East Monica, OH 33910, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "White Industry Co.",
+    "forwarder": "Expeditors",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Anthony Barnes",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/20",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 157,
+        "unit": "PCS",
+        "weight_kg": 65.25,
+        "value_usd": 250.8
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 95,
+        "unit": "PCS",
+        "weight_kg": 1269.93,
+        "value_usd": 41952.15
+      },
+      {
+        "marks": "SLI/34",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 164,
+        "unit": "SET",
+        "weight_kg": 433.89,
+        "value_usd": 12872.48
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 88,
+        "unit": "KGS",
+        "weight_kg": 88.0,
+        "value_usd": 1740.77
+      }
+    ],
+    "total_weight_kg": 1857.07,
+    "total_value_usd": 56816.2,
+    "service": "Express Courier",
+    "named_port": "London Heathrow",
+    "insurance_value_usd": 17892.64,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-429767",
+    "destination_country": "Canada"
+  }
+}

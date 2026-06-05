@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0889",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Lisa Howe",
+    "addressee_company": "Pacific Ray Ltd",
+    "addressee_address": "Unit 4577 Box 3765, DPO AE 42057, France",
+    "addressee_country": "France",
+    "total_weight_kg": 6.389,
+    "total_value": 7415.06,
+    "currency": "GBP",
+    "issue_date": "2025-08-30",
+    "reference": "REF-292885",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.937,
+        "value": 2555.8,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 15,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.231,
+        "value": 1710.6,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 17,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.504,
+        "value": 1692.86,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 10,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.717,
+        "value": 1455.8,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Alan Cardenas",
+    "sender_company": "Trade Sanford LLC",
+    "sender_address": "214 Dennis Keys, Lake Jerryfurt, IA 65122, Thailand",
+    "sender_phone": "567.765.1266",
+    "sender_email": "nguyenwillie@example.com",
+    "addressee_phone": "682-272-9433",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 8156.57,
+    "postal_charges": 63.79,
+    "tracking_number": "JV632159704SZ"
+  }
+}

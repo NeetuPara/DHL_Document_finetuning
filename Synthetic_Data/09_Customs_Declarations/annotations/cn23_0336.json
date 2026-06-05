@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0336",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Robert Williams",
+    "addressee_company": "Walker International AG",
+    "addressee_address": "82374 Erickson Green, Heatherfort, NC 95786, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 9.536,
+    "total_value": 2376.26,
+    "currency": "CAD",
+    "issue_date": "2025-09-26",
+    "reference": "REF-274397",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.761,
+        "value": 369.48,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 9,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.919,
+        "value": 547.2,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 19,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.856,
+        "value": 1459.58,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_country": "United States",
+    "port_of_entry": "Chicago, IL",
+    "entry_number": "668-49855916-9",
+    "entry_type": "Formal Entry",
+    "duty_rate": 3.3,
+    "estimated_duty": 78.42,
+    "importer_ein": "88-3687414",
+    "customs_broker": "Commerce Garcia Corp."
+  }
+}

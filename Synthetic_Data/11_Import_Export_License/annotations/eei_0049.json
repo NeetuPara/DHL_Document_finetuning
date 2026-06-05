@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0049",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "567-22951097-2",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2025-09-06",
+    "port_of_entry": "JFK - New York",
+    "transport_mode": "Ocean",
+    "carrier": "MSC",
+    "bl_awb": "125-83360358",
+    "importer_name": "International Carlson GmbH",
+    "importer_ein": "19-1198075",
+    "consignee_name": "International Adams Ltd",
+    "customs_broker": "Trade Davis Corp.",
+    "broker_filer_code": "tPK",
+    "country_of_origin": "South Korea",
+    "total_value": 125037.56,
+    "total_duty": 24450.39,
+    "currency": "CAD",
+    "signatory": "James Cooper",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "France",
+        "qty": 64,
+        "unit": "CTN",
+        "entered_value": 21104.0,
+        "duty_rate": 21.3,
+        "duty_amount": 4495.15,
+        "eccn": "2B350",
+        "schedule_b": "9018.31.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Switzerland",
+        "qty": 291,
+        "unit": "PCS",
+        "entered_value": 103933.56,
+        "duty_rate": 19.2,
+        "duty_amount": 19955.24,
+        "eccn": "0A919",
+        "schedule_b": "8534.00.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

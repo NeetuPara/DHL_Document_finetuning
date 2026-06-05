@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0048",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-88160923",
+    "mawb_number": "074-33805788",
+    "shipper_name": "Trade Blankenship Co.",
+    "shipper_address": "542 Heather Gardens, Tracyville, MH 34020, United Arab Emirates",
+    "consignee_name": "Kelley Commerce Inc.",
+    "consignee_address": "4286 Amy Inlet Suite 487, Tamarahaven, DC 07325, Germany",
+    "agent_name": "Trade Gonzalez B.V.",
+    "airport_departure": "SYD",
+    "airport_destination": "NRT",
+    "currency": "CAD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CHF 41,619.42",
+    "n_pieces": 47,
+    "gross_weight_kg": 72.0,
+    "chargeable_weight": 84.1,
+    "rate": 11.84,
+    "total_charge": 995.74,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-05-17",
+    "signatory": "Tara Alvarez",
+    "iata_code": "60-092",
+    "agent_cass": "9014-7279",
+    "consolidation_ref": "CONS-3424-960585",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-76506153",
+        "pieces": 18,
+        "weight": 79.9,
+        "destination": "MIA",
+        "consignee": "Sanchez Pacific GmbH",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "085-13784578",
+        "pieces": 9,
+        "weight": 87.5,
+        "destination": "MIA",
+        "consignee": "Commerce Barber AG",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "020-87530017",
+        "pieces": 6,
+        "weight": 2.0,
+        "destination": "CDG",
+        "consignee": "Arnold Trade Corp.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "074-66183267",
+        "pieces": 17,
+        "weight": 67.3,
+        "destination": "YYZ",
+        "consignee": "Trade Taylor Inc.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "176-72201446",
+        "pieces": 1,
+        "weight": 84.2,
+        "destination": "CDG",
+        "consignee": "Brown Tech Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "045-23303307",
+        "pieces": 17,
+        "weight": 18.5,
+        "destination": "NRT",
+        "consignee": "Jones Global Co.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "006-59241321",
+        "pieces": 20,
+        "weight": 77.8,
+        "destination": "ICN",
+        "consignee": "Tech Goodman Corp.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "057-30627161",
+        "pieces": 4,
+        "weight": 21.9,
+        "destination": "NRT",
+        "consignee": "Hensley Commerce AG",
+        "description": "Optical Equipment - Camera Lenses"
+      }
+    ]
+  }
+}

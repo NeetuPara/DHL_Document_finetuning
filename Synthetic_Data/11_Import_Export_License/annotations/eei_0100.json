@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0100",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "653-09830353-8",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2026-01-09",
+    "port_of_entry": "LAX - Los Angeles",
+    "transport_mode": "Truck",
+    "carrier": "FedEx",
+    "bl_awb": "125-44764005",
+    "importer_name": "Collins Trade Corp.",
+    "importer_ein": "12-2330343",
+    "consignee_name": "Monroe Industry B.V.",
+    "customs_broker": "Walls Trade GmbH",
+    "broker_filer_code": "DHZ",
+    "country_of_origin": "Belgium",
+    "total_value": 245439.88,
+    "total_duty": 42784.46,
+    "currency": "CAD",
+    "signatory": "Diane Clark",
+    "signatory_title": "Trade Finance Manager",
+    "line_items": [
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Poland",
+        "qty": 246,
+        "unit": "KGS",
+        "entered_value": 104840.28,
+        "duty_rate": 17.4,
+        "duty_amount": 18242.21,
+        "eccn": "7A994",
+        "schedule_b": "7208.37.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Germany",
+        "qty": 444,
+        "unit": "PCS",
+        "entered_value": 102133.32,
+        "duty_rate": 21.5,
+        "duty_amount": 21958.66,
+        "eccn": "9A515",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Spain",
+        "qty": 34,
+        "unit": "KGS",
+        "entered_value": 13889.0,
+        "duty_rate": 9.4,
+        "duty_amount": 1305.57,
+        "eccn": "EAR99",
+        "schedule_b": "7208.37.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Germany",
+        "qty": 128,
+        "unit": "PKG",
+        "entered_value": 24577.28,
+        "duty_rate": 5.2,
+        "duty_amount": 1278.02,
+        "eccn": "1A002",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

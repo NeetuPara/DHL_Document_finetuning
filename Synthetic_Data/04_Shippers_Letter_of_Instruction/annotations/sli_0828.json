@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0828",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202009-2069",
+    "usppi_name": "International Clark GmbH",
+    "usppi_address": "9912 Gregory Pike, Cliffordtown, CT 39302, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "70-9159546",
+    "consignee_name": "Eaton International B.V.",
+    "consignee_address": "50223 Roger Hollow, Monicafort, MH 71476, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Commerce Garcia Co.",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Richard Miles DDS",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/26",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 26,
+        "unit": "PCS",
+        "weight_kg": 6.76,
+        "value_usd": 3904.19
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 17,
+        "unit": "PCS",
+        "weight_kg": 3.48,
+        "value_usd": 10457.49
+      },
+      {
+        "marks": "ABC/39",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 130,
+        "unit": "CTN",
+        "weight_kg": 633.67,
+        "value_usd": 2198.97
+      },
+      {
+        "marks": "SLI/10",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 84,
+        "unit": "PCS",
+        "weight_kg": 88.81,
+        "value_usd": 1497.05
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 85,
+        "unit": "SET",
+        "weight_kg": 108.27,
+        "value_usd": 12384.19
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 162,
+        "unit": "MTR",
+        "weight_kg": 101.98,
+        "value_usd": 2770.12
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 86,
+        "unit": "LTR",
+        "weight_kg": 84.79,
+        "value_usd": 3310.91
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 90,
+        "unit": "PCS",
+        "weight_kg": 1271.51,
+        "value_usd": 19759.08
+      }
+    ],
+    "total_weight_kg": 2299.27,
+    "total_value_usd": 56282.0,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "172W",
+    "booking_ref": "BKG-650467",
+    "bl_number": "OOLU535908538",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Singapore, SG",
+    "container_number": "QYNT4236657",
+    "seal_number": "CL949324",
+    "container_type": "40'GP",
+    "cbm": 19.184
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0202",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "419-32110161-1",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2026-01-26",
+    "port_of_entry": "SEA - Seattle",
+    "transport_mode": "Truck",
+    "carrier": "UPS",
+    "bl_awb": "074-76222217",
+    "importer_name": "Global Salas GmbH",
+    "importer_ein": "47-6352044",
+    "consignee_name": "Bryan Global AG",
+    "customs_broker": "Brown Trade Co.",
+    "broker_filer_code": "Esl",
+    "country_of_origin": "Sweden",
+    "total_value": 271819.73,
+    "total_duty": 20389.04,
+    "currency": "EUR",
+    "signatory": "Hailey Huff",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Switzerland",
+        "qty": 99,
+        "unit": "LTR",
+        "entered_value": 31402.8,
+        "duty_rate": 10.9,
+        "duty_amount": 3422.91,
+        "eccn": "2B350",
+        "schedule_b": "2901.10.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Belgium",
+        "qty": 467,
+        "unit": "PCS",
+        "entered_value": 119173.73,
+        "duty_rate": 12.1,
+        "duty_amount": 14420.02,
+        "eccn": "9A515",
+        "schedule_b": "9401.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "South Korea",
+        "qty": 312,
+        "unit": "KGS",
+        "entered_value": 121243.2,
+        "duty_rate": 2.1,
+        "duty_amount": 2546.11,
+        "eccn": "1A002",
+        "schedule_b": "7208.37.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

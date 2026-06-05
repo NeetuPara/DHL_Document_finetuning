@@ -1,0 +1,71 @@
+{
+  "packet_id": "packet_3925",
+  "total_pages": 7,
+  "n_documents": 6,
+  "class_sequence": [
+    "House Airway Bill",
+    "Commercial Invoice",
+    "Packing List",
+    "Shipper's Letter of Instruction",
+    "Import/Export License",
+    "Cargo Manifest"
+  ],
+  "task": "splitting",
+  "note": "is_multipage_doc=true means consecutive pages are CONTINUATION of same document instance.",
+  "documents": [
+    {
+      "doc_class": "House Airway Bill",
+      "class_index": 7,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "hawb_0623.pdf"
+    },
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "commercial_invoice_0729.pdf"
+    },
+    {
+      "doc_class": "Packing List",
+      "class_index": 8,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "packing_list_0208.pdf"
+    },
+    {
+      "doc_class": "Shipper's Letter of Instruction",
+      "class_index": 4,
+      "page_start": 4,
+      "page_end": 4,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "sli_0179.pdf"
+    },
+    {
+      "doc_class": "Import/Export License",
+      "class_index": 11,
+      "page_start": 5,
+      "page_end": 5,
+      "n_pages": 1,
+      "is_multipage_doc": false,
+      "source_file": "eei_0776.pdf"
+    },
+    {
+      "doc_class": "Cargo Manifest",
+      "class_index": 10,
+      "page_start": 6,
+      "page_end": 7,
+      "n_pages": 2,
+      "is_multipage_doc": true,
+      "source_file": "manifest_mp_0089.pdf"
+    }
+  ]
+}

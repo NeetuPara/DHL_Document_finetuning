@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0940",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "634-22751826-4",
+    "entry_type": "11 - Informal - Free",
+    "entry_date": "2025-08-28",
+    "port_of_entry": "JFK - New York",
+    "transport_mode": "Hand-Carried",
+    "carrier": "UPS",
+    "bl_awb": "085-79247914",
+    "importer_name": "Boyd Industry S.A.",
+    "importer_ein": "93-0016294",
+    "consignee_name": "Global Strickland AG",
+    "customs_broker": "Perry Industry Co.",
+    "broker_filer_code": "SgY",
+    "country_of_origin": "Mexico",
+    "total_value": 32911.78,
+    "total_duty": 6602.12,
+    "currency": "CHF",
+    "signatory": "Vincent Brown",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Sweden",
+        "qty": 72,
+        "unit": "KGS",
+        "entered_value": 17183.52,
+        "duty_rate": 24.6,
+        "duty_amount": 4227.15,
+        "eccn": "EAR99",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "South Korea",
+        "qty": 314,
+        "unit": "PCS",
+        "entered_value": 15728.26,
+        "duty_rate": 15.1,
+        "duty_amount": 2374.97,
+        "eccn": "1A002",
+        "schedule_b": "8534.00.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

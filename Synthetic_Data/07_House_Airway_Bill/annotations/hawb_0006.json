@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0006",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-11925328",
+    "mawb_number": "176-62199540",
+    "shipper_name": "Industry Bird S.A.",
+    "shipper_address": "6248 Jennifer Station, New Juan, VT 93002, China",
+    "consignee_name": "Kent International Ltd",
+    "consignee_address": "Unit 3805 Box 3910, DPO AA 77331, Switzerland",
+    "agent_name": "Tech Hernandez Corp.",
+    "airport_departure": "LAX",
+    "airport_destination": "AMS",
+    "currency": "AED",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "JPY 22,440.20",
+    "n_pieces": 20,
+    "gross_weight_kg": 84.7,
+    "chargeable_weight": 103.0,
+    "rate": 10.23,
+    "total_charge": 1053.69,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-05-06",
+    "signatory": "Joel Dennis",
+    "iata_code": "07-657",
+    "agent_cass": "4065-8835",
+    "consolidation_ref": "CONS-8443-170028",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-78963792",
+        "pieces": 16,
+        "weight": 23.3,
+        "destination": "ORD",
+        "consignee": "Gonzalez Commerce B.V.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "125-10599628",
+        "pieces": 4,
+        "weight": 78.7,
+        "destination": "LHR",
+        "consignee": "Brock International Corp.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "160-71572215",
+        "pieces": 5,
+        "weight": 64.4,
+        "destination": "AMS",
+        "consignee": "Ortiz Trade GmbH",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "125-35031652",
+        "pieces": 7,
+        "weight": 42.8,
+        "destination": "YYZ",
+        "consignee": "Pacific Allen Pte Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "057-38025268",
+        "pieces": 4,
+        "weight": 65.0,
+        "destination": "MIA",
+        "consignee": "Martinez Trade AG",
+        "description": "Plastic Products - Injection Moulde"
+      }
+    ]
+  }
+}

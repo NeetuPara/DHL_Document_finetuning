@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0508",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU626266172",
+    "shipper_name": "Global Jones S.A.",
+    "shipper_address": "USNS Williams, FPO AP 67678, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Robertson International GmbH",
+    "consignee_address": "0939 Gregory Flat, South Robert, TX 17203, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "Alvarez Trade Pte Ltd",
+    "notify_party_address": "98754 Spencer Branch Apt. 643, Port Sarahchester, AZ 90116, Malaysia",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "324W",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2025-07-11",
+    "issue_place": "Tokyo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "CKQT9958491",
+        "seal_no": "SL411270",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "DPVS1704620",
+        "seal_no": "BL971817",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "IUUM5450368",
+        "seal_no": "SL447637",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 452,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 19551.7,
+    "net_weight_kg": 18403.2,
+    "cbm": 28.228,
+    "marks_and_numbers": "GLB/38"
+  }
+}

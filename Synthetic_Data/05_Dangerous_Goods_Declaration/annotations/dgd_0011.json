@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0011",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Warren Pacific GmbH",
+    "shipper_address": "8301 Jesse Valley Apt. 864, Port Rachelland, NV 59375, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Martin Commerce LLC",
+    "consignee_address": "78614 Santiago Knolls Apt. 499, Morrisland, CT 84022, Spain",
+    "consignee_country": "Spain",
+    "emergency_telephone": "+59 438-703-7490",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 26,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 91.47,
+        "qty_unit": "g",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Melissa Ward",
+    "signature_date": "2026-05-12",
+    "signature_place": "Thailand",
+    "vessel": "CSCL GLOBE",
+    "voyage": "975S",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Tokyo, JP"
+  }
+}

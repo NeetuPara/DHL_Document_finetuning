@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0861",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202210-2544",
+    "usppi_name": "Johnson International LLC",
+    "usppi_address": "87567 Goodwin Forest, Lake Christinabury, GU 59621, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "69-4144422",
+    "consignee_name": "Commerce Jones B.V.",
+    "consignee_address": "PSC 3220, Box 4984, APO AA 36718, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Pacific Hernandez Corp.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Kerri Deleon",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/30",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 122,
+        "unit": "PCS",
+        "weight_kg": 40.76,
+        "value_usd": 23371.42
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 110,
+        "unit": "KGS",
+        "weight_kg": 110.0,
+        "value_usd": 207.34
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 79,
+        "unit": "PKG",
+        "weight_kg": 95.59,
+        "value_usd": 6913.57
+      },
+      {
+        "marks": "SLI/40",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 59,
+        "unit": "LTR",
+        "weight_kg": 57.68,
+        "value_usd": 1634.97
+      },
+      {
+        "marks": "SLI/12",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 171,
+        "unit": "MTR",
+        "weight_kg": 184.41,
+        "value_usd": 2941.6
+      },
+      {
+        "marks": "EXP/10",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 72,
+        "unit": "PCS",
+        "weight_kg": 1065.93,
+        "value_usd": 34506.14
+      }
+    ],
+    "total_weight_kg": 1554.37,
+    "total_value_usd": 69575.04,
+    "vessel": "ONE INNOVATION",
+    "voyage": "444N",
+    "booking_ref": "BKG-725151",
+    "bl_number": "OOLU149145308",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "container_number": "EAQF4061755",
+    "seal_number": "BL718839",
+    "container_type": "40'HC",
+    "cbm": 31.858
+  }
+}

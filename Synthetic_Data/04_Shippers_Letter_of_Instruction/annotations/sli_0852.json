@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0852",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202512-9732",
+    "usppi_name": "Wright Industry LLC",
+    "usppi_address": "9367 Marshall Plains, West Davidshire, RI 23610, Italy",
+    "usppi_country": "Italy",
+    "ein": "53-5043794",
+    "consignee_name": "Industry Jimenez GmbH",
+    "consignee_address": "618 Cohen Camp Apt. 564, East Susan, KY 47181, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Trade Browning S.A.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "James Davis",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/40",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 115,
+        "unit": "BOX",
+        "weight_kg": 29.61,
+        "value_usd": 11161.91
+      },
+      {
+        "marks": "SLI/37",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 26,
+        "unit": "KGS",
+        "weight_kg": 26.0,
+        "value_usd": 328.67
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 20,
+        "unit": "KGS",
+        "weight_kg": 20.0,
+        "value_usd": 41.65
+      }
+    ],
+    "total_weight_kg": 75.61,
+    "total_value_usd": 11532.23,
+    "vessel": "MOL TRIUMPH",
+    "voyage": "734S",
+    "booking_ref": "BKG-234786",
+    "bl_number": "COSU938775814",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "New York, US",
+    "container_number": "GQCV0585645",
+    "seal_number": "BL287151",
+    "container_type": "45'HC",
+    "cbm": 4.932
+  }
+}

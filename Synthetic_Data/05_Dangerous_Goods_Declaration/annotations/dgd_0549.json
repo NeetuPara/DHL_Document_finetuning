@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0549",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Dunn Ltd",
+    "shipper_address": "4630 James Heights Apt. 487, Allenton, CO 81303, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "International Moreno Co.",
+    "consignee_address": "142 Alexander Burg Suite 430, West Kennethtown, OR 02921, Poland",
+    "consignee_country": "Poland",
+    "emergency_telephone": "+11 150-408-9606",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 40,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 9.51,
+        "qty_unit": "L",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "George Gonzalez",
+    "signature_date": "2026-04-21",
+    "signature_place": "Germany",
+    "awb_number": "160-20175566",
+    "flight_number": "CX6086",
+    "departure_airport_code": "CDG",
+    "departure_airport_name": "Paris CDG",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

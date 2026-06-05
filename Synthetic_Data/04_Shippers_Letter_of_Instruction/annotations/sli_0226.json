@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0226",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202208-8152",
+    "usppi_name": "Pacific Snyder AG",
+    "usppi_address": "10407 Robin Neck Apt. 643, Kevinside, TX 52986, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "13-5604100",
+    "consignee_name": "Commerce Holt AG",
+    "consignee_address": "9347 Patrick Cape Apt. 151, West Cynthia, ID 85392, United States",
+    "consignee_country": "United States",
+    "notify_party": "Global Edwards Co.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DPU",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Michael Hudson",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/22",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 132,
+        "unit": "CTN",
+        "weight_kg": 524.17,
+        "value_usd": 4905.21
+      },
+      {
+        "marks": "ABC/6",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 58,
+        "unit": "PCS",
+        "weight_kg": 928.24,
+        "value_usd": 12744.71
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 23,
+        "unit": "LTR",
+        "weight_kg": 21.2,
+        "value_usd": 744.14
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 21,
+        "unit": "BOX",
+        "weight_kg": 10.16,
+        "value_usd": 1899.57
+      }
+    ],
+    "total_weight_kg": 1483.77,
+    "total_value_usd": 20293.63,
+    "service": "Express Courier",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 21784.02,
+    "license_type": "Distributor License",
+    "license_number": "LIC-782106",
+    "destination_country": "United States"
+  }
+}

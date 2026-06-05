@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0537",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202007-9052",
+    "usppi_name": "Trade Weaver B.V.",
+    "usppi_address": "33136 Flynn Squares Suite 072, East Marissamouth, GU 46631, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "27-9828205",
+    "consignee_name": "Smith Global Inc.",
+    "consignee_address": "725 Bean Pike Suite 299, Port Sheena, FL 48796, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Garrett Industry Inc.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Kenneth Green",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/23",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 79,
+        "unit": "CTN",
+        "weight_kg": 65.04,
+        "value_usd": 638.98
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 160,
+        "unit": "KGS",
+        "weight_kg": 160.0,
+        "value_usd": 1549.21
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 137,
+        "unit": "PKG",
+        "weight_kg": 379.5,
+        "value_usd": 12534.25
+      }
+    ],
+    "total_weight_kg": 604.54,
+    "total_value_usd": 14722.44,
+    "vessel": "CSCL GLOBE",
+    "voyage": "944N",
+    "booking_ref": "BKG-247430",
+    "bl_number": "MAEU548570758",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Qingdao, CN",
+    "container_number": "QDDK7492584",
+    "seal_number": "BL617581",
+    "container_type": "40'HC",
+    "cbm": 9.231
+  }
+}

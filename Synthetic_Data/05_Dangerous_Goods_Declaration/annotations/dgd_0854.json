@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0854",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Silva AG",
+    "shipper_address": "USS Wright, FPO AA 49676, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Meyer Industry GmbH",
+    "consignee_address": "728 Jeffrey Wells, North Gregory, HI 43713, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+87 719-745-6084",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 22,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 22.82,
+        "qty_unit": "L",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Nicholas Rivera",
+    "signature_date": "2026-05-10",
+    "signature_place": "Singapore",
+    "vessel": "EVER GOLDEN",
+    "voyage": "617S",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Qingdao, CN"
+  }
+}

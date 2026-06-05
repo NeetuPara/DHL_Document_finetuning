@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0480",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-21221710",
+    "mawb_number": "020-57746795",
+    "shipper_name": "Commerce Thomas Corp.",
+    "shipper_address": "282 Munoz Inlet Apt. 981, New Melissastad, OR 09493, Australia",
+    "consignee_name": "Hurley Pacific S.A.",
+    "consignee_address": "26459 Cassandra Cliff Suite 284, West Jennifer, ID 59284, Switzerland",
+    "agent_name": "Stein Commerce Inc.",
+    "airport_departure": "DXB",
+    "airport_destination": "PVG",
+    "currency": "AED",
+    "charge_code": "PP",
+    "declared_value_carriage": "CHF 29,941.41",
+    "declared_value_customs": "NCV",
+    "n_pieces": 41,
+    "gross_weight_kg": 450.3,
+    "chargeable_weight": 498.4,
+    "rate": 2.7,
+    "total_charge": 1345.68,
+    "nature_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-07-05",
+    "signatory": "Cassandra Osborne",
+    "iata_code": "15-937",
+    "agent_cass": "6504-7318",
+    "consolidation_ref": "CONS-5143-814730",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-20170902",
+        "pieces": 1,
+        "weight": 59.2,
+        "destination": "NRT",
+        "consignee": "Henderson International B.V.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "006-60972654",
+        "pieces": 14,
+        "weight": 29.4,
+        "destination": "ICN",
+        "consignee": "Industry Whitehead B.V.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "618-63408073",
+        "pieces": 10,
+        "weight": 99.6,
+        "destination": "LHR",
+        "consignee": "Global Robinson Pte Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "085-20090962",
+        "pieces": 6,
+        "weight": 33.1,
+        "destination": "ORD",
+        "consignee": "International Johnson Corp.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "160-11061083",
+        "pieces": 6,
+        "weight": 92.6,
+        "destination": "ORD",
+        "consignee": "Wells Commerce AG",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "085-21629385",
+        "pieces": 13,
+        "weight": 37.3,
+        "destination": "SYD",
+        "consignee": "Trade Lewis B.V.",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0560",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202303-7130",
+    "usppi_name": "Gonzalez International Pte Ltd",
+    "usppi_address": "199 Erin Plains, North Sandraport, OR 35584, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "14-2055205",
+    "consignee_name": "International Juarez Inc.",
+    "consignee_address": "7120 Denise Dam, South Michael, MD 20556, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Neal Industry Corp.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Ashley Lane",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/3",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 171,
+        "unit": "PCS",
+        "weight_kg": 3590.12,
+        "value_usd": 60536.19
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 52,
+        "unit": "SET",
+        "weight_kg": 191.19,
+        "value_usd": 2857.64
+      },
+      {
+        "marks": "EXP/50",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 125,
+        "unit": "BOX",
+        "weight_kg": 32.71,
+        "value_usd": 7192.16
+      }
+    ],
+    "total_weight_kg": 3814.02,
+    "total_value_usd": 70585.99,
+    "service": "Ground",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 39816.78,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Netherlands"
+  }
+}

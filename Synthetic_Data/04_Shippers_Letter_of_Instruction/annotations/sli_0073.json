@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0073",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202004-4237",
+    "usppi_name": "Pacific Marshall Ltd",
+    "usppi_address": "56533 Woods Crossroad Suite 179, East Charleston, RI 65465, Australia",
+    "usppi_country": "Australia",
+    "ein": "68-3555760",
+    "consignee_name": "Trade Bean AG",
+    "consignee_address": "USS Gregory, FPO AE 25035, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Industry Parker Pte Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Tyler Knight",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/39",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 82,
+        "unit": "KGS",
+        "weight_kg": 82.0,
+        "value_usd": 79.48
+      },
+      {
+        "marks": "EXP/14",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 176,
+        "unit": "LTR",
+        "weight_kg": 187.2,
+        "value_usd": 2353.03
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 148,
+        "unit": "CTN",
+        "weight_kg": 239.92,
+        "value_usd": 1892.93
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 174,
+        "unit": "CTN",
+        "weight_kg": 415.7,
+        "value_usd": 1079.32
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 125,
+        "unit": "PCS",
+        "weight_kg": 17.92,
+        "value_usd": 2329.8
+      },
+      {
+        "marks": "SLI/23",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 140,
+        "unit": "PCS",
+        "weight_kg": 105.87,
+        "value_usd": 114641.77
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 163,
+        "unit": "PCS",
+        "weight_kg": 41.46,
+        "value_usd": 39651.0
+      }
+    ],
+    "total_weight_kg": 1090.07,
+    "total_value_usd": 162027.33,
+    "service": "Express Courier",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 28512.01,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-782654",
+    "destination_country": "Canada"
+  }
+}

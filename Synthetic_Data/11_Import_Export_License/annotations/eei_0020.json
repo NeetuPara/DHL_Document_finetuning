@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0020",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250805806460",
+    "export_date": "2025-07-21",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Global Holland Inc.",
+    "usppi_ein": "10-9799990",
+    "usppi_address": "90654 Maria Curve Suite 872, Lake Kristiview, AL 59644, Belgium",
+    "ultimate_consignee": "Tech Parker Inc.",
+    "intermediate_consignee": "Commerce Brown AG",
+    "forwarding_agent": "Hensley Commerce S.A.",
+    "destination_country": "Canada",
+    "carrier": "UPS",
+    "bl_awb": "085-20175673",
+    "total_value": 211365.25,
+    "currency": "EUR",
+    "signatory": "Sharon Moore",
+    "line_items": [
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "India",
+        "qty": 429,
+        "unit": "KGS",
+        "entered_value": 30034.29,
+        "duty_rate": 24.3,
+        "duty_amount": 7298.33,
+        "eccn": "0A919",
+        "schedule_b": "2008.19.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "India",
+        "qty": 156,
+        "unit": "PKG",
+        "entered_value": 20258.16,
+        "duty_rate": 4.6,
+        "duty_amount": 931.88,
+        "eccn": "EAR99",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "China",
+        "qty": 287,
+        "unit": "PCS",
+        "entered_value": 78959.44,
+        "duty_rate": 5.5,
+        "duty_amount": 4342.77,
+        "eccn": "1A002",
+        "schedule_b": "8483.40.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Japan",
+        "qty": 259,
+        "unit": "PCS",
+        "entered_value": 82113.36,
+        "duty_rate": 21.9,
+        "duty_amount": 17982.83,
+        "eccn": "3A992",
+        "schedule_b": "9002.11.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

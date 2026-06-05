@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0676",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "164-88599436-1",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2026-04-30",
+    "port_of_entry": "JFK - New York",
+    "transport_mode": "Truck",
+    "carrier": "Maersk",
+    "bl_awb": "085-88012349",
+    "importer_name": "Global Leon S.A.",
+    "importer_ein": "16-1268450",
+    "consignee_name": "Tech Williamson Co.",
+    "customs_broker": "Parks International Pte Ltd",
+    "broker_filer_code": "gmy",
+    "country_of_origin": "United Kingdom",
+    "total_value": 486125.59,
+    "total_duty": 59640.07,
+    "currency": "GBP",
+    "signatory": "Monica Wiley",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Canada",
+        "qty": 259,
+        "unit": "MTR",
+        "entered_value": 4032.63,
+        "duty_rate": 12.4,
+        "duty_amount": 500.05,
+        "eccn": "0A919",
+        "schedule_b": "5407.42.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Canada",
+        "qty": 458,
+        "unit": "PCS",
+        "entered_value": 142831.88,
+        "duty_rate": 14.7,
+        "duty_amount": 20996.29,
+        "eccn": "EAR99",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Hong Kong",
+        "qty": 392,
+        "unit": "PCS",
+        "entered_value": 128031.12,
+        "duty_rate": 20.3,
+        "duty_amount": 25990.32,
+        "eccn": "0A919",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Switzerland",
+        "qty": 446,
+        "unit": "PCS",
+        "entered_value": 192168.02,
+        "duty_rate": 4.4,
+        "duty_amount": 8455.39,
+        "eccn": "EAR99",
+        "schedule_b": "8534.00.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "South Korea",
+        "qty": 437,
+        "unit": "KGS",
+        "entered_value": 19061.94,
+        "duty_rate": 19.4,
+        "duty_amount": 3698.02,
+        "eccn": "EAR99",
+        "schedule_b": "7208.37.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

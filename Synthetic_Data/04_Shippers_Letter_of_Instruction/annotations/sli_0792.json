@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0792",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202601-3049",
+    "usppi_name": "Commerce Pugh Corp.",
+    "usppi_address": "43201 Cassie Lakes Suite 195, New Manuelville, DE 45220, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "41-9178183",
+    "consignee_name": "International Villanueva Inc.",
+    "consignee_address": "9651 Lewis Shores Apt. 702, Moorestad, MN 68802, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Commerce Hurst LLC",
+    "forwarder": "Expeditors",
+    "incoterm": "EXW",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "Theresa George",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/49",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 132,
+        "unit": "MTR",
+        "weight_kg": 49.3,
+        "value_usd": 360.95
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 187,
+        "unit": "BOX",
+        "weight_kg": 340.18,
+        "value_usd": 1904.5
+      },
+      {
+        "marks": "SLI/10",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 121,
+        "unit": "PCS",
+        "weight_kg": 8.23,
+        "value_usd": 10836.77
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 19,
+        "unit": "PCS",
+        "weight_kg": 69.88,
+        "value_usd": 8393.72
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 138,
+        "unit": "PCS",
+        "weight_kg": 49.81,
+        "value_usd": 26517.54
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 69,
+        "unit": "PCS",
+        "weight_kg": 97.93,
+        "value_usd": 93555.27
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 6,
+        "unit": "KGS",
+        "weight_kg": 6.0,
+        "value_usd": 14.62
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 14,
+        "unit": "PCS",
+        "weight_kg": 14.46,
+        "value_usd": 172.72
+      }
+    ],
+    "total_weight_kg": 635.79,
+    "total_value_usd": 141756.09,
+    "vessel": "ONE INNOVATION",
+    "voyage": "229E",
+    "booking_ref": "BKG-194683",
+    "bl_number": "EGLV150148536",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Hamburg, DE",
+    "container_number": "YAJY1511269",
+    "seal_number": "CL512742",
+    "container_type": "40'HC",
+    "cbm": 27.022
+  }
+}

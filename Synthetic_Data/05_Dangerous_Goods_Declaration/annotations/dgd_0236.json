@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0236",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Daniel Inc.",
+    "shipper_address": "Unit 8151 Box 6333, DPO AP 22412, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Smith Trade GmbH",
+    "consignee_address": "85072 Julie Grove Suite 305, Aaronshire, HI 89961, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+66 789-630-8114",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 22,
+        "pkg_type": "Steel Drum",
+        "net_qty": 19.63,
+        "qty_unit": "kg",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-622950",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Douglas Robertson",
+    "signature_date": "2026-04-20",
+    "signature_place": "Malaysia",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "182W",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "New York, US"
+  }
+}

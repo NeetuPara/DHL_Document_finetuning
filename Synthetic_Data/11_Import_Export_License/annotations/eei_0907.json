@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0907",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "782-98058838-0",
+    "entry_type": "01 - Free and Dutiable",
+    "entry_date": "2025-07-07",
+    "port_of_entry": "JFK - New York",
+    "transport_mode": "Truck",
+    "carrier": "MSC",
+    "bl_awb": "006-45914013",
+    "importer_name": "Johnson Pacific GmbH",
+    "importer_ein": "09-2679899",
+    "consignee_name": "Andrews Commerce LLC",
+    "customs_broker": "Dyer Trade Pte Ltd",
+    "broker_filer_code": "iVl",
+    "country_of_origin": "Canada",
+    "total_value": 319624.32,
+    "total_duty": 13443.82,
+    "currency": "AUD",
+    "signatory": "Andrew Macias",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Malaysia",
+        "qty": 99,
+        "unit": "PCS",
+        "entered_value": 14220.36,
+        "duty_rate": 13.5,
+        "duty_amount": 1919.75,
+        "eccn": "5E992",
+        "schedule_b": "8483.40.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Malaysia",
+        "qty": 370,
+        "unit": "CTN",
+        "entered_value": 137628.9,
+        "duty_rate": 2.4,
+        "duty_amount": 3303.09,
+        "eccn": "1A002",
+        "schedule_b": "4819.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 359,
+        "unit": "PCS",
+        "entered_value": 167775.06,
+        "duty_rate": 4.9,
+        "duty_amount": 8220.98,
+        "eccn": "9A515",
+        "schedule_b": "9401.30.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

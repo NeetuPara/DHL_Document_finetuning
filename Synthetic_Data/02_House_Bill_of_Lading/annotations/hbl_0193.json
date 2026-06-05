@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0193",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU128907802",
+    "shipper_name": "Conway Trade AG",
+    "shipper_address": "7895 Stephanie Ridge Apt. 475, Port Candice, SC 64146, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Watkins Pacific GmbH",
+    "consignee_address": "81343 Vega Grove, Campbellport, DE 32970, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party_name": "Swanson Global GmbH",
+    "notify_party_address": "01214 Shawna Corners Apt. 327, Stevenborough, ME 16977, Singapore",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "276E",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2025-09-09",
+    "issue_place": "Singapore",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "ZRAV2252424",
+        "seal_no": "BL488206",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "RTIQ4671960",
+        "seal_no": "CL254859",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "ZWJK3863069",
+        "seal_no": "CL594777",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 466,
+    "package_type": "Carton",
+    "gross_weight_kg": 15988.0,
+    "net_weight_kg": 14385.3,
+    "cbm": 26.015,
+    "marks_and_numbers": "ABC/42"
+  }
+}

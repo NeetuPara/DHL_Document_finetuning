@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0601",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Joseph Drake PhD",
+    "addressee_company": "Industry Martinez LLC",
+    "addressee_address": "2522 Ann Rapids Suite 145, Carloshaven, DE 37960, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 3.566,
+    "total_value": 1284.75,
+    "currency": "CHF",
+    "issue_date": "2026-03-20",
+    "reference": "REF-673264",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.447,
+        "value": 833.31,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 8,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.119,
+        "value": 451.44,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_name": "Christine Schmidt",
+    "sender_company": "International Morgan AG",
+    "sender_address": "622 Kimberly Throughway, Paulmouth, MA 51515, Sweden",
+    "sender_phone": "346-439-1914x368",
+    "sender_email": "morgan38@example.org",
+    "addressee_phone": "665.433.0363",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 51.48,
+    "tracking_number": "GR918684338QE"
+  }
+}

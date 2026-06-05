@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0324",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG887479673",
+    "shipper_name": "Commerce Bautista Ltd",
+    "shipper_address": "Unit 7875 Box 2515, DPO AE 88709, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Sanchez Commerce B.V.",
+    "consignee_address": "704 Washington Trace Apt. 057, West Dianafurt, NM 26568, India",
+    "consignee_country": "India",
+    "notify_party_name": "Industry Mcdonald Ltd",
+    "notify_party_address": "23154 Bryce Hills, Jamesstad, MN 08315, France",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "728W",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2024-06-19",
+    "issue_place": "Felixstowe",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "VWDG9274948",
+        "seal_no": "BL451338",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "VHHI3289226",
+        "seal_no": "SL319839",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 389,
+    "package_type": "Pallet",
+    "gross_weight_kg": 19470.7,
+    "net_weight_kg": 17916.3,
+    "cbm": 27.162,
+    "marks_and_numbers": "XYZ/33"
+  }
+}

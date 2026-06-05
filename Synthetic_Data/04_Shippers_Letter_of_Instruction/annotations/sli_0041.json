@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0041",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202009-8033",
+    "usppi_name": "Fowler Trade S.A.",
+    "usppi_address": "941 Brooks Hollow Suite 176, Martinside, FL 44679, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "92-1922318",
+    "consignee_name": "Stewart International Corp.",
+    "consignee_address": "53062 Jessica Streets Suite 760, South Christopherland, MN 88109, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Stewart Global Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "William Scott",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/10",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 43,
+        "unit": "LTR",
+        "weight_kg": 39.06,
+        "value_usd": 207.71
+      },
+      {
+        "marks": "SLI/2",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 162,
+        "unit": "CTN",
+        "weight_kg": 238.35,
+        "value_usd": 11521.66
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 128,
+        "unit": "PCS",
+        "weight_kg": 730.42,
+        "value_usd": 63723.01
+      }
+    ],
+    "total_weight_kg": 1007.83,
+    "total_value_usd": 75452.38,
+    "service": "Express Courier",
+    "named_port": "Seoul Incheon",
+    "insurance_value_usd": 1783.2,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-470042",
+    "destination_country": "Switzerland"
+  }
+}

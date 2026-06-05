@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0113",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Elizabeth Ford",
+    "addressee_company": "Commerce Smith S.A.",
+    "addressee_address": "1854 Cannon Court, Thomasstad, RI 32907, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 4.375,
+    "total_value": 65.34,
+    "currency": "USD",
+    "issue_date": "2025-10-23",
+    "reference": "REF-954844",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.375,
+        "value": 65.34,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Marc Carpenter",
+    "sender_company": "Commerce Bird AG",
+    "sender_address": "29570 Morgan Way, South Pam, WA 69100, France",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 17.88,
+    "tracking_number": "EX490631431VP"
+  }
+}

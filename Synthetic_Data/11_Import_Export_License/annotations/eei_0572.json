@@ -1,0 +1,103 @@
+{
+  "document_id": "eei_0572",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220820577648",
+    "export_date": "2025-06-14",
+    "aes_option": "AES Filing",
+    "usppi_name": "Olsen Pacific Inc.",
+    "usppi_ein": "70-0328073",
+    "usppi_address": "3528 Smith Corners Suite 909, West Mario, CO 55787, Brazil",
+    "ultimate_consignee": "Industry Richardson B.V.",
+    "intermediate_consignee": "Moore Pacific AG",
+    "forwarding_agent": "Wood Trade B.V.",
+    "destination_country": "Mexico",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "006-78480496",
+    "total_value": 205935.55,
+    "currency": "EUR",
+    "signatory": "Donna Guzman",
+    "line_items": [
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Malaysia",
+        "qty": 186,
+        "unit": "PKG",
+        "entered_value": 15043.68,
+        "duty_rate": 0.0,
+        "duty_amount": 0.0,
+        "eccn": "5E992",
+        "schedule_b": "4016.93.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Brazil",
+        "qty": 143,
+        "unit": "PKG",
+        "entered_value": 16895.45,
+        "duty_rate": 25.0,
+        "duty_amount": 4223.86,
+        "eccn": "2B350",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Germany",
+        "qty": 39,
+        "unit": "PKG",
+        "entered_value": 3032.25,
+        "duty_rate": 2.4,
+        "duty_amount": 72.77,
+        "eccn": "9A515",
+        "schedule_b": "4016.93.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Singapore",
+        "qty": 237,
+        "unit": "PCS",
+        "entered_value": 64670.19,
+        "duty_rate": 0.4,
+        "duty_amount": 258.68,
+        "eccn": "EAR99",
+        "schedule_b": "8518.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Singapore",
+        "qty": 168,
+        "unit": "KGS",
+        "entered_value": 81644.64,
+        "duty_rate": 1.5,
+        "duty_amount": 1224.67,
+        "eccn": "9A515",
+        "schedule_b": "2008.19.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "India",
+        "qty": 62,
+        "unit": "LTR",
+        "entered_value": 24649.34,
+        "duty_rate": 14.3,
+        "duty_amount": 3524.86,
+        "eccn": "1A002",
+        "schedule_b": "2901.10.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

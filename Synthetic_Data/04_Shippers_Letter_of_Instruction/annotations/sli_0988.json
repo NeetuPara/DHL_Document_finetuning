@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0988",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202211-1509",
+    "usppi_name": "Industry Hill Ltd",
+    "usppi_address": "426 Blankenship Parkways, Franklinmouth, TN 89713, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "29-4147608",
+    "consignee_name": "Dean Industry Co.",
+    "consignee_address": "USCGC Potter, FPO AP 65572, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Tech Goodwin Inc.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Justin Peterson",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/1",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 64,
+        "unit": "CTN",
+        "weight_kg": 243.72,
+        "value_usd": 3673.94
+      },
+      {
+        "marks": "EXP/12",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 155,
+        "unit": "PCS",
+        "weight_kg": 15.57,
+        "value_usd": 13178.4
+      },
+      {
+        "marks": "ABC/6",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 158,
+        "unit": "PCS",
+        "weight_kg": 112.86,
+        "value_usd": 243.97
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 51,
+        "unit": "PCS",
+        "weight_kg": 22.35,
+        "value_usd": 11687.11
+      }
+    ],
+    "total_weight_kg": 394.5,
+    "total_value_usd": 28783.42,
+    "service": "LCL Ocean",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 4521.24,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Belgium"
+  }
+}

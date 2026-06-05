@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0288",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202312-4766",
+    "usppi_name": "Johnson Industry B.V.",
+    "usppi_address": "47065 Katherine Divide, Cameronmouth, IN 27801, China",
+    "usppi_country": "China",
+    "ein": "14-8782028",
+    "consignee_name": "Castillo Global AG",
+    "consignee_address": "7173 Logan Ranch Suite 785, Lake Heatherville, MI 28824, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Commerce Hodges Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Samantha Adams",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/14",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 182,
+        "unit": "CTN",
+        "weight_kg": 464.11,
+        "value_usd": 946.81
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 177,
+        "unit": "LTR",
+        "weight_kg": 193.97,
+        "value_usd": 3391.26
+      },
+      {
+        "marks": "ABC/18",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 123,
+        "unit": "PCS",
+        "weight_kg": 52.84,
+        "value_usd": 1301.18
+      },
+      {
+        "marks": "ABC/2",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 179,
+        "unit": "PKG",
+        "weight_kg": 244.93,
+        "value_usd": 11396.46
+      },
+      {
+        "marks": "ABC/9",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 97,
+        "unit": "KGS",
+        "weight_kg": 97.0,
+        "value_usd": 1159.34
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 128,
+        "unit": "SET",
+        "weight_kg": 353.24,
+        "value_usd": 13772.47
+      }
+    ],
+    "total_weight_kg": 1406.09,
+    "total_value_usd": 31967.52,
+    "vessel": "MSC GULSUN",
+    "voyage": "221S",
+    "booking_ref": "BKG-255656",
+    "bl_number": "EGLV858603079",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Qingdao, CN",
+    "container_number": "GQUM0856994",
+    "seal_number": "SL471406",
+    "container_type": "40'GP",
+    "cbm": 61.575
+  }
+}

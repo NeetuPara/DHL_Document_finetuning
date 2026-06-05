@@ -1,0 +1,60 @@
+{
+  "packet_id": "packet_1408",
+  "total_pages": 5,
+  "n_documents": 5,
+  "class_sequence": [
+    "Certificate of Origin",
+    "Customs Declaration",
+    "House Airway Bill",
+    "Dangerous Goods Declaration",
+    "Shipper's Letter of Instruction"
+  ],
+  "documents": [
+    {
+      "doc_class": "Certificate of Origin",
+      "class_index": 3,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "coo_0754.pdf",
+      "source_class_folder": "03_Certificate_of_Origin"
+    },
+    {
+      "doc_class": "Customs Declaration",
+      "class_index": 9,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "cn23_0175.pdf",
+      "source_class_folder": "09_Customs_Declarations"
+    },
+    {
+      "doc_class": "House Airway Bill",
+      "class_index": 7,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "hawb_0391.pdf",
+      "source_class_folder": "07_House_Airway_Bill"
+    },
+    {
+      "doc_class": "Dangerous Goods Declaration",
+      "class_index": 5,
+      "page_start": 4,
+      "page_end": 4,
+      "n_pages": 1,
+      "source_file": "dgd_0200.pdf",
+      "source_class_folder": "05_Dangerous_Goods_Declaration"
+    },
+    {
+      "doc_class": "Shipper's Letter of Instruction",
+      "class_index": 4,
+      "page_start": 5,
+      "page_end": 5,
+      "n_pages": 1,
+      "source_file": "sli_0026.pdf",
+      "source_class_folder": "04_Shippers_Letter_of_Instruction"
+    }
+  ],
+  "task": "splitting"
+}

@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0233",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202105-2289",
+    "usppi_name": "Global Jones AG",
+    "usppi_address": "93212 Davis Streets, North Craigton, IA 09831, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "57-1173210",
+    "consignee_name": "Trade Mullins Co.",
+    "consignee_address": "3838 Robert Mountains Apt. 723, East Kennethhaven, MD 19141, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Tate Pacific B.V.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Carol Patterson",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/30",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 196,
+        "unit": "CTN",
+        "weight_kg": 295.18,
+        "value_usd": 2370.26
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 5,
+        "unit": "LTR",
+        "weight_kg": 5.06,
+        "value_usd": 92.08
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 196,
+        "unit": "PCS",
+        "weight_kg": 36.23,
+        "value_usd": 25620.33
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 199,
+        "unit": "KGS",
+        "weight_kg": 199.0,
+        "value_usd": 3251.91
+      }
+    ],
+    "total_weight_kg": 535.47,
+    "total_value_usd": 31334.58,
+    "service": "LCL Ocean",
+    "named_port": "Colombo, LK",
+    "insurance_value_usd": 20457.02,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-470027",
+    "destination_country": "Netherlands"
+  }
+}

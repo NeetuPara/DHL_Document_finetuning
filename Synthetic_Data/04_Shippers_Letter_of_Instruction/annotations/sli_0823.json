@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0823",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202411-1208",
+    "usppi_name": "Olson International B.V.",
+    "usppi_address": "PSC 1715, Box 8024, APO AE 23317, India",
+    "usppi_country": "India",
+    "ein": "27-9936577",
+    "consignee_name": "Kane Industry S.A.",
+    "consignee_address": "33295 Donald Neck Suite 156, Laurenmouth, MS 53390, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Fields Trade Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Amanda Armstrong",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/35",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 101,
+        "unit": "PCS",
+        "weight_kg": 52.01,
+        "value_usd": 171739.28
+      },
+      {
+        "marks": "EXP/32",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 184,
+        "unit": "PCS",
+        "weight_kg": 614.86,
+        "value_usd": 18776.13
+      },
+      {
+        "marks": "EXP/48",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 132,
+        "unit": "PCS",
+        "weight_kg": 84.07,
+        "value_usd": 3035.3
+      }
+    ],
+    "total_weight_kg": 750.94,
+    "total_value_usd": 193550.71,
+    "service": "LCL Ocean",
+    "named_port": "Hamburg, DE",
+    "insurance_value_usd": 21575.54,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-371484",
+    "destination_country": "Malaysia"
+  }
+}

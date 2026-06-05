@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0073",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Timothy Jones",
+    "addressee_company": "Garcia Global B.V.",
+    "addressee_address": "6545 Timothy Station Apt. 158, New Billyland, KY 45885, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 1.949,
+    "total_value": 3661.83,
+    "currency": "SGD",
+    "issue_date": "2026-01-11",
+    "reference": "REF-191070",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.85,
+        "value": 2441.5,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 9,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.93,
+        "value": 767.61,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 4,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.169,
+        "value": 452.72,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Shawn Mitchell",
+    "sender_company": "International James AG",
+    "sender_address": "Unit 0456 Box 0354, DPO AE 22891, Switzerland",
+    "sender_phone": "429.997.3032x4064",
+    "sender_email": "browningmackenzie@example.net",
+    "addressee_phone": "+1-861-753-0880",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 4028.01,
+    "postal_charges": 76.33,
+    "tracking_number": "WP860609137IV"
+  }
+}

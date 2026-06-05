@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0840",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-71646455",
+    "mawb_number": "085-66620620",
+    "shipper_name": "Tech Brown Corp.",
+    "shipper_address": "USS Rogers, FPO AP 67752, Netherlands",
+    "consignee_name": "Henderson Commerce LLC",
+    "consignee_address": "7289 Humphrey Cove, Watsonfort, PW 83924, Brazil",
+    "agent_name": "International Pierce Inc.",
+    "airport_departure": "NRT",
+    "airport_destination": "FRA",
+    "currency": "CAD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 48,
+    "gross_weight_kg": 435.0,
+    "chargeable_weight": 565.4,
+    "rate": 4.28,
+    "total_charge": 2419.91,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "HANDLING CODE: DGR",
+    "issue_date": "2025-10-03",
+    "signatory": "Jimmy Miller",
+    "iata_code": "60-682",
+    "agent_cass": "9452-8005",
+    "consolidation_ref": "CONS-1119-247686",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-52323642",
+        "pieces": 6,
+        "weight": 17.7,
+        "destination": "LHR",
+        "consignee": "Lucas Tech GmbH",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "125-15981804",
+        "pieces": 1,
+        "weight": 1.2,
+        "destination": "LHR",
+        "consignee": "Industry Dickerson AG",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "176-31221740",
+        "pieces": 14,
+        "weight": 13.8,
+        "destination": "ORD",
+        "consignee": "Wilkins Commerce S.A.",
+        "description": "Optical Equipment - Camera Lenses"
+      }
+    ]
+  }
+}

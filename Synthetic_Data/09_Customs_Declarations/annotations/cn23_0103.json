@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0103",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Michael Shelton",
+    "addressee_company": "Shields Tech GmbH",
+    "addressee_address": "9923 Robert Glens, Lake Austin, CA 88750, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 9.686,
+    "total_value": 1805.9,
+    "currency": "JPY",
+    "issue_date": "2025-10-29",
+    "reference": "REF-178687",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.395,
+        "value": 8.5,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 16,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.901,
+        "value": 496.32,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 2,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.567,
+        "value": 147.0,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 4,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.737,
+        "value": 293.32,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 6,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.086,
+        "value": 860.76,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_name": "John Bradley",
+    "sender_company": "Tech Alexander AG",
+    "sender_address": "3413 Cantrell Creek, Lowerybury, NJ 68266, Malaysia",
+    "sender_phone": "581-890-5075x1081",
+    "sender_email": "murphyphillip@example.net",
+    "addressee_phone": "+1-813-605-2816",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 1986.49,
+    "postal_charges": 40.14,
+    "tracking_number": "BW385573934DN"
+  }
+}

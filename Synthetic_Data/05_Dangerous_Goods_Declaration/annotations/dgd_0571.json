@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0571",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Thomas Co.",
+    "shipper_address": "4220 Mcguire Lake, New Daniel, MH 77439, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Williams Tech Ltd",
+    "consignee_address": "USCGC Silva, FPO AA 47655, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+77 682-898-1940",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 43,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 26.15,
+        "qty_unit": "g",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-479290",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jimmy Archer",
+    "signature_date": "2026-05-08",
+    "signature_place": "United Arab Emirates",
+    "awb_number": "160-16698088",
+    "flight_number": "CX908",
+    "flight_date": "2026-06-12",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International"
+  }
+}

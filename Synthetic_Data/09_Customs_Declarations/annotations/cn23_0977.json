@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0977",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Derrick Mcguire",
+    "addressee_company": "Commerce Conley AG",
+    "addressee_address": "4918 Brenda Islands Apt. 925, West Debra, WY 24806, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 2.906,
+    "total_value": 422.13,
+    "currency": "CHF",
+    "issue_date": "2025-07-01",
+    "reference": "REF-071993",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.613,
+        "value": 68.13,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 15,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.293,
+        "value": 354.0,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Brianna Wright",
+    "sender_company": "Dixon Pacific AG",
+    "sender_address": "946 Jenkins Ford Suite 465, East Edwardfurt, WA 80744, Netherlands",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 464.34,
+    "postal_charges": 53.91,
+    "tracking_number": "WP619668419ID"
+  }
+}

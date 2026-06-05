@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0849",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Scott Lee",
+    "addressee_company": "Tech Wright Corp.",
+    "addressee_address": "4129 Lyons Street, South Jordan, AL 07111, India",
+    "addressee_country": "India",
+    "total_weight_kg": 6.355,
+    "total_value": 1201.44,
+    "currency": "CNY",
+    "issue_date": "2026-03-13",
+    "reference": "REF-767657",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.603,
+        "value": 1181.36,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 2,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.752,
+        "value": 20.08,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_country": "Netherlands",
+    "port_of_entry": "Miami, FL",
+    "entry_number": "536-39339071-6",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 5.3,
+    "estimated_duty": 63.68,
+    "importer_ein": "34-0941844",
+    "customs_broker": "Hammond International Inc."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0251",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240330750043",
+    "export_date": "2026-01-23",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Smith Industry Pte Ltd",
+    "usppi_ein": "54-0566483",
+    "usppi_address": "038 Brown Roads Apt. 921, New Diana, AK 27410, Australia",
+    "ultimate_consignee": "Tucker Commerce Co.",
+    "intermediate_consignee": "Trade Cooper B.V.",
+    "forwarding_agent": "Mccall Industry Pte Ltd",
+    "destination_country": "Poland",
+    "carrier": "FedEx",
+    "bl_awb": "006-94249656",
+    "total_value": 240198.58,
+    "currency": "CNY",
+    "signatory": "Ashley Smith",
+    "line_items": [
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Switzerland",
+        "qty": 327,
+        "unit": "PCS",
+        "entered_value": 66541.23,
+        "duty_rate": 9.8,
+        "duty_amount": 6521.04,
+        "eccn": "EAR99",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Australia",
+        "qty": 482,
+        "unit": "PCS",
+        "entered_value": 146349.66,
+        "duty_rate": 13.7,
+        "duty_amount": 20049.9,
+        "eccn": "1A002",
+        "schedule_b": "8518.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "United States",
+        "qty": 449,
+        "unit": "PCS",
+        "entered_value": 3812.01,
+        "duty_rate": 17.4,
+        "duty_amount": 663.29,
+        "eccn": "7A994",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Switzerland",
+        "qty": 104,
+        "unit": "CTN",
+        "entered_value": 23495.68,
+        "duty_rate": 2.5,
+        "duty_amount": 587.39,
+        "eccn": "5E992",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

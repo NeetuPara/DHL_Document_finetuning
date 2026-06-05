@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0998",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Gross Co.",
+    "shipper_address": "6789 Timothy Heights Apt. 969, South Latasha, SC 71105, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "International Cox Corp.",
+    "consignee_address": "99848 Ramirez Center, Vegamouth, NJ 14060, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+90 969-173-7190",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 17,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 27.98,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 23,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 89.43,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-513608",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Rhonda Rodriguez",
+    "signature_date": "2026-05-07",
+    "signature_place": "Japan",
+    "vessel": "PIL PACIFIC",
+    "voyage": "453N",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Singapore, SG"
+  }
+}

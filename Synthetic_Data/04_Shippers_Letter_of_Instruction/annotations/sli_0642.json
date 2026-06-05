@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0642",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202305-8403",
+    "usppi_name": "Frank Trade Ltd",
+    "usppi_address": "40788 Joshua Ramp, Jacquelineton, WY 96152, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "77-1221523",
+    "consignee_name": "Dunn Industry Pte Ltd",
+    "consignee_address": "4725 Maria Mountains, Jamesmouth, OK 40062, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Brady International Inc.",
+    "forwarder": "Panalpina",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Nicole Barnett",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/39",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 192,
+        "unit": "CTN",
+        "weight_kg": 804.91,
+        "value_usd": 4900.68
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 159,
+        "unit": "PCS",
+        "weight_kg": 357.47,
+        "value_usd": 79574.34
+      }
+    ],
+    "total_weight_kg": 1162.38,
+    "total_value_usd": 84475.02,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "180W",
+    "booking_ref": "BKG-254750",
+    "bl_number": "EGLV769968325",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Hamburg, DE",
+    "container_number": "XYKQ3654095",
+    "seal_number": "SL897299",
+    "container_type": "45'HC",
+    "cbm": 23.952
+  }
+}

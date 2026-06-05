@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0851",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Gordon Global Co.",
+    "shipper_address": "289 Lee Mews, South Kathleenton, NC 95976, France",
+    "shipper_country": "France",
+    "consignee_name": "Garcia Tech S.A.",
+    "consignee_address": "57309 Pierce Heights, Robertchester, AR 25804, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+6 707-840-5905",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 36,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 1.31,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-876673",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 2,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 16.76,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-656141",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Lori Arnold",
+    "signature_date": "2026-05-03",
+    "signature_place": "France",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "112E",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Tokyo, JP"
+  }
+}

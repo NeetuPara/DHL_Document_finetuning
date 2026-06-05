@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0065",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Rivera LLC",
+    "shipper_address": "13033 Kyle Village Apt. 702, East Deniseshire, MA 31774, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Hensley Global B.V.",
+    "consignee_address": "33389 Brenda Islands Suite 243, New Kenneth, MP 96727, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+33 163-880-2997",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 27,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 87.3,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 22,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 14.58,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-515294",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "James Allison",
+    "signature_date": "2026-04-24",
+    "signature_place": "Japan",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "947E",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Tanjung Pelepas, MY"
+  }
+}

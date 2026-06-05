@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0255",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202206-1744",
+    "usppi_name": "Industry Reynolds Co.",
+    "usppi_address": "4127 Hebert Prairie Apt. 679, Lake Jessicastad, MN 56801, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "70-5749549",
+    "consignee_name": "Smith Tech Corp.",
+    "consignee_address": "048 Susan Courts Suite 342, Stephaniechester, IL 31371, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Bailey Commerce LLC",
+    "forwarder": "Panalpina",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Christopher Ochoa",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/33",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 156,
+        "unit": "KGS",
+        "weight_kg": 156.0,
+        "value_usd": 2362.62
+      },
+      {
+        "marks": "ABC/10",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 197,
+        "unit": "BOX",
+        "weight_kg": 101.02,
+        "value_usd": 17416.79
+      },
+      {
+        "marks": "SLI/8",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 79,
+        "unit": "PCS",
+        "weight_kg": 81.73,
+        "value_usd": 2482.79
+      },
+      {
+        "marks": "ABC/35",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 173,
+        "unit": "PCS",
+        "weight_kg": 84.67,
+        "value_usd": 53371.97
+      }
+    ],
+    "total_weight_kg": 423.42,
+    "total_value_usd": 75634.17,
+    "vessel": "PIL PACIFIC",
+    "voyage": "397S",
+    "booking_ref": "BKG-782540",
+    "bl_number": "OOLU466446075",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Long Beach, US",
+    "container_number": "RWYK9766081",
+    "seal_number": "BL637705",
+    "container_type": "45'HC",
+    "cbm": 32.076
+  }
+}

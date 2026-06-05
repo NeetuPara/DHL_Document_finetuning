@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0979",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "493-39395897-8",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2025-11-27",
+    "port_of_entry": "SEA - Seattle",
+    "transport_mode": "Ocean",
+    "carrier": "DHL Express",
+    "bl_awb": "074-50868798",
+    "importer_name": "Commerce Marshall Pte Ltd",
+    "importer_ein": "14-0021296",
+    "consignee_name": "Global Conrad AG",
+    "customs_broker": "Lynn Pacific S.A.",
+    "broker_filer_code": "RWP",
+    "country_of_origin": "Malaysia",
+    "total_value": 162190.35,
+    "total_duty": 2892.74,
+    "currency": "GBP",
+    "signatory": "Marie Watkins",
+    "signatory_title": "Trade Finance Manager",
+    "line_items": [
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Australia",
+        "qty": 371,
+        "unit": "CTN",
+        "entered_value": 80310.37,
+        "duty_rate": 3.5,
+        "duty_amount": 2810.86,
+        "eccn": "1A002",
+        "schedule_b": "4819.10.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "United States",
+        "qty": 182,
+        "unit": "PCS",
+        "entered_value": 81879.98,
+        "duty_rate": 0.1,
+        "duty_amount": 81.88,
+        "eccn": "3A992",
+        "schedule_b": "8518.30.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0188",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU243552887",
+    "shipper_name": "Robinson International Inc.",
+    "shipper_address": "396 Beverly Extensions, Jonesfort, MN 83297, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Beck Pacific AG",
+    "consignee_address": "9425 Julia Port Suite 589, Lake Bianca, TX 03411, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Pacific Luna Corp.",
+    "notify_party_address": "451 Lauren Center Suite 322, Lake Michellemouth, PA 42816, India",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "905W",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2025-10-30",
+    "issue_place": "Qingdao",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "KPFZ7009307",
+        "seal_no": "SL245965",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "QCMI4445760",
+        "seal_no": "SL472822",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "RDAI0772925",
+        "seal_no": "BL886279",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 349,
+    "package_type": "Bag",
+    "gross_weight_kg": 2313.2,
+    "net_weight_kg": 2142.5,
+    "cbm": 10.495,
+    "marks_and_numbers": "XYZ/48"
+  }
+}

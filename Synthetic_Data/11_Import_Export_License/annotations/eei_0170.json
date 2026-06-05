@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0170",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20221231522248",
+    "export_date": "2025-07-05",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Moore Tech AG",
+    "usppi_ein": "17-3783201",
+    "usppi_address": "7209 Tyrone Isle Suite 701, Schwartzview, MD 49503, Canada",
+    "ultimate_consignee": "Industry Knox LLC",
+    "intermediate_consignee": "Trade Pugh LLC",
+    "forwarding_agent": "Industry Jackson GmbH",
+    "destination_country": "Italy",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "125-18180541",
+    "total_value": 155522.34,
+    "currency": "USD",
+    "signatory": "William Garcia",
+    "line_items": [
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Japan",
+        "qty": 494,
+        "unit": "CTN",
+        "entered_value": 140864.1,
+        "duty_rate": 20.8,
+        "duty_amount": 29299.73,
+        "eccn": "0A919",
+        "schedule_b": "4819.10.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "India",
+        "qty": 48,
+        "unit": "SET",
+        "entered_value": 14658.24,
+        "duty_rate": 17.0,
+        "duty_amount": 2491.9,
+        "eccn": "7A994",
+        "schedule_b": "8708.30.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

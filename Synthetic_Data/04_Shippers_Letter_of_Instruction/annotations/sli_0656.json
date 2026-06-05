@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0656",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202308-4950",
+    "usppi_name": "International Schmidt Inc.",
+    "usppi_address": "00652 Cantu Drive Suite 684, Port Kevin, SD 13375, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "89-5379927",
+    "consignee_name": "Christian Industry LLC",
+    "consignee_address": "86875 Kramer Garden, Kevinberg, MI 85819, China",
+    "consignee_country": "China",
+    "notify_party": "Trade Jones Co.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "EXW",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Jennifer Malone",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/19",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 68,
+        "unit": "PCS",
+        "weight_kg": 12.06,
+        "value_usd": 7112.73
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 108,
+        "unit": "PCS",
+        "weight_kg": 1029.26,
+        "value_usd": 28843.43
+      }
+    ],
+    "total_weight_kg": 1041.32,
+    "total_value_usd": 35956.16,
+    "service": "Express Courier",
+    "named_port": "Amsterdam Schiphol",
+    "insurance_value_usd": 38405.87,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "China"
+  }
+}

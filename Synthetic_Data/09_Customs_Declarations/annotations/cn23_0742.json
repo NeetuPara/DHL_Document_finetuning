@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0742",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Lauren Buchanan",
+    "addressee_company": "Sullivan Global Corp.",
+    "addressee_address": "5399 Kyle Points, South Jerryton, TX 94413, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 11.618,
+    "total_value": 3069.88,
+    "currency": "AUD",
+    "issue_date": "2026-03-10",
+    "reference": "REF-536904",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.84,
+        "value": 1666.72,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 10,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.219,
+        "value": 1324.8,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 12,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.559,
+        "value": 78.36,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Dominic Smith",
+    "sender_company": "Pacific Smith S.A.",
+    "sender_address": "20374 Burch Parks, Lisaport, NY 74720, Canada",
+    "sender_phone": "(617)806-1517",
+    "sender_email": "harrisevan@example.org",
+    "addressee_phone": "670-694-1529x03244",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 3376.87,
+    "postal_charges": 41.69,
+    "tracking_number": "JP467357120WG"
+  }
+}

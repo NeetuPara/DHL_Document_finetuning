@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0437",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV169651304",
+    "shipper_name": "Smith Global AG",
+    "shipper_address": "704 Allen Walk Suite 669, West Valerie, MP 73507, China",
+    "shipper_country": "China",
+    "consignee_name": "Tech Davis LLC",
+    "consignee_address": "07155 Johnson Square, Johnland, TN 74782, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party_name": "Industry Sullivan S.A.",
+    "notify_party_address": "90890 Johnson Oval Apt. 394, Annamouth, NY 84638, Netherlands",
+    "vessel": "ONE INNOVATION",
+    "voyage": "641E",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2024-06-12",
+    "issue_place": "New York",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "DLPR4897227",
+        "seal_no": "CL706554",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "SCPZ5708252",
+        "seal_no": "CL698378",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "MUYT0019183",
+        "seal_no": "SL365897",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 271,
+    "package_type": "Pallet",
+    "gross_weight_kg": 15837.0,
+    "net_weight_kg": 15032.9,
+    "cbm": 14.258,
+    "marks_and_numbers": "GLB/11"
+  }
+}

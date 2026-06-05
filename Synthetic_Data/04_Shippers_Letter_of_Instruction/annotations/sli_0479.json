@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0479",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202306-2460",
+    "usppi_name": "Smith Trade AG",
+    "usppi_address": "5870 Joshua Rue Apt. 255, Landryton, CO 78365, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "90-4555235",
+    "consignee_name": "Collins Commerce Pte Ltd",
+    "consignee_address": "09113 Rodgers Mountain Apt. 532, Boltonburgh, OR 38784, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Tech Rogers Co.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "EAR99",
+    "signatory_name": "Jacob Rivera",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/34",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 22,
+        "unit": "PCS",
+        "weight_kg": 3.18,
+        "value_usd": 164.77
+      },
+      {
+        "marks": "SLI/8",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 37,
+        "unit": "PKG",
+        "weight_kg": 49.51,
+        "value_usd": 2524.66
+      }
+    ],
+    "total_weight_kg": 52.69,
+    "total_value_usd": 2689.43,
+    "service": "Express Courier",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 22683.83,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-146399",
+    "destination_country": "Belgium"
+  }
+}

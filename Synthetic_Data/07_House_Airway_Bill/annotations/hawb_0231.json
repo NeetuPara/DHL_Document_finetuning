@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0231",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-59982727",
+    "mawb_number": "125-92945980",
+    "shipper_name": "Marquez Global Inc.",
+    "shipper_address": "865 Smith Hollow Apt. 473, Duncanfurt, WY 08675, Australia",
+    "consignee_name": "Global Scott Corp.",
+    "consignee_address": "910 Andrea Mills, Karenview, NE 36803, United Kingdom",
+    "agent_name": "International Price LLC",
+    "airport_departure": "AMS",
+    "airport_destination": "JFK",
+    "currency": "CHF",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CNY 1,480.85",
+    "n_pieces": 27,
+    "gross_weight_kg": 400.7,
+    "chargeable_weight": 413.6,
+    "rate": 5.2,
+    "total_charge": 2150.72,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-04-16",
+    "signatory": "Edward Price",
+    "iata_code": "64-430",
+    "agent_cass": "7435-7843",
+    "consolidation_ref": "CONS-4740-036997",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-86175520",
+        "pieces": 16,
+        "weight": 26.6,
+        "destination": "YYZ",
+        "consignee": "Global Sexton Corp.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "074-72484516",
+        "pieces": 8,
+        "weight": 57.9,
+        "destination": "LHR",
+        "consignee": "Coleman International Co.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "160-36342620",
+        "pieces": 5,
+        "weight": 71.4,
+        "destination": "AMS",
+        "consignee": "Industry Cameron B.V.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "085-67729032",
+        "pieces": 13,
+        "weight": 21.1,
+        "destination": "SYD",
+        "consignee": "Pacific Hill Inc.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "020-82158317",
+        "pieces": 4,
+        "weight": 81.6,
+        "destination": "FRA",
+        "consignee": "International Chavez Co.",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

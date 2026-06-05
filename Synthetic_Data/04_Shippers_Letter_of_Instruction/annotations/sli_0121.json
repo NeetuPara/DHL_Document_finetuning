@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0121",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202511-4041",
+    "usppi_name": "Navarro Commerce Ltd",
+    "usppi_address": "232 Austin Drive Suite 470, Kimberlyville, IA 67030, China",
+    "usppi_country": "China",
+    "ein": "52-5315370",
+    "consignee_name": "Klein Commerce Pte Ltd",
+    "consignee_address": "739 Michelle Pine Suite 439, West Jackson, ME 76273, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Sanchez Pacific Pte Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Alan Campbell",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/48",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 97,
+        "unit": "KGS",
+        "weight_kg": 97.0,
+        "value_usd": 152.27
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 25,
+        "unit": "BOX",
+        "weight_kg": 31.36,
+        "value_usd": 467.26
+      }
+    ],
+    "total_weight_kg": 128.36,
+    "total_value_usd": 619.53,
+    "service": "Air Freight",
+    "named_port": "Paris CDG",
+    "insurance_value_usd": 38621.25,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-585208",
+    "destination_country": "Singapore"
+  }
+}

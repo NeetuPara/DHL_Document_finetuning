@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0601",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Mcdonald Pacific Pte Ltd",
+    "shipper_address": "4692 Amanda Land, Grantshire, UT 80584, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Hudson Tech AG",
+    "consignee_address": "80475 Barry Keys Apt. 702, Lake Michelle, NV 08788, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+28 272-724-5897",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 14,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 2.21,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-823108",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Vanessa Kaufman",
+    "signature_date": "2026-04-19",
+    "signature_place": "United Kingdom",
+    "awb_number": "176-83370334",
+    "flight_number": "CX8145",
+    "flight_date": "2026-06-06",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "JFK",
+    "destination_airport_name": "JFK New York"
+  }
+}

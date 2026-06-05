@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0842",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Henderson Commerce GmbH",
+    "shipper_address": "2434 Larson Cape, Kristinashire, WV 12560, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Atkins Tech Corp.",
+    "consignee_address": "61119 Susan Motorway Suite 891, West Angelamouth, MP 47515, Germany",
+    "consignee_country": "Germany",
+    "emergency_telephone": "+23 914-788-8483",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 16,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 93.3,
+        "qty_unit": "mL",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-506331",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 22,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 71.57,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Nicholas Garcia",
+    "signature_date": "2026-04-30",
+    "signature_place": "United Arab Emirates",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "858W",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Busan, KR"
+  }
+}

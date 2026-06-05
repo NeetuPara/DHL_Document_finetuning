@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0326",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU329925465",
+    "shipper_name": "Adams Global Inc.",
+    "shipper_address": "023 Williams Burg Apt. 179, Gallowaychester, MP 60636, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Global Mitchell B.V.",
+    "consignee_address": "PSC 7665, Box 4426, APO AP 41150, Spain",
+    "consignee_country": "Spain",
+    "notify_party_name": "Garza Industry B.V.",
+    "notify_party_address": "257 Anthony Harbors Apt. 605, Mccartybury, MH 71187, Switzerland",
+    "vessel": "EVER GOLDEN",
+    "voyage": "573W",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2024-11-19",
+    "issue_place": "Tokyo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "SLYF4767959",
+        "seal_no": "BL151233",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "VTDH1312854",
+        "seal_no": "SL675540",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "OZNT4049811",
+        "seal_no": "CL631671",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "CHSM0535443",
+        "seal_no": "BL704694",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 467,
+    "package_type": "Pallet",
+    "gross_weight_kg": 17871.7,
+    "net_weight_kg": 16260.3,
+    "cbm": 29.178,
+    "marks_and_numbers": "ABC/5"
+  }
+}

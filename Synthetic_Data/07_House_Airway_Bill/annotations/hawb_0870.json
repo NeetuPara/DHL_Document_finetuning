@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0870",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-71631090",
+    "mawb_number": "020-94381765",
+    "shipper_name": "White Trade S.A.",
+    "shipper_address": "53223 Russell Landing, South Carmen, MS 27433, Belgium",
+    "consignee_name": "Industry Shepard Pte Ltd",
+    "consignee_address": "371 Oneill Oval Apt. 036, East Adam, MN 91430, United Arab Emirates",
+    "agent_name": "Tech Jones AG",
+    "airport_departure": "HKG",
+    "airport_destination": "PVG",
+    "currency": "CNY",
+    "charge_code": "CC",
+    "declared_value_carriage": "JPY 4,667.93",
+    "declared_value_customs": "AED 47,818.66",
+    "n_pieces": 44,
+    "gross_weight_kg": 486.3,
+    "chargeable_weight": 599.3,
+    "rate": 6.09,
+    "total_charge": 3649.74,
+    "nature_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-03-11",
+    "signatory": "Mandy Taylor",
+    "iata_code": "64-887",
+    "agent_cass": "0568-8756",
+    "consolidation_ref": "CONS-8016-418965",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-62083557",
+        "pieces": 10,
+        "weight": 56.0,
+        "destination": "FRA",
+        "consignee": "International Smith AG",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "074-78350926",
+        "pieces": 15,
+        "weight": 20.3,
+        "destination": "LHR",
+        "consignee": "Trade Wilkinson GmbH",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "074-23872495",
+        "pieces": 1,
+        "weight": 31.4,
+        "destination": "SIN",
+        "consignee": "Pacific Woodward Pte Ltd",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "618-36028468",
+        "pieces": 20,
+        "weight": 4.1,
+        "destination": "JFK",
+        "consignee": "Pacific Baker Pte Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "020-93060131",
+        "pieces": 2,
+        "weight": 84.3,
+        "destination": "LHR",
+        "consignee": "Mejia Tech Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "074-72610717",
+        "pieces": 15,
+        "weight": 40.0,
+        "destination": "LAX",
+        "consignee": "Jefferson International GmbH",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "006-31850823",
+        "pieces": 15,
+        "weight": 22.6,
+        "destination": "LAX",
+        "consignee": "Commerce Kirby Inc.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "160-26114664",
+        "pieces": 10,
+        "weight": 5.2,
+        "destination": "SYD",
+        "consignee": "Knox Global AG",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

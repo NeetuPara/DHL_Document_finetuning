@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0505",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "040-35762562-0",
+    "entry_type": "01 - Free and Dutiable",
+    "entry_date": "2025-10-27",
+    "port_of_entry": "HOU - Houston",
+    "transport_mode": "Rail",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "125-96368734",
+    "importer_name": "Garcia Industry Co.",
+    "importer_ein": "47-2471641",
+    "consignee_name": "Gonzalez Industry Inc.",
+    "customs_broker": "Hanson Pacific LLC",
+    "broker_filer_code": "dqM",
+    "country_of_origin": "Singapore",
+    "total_value": 94355.88,
+    "total_duty": 7286.46,
+    "currency": "CAD",
+    "signatory": "Steven Rose",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Mexico",
+        "qty": 143,
+        "unit": "CTN",
+        "entered_value": 64658.88,
+        "duty_rate": 8.1,
+        "duty_amount": 5237.37,
+        "eccn": "1A002",
+        "schedule_b": "9018.31.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "France",
+        "qty": 95,
+        "unit": "CTN",
+        "entered_value": 29697.0,
+        "duty_rate": 6.9,
+        "duty_amount": 2049.09,
+        "eccn": "1A002",
+        "schedule_b": "4819.10.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

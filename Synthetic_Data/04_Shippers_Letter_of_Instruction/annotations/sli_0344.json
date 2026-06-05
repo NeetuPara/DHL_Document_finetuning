@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0344",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202101-2574",
+    "usppi_name": "Taylor Industry GmbH",
+    "usppi_address": "08458 Diaz Forest, Austinfurt, CA 98702, France",
+    "usppi_country": "France",
+    "ein": "55-6752884",
+    "consignee_name": "Kane Tech Pte Ltd",
+    "consignee_address": "14436 Mcguire Square Apt. 261, North Drew, NE 81818, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Pacific Gomez S.A.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DPU",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Ronald Everett",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/18",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 55,
+        "unit": "PCS",
+        "weight_kg": 11.47,
+        "value_usd": 11330.92
+      },
+      {
+        "marks": "EXP/12",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 125,
+        "unit": "PCS",
+        "weight_kg": 41.12,
+        "value_usd": 126365.85
+      }
+    ],
+    "total_weight_kg": 52.59,
+    "total_value_usd": 137696.77,
+    "service": "Air Freight",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 10365.96,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-738283",
+    "destination_country": "Mexico"
+  }
+}

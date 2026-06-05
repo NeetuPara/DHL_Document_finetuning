@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0901",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "James Hanson",
+    "addressee_company": "Scott Industry S.A.",
+    "addressee_address": "785 Williams Ferry, Petermouth, AL 41954, Brazil",
+    "addressee_country": "Brazil",
+    "total_weight_kg": 10.404,
+    "total_value": 4413.3,
+    "currency": "AED",
+    "issue_date": "2025-08-09",
+    "reference": "REF-580841",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.949,
+        "value": 1306.0,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 12,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.879,
+        "value": 417.48,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 18,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.923,
+        "value": 2050.74,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 13,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.653,
+        "value": 639.08,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Kristina Martin",
+    "sender_company": "Industry Stewart S.A.",
+    "sender_address": "1401 Theresa Extensions, North Shaunmouth, MH 96984, Malaysia",
+    "sender_phone": "588-643-9431x96417",
+    "sender_email": "mcdonaldalexandra@example.org",
+    "addressee_phone": "(376)303-4524",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 4854.63,
+    "postal_charges": 37.06,
+    "tracking_number": "GB784896413DQ"
+  }
+}

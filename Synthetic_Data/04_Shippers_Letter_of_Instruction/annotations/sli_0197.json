@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0197",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202108-9863",
+    "usppi_name": "International Yu B.V.",
+    "usppi_address": "947 Dixon Vista, New Mark, MS 84194, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "44-9351236",
+    "consignee_name": "Stevens Tech S.A.",
+    "consignee_address": "493 Jennifer Meadows Apt. 737, Port Lorifurt, DC 19258, India",
+    "consignee_country": "India",
+    "notify_party": "Schmidt Industry GmbH",
+    "forwarder": "Panalpina",
+    "incoterm": "CIF",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Deborah Dennis",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/26",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 15,
+        "unit": "LTR",
+        "weight_kg": 15.21,
+        "value_usd": 74.26
+      },
+      {
+        "marks": "SLI/37",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 102,
+        "unit": "PKG",
+        "weight_kg": 244.01,
+        "value_usd": 2298.3
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 58,
+        "unit": "PCS",
+        "weight_kg": 434.42,
+        "value_usd": 14804.52
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 178,
+        "unit": "PCS",
+        "weight_kg": 229.14,
+        "value_usd": 77510.58
+      },
+      {
+        "marks": "ABC/12",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 39,
+        "unit": "CTN",
+        "weight_kg": 192.11,
+        "value_usd": 1252.44
+      }
+    ],
+    "total_weight_kg": 1114.89,
+    "total_value_usd": 95940.1,
+    "service": "Ocean Freight",
+    "named_port": "New York, US",
+    "insurance_value_usd": 27233.02,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-157094",
+    "destination_country": "India"
+  }
+}

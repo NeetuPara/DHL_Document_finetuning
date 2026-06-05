@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0309",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Amanda Webb",
+    "addressee_company": "Tech Watson Co.",
+    "addressee_address": "366 Allen Alley, Loweborough, IN 96952, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 9.28,
+    "total_value": 269.5,
+    "currency": "GBP",
+    "issue_date": "2025-12-25",
+    "reference": "REF-226238",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.31,
+        "value": 104.86,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 12,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.97,
+        "value": 164.64,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_country": "France",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "581-18403831-8",
+    "entry_type": "Formal Entry",
+    "duty_rate": 9.8,
+    "estimated_duty": 26.41,
+    "importer_ein": "82-7458650",
+    "customs_broker": "Mcgee Industry Inc."
+  }
+}

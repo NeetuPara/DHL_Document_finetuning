@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0168",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "William Kelly",
+    "addressee_company": "International Harris Co.",
+    "addressee_address": "2773 Smith Village Suite 073, North Anneport, NH 04592, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 3.809,
+    "total_value": 687.69,
+    "currency": "CHF",
+    "issue_date": "2026-03-14",
+    "reference": "REF-325891",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.099,
+        "value": 73.8,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 19,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.71,
+        "value": 613.89,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_country": "Japan",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "169-00687085-1",
+    "entry_type": "Informal Entry",
+    "duty_rate": 9.2,
+    "estimated_duty": 63.27,
+    "importer_ein": "73-9645901",
+    "customs_broker": "Thompson International Pte Ltd"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0131",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202306-5434",
+    "usppi_name": "Tech Ray AG",
+    "usppi_address": "43347 Julie Fall, Matthewfurt, WV 20784, Spain",
+    "usppi_country": "Spain",
+    "ein": "10-3926771",
+    "consignee_name": "Atkinson Commerce Inc.",
+    "consignee_address": "2036 Watson Burgs Suite 230, Victormouth, AR 35663, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Trade Gilbert Corp.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "David Cunningham",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/22",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 147,
+        "unit": "CTN",
+        "weight_kg": 466.1,
+        "value_usd": 5090.17
+      },
+      {
+        "marks": "EXP/1",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 73,
+        "unit": "PCS",
+        "weight_kg": 1451.3,
+        "value_usd": 13182.28
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 97,
+        "unit": "PCS",
+        "weight_kg": 1358.47,
+        "value_usd": 34203.94
+      },
+      {
+        "marks": "ABC/21",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 177,
+        "unit": "PCS",
+        "weight_kg": 9.27,
+        "value_usd": 41910.19
+      }
+    ],
+    "total_weight_kg": 3285.14,
+    "total_value_usd": 94386.58,
+    "service": "Ground",
+    "named_port": "Miami International",
+    "insurance_value_usd": 39448.66,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-424629",
+    "destination_country": "Hong Kong"
+  }
+}

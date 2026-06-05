@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0501",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Christopher Meza",
+    "addressee_company": "Global Cobb S.A.",
+    "addressee_address": "424 Ballard Dam, Browningfurt, VI 24961, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 4.474,
+    "total_value": 1034.41,
+    "currency": "GBP",
+    "issue_date": "2026-05-08",
+    "reference": "REF-470666",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.474,
+        "value": 761.71,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 6,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.0,
+        "value": 272.7,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_country": "Germany",
+    "port_of_entry": "New York, NY",
+    "entry_number": "925-01419209-2",
+    "entry_type": "Informal Entry",
+    "duty_rate": 5.8,
+    "estimated_duty": 60.0,
+    "importer_ein": "43-4629715",
+    "customs_broker": "Whitney Commerce LLC"
+  }
+}

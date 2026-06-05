@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0090",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-64313513",
+    "mawb_number": "176-64025434",
+    "shipper_name": "Jones Tech LLC",
+    "shipper_address": "8404 Martinez Loaf, Thompsonland, MN 38050, Belgium",
+    "consignee_name": "Pacific Williams Inc.",
+    "consignee_address": "40960 Wagner Dam Apt. 602, New Christopher, TX 06448, United States",
+    "agent_name": "Commerce Simpson S.A.",
+    "airport_departure": "LHR",
+    "airport_destination": "JFK",
+    "currency": "USD",
+    "charge_code": "CC",
+    "declared_value_carriage": "SGD 6,783.00",
+    "declared_value_customs": "NCV",
+    "n_pieces": 15,
+    "gross_weight_kg": 92.0,
+    "chargeable_weight": 95.5,
+    "rate": 1.58,
+    "total_charge": 150.89,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "HANDLING CODE: AVI",
+    "issue_date": "2025-08-26",
+    "signatory": "Gabriela Schmidt",
+    "iata_code": "70-329",
+    "agent_cass": "9295-9161",
+    "consolidation_ref": "CONS-6661-606936",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-57718769",
+        "pieces": 12,
+        "weight": 58.0,
+        "destination": "JFK",
+        "consignee": "Brown Tech GmbH",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "618-57921878",
+        "pieces": 19,
+        "weight": 57.4,
+        "destination": "CDG",
+        "consignee": "Olson Global Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "618-25953988",
+        "pieces": 15,
+        "weight": 70.4,
+        "destination": "CDG",
+        "consignee": "Gillespie Global S.A.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "160-40958463",
+        "pieces": 7,
+        "weight": 87.3,
+        "destination": "AMS",
+        "consignee": "Bright Pacific Co.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "618-87577604",
+        "pieces": 20,
+        "weight": 66.4,
+        "destination": "YYZ",
+        "consignee": "International Robinson GmbH",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "057-66783565",
+        "pieces": 15,
+        "weight": 79.0,
+        "destination": "CDG",
+        "consignee": "Watson Tech LLC",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

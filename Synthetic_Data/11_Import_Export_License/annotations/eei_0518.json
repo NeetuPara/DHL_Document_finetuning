@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0518",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220424743393",
+    "export_date": "2026-03-29",
+    "aes_option": "AES Filing",
+    "usppi_name": "Tech Marshall Inc.",
+    "usppi_ein": "88-0809602",
+    "usppi_address": "9845 Taylor Mill Apt. 642, Lake Nancy, FM 28491, Germany",
+    "ultimate_consignee": "Cabrera Trade Co.",
+    "intermediate_consignee": "International Gill AG",
+    "forwarding_agent": "Tech Townsend Corp.",
+    "destination_country": "Mexico",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "085-89218189",
+    "total_value": 347546.29,
+    "currency": "CAD",
+    "signatory": "Brian Chase",
+    "line_items": [
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Thailand",
+        "qty": 489,
+        "unit": "PCS",
+        "entered_value": 77496.72,
+        "duty_rate": 21.2,
+        "duty_amount": 16429.3,
+        "eccn": "3A992",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Netherlands",
+        "qty": 303,
+        "unit": "PCS",
+        "entered_value": 67971.99,
+        "duty_rate": 6.1,
+        "duty_amount": 4146.29,
+        "eccn": "7A994",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Netherlands",
+        "qty": 116,
+        "unit": "BOX",
+        "entered_value": 47267.68,
+        "duty_rate": 14.9,
+        "duty_amount": 7042.88,
+        "eccn": "0A919",
+        "schedule_b": "2936.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Spain",
+        "qty": 378,
+        "unit": "BOX",
+        "entered_value": 154809.9,
+        "duty_rate": 0.1,
+        "duty_amount": 154.81,
+        "eccn": "0A919",
+        "schedule_b": "2936.90.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

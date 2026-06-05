@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0432",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Smith Corp.",
+    "shipper_address": "275 Weaver Inlet Suite 431, Sanchezview, KS 49340, China",
+    "shipper_country": "China",
+    "consignee_name": "Patterson Industry B.V.",
+    "consignee_address": "980 Virginia Locks Apt. 565, North Alexanderville, SD 91995, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+47 904-561-8541",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 14,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 55.29,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-530731",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 7,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 39.91,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Richard Lane",
+    "signature_date": "2026-05-07",
+    "signature_place": "China",
+    "awb_number": "074-98242326",
+    "flight_number": "EK1991",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "CDG",
+    "destination_airport_name": "Paris CDG",
+    "non_dg_reason": "Lithium Ion Batteries \u2014 Section II (PI 967/Section II)"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0731",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kathleen Knight",
+    "addressee_company": "Industry Hendrix LLC",
+    "addressee_address": "8895 Barrera Port, Lindaport, PA 88519, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 2.602,
+    "total_value": 2307.54,
+    "currency": "USD",
+    "issue_date": "2026-03-17",
+    "reference": "REF-037330",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.924,
+        "value": 199.56,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 14,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.167,
+        "value": 1536.64,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 7,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.511,
+        "value": 571.34,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_name": "Mark Gordon",
+    "sender_company": "Howard Tech B.V.",
+    "sender_address": "USS Palmer, FPO AP 17274, Brazil",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 2538.29,
+    "postal_charges": 21.7,
+    "tracking_number": "UH817531860JR"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0460",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV235937242",
+    "shipper_name": "Global Miller Corp.",
+    "shipper_address": "3909 Tracy Flat Apt. 592, East Kimberly, MA 23631, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "White Global Ltd",
+    "consignee_address": "9727 Dorsey Way, New Ashleyton, ID 88620, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Rocha Trade Co.",
+    "notify_party_address": "9337 Parsons Fall, East Lisa, ID 41262, Sweden",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "735W",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Qingdao, CN",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2025-04-29",
+    "issue_place": "Hamburg",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "JBOD3007900",
+        "seal_no": "SL237328",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "MLMJ0308785",
+        "seal_no": "SL894454",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "PXWT5300993",
+        "seal_no": "SL394041",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "PJII8504035",
+        "seal_no": "CL470446",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 298,
+    "package_type": "Bundle",
+    "gross_weight_kg": 16729.8,
+    "net_weight_kg": 15529.8,
+    "cbm": 29.589,
+    "marks_and_numbers": "GLB/30"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0003",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU277953750",
+    "shipper_name": "Washington Global Ltd",
+    "shipper_address": "3929 Kevin Lodge Apt. 898, South Michelle, MT 11146, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Industry Franklin LLC",
+    "consignee_address": "849 Kimberly Springs, Port Erin, MT 04222, Australia",
+    "consignee_country": "Australia",
+    "notify_party_name": "Global Morrison S.A.",
+    "notify_party_address": "1352 Clark Mission Suite 148, Hallburgh, RI 22355, France",
+    "vessel": "EVER GOLDEN",
+    "voyage": "795S",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2025-09-25",
+    "issue_place": "Singapore",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "KUIU5681963",
+        "seal_no": "BL168541",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "QIIL2285469",
+        "seal_no": "SL439027",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "YSIP9216760",
+        "seal_no": "BL678258",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 331,
+    "package_type": "Drum",
+    "gross_weight_kg": 11178.5,
+    "net_weight_kg": 10646.3,
+    "cbm": 14.185,
+    "marks_and_numbers": "XYZ/32"
+  }
+}

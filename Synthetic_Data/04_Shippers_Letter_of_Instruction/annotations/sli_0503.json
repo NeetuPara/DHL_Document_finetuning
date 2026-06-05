@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0503",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202401-5794",
+    "usppi_name": "Trade Davis GmbH",
+    "usppi_address": "41743 Shepherd Mount Apt. 886, East Jessica, IN 08196, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "23-8353356",
+    "consignee_name": "Church International Ltd",
+    "consignee_address": "802 Spencer Mountains, Amandamouth, MA 72952, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Industry Allen Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Andrew Boyd",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/25",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 199,
+        "unit": "SET",
+        "weight_kg": 363.8,
+        "value_usd": 33103.24
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 108,
+        "unit": "CTN",
+        "weight_kg": 500.53,
+        "value_usd": 7355.09
+      }
+    ],
+    "total_weight_kg": 864.33,
+    "total_value_usd": 40458.33,
+    "service": "Express Courier",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 46173.57,
+    "license_type": "Distributor License",
+    "license_number": "LIC-583053",
+    "destination_country": "Hong Kong"
+  }
+}

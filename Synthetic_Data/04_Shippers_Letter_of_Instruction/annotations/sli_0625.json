@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0625",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202603-8041",
+    "usppi_name": "Tech Wilcox Pte Ltd",
+    "usppi_address": "593 Shelton Villages Suite 287, East Steven, CA 36717, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "81-7128163",
+    "consignee_name": "Sanchez Pacific Corp.",
+    "consignee_address": "523 David Mall Suite 211, Annashire, GA 77185, France",
+    "consignee_country": "France",
+    "notify_party": "Williams Tech LLC",
+    "forwarder": "DB Schenker",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Dean Clark",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/2",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 32,
+        "unit": "PKG",
+        "weight_kg": 41.95,
+        "value_usd": 2170.75
+      },
+      {
+        "marks": "ABC/18",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 137,
+        "unit": "SET",
+        "weight_kg": 229.27,
+        "value_usd": 11336.64
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 75,
+        "unit": "CTN",
+        "weight_kg": 55.01,
+        "value_usd": 939.21
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 31,
+        "unit": "BOX",
+        "weight_kg": 51.94,
+        "value_usd": 2486.94
+      }
+    ],
+    "total_weight_kg": 378.17,
+    "total_value_usd": 16933.54,
+    "service": "Ground",
+    "named_port": "Tokyo Narita",
+    "insurance_value_usd": 9263.69,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-201538",
+    "destination_country": "France"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0828",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU731410220",
+    "shipper_name": "Smith International B.V.",
+    "shipper_address": "75835 Nicole Fords, Combstown, VT 56454, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Calderon International Inc.",
+    "consignee_address": "278 Bruce Shoals Suite 411, South Kathy, KS 37857, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "Pacific Allen GmbH",
+    "notify_party_address": "48804 Cameron Wall, North Donald, UT 94740, France",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "556W",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Hong Kong, HK",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Hong Kong, HK",
+    "issue_date": "2025-04-16",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "EXCU1138528",
+        "seal_no": "BL946314",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "WUDF0894974",
+        "seal_no": "BL889602",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "UWDZ9533013",
+        "seal_no": "BL862591",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "CNKX8166682",
+        "seal_no": "BL473327",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 318,
+    "package_type": "Carton",
+    "gross_weight_kg": 16529.2,
+    "net_weight_kg": 15543.2,
+    "cbm": 20.274,
+    "marks_and_numbers": "GLB/46"
+  }
+}

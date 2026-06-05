@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0886",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202011-5282",
+    "usppi_name": "Hudson Trade LLC",
+    "usppi_address": "8464 Elaine Unions, Timothyland, IN 06579, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "84-9135345",
+    "consignee_name": "Commerce Schwartz Corp.",
+    "consignee_address": "432 Anthony Dale, West Olivia, MP 50538, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Taylor Industry Pte Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Robin Smith",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/10",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 35,
+        "unit": "KGS",
+        "weight_kg": 35.0,
+        "value_usd": 80.6
+      },
+      {
+        "marks": "EXP/42",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 22,
+        "unit": "PCS",
+        "weight_kg": 483.41,
+        "value_usd": 4618.37
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 46,
+        "unit": "PCS",
+        "weight_kg": 5.88,
+        "value_usd": 2600.4
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 46,
+        "unit": "CTN",
+        "weight_kg": 171.2,
+        "value_usd": 1704.79
+      },
+      {
+        "marks": "ABC/19",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 179,
+        "unit": "PCS",
+        "weight_kg": 232.0,
+        "value_usd": 280193.61
+      },
+      {
+        "marks": "EXP/14",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 50,
+        "unit": "PKG",
+        "weight_kg": 32.27,
+        "value_usd": 3187.05
+      }
+    ],
+    "total_weight_kg": 959.76,
+    "total_value_usd": 292384.82,
+    "service": "Air Freight",
+    "named_port": "Paris CDG",
+    "insurance_value_usd": 43740.31,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-848859",
+    "destination_country": "Brazil"
+  }
+}

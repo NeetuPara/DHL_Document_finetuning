@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0623",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202303-4539",
+    "usppi_name": "Valdez Commerce Pte Ltd",
+    "usppi_address": "540 Hunter View Apt. 661, Port Stevenfurt, OK 90843, Italy",
+    "usppi_country": "Italy",
+    "ein": "59-4319240",
+    "consignee_name": "Macdonald International Corp.",
+    "consignee_address": "32139 Johnson Mountain Apt. 835, Petermouth, CA 78320, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Trade Black Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Brian Dennis",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/35",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 43,
+        "unit": "MTR",
+        "weight_kg": 43.2,
+        "value_usd": 210.59
+      },
+      {
+        "marks": "ABC/41",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 199,
+        "unit": "LTR",
+        "weight_kg": 217.78,
+        "value_usd": 992.36
+      },
+      {
+        "marks": "EXP/4",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 146,
+        "unit": "BOX",
+        "weight_kg": 122.68,
+        "value_usd": 3782.54
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 86,
+        "unit": "PCS",
+        "weight_kg": 12.61,
+        "value_usd": 4663.93
+      }
+    ],
+    "total_weight_kg": 396.27,
+    "total_value_usd": 9649.42,
+    "service": "Air Freight",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 37237.64,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-115031",
+    "destination_country": "Malaysia"
+  }
+}

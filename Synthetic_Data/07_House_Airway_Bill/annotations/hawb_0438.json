@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0438",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-77508017",
+    "mawb_number": "020-36526174",
+    "shipper_name": "Berry Trade GmbH",
+    "shipper_address": "11779 Freeman Ports, West Markfurt, NY 37163, Australia",
+    "consignee_name": "Li International Co.",
+    "consignee_address": "7920 Cesar Union Apt. 473, Lake William, WI 37386, China",
+    "agent_name": "Pacific Bauer Ltd",
+    "airport_departure": "LAX",
+    "airport_destination": "DXB",
+    "currency": "AED",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 49,
+    "gross_weight_kg": 186.2,
+    "chargeable_weight": 209.9,
+    "rate": 4.34,
+    "total_charge": 910.97,
+    "nature_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-04-22",
+    "signatory": "Donald Williams",
+    "iata_code": "12-683",
+    "agent_cass": "7566-0423",
+    "consolidation_ref": "CONS-8206-858217",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-24003051",
+        "pieces": 1,
+        "weight": 88.8,
+        "destination": "MIA",
+        "consignee": "James Global S.A.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "618-19602217",
+        "pieces": 19,
+        "weight": 42.1,
+        "destination": "YYZ",
+        "consignee": "Eaton Pacific Co.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "085-64626706",
+        "pieces": 4,
+        "weight": 96.0,
+        "destination": "ICN",
+        "consignee": "International Peck GmbH",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "020-91525295",
+        "pieces": 19,
+        "weight": 20.0,
+        "destination": "HKG",
+        "consignee": "Riley Tech Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "057-70851242",
+        "pieces": 3,
+        "weight": 12.4,
+        "destination": "PVG",
+        "consignee": "Johnson Pacific Corp.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "074-36351948",
+        "pieces": 4,
+        "weight": 75.2,
+        "destination": "HKG",
+        "consignee": "Trade Norris Corp.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "125-51568533",
+        "pieces": 2,
+        "weight": 98.1,
+        "destination": "PVG",
+        "consignee": "Global Miller Inc.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "618-69837036",
+        "pieces": 18,
+        "weight": 71.9,
+        "destination": "HKG",
+        "consignee": "Tech Huang Ltd",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

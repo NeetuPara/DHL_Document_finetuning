@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0205",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Palmer Tech Co.",
+    "shipper_address": "62687 Benjamin River Apt. 855, West Raymondstad, MS 92226, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Commerce Obrien Corp.",
+    "consignee_address": "267 Rice Bypass, Lopezmouth, PR 57521, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "emergency_telephone": "+19 340-698-1452",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 50,
+        "pkg_type": "Steel Drum",
+        "net_qty": 72.41,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 19,
+        "pkg_type": "Steel Drum",
+        "net_qty": 52.02,
+        "qty_unit": "mL",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Tamara Hardin",
+    "signature_date": "2026-05-09",
+    "signature_place": "Sweden",
+    "awb_number": "618-15223068",
+    "flight_number": "LH9460",
+    "flight_date": "2026-05-27",
+    "departure_airport_code": "AMS",
+    "departure_airport_name": "Amsterdam Schiphol",
+    "destination_airport_code": "NRT",
+    "destination_airport_name": "Tokyo Narita"
+  }
+}

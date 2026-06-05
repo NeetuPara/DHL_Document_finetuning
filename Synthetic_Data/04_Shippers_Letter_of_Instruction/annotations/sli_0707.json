@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0707",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202406-8392",
+    "usppi_name": "Tech Martin Corp.",
+    "usppi_address": "52643 Young Isle Apt. 119, New Taylorstad, MP 76614, Australia",
+    "usppi_country": "Australia",
+    "ein": "25-7344803",
+    "consignee_name": "Sutton International Inc.",
+    "consignee_address": "2749 Campbell Mountain Apt. 236, Barberland, NC 48088, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Global Lewis Inc.",
+    "forwarder": "Expeditors",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Courtney Williams",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/33",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 133,
+        "unit": "MTR",
+        "weight_kg": 106.18,
+        "value_usd": 1224.86
+      },
+      {
+        "marks": "ABC/14",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 131,
+        "unit": "PKG",
+        "weight_kg": 296.18,
+        "value_usd": 11180.77
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 50,
+        "unit": "LTR",
+        "weight_kg": 49.44,
+        "value_usd": 415.86
+      },
+      {
+        "marks": "EXP/23",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 54,
+        "unit": "CTN",
+        "weight_kg": 55.49,
+        "value_usd": 604.36
+      },
+      {
+        "marks": "SLI/9",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 159,
+        "unit": "SET",
+        "weight_kg": 262.81,
+        "value_usd": 6462.79
+      },
+      {
+        "marks": "SLI/12",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 150,
+        "unit": "PCS",
+        "weight_kg": 291.44,
+        "value_usd": 29434.76
+      }
+    ],
+    "total_weight_kg": 1061.54,
+    "total_value_usd": 49323.4,
+    "service": "LCL Ocean",
+    "named_port": "Rotterdam, NL",
+    "insurance_value_usd": 23557.45,
+    "license_type": "Distributor License",
+    "license_number": "LIC-484447",
+    "destination_country": "Belgium"
+  }
+}

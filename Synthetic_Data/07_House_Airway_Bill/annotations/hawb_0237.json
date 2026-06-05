@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0237",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-33833862",
+    "mawb_number": "176-91756803",
+    "shipper_name": "International Martinez Corp.",
+    "shipper_address": "8891 James Drives, East Amandachester, IA 40517, Spain",
+    "consignee_name": "Fitzgerald Pacific GmbH",
+    "consignee_address": "497 Laurie Lane Apt. 745, Mosshaven, PA 46088, Italy",
+    "agent_name": "Industry Holmes LLC",
+    "airport_departure": "ICN",
+    "airport_destination": "FRA",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CHF 41,240.96",
+    "n_pieces": 22,
+    "gross_weight_kg": 411.0,
+    "chargeable_weight": 419.6,
+    "rate": 10.64,
+    "total_charge": 4464.54,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-10-12",
+    "signatory": "Maria Maynard",
+    "iata_code": "85-253",
+    "agent_cass": "0410-2568",
+    "consolidation_ref": "CONS-4058-773706",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-37886917",
+        "pieces": 9,
+        "weight": 53.7,
+        "destination": "CDG",
+        "consignee": "Monroe Trade Inc.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "618-76720507",
+        "pieces": 16,
+        "weight": 4.9,
+        "destination": "YYZ",
+        "consignee": "Ewing Global S.A.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "074-18950483",
+        "pieces": 15,
+        "weight": 57.7,
+        "destination": "CDG",
+        "consignee": "Industry Salazar Co.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "125-66901730",
+        "pieces": 13,
+        "weight": 56.0,
+        "destination": "CDG",
+        "consignee": "Trade Martinez B.V.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "085-63606955",
+        "pieces": 4,
+        "weight": 11.2,
+        "destination": "SIN",
+        "consignee": "Trade Barber Corp.",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

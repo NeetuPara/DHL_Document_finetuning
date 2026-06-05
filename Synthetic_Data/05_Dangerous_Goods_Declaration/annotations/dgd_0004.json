@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0004",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Golden Pacific B.V.",
+    "shipper_address": "4728 Davis Garden Apt. 241, Kellyville, CO 91046, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Commerce Cummings Inc.",
+    "consignee_address": "Unit 6659 Box 4322, DPO AA 25486, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+56 970-136-2354",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 17,
+        "pkg_type": "Steel Drum",
+        "net_qty": 29.55,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 22,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 37.46,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Dillon Quinn",
+    "signature_date": "2026-05-13",
+    "signature_place": "Japan",
+    "awb_number": "160-66575563",
+    "flight_number": "UA3286",
+    "flight_date": "2026-04-30",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "ICN",
+    "destination_airport_name": "Seoul Incheon"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0517",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kayla Yu",
+    "addressee_company": "Commerce Owens S.A.",
+    "addressee_address": "9390 Melissa Village, North Jenny, MP 07202, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 5.298,
+    "total_value": 1410.5,
+    "currency": "USD",
+    "issue_date": "2025-08-26",
+    "reference": "REF-035731",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.979,
+        "value": 236.7,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 20,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.319,
+        "value": 1173.8,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_name": "Mary Hendricks",
+    "sender_company": "Robinson Pacific LLC",
+    "sender_address": "044 Williams Turnpike, Matthewberg, CO 19803, India",
+    "sender_phone": "(804)857-1362x4179",
+    "sender_email": "uowens@example.net",
+    "addressee_phone": "889.297.1970",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 1551.55,
+    "postal_charges": 40.73,
+    "tracking_number": "NW067409106HR"
+  }
+}

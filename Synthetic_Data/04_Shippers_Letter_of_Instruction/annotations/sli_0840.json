@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0840",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202101-9833",
+    "usppi_name": "Pacific Briggs Ltd",
+    "usppi_address": "10353 Daniel Via Apt. 649, Levyland, MA 38796, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "61-2685366",
+    "consignee_name": "Trade Adkins GmbH",
+    "consignee_address": "23226 Garcia Mall, Nancyberg, AZ 35030, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Global Carlson AG",
+    "forwarder": "Panalpina",
+    "incoterm": "DAP",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "EAR99",
+    "signatory_name": "Michael Martin",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/31",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 24,
+        "unit": "PCS",
+        "weight_kg": 4.06,
+        "value_usd": 751.5
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 117,
+        "unit": "PCS",
+        "weight_kg": 6.52,
+        "value_usd": 8064.18
+      },
+      {
+        "marks": "ABC/26",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 73,
+        "unit": "PCS",
+        "weight_kg": 87.41,
+        "value_usd": 52693.47
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 178,
+        "unit": "BOX",
+        "weight_kg": 220.38,
+        "value_usd": 17100.48
+      },
+      {
+        "marks": "SLI/12",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 44,
+        "unit": "KGS",
+        "weight_kg": 44.0,
+        "value_usd": 588.69
+      },
+      {
+        "marks": "SLI/45",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 86,
+        "unit": "CTN",
+        "weight_kg": 192.27,
+        "value_usd": 3412.79
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 128,
+        "unit": "MTR",
+        "weight_kg": 40.16,
+        "value_usd": 1360.0
+      },
+      {
+        "marks": "ABC/12",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 72,
+        "unit": "PKG",
+        "weight_kg": 157.75,
+        "value_usd": 4296.68
+      }
+    ],
+    "total_weight_kg": 752.55,
+    "total_value_usd": 88267.79,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "787S",
+    "booking_ref": "BKG-635508",
+    "bl_number": "COSU825655143",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "VRIY9385470",
+    "seal_number": "CL127688",
+    "container_type": "40'HC",
+    "cbm": 15.193
+  }
+}

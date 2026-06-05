@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0240",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202111-1273",
+    "exporter_name": "Roberts Trade GmbH",
+    "exporter_address": "0452 Katrina Crossing, East Charlesville, MP 06870, Sweden",
+    "exporter_country": "Sweden",
+    "consignee_name": "Walker Global B.V.",
+    "consignee_address": "948 Amanda Ports, Jonesland, MA 03571, Canada",
+    "consignee_country": "Canada",
+    "country_of_origin": "Sweden",
+    "country_of_destination": "Canada",
+    "bl_or_awb": "160-13754501",
+    "issue_date": "2025-09-20",
+    "certifier_name": "Ethan Lewis",
+    "goods": [
+      {
+        "description": "Automotive Spare Parts - Brake Pads",
+        "hs_code": "8708.30.00",
+        "qty": 292,
+        "unit": "SET",
+        "weight_kg": 1123.49,
+        "origin_criterion": "C",
+        "value": 39048.37
+      },
+      {
+        "description": "Steel Products - Hot Rolled Coils",
+        "hs_code": "7208.37.00",
+        "qty": 438,
+        "unit": "KGS",
+        "weight_kg": 438.0,
+        "origin_criterion": "E",
+        "value": 409.24
+      },
+      {
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "hs_code": "8518.30.00",
+        "qty": 53,
+        "unit": "PCS",
+        "weight_kg": 7.43,
+        "origin_criterion": "E",
+        "value": 3169.09
+      }
+    ],
+    "fta_agreement": "US-Korea FTA (KORUS)",
+    "chamber": "Export Council"
+  }
+}

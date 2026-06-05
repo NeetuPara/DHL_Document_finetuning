@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0951",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU770290599",
+    "shipper_name": "Knox Pacific Pte Ltd",
+    "shipper_address": "13564 Thompson Freeway, Catherineside, HI 20771, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Trade Chapman Corp.",
+    "consignee_address": "416 Charles Ville Suite 897, Sullivanshire, WA 73202, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party_name": "Brown Global LLC",
+    "notify_party_address": "9528 Eric Points, West Evanside, NC 97411, Netherlands",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "282E",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2024-11-15",
+    "issue_place": "Long Beach",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "PVXT7937679",
+        "seal_no": "CL791969",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "IMBB5425768",
+        "seal_no": "BL308247",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "YJCN4629326",
+        "seal_no": "SL995446",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 105,
+    "package_type": "Case",
+    "gross_weight_kg": 10324.8,
+    "net_weight_kg": 9784.3,
+    "cbm": 5.359,
+    "marks_and_numbers": "ABC/28"
+  }
+}

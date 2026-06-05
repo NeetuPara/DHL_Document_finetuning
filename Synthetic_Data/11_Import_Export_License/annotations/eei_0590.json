@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0590",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20260417909560",
+    "export_date": "2025-12-10",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Moore Global S.A.",
+    "usppi_ein": "37-9122239",
+    "usppi_address": "4462 Townsend Meadows Apt. 489, Charlesborough, LA 21133, United Arab Emirates",
+    "ultimate_consignee": "Wade International GmbH",
+    "intermediate_consignee": "Tech Moran S.A.",
+    "forwarding_agent": "Moore Tech Ltd",
+    "destination_country": "Sweden",
+    "carrier": "MSC",
+    "bl_awb": "085-90515974",
+    "total_value": 113218.79,
+    "currency": "SGD",
+    "signatory": "Lindsay Grimes",
+    "line_items": [
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 207,
+        "unit": "LTR",
+        "entered_value": 13645.44,
+        "duty_rate": 18.0,
+        "duty_amount": 2456.18,
+        "eccn": "2B350",
+        "schedule_b": "2901.10.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Sweden",
+        "qty": 321,
+        "unit": "CTN",
+        "entered_value": 97905.0,
+        "duty_rate": 10.1,
+        "duty_amount": 9888.41,
+        "eccn": "2B350",
+        "schedule_b": "4819.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "France",
+        "qty": 305,
+        "unit": "CTN",
+        "entered_value": 1668.35,
+        "duty_rate": 22.1,
+        "duty_amount": 368.71,
+        "eccn": "3A992",
+        "schedule_b": "4819.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

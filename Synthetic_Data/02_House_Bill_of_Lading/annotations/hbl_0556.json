@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0556",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU926640743",
+    "shipper_name": "Commerce Jones LLC",
+    "shipper_address": "427 Mendoza Trail Apt. 409, South Roger, AS 58467, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Brown Global Pte Ltd",
+    "consignee_address": "PSC 5468, Box 0774, APO AP 37075, Canada",
+    "consignee_country": "Canada",
+    "notify_party_name": "Global Kidd Corp.",
+    "notify_party_address": "4120 Hart Mission, South Robertmouth, FM 70111, Australia",
+    "vessel": "EVER GOLDEN",
+    "voyage": "127N",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Felixstowe, GB",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2025-02-21",
+    "issue_place": "Shanghai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "DGRP9661267",
+        "seal_no": "BL717887",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "CNLX7020740",
+        "seal_no": "SL828622",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "UIXF2439485",
+        "seal_no": "CL301216",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "PWJI2372011",
+        "seal_no": "BL988066",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 369,
+    "package_type": "Carton",
+    "gross_weight_kg": 10706.1,
+    "net_weight_kg": 10082.4,
+    "cbm": 12.441,
+    "marks_and_numbers": "XYZ/32"
+  }
+}

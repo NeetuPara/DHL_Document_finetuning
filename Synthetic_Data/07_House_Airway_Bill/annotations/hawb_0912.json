@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0912",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-85934236",
+    "mawb_number": "085-55342190",
+    "shipper_name": "Trade King Inc.",
+    "shipper_address": "712 Kurt Courts Apt. 181, Adamsborough, IL 70739, South Korea",
+    "consignee_name": "Steele Global S.A.",
+    "consignee_address": "74985 Alexander Glens, Owensshire, OR 17720, China",
+    "agent_name": "Industry Barrett Inc.",
+    "airport_departure": "FRA",
+    "airport_destination": "DXB",
+    "currency": "AUD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 45,
+    "gross_weight_kg": 51.6,
+    "chargeable_weight": 66.8,
+    "rate": 10.24,
+    "total_charge": 684.03,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-04-20",
+    "signatory": "Tiffany Anderson",
+    "iata_code": "92-689",
+    "agent_cass": "9875-7955",
+    "consolidation_ref": "CONS-9765-718933",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-99398991",
+        "pieces": 14,
+        "weight": 49.2,
+        "destination": "DXB",
+        "consignee": "International Chandler Co.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "618-87047671",
+        "pieces": 20,
+        "weight": 33.8,
+        "destination": "FRA",
+        "consignee": "Tech Schroeder Corp.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "085-86289366",
+        "pieces": 1,
+        "weight": 31.1,
+        "destination": "JFK",
+        "consignee": "Trade Mcmillan LLC",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "176-60820961",
+        "pieces": 1,
+        "weight": 18.0,
+        "destination": "DXB",
+        "consignee": "Commerce Bowman B.V.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

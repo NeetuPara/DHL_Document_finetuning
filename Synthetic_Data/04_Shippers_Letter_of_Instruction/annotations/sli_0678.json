@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0678",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202111-3870",
+    "usppi_name": "Scott Industry GmbH",
+    "usppi_address": "13460 Lorraine Hill, Port Steveberg, CO 43862, Italy",
+    "usppi_country": "Italy",
+    "ein": "59-9350503",
+    "consignee_name": "Thomas Commerce AG",
+    "consignee_address": "2238 Stacy Throughway Apt. 088, South Johnhaven, MH 49482, United States",
+    "consignee_country": "United States",
+    "notify_party": "Trade Ward Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Carrie Cherry",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/23",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 53,
+        "unit": "LTR",
+        "weight_kg": 57.88,
+        "value_usd": 1084.92
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 83,
+        "unit": "PCS",
+        "weight_kg": 1361.37,
+        "value_usd": 10151.18
+      }
+    ],
+    "total_weight_kg": 1419.25,
+    "total_value_usd": 11236.1,
+    "vessel": "MSC OSCAR",
+    "voyage": "791N",
+    "booking_ref": "BKG-383363",
+    "bl_number": "MAEU471217051",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "SHLG0119936",
+    "seal_number": "CL302070",
+    "container_type": "40'GP",
+    "cbm": 10.266
+  }
+}

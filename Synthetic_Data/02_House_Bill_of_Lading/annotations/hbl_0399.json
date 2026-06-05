@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0399",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU496049879",
+    "shipper_name": "Davis Pacific LLC",
+    "shipper_address": "520 Kurt Islands Apt. 869, Lake Chelseachester, KS 08442, China",
+    "shipper_country": "China",
+    "consignee_name": "Industry Lopez Inc.",
+    "consignee_address": "6723 Kevin Row Suite 408, Ruizstad, IN 26612, Italy",
+    "consignee_country": "Italy",
+    "notify_party_name": "Blake Tech Corp.",
+    "notify_party_address": "59581 Kelly Spurs Apt. 180, West Michaelshire, MI 79771, South Korea",
+    "vessel": "CSCL GLOBE",
+    "voyage": "674W",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2026-05-13",
+    "issue_place": "Antwerp",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "UUCF1876783",
+        "seal_no": "BL506711",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "EJCH9345243",
+        "seal_no": "CL785216",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "FBXS8863691",
+        "seal_no": "SL444721",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 401,
+    "package_type": "Drum",
+    "gross_weight_kg": 13603.1,
+    "net_weight_kg": 12558.4,
+    "cbm": 33.639,
+    "marks_and_numbers": "GLB/20"
+  }
+}

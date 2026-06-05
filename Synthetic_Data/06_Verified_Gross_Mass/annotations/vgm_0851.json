@@ -1,0 +1,82 @@
+{
+  "document_id": "vgm_0851",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Barajas Commerce GmbH",
+    "shipper_address": "50116 Yolanda Circles Apt. 138, Lake Blake, TX 21809, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "container_number": "LQIC5796055",
+    "seal_number": "CL198255",
+    "container_size": "40'RF",
+    "iso_type_code": "42R1",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 14690.4,
+    "packing_materials_kg": 92.0,
+    "vgm_kg": 19582.4,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "502E",
+    "bl_number": "OOLU161511072",
+    "booking_reference": "BKG-607992",
+    "weighing_scale_type": "Certified Electronic Scale",
+    "scale_serial": "Unit-70812",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-21",
+    "signature_date": "2026-05-09",
+    "signatory_name": "Carolyn Miller",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 7,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Crate",
+        "n_units": 1,
+        "gross_wt_kg": 1750.2
+      },
+      {
+        "item_no": 2,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Crate",
+        "n_units": 18,
+        "gross_wt_kg": 2095.3
+      },
+      {
+        "item_no": 3,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Bag",
+        "n_units": 11,
+        "gross_wt_kg": 468.1
+      },
+      {
+        "item_no": 4,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Roll",
+        "n_units": 19,
+        "gross_wt_kg": 1699.1
+      },
+      {
+        "item_no": 5,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Crate",
+        "n_units": 20,
+        "gross_wt_kg": 235.8
+      },
+      {
+        "item_no": 6,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Bag",
+        "n_units": 11,
+        "gross_wt_kg": 896.4
+      },
+      {
+        "item_no": 7,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Crate",
+        "n_units": 5,
+        "gross_wt_kg": 7545.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0428",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Zimmerman Industry Pte Ltd",
+    "shipper_address": "2817 Flowers Ridge, Port Sean, NE 74866, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Trade Miller Pte Ltd",
+    "consignee_address": "02756 Nathan Bridge, Taylorshire, AR 90835, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+5 956-855-9176",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 31,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 23.98,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 6,
+        "pkg_type": "Steel Drum",
+        "net_qty": 48.69,
+        "qty_unit": "L",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Jason Smith",
+    "signature_date": "2026-04-30",
+    "signature_place": "Poland",
+    "vessel": "PIL PACIFIC",
+    "voyage": "435E",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Tanjung Pelepas, MY"
+  }
+}

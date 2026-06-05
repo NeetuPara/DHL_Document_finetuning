@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0615",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Patel AG",
+    "shipper_address": "USNV Glover, FPO AP 57307, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "David Global B.V.",
+    "consignee_address": "0852 Smith Ports Suite 465, Alexanderburgh, CA 10664, Switzerland",
+    "consignee_country": "Switzerland",
+    "emergency_telephone": "+25 487-794-1813",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 47,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 27.87,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Ashley Murphy",
+    "signature_date": "2026-05-01",
+    "signature_place": "Canada",
+    "awb_number": "057-20200361",
+    "flight_number": "CX102",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International",
+    "non_dg_reason": "Lithium Ion Batteries \u2014 Section II (PI 967/Section II)"
+  }
+}

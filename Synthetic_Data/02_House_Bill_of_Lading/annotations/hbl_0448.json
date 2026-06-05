@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0448",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU443488265",
+    "shipper_name": "Global Owens GmbH",
+    "shipper_address": "69577 House Corner, East Mary, MS 04210, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Trade Foster Pte Ltd",
+    "consignee_address": "6402 Madeline Inlet Suite 875, Robinfort, WY 54544, Germany",
+    "consignee_country": "Germany",
+    "notify_party_name": "Commerce Luna Corp.",
+    "notify_party_address": "4591 Christine Causeway Suite 177, Michelleborough, DE 93952, India",
+    "vessel": "CSCL GLOBE",
+    "voyage": "589W",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2025-02-24",
+    "issue_place": "Colombo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "KFWK0324642",
+        "seal_no": "CL141727",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "NFCO5269765",
+        "seal_no": "SL982377",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "XECZ3851546",
+        "seal_no": "BL659504",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "YDRR7299990",
+        "seal_no": "SL951407",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 433,
+    "package_type": "Crate",
+    "gross_weight_kg": 4475.7,
+    "net_weight_kg": 4252.6,
+    "cbm": 40.101,
+    "marks_and_numbers": "GLB/15"
+  }
+}

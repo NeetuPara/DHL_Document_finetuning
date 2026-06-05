@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0604",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202307-3555",
+    "usppi_name": "Sweeney Global Corp.",
+    "usppi_address": "66340 David Roads, Youngchester, UT 44654, Germany",
+    "usppi_country": "Germany",
+    "ein": "61-9539367",
+    "consignee_name": "King International Pte Ltd",
+    "consignee_address": "23020 Nguyen Landing Suite 814, Williamsburgh, MN 40480, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Jones Trade AG",
+    "forwarder": "Expeditors",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Emily Frederick",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/23",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 70,
+        "unit": "PCS",
+        "weight_kg": 995.97,
+        "value_usd": 48753.28
+      },
+      {
+        "marks": "ABC/8",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 50,
+        "unit": "BOX",
+        "weight_kg": 24.26,
+        "value_usd": 781.33
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 46,
+        "unit": "PCS",
+        "weight_kg": 63.38,
+        "value_usd": 35708.45
+      },
+      {
+        "marks": "SLI/3",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 137,
+        "unit": "KGS",
+        "weight_kg": 137.0,
+        "value_usd": 2709.9
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 82,
+        "unit": "PCS",
+        "weight_kg": 859.67,
+        "value_usd": 22330.52
+      },
+      {
+        "marks": "ABC/50",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 160,
+        "unit": "CTN",
+        "weight_kg": 455.07,
+        "value_usd": 2388.23
+      },
+      {
+        "marks": "EXP/49",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 109,
+        "unit": "PCS",
+        "weight_kg": 52.79,
+        "value_usd": 1368.61
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 12,
+        "unit": "KGS",
+        "weight_kg": 12.0,
+        "value_usd": 23.82
+      }
+    ],
+    "total_weight_kg": 2600.14,
+    "total_value_usd": 114064.14,
+    "service": "Air Freight",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 36817.67,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-756559",
+    "destination_country": "Thailand"
+  }
+}

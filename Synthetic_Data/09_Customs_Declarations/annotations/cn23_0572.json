@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0572",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jason Barrett",
+    "addressee_company": "Mitchell Tech Pte Ltd",
+    "addressee_address": "6646 Matthew Lights, Parkerstad, ND 35659, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 6.825,
+    "total_value": 2243.64,
+    "currency": "JPY",
+    "issue_date": "2026-03-20",
+    "reference": "REF-343988",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.356,
+        "value": 1148.04,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 15,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.481,
+        "value": 579.9,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 18,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.988,
+        "value": 515.7,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Kimberly Rangel",
+    "sender_company": "Trade Charles GmbH",
+    "sender_address": "77044 Ayala Corners Suite 297, Wellsland, AS 92295, Japan",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 24.53,
+    "tracking_number": "YB150475460YS"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0342",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV449843121",
+    "shipper_name": "Obrien Trade Corp.",
+    "shipper_address": "151 Hunter Park Suite 330, East Laurafurt, WA 44565, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Brown International Pte Ltd",
+    "consignee_address": "1374 Tracy Lodge, Leeborough, MO 34069, Canada",
+    "consignee_country": "Canada",
+    "notify_party_name": "Williams Pacific S.A.",
+    "notify_party_address": "PSC 8586, Box 9279, APO AE 46797, Hong Kong",
+    "vessel": "MSC OSCAR",
+    "voyage": "878E",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Singapore, SG",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2024-12-20",
+    "issue_place": "Dubai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "GKJW1479375",
+        "seal_no": "SL766939",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "BQBL9241689",
+        "seal_no": "CL858233",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "IHHT6938363",
+        "seal_no": "SL181165",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "ZBMH7477842",
+        "seal_no": "CL193645",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "number_of_packages": 199,
+    "package_type": "Pallet",
+    "gross_weight_kg": 23065.2,
+    "net_weight_kg": 22327.2,
+    "cbm": 22.182,
+    "marks_and_numbers": "GLB/16"
+  }
+}

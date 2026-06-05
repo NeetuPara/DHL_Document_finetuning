@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0282",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Matthew Mann",
+    "addressee_company": "Global Kent Pte Ltd",
+    "addressee_address": "64723 Chen Pine, West Anneport, OR 89996, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 3.826,
+    "total_value": 3383.67,
+    "currency": "SGD",
+    "issue_date": "2026-04-21",
+    "reference": "REF-777043",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.446,
+        "value": 2026.16,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 11,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.38,
+        "value": 1357.51,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_country": "United Arab Emirates",
+    "port_of_entry": "Miami, FL",
+    "entry_number": "642-45749196-8",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 11.6,
+    "estimated_duty": 392.51,
+    "importer_ein": "46-8633884",
+    "customs_broker": "Scott Commerce Co."
+  }
+}

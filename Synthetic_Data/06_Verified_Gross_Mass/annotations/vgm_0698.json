@@ -1,0 +1,61 @@
+{
+  "document_id": "vgm_0698",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Gordon International Co.",
+    "shipper_address": "99231 Glover Pass, East Brianberg, WI 16786, Poland",
+    "shipper_country": "Poland",
+    "container_number": "RLCD0423945",
+    "seal_number": "BL829130",
+    "container_size": "40'HC",
+    "iso_type_code": "45G0",
+    "tare_weight_kg": 4000,
+    "cargo_weight_kg": 17097.9,
+    "packing_materials_kg": 137.0,
+    "vgm_kg": 21234.9,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "918E",
+    "bl_number": "DHLG655928418",
+    "booking_reference": "BKG-223395",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-64492",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-22",
+    "signature_date": "2026-05-08",
+    "signatory_name": "Anthony Smith",
+    "signatory_title": "Export Manager",
+    "number_of_packages": 4,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Pallet",
+        "n_units": 19,
+        "gross_wt_kg": 2393.7
+      },
+      {
+        "item_no": 2,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Crate",
+        "n_units": 13,
+        "gross_wt_kg": 5169.4
+      },
+      {
+        "item_no": 3,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Cylinder",
+        "n_units": 1,
+        "gross_wt_kg": 729.6
+      },
+      {
+        "item_no": 4,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Cylinder",
+        "n_units": 13,
+        "gross_wt_kg": 8805.2
+      }
+    ]
+  }
+}

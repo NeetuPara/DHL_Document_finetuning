@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0945",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-69901602",
+    "mawb_number": "618-84921251",
+    "shipper_name": "Paul Industry S.A.",
+    "shipper_address": "7719 Payne Trafficway Suite 366, South Sarah, VI 25989, United Kingdom",
+    "consignee_name": "Perez Pacific Co.",
+    "consignee_address": "272 Wilson Springs, Clarencechester, KY 41187, South Korea",
+    "agent_name": "Global Williamson Ltd",
+    "airport_departure": "AMS",
+    "airport_destination": "YYZ",
+    "currency": "CNY",
+    "charge_code": "CC",
+    "declared_value_carriage": "EUR 17,248.68",
+    "declared_value_customs": "NCV",
+    "n_pieces": 36,
+    "gross_weight_kg": 472.8,
+    "chargeable_weight": 507.5,
+    "rate": 5.58,
+    "total_charge": 2831.85,
+    "nature_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-07-20",
+    "signatory": "Theresa Walsh",
+    "iata_code": "05-568",
+    "agent_cass": "3997-8199",
+    "consolidation_ref": "CONS-0563-459783",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-16206322",
+        "pieces": 8,
+        "weight": 65.7,
+        "destination": "LHR",
+        "consignee": "Trade Adams Inc.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "045-67221616",
+        "pieces": 5,
+        "weight": 23.1,
+        "destination": "CDG",
+        "consignee": "Global Tran Inc.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "085-49421398",
+        "pieces": 13,
+        "weight": 42.8,
+        "destination": "LHR",
+        "consignee": "Parker Pacific S.A.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "085-55803301",
+        "pieces": 6,
+        "weight": 13.9,
+        "destination": "SYD",
+        "consignee": "Serrano Industry GmbH",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

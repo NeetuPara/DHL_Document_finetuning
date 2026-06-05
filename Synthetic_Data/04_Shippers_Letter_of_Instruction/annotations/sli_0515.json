@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0515",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202601-4713",
+    "usppi_name": "Richard Commerce B.V.",
+    "usppi_address": "Unit 2073 Box 0529, DPO AA 99583, Poland",
+    "usppi_country": "Poland",
+    "ein": "50-3857522",
+    "consignee_name": "Commerce Kim B.V.",
+    "consignee_address": "5836 Chandler Courts, Erinmouth, HI 99544, India",
+    "consignee_country": "India",
+    "notify_party": "Global Lawson Inc.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Michael Mccoy",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/35",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 6,
+        "unit": "MTR",
+        "weight_kg": 1.88,
+        "value_usd": 71.96
+      },
+      {
+        "marks": "SLI/5",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 165,
+        "unit": "BOX",
+        "weight_kg": 70.07,
+        "value_usd": 9548.89
+      },
+      {
+        "marks": "SLI/35",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 122,
+        "unit": "PCS",
+        "weight_kg": 160.31,
+        "value_usd": 1209.0
+      },
+      {
+        "marks": "EXP/35",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 86,
+        "unit": "CTN",
+        "weight_kg": 285.14,
+        "value_usd": 4239.04
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 6,
+        "unit": "KGS",
+        "weight_kg": 6.0,
+        "value_usd": 119.27
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 174,
+        "unit": "PCS",
+        "weight_kg": 17.29,
+        "value_usd": 7886.14
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 173,
+        "unit": "LTR",
+        "weight_kg": 185.75,
+        "value_usd": 1213.29
+      }
+    ],
+    "total_weight_kg": 726.44,
+    "total_value_usd": 24287.59,
+    "service": "Express Courier",
+    "named_port": "Miami International",
+    "insurance_value_usd": 49914.03,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-914093",
+    "destination_country": "India"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0273",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Parker Commerce Corp.",
+    "shipper_address": "PSC 7232, Box 8378, APO AA 83199, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Commerce Houston AG",
+    "consignee_address": "00184 Jacob Summit, South Kristopher, NY 54128, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+84 725-146-6440",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 44,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 20.09,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-170100",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 43,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 4.35,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Robert Mckenzie",
+    "signature_date": "2026-04-18",
+    "signature_place": "Malaysia",
+    "awb_number": "125-15765088",
+    "flight_number": "SQ5659",
+    "departure_airport_code": "LAX",
+    "departure_airport_name": "Los Angeles International",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

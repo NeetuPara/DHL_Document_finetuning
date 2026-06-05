@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0704",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20201106230492",
+    "export_date": "2026-01-26",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Mullins Industry Pte Ltd",
+    "usppi_ein": "45-6950957",
+    "usppi_address": "01720 Alicia Burgs Suite 972, Timothyborough, AZ 72373, Sweden",
+    "ultimate_consignee": "Henson Commerce Co.",
+    "intermediate_consignee": "Wheeler Pacific LLC",
+    "forwarding_agent": "Davidson Trade Ltd",
+    "destination_country": "Malaysia",
+    "carrier": "DHL Express",
+    "bl_awb": "125-35282845",
+    "total_value": 371660.79,
+    "currency": "AUD",
+    "signatory": "Dana Stephens",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "United Kingdom",
+        "qty": 187,
+        "unit": "PCS",
+        "entered_value": 68804.78,
+        "duty_rate": 17.4,
+        "duty_amount": 11972.03,
+        "eccn": "2B350",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Thailand",
+        "qty": 450,
+        "unit": "PCS",
+        "entered_value": 148036.5,
+        "duty_rate": 18.3,
+        "duty_amount": 27090.68,
+        "eccn": "7A994",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Mexico",
+        "qty": 431,
+        "unit": "CTN",
+        "entered_value": 154819.51,
+        "duty_rate": 1.1,
+        "duty_amount": 1703.01,
+        "eccn": "2B350",
+        "schedule_b": "9018.31.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

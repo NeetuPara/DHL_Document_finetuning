@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0106",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "713-62647866-7",
+    "entry_type": "01 - Free and Dutiable",
+    "entry_date": "2025-07-20",
+    "port_of_entry": "JFK - New York",
+    "transport_mode": "Ocean",
+    "carrier": "FedEx",
+    "bl_awb": "160-46225261",
+    "importer_name": "Hopkins Tech Inc.",
+    "importer_ein": "40-2105042",
+    "consignee_name": "Olson Global B.V.",
+    "customs_broker": "International White S.A.",
+    "broker_filer_code": "hIY",
+    "country_of_origin": "Hong Kong",
+    "total_value": 65355.06,
+    "total_duty": 9280.2,
+    "currency": "SGD",
+    "signatory": "John Williams",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Singapore",
+        "qty": 76,
+        "unit": "CTN",
+        "entered_value": 7505.76,
+        "duty_rate": 1.9,
+        "duty_amount": 142.61,
+        "eccn": "3A992",
+        "schedule_b": "9018.31.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Spain",
+        "qty": 135,
+        "unit": "PCS",
+        "entered_value": 25074.9,
+        "duty_rate": 10.3,
+        "duty_amount": 2582.71,
+        "eccn": "EAR99",
+        "schedule_b": "8534.00.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Australia",
+        "qty": 480,
+        "unit": "CTN",
+        "entered_value": 32774.4,
+        "duty_rate": 20.0,
+        "duty_amount": 6554.88,
+        "eccn": "5E992",
+        "schedule_b": "4819.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

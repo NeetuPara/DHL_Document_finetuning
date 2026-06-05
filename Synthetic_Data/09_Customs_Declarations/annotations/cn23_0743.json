@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0743",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Angie Blackwell",
+    "addressee_company": "Sullivan Global AG",
+    "addressee_address": "78393 Williams Forks Suite 276, Jeffreymouth, SC 66129, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 4.5,
+    "total_value": 3480.84,
+    "currency": "AUD",
+    "issue_date": "2026-05-08",
+    "reference": "REF-375484",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.724,
+        "value": 2179.5,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 17,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.331,
+        "value": 670.14,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 16,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.445,
+        "value": 631.2,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_name": "Logan Watts",
+    "sender_company": "Industry Smith AG",
+    "sender_address": "0745 Beverly Ville, Garymouth, SC 94179, Hong Kong",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 3828.92,
+    "postal_charges": 25.97,
+    "tracking_number": "TJ641660123XM"
+  }
+}

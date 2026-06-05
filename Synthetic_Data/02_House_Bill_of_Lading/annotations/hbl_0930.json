@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0930",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU940153548",
+    "shipper_name": "Global Parker LLC",
+    "shipper_address": "874 Michael Walks Apt. 579, Martinview, ND 02162, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Trade Martinez Inc.",
+    "consignee_address": "612 Gillespie Grove, West Scott, SC 99289, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party_name": "Crawford Global Corp.",
+    "notify_party_address": "35576 Harris Mill, New Danielport, MD 32244, Poland",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "373N",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Qingdao, CN",
+    "issue_date": "2024-11-23",
+    "issue_place": "Felixstowe",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "CECY0408034",
+        "seal_no": "CL193299",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "JAXA4577650",
+        "seal_no": "CL317460",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "BGOW5051644",
+        "seal_no": "SL316767",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "RONL9135074",
+        "seal_no": "SL627368",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "number_of_packages": 346,
+    "package_type": "Roll",
+    "gross_weight_kg": 21113.4,
+    "net_weight_kg": 20234.7,
+    "cbm": 18.793,
+    "marks_and_numbers": "ABC/43"
+  }
+}

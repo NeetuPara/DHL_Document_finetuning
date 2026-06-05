@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0624",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Garner Trade S.A.",
+    "shipper_address": "8192 Brett Crest, Thomasmouth, ID 73689, India",
+    "shipper_country": "India",
+    "consignee_name": "Industry Short S.A.",
+    "consignee_address": "9145 George Plain Apt. 082, Lake Johnmouth, UT 68072, Spain",
+    "consignee_country": "Spain",
+    "emergency_telephone": "+32 322-550-8570",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 3,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 31.73,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-315403",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 21,
+        "pkg_type": "Steel Drum",
+        "net_qty": 45.45,
+        "qty_unit": "L",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Christopher Campbell",
+    "signature_date": "2026-04-23",
+    "signature_place": "India",
+    "awb_number": "057-47697416",
+    "flight_number": "SQ1524",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

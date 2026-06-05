@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0887",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU636396157",
+    "shipper_name": "Dawson Trade Co.",
+    "shipper_address": "5850 Ronald Station Suite 061, Martinland, AK 43582, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Gonzales Commerce Pte Ltd",
+    "consignee_address": "Unit 4588 Box 9394, DPO AP 39562, Australia",
+    "consignee_country": "Australia",
+    "notify_party_name": "Morales Tech LLC",
+    "notify_party_address": "8167 Mcintyre Valley, Steeleland, SC 86909, Mexico",
+    "vessel": "CSCL GLOBE",
+    "voyage": "976N",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2025-05-17",
+    "issue_place": "Los Angeles",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "VRZC9942165",
+        "seal_no": "BL989102",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "TEMD1089832",
+        "seal_no": "SL152583",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "XIKT9691033",
+        "seal_no": "SL615370",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 112,
+    "package_type": "Bag",
+    "gross_weight_kg": 16955.1,
+    "net_weight_kg": 16132.7,
+    "cbm": 9.761,
+    "marks_and_numbers": "GLB/7"
+  }
+}

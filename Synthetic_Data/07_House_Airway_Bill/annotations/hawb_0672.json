@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0672",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-26802611",
+    "mawb_number": "125-39990273",
+    "shipper_name": "Moran Tech Inc.",
+    "shipper_address": "494 Jeffrey Stravenue Apt. 437, Port Jenniferchester, NE 79321, India",
+    "consignee_name": "Evans International Inc.",
+    "consignee_address": "84439 Graham Port Apt. 714, South Thomasbury, VT 29709, Sweden",
+    "agent_name": "Industry Brooks S.A.",
+    "airport_departure": "SIN",
+    "airport_destination": "LHR",
+    "currency": "GBP",
+    "charge_code": "PP",
+    "declared_value_carriage": "JPY 22,469.27",
+    "declared_value_customs": "NCV",
+    "n_pieces": 35,
+    "gross_weight_kg": 139.9,
+    "chargeable_weight": 143.8,
+    "rate": 10.07,
+    "total_charge": 1448.07,
+    "nature_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-04-05",
+    "signatory": "Alex Garrison",
+    "iata_code": "49-126",
+    "agent_cass": "7951-6631",
+    "consolidation_ref": "CONS-1976-379287",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-77257202",
+        "pieces": 6,
+        "weight": 97.4,
+        "destination": "LAX",
+        "consignee": "Smith Commerce Inc.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "618-51241322",
+        "pieces": 16,
+        "weight": 19.0,
+        "destination": "MIA",
+        "consignee": "Carpenter Pacific AG",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "085-96921457",
+        "pieces": 9,
+        "weight": 20.9,
+        "destination": "FRA",
+        "consignee": "Patton Industry Co.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "074-63298516",
+        "pieces": 8,
+        "weight": 76.4,
+        "destination": "CDG",
+        "consignee": "Pacific Williams AG",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "074-73916339",
+        "pieces": 1,
+        "weight": 7.4,
+        "destination": "LHR",
+        "consignee": "International Franklin Inc.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "020-67809072",
+        "pieces": 2,
+        "weight": 23.7,
+        "destination": "FRA",
+        "consignee": "Commerce Gonzalez Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "006-81490168",
+        "pieces": 13,
+        "weight": 75.4,
+        "destination": "FRA",
+        "consignee": "Global Singleton Inc.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "006-37904630",
+        "pieces": 2,
+        "weight": 9.2,
+        "destination": "CDG",
+        "consignee": "Hess Trade AG",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

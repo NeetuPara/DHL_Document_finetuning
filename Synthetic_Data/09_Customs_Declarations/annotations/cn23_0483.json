@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0483",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Roger Cook",
+    "addressee_company": "Jones Tech LLC",
+    "addressee_address": "19964 Schultz Junctions Suite 376, Dianestad, AL 84769, Brazil",
+    "addressee_country": "Brazil",
+    "total_weight_kg": 15.9,
+    "total_value": 3273.48,
+    "currency": "CNY",
+    "issue_date": "2026-02-19",
+    "reference": "REF-995558",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.217,
+        "value": 939.05,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 16,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.283,
+        "value": 1128.32,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 1,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.675,
+        "value": 109.04,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 11,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.017,
+        "value": 826.87,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 4,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.708,
+        "value": 270.2,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_country": "Belgium",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "620-83791278-7",
+    "entry_type": "Informal Entry",
+    "duty_rate": 18.8,
+    "estimated_duty": 615.41,
+    "importer_ein": "26-9248107",
+    "customs_broker": "Jones Tech Corp."
+  }
+}

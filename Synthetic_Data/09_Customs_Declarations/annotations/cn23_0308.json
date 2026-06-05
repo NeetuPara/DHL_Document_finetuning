@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0308",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Ricky Moore",
+    "addressee_company": "Walker International Pte Ltd",
+    "addressee_address": "8202 Hamilton Curve, Lake Yesenia, OK 13169, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 9.42,
+    "total_value": 4225.56,
+    "currency": "SGD",
+    "issue_date": "2025-08-28",
+    "reference": "REF-163888",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.78,
+        "value": 1503.85,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 16,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.348,
+        "value": 2228.0,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 9,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.332,
+        "value": 299.25,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 6,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.96,
+        "value": 194.46,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Bryan Adams",
+    "sender_company": "Estrada Global Inc.",
+    "sender_address": "PSC 9821, Box 5142, APO AE 39602, United Kingdom",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 69.7,
+    "tracking_number": "ZR700403329CA"
+  }
+}

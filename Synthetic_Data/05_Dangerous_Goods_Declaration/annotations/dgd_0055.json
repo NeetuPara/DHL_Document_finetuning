@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0055",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Global Warner AG",
+    "shipper_address": "5375 Cooper Burgs Suite 195, New Chelsea, TN 07474, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Commerce Faulkner Pte Ltd",
+    "consignee_address": "3866 Ward Crossing Apt. 335, West Jonathan, MI 89581, Mexico",
+    "consignee_country": "Mexico",
+    "emergency_telephone": "+58 864-795-3382",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 35,
+        "pkg_type": "Steel Drum",
+        "net_qty": 31.4,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Gabriel Mckinney PhD",
+    "signature_date": "2026-04-24",
+    "signature_place": "United Kingdom",
+    "awb_number": "618-32228932",
+    "flight_number": "EK4174",
+    "flight_date": "2026-05-17",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "JFK",
+    "destination_airport_name": "JFK New York"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0363",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Ibarra Commerce Ltd",
+    "shipper_address": "791 Marshall Flat, West Danielhaven, MD 66981, China",
+    "shipper_country": "China",
+    "consignee_name": "Miller International S.A.",
+    "consignee_address": "76643 Shaw Well Apt. 933, East Douglasburgh, MT 58366, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+10 469-419-5449",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 20,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 90.77,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "April Shaw",
+    "signature_date": "2026-04-30",
+    "signature_place": "China",
+    "awb_number": "074-56096505",
+    "flight_number": "QR7057",
+    "departure_airport_code": "FRA",
+    "departure_airport_name": "Frankfurt Airport",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson",
+    "non_dg_reason": "Lithium Ion Batteries \u2014 Section II (PI 967/Section II)"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0656",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kenneth Dickerson",
+    "addressee_company": "Vance Industry Inc.",
+    "addressee_address": "43713 John Springs Suite 056, East Sandrabury, LA 20730, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 7.568,
+    "total_value": 2485.92,
+    "currency": "GBP",
+    "issue_date": "2025-11-13",
+    "reference": "REF-414713",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.225,
+        "value": 1377.0,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 8,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.168,
+        "value": 522.72,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 4,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.175,
+        "value": 586.2,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "Jason Jones",
+    "sender_company": "Hammond Industry Corp.",
+    "sender_address": "21079 Gomez Light, Lindaton, CO 49366, Sweden",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 27.92,
+    "tracking_number": "HG353863059OD"
+  }
+}

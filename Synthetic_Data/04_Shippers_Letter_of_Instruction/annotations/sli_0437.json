@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0437",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202512-4390",
+    "usppi_name": "Jackson Industry Inc.",
+    "usppi_address": "97957 Wilson Green, Gonzalezhaven, PA 32572, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "67-4679038",
+    "consignee_name": "Commerce Bartlett Corp.",
+    "consignee_address": "949 Austin Pines Apt. 219, Kempland, CT 06030, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Martin Trade S.A.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Misty Moran",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/4",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 190,
+        "unit": "MTR",
+        "weight_kg": 146.01,
+        "value_usd": 2923.22
+      },
+      {
+        "marks": "SLI/35",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 148,
+        "unit": "KGS",
+        "weight_kg": 148.0,
+        "value_usd": 309.68
+      },
+      {
+        "marks": "EXP/17",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 128,
+        "unit": "PCS",
+        "weight_kg": 98.96,
+        "value_usd": 76746.68
+      },
+      {
+        "marks": "SLI/29",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 108,
+        "unit": "BOX",
+        "weight_kg": 134.66,
+        "value_usd": 12048.56
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 157,
+        "unit": "CTN",
+        "weight_kg": 512.8,
+        "value_usd": 10122.05
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 108,
+        "unit": "KGS",
+        "weight_kg": 108.0,
+        "value_usd": 2141.71
+      }
+    ],
+    "total_weight_kg": 1148.43,
+    "total_value_usd": 104291.9,
+    "service": "Express Courier",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 37251.24,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-711247",
+    "destination_country": "Hong Kong"
+  }
+}

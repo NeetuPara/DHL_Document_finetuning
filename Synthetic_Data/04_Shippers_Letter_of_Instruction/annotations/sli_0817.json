@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0817",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202309-1567",
+    "usppi_name": "Austin Trade Pte Ltd",
+    "usppi_address": "9432 Hernandez Estate Apt. 068, Lopezburgh, CT 35666, United States",
+    "usppi_country": "United States",
+    "ein": "73-4719827",
+    "consignee_name": "International Baldwin LLC",
+    "consignee_address": "3564 Gonzales Spring, Port Ronaldport, PR 65428, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Potter Global Co.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Spencer Howard",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/4",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 130,
+        "unit": "LTR",
+        "weight_kg": 118.39,
+        "value_usd": 1557.12
+      },
+      {
+        "marks": "EXP/15",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 8,
+        "unit": "PCS",
+        "weight_kg": 1.0,
+        "value_usd": 267.53
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 169,
+        "unit": "PKG",
+        "weight_kg": 334.59,
+        "value_usd": 8131.62
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 149,
+        "unit": "KGS",
+        "weight_kg": 149.0,
+        "value_usd": 210.93
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 154,
+        "unit": "PCS",
+        "weight_kg": 188.41,
+        "value_usd": 84548.13
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 158,
+        "unit": "KGS",
+        "weight_kg": 158.0,
+        "value_usd": 1042.36
+      },
+      {
+        "marks": "EXP/40",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 98,
+        "unit": "MTR",
+        "weight_kg": 97.33,
+        "value_usd": 1731.86
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 82,
+        "unit": "PCS",
+        "weight_kg": 8.01,
+        "value_usd": 15295.7
+      }
+    ],
+    "total_weight_kg": 1054.73,
+    "total_value_usd": 112785.25,
+    "service": "Air Freight",
+    "named_port": "Dubai International",
+    "insurance_value_usd": 4539.38,
+    "license_type": "Distributor License",
+    "license_number": "LIC-636875",
+    "destination_country": "Canada"
+  }
+}

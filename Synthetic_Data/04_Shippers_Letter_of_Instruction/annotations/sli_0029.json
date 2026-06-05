@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0029",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202504-6583",
+    "usppi_name": "Cole Tech Ltd",
+    "usppi_address": "USNS Williams, FPO AE 16634, United States",
+    "usppi_country": "United States",
+    "ein": "98-5683483",
+    "consignee_name": "Commerce Clark Co.",
+    "consignee_address": "952 Pearson Ports Apt. 663, Tracieville, DC 65615, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Garcia International AG",
+    "forwarder": "Panalpina",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Aaron Smith",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/2",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 121,
+        "unit": "PCS",
+        "weight_kg": 52.21,
+        "value_usd": 2623.18
+      },
+      {
+        "marks": "SLI/11",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 150,
+        "unit": "KGS",
+        "weight_kg": 150.0,
+        "value_usd": 3072.12
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 57,
+        "unit": "PKG",
+        "weight_kg": 105.95,
+        "value_usd": 3389.25
+      },
+      {
+        "marks": "ABC/31",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 45,
+        "unit": "LTR",
+        "weight_kg": 43.27,
+        "value_usd": 223.17
+      }
+    ],
+    "total_weight_kg": 351.43,
+    "total_value_usd": 9307.72,
+    "service": "Ground",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 6078.18,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-185592",
+    "destination_country": "Hong Kong"
+  }
+}

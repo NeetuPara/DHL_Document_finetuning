@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0495",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-75845838",
+    "mawb_number": "074-72990866",
+    "shipper_name": "Commerce Burns Inc.",
+    "shipper_address": "5390 Michele Walks, Cunninghamside, FL 19529, Spain",
+    "consignee_name": "Tech Herrera B.V.",
+    "consignee_address": "82643 Shawn Summit Apt. 778, Christopherbury, VI 30848, Thailand",
+    "agent_name": "Mercado Commerce Inc.",
+    "airport_departure": "CDG",
+    "airport_destination": "LAX",
+    "currency": "CHF",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 10,
+    "gross_weight_kg": 458.0,
+    "chargeable_weight": 501.9,
+    "rate": 9.24,
+    "total_charge": 4637.56,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "TEMP CONTROLLED: 5\u00b0C - 18\u00b0C",
+    "issue_date": "2025-11-16",
+    "signatory": "Thomas Chambers",
+    "iata_code": "66-377",
+    "agent_cass": "1437-7053",
+    "consolidation_ref": "CONS-6306-978122",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-38069441",
+        "pieces": 4,
+        "weight": 46.2,
+        "destination": "CDG",
+        "consignee": "Global White LLC",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "176-91163842",
+        "pieces": 18,
+        "weight": 98.6,
+        "destination": "FRA",
+        "consignee": "Miller Commerce S.A.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "045-88062517",
+        "pieces": 17,
+        "weight": 79.8,
+        "destination": "CDG",
+        "consignee": "International Bentley Corp.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "085-31252096",
+        "pieces": 11,
+        "weight": 22.7,
+        "destination": "PVG",
+        "consignee": "Tran Global Inc.",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

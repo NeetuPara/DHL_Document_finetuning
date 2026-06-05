@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0151",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202312-6995",
+    "usppi_name": "Industry Gutierrez B.V.",
+    "usppi_address": "Unit 4106 Box 8508, DPO AP 56395, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "36-5031219",
+    "consignee_name": "Lee Global GmbH",
+    "consignee_address": "636 Alvarez Square Suite 685, East Amber, IN 81636, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Ramirez Commerce Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5A002",
+    "signatory_name": "Clinton Golden",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/38",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 162,
+        "unit": "KGS",
+        "weight_kg": 162.0,
+        "value_usd": 3014.39
+      },
+      {
+        "marks": "ABC/46",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 126,
+        "unit": "PCS",
+        "weight_kg": 6.49,
+        "value_usd": 11654.67
+      }
+    ],
+    "total_weight_kg": 168.49,
+    "total_value_usd": 14669.06,
+    "service": "Air Freight",
+    "named_port": "Amsterdam Schiphol",
+    "insurance_value_usd": 27744.01,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-467650",
+    "destination_country": "Germany"
+  }
+}

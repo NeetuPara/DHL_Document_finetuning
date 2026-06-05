@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0743",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202509-1069",
+    "usppi_name": "Commerce Wilson LLC",
+    "usppi_address": "92997 Logan Centers, North Danielville, SC 07402, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "23-3798820",
+    "consignee_name": "Butler International Co.",
+    "consignee_address": "198 Alexander Plains, East Anthony, IL 14840, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Hamilton Trade Co.",
+    "forwarder": "Expeditors",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Christopher Sawyer",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/30",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 176,
+        "unit": "PCS",
+        "weight_kg": 1443.88,
+        "value_usd": 41548.5
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 101,
+        "unit": "KGS",
+        "weight_kg": 101.0,
+        "value_usd": 810.09
+      },
+      {
+        "marks": "EXP/10",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 75,
+        "unit": "LTR",
+        "weight_kg": 70.58,
+        "value_usd": 2579.85
+      }
+    ],
+    "total_weight_kg": 1615.46,
+    "total_value_usd": 44938.44,
+    "service": "LCL Ocean",
+    "named_port": "Qingdao, CN",
+    "insurance_value_usd": 25162.89,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-109209",
+    "destination_country": "Singapore"
+  }
+}

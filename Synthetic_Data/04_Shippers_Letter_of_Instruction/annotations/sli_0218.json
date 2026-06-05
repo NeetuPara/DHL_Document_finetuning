@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0218",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202601-8311",
+    "usppi_name": "Conner International Inc.",
+    "usppi_address": "271 Patrick Pines, Amandamouth, UT 03771, China",
+    "usppi_country": "China",
+    "ein": "36-2502674",
+    "consignee_name": "International Cruz S.A.",
+    "consignee_address": "74068 Paula Club Suite 810, Lake Chelsea, PR 37962, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Trade Ferguson Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Kathleen Winters",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/45",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 7,
+        "unit": "PCS",
+        "weight_kg": 3.15,
+        "value_usd": 244.02
+      },
+      {
+        "marks": "SLI/7",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 152,
+        "unit": "KGS",
+        "weight_kg": 152.0,
+        "value_usd": 1073.75
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 193,
+        "unit": "PCS",
+        "weight_kg": 1576.7,
+        "value_usd": 144908.41
+      },
+      {
+        "marks": "ABC/35",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 193,
+        "unit": "PKG",
+        "weight_kg": 91.12,
+        "value_usd": 9088.68
+      }
+    ],
+    "total_weight_kg": 1822.97,
+    "total_value_usd": 155314.86,
+    "service": "LCL Ocean",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 14274.05,
+    "license_type": "Distributor License",
+    "license_number": "LIC-276307",
+    "destination_country": "Spain"
+  }
+}

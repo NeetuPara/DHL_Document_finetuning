@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0825",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "William Taylor",
+    "addressee_company": "Lucas Tech Co.",
+    "addressee_address": "1074 Newman Causeway, Jeremyshire, TX 35409, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 12.385,
+    "total_value": 6306.74,
+    "currency": "CHF",
+    "issue_date": "2026-03-02",
+    "reference": "REF-475037",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.314,
+        "value": 2265.42,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 18,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.148,
+        "value": 2593.8,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 5,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.994,
+        "value": 567.9,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 14,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.929,
+        "value": 879.62,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_country": "Singapore",
+    "port_of_entry": "New York, NY",
+    "entry_number": "848-60262166-8",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 7.2,
+    "estimated_duty": 454.09,
+    "importer_ein": "79-7534532",
+    "customs_broker": "Trade Owen LLC"
+  }
+}

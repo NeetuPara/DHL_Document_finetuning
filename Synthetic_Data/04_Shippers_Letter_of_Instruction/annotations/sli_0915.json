@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0915",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202502-3509",
+    "usppi_name": "Taylor Global Ltd",
+    "usppi_address": "60283 Higgins Ferry Suite 142, Jodyfort, MT 75672, India",
+    "usppi_country": "India",
+    "ein": "83-5946085",
+    "consignee_name": "Day Tech LLC",
+    "consignee_address": "4522 Bond Valleys Apt. 146, Chadside, VT 01026, United States",
+    "consignee_country": "United States",
+    "notify_party": "Stewart International B.V.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Linda Rocha",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/48",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 200,
+        "unit": "CTN",
+        "weight_kg": 304.54,
+        "value_usd": 9374.56
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 15,
+        "unit": "PCS",
+        "weight_kg": 9.2,
+        "value_usd": 79.81
+      },
+      {
+        "marks": "SLI/11",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 43,
+        "unit": "PCS",
+        "weight_kg": 21.0,
+        "value_usd": 5485.46
+      },
+      {
+        "marks": "SLI/49",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 192,
+        "unit": "PCS",
+        "weight_kg": 14.8,
+        "value_usd": 12145.84
+      }
+    ],
+    "total_weight_kg": 349.54,
+    "total_value_usd": 27085.67,
+    "vessel": "YANG MING MYTH",
+    "voyage": "478S",
+    "booking_ref": "BKG-641327",
+    "bl_number": "COSU907132895",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "UEXN4209729",
+    "seal_number": "BL381284",
+    "container_type": "40'GP",
+    "cbm": 20.729
+  }
+}

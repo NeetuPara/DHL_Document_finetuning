@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0672",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202109-6086",
+    "usppi_name": "Commerce Schwartz S.A.",
+    "usppi_address": "82486 Caitlyn Light Suite 816, Sheppardbury, NY 81317, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "35-3412087",
+    "consignee_name": "Johnson Trade Corp.",
+    "consignee_address": "3024 Mccoy Port Apt. 631, Kaitlynmouth, VT 11811, China",
+    "consignee_country": "China",
+    "notify_party": "Campbell International B.V.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Joseph Bell",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/5",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 146,
+        "unit": "PCS",
+        "weight_kg": 156.92,
+        "value_usd": 929.04
+      },
+      {
+        "marks": "SLI/26",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 105,
+        "unit": "BOX",
+        "weight_kg": 169.61,
+        "value_usd": 6971.15
+      },
+      {
+        "marks": "ABC/6",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 40,
+        "unit": "MTR",
+        "weight_kg": 47.41,
+        "value_usd": 666.25
+      },
+      {
+        "marks": "EXP/15",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 136,
+        "unit": "CTN",
+        "weight_kg": 366.18,
+        "value_usd": 6222.69
+      },
+      {
+        "marks": "EXP/3",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 83,
+        "unit": "PCS",
+        "weight_kg": 11.92,
+        "value_usd": 4864.85
+      },
+      {
+        "marks": "EXP/4",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 21,
+        "unit": "PCS",
+        "weight_kg": 324.44,
+        "value_usd": 3495.43
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 76,
+        "unit": "PKG",
+        "weight_kg": 86.2,
+        "value_usd": 6158.59
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 87,
+        "unit": "KGS",
+        "weight_kg": 87.0,
+        "value_usd": 73.13
+      }
+    ],
+    "total_weight_kg": 1249.68,
+    "total_value_usd": 29381.13,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "667S",
+    "booking_ref": "BKG-940119",
+    "bl_number": "OOLU517921825",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "RQZN8454908",
+    "seal_number": "BL634212",
+    "container_type": "45'HC",
+    "cbm": 24.363
+  }
+}

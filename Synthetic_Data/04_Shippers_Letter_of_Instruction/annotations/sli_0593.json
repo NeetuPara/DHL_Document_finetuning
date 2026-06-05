@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0593",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202406-1306",
+    "usppi_name": "Cross Trade GmbH",
+    "usppi_address": "1336 Daniel Rapid, Amychester, NY 32812, India",
+    "usppi_country": "India",
+    "ein": "68-8284058",
+    "consignee_name": "Tech Robertson Pte Ltd",
+    "consignee_address": "61833 Sara Lodge Suite 887, Thompsontown, NH 68370, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Medina Tech LLC",
+    "forwarder": "Expeditors",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Anthony Armstrong",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/28",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 36,
+        "unit": "CTN",
+        "weight_kg": 62.02,
+        "value_usd": 315.22
+      },
+      {
+        "marks": "EXP/35",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 150,
+        "unit": "PCS",
+        "weight_kg": 17.27,
+        "value_usd": 30393.79
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 32,
+        "unit": "PCS",
+        "weight_kg": 679.62,
+        "value_usd": 6220.8
+      },
+      {
+        "marks": "EXP/5",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 198,
+        "unit": "PCS",
+        "weight_kg": 26.93,
+        "value_usd": 12756.85
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 76,
+        "unit": "KGS",
+        "weight_kg": 76.0,
+        "value_usd": 1570.06
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 76,
+        "unit": "PKG",
+        "weight_kg": 46.85,
+        "value_usd": 1605.23
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 14,
+        "unit": "CTN",
+        "weight_kg": 16.35,
+        "value_usd": 432.44
+      }
+    ],
+    "total_weight_kg": 925.04,
+    "total_value_usd": 53294.39,
+    "service": "LCL Ocean",
+    "named_port": "Felixstowe, GB",
+    "insurance_value_usd": 10610.5,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-201325",
+    "destination_country": "Mexico"
+  }
+}

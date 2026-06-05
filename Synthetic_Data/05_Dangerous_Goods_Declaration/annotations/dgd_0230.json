@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0230",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Miller Global S.A.",
+    "shipper_address": "8521 Thomas Views, Port Scott, CA 91337, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "International Reynolds LLC",
+    "consignee_address": "6171 James Views, North Tiffanystad, AL 28562, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+53 117-706-8685",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 8,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 13.3,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-529296",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 15,
+        "pkg_type": "Steel Drum",
+        "net_qty": 84.47,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Dennis Lee",
+    "signature_date": "2026-04-20",
+    "signature_place": "Spain",
+    "vessel": "ONE INNOVATION",
+    "voyage": "474W",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Hong Kong, HK"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0255",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-15353968",
+    "mawb_number": "020-18435604",
+    "shipper_name": "Barr Global AG",
+    "shipper_address": "119 Vargas Expressway, Shaneberg, NM 73136, United States",
+    "consignee_name": "Commerce Ross LLC",
+    "consignee_address": "257 Luis Garden, Michaelshire, IN 24850, Poland",
+    "agent_name": "Ramsey Global LLC",
+    "airport_departure": "CDG",
+    "airport_destination": "LAX",
+    "currency": "CHF",
+    "charge_code": "PP",
+    "declared_value_carriage": "CNY 4,020.98",
+    "declared_value_customs": "NCV",
+    "n_pieces": 36,
+    "gross_weight_kg": 160.3,
+    "chargeable_weight": 175.2,
+    "rate": 5.93,
+    "total_charge": 1038.94,
+    "nature_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-04-16",
+    "signatory": "Christopher Rogers",
+    "iata_code": "06-231",
+    "agent_cass": "7565-3244",
+    "consolidation_ref": "CONS-6015-616462",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-22402277",
+        "pieces": 10,
+        "weight": 34.3,
+        "destination": "AMS",
+        "consignee": "Pacific Jones B.V.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "074-90586612",
+        "pieces": 18,
+        "weight": 34.0,
+        "destination": "LHR",
+        "consignee": "Gutierrez Industry S.A.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "045-47532771",
+        "pieces": 16,
+        "weight": 42.6,
+        "destination": "LAX",
+        "consignee": "Commerce Kelly AG",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "176-46237413",
+        "pieces": 14,
+        "weight": 61.9,
+        "destination": "HKG",
+        "consignee": "Trade Bailey Co.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "125-53078378",
+        "pieces": 2,
+        "weight": 47.4,
+        "destination": "SIN",
+        "consignee": "Glover Industry Co.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "045-67506719",
+        "pieces": 15,
+        "weight": 60.5,
+        "destination": "JFK",
+        "consignee": "Palmer Tech LLC",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "176-53039136",
+        "pieces": 16,
+        "weight": 22.0,
+        "destination": "AMS",
+        "consignee": "Williams Pacific Ltd",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

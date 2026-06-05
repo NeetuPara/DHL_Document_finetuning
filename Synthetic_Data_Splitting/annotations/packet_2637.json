@@ -1,0 +1,30 @@
+{
+  "packet_id": "packet_2637",
+  "total_pages": 2,
+  "n_documents": 2,
+  "class_sequence": [
+    "Commercial Invoice",
+    "Customs Declaration"
+  ],
+  "documents": [
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "commercial_invoice_0616.pdf",
+      "source_class_folder": "01_Commercial_Invoice"
+    },
+    {
+      "doc_class": "Customs Declaration",
+      "class_index": 9,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "cn23_0934.pdf",
+      "source_class_folder": "09_Customs_Declarations"
+    }
+  ],
+  "task": "splitting"
+}

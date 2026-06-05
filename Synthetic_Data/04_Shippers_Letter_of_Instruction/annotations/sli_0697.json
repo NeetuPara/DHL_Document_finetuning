@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0697",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202302-9794",
+    "usppi_name": "Vargas Commerce S.A.",
+    "usppi_address": "150 Mitchell Green, South Jamesport, NJ 95639, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "67-8545332",
+    "consignee_name": "Pierce Pacific Pte Ltd",
+    "consignee_address": "790 Bryan Forest Suite 823, Powellchester, NM 69472, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Richard International LLC",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Bruce Osborne",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/31",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 98,
+        "unit": "LTR",
+        "weight_kg": 100.21,
+        "value_usd": 3519.8
+      },
+      {
+        "marks": "SLI/10",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 146,
+        "unit": "PCS",
+        "weight_kg": 144.96,
+        "value_usd": 2959.0
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 11,
+        "unit": "PCS",
+        "weight_kg": 87.62,
+        "value_usd": 4937.95
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 174,
+        "unit": "PCS",
+        "weight_kg": 2680.87,
+        "value_usd": 63203.25
+      },
+      {
+        "marks": "SLI/10",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 181,
+        "unit": "PCS",
+        "weight_kg": 23.19,
+        "value_usd": 9148.69
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 193,
+        "unit": "CTN",
+        "weight_kg": 308.25,
+        "value_usd": 12901.02
+      }
+    ],
+    "total_weight_kg": 3345.1,
+    "total_value_usd": 96669.71,
+    "service": "LCL Ocean",
+    "named_port": "Tokyo, JP",
+    "insurance_value_usd": 9531.43,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-762302",
+    "destination_country": "Japan"
+  }
+}

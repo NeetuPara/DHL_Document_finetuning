@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0877",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "043-11493528-4",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2025-07-01",
+    "port_of_entry": "ORD - Chicago",
+    "transport_mode": "Hand-Carried",
+    "carrier": "UPS",
+    "bl_awb": "160-97274588",
+    "importer_name": "Palmer Industry S.A.",
+    "importer_ein": "83-1761028",
+    "consignee_name": "International Herrera AG",
+    "customs_broker": "Williams Tech Inc.",
+    "broker_filer_code": "jSs",
+    "country_of_origin": "Australia",
+    "total_value": 124191.14,
+    "total_duty": 15770.71,
+    "currency": "AUD",
+    "signatory": "Courtney Riggs",
+    "signatory_title": "Trade Finance Manager",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Switzerland",
+        "qty": 254,
+        "unit": "MTR",
+        "entered_value": 61983.62,
+        "duty_rate": 13.4,
+        "duty_amount": 8305.81,
+        "eccn": "7A994",
+        "schedule_b": "5407.42.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Singapore",
+        "qty": 304,
+        "unit": "PCS",
+        "entered_value": 62207.52,
+        "duty_rate": 12.0,
+        "duty_amount": 7464.9,
+        "eccn": "0A919",
+        "schedule_b": "9002.11.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

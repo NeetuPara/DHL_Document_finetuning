@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0252",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202208-5538",
+    "usppi_name": "Trade Brown Ltd",
+    "usppi_address": "56506 Daniel Meadows Suite 594, South Kristina, OH 96451, Poland",
+    "usppi_country": "Poland",
+    "ein": "47-8099582",
+    "consignee_name": "Frost International GmbH",
+    "consignee_address": "950 Green Locks, Joshuaview, AR 20820, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Lewis Pacific Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Timothy Hansen",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/39",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 79,
+        "unit": "PCS",
+        "weight_kg": 98.86,
+        "value_usd": 824.99
+      },
+      {
+        "marks": "ABC/39",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 135,
+        "unit": "PCS",
+        "weight_kg": 22.11,
+        "value_usd": 7714.7
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 197,
+        "unit": "BOX",
+        "weight_kg": 355.08,
+        "value_usd": 8405.93
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 171,
+        "unit": "CTN",
+        "weight_kg": 139.05,
+        "value_usd": 412.63
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 128,
+        "unit": "KGS",
+        "weight_kg": 128.0,
+        "value_usd": 124.84
+      },
+      {
+        "marks": "ABC/9",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 12,
+        "unit": "SET",
+        "weight_kg": 20.46,
+        "value_usd": 586.52
+      }
+    ],
+    "total_weight_kg": 763.56,
+    "total_value_usd": 18069.61,
+    "vessel": "CSCL GLOBE",
+    "voyage": "573N",
+    "booking_ref": "BKG-144471",
+    "bl_number": "COSU906911932",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "New York, US",
+    "container_number": "PMOM7490215",
+    "seal_number": "CL411697",
+    "container_type": "20'GP",
+    "cbm": 18.236
+  }
+}

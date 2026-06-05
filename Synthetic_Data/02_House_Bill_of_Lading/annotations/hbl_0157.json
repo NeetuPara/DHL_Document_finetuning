@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0157",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU430472231",
+    "shipper_name": "International French Co.",
+    "shipper_address": "5731 Jeffrey Creek, Pottsshire, PR 70643, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "White Commerce Ltd",
+    "consignee_address": "231 Jessica Corners, Port Carl, SC 44156, United States",
+    "consignee_country": "United States",
+    "notify_party_name": "Grant International Inc.",
+    "notify_party_address": "2897 Joe Street, East Jefferymouth, NV 69584, Brazil",
+    "vessel": "MSC GULSUN",
+    "voyage": "628S",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Singapore, SG",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2025-12-16",
+    "issue_place": "Qingdao",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "NBNT3387780",
+        "seal_no": "CL910984",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "JKCR1846060",
+        "seal_no": "SL881535",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "KEQJ4751207",
+        "seal_no": "CL721134",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "OYHT8540566",
+        "seal_no": "BL928497",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 145,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 4061.8,
+    "net_weight_kg": 3831.3,
+    "cbm": 8.712,
+    "marks_and_numbers": "ABC/40"
+  }
+}

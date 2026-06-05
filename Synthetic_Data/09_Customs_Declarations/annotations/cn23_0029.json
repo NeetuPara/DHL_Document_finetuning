@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0029",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Brandon Pitts",
+    "addressee_company": "Global Booker Inc.",
+    "addressee_address": "1879 Coleman Spurs Suite 816, Justinberg, OK 97147, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 14.411,
+    "total_value": 1756.81,
+    "currency": "AUD",
+    "issue_date": "2025-10-24",
+    "reference": "REF-195034",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.553,
+        "value": 106.15,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 11,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.703,
+        "value": 631.62,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 18,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.205,
+        "value": 614.34,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 19,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.95,
+        "value": 404.7,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_name": "Joseph Clark",
+    "sender_company": "International Tran Ltd",
+    "sender_address": "04259 Jason Village Suite 807, Hebertville, PA 47273, Thailand",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 74.34,
+    "tracking_number": "HX003274848DJ"
+  }
+}

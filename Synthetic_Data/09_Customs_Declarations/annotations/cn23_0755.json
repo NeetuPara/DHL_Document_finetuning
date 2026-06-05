@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0755",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Brandon Stewart",
+    "addressee_company": "Garrett International Co.",
+    "addressee_address": "Unit 4373 Box 3967, DPO AP 28137, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 10.362,
+    "total_value": 291.43,
+    "currency": "AED",
+    "issue_date": "2025-07-25",
+    "reference": "REF-896879",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.796,
+        "value": 44.25,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 3,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.497,
+        "value": 158.52,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 11,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.069,
+        "value": 88.66,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Poland"
+      }
+    ],
+    "sender_name": "Michael Wilson",
+    "sender_company": "Salinas Commerce Corp.",
+    "sender_address": "289 Johnson Cove Suite 348, East Jeanne, MO 66311, United States",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 30.09,
+    "tracking_number": "MW848203757GH"
+  }
+}

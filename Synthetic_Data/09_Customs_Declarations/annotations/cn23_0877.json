@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0877",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Sarah Sweeney",
+    "addressee_company": "Trade Freeman LLC",
+    "addressee_address": "9521 Watson Burg, Harveybury, TN 91062, Malaysia",
+    "addressee_country": "Malaysia",
+    "total_weight_kg": 11.412,
+    "total_value": 3011.97,
+    "currency": "CNY",
+    "issue_date": "2025-05-20",
+    "reference": "REF-974001",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.516,
+        "value": 325.14,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 19,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.307,
+        "value": 1657.75,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 10,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.413,
+        "value": 467.3,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 18,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.176,
+        "value": 561.78,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_name": "Cody Phillips",
+    "sender_company": "Trade May Corp.",
+    "sender_address": "9134 Chelsea Island, Larrymouth, VI 59336, Netherlands",
+    "sender_phone": "001-760-836-1769x04145",
+    "sender_email": "hinesmark@example.com",
+    "addressee_phone": "725-873-6985x418",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 10.33,
+    "tracking_number": "DO441636205DO"
+  }
+}

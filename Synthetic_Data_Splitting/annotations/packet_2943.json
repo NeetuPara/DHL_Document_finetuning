@@ -1,0 +1,50 @@
+{
+  "packet_id": "packet_2943",
+  "total_pages": 4,
+  "n_documents": 4,
+  "class_sequence": [
+    "Dangerous Goods Declaration",
+    "Customs Declaration",
+    "Power of Attorney",
+    "Cargo Manifest"
+  ],
+  "documents": [
+    {
+      "doc_class": "Dangerous Goods Declaration",
+      "class_index": 5,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "dgd_0384.pdf",
+      "source_class_folder": "05_Dangerous_Goods_Declaration"
+    },
+    {
+      "doc_class": "Customs Declaration",
+      "class_index": 9,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "cn23_0661.pdf",
+      "source_class_folder": "09_Customs_Declarations"
+    },
+    {
+      "doc_class": "Power of Attorney",
+      "class_index": 12,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "poa_0178.pdf",
+      "source_class_folder": "12_Power_of_Attorney"
+    },
+    {
+      "doc_class": "Cargo Manifest",
+      "class_index": 10,
+      "page_start": 4,
+      "page_end": 4,
+      "n_pages": 1,
+      "source_file": "manifest_0623.pdf",
+      "source_class_folder": "10_Cargo_Manifest"
+    }
+  ],
+  "task": "splitting"
+}

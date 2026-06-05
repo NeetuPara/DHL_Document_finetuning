@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0811",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU842062264",
+    "shipper_name": "Lopez Trade Inc.",
+    "shipper_address": "38798 Vincent Parkway Suite 678, East Ryanmouth, WV 80328, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Global Peters LLC",
+    "consignee_address": "PSC 2452, Box 0191, APO AE 67019, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party_name": "Fernandez Industry GmbH",
+    "notify_party_address": "022 Andrea Corners Suite 567, Hudsonchester, MD 89467, Hong Kong",
+    "vessel": "PIL PACIFIC",
+    "voyage": "553E",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2025-04-16",
+    "issue_place": "Hamburg",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "UBFJ6996967",
+        "seal_no": "BL616828",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "SAYH9087464",
+        "seal_no": "SL967868",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "SSWL3913473",
+        "seal_no": "CL985136",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "VXTM3016998",
+        "seal_no": "SL537446",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 280,
+    "package_type": "Bundle",
+    "gross_weight_kg": 14529.8,
+    "net_weight_kg": 13932.7,
+    "cbm": 12.984,
+    "marks_and_numbers": "GLB/21"
+  }
+}

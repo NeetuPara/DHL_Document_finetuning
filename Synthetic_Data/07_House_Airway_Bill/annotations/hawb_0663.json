@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0663",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-66831648",
+    "mawb_number": "085-30969687",
+    "shipper_name": "Pacific Wilson Ltd",
+    "shipper_address": "34124 Maria Station, West Marcushaven, NV 78468, India",
+    "consignee_name": "Jones Industry GmbH",
+    "consignee_address": "7366 Tara Light, West Johnny, IN 47257, United Arab Emirates",
+    "agent_name": "Commerce Kirk AG",
+    "airport_departure": "ICN",
+    "airport_destination": "MIA",
+    "currency": "EUR",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 18,
+    "gross_weight_kg": 260.8,
+    "chargeable_weight": 294.6,
+    "rate": 10.52,
+    "total_charge": 3099.19,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-10-06",
+    "signatory": "Paul Mcmahon PhD",
+    "iata_code": "23-869",
+    "agent_cass": "7173-3897",
+    "consolidation_ref": "CONS-4177-305541",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-37998142",
+        "pieces": 3,
+        "weight": 24.4,
+        "destination": "DXB",
+        "consignee": "Trade Smith Co.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "074-87907727",
+        "pieces": 12,
+        "weight": 52.0,
+        "destination": "SYD",
+        "consignee": "Trade Miller S.A.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "057-24900175",
+        "pieces": 9,
+        "weight": 91.8,
+        "destination": "HKG",
+        "consignee": "Le Trade Inc.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "085-51261095",
+        "pieces": 10,
+        "weight": 84.9,
+        "destination": "MIA",
+        "consignee": "Commerce Parker LLC",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "020-17971289",
+        "pieces": 4,
+        "weight": 86.5,
+        "destination": "ORD",
+        "consignee": "Commerce Harrell GmbH",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

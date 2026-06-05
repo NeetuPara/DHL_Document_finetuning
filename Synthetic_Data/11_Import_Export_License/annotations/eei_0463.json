@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0463",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "670-13325888-7",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2025-11-22",
+    "port_of_entry": "SEA - Seattle",
+    "transport_mode": "Rail",
+    "carrier": "UPS",
+    "bl_awb": "085-31816518",
+    "importer_name": "Montoya International Pte Ltd",
+    "importer_ein": "27-1394219",
+    "consignee_name": "Spencer Trade LLC",
+    "customs_broker": "Commerce Johnson B.V.",
+    "broker_filer_code": "Ysi",
+    "country_of_origin": "Switzerland",
+    "total_value": 61632.64,
+    "total_duty": 2059.54,
+    "currency": "JPY",
+    "signatory": "Keith Brown",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "France",
+        "qty": 398,
+        "unit": "KGS",
+        "entered_value": 32460.88,
+        "duty_rate": 0.4,
+        "duty_amount": 129.84,
+        "eccn": "7A994",
+        "schedule_b": "2008.19.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Switzerland",
+        "qty": 188,
+        "unit": "PCS",
+        "entered_value": 28538.4,
+        "duty_rate": 6.4,
+        "duty_amount": 1826.46,
+        "eccn": "1A002",
+        "schedule_b": "9401.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Mexico",
+        "qty": 13,
+        "unit": "LTR",
+        "entered_value": 633.36,
+        "duty_rate": 16.3,
+        "duty_amount": 103.24,
+        "eccn": "0A919",
+        "schedule_b": "2901.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

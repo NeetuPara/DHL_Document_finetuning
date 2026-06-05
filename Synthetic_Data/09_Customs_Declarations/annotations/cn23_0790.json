@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0790",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Chad Freeman",
+    "addressee_company": "Trade Frey Corp.",
+    "addressee_address": "6427 Baker Court Apt. 957, North Thomasmouth, AR 54777, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 0.595,
+    "total_value": 630.55,
+    "currency": "SGD",
+    "issue_date": "2025-07-11",
+    "reference": "REF-597364",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.097,
+        "value": 61.6,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 15,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.498,
+        "value": 568.95,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_name": "Dawn Pearson",
+    "sender_company": "Trade Lee Corp.",
+    "sender_address": "09580 Holmes Curve Apt. 137, Blackhaven, WI 79867, Netherlands",
+    "sender_phone": "001-257-515-6531x675",
+    "sender_email": "beckerbruce@example.com",
+    "addressee_phone": "(732)305-5632x13136",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 693.61,
+    "postal_charges": 15.89,
+    "tracking_number": "SE425736900SH"
+  }
+}

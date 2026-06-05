@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0608",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU430795724",
+    "shipper_name": "Trade Kelley Pte Ltd",
+    "shipper_address": "122 Trevor Plains, East Jonathanstad, SC 82130, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Perez Global GmbH",
+    "consignee_address": "68710 Jacobs Path Apt. 569, New Steve, WV 61634, Spain",
+    "consignee_country": "Spain",
+    "notify_party_name": "Rodriguez Tech GmbH",
+    "notify_party_address": "249 Michael Mews, East Thomasview, NM 14952, Canada",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "494S",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2025-10-16",
+    "issue_place": "Colombo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "OYBV8784757",
+        "seal_no": "CL282649",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "COPF8834864",
+        "seal_no": "SL665447",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "LMPB6500845",
+        "seal_no": "CL316804",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "number_of_packages": 306,
+    "package_type": "Crate",
+    "gross_weight_kg": 16396.6,
+    "net_weight_kg": 15103.5,
+    "cbm": 29.096,
+    "marks_and_numbers": "ABC/19"
+  }
+}

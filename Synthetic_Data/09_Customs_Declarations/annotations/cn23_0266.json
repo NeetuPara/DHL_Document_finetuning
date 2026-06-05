@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0266",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "John Ortega",
+    "addressee_company": "Pacific Jordan AG",
+    "addressee_address": "232 May Overpass, Scottshire, OK 43998, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 6.763,
+    "total_value": 671.9,
+    "currency": "USD",
+    "issue_date": "2026-03-25",
+    "reference": "REF-465825",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.854,
+        "value": 636.86,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 12,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.909,
+        "value": 35.04,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_name": "Craig Boyd",
+    "sender_company": "Tech Kirk B.V.",
+    "sender_address": "17488 Patrick Pike Suite 025, Williamhaven, DC 93663, Germany",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 739.09,
+    "postal_charges": 19.21,
+    "tracking_number": "XW279035828ZQ"
+  }
+}

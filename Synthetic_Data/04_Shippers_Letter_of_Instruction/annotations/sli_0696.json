@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0696",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202302-6909",
+    "usppi_name": "Baird Trade B.V.",
+    "usppi_address": "579 Barry Shores Apt. 796, West Jessicatown, MH 79912, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "74-7124453",
+    "consignee_name": "Trade Wilson S.A.",
+    "consignee_address": "79661 Cunningham Row, New Lisafort, DC 92666, United States",
+    "consignee_country": "United States",
+    "notify_party": "Johnson Pacific Pte Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Susan Mckenzie",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/44",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 114,
+        "unit": "CTN",
+        "weight_kg": 116.2,
+        "value_usd": 7593.39
+      },
+      {
+        "marks": "SLI/8",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 10,
+        "unit": "CTN",
+        "weight_kg": 10.2,
+        "value_usd": 89.55
+      },
+      {
+        "marks": "SLI/15",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 145,
+        "unit": "PCS",
+        "weight_kg": 21.28,
+        "value_usd": 2950.62
+      }
+    ],
+    "total_weight_kg": 147.68,
+    "total_value_usd": 10633.56,
+    "vessel": "ONE INNOVATION",
+    "voyage": "424N",
+    "booking_ref": "BKG-962618",
+    "bl_number": "YMLU678397121",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Rotterdam, NL",
+    "container_number": "XVUM0116445",
+    "seal_number": "SL525213",
+    "container_type": "40'GP",
+    "cbm": 14.476
+  }
+}

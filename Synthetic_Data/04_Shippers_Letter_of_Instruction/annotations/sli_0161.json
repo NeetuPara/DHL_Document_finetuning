@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0161",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202112-7316",
+    "usppi_name": "Global Wilcox Co.",
+    "usppi_address": "USNV Williams, FPO AP 89261, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "55-4109077",
+    "consignee_name": "Warren Pacific B.V.",
+    "consignee_address": "262 Kelly Curve, South Charlottechester, ND 99063, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Industry Lambert B.V.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Brian Simon",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/34",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 183,
+        "unit": "PCS",
+        "weight_kg": 86.17,
+        "value_usd": 6285.92
+      },
+      {
+        "marks": "ABC/41",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 96,
+        "unit": "KGS",
+        "weight_kg": 96.0,
+        "value_usd": 194.5
+      }
+    ],
+    "total_weight_kg": 182.17,
+    "total_value_usd": 6480.42,
+    "service": "Express Courier",
+    "named_port": "Sydney Kingsford Smith",
+    "insurance_value_usd": 38850.79,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-114978",
+    "destination_country": "United Arab Emirates"
+  }
+}

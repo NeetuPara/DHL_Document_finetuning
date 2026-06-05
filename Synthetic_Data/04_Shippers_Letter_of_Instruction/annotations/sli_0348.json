@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0348",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202601-6534",
+    "usppi_name": "Jones Pacific Corp.",
+    "usppi_address": "40492 Mitchell Walk Suite 925, Lake Janet, DE 32950, India",
+    "usppi_country": "India",
+    "ein": "68-5904511",
+    "consignee_name": "Tech Ortiz B.V.",
+    "consignee_address": "792 Anderson Row, Lake Samuelmouth, ID 78251, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Commerce Walton Co.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FOB",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Daniel Hernandez",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/37",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 29,
+        "unit": "LTR",
+        "weight_kg": 28.15,
+        "value_usd": 656.77
+      },
+      {
+        "marks": "SLI/15",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 74,
+        "unit": "PCS",
+        "weight_kg": 7.74,
+        "value_usd": 2103.17
+      }
+    ],
+    "total_weight_kg": 35.89,
+    "total_value_usd": 2759.94,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "819N",
+    "booking_ref": "BKG-320386",
+    "bl_number": "EGLV701948224",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Hong Kong, HK",
+    "container_number": "KHFU1153523",
+    "seal_number": "SL252506",
+    "container_type": "40'GP",
+    "cbm": 8.036
+  }
+}

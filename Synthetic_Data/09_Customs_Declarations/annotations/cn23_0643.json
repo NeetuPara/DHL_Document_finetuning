@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0643",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Teresa Wood",
+    "addressee_company": "Mcdaniel Industry Corp.",
+    "addressee_address": "4733 Anita Extension Apt. 196, Fisherside, MT 76359, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 5.013,
+    "total_value": 3286.3,
+    "currency": "USD",
+    "issue_date": "2025-07-10",
+    "reference": "REF-166673",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.644,
+        "value": 2783.12,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 5,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.519,
+        "value": 140.35,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 13,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.85,
+        "value": 362.83,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Brazil"
+      }
+    ],
+    "sender_name": "Kenneth Thompson",
+    "sender_company": "Stevens Tech S.A.",
+    "sender_address": "USCGC Nielsen, FPO AA 39143, South Korea",
+    "sender_phone": "218-788-8196x142",
+    "sender_email": "npittman@example.org",
+    "addressee_phone": "614-444-6533",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 3614.93,
+    "postal_charges": 56.63,
+    "tracking_number": "SY266657462WP"
+  }
+}

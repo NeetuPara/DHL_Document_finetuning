@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0769",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Morales International GmbH",
+    "shipper_address": "222 Emily Underpass, Russellchester, KY 91289, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Martin Industry B.V.",
+    "consignee_address": "545 David Plains, Helenmouth, WY 99685, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+8 823-656-3223",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 27,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 19.17,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-577128",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 31,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 90.58,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-926148",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Tina Rivera",
+    "signature_date": "2026-04-28",
+    "signature_place": "Germany",
+    "awb_number": "618-41443877",
+    "flight_number": "QR8083",
+    "flight_date": "2026-05-11",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "ICN",
+    "destination_airport_name": "Seoul Incheon"
+  }
+}

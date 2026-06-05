@@ -1,0 +1,61 @@
+{
+  "document_id": "vgm_0701",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Garcia Global GmbH",
+    "shipper_address": "551 Collins Vista Suite 826, East Jason, KS 29404, Sweden",
+    "shipper_country": "Sweden",
+    "container_number": "BFJB0410243",
+    "seal_number": "BL279943",
+    "container_size": "20'OT",
+    "iso_type_code": "22U0",
+    "tare_weight_kg": 2400,
+    "cargo_weight_kg": 11359.6,
+    "packing_materials_kg": 120.1,
+    "vgm_kg": 13879.7,
+    "vessel": "MOL TRIUMPH",
+    "voyage": "736S",
+    "bl_number": "YMLU453619730",
+    "booking_reference": "BKG-483674",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-60999",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-19",
+    "signature_date": "2026-05-11",
+    "signatory_name": "Sophia Lynn",
+    "signatory_title": "VGM Officer",
+    "number_of_packages": 4,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Pallet",
+        "n_units": 9,
+        "gross_wt_kg": 2779.6
+      },
+      {
+        "item_no": 2,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Roll",
+        "n_units": 14,
+        "gross_wt_kg": 1301.4
+      },
+      {
+        "item_no": 3,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Cylinder",
+        "n_units": 13,
+        "gross_wt_kg": 913.3
+      },
+      {
+        "item_no": 4,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Bundle",
+        "n_units": 12,
+        "gross_wt_kg": 6365.3
+      }
+    ]
+  }
+}

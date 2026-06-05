@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0537",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-93427210",
+    "mawb_number": "176-73604173",
+    "shipper_name": "Tech Walsh Ltd",
+    "shipper_address": "9953 Erickson Roads Suite 142, Jamesland, WI 24600, China",
+    "consignee_name": "Global Soto B.V.",
+    "consignee_address": "490 Megan Inlet, Lake Michelleshire, UT 76469, Malaysia",
+    "agent_name": "Williams Trade Ltd",
+    "airport_departure": "YYZ",
+    "airport_destination": "MIA",
+    "currency": "AED",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 18,
+    "gross_weight_kg": 269.6,
+    "chargeable_weight": 300.1,
+    "rate": 7.76,
+    "total_charge": 2328.78,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-08-11",
+    "signatory": "Amy Daugherty",
+    "iata_code": "13-559",
+    "agent_cass": "8479-8167",
+    "consolidation_ref": "CONS-6967-916018",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-64051414",
+        "pieces": 10,
+        "weight": 88.0,
+        "destination": "HKG",
+        "consignee": "Pacific Johnson GmbH",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "020-25274499",
+        "pieces": 3,
+        "weight": 38.4,
+        "destination": "LHR",
+        "consignee": "Trade Orozco Inc.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "618-78226113",
+        "pieces": 5,
+        "weight": 83.9,
+        "destination": "ORD",
+        "consignee": "Commerce Stanley GmbH",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "045-66082436",
+        "pieces": 8,
+        "weight": 30.0,
+        "destination": "NRT",
+        "consignee": "Trade Tanner S.A.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "085-78579421",
+        "pieces": 13,
+        "weight": 75.2,
+        "destination": "ICN",
+        "consignee": "Tech Bryan Co.",
+        "description": "Plastic Products - Injection Moulde"
+      }
+    ]
+  }
+}

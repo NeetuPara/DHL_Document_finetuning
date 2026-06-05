@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0736",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Craig Moore",
+    "addressee_company": "International Mora S.A.",
+    "addressee_address": "193 Daniel Stravenue, Richardbury, AR 62780, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 11.223,
+    "total_value": 4548.59,
+    "currency": "CNY",
+    "issue_date": "2025-10-29",
+    "reference": "REF-560169",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.177,
+        "value": 1011.36,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 14,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.762,
+        "value": 1795.36,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 5,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 4.201,
+        "value": 205.65,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 14,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.083,
+        "value": 1536.22,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Richard Castillo",
+    "sender_company": "Commerce Cox B.V.",
+    "sender_address": "670 Katherine Pass Apt. 211, New Evan, MP 72523, China",
+    "sender_phone": "814.775.9675",
+    "sender_email": "petersonjodi@example.com",
+    "addressee_phone": "2432647087",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 30.18,
+    "tracking_number": "BT294721457DT"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0391",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202012-4618",
+    "usppi_name": "Trade Rojas Ltd",
+    "usppi_address": "716 Christensen Rapid Apt. 370, East Nathaniel, DC 09431, Spain",
+    "usppi_country": "Spain",
+    "ein": "67-5693476",
+    "consignee_name": "Commerce Richard GmbH",
+    "consignee_address": "596 Solis Hill, Waltersberg, VA 76995, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Lester Industry LLC",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Tony Evans",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/15",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 38,
+        "unit": "LTR",
+        "weight_kg": 41.53,
+        "value_usd": 860.54
+      },
+      {
+        "marks": "EXP/33",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 184,
+        "unit": "PCS",
+        "weight_kg": 168.64,
+        "value_usd": 168741.99
+      },
+      {
+        "marks": "SLI/49",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 21,
+        "unit": "PCS",
+        "weight_kg": 3.1,
+        "value_usd": 1409.43
+      }
+    ],
+    "total_weight_kg": 213.27,
+    "total_value_usd": 171011.96,
+    "service": "LCL Ocean",
+    "named_port": "Tokyo, JP",
+    "insurance_value_usd": 20984.79,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-323943",
+    "destination_country": "Germany"
+  }
+}

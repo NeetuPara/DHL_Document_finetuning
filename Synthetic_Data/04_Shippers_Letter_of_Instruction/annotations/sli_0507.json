@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0507",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202211-9592",
+    "usppi_name": "Global Green Pte Ltd",
+    "usppi_address": "50820 Sarah Avenue Apt. 029, West Susan, TX 70052, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "67-1150087",
+    "consignee_name": "Daugherty Pacific LLC",
+    "consignee_address": "8315 Melissa Island, Sanderston, OR 24286, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Church Industry GmbH",
+    "forwarder": "Panalpina",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Shannon Orr",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/6",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 190,
+        "unit": "PKG",
+        "weight_kg": 545.97,
+        "value_usd": 12254.2
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 180,
+        "unit": "CTN",
+        "weight_kg": 722.06,
+        "value_usd": 3114.76
+      },
+      {
+        "marks": "EXP/35",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 6,
+        "unit": "PCS",
+        "weight_kg": 4.04,
+        "value_usd": 142.45
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 154,
+        "unit": "PCS",
+        "weight_kg": 193.31,
+        "value_usd": 276411.27
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 52,
+        "unit": "BOX",
+        "weight_kg": 40.68,
+        "value_usd": 1882.73
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 143,
+        "unit": "MTR",
+        "weight_kg": 170.52,
+        "value_usd": 2364.36
+      },
+      {
+        "marks": "SLI/21",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 146,
+        "unit": "LTR",
+        "weight_kg": 144.67,
+        "value_usd": 741.94
+      }
+    ],
+    "total_weight_kg": 1821.25,
+    "total_value_usd": 296911.71,
+    "vessel": "MSC OSCAR",
+    "voyage": "270E",
+    "booking_ref": "BKG-444034",
+    "bl_number": "OOLU821840704",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Hamburg, DE",
+    "container_number": "PQBD7826372",
+    "seal_number": "SL954905",
+    "container_type": "20'GP",
+    "cbm": 59.787
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0972",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-67566007",
+    "mawb_number": "057-42979974",
+    "shipper_name": "Matthews International Co.",
+    "shipper_address": "941 Brown Summit, Powellview, MI 95571, Mexico",
+    "consignee_name": "Hawkins Global Co.",
+    "consignee_address": "91372 Jason Plain Apt. 859, New Markmouth, MI 79471, Hong Kong",
+    "agent_name": "Webb International Corp.",
+    "airport_departure": "ORD",
+    "airport_destination": "PVG",
+    "currency": "USD",
+    "charge_code": "PP",
+    "declared_value_carriage": "JPY 2,940.17",
+    "declared_value_customs": "EUR 39,600.08",
+    "n_pieces": 14,
+    "gross_weight_kg": 143.2,
+    "chargeable_weight": 144.9,
+    "rate": 9.52,
+    "total_charge": 1379.45,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-04-19",
+    "signatory": "Samantha Kerr",
+    "iata_code": "47-000",
+    "agent_cass": "2173-6229",
+    "consolidation_ref": "CONS-8105-464948",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-83083531",
+        "pieces": 18,
+        "weight": 93.7,
+        "destination": "SYD",
+        "consignee": "Leblanc Tech LLC",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "045-56097102",
+        "pieces": 5,
+        "weight": 67.9,
+        "destination": "MIA",
+        "consignee": "Mcmillan Trade S.A.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "085-77787735",
+        "pieces": 1,
+        "weight": 94.6,
+        "destination": "NRT",
+        "consignee": "Morgan Industry Pte Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "176-33342533",
+        "pieces": 20,
+        "weight": 3.6,
+        "destination": "CDG",
+        "consignee": "Trade Gill S.A.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "618-62502597",
+        "pieces": 4,
+        "weight": 85.7,
+        "destination": "LHR",
+        "consignee": "Benson International S.A.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "006-56947086",
+        "pieces": 4,
+        "weight": 92.1,
+        "destination": "MIA",
+        "consignee": "Industry Williamson Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

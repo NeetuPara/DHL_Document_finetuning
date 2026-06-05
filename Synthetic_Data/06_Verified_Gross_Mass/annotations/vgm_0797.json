@@ -1,0 +1,75 @@
+{
+  "document_id": "vgm_0797",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Allen Tech Pte Ltd",
+    "shipper_address": "Unit 8779 Box 5888, DPO AE 55808, Malaysia",
+    "shipper_country": "Malaysia",
+    "container_number": "MGTP0837876",
+    "seal_number": "SL463936",
+    "container_size": "40'RF",
+    "iso_type_code": "42R1",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 17325.5,
+    "packing_materials_kg": 132.2,
+    "vgm_kg": 22257.7,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "688W",
+    "bl_number": "DHLG246654653",
+    "booking_reference": "BKG-224702",
+    "weighing_scale_type": "Certified Electronic Scale",
+    "scale_serial": "Unit-74629",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-17",
+    "signature_date": "2026-05-13",
+    "signatory_name": "Kevin Carson",
+    "signatory_title": "Export Manager",
+    "number_of_packages": 6,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Carton",
+        "n_units": 12,
+        "gross_wt_kg": 1305.5
+      },
+      {
+        "item_no": 2,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Roll",
+        "n_units": 11,
+        "gross_wt_kg": 2646.8
+      },
+      {
+        "item_no": 3,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Roll",
+        "n_units": 10,
+        "gross_wt_kg": 2525.8
+      },
+      {
+        "item_no": 4,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Cylinder",
+        "n_units": 14,
+        "gross_wt_kg": 1480.2
+      },
+      {
+        "item_no": 5,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Pallet",
+        "n_units": 16,
+        "gross_wt_kg": 1653.5
+      },
+      {
+        "item_no": 6,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Bundle",
+        "n_units": 17,
+        "gross_wt_kg": 7713.7
+      }
+    ]
+  }
+}

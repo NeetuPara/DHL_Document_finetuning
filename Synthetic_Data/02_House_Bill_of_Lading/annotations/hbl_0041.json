@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0041",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU937099561",
+    "shipper_name": "Coleman Commerce Ltd",
+    "shipper_address": "373 Williams Wells, Romerotown, VI 55990, India",
+    "shipper_country": "India",
+    "consignee_name": "Williams Pacific AG",
+    "consignee_address": "7613 Brock Lodge, Joneshaven, WV 77236, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party_name": "Pacific Wilson B.V.",
+    "notify_party_address": "17900 John Key, Hansenview, AZ 43636, India",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "233W",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Hong Kong, HK",
+    "place_of_receipt": "Qingdao, CN",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2025-08-20",
+    "issue_place": "Qingdao",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "FJNY8691171",
+        "seal_no": "CL988690",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "FLKE5636558",
+        "seal_no": "BL834029",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "IYPM8292584",
+        "seal_no": "CL460721",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "UTNT3868202",
+        "seal_no": "BL821035",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "number_of_packages": 340,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 6110.1,
+    "net_weight_kg": 5492.4,
+    "cbm": 29.236,
+    "marks_and_numbers": "XYZ/17"
+  }
+}

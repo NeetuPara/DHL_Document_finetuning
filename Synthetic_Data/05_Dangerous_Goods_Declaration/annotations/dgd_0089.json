@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0089",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Garza International GmbH",
+    "shipper_address": "8366 Colleen Road Suite 845, New Christopher, IN 05689, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Commerce Lambert Co.",
+    "consignee_address": "671 Michelle Valley, Lake Christophershire, AR 01217, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+20 414-171-5537",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 49,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 5.31,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-156073",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Douglas Jones",
+    "signature_date": "2026-04-30",
+    "signature_place": "Germany",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "436S",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Shanghai, CN"
+  }
+}

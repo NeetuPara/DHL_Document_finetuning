@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0024",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202207-6258",
+    "usppi_name": "Baker Trade GmbH",
+    "usppi_address": "556 Alexander Station Suite 881, Keithton, WV 35165, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "74-2716227",
+    "consignee_name": "Hanson Pacific B.V.",
+    "consignee_address": "91005 Jason Well, Petersonton, AZ 22068, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Flowers International Corp.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5A002",
+    "signatory_name": "Michael Bell",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/9",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 132,
+        "unit": "CTN",
+        "weight_kg": 238.94,
+        "value_usd": 1000.59
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 34,
+        "unit": "PKG",
+        "weight_kg": 64.55,
+        "value_usd": 3060.47
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 161,
+        "unit": "PCS",
+        "weight_kg": 57.37,
+        "value_usd": 35240.98
+      },
+      {
+        "marks": "SLI/17",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 157,
+        "unit": "PCS",
+        "weight_kg": 64.16,
+        "value_usd": 2862.89
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 169,
+        "unit": "PCS",
+        "weight_kg": 2518.6,
+        "value_usd": 36861.86
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 11,
+        "unit": "BOX",
+        "weight_kg": 20.38,
+        "value_usd": 437.24
+      },
+      {
+        "marks": "EXP/22",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 20,
+        "unit": "PCS",
+        "weight_kg": 180.83,
+        "value_usd": 14008.67
+      },
+      {
+        "marks": "SLI/34",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 169,
+        "unit": "KGS",
+        "weight_kg": 169.0,
+        "value_usd": 1423.25
+      }
+    ],
+    "total_weight_kg": 3313.83,
+    "total_value_usd": 94895.95,
+    "vessel": "EVER GOLDEN",
+    "voyage": "850N",
+    "booking_ref": "BKG-368067",
+    "bl_number": "YMLU136881123",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Los Angeles, US",
+    "container_number": "WVHP7479977",
+    "seal_number": "BL691990",
+    "container_type": "40'HC",
+    "cbm": 59.077
+  }
+}

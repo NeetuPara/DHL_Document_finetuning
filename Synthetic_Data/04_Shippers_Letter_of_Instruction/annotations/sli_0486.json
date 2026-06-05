@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0486",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202211-8052",
+    "usppi_name": "Kelly Trade Corp.",
+    "usppi_address": "94611 Banks Wall, New Susan, PW 73343, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "44-8488674",
+    "consignee_name": "Tech Williams LLC",
+    "consignee_address": "5545 Troy Manor, Brownmouth, TN 59404, China",
+    "consignee_country": "China",
+    "notify_party": "Campbell Tech LLC",
+    "forwarder": "Expeditors",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Rebecca Flores",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/48",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 73,
+        "unit": "KGS",
+        "weight_kg": 73.0,
+        "value_usd": 99.69
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 195,
+        "unit": "PCS",
+        "weight_kg": 2172.69,
+        "value_usd": 102543.91
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 88,
+        "unit": "BOX",
+        "weight_kg": 140.42,
+        "value_usd": 8022.86
+      },
+      {
+        "marks": "ABC/13",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 116,
+        "unit": "PCS",
+        "weight_kg": 6.41,
+        "value_usd": 5540.05
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 121,
+        "unit": "PCS",
+        "weight_kg": 2449.03,
+        "value_usd": 30134.09
+      },
+      {
+        "marks": "SLI/11",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 146,
+        "unit": "PCS",
+        "weight_kg": 15.24,
+        "value_usd": 12839.14
+      },
+      {
+        "marks": "EXP/50",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 23,
+        "unit": "LTR",
+        "weight_kg": 24.93,
+        "value_usd": 747.67
+      }
+    ],
+    "total_weight_kg": 4881.72,
+    "total_value_usd": 159927.41,
+    "vessel": "MADRID MAERSK",
+    "voyage": "543N",
+    "booking_ref": "BKG-912333",
+    "bl_number": "EGLV583950067",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Antwerp, BE",
+    "container_number": "BBWG4664478",
+    "seal_number": "SL452802",
+    "container_type": "40'GP",
+    "cbm": 44.552
+  }
+}

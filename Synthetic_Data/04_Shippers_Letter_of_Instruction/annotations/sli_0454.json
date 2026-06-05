@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0454",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202209-7497",
+    "usppi_name": "Tech Bradley S.A.",
+    "usppi_address": "8229 Mcdonald Crest Suite 111, Robertsonchester, WA 42050, United States",
+    "usppi_country": "United States",
+    "ein": "51-1536440",
+    "consignee_name": "Pitts Industry GmbH",
+    "consignee_address": "35645 Gregory Mount Apt. 796, Stanleyton, OR 54505, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Tech Castro AG",
+    "forwarder": "DB Schenker",
+    "incoterm": "DAP",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Jill Adams",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/6",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 181,
+        "unit": "MTR",
+        "weight_kg": 214.9,
+        "value_usd": 1310.98
+      },
+      {
+        "marks": "EXP/28",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 56,
+        "unit": "PCS",
+        "weight_kg": 19.03,
+        "value_usd": 128.18
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 68,
+        "unit": "CTN",
+        "weight_kg": 139.0,
+        "value_usd": 812.52
+      }
+    ],
+    "total_weight_kg": 372.93,
+    "total_value_usd": 2251.68,
+    "service": "LCL Ocean",
+    "named_port": "Tokyo, JP",
+    "insurance_value_usd": 28565.43,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-569415",
+    "destination_country": "Mexico"
+  }
+}

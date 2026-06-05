@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0866",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220513925394",
+    "export_date": "2026-04-04",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Global Boyd Inc.",
+    "usppi_ein": "14-5735172",
+    "usppi_address": "USNV Patterson, FPO AA 65482, France",
+    "ultimate_consignee": "Cobb International Co.",
+    "intermediate_consignee": "International Simmons AG",
+    "forwarding_agent": "Alexander Global Inc.",
+    "destination_country": "Spain",
+    "carrier": "MSC",
+    "bl_awb": "074-35407632",
+    "total_value": 124180.54,
+    "currency": "CHF",
+    "signatory": "Christina Marsh",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Thailand",
+        "qty": 102,
+        "unit": "CTN",
+        "entered_value": 39278.16,
+        "duty_rate": 22.2,
+        "duty_amount": 8719.75,
+        "eccn": "7A994",
+        "schedule_b": "9018.31.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Germany",
+        "qty": 157,
+        "unit": "KGS",
+        "entered_value": 59666.28,
+        "duty_rate": 11.9,
+        "duty_amount": 7100.29,
+        "eccn": "5E992",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Hong Kong",
+        "qty": 58,
+        "unit": "PCS",
+        "entered_value": 23910.5,
+        "duty_rate": 17.9,
+        "duty_amount": 4279.98,
+        "eccn": "3A992",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Singapore",
+        "qty": 10,
+        "unit": "MTR",
+        "entered_value": 1325.6,
+        "duty_rate": 0.6,
+        "duty_amount": 7.95,
+        "eccn": "0A919",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

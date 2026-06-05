@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0923",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202104-8127",
+    "usppi_name": "Pacific Brown Corp.",
+    "usppi_address": "28483 Elizabeth Mills Suite 644, Kyletown, FL 60334, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "86-3393972",
+    "consignee_name": "Thomas Global Corp.",
+    "consignee_address": "735 Johnston Shore Suite 719, East Timothy, KY 79890, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Global Park Inc.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Jessica Hughes",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/25",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 124,
+        "unit": "BOX",
+        "weight_kg": 162.53,
+        "value_usd": 11932.3
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 61,
+        "unit": "PCS",
+        "weight_kg": 24.44,
+        "value_usd": 1215.21
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 40,
+        "unit": "PCS",
+        "weight_kg": 556.12,
+        "value_usd": 7072.87
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 64,
+        "unit": "MTR",
+        "weight_kg": 20.32,
+        "value_usd": 657.97
+      },
+      {
+        "marks": "EXP/23",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 120,
+        "unit": "PCS",
+        "weight_kg": 113.66,
+        "value_usd": 157323.67
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 155,
+        "unit": "KGS",
+        "weight_kg": 155.0,
+        "value_usd": 1269.47
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 180,
+        "unit": "PCS",
+        "weight_kg": 61.24,
+        "value_usd": 34648.8
+      }
+    ],
+    "total_weight_kg": 1093.31,
+    "total_value_usd": 214120.29,
+    "service": "LCL Ocean",
+    "named_port": "Shanghai, CN",
+    "insurance_value_usd": 15760.11,
+    "license_type": "Distributor License",
+    "license_number": "LIC-836360",
+    "destination_country": "Canada"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0368",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Curtis Walters",
+    "addressee_company": "Global Vasquez GmbH",
+    "addressee_address": "48302 James Greens Suite 100, Crystalfort, WV 89119, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 13.082,
+    "total_value": 2716.17,
+    "currency": "EUR",
+    "issue_date": "2025-10-15",
+    "reference": "REF-034321",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.975,
+        "value": 385.33,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 18,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.905,
+        "value": 649.8,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 17,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.074,
+        "value": 1574.54,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 15,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.128,
+        "value": 106.5,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_name": "Tammy Jackson",
+    "sender_company": "International Schultz Ltd",
+    "sender_address": "59307 Todd Way Suite 521, Markview, NY 15564, Netherlands",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 13.52,
+    "tracking_number": "XA725767072XM"
+  }
+}

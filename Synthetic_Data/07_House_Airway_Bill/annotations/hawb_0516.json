@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0516",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-23618706",
+    "mawb_number": "176-76819906",
+    "shipper_name": "Patterson International GmbH",
+    "shipper_address": "8513 Julie Junction, East Patrick, NV 05407, Thailand",
+    "consignee_name": "Fisher Trade Inc.",
+    "consignee_address": "91302 Kathryn Bridge, Jonesmouth, SC 92168, India",
+    "agent_name": "Eaton Pacific S.A.",
+    "airport_departure": "AMS",
+    "airport_destination": "ORD",
+    "currency": "USD",
+    "charge_code": "PP",
+    "declared_value_carriage": "GBP 32,476.56",
+    "declared_value_customs": "NCV",
+    "n_pieces": 50,
+    "gross_weight_kg": 358.9,
+    "chargeable_weight": 456.4,
+    "rate": 6.63,
+    "total_charge": 3025.93,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-12-25",
+    "signatory": "Robert Williams",
+    "iata_code": "16-131",
+    "agent_cass": "8641-3659",
+    "consolidation_ref": "CONS-6354-037423",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-69862498",
+        "pieces": 7,
+        "weight": 99.8,
+        "destination": "SIN",
+        "consignee": "Industry Kaiser B.V.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "074-85560150",
+        "pieces": 2,
+        "weight": 78.8,
+        "destination": "SYD",
+        "consignee": "Prince Commerce Inc.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "176-50449361",
+        "pieces": 14,
+        "weight": 14.7,
+        "destination": "AMS",
+        "consignee": "Trade Clay GmbH",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "020-84456221",
+        "pieces": 12,
+        "weight": 75.2,
+        "destination": "ICN",
+        "consignee": "Industry Santos AG",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "057-28764119",
+        "pieces": 12,
+        "weight": 28.8,
+        "destination": "LAX",
+        "consignee": "Tech Cunningham S.A.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "020-31500847",
+        "pieces": 13,
+        "weight": 30.9,
+        "destination": "LHR",
+        "consignee": "Williams Tech Corp.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "125-73044904",
+        "pieces": 11,
+        "weight": 72.8,
+        "destination": "SIN",
+        "consignee": "Harrison Trade B.V.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "057-24664784",
+        "pieces": 12,
+        "weight": 5.9,
+        "destination": "JFK",
+        "consignee": "Tech Collins Inc.",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

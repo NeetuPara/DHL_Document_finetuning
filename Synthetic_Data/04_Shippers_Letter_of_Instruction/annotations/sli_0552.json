@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0552",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202510-5430",
+    "usppi_name": "Byrd Global Pte Ltd",
+    "usppi_address": "72337 Wade Ranch, Adkinsborough, TX 21887, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "79-5545015",
+    "consignee_name": "Trade Martinez B.V.",
+    "consignee_address": "895 Costa Locks Suite 172, Robertsonville, TN 88275, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Jones Trade Pte Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "David Whitaker",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/16",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 40,
+        "unit": "PCS",
+        "weight_kg": 362.37,
+        "value_usd": 23884.3
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 184,
+        "unit": "PCS",
+        "weight_kg": 139.73,
+        "value_usd": 701.33
+      }
+    ],
+    "total_weight_kg": 502.1,
+    "total_value_usd": 24585.63,
+    "vessel": "YANG MING MYTH",
+    "voyage": "139S",
+    "booking_ref": "BKG-496891",
+    "bl_number": "MAEU152123849",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Qingdao, CN",
+    "container_number": "DNBL5996520",
+    "seal_number": "SL872632",
+    "container_type": "20'GP",
+    "cbm": 15.775
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0474",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202506-4930",
+    "usppi_name": "International Heath GmbH",
+    "usppi_address": "078 Mark Row Apt. 074, East Nathan, WV 88240, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "42-9510448",
+    "consignee_name": "Crane International S.A.",
+    "consignee_address": "USNV Bryant, FPO AA 31399, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Ryan Commerce B.V.",
+    "forwarder": "Panalpina",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Megan Flores",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/5",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 132,
+        "unit": "PCS",
+        "weight_kg": 154.31,
+        "value_usd": 4110.63
+      },
+      {
+        "marks": "SLI/49",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 177,
+        "unit": "CTN",
+        "weight_kg": 641.91,
+        "value_usd": 13745.53
+      }
+    ],
+    "total_weight_kg": 796.22,
+    "total_value_usd": 17856.16,
+    "vessel": "ONE INNOVATION",
+    "voyage": "610S",
+    "booking_ref": "BKG-544364",
+    "bl_number": "MAEU618091247",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "SENA3201203",
+    "seal_number": "SL332496",
+    "container_type": "20'GP",
+    "cbm": 16.938
+  }
+}

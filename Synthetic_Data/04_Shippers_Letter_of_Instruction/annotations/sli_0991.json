@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0991",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202104-4031",
+    "usppi_name": "Global Newman GmbH",
+    "usppi_address": "17379 Horton Greens Apt. 313, Nicholsport, SC 44041, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "88-4526454",
+    "consignee_name": "Brown Commerce LLC",
+    "consignee_address": "USNS Bryant, FPO AE 47349, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Dillon Global Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "James Graham",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/15",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 161,
+        "unit": "KGS",
+        "weight_kg": 161.0,
+        "value_usd": 779.04
+      },
+      {
+        "marks": "EXP/23",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 182,
+        "unit": "PCS",
+        "weight_kg": 312.13,
+        "value_usd": 12479.64
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 105,
+        "unit": "PKG",
+        "weight_kg": 234.02,
+        "value_usd": 9609.23
+      }
+    ],
+    "total_weight_kg": 707.15,
+    "total_value_usd": 22867.91,
+    "service": "Ocean Freight",
+    "named_port": "Tokyo, JP",
+    "insurance_value_usd": 35856.39,
+    "license_type": "Distributor License",
+    "license_number": "LIC-116230",
+    "destination_country": "Mexico"
+  }
+}

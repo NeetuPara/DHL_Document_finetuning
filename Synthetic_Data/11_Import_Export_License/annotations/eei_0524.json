@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0524",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250714574047",
+    "export_date": "2025-08-17",
+    "aes_option": "AES Filing",
+    "usppi_name": "Chen Global AG",
+    "usppi_ein": "25-7063528",
+    "usppi_address": "72422 Marcus Skyway Apt. 967, Lake Peggy, WI 75493, Mexico",
+    "ultimate_consignee": "Pacific Young Inc.",
+    "intermediate_consignee": "Pacific Henderson Co.",
+    "forwarding_agent": "Curry International B.V.",
+    "destination_country": "Poland",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "074-17409384",
+    "total_value": 26184.95,
+    "currency": "USD",
+    "signatory": "Rachel Stout",
+    "line_items": [
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Japan",
+        "qty": 319,
+        "unit": "CTN",
+        "entered_value": 22473.55,
+        "duty_rate": 6.6,
+        "duty_amount": 1483.25,
+        "eccn": "0A919",
+        "schedule_b": "4819.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "South Korea",
+        "qty": 55,
+        "unit": "MTR",
+        "entered_value": 3711.4,
+        "duty_rate": 25.0,
+        "duty_amount": 927.85,
+        "eccn": "0A919",
+        "schedule_b": "5407.42.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

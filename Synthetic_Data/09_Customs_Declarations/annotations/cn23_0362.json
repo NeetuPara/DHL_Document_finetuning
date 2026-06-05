@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0362",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jennifer Bradshaw",
+    "addressee_company": "Tech Green Ltd",
+    "addressee_address": "0392 Durham Trace Apt. 984, Danielsstad, LA 03585, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 4.278,
+    "total_value": 1319.85,
+    "currency": "SGD",
+    "issue_date": "2026-03-12",
+    "reference": "REF-189920",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.628,
+        "value": 259.29,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 8,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.65,
+        "value": 1060.56,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_name": "Zachary Duffy",
+    "sender_company": "Cox Industry Co.",
+    "sender_address": "428 Juan Canyon Apt. 404, West Brittany, WY 65497, India",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 1451.84,
+    "postal_charges": 9.6,
+    "tracking_number": "SN098983402UW"
+  }
+}

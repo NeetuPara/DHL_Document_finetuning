@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0400",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kevin Hart",
+    "addressee_company": "Freeman International Ltd",
+    "addressee_address": "05448 Greer Roads, Port Melissaside, MH 68810, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 5.408,
+    "total_value": 1618.43,
+    "currency": "JPY",
+    "issue_date": "2025-09-30",
+    "reference": "REF-007419",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.91,
+        "value": 170.82,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 19,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.498,
+        "value": 1447.61,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "Ruben Rice",
+    "sender_company": "International Morris B.V.",
+    "sender_address": "3168 Brandi Viaduct Apt. 190, Lake Ericstad, ID 27815, Brazil",
+    "sender_phone": "(246)489-6103x3572",
+    "sender_email": "jacquelinecasey@example.com",
+    "addressee_phone": "(287)423-9136x73889",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 1780.27,
+    "postal_charges": 29.61,
+    "tracking_number": "FO647378639UA"
+  }
+}

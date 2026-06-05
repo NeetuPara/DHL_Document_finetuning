@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0530",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202001-7353",
+    "usppi_name": "Harmon Industry AG",
+    "usppi_address": "525 Lisa Lock, East Mary, ID 89562, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "62-4798989",
+    "consignee_name": "International Stewart S.A.",
+    "consignee_address": "4040 Laura Alley Apt. 709, Thomastown, WI 27473, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Pacific Nguyen Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "EXW",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Ray Owens",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/33",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 141,
+        "unit": "PCS",
+        "weight_kg": 194.7,
+        "value_usd": 42836.57
+      },
+      {
+        "marks": "SLI/9",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 52,
+        "unit": "KGS",
+        "weight_kg": 52.0,
+        "value_usd": 626.19
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 160,
+        "unit": "CTN",
+        "weight_kg": 524.84,
+        "value_usd": 9717.71
+      },
+      {
+        "marks": "ABC/6",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 68,
+        "unit": "CTN",
+        "weight_kg": 35.59,
+        "value_usd": 830.12
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 99,
+        "unit": "SET",
+        "weight_kg": 128.01,
+        "value_usd": 11078.48
+      },
+      {
+        "marks": "EXP/1",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 113,
+        "unit": "PCS",
+        "weight_kg": 66.24,
+        "value_usd": 499.34
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 169,
+        "unit": "PCS",
+        "weight_kg": 74.87,
+        "value_usd": 27816.47
+      },
+      {
+        "marks": "ABC/26",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 31,
+        "unit": "KGS",
+        "weight_kg": 31.0,
+        "value_usd": 53.8
+      }
+    ],
+    "total_weight_kg": 1107.25,
+    "total_value_usd": 93458.68,
+    "service": "Air Freight",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 7331.9,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-161050",
+    "destination_country": "United Arab Emirates"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "coo_0800",
+  "document_class": "Certificate of Origin",
+  "format_variant": "FTA-USMCA-Numbered-Fields",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202503-9604",
+    "exporter_name": "Fowler Industry Co.",
+    "exporter_address": "5608 Bullock Circle, Whitestad, NJ 34940, Japan",
+    "exporter_country": "Japan",
+    "consignee_name": "Mills Global Pte Ltd",
+    "consignee_address": "516 Martin Plain Suite 743, New Robert, KS 77349, India",
+    "consignee_country": "India",
+    "country_of_origin": "Japan",
+    "country_of_destination": "India",
+    "bl_or_awb": "OOLU829660696",
+    "issue_date": "2026-01-17",
+    "certifier_name": "Michael Sparks",
+    "goods": [
+      {
+        "description": "Plastic Products - Injection Moulded Components",
+        "hs_code": "3926.90.00",
+        "qty": 383,
+        "unit": "PCS",
+        "weight_kg": 533.87,
+        "origin_criterion": "B",
+        "value": 2386.98
+      },
+      {
+        "description": "Textile Fabrics - Woven Polyester",
+        "hs_code": "5407.42.00",
+        "qty": 314,
+        "unit": "MTR",
+        "weight_kg": 265.64,
+        "origin_criterion": "B",
+        "value": 4188.99
+      },
+      {
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "hs_code": "2936.90.00",
+        "qty": 376,
+        "unit": "BOX",
+        "weight_kg": 246.92,
+        "origin_criterion": "A",
+        "value": 26720.99
+      }
+    ],
+    "fta_agreement": "RCEP",
+    "blanket_period_from": "2025-11-22",
+    "blanket_period_to": "2027-01-04",
+    "producer_name": "Moore Industry Corp.",
+    "producer_country": "Australia"
+  }
+}

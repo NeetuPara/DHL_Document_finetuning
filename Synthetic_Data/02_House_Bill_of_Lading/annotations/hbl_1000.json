@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_1000",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU607140721",
+    "shipper_name": "Cox Pacific AG",
+    "shipper_address": "5590 Becky Bridge Apt. 551, Holmesshire, OR 28333, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Trade Anderson Pte Ltd",
+    "consignee_address": "97247 Thomas Via Apt. 925, New Tammy, CT 38753, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party_name": "Pacific Johnson GmbH",
+    "notify_party_address": "557 Lauren Keys Suite 120, East Tina, MO 99117, India",
+    "vessel": "ONE INNOVATION",
+    "voyage": "271E",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2024-07-31",
+    "issue_place": "Shanghai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "QWYT0291855",
+        "seal_no": "BL463342",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "OKEA7155516",
+        "seal_no": "SL882944",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "JNYB6864773",
+        "seal_no": "SL448895",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "ATGM1722780",
+        "seal_no": "SL648639",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 279,
+    "package_type": "Crate",
+    "gross_weight_kg": 21058.3,
+    "net_weight_kg": 19518.8,
+    "cbm": 24.11,
+    "marks_and_numbers": "GLB/34"
+  }
+}

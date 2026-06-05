@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0292",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Angela Payne",
+    "addressee_company": "Rice Pacific Pte Ltd",
+    "addressee_address": "98996 Jill Village, Malikview, KY 63021, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 11.824,
+    "total_value": 1171.92,
+    "currency": "AED",
+    "issue_date": "2025-08-15",
+    "reference": "REF-325330",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.72,
+        "value": 598.84,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 10,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.247,
+        "value": 427.5,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 2,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.857,
+        "value": 145.58,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Amber Lang",
+    "sender_company": "Young Tech Pte Ltd",
+    "sender_address": "Unit 8750 Box 3969, DPO AP 19944, United Kingdom",
+    "sender_phone": "(686)282-1695",
+    "sender_email": "kbond@example.net",
+    "addressee_phone": "429.491.0319",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 42.26,
+    "tracking_number": "ZW874090006VG"
+  }
+}

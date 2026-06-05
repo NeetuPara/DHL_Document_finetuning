@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0498",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG202054087",
+    "shipper_name": "Moss Industry AG",
+    "shipper_address": "50604 Karen Mountain, Careyland, LA 62187, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Trade Jacobs Co.",
+    "consignee_address": "20780 Powell River Apt. 773, West Kendraville, KS 75661, United States",
+    "consignee_country": "United States",
+    "notify_party_name": "Ellis Trade GmbH",
+    "notify_party_address": "10489 Hines Knoll Apt. 314, Edwardsfort, IA 46431, China",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "724S",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Qingdao, CN",
+    "issue_date": "2024-09-21",
+    "issue_place": "Singapore",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "BHPN7870216",
+        "seal_no": "SL747376",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "QRCH0330126",
+        "seal_no": "BL229562",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "QTIE7920297",
+        "seal_no": "SL114925",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 35,
+    "package_type": "Drum",
+    "gross_weight_kg": 1851.4,
+    "net_weight_kg": 1709.4,
+    "cbm": 4.129,
+    "marks_and_numbers": "ABC/36"
+  }
+}

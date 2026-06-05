@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0130",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Nichole Hancock",
+    "addressee_company": "Martinez Global LLC",
+    "addressee_address": "6690 Stacy Lodge, Coxchester, WI 37234, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 9.173,
+    "total_value": 3383.48,
+    "currency": "CAD",
+    "issue_date": "2025-12-31",
+    "reference": "REF-260264",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.669,
+        "value": 431.16,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 20,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.57,
+        "value": 1806.4,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 8,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.934,
+        "value": 1145.92,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Andrew Huerta",
+    "sender_company": "Commerce Roberts Ltd",
+    "sender_address": "72493 Turner Station Apt. 202, Baileyport, ME 94784, Spain",
+    "sender_phone": "6372812041",
+    "sender_email": "fvillarreal@example.org",
+    "addressee_phone": "8809305842",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 3721.83,
+    "postal_charges": 64.09,
+    "tracking_number": "OV423935906WY"
+  }
+}

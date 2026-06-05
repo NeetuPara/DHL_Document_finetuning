@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0174",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-64964394",
+    "mawb_number": "176-68756859",
+    "shipper_name": "International Medina LLC",
+    "shipper_address": "6165 Kirk Plaza Suite 828, Scottmouth, NM 67104, China",
+    "consignee_name": "Pacific Walker Corp.",
+    "consignee_address": "83637 King Park, Keithview, VA 63704, Japan",
+    "agent_name": "Global Suarez LLC",
+    "airport_departure": "YYZ",
+    "airport_destination": "DXB",
+    "currency": "CNY",
+    "charge_code": "PP",
+    "declared_value_carriage": "CHF 3,673.05",
+    "declared_value_customs": "CHF 3,475.10",
+    "n_pieces": 26,
+    "gross_weight_kg": 165.3,
+    "chargeable_weight": 178.9,
+    "rate": 9.53,
+    "total_charge": 1704.92,
+    "nature_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-07-23",
+    "signatory": "Chad Alvarez",
+    "iata_code": "29-853",
+    "agent_cass": "5173-7735",
+    "consolidation_ref": "CONS-9936-553356",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-29450706",
+        "pieces": 19,
+        "weight": 18.0,
+        "destination": "NRT",
+        "consignee": "International Gonzalez Inc.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "125-79485238",
+        "pieces": 14,
+        "weight": 77.1,
+        "destination": "NRT",
+        "consignee": "Johnson Trade Inc.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "020-11266360",
+        "pieces": 18,
+        "weight": 14.1,
+        "destination": "AMS",
+        "consignee": "Commerce Beck Inc.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "020-68144037",
+        "pieces": 17,
+        "weight": 83.7,
+        "destination": "NRT",
+        "consignee": "Tech Ortiz Inc.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "045-90756969",
+        "pieces": 19,
+        "weight": 28.2,
+        "destination": "LAX",
+        "consignee": "Global Rodriguez S.A.",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

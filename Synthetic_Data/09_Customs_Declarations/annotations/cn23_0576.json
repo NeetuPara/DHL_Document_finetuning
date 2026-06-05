@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0576",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Ms. Sharon Lloyd",
+    "addressee_company": "Pacific Rivera GmbH",
+    "addressee_address": "043 Scott Alley, Lake Scott, WY 75353, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 6.238,
+    "total_value": 2152.36,
+    "currency": "CAD",
+    "issue_date": "2025-07-21",
+    "reference": "REF-147416",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.162,
+        "value": 16.11,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 15,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.231,
+        "value": 1403.25,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 10,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.845,
+        "value": 733.0,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_country": "Germany",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "297-23784503-1",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 23.6,
+    "estimated_duty": 507.96,
+    "importer_ein": "90-0743253",
+    "customs_broker": "Walker Pacific LLC"
+  }
+}

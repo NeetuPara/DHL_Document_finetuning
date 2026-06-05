@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0195",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202501-4833",
+    "usppi_name": "Tech White Corp.",
+    "usppi_address": "735 Robert Stream, Fosterview, ID 25558, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "51-1957921",
+    "consignee_name": "Commerce Bradley Inc.",
+    "consignee_address": "595 Rebecca Pines Suite 984, Lake Sandra, MA 54582, France",
+    "consignee_country": "France",
+    "notify_party": "Erickson Industry B.V.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5A002",
+    "signatory_name": "Alyssa Bowen",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/40",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 183,
+        "unit": "PCS",
+        "weight_kg": 53.33,
+        "value_usd": 52641.16
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 90,
+        "unit": "PCS",
+        "weight_kg": 722.08,
+        "value_usd": 18448.75
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 45,
+        "unit": "PCS",
+        "weight_kg": 58.79,
+        "value_usd": 864.27
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 117,
+        "unit": "LTR",
+        "weight_kg": 107.65,
+        "value_usd": 3218.97
+      }
+    ],
+    "total_weight_kg": 941.85,
+    "total_value_usd": 75173.15,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "120N",
+    "booking_ref": "BKG-499567",
+    "bl_number": "EGLV291206507",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Felixstowe, GB",
+    "container_number": "YEXF0372074",
+    "seal_number": "CL233089",
+    "container_type": "20'GP",
+    "cbm": 10.556
+  }
+}

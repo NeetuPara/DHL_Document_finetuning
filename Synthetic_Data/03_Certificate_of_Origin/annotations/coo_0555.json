@@ -1,0 +1,42 @@
+{
+  "document_id": "coo_0555",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202101-2609",
+    "exporter_name": "International Edwards Co.",
+    "exporter_address": "549 Emma Ports, North Joseph, VI 03200, Hong Kong",
+    "exporter_country": "Hong Kong",
+    "consignee_name": "Murphy Trade B.V.",
+    "consignee_address": "56526 Johnson Circle Suite 444, New Coryton, NM 00564, Germany",
+    "consignee_country": "Germany",
+    "country_of_origin": "Hong Kong",
+    "country_of_destination": "Germany",
+    "bl_or_awb": "COSU879223120",
+    "issue_date": "2026-02-04",
+    "certifier_name": "Tracy Cobb",
+    "goods": [
+      {
+        "description": "Automotive Spare Parts - Brake Pads",
+        "hs_code": "8708.30.00",
+        "qty": 73,
+        "unit": "SET",
+        "weight_kg": 124.08,
+        "origin_criterion": "E",
+        "value": 8492.17
+      },
+      {
+        "description": "Paper Products - Packaging Cartons",
+        "hs_code": "4819.10.00",
+        "qty": 350,
+        "unit": "CTN",
+        "weight_kg": 257.67,
+        "origin_criterion": "D",
+        "value": 2209.53
+      }
+    ],
+    "fta_agreement": "EU-Japan EPA",
+    "chamber": "Board of Trade"
+  }
+}

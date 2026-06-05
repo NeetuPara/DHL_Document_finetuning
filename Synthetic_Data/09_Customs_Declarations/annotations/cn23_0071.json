@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0071",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Todd Baker",
+    "addressee_company": "Cruz Global Pte Ltd",
+    "addressee_address": "PSC 0155, Box 5972, APO AP 24984, China",
+    "addressee_country": "China",
+    "total_weight_kg": 3.628,
+    "total_value": 289.48,
+    "currency": "JPY",
+    "issue_date": "2025-05-27",
+    "reference": "REF-023328",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.628,
+        "value": 289.48,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Morgan Adkins",
+    "sender_company": "Tech Johnson Ltd",
+    "sender_address": "3863 Bonnie Harbors, New Jessica, IN 44653, Australia",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 8.34,
+    "tracking_number": "PB060765447ST"
+  }
+}

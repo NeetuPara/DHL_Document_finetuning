@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0555",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-24319406",
+    "mawb_number": "057-99841518",
+    "shipper_name": "Tech Johnson S.A.",
+    "shipper_address": "53593 Stuart Road, East Anthony, NH 81091, Thailand",
+    "consignee_name": "Pacific Boyd S.A.",
+    "consignee_address": "60639 Shepard Forks, Timothymouth, WY 62029, India",
+    "agent_name": "Velasquez Commerce Ltd",
+    "airport_departure": "FRA",
+    "airport_destination": "PVG",
+    "currency": "CNY",
+    "charge_code": "CC",
+    "declared_value_carriage": "CAD 38,393.02",
+    "declared_value_customs": "NCV",
+    "n_pieces": 28,
+    "gross_weight_kg": 255.5,
+    "chargeable_weight": 272.7,
+    "rate": 3.76,
+    "total_charge": 1025.35,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-04-17",
+    "signatory": "Charles Baker",
+    "iata_code": "82-791",
+    "agent_cass": "9156-6954",
+    "consolidation_ref": "CONS-3783-623238",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-92241683",
+        "pieces": 5,
+        "weight": 23.5,
+        "destination": "YYZ",
+        "consignee": "International Beltran Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "618-57978076",
+        "pieces": 10,
+        "weight": 2.0,
+        "destination": "JFK",
+        "consignee": "Smith Tech Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "085-93051536",
+        "pieces": 16,
+        "weight": 82.8,
+        "destination": "JFK",
+        "consignee": "Bryant Global Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      }
+    ]
+  }
+}

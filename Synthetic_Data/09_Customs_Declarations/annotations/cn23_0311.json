@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0311",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Allison Jones",
+    "addressee_company": "Richmond Industry AG",
+    "addressee_address": "Unit 1265 Box 0399, DPO AP 37773, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 12.357,
+    "total_value": 4293.34,
+    "currency": "AUD",
+    "issue_date": "2025-07-08",
+    "reference": "REF-289745",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.0,
+        "value": 589.2,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 6,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.786,
+        "value": 502.68,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 19,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.153,
+        "value": 1339.12,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 12,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.385,
+        "value": 1362.0,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 6,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.033,
+        "value": 500.34,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "George Taylor",
+    "sender_company": "Sanders Commerce B.V.",
+    "sender_address": "06729 Kristina Fork, East Paula, PA 22758, Australia",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 4722.67,
+    "postal_charges": 35.04,
+    "tracking_number": "WY967730451QI"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0470",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202105-6399",
+    "usppi_name": "Bailey Pacific Ltd",
+    "usppi_address": "03086 Lyons Bypass Apt. 160, Lake Jared, MI 68790, China",
+    "usppi_country": "China",
+    "ein": "99-2763175",
+    "consignee_name": "Gibson Commerce B.V.",
+    "consignee_address": "615 Kaitlin Mountain, Port Chadburgh, AZ 61204, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Dominguez International GmbH",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "7A994",
+    "signatory_name": "Erik Ross",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/16",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 52,
+        "unit": "PKG",
+        "weight_kg": 89.91,
+        "value_usd": 558.58
+      },
+      {
+        "marks": "EXP/33",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 162,
+        "unit": "KGS",
+        "weight_kg": 162.0,
+        "value_usd": 1987.01
+      },
+      {
+        "marks": "ABC/6",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 70,
+        "unit": "CTN",
+        "weight_kg": 85.0,
+        "value_usd": 209.78
+      },
+      {
+        "marks": "SLI/2",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 41,
+        "unit": "PCS",
+        "weight_kg": 787.97,
+        "value_usd": 3743.13
+      }
+    ],
+    "total_weight_kg": 1124.88,
+    "total_value_usd": 6498.5,
+    "service": "Air Freight",
+    "named_port": "London Heathrow",
+    "insurance_value_usd": 30594.58,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-900194",
+    "destination_country": "United Kingdom"
+  }
+}

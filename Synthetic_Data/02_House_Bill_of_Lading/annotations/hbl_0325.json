@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0325",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU484587274",
+    "shipper_name": "Scott Global Co.",
+    "shipper_address": "57306 Wright Lights Apt. 675, Hunterview, IL 39815, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Trade Wilson B.V.",
+    "consignee_address": "0717 Daniel Skyway Suite 935, North Laurie, LA 07951, France",
+    "consignee_country": "France",
+    "notify_party_name": "Pacific Hansen Ltd",
+    "notify_party_address": "323 Aguilar Greens, Morachester, VI 34219, Italy",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "820N",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2025-05-25",
+    "issue_place": "Tokyo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "NDSB9012340",
+        "seal_no": "CL241796",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "VQKD9141532",
+        "seal_no": "CL242030",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "YACR6262053",
+        "seal_no": "SL543604",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "PQTR3586417",
+        "seal_no": "BL255551",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "number_of_packages": 248,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 20728.4,
+    "net_weight_kg": 19153.1,
+    "cbm": 25.08,
+    "marks_and_numbers": "ABC/14"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0842",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU613150932",
+    "shipper_name": "International Mason B.V.",
+    "shipper_address": "51263 Pam Falls, South John, UT 97326, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Industry Pope GmbH",
+    "consignee_address": "014 Elizabeth Cliffs Apt. 011, Lake Kellychester, MT 59825, Canada",
+    "consignee_country": "Canada",
+    "notify_party_name": "Trade Lee Inc.",
+    "notify_party_address": "914 Kyle Point Suite 572, North Lee, LA 05383, Canada",
+    "vessel": "EVER GOLDEN",
+    "voyage": "966W",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2025-01-19",
+    "issue_place": "Busan",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "CINX9274042",
+        "seal_no": "BL356426",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "OZXA3866242",
+        "seal_no": "BL107641",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "MCQI3653971",
+        "seal_no": "SL835011",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 283,
+    "package_type": "Crate",
+    "gross_weight_kg": 13250.3,
+    "net_weight_kg": 12824.4,
+    "cbm": 15.597,
+    "marks_and_numbers": "ABC/8"
+  }
+}

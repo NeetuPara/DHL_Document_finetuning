@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0401",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Klein Commerce Inc.",
+    "shipper_address": "2781 Moore Roads Suite 076, New Sophiatown, DE 09544, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "International Lopez B.V.",
+    "consignee_address": "682 Dunn Greens Suite 898, Jacobtown, MI 72287, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+92 415-338-8434",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 44,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 89.54,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Brandon Wagner",
+    "signature_date": "2026-04-26",
+    "signature_place": "South Korea",
+    "vessel": "EVER GOLDEN",
+    "voyage": "309S",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Dubai, AE"
+  }
+}

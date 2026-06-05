@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0766",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202404-2983",
+    "usppi_name": "Trade Thomas GmbH",
+    "usppi_address": "660 Samantha Bypass Apt. 601, Tammyport, AK 46792, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "49-1375982",
+    "consignee_name": "International Gillespie Pte Ltd",
+    "consignee_address": "5368 Katelyn Lodge, Blackville, PR 31291, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Tech Mcgee B.V.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Daniel Dillon",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/12",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 57,
+        "unit": "PCS",
+        "weight_kg": 15.46,
+        "value_usd": 13930.35
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 155,
+        "unit": "PCS",
+        "weight_kg": 574.49,
+        "value_usd": 87687.32
+      },
+      {
+        "marks": "ABC/24",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 165,
+        "unit": "KGS",
+        "weight_kg": 165.0,
+        "value_usd": 2771.58
+      }
+    ],
+    "total_weight_kg": 754.95,
+    "total_value_usd": 104389.25,
+    "service": "LCL Ocean",
+    "named_port": "Hamburg, DE",
+    "insurance_value_usd": 38983.58,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Italy"
+  }
+}

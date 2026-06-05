@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0680",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Angela Kelly",
+    "addressee_company": "Hull Pacific Corp.",
+    "addressee_address": "289 Kathryn Heights, North Josetown, OK 05201, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 1.608,
+    "total_value": 478.89,
+    "currency": "USD",
+    "issue_date": "2026-02-19",
+    "reference": "REF-221922",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.608,
+        "value": 478.89,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_name": "John Maddox",
+    "sender_company": "Global Martin B.V.",
+    "sender_address": "9803 Crawford Well Apt. 101, Calebside, PW 00827, Italy",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 526.78,
+    "postal_charges": 27.22,
+    "tracking_number": "YR444494624TW"
+  }
+}

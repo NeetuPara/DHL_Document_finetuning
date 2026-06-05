@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0328",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Chad Weeks",
+    "addressee_company": "Commerce Carrillo Corp.",
+    "addressee_address": "2142 William Place, Nataliemouth, NY 05726, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 7.562,
+    "total_value": 2986.49,
+    "currency": "GBP",
+    "issue_date": "2025-12-03",
+    "reference": "REF-956258",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.64,
+        "value": 720.5,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 20,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.192,
+        "value": 775.6,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 11,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.73,
+        "value": 1490.39,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Italy"
+      }
+    ],
+    "sender_name": "Lindsay Wagner",
+    "sender_company": "Mathews Commerce B.V.",
+    "sender_address": "PSC 9145, Box 2557, APO AA 83666, Japan",
+    "sender_phone": "(623)247-1385",
+    "sender_email": "silvajessica@example.org",
+    "addressee_phone": "303.772.6986",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 3285.14,
+    "postal_charges": 66.62,
+    "tracking_number": "XY697526532RZ"
+  }
+}

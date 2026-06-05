@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0989",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250416241820",
+    "export_date": "2025-06-04",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Mahoney Commerce Inc.",
+    "usppi_ein": "77-3023626",
+    "usppi_address": "88639 Aaron Fords Suite 160, West Christopherview, AS 38861, China",
+    "ultimate_consignee": "International Chang AG",
+    "intermediate_consignee": "Global Grant Ltd",
+    "forwarding_agent": "Clark Tech Pte Ltd",
+    "destination_country": "Japan",
+    "carrier": "DHL Express",
+    "bl_awb": "176-36846853",
+    "total_value": 127470.0,
+    "currency": "EUR",
+    "signatory": "Joshua Morris",
+    "line_items": [
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "United Kingdom",
+        "qty": 186,
+        "unit": "LTR",
+        "entered_value": 42947.4,
+        "duty_rate": 12.0,
+        "duty_amount": 5153.69,
+        "eccn": "9A515",
+        "schedule_b": "2901.10.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Italy",
+        "qty": 174,
+        "unit": "PCS",
+        "entered_value": 38043.36,
+        "duty_rate": 13.1,
+        "duty_amount": 4983.68,
+        "eccn": "7A994",
+        "schedule_b": "8518.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Canada",
+        "qty": 369,
+        "unit": "MTR",
+        "entered_value": 46479.24,
+        "duty_rate": 13.7,
+        "duty_amount": 6367.66,
+        "eccn": "7A994",
+        "schedule_b": "5407.42.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

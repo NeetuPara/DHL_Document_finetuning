@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0120",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202503-6485",
+    "usppi_name": "Stout Pacific GmbH",
+    "usppi_address": "55944 Humphrey Manor Suite 075, Port Danahaven, MD 91528, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "61-9683921",
+    "consignee_name": "Trade Page Corp.",
+    "consignee_address": "09624 Taylor Brooks, Acevedostad, GA 87328, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Fox International S.A.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Taylor Brewer",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/16",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 39,
+        "unit": "BOX",
+        "weight_kg": 42.81,
+        "value_usd": 4069.55
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 46,
+        "unit": "CTN",
+        "weight_kg": 42.41,
+        "value_usd": 580.59
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 129,
+        "unit": "PCS",
+        "weight_kg": 2133.44,
+        "value_usd": 11314.85
+      }
+    ],
+    "total_weight_kg": 2218.66,
+    "total_value_usd": 15964.99,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "154W",
+    "booking_ref": "BKG-778098",
+    "bl_number": "DHLG628722116",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Tokyo, JP",
+    "container_number": "CCZI6347326",
+    "seal_number": "BL342131",
+    "container_type": "40'HC",
+    "cbm": 10.587
+  }
+}

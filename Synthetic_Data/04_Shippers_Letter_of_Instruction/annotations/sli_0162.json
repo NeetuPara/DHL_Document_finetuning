@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0162",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202209-2999",
+    "usppi_name": "Lewis Global Pte Ltd",
+    "usppi_address": "27755 Moss Burgs Apt. 530, North Valerie, FM 25497, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "64-8024427",
+    "consignee_name": "Global Burns Corp.",
+    "consignee_address": "PSC 9701, Box 3862, APO AE 20367, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Johnson Global Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Donald Brooks",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/27",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 7,
+        "unit": "SET",
+        "weight_kg": 27.65,
+        "value_usd": 872.69
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 186,
+        "unit": "PCS",
+        "weight_kg": 258.68,
+        "value_usd": 205649.92
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 129,
+        "unit": "PCS",
+        "weight_kg": 10.97,
+        "value_usd": 12211.18
+      }
+    ],
+    "total_weight_kg": 297.3,
+    "total_value_usd": 218733.79,
+    "vessel": "YANG MING MYTH",
+    "voyage": "661S",
+    "booking_ref": "BKG-328686",
+    "bl_number": "YMLU954947973",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Felixstowe, GB",
+    "container_number": "BMKM6581010",
+    "seal_number": "BL494002",
+    "container_type": "40'HC",
+    "cbm": 19.392
+  }
+}

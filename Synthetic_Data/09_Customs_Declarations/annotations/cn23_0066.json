@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0066",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Alicia Smith",
+    "addressee_company": "Mccoy Commerce GmbH",
+    "addressee_address": "Unit 0265 Box 1170, DPO AE 12471, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 13.94,
+    "total_value": 4831.67,
+    "currency": "AUD",
+    "issue_date": "2025-12-07",
+    "reference": "REF-858684",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.823,
+        "value": 498.2,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 1,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.018,
+        "value": 54.73,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 11,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.482,
+        "value": 1564.97,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 18,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.53,
+        "value": 1921.32,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 15,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.087,
+        "value": 792.45,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_country": "United States",
+    "port_of_entry": "New York, NY",
+    "entry_number": "677-53761892-6",
+    "entry_type": "Informal Entry",
+    "duty_rate": 18.3,
+    "estimated_duty": 884.2,
+    "importer_ein": "53-9599991",
+    "customs_broker": "Trade Perez Pte Ltd"
+  }
+}

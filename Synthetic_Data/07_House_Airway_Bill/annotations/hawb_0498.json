@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0498",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-26856684",
+    "mawb_number": "085-28379152",
+    "shipper_name": "Williams Global Inc.",
+    "shipper_address": "16112 Kent Pines, New Melissaland, SC 31275, United States",
+    "consignee_name": "Graham Pacific S.A.",
+    "consignee_address": "8584 Derrick Roads, North Luis, AL 71376, India",
+    "agent_name": "Curry Commerce S.A.",
+    "airport_departure": "SIN",
+    "airport_destination": "JFK",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "AED 47,532.00",
+    "declared_value_customs": "CAD 11,150.23",
+    "n_pieces": 48,
+    "gross_weight_kg": 121.2,
+    "chargeable_weight": 141.0,
+    "rate": 10.9,
+    "total_charge": 1536.9,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "TEMP CONTROLLED: 3\u00b0C - 14\u00b0C",
+    "issue_date": "2026-03-05",
+    "signatory": "Eric Graham",
+    "iata_code": "02-645",
+    "agent_cass": "7993-0725",
+    "consolidation_ref": "CONS-8728-504963",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-56731018",
+        "pieces": 9,
+        "weight": 23.0,
+        "destination": "ORD",
+        "consignee": "Global Schwartz LLC",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "160-45148424",
+        "pieces": 8,
+        "weight": 4.6,
+        "destination": "DXB",
+        "consignee": "Parker Industry Pte Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "160-10186847",
+        "pieces": 17,
+        "weight": 65.8,
+        "destination": "AMS",
+        "consignee": "Sweeney Trade S.A.",
+        "description": "Industrial Machinery Parts - Steel "
+      }
+    ]
+  }
+}

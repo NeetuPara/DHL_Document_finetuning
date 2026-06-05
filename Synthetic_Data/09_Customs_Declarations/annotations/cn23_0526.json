@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0526",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kenneth Ritter",
+    "addressee_company": "Adams International B.V.",
+    "addressee_address": "18454 Elizabeth Estate, Patelland, IN 22068, United Kingdom",
+    "addressee_country": "United Kingdom",
+    "total_weight_kg": 5.868,
+    "total_value": 4709.68,
+    "currency": "USD",
+    "issue_date": "2026-05-03",
+    "reference": "REF-334692",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.143,
+        "value": 1464.54,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 10,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.738,
+        "value": 1093.6,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 18,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 0.987,
+        "value": 2151.54,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Douglas Rhodes",
+    "sender_company": "Industry Griffin LLC",
+    "sender_address": "40537 Hill Ville Suite 963, Maynardland, NE 67086, South Korea",
+    "sender_phone": "001-639-528-1122",
+    "sender_email": "ksmith@example.net",
+    "addressee_phone": "564-544-1484x4751",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 48.5,
+    "tracking_number": "IT557944436SF"
+  }
+}

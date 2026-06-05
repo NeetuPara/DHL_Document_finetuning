@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0976",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "James Gates",
+    "addressee_company": "Phillips Global LLC",
+    "addressee_address": "7039 Jennifer Hill, Codyland, MH 88060, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 10.295,
+    "total_value": 5600.87,
+    "currency": "CAD",
+    "issue_date": "2025-05-27",
+    "reference": "REF-361398",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.233,
+        "value": 2287.62,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 20,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.171,
+        "value": 597.8,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 12,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.292,
+        "value": 1108.2,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 14,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.923,
+        "value": 361.2,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 15,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.676,
+        "value": 1246.05,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_name": "Kristy Ellis",
+    "sender_company": "Commerce Sutton S.A.",
+    "sender_address": "448 Knight Estate, Davidshire, LA 37282, Hong Kong",
+    "sender_phone": "772-445-4942",
+    "sender_email": "hermanray@example.com",
+    "addressee_phone": "836-675-6605x4287",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 6160.96,
+    "postal_charges": 42.17,
+    "tracking_number": "FS915306884SR"
+  }
+}

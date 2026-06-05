@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0797",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Catherine Carey",
+    "addressee_company": "Rivera Commerce B.V.",
+    "addressee_address": "USS Owen, FPO AP 48990, India",
+    "addressee_country": "India",
+    "total_weight_kg": 9.322,
+    "total_value": 850.63,
+    "currency": "AED",
+    "issue_date": "2025-06-16",
+    "reference": "REF-645353",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.703,
+        "value": 322.43,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 4,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.619,
+        "value": 528.2,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "Kristen Buck",
+    "sender_company": "International Coleman S.A.",
+    "sender_address": "8449 Nicholas Roads, South Heathertown, PR 79099, Spain",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 24.48,
+    "tracking_number": "BK396261695UL"
+  }
+}

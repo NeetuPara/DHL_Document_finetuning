@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0276",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU570473248",
+    "shipper_name": "Tech Stevens Ltd",
+    "shipper_address": "725 Charles Street Apt. 668, East Sarahton, AK 11566, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Industry Curtis Corp.",
+    "consignee_address": "675 Billy Locks, South Matthew, MA 13676, Spain",
+    "consignee_country": "Spain",
+    "notify_party_name": "Patel Pacific Pte Ltd",
+    "notify_party_address": "318 Hunt Gateway, Esparzaberg, MS 64499, United Kingdom",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "980E",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Felixstowe, GB",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2025-12-21",
+    "issue_place": "Antwerp",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "OFWZ8359557",
+        "seal_no": "CL290562",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "OAQH2230476",
+        "seal_no": "SL889757",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "NWVM4213201",
+        "seal_no": "CL282056",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "QMBQ4032922",
+        "seal_no": "SL851209",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 185,
+    "package_type": "Bag",
+    "gross_weight_kg": 9690.9,
+    "net_weight_kg": 9333.6,
+    "cbm": 16.598,
+    "marks_and_numbers": "XYZ/1"
+  }
+}

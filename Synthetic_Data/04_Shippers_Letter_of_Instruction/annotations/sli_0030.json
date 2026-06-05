@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0030",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202205-6176",
+    "usppi_name": "Torres Pacific Inc.",
+    "usppi_address": "36033 Wanda Stream, East Jefferyborough, FL 57193, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "40-1052592",
+    "consignee_name": "Mitchell Global AG",
+    "consignee_address": "145 Carter Ridge, South Paulville, PA 03232, United States",
+    "consignee_country": "United States",
+    "notify_party": "International Herrera Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Sean Parker",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/45",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 5,
+        "unit": "PCS",
+        "weight_kg": 108.39,
+        "value_usd": 1672.2
+      },
+      {
+        "marks": "ABC/15",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 189,
+        "unit": "PCS",
+        "weight_kg": 81.0,
+        "value_usd": 28195.27
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 62,
+        "unit": "MTR",
+        "weight_kg": 71.66,
+        "value_usd": 753.79
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 78,
+        "unit": "KGS",
+        "weight_kg": 78.0,
+        "value_usd": 1387.65
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 52,
+        "unit": "SET",
+        "weight_kg": 144.08,
+        "value_usd": 2711.11
+      }
+    ],
+    "total_weight_kg": 483.13,
+    "total_value_usd": 34720.02,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "570N",
+    "booking_ref": "BKG-208236",
+    "bl_number": "MAEU901514591",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Felixstowe, GB",
+    "container_number": "GRGD6240866",
+    "seal_number": "SL717646",
+    "container_type": "40'HC",
+    "cbm": 17.95
+  }
+}

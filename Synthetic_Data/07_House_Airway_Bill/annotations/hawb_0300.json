@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0300",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-51564447",
+    "mawb_number": "020-90669854",
+    "shipper_name": "Carr Global AG",
+    "shipper_address": "055 Christine Valley Apt. 795, Garciamouth, TX 89391, Malaysia",
+    "consignee_name": "Tech Guerra Pte Ltd",
+    "consignee_address": "13056 Williams Locks Apt. 750, Yorkview, KS 22643, Poland",
+    "agent_name": "Industry Ryan Corp.",
+    "airport_departure": "SIN",
+    "airport_destination": "NRT",
+    "currency": "AUD",
+    "charge_code": "PP",
+    "declared_value_carriage": "AED 18,157.85",
+    "declared_value_customs": "CAD 28,674.63",
+    "n_pieces": 16,
+    "gross_weight_kg": 442.7,
+    "chargeable_weight": 549.3,
+    "rate": 2.61,
+    "total_charge": 1433.67,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-09-09",
+    "signatory": "Justin Rosales",
+    "iata_code": "81-325",
+    "agent_cass": "8560-4209",
+    "consolidation_ref": "CONS-4874-217684",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-50282732",
+        "pieces": 10,
+        "weight": 58.0,
+        "destination": "JFK",
+        "consignee": "International Wheeler B.V.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "020-32703395",
+        "pieces": 4,
+        "weight": 61.9,
+        "destination": "DXB",
+        "consignee": "Global Orr Co.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "020-27182353",
+        "pieces": 12,
+        "weight": 51.6,
+        "destination": "ORD",
+        "consignee": "Pacific White S.A.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "006-10045920",
+        "pieces": 20,
+        "weight": 36.2,
+        "destination": "YYZ",
+        "consignee": "Global Simpson S.A.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "045-92267697",
+        "pieces": 9,
+        "weight": 50.9,
+        "destination": "SIN",
+        "consignee": "Rogers Tech Co.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "074-15320138",
+        "pieces": 12,
+        "weight": 74.9,
+        "destination": "CDG",
+        "consignee": "Pacific Hamilton Inc.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "176-13205249",
+        "pieces": 19,
+        "weight": 74.8,
+        "destination": "LHR",
+        "consignee": "Mccann Pacific S.A.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "160-52945593",
+        "pieces": 2,
+        "weight": 61.2,
+        "destination": "SIN",
+        "consignee": "Cooke Global Corp.",
+        "description": "Industrial Machinery Parts - Steel "
+      }
+    ]
+  }
+}

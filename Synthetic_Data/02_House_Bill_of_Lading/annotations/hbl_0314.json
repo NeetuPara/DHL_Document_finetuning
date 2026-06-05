@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0314",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU268809046",
+    "shipper_name": "Davis Tech GmbH",
+    "shipper_address": "4803 Collins Ranch Apt. 842, East Scott, ND 20973, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Cisneros Pacific GmbH",
+    "consignee_address": "304 Perez Villages, Weaverland, FM 94701, China",
+    "consignee_country": "China",
+    "notify_party_name": "Yu Global S.A.",
+    "notify_party_address": "17990 Robert Haven, West Stephanieview, MO 44041, Sweden",
+    "vessel": "CSCL GLOBE",
+    "voyage": "202W",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Hong Kong, HK",
+    "place_of_delivery": "Hong Kong, HK",
+    "issue_date": "2024-07-26",
+    "issue_place": "Dubai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "HBWX0509779",
+        "seal_no": "SL142659",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "SWTT6062602",
+        "seal_no": "CL615650",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "HPTM2900438",
+        "seal_no": "SL364847",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 127,
+    "package_type": "Drum",
+    "gross_weight_kg": 21677.5,
+    "net_weight_kg": 20205.0,
+    "cbm": 7.72,
+    "marks_and_numbers": "XYZ/39"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0078",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-84448736",
+    "mawb_number": "176-87926974",
+    "shipper_name": "Tech Owen Co.",
+    "shipper_address": "73516 Cynthia Ridges Suite 519, Port Daniel, TN 73528, South Korea",
+    "consignee_name": "King Commerce Ltd",
+    "consignee_address": "29997 Sherry Trail Suite 341, Johnfort, MI 59313, China",
+    "agent_name": "Becker International Co.",
+    "airport_departure": "LHR",
+    "airport_destination": "NRT",
+    "currency": "CAD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "SGD 3,374.76",
+    "n_pieces": 45,
+    "gross_weight_kg": 205.0,
+    "chargeable_weight": 234.0,
+    "rate": 9.19,
+    "total_charge": 2150.46,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "HANDLING CODE: HUM",
+    "issue_date": "2025-06-06",
+    "signatory": "Joshua Barnes",
+    "iata_code": "58-092",
+    "agent_cass": "6044-6485",
+    "consolidation_ref": "CONS-1172-534965",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-58894743",
+        "pieces": 20,
+        "weight": 55.0,
+        "destination": "LHR",
+        "consignee": "Richardson International Pte Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "006-25906165",
+        "pieces": 2,
+        "weight": 43.4,
+        "destination": "SIN",
+        "consignee": "Wilson Global AG",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "125-55429374",
+        "pieces": 14,
+        "weight": 43.7,
+        "destination": "JFK",
+        "consignee": "Smith Global GmbH",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "074-32888303",
+        "pieces": 2,
+        "weight": 93.7,
+        "destination": "CDG",
+        "consignee": "Global Powell Co.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "618-94240088",
+        "pieces": 2,
+        "weight": 26.7,
+        "destination": "PVG",
+        "consignee": "Anthony Industry S.A.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "176-41950446",
+        "pieces": 13,
+        "weight": 45.2,
+        "destination": "AMS",
+        "consignee": "Tech Wood Pte Ltd",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "006-39639441",
+        "pieces": 12,
+        "weight": 14.7,
+        "destination": "LHR",
+        "consignee": "Global Patterson Pte Ltd",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "020-91809939",
+        "pieces": 11,
+        "weight": 28.0,
+        "destination": "NRT",
+        "consignee": "Tech Hudson Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

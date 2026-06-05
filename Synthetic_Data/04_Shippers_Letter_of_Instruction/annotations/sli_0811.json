@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0811",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202205-9615",
+    "usppi_name": "Industry Simpson Inc.",
+    "usppi_address": "7679 Allen Skyway Apt. 603, Danielland, CT 48018, Germany",
+    "usppi_country": "Germany",
+    "ein": "98-4547571",
+    "consignee_name": "Trade Ferguson Inc.",
+    "consignee_address": "0471 Robert Burgs Suite 087, New Nicole, UT 60197, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Morgan Trade S.A.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Ann Hernandez",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/33",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 92,
+        "unit": "KGS",
+        "weight_kg": 92.0,
+        "value_usd": 471.58
+      },
+      {
+        "marks": "SLI/10",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 199,
+        "unit": "PKG",
+        "weight_kg": 107.21,
+        "value_usd": 12285.87
+      },
+      {
+        "marks": "SLI/6",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 167,
+        "unit": "PCS",
+        "weight_kg": 41.02,
+        "value_usd": 37049.31
+      },
+      {
+        "marks": "ABC/6",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 43,
+        "unit": "CTN",
+        "weight_kg": 66.02,
+        "value_usd": 2269.44
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 98,
+        "unit": "KGS",
+        "weight_kg": 98.0,
+        "value_usd": 72.83
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 24,
+        "unit": "PCS",
+        "weight_kg": 7.16,
+        "value_usd": 154.85
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 111,
+        "unit": "BOX",
+        "weight_kg": 99.54,
+        "value_usd": 12414.37
+      }
+    ],
+    "total_weight_kg": 510.95,
+    "total_value_usd": 64718.25,
+    "service": "Ground",
+    "named_port": "Miami International",
+    "insurance_value_usd": 12910.91,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Netherlands"
+  }
+}

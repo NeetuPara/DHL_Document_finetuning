@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0080",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202001-3726",
+    "usppi_name": "Tech Bailey GmbH",
+    "usppi_address": "8185 Michael Fields, New Ashleychester, MT 40741, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "58-1495383",
+    "consignee_name": "Trade Harris S.A.",
+    "consignee_address": "72489 Melissa Club, Wheelerside, UT 31083, United States",
+    "consignee_country": "United States",
+    "notify_party": "May Trade Co.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Brittany Harris",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/36",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 181,
+        "unit": "PCS",
+        "weight_kg": 24.42,
+        "value_usd": 11336.72
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 21,
+        "unit": "PCS",
+        "weight_kg": 220.62,
+        "value_usd": 3467.17
+      },
+      {
+        "marks": "ABC/21",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 53,
+        "unit": "KGS",
+        "weight_kg": 53.0,
+        "value_usd": 112.74
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 91,
+        "unit": "PCS",
+        "weight_kg": 30.94,
+        "value_usd": 21375.96
+      }
+    ],
+    "total_weight_kg": 328.98,
+    "total_value_usd": 36292.59,
+    "service": "LCL Ocean",
+    "named_port": "Hong Kong, HK",
+    "insurance_value_usd": 48725.78,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-215065",
+    "destination_country": "United States"
+  }
+}

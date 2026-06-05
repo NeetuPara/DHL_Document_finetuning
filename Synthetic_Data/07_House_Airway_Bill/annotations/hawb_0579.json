@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0579",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-71279033",
+    "mawb_number": "020-50151523",
+    "shipper_name": "International Harris B.V.",
+    "shipper_address": "0280 Tanya Wall, Kathrynhaven, FL 72325, Germany",
+    "consignee_name": "Byrd Global Pte Ltd",
+    "consignee_address": "4388 Shelton Garden, East Aprilview, MD 98292, Sweden",
+    "agent_name": "Global Moore S.A.",
+    "airport_departure": "AMS",
+    "airport_destination": "SIN",
+    "currency": "AUD",
+    "charge_code": "CC",
+    "declared_value_carriage": "EUR 32,206.78",
+    "declared_value_customs": "NCV",
+    "n_pieces": 45,
+    "gross_weight_kg": 21.0,
+    "chargeable_weight": 24.2,
+    "rate": 7.12,
+    "total_charge": 172.3,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-08-19",
+    "signatory": "Autumn Ali",
+    "iata_code": "96-402",
+    "agent_cass": "5849-9960",
+    "consolidation_ref": "CONS-5799-837294",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-15165213",
+        "pieces": 20,
+        "weight": 57.6,
+        "destination": "LHR",
+        "consignee": "Tech Reid LLC",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "020-93676022",
+        "pieces": 11,
+        "weight": 10.6,
+        "destination": "NRT",
+        "consignee": "Commerce Yang S.A.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "074-41033693",
+        "pieces": 17,
+        "weight": 78.8,
+        "destination": "DXB",
+        "consignee": "Trade Thomas LLC",
+        "description": "Industrial Machinery Parts - Steel "
+      }
+    ]
+  }
+}

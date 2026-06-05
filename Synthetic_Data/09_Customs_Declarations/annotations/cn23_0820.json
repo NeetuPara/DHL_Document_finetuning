@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0820",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kristin Perez",
+    "addressee_company": "International Joseph S.A.",
+    "addressee_address": "3197 Taylor Lakes, South Tyler, HI 83532, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 15.615,
+    "total_value": 2993.21,
+    "currency": "EUR",
+    "issue_date": "2026-04-01",
+    "reference": "REF-329239",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.6,
+        "value": 607.56,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 11,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.306,
+        "value": 926.86,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 7,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.456,
+        "value": 482.44,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 15,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.253,
+        "value": 976.35,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Mr. Brandon Kelly",
+    "sender_company": "Ruiz Industry AG",
+    "sender_address": "67102 Hernandez Tunnel Suite 035, Lake Tamaraberg, NE 25239, China",
+    "sender_phone": "001-625-754-3907",
+    "sender_email": "sandraroberts@example.com",
+    "addressee_phone": "414-685-4834",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 63.93,
+    "tracking_number": "FG895998337NW"
+  }
+}

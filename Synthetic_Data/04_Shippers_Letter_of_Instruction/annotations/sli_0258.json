@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0258",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202101-4161",
+    "usppi_name": "Tech Johnson Corp.",
+    "usppi_address": "344 Patterson Stravenue, New William, TX 89901, China",
+    "usppi_country": "China",
+    "ein": "95-5213002",
+    "consignee_name": "International Schroeder AG",
+    "consignee_address": "Unit 0445 Box 0812, DPO AA 59299, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Bowers Industry B.V.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Kimberly Turner",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/33",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 18,
+        "unit": "SET",
+        "weight_kg": 19.66,
+        "value_usd": 784.83
+      },
+      {
+        "marks": "ABC/31",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 172,
+        "unit": "PCS",
+        "weight_kg": 39.89,
+        "value_usd": 10244.6
+      },
+      {
+        "marks": "SLI/17",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 126,
+        "unit": "PCS",
+        "weight_kg": 170.03,
+        "value_usd": 205468.28
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 157,
+        "unit": "MTR",
+        "weight_kg": 126.87,
+        "value_usd": 1964.4
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 6,
+        "unit": "PKG",
+        "weight_kg": 7.43,
+        "value_usd": 462.28
+      }
+    ],
+    "total_weight_kg": 363.88,
+    "total_value_usd": 218924.39,
+    "vessel": "YANG MING MYTH",
+    "voyage": "524E",
+    "booking_ref": "BKG-671646",
+    "bl_number": "EGLV694916728",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Hamburg, DE",
+    "container_number": "SWTA2830708",
+    "seal_number": "SL368474",
+    "container_type": "45'HC",
+    "cbm": 12.148
+  }
+}

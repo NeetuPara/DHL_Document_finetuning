@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0594",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-77902842",
+    "mawb_number": "618-77391873",
+    "shipper_name": "International Medina Corp.",
+    "shipper_address": "1200 Castro Fords, Cynthiaberg, WY 43403, United Kingdom",
+    "consignee_name": "Franklin Industry S.A.",
+    "consignee_address": "2514 Howard Islands, Millerville, HI 19699, Mexico",
+    "agent_name": "Commerce Smith B.V.",
+    "airport_departure": "NRT",
+    "airport_destination": "ORD",
+    "currency": "GBP",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "JPY 46,749.85",
+    "n_pieces": 37,
+    "gross_weight_kg": 384.5,
+    "chargeable_weight": 441.7,
+    "rate": 5.74,
+    "total_charge": 2535.36,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-04-05",
+    "signatory": "Gary Larson",
+    "iata_code": "70-645",
+    "agent_cass": "6407-0670",
+    "consolidation_ref": "CONS-4058-265476",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-41756884",
+        "pieces": 15,
+        "weight": 77.1,
+        "destination": "ICN",
+        "consignee": "Johnson Commerce AG",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "176-27124120",
+        "pieces": 18,
+        "weight": 65.2,
+        "destination": "HKG",
+        "consignee": "Trade David Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "176-35972349",
+        "pieces": 7,
+        "weight": 79.4,
+        "destination": "MIA",
+        "consignee": "Trade Adams LLC",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "160-30609440",
+        "pieces": 16,
+        "weight": 67.4,
+        "destination": "CDG",
+        "consignee": "Global Goodwin GmbH",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "020-37333734",
+        "pieces": 14,
+        "weight": 8.1,
+        "destination": "ORD",
+        "consignee": "Hernandez Tech Co.",
+        "description": "Industrial Machinery Parts - Steel "
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0131",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20201115153261",
+    "export_date": "2026-02-12",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Vaughn Global AG",
+    "usppi_ein": "80-5046295",
+    "usppi_address": "4973 Nicolas Roads, Kimberlyshire, WA 36345, China",
+    "ultimate_consignee": "Industry Meyers B.V.",
+    "intermediate_consignee": "Smith International AG",
+    "forwarding_agent": "Freeman Commerce Co.",
+    "destination_country": "United Arab Emirates",
+    "carrier": "UPS",
+    "bl_awb": "074-30586151",
+    "total_value": 158566.56,
+    "currency": "JPY",
+    "signatory": "Meredith Conner",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "France",
+        "qty": 220,
+        "unit": "PCS",
+        "entered_value": 23834.8,
+        "duty_rate": 16.5,
+        "duty_amount": 3932.74,
+        "eccn": "0A919",
+        "schedule_b": "8483.40.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Malaysia",
+        "qty": 298,
+        "unit": "PCS",
+        "entered_value": 134731.76,
+        "duty_rate": 12.0,
+        "duty_amount": 16167.81,
+        "eccn": "5E992",
+        "schedule_b": "8483.40.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

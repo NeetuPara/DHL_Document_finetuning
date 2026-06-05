@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0556",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202010-3288",
+    "usppi_name": "Trade Collins GmbH",
+    "usppi_address": "490 Mark Squares, Christopherborough, KS 65181, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "69-9857076",
+    "consignee_name": "Tech Morrison S.A.",
+    "consignee_address": "17701 Stevens Island, New Hannah, SC 04909, India",
+    "consignee_country": "India",
+    "notify_party": "Camacho Industry Inc.",
+    "forwarder": "Panalpina",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Sarah Garcia",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/29",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 177,
+        "unit": "SET",
+        "weight_kg": 262.31,
+        "value_usd": 11205.43
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 8,
+        "unit": "PCS",
+        "weight_kg": 78.17,
+        "value_usd": 2963.89
+      }
+    ],
+    "total_weight_kg": 340.48,
+    "total_value_usd": 14169.32,
+    "service": "Air Freight",
+    "named_port": "Sydney Kingsford Smith",
+    "insurance_value_usd": 26755.58,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-482356",
+    "destination_country": "India"
+  }
+}

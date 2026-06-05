@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0708",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202412-4995",
+    "usppi_name": "Little International GmbH",
+    "usppi_address": "62429 Allison Bypass, Williamsport, WY 87756, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "56-3112858",
+    "consignee_name": "Pacific Higgins Inc.",
+    "consignee_address": "024 Gallagher Ferry, North Patriciaburgh, PR 55891, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Brown International Co.",
+    "forwarder": "Expeditors",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Brian Thompson",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/7",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 94,
+        "unit": "KGS",
+        "weight_kg": 94.0,
+        "value_usd": 129.45
+      },
+      {
+        "marks": "EXP/15",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 64,
+        "unit": "CTN",
+        "weight_kg": 143.92,
+        "value_usd": 431.33
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 192,
+        "unit": "LTR",
+        "weight_kg": 177.57,
+        "value_usd": 3415.84
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 147,
+        "unit": "PCS",
+        "weight_kg": 201.81,
+        "value_usd": 4665.68
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 64,
+        "unit": "SET",
+        "weight_kg": 143.9,
+        "value_usd": 2842.4
+      }
+    ],
+    "total_weight_kg": 761.2,
+    "total_value_usd": 11484.7,
+    "vessel": "EVER GOLDEN",
+    "voyage": "601E",
+    "booking_ref": "BKG-482247",
+    "bl_number": "MAEU916269690",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Dubai, AE",
+    "container_number": "UKND8687329",
+    "seal_number": "SL345632",
+    "container_type": "20'GP",
+    "cbm": 24.649
+  }
+}

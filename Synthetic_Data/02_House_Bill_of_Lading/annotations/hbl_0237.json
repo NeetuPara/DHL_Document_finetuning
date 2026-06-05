@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0237",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU845898983",
+    "shipper_name": "Industry Ingram B.V.",
+    "shipper_address": "779 Connor Plaza, New Maria, NE 49976, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Morris Tech B.V.",
+    "consignee_address": "3156 Weaver Hollow, Williamsfort, TX 44635, United States",
+    "consignee_country": "United States",
+    "notify_party_name": "Pacific Robbins Inc.",
+    "notify_party_address": "7718 Snyder Squares Suite 993, Kayleeside, IA 71744, United Arab Emirates",
+    "vessel": "PIL PACIFIC",
+    "voyage": "637N",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2026-01-27",
+    "issue_place": "Hamburg",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "FJML6979074",
+        "seal_no": "BL704451",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "EXUM4727264",
+        "seal_no": "BL690366",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "UREX7934115",
+        "seal_no": "CL712529",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "SFIG6211488",
+        "seal_no": "SL685203",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "number_of_packages": 230,
+    "package_type": "Pallet",
+    "gross_weight_kg": 23820.6,
+    "net_weight_kg": 21390.9,
+    "cbm": 9.234,
+    "marks_and_numbers": "ABC/29"
+  }
+}

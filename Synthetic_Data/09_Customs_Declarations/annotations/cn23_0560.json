@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0560",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Heather Burke",
+    "addressee_company": "Pacific Hoffman GmbH",
+    "addressee_address": "45092 Nancy Ports, Nguyenburgh, AS 01812, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 8.19,
+    "total_value": 1769.61,
+    "currency": "EUR",
+    "issue_date": "2026-01-29",
+    "reference": "REF-863886",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.064,
+        "value": 192.64,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 4,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.217,
+        "value": 589.72,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 6,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 1.394,
+        "value": 401.1,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 19,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.515,
+        "value": 586.15,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Paul Vazquez",
+    "sender_company": "Monroe Commerce Corp.",
+    "sender_address": "0813 Long Lodge, New Nancy, OK 27752, Canada",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 1946.57,
+    "postal_charges": 59.61,
+    "tracking_number": "UH688218827SD"
+  }
+}

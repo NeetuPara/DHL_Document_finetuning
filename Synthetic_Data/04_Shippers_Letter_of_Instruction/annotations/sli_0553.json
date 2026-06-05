@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0553",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202401-1574",
+    "usppi_name": "Carrillo International Ltd",
+    "usppi_address": "65861 Jeffrey Radial Apt. 898, Keithhaven, UT 72233, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "98-8495967",
+    "consignee_name": "International Rodriguez Inc.",
+    "consignee_address": "16218 Roy Passage Apt. 856, Hernandezchester, WI 28125, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Arroyo Industry Inc.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Sharon Fields",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/43",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 133,
+        "unit": "PCS",
+        "weight_kg": 46.21,
+        "value_usd": 26994.09
+      },
+      {
+        "marks": "SLI/35",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 58,
+        "unit": "PCS",
+        "weight_kg": 85.98,
+        "value_usd": 1965.14
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 89,
+        "unit": "CTN",
+        "weight_kg": 201.72,
+        "value_usd": 1705.15
+      },
+      {
+        "marks": "EXP/22",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 132,
+        "unit": "CTN",
+        "weight_kg": 211.32,
+        "value_usd": 1947.58
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 58,
+        "unit": "KGS",
+        "weight_kg": 58.0,
+        "value_usd": 69.32
+      },
+      {
+        "marks": "SLI/23",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 180,
+        "unit": "PKG",
+        "weight_kg": 512.74,
+        "value_usd": 15272.54
+      },
+      {
+        "marks": "ABC/3",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 141,
+        "unit": "LTR",
+        "weight_kg": 151.96,
+        "value_usd": 787.89
+      }
+    ],
+    "total_weight_kg": 1267.93,
+    "total_value_usd": 48741.71,
+    "service": "Air Freight",
+    "named_port": "Sydney Kingsford Smith",
+    "insurance_value_usd": 1694.74,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-975441",
+    "destination_country": "United Arab Emirates"
+  }
+}

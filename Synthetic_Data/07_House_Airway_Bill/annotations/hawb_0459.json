@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0459",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-20284560",
+    "mawb_number": "085-26609214",
+    "shipper_name": "Williams Commerce Ltd",
+    "shipper_address": "80744 William Gardens Apt. 890, East Johnburgh, IL 87978, United Arab Emirates",
+    "consignee_name": "Pacific Diaz Co.",
+    "consignee_address": "3553 Brandon Parkway, Lake Kevinchester, LA 45077, Hong Kong",
+    "agent_name": "Trade Davis Co.",
+    "airport_departure": "SIN",
+    "airport_destination": "HKG",
+    "currency": "CHF",
+    "charge_code": "PP",
+    "declared_value_carriage": "CNY 12,553.33",
+    "declared_value_customs": "SGD 853.53",
+    "n_pieces": 48,
+    "gross_weight_kg": 248.9,
+    "chargeable_weight": 282.9,
+    "rate": 1.52,
+    "total_charge": 430.01,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "TEMP CONTROLLED: 5\u00b0C - 18\u00b0C",
+    "issue_date": "2026-04-03",
+    "signatory": "Brenda White",
+    "iata_code": "97-227",
+    "agent_cass": "1574-9629",
+    "consolidation_ref": "CONS-9753-829233",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-95016860",
+        "pieces": 1,
+        "weight": 62.0,
+        "destination": "SYD",
+        "consignee": "Tech Bowers Co.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "085-84032373",
+        "pieces": 15,
+        "weight": 46.0,
+        "destination": "ICN",
+        "consignee": "Melendez International AG",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "045-51252193",
+        "pieces": 10,
+        "weight": 62.8,
+        "destination": "PVG",
+        "consignee": "International Gomez Inc.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "618-74573604",
+        "pieces": 11,
+        "weight": 86.5,
+        "destination": "MIA",
+        "consignee": "International James GmbH",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "020-15943911",
+        "pieces": 1,
+        "weight": 1.4,
+        "destination": "FRA",
+        "consignee": "Tech Murphy Pte Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

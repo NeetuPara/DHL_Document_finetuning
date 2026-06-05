@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0405",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-47763089",
+    "mawb_number": "074-80876722",
+    "shipper_name": "Hall Tech LLC",
+    "shipper_address": "885 Patricia Plaza Apt. 486, Zacharyville, NH 71205, Spain",
+    "consignee_name": "Global Church B.V.",
+    "consignee_address": "341 Charles Inlet, Patrickton, OR 13996, United Kingdom",
+    "agent_name": "Commerce Elliott Pte Ltd",
+    "airport_departure": "SYD",
+    "airport_destination": "PVG",
+    "currency": "AED",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 3,
+    "gross_weight_kg": 422.9,
+    "chargeable_weight": 465.9,
+    "rate": 9.18,
+    "total_charge": 4276.96,
+    "nature_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-01-22",
+    "signatory": "Carrie Powell",
+    "iata_code": "00-234",
+    "agent_cass": "0933-6643",
+    "consolidation_ref": "CONS-4927-665212",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-88915587",
+        "pieces": 11,
+        "weight": 1.0,
+        "destination": "FRA",
+        "consignee": "Tech Jackson S.A.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "045-86256261",
+        "pieces": 20,
+        "weight": 23.1,
+        "destination": "NRT",
+        "consignee": "Industry Martinez S.A.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "006-70623644",
+        "pieces": 14,
+        "weight": 48.4,
+        "destination": "SYD",
+        "consignee": "Tech Christian Pte Ltd",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "020-32787306",
+        "pieces": 15,
+        "weight": 87.7,
+        "destination": "SIN",
+        "consignee": "Global Hall AG",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "074-19770520",
+        "pieces": 17,
+        "weight": 35.6,
+        "destination": "FRA",
+        "consignee": "White International Inc.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "125-25759404",
+        "pieces": 16,
+        "weight": 62.7,
+        "destination": "ICN",
+        "consignee": "Green Pacific Co.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "618-71307484",
+        "pieces": 14,
+        "weight": 61.0,
+        "destination": "CDG",
+        "consignee": "Peters Industry S.A.",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

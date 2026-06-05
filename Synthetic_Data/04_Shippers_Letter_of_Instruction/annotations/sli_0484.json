@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0484",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202602-8971",
+    "usppi_name": "International Powers Co.",
+    "usppi_address": "67314 Joshua Heights, North Vincent, PR 94849, Australia",
+    "usppi_country": "Australia",
+    "ein": "75-5699580",
+    "consignee_name": "Tech Gallagher LLC",
+    "consignee_address": "USNS Wilkins, FPO AE 18105, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Johnson Industry Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Ann Roberts",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/18",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 105,
+        "unit": "BOX",
+        "weight_kg": 104.11,
+        "value_usd": 9582.74
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 85,
+        "unit": "KGS",
+        "weight_kg": 85.0,
+        "value_usd": 494.41
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 79,
+        "unit": "PCS",
+        "weight_kg": 38.03,
+        "value_usd": 613.17
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 197,
+        "unit": "LTR",
+        "weight_kg": 215.58,
+        "value_usd": 7380.85
+      }
+    ],
+    "total_weight_kg": 442.72,
+    "total_value_usd": 18071.17,
+    "service": "Express Courier",
+    "named_port": "Dubai International",
+    "insurance_value_usd": 7267.01,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Mexico"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0723",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Barker Trade Corp.",
+    "shipper_address": "93087 Yoder Points Suite 442, West Davidtown, NV 26481, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "International Adams Ltd",
+    "consignee_address": "3785 Mike Bridge Suite 635, Marquezfort, ME 53595, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+65 459-557-7231",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 38,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 83.17,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-611128",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Kristen Lee",
+    "signature_date": "2026-04-26",
+    "signature_place": "Thailand",
+    "awb_number": "085-72291731",
+    "flight_number": "LH2479",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "LHR",
+    "destination_airport_name": "London Heathrow",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

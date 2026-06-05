@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0622",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Linda West",
+    "addressee_company": "Curtis Industry Co.",
+    "addressee_address": "9720 Garcia Mountain Suite 023, Duranmouth, CT 39382, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 18.574,
+    "total_value": 5090.27,
+    "currency": "AED",
+    "issue_date": "2026-05-12",
+    "reference": "REF-116157",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.46,
+        "value": 146.54,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 20,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.398,
+        "value": 2173.8,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 9,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.751,
+        "value": 554.22,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 12,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.812,
+        "value": 537.84,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 3,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.382,
+        "value": 13.02,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 15,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.771,
+        "value": 1664.85,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Mrs. Kimberly Gomez MD",
+    "sender_company": "Trade Barrett S.A.",
+    "sender_address": "7729 Walters Ways Apt. 985, North David, KY 11191, Malaysia",
+    "sender_phone": "646-846-9548x638",
+    "sender_email": "glane@example.net",
+    "addressee_phone": "928-750-5605x44022",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 5599.3,
+    "postal_charges": 13.21,
+    "tracking_number": "CC834753466BN"
+  }
+}

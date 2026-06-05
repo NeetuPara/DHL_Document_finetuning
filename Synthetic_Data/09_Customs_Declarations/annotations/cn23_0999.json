@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0999",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Patrick Taylor",
+    "addressee_company": "Bruce Global S.A.",
+    "addressee_address": "95609 Gardner Pine Apt. 494, New Johnchester, VA 52694, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 4.636,
+    "total_value": 1879.56,
+    "currency": "CHF",
+    "issue_date": "2025-11-30",
+    "reference": "REF-070953",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.335,
+        "value": 1026.48,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 12,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 2.301,
+        "value": 853.08,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_country": "France",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "884-24959612-5",
+    "entry_type": "Informal Entry",
+    "duty_rate": 19.7,
+    "estimated_duty": 370.27,
+    "importer_ein": "39-0995689",
+    "customs_broker": "Pacific Ayala Co."
+  }
+}

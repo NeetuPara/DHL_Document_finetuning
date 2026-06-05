@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0659",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202012-9147",
+    "usppi_name": "Williams Trade Inc.",
+    "usppi_address": "USS Boyle, FPO AA 59037, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "40-4110204",
+    "consignee_name": "Ray Pacific Co.",
+    "consignee_address": "1728 Thomas Plaza, Harrellbury, ME 75372, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Commerce Morris LLC",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Brandi Middleton",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/16",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 63,
+        "unit": "CTN",
+        "weight_kg": 130.99,
+        "value_usd": 2733.44
+      },
+      {
+        "marks": "ABC/35",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 92,
+        "unit": "PKG",
+        "weight_kg": 175.53,
+        "value_usd": 2924.13
+      }
+    ],
+    "total_weight_kg": 306.52,
+    "total_value_usd": 5657.57,
+    "service": "Air Freight",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 4561.49,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-710421",
+    "destination_country": "Japan"
+  }
+}

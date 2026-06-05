@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0815",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU817244483",
+    "shipper_name": "White Tech AG",
+    "shipper_address": "7475 Yu Forge Apt. 543, Jenkinshaven, NM 85046, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Ramirez Industry Inc.",
+    "consignee_address": "94193 Jenkins Island Suite 961, East Leahtown, ID 05532, China",
+    "consignee_country": "China",
+    "notify_party_name": "May Pacific Corp.",
+    "notify_party_address": "6180 Sydney Hills Apt. 543, Lake Stephaniechester, LA 54178, South Korea",
+    "vessel": "MSC OSCAR",
+    "voyage": "270S",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2025-09-09",
+    "issue_place": "Antwerp",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "SPXA2466634",
+        "seal_no": "SL390872",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "VZKF9060903",
+        "seal_no": "CL778555",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "HVHK4599410",
+        "seal_no": "CL932824",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 75,
+    "package_type": "Roll",
+    "gross_weight_kg": 959.7,
+    "net_weight_kg": 866.8,
+    "cbm": 4.699,
+    "marks_and_numbers": "GLB/44"
+  }
+}

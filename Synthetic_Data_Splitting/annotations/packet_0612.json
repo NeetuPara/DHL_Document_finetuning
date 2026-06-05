@@ -1,0 +1,40 @@
+{
+  "packet_id": "packet_0612",
+  "total_pages": 3,
+  "n_documents": 3,
+  "class_sequence": [
+    "Import/Export License",
+    "Power of Attorney",
+    "Dangerous Goods Declaration"
+  ],
+  "documents": [
+    {
+      "doc_class": "Import/Export License",
+      "class_index": 11,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "eei_0149.pdf",
+      "source_class_folder": "11_Import_Export_License"
+    },
+    {
+      "doc_class": "Power of Attorney",
+      "class_index": 12,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "poa_0159.pdf",
+      "source_class_folder": "12_Power_of_Attorney"
+    },
+    {
+      "doc_class": "Dangerous Goods Declaration",
+      "class_index": 5,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "dgd_0838.pdf",
+      "source_class_folder": "05_Dangerous_Goods_Declaration"
+    }
+  ],
+  "task": "splitting"
+}

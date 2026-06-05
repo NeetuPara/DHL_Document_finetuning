@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0855",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-13511192",
+    "mawb_number": "020-25198186",
+    "shipper_name": "Commerce Campbell Ltd",
+    "shipper_address": "239 Julia Well, South Michellehaven, CA 04459, Poland",
+    "consignee_name": "Industry Johnson Pte Ltd",
+    "consignee_address": "7284 Deborah Pine Apt. 749, Emilyberg, NM 62871, Australia",
+    "agent_name": "International Phillips Co.",
+    "airport_departure": "ORD",
+    "airport_destination": "LAX",
+    "currency": "CNY",
+    "charge_code": "CC",
+    "declared_value_carriage": "AED 49,737.23",
+    "declared_value_customs": "NCV",
+    "n_pieces": 37,
+    "gross_weight_kg": 80.3,
+    "chargeable_weight": 89.5,
+    "rate": 6.21,
+    "total_charge": 555.79,
+    "nature_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-10-11",
+    "signatory": "Kimberly Cobb",
+    "iata_code": "84-720",
+    "agent_cass": "7580-9360",
+    "consolidation_ref": "CONS-7699-746325",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-15756474",
+        "pieces": 7,
+        "weight": 16.7,
+        "destination": "YYZ",
+        "consignee": "Global Cohen Co.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "125-30286141",
+        "pieces": 4,
+        "weight": 71.1,
+        "destination": "AMS",
+        "consignee": "Tech Kim B.V.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "176-72966646",
+        "pieces": 13,
+        "weight": 91.0,
+        "destination": "FRA",
+        "consignee": "Macdonald International Inc.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "125-71589415",
+        "pieces": 18,
+        "weight": 57.3,
+        "destination": "HKG",
+        "consignee": "Commerce Garza Corp.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "074-76778698",
+        "pieces": 19,
+        "weight": 35.5,
+        "destination": "MIA",
+        "consignee": "Tucker Industry Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "160-91355418",
+        "pieces": 10,
+        "weight": 45.6,
+        "destination": "HKG",
+        "consignee": "Commerce Moss LLC",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

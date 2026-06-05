@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0849",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Warner Industry Ltd",
+    "shipper_address": "4087 Stewart Landing, South Abigail, MI 70314, India",
+    "shipper_country": "India",
+    "consignee_name": "Rodriguez Tech Inc.",
+    "consignee_address": "866 Micheal Islands, West Ashley, AS 87497, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+48 915-695-8250",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 4,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 89.36,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-696556",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Mrs. Rebecca Stanley",
+    "signature_date": "2026-05-07",
+    "signature_place": "India",
+    "awb_number": "057-17702707",
+    "flight_number": "CX5664",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0955",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Daniel Maldonado",
+    "addressee_company": "Day Tech LLC",
+    "addressee_address": "606 Ashley Well Apt. 768, Mitchelltown, VA 52415, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 6.842,
+    "total_value": 369.36,
+    "currency": "USD",
+    "issue_date": "2025-07-23",
+    "reference": "REF-180635",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.75,
+        "value": 347.76,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 5,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.092,
+        "value": 21.6,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Poland"
+      }
+    ],
+    "sender_name": "Kathleen Turner",
+    "sender_company": "Commerce Brown S.A.",
+    "sender_address": "0756 Walker Circles, Port Deborahmouth, FM 95405, Canada",
+    "sender_phone": "001-594-990-4350x32743",
+    "sender_email": "patricia14@example.org",
+    "addressee_phone": "569-281-0816",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 44.97,
+    "tracking_number": "YK232456615OK"
+  }
+}

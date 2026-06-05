@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0934",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Knight Commerce Inc.",
+    "shipper_address": "9189 Amanda Divide Apt. 324, North Wendy, SC 80110, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Harris Commerce GmbH",
+    "consignee_address": "3451 Carter Parkway, Ashleytown, NC 62542, Spain",
+    "consignee_country": "Spain",
+    "emergency_telephone": "+94 345-795-3647",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 27,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 26.44,
+        "qty_unit": "g",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 42,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 70.57,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Lisa Rodriguez",
+    "signature_date": "2026-05-09",
+    "signature_place": "United Arab Emirates",
+    "awb_number": "074-65099392",
+    "flight_number": "CX484",
+    "flight_date": "2026-06-04",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi"
+  }
+}

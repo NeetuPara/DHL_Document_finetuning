@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0814",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Ryan Corp.",
+    "shipper_address": "Unit 9109 Box 5213, DPO AE 05653, India",
+    "shipper_country": "India",
+    "consignee_name": "International Wise AG",
+    "consignee_address": "62828 Michael Branch Suite 200, Port Elizabethside, VT 06001, Poland",
+    "consignee_country": "Poland",
+    "emergency_telephone": "+91 159-537-9981",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 20,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 34.63,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-982454",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 46,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 5.84,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Emily Santos",
+    "signature_date": "2026-04-25",
+    "signature_place": "India",
+    "awb_number": "125-90127708",
+    "flight_number": "UA7476",
+    "flight_date": "2026-06-10",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol"
+  }
+}

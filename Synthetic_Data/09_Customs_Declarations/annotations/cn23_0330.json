@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0330",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Craig Sparks",
+    "addressee_company": "Industry Guzman Inc.",
+    "addressee_address": "6765 Hernandez Causeway Suite 965, Port Eric, AL 89142, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 10.732,
+    "total_value": 4058.14,
+    "currency": "AUD",
+    "issue_date": "2026-04-10",
+    "reference": "REF-263455",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.723,
+        "value": 296.0,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 18,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.39,
+        "value": 591.12,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 20,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.56,
+        "value": 1338.8,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 3,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.609,
+        "value": 417.78,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 12,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.45,
+        "value": 1414.44,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_country": "Singapore",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "966-65534285-9",
+    "entry_type": "Informal Entry",
+    "duty_rate": 7.6,
+    "estimated_duty": 308.42,
+    "importer_ein": "82-6085005",
+    "customs_broker": "Campbell Industry B.V."
+  }
+}

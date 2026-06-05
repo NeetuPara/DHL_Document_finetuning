@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0072",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Mark Sutton",
+    "addressee_company": "Clark Industry Ltd",
+    "addressee_address": "8388 Thomas Branch, East Patriciastad, ID 23870, France",
+    "addressee_country": "France",
+    "total_weight_kg": 0.725,
+    "total_value": 303.04,
+    "currency": "CAD",
+    "issue_date": "2025-06-27",
+    "reference": "REF-385177",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.725,
+        "value": 303.04,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Canada"
+      }
+    ],
+    "sender_country": "Canada",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "302-95061343-3",
+    "entry_type": "Informal Entry",
+    "duty_rate": 24.5,
+    "estimated_duty": 74.24,
+    "importer_ein": "52-3345533",
+    "customs_broker": "Smith Trade Co."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0225",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Lopez Inc.",
+    "shipper_address": "763 Rice Plain Apt. 749, East Ethanburgh, TX 39850, France",
+    "shipper_country": "France",
+    "consignee_name": "Peterson Industry S.A.",
+    "consignee_address": "7390 West Shore Apt. 330, East Mark, OH 92871, Brazil",
+    "consignee_country": "Brazil",
+    "emergency_telephone": "+82 559-214-4376",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 12,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 56.52,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jacob Turner",
+    "signature_date": "2026-04-17",
+    "signature_place": "France",
+    "awb_number": "006-19306908",
+    "flight_number": "SQ326",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

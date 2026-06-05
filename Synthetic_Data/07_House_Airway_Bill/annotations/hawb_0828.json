@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0828",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-68268803",
+    "mawb_number": "057-19033081",
+    "shipper_name": "Global Espinoza Inc.",
+    "shipper_address": "37659 Allen Parks, Douglasfort, WV 12690, Germany",
+    "consignee_name": "Industry Frank Corp.",
+    "consignee_address": "97975 Valdez Rapid Apt. 810, Hannahview, ND 67026, Poland",
+    "agent_name": "Industry Chan Corp.",
+    "airport_departure": "YYZ",
+    "airport_destination": "ICN",
+    "currency": "AED",
+    "charge_code": "CC",
+    "declared_value_carriage": "CAD 8,673.62",
+    "declared_value_customs": "NCV",
+    "n_pieces": 32,
+    "gross_weight_kg": 74.8,
+    "chargeable_weight": 76.9,
+    "rate": 2.08,
+    "total_charge": 159.95,
+    "nature_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "handling_info": "TEMP CONTROLLED: 5\u00b0C - 15\u00b0C",
+    "issue_date": "2025-11-12",
+    "signatory": "Roberta Allen",
+    "iata_code": "65-512",
+    "agent_cass": "7729-7370",
+    "consolidation_ref": "CONS-9932-598758",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-93541406",
+        "pieces": 4,
+        "weight": 89.0,
+        "destination": "PVG",
+        "consignee": "Pacific Bernard Inc.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "618-45246901",
+        "pieces": 7,
+        "weight": 57.2,
+        "destination": "JFK",
+        "consignee": "Greene Global Pte Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "045-39879886",
+        "pieces": 19,
+        "weight": 54.5,
+        "destination": "PVG",
+        "consignee": "Lynn Pacific LLC",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "074-49667872",
+        "pieces": 14,
+        "weight": 94.2,
+        "destination": "ICN",
+        "consignee": "Patterson Commerce Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "074-98677192",
+        "pieces": 18,
+        "weight": 13.8,
+        "destination": "YYZ",
+        "consignee": "Perez Trade AG",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "160-37183342",
+        "pieces": 16,
+        "weight": 4.9,
+        "destination": "NRT",
+        "consignee": "Gonzalez Commerce B.V.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

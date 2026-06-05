@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0504",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-55077343",
+    "mawb_number": "074-23917719",
+    "shipper_name": "Smith Industry Co.",
+    "shipper_address": "99756 Laura Mountain Suite 026, West John, NC 24821, Germany",
+    "consignee_name": "Gardner Global Ltd",
+    "consignee_address": "Unit 8270 Box 1307, DPO AE 36263, Poland",
+    "agent_name": "Tech Martin Co.",
+    "airport_departure": "PVG",
+    "airport_destination": "YYZ",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CHF 34,265.01",
+    "n_pieces": 20,
+    "gross_weight_kg": 413.4,
+    "chargeable_weight": 418.3,
+    "rate": 2.1,
+    "total_charge": 878.43,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-08-15",
+    "signatory": "Bryan Martinez",
+    "iata_code": "98-556",
+    "agent_cass": "0250-6636",
+    "consolidation_ref": "CONS-7457-578451",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-87550772",
+        "pieces": 1,
+        "weight": 32.2,
+        "destination": "LHR",
+        "consignee": "Andrews International Inc.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "176-18302301",
+        "pieces": 5,
+        "weight": 47.6,
+        "destination": "ICN",
+        "consignee": "Global Poole B.V.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "057-53014067",
+        "pieces": 2,
+        "weight": 46.4,
+        "destination": "CDG",
+        "consignee": "Reyes International Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "085-48052142",
+        "pieces": 5,
+        "weight": 44.2,
+        "destination": "ORD",
+        "consignee": "Commerce Lee AG",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "020-95670526",
+        "pieces": 5,
+        "weight": 84.4,
+        "destination": "PVG",
+        "consignee": "Novak Industry Corp.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "045-11762920",
+        "pieces": 15,
+        "weight": 24.9,
+        "destination": "SIN",
+        "consignee": "Strickland Trade LLC",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "176-60372926",
+        "pieces": 7,
+        "weight": 37.1,
+        "destination": "ICN",
+        "consignee": "Johnson Commerce Corp.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "045-82860123",
+        "pieces": 19,
+        "weight": 23.9,
+        "destination": "DXB",
+        "consignee": "Compton Tech LLC",
+        "description": "Optical Equipment - Camera Lenses"
+      }
+    ]
+  }
+}

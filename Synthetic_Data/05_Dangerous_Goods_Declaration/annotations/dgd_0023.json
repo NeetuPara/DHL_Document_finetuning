@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0023",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Wagner Trade AG",
+    "shipper_address": "70321 Jennifer Inlet, New Alyssaberg, OH 56631, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Global Bowman Co.",
+    "consignee_address": "2152 Fleming Groves, Moorebury, IL 38089, United States",
+    "consignee_country": "United States",
+    "emergency_telephone": "+40 337-258-7949",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 5,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 9.46,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 13,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 67.44,
+        "qty_unit": "mL",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Scott Patel",
+    "signature_date": "2026-05-13",
+    "signature_place": "Italy",
+    "vessel": "YANG MING MYTH",
+    "voyage": "306E",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Hong Kong, HK"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0637",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202101-8237",
+    "usppi_name": "Fox Industry LLC",
+    "usppi_address": "61577 Mendez Center Apt. 167, Khanshire, CA 90161, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "68-9008624",
+    "consignee_name": "Austin Tech Inc.",
+    "consignee_address": "76134 Ewing Route Suite 612, Jonesshire, DE 88203, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Bond Pacific LLC",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Stefanie Freeman",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/3",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 162,
+        "unit": "PCS",
+        "weight_kg": 33.04,
+        "value_usd": 21152.66
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 155,
+        "unit": "MTR",
+        "weight_kg": 151.82,
+        "value_usd": 1177.15
+      }
+    ],
+    "total_weight_kg": 184.86,
+    "total_value_usd": 22329.81,
+    "service": "Air Freight",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 12994.78,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-526387",
+    "destination_country": "Spain"
+  }
+}

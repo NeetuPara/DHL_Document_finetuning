@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0319",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU215577037",
+    "shipper_name": "Industry Cole Pte Ltd",
+    "shipper_address": "7849 Pope Views Apt. 538, Lake Taylorborough, DE 78690, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Perkins Industry S.A.",
+    "consignee_address": "USNV Sanchez, FPO AA 85127, Australia",
+    "consignee_country": "Australia",
+    "notify_party_name": "Commerce Escobar AG",
+    "notify_party_address": "023 Christian Mountains Suite 584, East Amy, WA 04279, Mexico",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "485W",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2026-03-23",
+    "issue_place": "Felixstowe",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "HDTR8105856",
+        "seal_no": "CL658648",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "WLMK2567365",
+        "seal_no": "SL814473",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "SBGM6361197",
+        "seal_no": "SL814204",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "OAIV6959754",
+        "seal_no": "SL474549",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 258,
+    "package_type": "Crate",
+    "gross_weight_kg": 23770.0,
+    "net_weight_kg": 22474.2,
+    "cbm": 10.392,
+    "marks_and_numbers": "ABC/23"
+  }
+}

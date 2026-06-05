@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0232",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202211-3689",
+    "usppi_name": "International Vincent AG",
+    "usppi_address": "5253 Small Junction Apt. 190, Annaton, VI 36007, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "55-1360800",
+    "consignee_name": "Global Hull S.A.",
+    "consignee_address": "3807 Samuel Light, Port Nancychester, MS 01112, United States",
+    "consignee_country": "United States",
+    "notify_party": "Trade Fisher Inc.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Nichole Smith",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/24",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 116,
+        "unit": "PCS",
+        "weight_kg": 13.5,
+        "value_usd": 3753.78
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 14,
+        "unit": "PCS",
+        "weight_kg": 9.41,
+        "value_usd": 346.13
+      },
+      {
+        "marks": "EXP/9",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 184,
+        "unit": "PCS",
+        "weight_kg": 3344.64,
+        "value_usd": 28242.33
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 29,
+        "unit": "KGS",
+        "weight_kg": 29.0,
+        "value_usd": 36.67
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 16,
+        "unit": "PCS",
+        "weight_kg": 0.85,
+        "value_usd": 3427.88
+      }
+    ],
+    "total_weight_kg": 3397.4,
+    "total_value_usd": 35806.79,
+    "service": "LCL Ocean",
+    "named_port": "Long Beach, US",
+    "insurance_value_usd": 12998.72,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "United States"
+  }
+}

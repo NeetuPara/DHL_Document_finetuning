@@ -1,0 +1,40 @@
+{
+  "packet_id": "packet_1444",
+  "total_pages": 3,
+  "n_documents": 3,
+  "class_sequence": [
+    "Certificate of Origin",
+    "House Airway Bill",
+    "Packing List"
+  ],
+  "documents": [
+    {
+      "doc_class": "Certificate of Origin",
+      "class_index": 3,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "coo_0365.pdf",
+      "source_class_folder": "03_Certificate_of_Origin"
+    },
+    {
+      "doc_class": "House Airway Bill",
+      "class_index": 7,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "hawb_0011.pdf",
+      "source_class_folder": "07_House_Airway_Bill"
+    },
+    {
+      "doc_class": "Packing List",
+      "class_index": 8,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "packing_list_0728.pdf",
+      "source_class_folder": "08_Packing_List"
+    }
+  ],
+  "task": "splitting"
+}

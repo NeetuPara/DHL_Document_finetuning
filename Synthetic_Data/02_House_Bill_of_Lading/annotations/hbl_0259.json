@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0259",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU457339961",
+    "shipper_name": "Taylor Global Inc.",
+    "shipper_address": "9040 Michael Causeway Apt. 287, Avilafurt, VT 02515, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Pacific Brown Inc.",
+    "consignee_address": "340 Eileen Forks Suite 416, East Crystal, KY 14602, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party_name": "Kane Industry AG",
+    "notify_party_address": "16299 Kyle Mountains, Wilsonburgh, AK 34134, South Korea",
+    "vessel": "MSC OSCAR",
+    "voyage": "899E",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2025-02-05",
+    "issue_place": "Shanghai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "KNRW6321014",
+        "seal_no": "SL270763",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "ASQK8307201",
+        "seal_no": "CL831427",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 104,
+    "package_type": "Pallet",
+    "gross_weight_kg": 14453.1,
+    "net_weight_kg": 13251.7,
+    "cbm": 8.362,
+    "marks_and_numbers": "ABC/29"
+  }
+}

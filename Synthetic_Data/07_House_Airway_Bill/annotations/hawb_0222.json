@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0222",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-10603336",
+    "mawb_number": "085-69077432",
+    "shipper_name": "International Ramirez B.V.",
+    "shipper_address": "82329 Shane Grove Apt. 607, Ericchester, CT 78452, France",
+    "consignee_name": "Rodriguez Industry GmbH",
+    "consignee_address": "4354 Glenn Walks Suite 929, Davidbury, TN 82688, Brazil",
+    "agent_name": "Mitchell Tech S.A.",
+    "airport_departure": "FRA",
+    "airport_destination": "DXB",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 1,
+    "gross_weight_kg": 491.6,
+    "chargeable_weight": 503.1,
+    "rate": 5.89,
+    "total_charge": 2963.26,
+    "nature_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-01-22",
+    "signatory": "Jenny Jones",
+    "iata_code": "51-658",
+    "agent_cass": "6828-2973",
+    "consolidation_ref": "CONS-9557-081569",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-21230900",
+        "pieces": 18,
+        "weight": 52.6,
+        "destination": "PVG",
+        "consignee": "Global Hamilton AG",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "020-14463872",
+        "pieces": 10,
+        "weight": 61.2,
+        "destination": "PVG",
+        "consignee": "Lee Tech LLC",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "618-64131528",
+        "pieces": 6,
+        "weight": 9.4,
+        "destination": "DXB",
+        "consignee": "Gallagher Tech Pte Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "125-86528526",
+        "pieces": 12,
+        "weight": 1.7,
+        "destination": "PVG",
+        "consignee": "Tech Brown Inc.",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

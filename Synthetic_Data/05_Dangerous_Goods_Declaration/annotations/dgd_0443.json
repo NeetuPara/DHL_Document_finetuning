@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0443",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Richardson Co.",
+    "shipper_address": "60440 Riley Trace, West Benjamin, SD 05177, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Roth Commerce Pte Ltd",
+    "consignee_address": "38372 Denise Mews Suite 458, Stoutfurt, ME 38403, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+67 394-970-1129",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 46,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 39.89,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 48,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 35.09,
+        "qty_unit": "L",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Kimberly Downs DDS",
+    "signature_date": "2026-04-23",
+    "signature_place": "Netherlands",
+    "vessel": "YANG MING MYTH",
+    "voyage": "722N",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Hong Kong, HK"
+  }
+}

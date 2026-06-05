@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0102",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202008-4897",
+    "usppi_name": "Industry Rodriguez Ltd",
+    "usppi_address": "8003 Amanda Place, Laurenmouth, WI 77921, China",
+    "usppi_country": "China",
+    "ein": "36-7448232",
+    "consignee_name": "Juarez Global GmbH",
+    "consignee_address": "820 Tommy Brook Apt. 508, Wendyberg, AR 63597, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Brown Tech GmbH",
+    "forwarder": "Panalpina",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Tyler Williams",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/3",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 15,
+        "unit": "SET",
+        "weight_kg": 42.71,
+        "value_usd": 1367.45
+      },
+      {
+        "marks": "EXP/9",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 134,
+        "unit": "KGS",
+        "weight_kg": 134.0,
+        "value_usd": 242.95
+      },
+      {
+        "marks": "SLI/3",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 45,
+        "unit": "KGS",
+        "weight_kg": 45.0,
+        "value_usd": 916.99
+      },
+      {
+        "marks": "ABC/13",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 200,
+        "unit": "PCS",
+        "weight_kg": 52.43,
+        "value_usd": 45801.94
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 137,
+        "unit": "LTR",
+        "weight_kg": 128.39,
+        "value_usd": 437.97
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 65,
+        "unit": "PCS",
+        "weight_kg": 54.97,
+        "value_usd": 74240.51
+      }
+    ],
+    "total_weight_kg": 457.5,
+    "total_value_usd": 123007.81,
+    "vessel": "CSCL GLOBE",
+    "voyage": "892E",
+    "booking_ref": "BKG-372005",
+    "bl_number": "OOLU445672605",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Long Beach, US",
+    "container_number": "YTWO0215243",
+    "seal_number": "BL455875",
+    "container_type": "40'HC",
+    "cbm": 41.929
+  }
+}

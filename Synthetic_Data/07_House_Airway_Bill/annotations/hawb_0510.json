@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0510",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-68255993",
+    "mawb_number": "176-98859871",
+    "shipper_name": "Lawson Trade LLC",
+    "shipper_address": "9673 Fritz Coves Apt. 339, Gutierrezside, SC 91525, Australia",
+    "consignee_name": "Pacific Collins Inc.",
+    "consignee_address": "1324 Davidson Bridge Apt. 766, Jamesbury, MP 51417, United Arab Emirates",
+    "agent_name": "Ware Tech Corp.",
+    "airport_departure": "CDG",
+    "airport_destination": "JFK",
+    "currency": "AUD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 34,
+    "gross_weight_kg": 13.2,
+    "chargeable_weight": 14.1,
+    "rate": 6.01,
+    "total_charge": 84.74,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-11-07",
+    "signatory": "Joshua Goodwin",
+    "iata_code": "40-865",
+    "agent_cass": "5612-1369",
+    "consolidation_ref": "CONS-1762-187998",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-42895336",
+        "pieces": 7,
+        "weight": 45.1,
+        "destination": "MIA",
+        "consignee": "Nixon Trade LLC",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "057-50421445",
+        "pieces": 9,
+        "weight": 99.4,
+        "destination": "HKG",
+        "consignee": "International Ball S.A.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "006-68553492",
+        "pieces": 15,
+        "weight": 45.0,
+        "destination": "HKG",
+        "consignee": "Figueroa Global Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "045-81644630",
+        "pieces": 11,
+        "weight": 34.9,
+        "destination": "NRT",
+        "consignee": "Trade Chavez Inc.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "160-59988096",
+        "pieces": 8,
+        "weight": 3.0,
+        "destination": "HKG",
+        "consignee": "Brown Tech S.A.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "006-73173085",
+        "pieces": 15,
+        "weight": 0.7,
+        "destination": "FRA",
+        "consignee": "Stewart Tech Pte Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "006-63937395",
+        "pieces": 5,
+        "weight": 44.4,
+        "destination": "FRA",
+        "consignee": "Commerce Crane B.V.",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

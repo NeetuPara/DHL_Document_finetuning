@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0900",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-40860350",
+    "mawb_number": "176-27471874",
+    "shipper_name": "Tech Martinez Co.",
+    "shipper_address": "4324 Brian Vista Suite 096, Port Nicole, SC 58877, Malaysia",
+    "consignee_name": "Moore Industry AG",
+    "consignee_address": "716 Johnson Course Apt. 307, Port Stephanie, IL 99014, Hong Kong",
+    "agent_name": "Turner Global Ltd",
+    "airport_departure": "ORD",
+    "airport_destination": "SIN",
+    "currency": "USD",
+    "charge_code": "CC",
+    "declared_value_carriage": "CNY 32,416.28",
+    "declared_value_customs": "NCV",
+    "n_pieces": 3,
+    "gross_weight_kg": 289.9,
+    "chargeable_weight": 312.3,
+    "rate": 5.77,
+    "total_charge": 1801.97,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-02-11",
+    "signatory": "Noah Campos",
+    "iata_code": "50-636",
+    "agent_cass": "7681-8978",
+    "consolidation_ref": "CONS-8736-096854",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-88857378",
+        "pieces": 14,
+        "weight": 14.0,
+        "destination": "SIN",
+        "consignee": "Daniel International S.A.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "074-89060801",
+        "pieces": 12,
+        "weight": 45.1,
+        "destination": "JFK",
+        "consignee": "Pacific Young Inc.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "057-32141624",
+        "pieces": 4,
+        "weight": 64.9,
+        "destination": "MIA",
+        "consignee": "White Trade Inc.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "057-98580416",
+        "pieces": 16,
+        "weight": 27.3,
+        "destination": "JFK",
+        "consignee": "Madden Tech Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "057-58139123",
+        "pieces": 5,
+        "weight": 74.6,
+        "destination": "SIN",
+        "consignee": "Tech Morris Co.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "160-48729242",
+        "pieces": 2,
+        "weight": 90.9,
+        "destination": "FRA",
+        "consignee": "Ross International Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      }
+    ]
+  }
+}

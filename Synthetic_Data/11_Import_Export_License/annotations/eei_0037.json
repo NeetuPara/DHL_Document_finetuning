@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0037",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "422-01079970-1",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2025-09-01",
+    "port_of_entry": "MIA - Miami",
+    "transport_mode": "Truck",
+    "carrier": "Maersk",
+    "bl_awb": "618-73864357",
+    "importer_name": "Trade Morgan Co.",
+    "importer_ein": "70-1453915",
+    "consignee_name": "Trade Farmer LLC",
+    "customs_broker": "Horton Tech Ltd",
+    "broker_filer_code": "QNj",
+    "country_of_origin": "Switzerland",
+    "total_value": 168109.71,
+    "total_duty": 30956.46,
+    "currency": "CHF",
+    "signatory": "Holly Wilkerson",
+    "signatory_title": "Trade Finance Manager",
+    "line_items": [
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Poland",
+        "qty": 378,
+        "unit": "PCS",
+        "entered_value": 158703.3,
+        "duty_rate": 18.5,
+        "duty_amount": 29360.11,
+        "eccn": "9A515",
+        "schedule_b": "8518.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "United Kingdom",
+        "qty": 293,
+        "unit": "CTN",
+        "entered_value": 4046.33,
+        "duty_rate": 16.8,
+        "duty_amount": 679.78,
+        "eccn": "2B350",
+        "schedule_b": "9018.31.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Thailand",
+        "qty": 11,
+        "unit": "PCS",
+        "entered_value": 5360.08,
+        "duty_rate": 17.1,
+        "duty_amount": 916.57,
+        "eccn": "0A919",
+        "schedule_b": "3926.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

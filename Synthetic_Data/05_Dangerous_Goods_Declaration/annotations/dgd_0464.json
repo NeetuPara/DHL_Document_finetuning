@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0464",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Bowman B.V.",
+    "shipper_address": "1383 David Inlet Suite 544, Joanview, GU 60231, France",
+    "shipper_country": "France",
+    "consignee_name": "Trade Martin GmbH",
+    "consignee_address": "2656 Patricia Shores Apt. 275, Port Tracy, FM 63643, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+88 106-982-1748",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 1,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 37.48,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 46,
+        "pkg_type": "Steel Drum",
+        "net_qty": 62.07,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-657678",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Sarah Costa",
+    "signature_date": "2026-05-08",
+    "signature_place": "France",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "767N",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Felixstowe, GB"
+  }
+}

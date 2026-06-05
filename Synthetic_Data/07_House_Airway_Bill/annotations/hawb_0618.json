@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0618",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-37676917",
+    "mawb_number": "074-74222660",
+    "shipper_name": "Global Chung AG",
+    "shipper_address": "0410 Danny Park Apt. 841, Tiffanystad, PW 16074, Switzerland",
+    "consignee_name": "International Hernandez B.V.",
+    "consignee_address": "422 Sutton Burgs Apt. 617, West Lauren, NM 35931, Mexico",
+    "agent_name": "Cherry Global B.V.",
+    "airport_departure": "ORD",
+    "airport_destination": "MIA",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "CAD 38,097.75",
+    "declared_value_customs": "AED 22,334.75",
+    "n_pieces": 48,
+    "gross_weight_kg": 41.6,
+    "chargeable_weight": 42.7,
+    "rate": 4.01,
+    "total_charge": 171.23,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "TEMP CONTROLLED: 2\u00b0C - 12\u00b0C",
+    "issue_date": "2025-06-08",
+    "signatory": "Nicole Stewart",
+    "iata_code": "94-248",
+    "agent_cass": "5891-3586",
+    "consolidation_ref": "CONS-7324-782608",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-35082608",
+        "pieces": 11,
+        "weight": 53.4,
+        "destination": "PVG",
+        "consignee": "Roman Industry Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "125-36012604",
+        "pieces": 3,
+        "weight": 80.6,
+        "destination": "LHR",
+        "consignee": "Rogers Global S.A.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "160-95835949",
+        "pieces": 3,
+        "weight": 95.1,
+        "destination": "LHR",
+        "consignee": "Global Lee GmbH",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "176-82311956",
+        "pieces": 14,
+        "weight": 14.2,
+        "destination": "SYD",
+        "consignee": "Cantu Commerce Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "045-11299986",
+        "pieces": 20,
+        "weight": 97.3,
+        "destination": "DXB",
+        "consignee": "Stephenson Trade S.A.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "045-39529103",
+        "pieces": 16,
+        "weight": 43.6,
+        "destination": "PVG",
+        "consignee": "International Fuller Co.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "618-11851279",
+        "pieces": 11,
+        "weight": 90.6,
+        "destination": "NRT",
+        "consignee": "Knight International Co.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "176-70768983",
+        "pieces": 18,
+        "weight": 62.9,
+        "destination": "LAX",
+        "consignee": "International Cole S.A.",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

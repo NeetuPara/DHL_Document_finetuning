@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0461",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU317734263",
+    "shipper_name": "Industry Brown Ltd",
+    "shipper_address": "9272 Kenneth Courts, Taraland, HI 63995, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Tech Wang S.A.",
+    "consignee_address": "89821 Pittman Flat, Kylemouth, MH 05571, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party_name": "Black Global S.A.",
+    "notify_party_address": "526 Jason Neck Suite 311, Chadville, IA 10951, Poland",
+    "vessel": "YANG MING MYTH",
+    "voyage": "545N",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2024-12-18",
+    "issue_place": "Long Beach",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "AZPM5949966",
+        "seal_no": "SL463642",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "JMBO1469077",
+        "seal_no": "SL690855",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "number_of_packages": 204,
+    "package_type": "Bundle",
+    "gross_weight_kg": 21615.4,
+    "net_weight_kg": 20668.9,
+    "cbm": 23.452,
+    "marks_and_numbers": "ABC/28"
+  }
+}

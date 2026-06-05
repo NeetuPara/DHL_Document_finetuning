@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0935",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Thomas Dalton",
+    "addressee_company": "Morales Global GmbH",
+    "addressee_address": "726 Maria Springs Suite 268, Tashaborough, MP 81420, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 14.73,
+    "total_value": 4045.67,
+    "currency": "CAD",
+    "issue_date": "2026-04-27",
+    "reference": "REF-661991",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.329,
+        "value": 1474.2,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 4,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.935,
+        "value": 506.52,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 20,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.894,
+        "value": 948.8,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 15,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.792,
+        "value": 669.75,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 9,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.78,
+        "value": 446.4,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Melissa Shepherd",
+    "sender_company": "Nelson Global S.A.",
+    "sender_address": "303 Ford Stravenue Apt. 349, Porterland, MN 58801, Australia",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 4450.24,
+    "postal_charges": 38.06,
+    "tracking_number": "BB206343136NT"
+  }
+}

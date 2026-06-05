@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0094",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Melanie Massey",
+    "addressee_company": "Roberts Industry Co.",
+    "addressee_address": "98609 Krueger Walks Suite 797, Anitaport, PA 97780, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 13.112,
+    "total_value": 661.61,
+    "currency": "JPY",
+    "issue_date": "2026-04-17",
+    "reference": "REF-203876",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.47,
+        "value": 228.62,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 3,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.072,
+        "value": 335.13,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 14,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.57,
+        "value": 97.86,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Brian Barber",
+    "sender_company": "Miller International Pte Ltd",
+    "sender_address": "6395 Gilbert Courts, South Amy, AR 54850, Belgium",
+    "sender_phone": "(374)430-7258",
+    "sender_email": "grahamdavid@example.com",
+    "addressee_phone": "582.334.3834",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 39.52,
+    "tracking_number": "VH572702775KU"
+  }
+}

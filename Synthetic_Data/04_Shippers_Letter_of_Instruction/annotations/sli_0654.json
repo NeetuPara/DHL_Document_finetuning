@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0654",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202404-9123",
+    "usppi_name": "Burke Industry Pte Ltd",
+    "usppi_address": "0335 Smith Passage Apt. 955, West Heidi, TN 52966, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "70-5018362",
+    "consignee_name": "Ware Trade Pte Ltd",
+    "consignee_address": "15391 Kennedy Walks, West Latoyaport, NH 39902, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "David International B.V.",
+    "forwarder": "Panalpina",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Heather Hunt",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/9",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 31,
+        "unit": "BOX",
+        "weight_kg": 59.32,
+        "value_usd": 2491.14
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 190,
+        "unit": "PKG",
+        "weight_kg": 351.22,
+        "value_usd": 8014.38
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 116,
+        "unit": "CTN",
+        "weight_kg": 361.47,
+        "value_usd": 1771.25
+      },
+      {
+        "marks": "SLI/26",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 185,
+        "unit": "PCS",
+        "weight_kg": 13.45,
+        "value_usd": 22250.7
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 30,
+        "unit": "MTR",
+        "weight_kg": 34.16,
+        "value_usd": 247.57
+      },
+      {
+        "marks": "SLI/20",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 165,
+        "unit": "KGS",
+        "weight_kg": 165.0,
+        "value_usd": 334.38
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 148,
+        "unit": "PCS",
+        "weight_kg": 2835.02,
+        "value_usd": 33675.43
+      }
+    ],
+    "total_weight_kg": 3819.64,
+    "total_value_usd": 68784.85,
+    "vessel": "YANG MING MYTH",
+    "voyage": "125S",
+    "booking_ref": "BKG-899459",
+    "bl_number": "YMLU126779506",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Antwerp, BE",
+    "container_number": "GFMD0771105",
+    "seal_number": "SL985379",
+    "container_type": "40'HC",
+    "cbm": 31.071
+  }
+}

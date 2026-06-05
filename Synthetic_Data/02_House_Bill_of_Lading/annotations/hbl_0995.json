@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0995",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU419657981",
+    "shipper_name": "Sawyer Tech B.V.",
+    "shipper_address": "3574 Susan Vista Suite 568, Robertmouth, MA 51352, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Smith Commerce Ltd",
+    "consignee_address": "049 Sheppard Valleys, Jamesfurt, NM 10614, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Brooks Trade LLC",
+    "notify_party_address": "9461 Max Place Apt. 400, Nathanborough, ME 53539, India",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "752E",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Felixstowe, GB",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2024-09-06",
+    "issue_place": "Tokyo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "ULNB8494173",
+        "seal_no": "CL561310",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "RHKP5838251",
+        "seal_no": "BL469001",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "YHVX6641815",
+        "seal_no": "SL982264",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "EUAU8802499",
+        "seal_no": "BL399429",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 220,
+    "package_type": "Carton",
+    "gross_weight_kg": 10560.5,
+    "net_weight_kg": 9486.7,
+    "cbm": 25.369,
+    "marks_and_numbers": "GLB/5"
+  }
+}

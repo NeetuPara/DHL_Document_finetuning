@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0107",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Brian Guzman",
+    "addressee_company": "Trade Petersen LLC",
+    "addressee_address": "PSC 1777, Box 9892, APO AP 25724, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 4.369,
+    "total_value": 2680.11,
+    "currency": "CAD",
+    "issue_date": "2025-09-01",
+    "reference": "REF-194239",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.068,
+        "value": 1747.36,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 7,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.301,
+        "value": 932.75,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Joshua Anderson",
+    "sender_company": "Global Green Ltd",
+    "sender_address": "903 Davis Land Suite 055, Danielsshire, MO 27648, Singapore",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 2948.12,
+    "postal_charges": 61.44,
+    "tracking_number": "MK441722504RQ"
+  }
+}

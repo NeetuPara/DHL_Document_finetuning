@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0739",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Alicia Decker",
+    "addressee_company": "Tech Weaver B.V.",
+    "addressee_address": "75916 Ellis Grove, East Rebecca, NJ 56803, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 10.437,
+    "total_value": 5007.26,
+    "currency": "CHF",
+    "issue_date": "2025-09-23",
+    "reference": "REF-014221",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.97,
+        "value": 2350.08,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 9,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.076,
+        "value": 575.82,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 9,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.457,
+        "value": 413.01,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 8,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.362,
+        "value": 487.76,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 14,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.168,
+        "value": 558.74,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 5,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.404,
+        "value": 621.85,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_name": "Jessica Farmer",
+    "sender_company": "Andrade Tech AG",
+    "sender_address": "867 Alex Hills, Moranfurt, MD 78973, United States",
+    "sender_phone": "001-692-969-4577x53074",
+    "sender_email": "fodonnell@example.com",
+    "addressee_phone": "543-723-1717",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 5507.99,
+    "postal_charges": 5.88,
+    "tracking_number": "ZH897888402SP"
+  }
+}

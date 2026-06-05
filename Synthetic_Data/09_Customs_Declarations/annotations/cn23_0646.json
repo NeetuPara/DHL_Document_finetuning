@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0646",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Christopher Davis",
+    "addressee_company": "Smith Tech Corp.",
+    "addressee_address": "Unit 1713 Box 8345, DPO AP 72713, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 12.387,
+    "total_value": 3920.71,
+    "currency": "CNY",
+    "issue_date": "2026-03-07",
+    "reference": "REF-392301",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.178,
+        "value": 1050.84,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 12,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.265,
+        "value": 1248.84,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 3,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.018,
+        "value": 413.82,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 3,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.555,
+        "value": 424.29,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 2,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.87,
+        "value": 145.84,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 6,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 1.501,
+        "value": 637.08,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "Crystal Mcguire",
+    "sender_company": "Pacific Ibarra GmbH",
+    "sender_address": "51109 Charles Ramp Apt. 792, Lindafort, AZ 06426, France",
+    "sender_phone": "947-552-5991",
+    "sender_email": "justin82@example.com",
+    "addressee_phone": "904-467-2777x8283",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 4312.78,
+    "postal_charges": 36.72,
+    "tracking_number": "VS453180509UJ"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0501",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG651112218",
+    "shipper_name": "Stewart International S.A.",
+    "shipper_address": "USNV Day, FPO AA 90259, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Jones Trade Pte Ltd",
+    "consignee_address": "80818 Wright Isle Apt. 121, Lake Nicole, MO 90803, Australia",
+    "consignee_country": "Australia",
+    "notify_party_name": "Wong Tech Ltd",
+    "notify_party_address": "79510 Sanchez Manors Apt. 617, New Kimberlyside, GU 14494, Italy",
+    "vessel": "MSC GULSUN",
+    "voyage": "983S",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Felixstowe, GB",
+    "place_of_receipt": "Tanjung Pelepas, MY",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2026-03-02",
+    "issue_place": "Qingdao",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "GFZT3161646",
+        "seal_no": "SL377235",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "UNUB0813622",
+        "seal_no": "CL413623",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "KKAL2778784",
+        "seal_no": "BL771173",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 172,
+    "package_type": "Bundle",
+    "gross_weight_kg": 15501.2,
+    "net_weight_kg": 14799.2,
+    "cbm": 11.828,
+    "marks_and_numbers": "ABC/44"
+  }
+}

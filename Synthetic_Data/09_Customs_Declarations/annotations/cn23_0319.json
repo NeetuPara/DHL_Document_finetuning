@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0319",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Michael Welch",
+    "addressee_company": "Harrison Pacific Corp.",
+    "addressee_address": "PSC 6312, Box 1850, APO AE 14272, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 14.984,
+    "total_value": 2755.49,
+    "currency": "GBP",
+    "issue_date": "2025-10-17",
+    "reference": "REF-754650",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 4.964,
+        "value": 390.0,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 3,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.549,
+        "value": 432.15,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 14,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.795,
+        "value": 1380.96,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 4,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.993,
+        "value": 324.28,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 4,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.816,
+        "value": 143.12,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 1,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.867,
+        "value": 84.98,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_name": "Linda Ross",
+    "sender_company": "Trade Davis B.V.",
+    "sender_address": "86800 James Fall Suite 966, New Tiffany, CA 85341, Japan",
+    "sender_phone": "+1-462-852-9059x25375",
+    "sender_email": "pfritz@example.org",
+    "addressee_phone": "549-482-6082x79277",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 3031.04,
+    "postal_charges": 72.39,
+    "tracking_number": "KW912807257VT"
+  }
+}

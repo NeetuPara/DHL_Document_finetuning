@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0185",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202503-2225",
+    "usppi_name": "Industry Higgins LLC",
+    "usppi_address": "94695 Jonathan Crossing, Lake Pattyfort, MT 00755, Italy",
+    "usppi_country": "Italy",
+    "ein": "92-8208248",
+    "consignee_name": "Washington Industry Co.",
+    "consignee_address": "4812 Brittany Extensions, Bennettside, PA 66666, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Trade Quinn AG",
+    "forwarder": "DB Schenker",
+    "incoterm": "DAP",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Rodney Rivera DDS",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/10",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 134,
+        "unit": "BOX",
+        "weight_kg": 170.66,
+        "value_usd": 4188.96
+      },
+      {
+        "marks": "EXP/28",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 17,
+        "unit": "MTR",
+        "weight_kg": 13.9,
+        "value_usd": 63.64
+      },
+      {
+        "marks": "SLI/37",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 53,
+        "unit": "KGS",
+        "weight_kg": 53.0,
+        "value_usd": 42.15
+      }
+    ],
+    "total_weight_kg": 237.56,
+    "total_value_usd": 4294.75,
+    "service": "Air Freight",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 10774.74,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-838886",
+    "destination_country": "Brazil"
+  }
+}

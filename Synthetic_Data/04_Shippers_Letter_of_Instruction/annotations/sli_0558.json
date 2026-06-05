@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0558",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202105-2133",
+    "usppi_name": "International Mercer Inc.",
+    "usppi_address": "15732 Christopher Freeway Apt. 166, Grayfort, UT 74398, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "85-4571155",
+    "consignee_name": "Walters Trade Co.",
+    "consignee_address": "454 Baker Dale Suite 071, Paulachester, LA 22136, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Schultz Industry S.A.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "EAR99",
+    "signatory_name": "Alicia Bird",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/27",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 81,
+        "unit": "PCS",
+        "weight_kg": 849.26,
+        "value_usd": 19924.32
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 12,
+        "unit": "BOX",
+        "weight_kg": 5.29,
+        "value_usd": 988.62
+      },
+      {
+        "marks": "SLI/11",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 64,
+        "unit": "SET",
+        "weight_kg": 211.38,
+        "value_usd": 9941.43
+      },
+      {
+        "marks": "ABC/39",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 173,
+        "unit": "PCS",
+        "weight_kg": 185.89,
+        "value_usd": 54107.99
+      },
+      {
+        "marks": "EXP/17",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 75,
+        "unit": "PCS",
+        "weight_kg": 1458.99,
+        "value_usd": 16970.8
+      }
+    ],
+    "total_weight_kg": 2710.81,
+    "total_value_usd": 101933.16,
+    "vessel": "MOL TRIUMPH",
+    "voyage": "904S",
+    "booking_ref": "BKG-252044",
+    "bl_number": "COSU990112070",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "KUMC3506371",
+    "seal_number": "SL363085",
+    "container_type": "40'GP",
+    "cbm": 29.344
+  }
+}

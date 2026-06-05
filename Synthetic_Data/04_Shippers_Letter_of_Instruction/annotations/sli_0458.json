@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0458",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202312-6311",
+    "usppi_name": "Burns Commerce Corp.",
+    "usppi_address": "4030 Antonio Hill Suite 752, Port Mackenzie, ND 70776, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "59-2353809",
+    "consignee_name": "Global Hunt Pte Ltd",
+    "consignee_address": "63705 Andrew Way Apt. 078, Mejiafort, NJ 97974, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "International Adams Pte Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Mark Monroe",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/40",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 193,
+        "unit": "PCS",
+        "weight_kg": 86.54,
+        "value_usd": 27517.59
+      },
+      {
+        "marks": "SLI/28",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 31,
+        "unit": "PKG",
+        "weight_kg": 69.92,
+        "value_usd": 1760.88
+      },
+      {
+        "marks": "ABC/15",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 63,
+        "unit": "MTR",
+        "weight_kg": 34.63,
+        "value_usd": 401.66
+      },
+      {
+        "marks": "EXP/9",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 32,
+        "unit": "SET",
+        "weight_kg": 65.65,
+        "value_usd": 3305.68
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 112,
+        "unit": "PCS",
+        "weight_kg": 163.13,
+        "value_usd": 627.55
+      },
+      {
+        "marks": "SLI/10",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 81,
+        "unit": "PCS",
+        "weight_kg": 81.96,
+        "value_usd": 16251.11
+      }
+    ],
+    "total_weight_kg": 501.83,
+    "total_value_usd": 49864.47,
+    "service": "Air Freight",
+    "named_port": "Seoul Incheon",
+    "insurance_value_usd": 23342.82,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-123323",
+    "destination_country": "Hong Kong"
+  }
+}

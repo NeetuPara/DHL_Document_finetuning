@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0536",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Medina LLC",
+    "shipper_address": "86870 Samantha Coves Suite 399, Port Jaimeburgh, AZ 29055, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Becker Industry AG",
+    "consignee_address": "123 Shirley Junction Suite 034, Port Jasonborough, CA 92703, Spain",
+    "consignee_country": "Spain",
+    "emergency_telephone": "+63 908-425-7347",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 3,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 87.01,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-649411",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Michael Khan",
+    "signature_date": "2026-04-20",
+    "signature_place": "Poland",
+    "vessel": "CSCL GLOBE",
+    "voyage": "945E",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Long Beach, US"
+  }
+}

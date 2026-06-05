@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0818",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Kelly B.V.",
+    "shipper_address": "363 Andrews Extension Suite 051, Lucasland, PW 61964, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Jones International Inc.",
+    "consignee_address": "84478 Johnson Locks Suite 673, West James, NJ 07617, Switzerland",
+    "consignee_country": "Switzerland",
+    "emergency_telephone": "+53 268-774-5278",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 10,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 52.34,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 28,
+        "pkg_type": "Steel Drum",
+        "net_qty": 44.41,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-668996",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Alexandra Hopkins",
+    "signature_date": "2026-05-13",
+    "signature_place": "Thailand",
+    "vessel": "ONE INNOVATION",
+    "voyage": "447W",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Tanjung Pelepas, MY"
+  }
+}

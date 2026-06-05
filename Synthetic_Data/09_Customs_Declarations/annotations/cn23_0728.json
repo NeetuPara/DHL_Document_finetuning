@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0728",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Cindy Young",
+    "addressee_company": "Thompson Global Co.",
+    "addressee_address": "USNV Munoz, FPO AP 49028, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 3.679,
+    "total_value": 4143.05,
+    "currency": "EUR",
+    "issue_date": "2025-09-27",
+    "reference": "REF-918056",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.289,
+        "value": 144.72,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 9,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.496,
+        "value": 633.06,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 14,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 0.281,
+        "value": 1655.64,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 13,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.613,
+        "value": 1709.63,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Kenneth Miller",
+    "sender_company": "Trade Solomon LLC",
+    "sender_address": "395 Ortega Roads Suite 392, Jasontown, VI 43453, Malaysia",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 63.96,
+    "tracking_number": "LN692149254CQ"
+  }
+}

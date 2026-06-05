@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0602",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202209-6264",
+    "usppi_name": "Global Haynes Co.",
+    "usppi_address": "8258 Christopher Fork Apt. 268, South George, NV 68203, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "57-3365907",
+    "consignee_name": "Tech Collins Ltd",
+    "consignee_address": "2506 Diaz Fort Apt. 898, Carolineburgh, SD 34873, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Pacific Moore Co.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "EAR99",
+    "signatory_name": "Chad Barrera",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/44",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 189,
+        "unit": "PCS",
+        "weight_kg": 59.73,
+        "value_usd": 285008.24
+      },
+      {
+        "marks": "ABC/8",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 56,
+        "unit": "PKG",
+        "weight_kg": 76.69,
+        "value_usd": 1962.27
+      },
+      {
+        "marks": "SLI/5",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 12,
+        "unit": "SET",
+        "weight_kg": 26.99,
+        "value_usd": 1741.94
+      },
+      {
+        "marks": "ABC/20",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 8,
+        "unit": "BOX",
+        "weight_kg": 14.41,
+        "value_usd": 926.93
+      },
+      {
+        "marks": "EXP/17",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 196,
+        "unit": "PCS",
+        "weight_kg": 35.07,
+        "value_usd": 16232.17
+      },
+      {
+        "marks": "SLI/10",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 94,
+        "unit": "PCS",
+        "weight_kg": 116.92,
+        "value_usd": 39282.56
+      }
+    ],
+    "total_weight_kg": 329.81,
+    "total_value_usd": 345154.11,
+    "service": "Air Freight",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 16336.8,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-628493",
+    "destination_country": "Poland"
+  }
+}

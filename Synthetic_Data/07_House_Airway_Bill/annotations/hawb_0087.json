@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0087",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-60577284",
+    "mawb_number": "020-93772846",
+    "shipper_name": "Tech Hutchinson AG",
+    "shipper_address": "PSC 2892, Box 6716, APO AP 42884, Germany",
+    "consignee_name": "Medina International Corp.",
+    "consignee_address": "40832 Angela Spurs, East Randyhaven, WY 81209, Spain",
+    "agent_name": "Ford Tech Corp.",
+    "airport_departure": "SIN",
+    "airport_destination": "MIA",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "SGD 29,948.71",
+    "declared_value_customs": "NCV",
+    "n_pieces": 30,
+    "gross_weight_kg": 85.4,
+    "chargeable_weight": 96.5,
+    "rate": 8.41,
+    "total_charge": 811.57,
+    "nature_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-10-13",
+    "signatory": "Phillip Wallace",
+    "iata_code": "03-280",
+    "agent_cass": "0547-7315",
+    "consolidation_ref": "CONS-5884-892292",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-32614023",
+        "pieces": 20,
+        "weight": 87.6,
+        "destination": "MIA",
+        "consignee": "Morrison Pacific AG",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "618-41447289",
+        "pieces": 8,
+        "weight": 92.0,
+        "destination": "CDG",
+        "consignee": "Trade Stone GmbH",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "125-61385160",
+        "pieces": 8,
+        "weight": 56.6,
+        "destination": "MIA",
+        "consignee": "Industry Parks Pte Ltd",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "057-90870718",
+        "pieces": 15,
+        "weight": 60.1,
+        "destination": "SYD",
+        "consignee": "Smith Global Pte Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "057-19848836",
+        "pieces": 16,
+        "weight": 16.1,
+        "destination": "YYZ",
+        "consignee": "Brown Global Pte Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "074-82506297",
+        "pieces": 6,
+        "weight": 91.4,
+        "destination": "JFK",
+        "consignee": "Sanders Trade Co.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "057-56469685",
+        "pieces": 20,
+        "weight": 86.9,
+        "destination": "HKG",
+        "consignee": "Foster Commerce Corp.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "160-89138831",
+        "pieces": 20,
+        "weight": 93.0,
+        "destination": "MIA",
+        "consignee": "Industry Myers S.A.",
+        "description": "Steel Products - Hot Rolled Coils"
+      }
+    ]
+  }
+}

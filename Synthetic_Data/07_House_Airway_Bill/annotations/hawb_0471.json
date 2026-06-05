@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0471",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-43251836",
+    "mawb_number": "176-20925625",
+    "shipper_name": "Moore International Corp.",
+    "shipper_address": "2177 Dawn Drives, West Nicolebury, WA 08563, United Arab Emirates",
+    "consignee_name": "Trade Sexton LLC",
+    "consignee_address": "USS Barker, FPO AP 25320, Thailand",
+    "agent_name": "Trade Reyes GmbH",
+    "airport_departure": "MIA",
+    "airport_destination": "ICN",
+    "currency": "USD",
+    "charge_code": "PP",
+    "declared_value_carriage": "SGD 4,599.24",
+    "declared_value_customs": "NCV",
+    "n_pieces": 38,
+    "gross_weight_kg": 496.9,
+    "chargeable_weight": 549.4,
+    "rate": 4.3,
+    "total_charge": 2362.42,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-01-04",
+    "signatory": "Robin Bennett",
+    "iata_code": "30-492",
+    "agent_cass": "2355-6446",
+    "consolidation_ref": "CONS-2780-363549",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-16720731",
+        "pieces": 19,
+        "weight": 89.6,
+        "destination": "SYD",
+        "consignee": "Pacific Evans Pte Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "125-50753036",
+        "pieces": 11,
+        "weight": 92.2,
+        "destination": "YYZ",
+        "consignee": "Johnson Global Pte Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "085-80358486",
+        "pieces": 2,
+        "weight": 98.8,
+        "destination": "FRA",
+        "consignee": "Pacific Jones S.A.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "074-30403600",
+        "pieces": 1,
+        "weight": 67.1,
+        "destination": "SIN",
+        "consignee": "Maddox Global Corp.",
+        "description": "Plastic Products - Injection Moulde"
+      }
+    ]
+  }
+}

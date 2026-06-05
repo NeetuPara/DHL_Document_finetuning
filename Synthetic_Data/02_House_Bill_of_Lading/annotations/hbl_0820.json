@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0820",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU764766803",
+    "shipper_name": "Ward Commerce Corp.",
+    "shipper_address": "917 Jill Knoll, Lake Michelleside, NE 66010, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Tech Jennings B.V.",
+    "consignee_address": "3344 Scott Fork, South Travis, ID 96979, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Owen Commerce Corp.",
+    "notify_party_address": "84051 Michael Overpass, Tuckerton, HI 34405, Thailand",
+    "vessel": "MSC OSCAR",
+    "voyage": "318E",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Singapore, SG",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2025-01-04",
+    "issue_place": "Busan",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "DHVC8424334",
+        "seal_no": "SL574503",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "QQSS8546047",
+        "seal_no": "BL104449",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "KYJN8677889",
+        "seal_no": "CL172745",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "LHZR0059691",
+        "seal_no": "CL121990",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 18,
+    "package_type": "Roll",
+    "gross_weight_kg": 23977.7,
+    "net_weight_kg": 22070.2,
+    "cbm": 1.564,
+    "marks_and_numbers": "ABC/34"
+  }
+}

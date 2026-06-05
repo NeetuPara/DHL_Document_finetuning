@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0367",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Palmer Global Co.",
+    "shipper_address": "4107 Alvarado Square, Davidside, CT 02976, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Nicholson Trade Ltd",
+    "consignee_address": "323 Michael Plains, Leestad, MH 68324, Spain",
+    "consignee_country": "Spain",
+    "emergency_telephone": "+10 899-754-9786",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 9,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 80.63,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 45,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 87.73,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-311621",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Jessica Watkins",
+    "signature_date": "2026-05-05",
+    "signature_place": "South Korea",
+    "awb_number": "160-99770454",
+    "flight_number": "EK5953",
+    "flight_date": "2026-06-05",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "ICN",
+    "destination_airport_name": "Seoul Incheon"
+  }
+}

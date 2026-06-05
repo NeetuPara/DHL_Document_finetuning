@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0888",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Keller AG",
+    "shipper_address": "6927 Gray Plains Apt. 974, South Tamarabury, CA 76058, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Dickerson Industry AG",
+    "consignee_address": "00740 Daniel Mill Suite 748, North Seanborough, PW 25648, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+44 659-504-7853",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 15,
+        "pkg_type": "Steel Drum",
+        "net_qty": 59.22,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-329630",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Tracey Delgado",
+    "signature_date": "2026-04-25",
+    "signature_place": "Switzerland",
+    "awb_number": "176-15690233",
+    "flight_number": "UA6354",
+    "departure_airport_code": "CDG",
+    "departure_airport_name": "Paris CDG",
+    "destination_airport_code": "HKG",
+    "destination_airport_name": "Hong Kong International",
+    "non_dg_reason": "Excepted quantities (EQ) per IATA DGR 2.6"
+  }
+}

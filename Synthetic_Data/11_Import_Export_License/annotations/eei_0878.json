@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0878",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210707899484",
+    "export_date": "2026-03-26",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Gill Industry Inc.",
+    "usppi_ein": "98-0793124",
+    "usppi_address": "696 Cochran Trail Suite 565, South Jasmine, AS 31368, United States",
+    "ultimate_consignee": "Global Williams Co.",
+    "intermediate_consignee": "English Tech Co.",
+    "forwarding_agent": "Pacific Perez Co.",
+    "destination_country": "Hong Kong",
+    "carrier": "DHL Express",
+    "bl_awb": "020-62305254",
+    "total_value": 425884.17,
+    "currency": "SGD",
+    "signatory": "Kelly Gilmore",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Poland",
+        "qty": 374,
+        "unit": "PCS",
+        "entered_value": 74613.0,
+        "duty_rate": 18.4,
+        "duty_amount": 13728.79,
+        "eccn": "EAR99",
+        "schedule_b": "8483.40.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Malaysia",
+        "qty": 470,
+        "unit": "PCS",
+        "entered_value": 31419.5,
+        "duty_rate": 20.3,
+        "duty_amount": 6378.16,
+        "eccn": "EAR99",
+        "schedule_b": "8518.30.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Sweden",
+        "qty": 431,
+        "unit": "PCS",
+        "entered_value": 128739.7,
+        "duty_rate": 19.9,
+        "duty_amount": 25619.2,
+        "eccn": "2B350",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "United States",
+        "qty": 393,
+        "unit": "PKG",
+        "entered_value": 191111.97,
+        "duty_rate": 3.7,
+        "duty_amount": 7071.14,
+        "eccn": "2B350",
+        "schedule_b": "4016.93.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

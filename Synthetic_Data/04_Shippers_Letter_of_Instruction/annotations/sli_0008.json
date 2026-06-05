@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0008",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202003-2998",
+    "usppi_name": "Trade Valentine Inc.",
+    "usppi_address": "139 Morrison Corners Suite 313, East Michael, LA 09893, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "68-6249032",
+    "consignee_name": "Kelly Industry AG",
+    "consignee_address": "36922 Tate Drive, Malonebury, SD 87184, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Reese Industry B.V.",
+    "forwarder": "Panalpina",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Darius Rogers",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/3",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 40,
+        "unit": "PCS",
+        "weight_kg": 46.54,
+        "value_usd": 360.38
+      },
+      {
+        "marks": "EXP/42",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 46,
+        "unit": "CTN",
+        "weight_kg": 112.37,
+        "value_usd": 934.54
+      },
+      {
+        "marks": "SLI/23",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 6,
+        "unit": "PCS",
+        "weight_kg": 0.76,
+        "value_usd": 338.69
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 47,
+        "unit": "PCS",
+        "weight_kg": 22.22,
+        "value_usd": 9581.5
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 179,
+        "unit": "PCS",
+        "weight_kg": 84.55,
+        "value_usd": 105435.41
+      },
+      {
+        "marks": "EXP/36",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 35,
+        "unit": "KGS",
+        "weight_kg": 35.0,
+        "value_usd": 55.62
+      },
+      {
+        "marks": "ABC/49",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 134,
+        "unit": "PCS",
+        "weight_kg": 2249.23,
+        "value_usd": 48212.84
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 168,
+        "unit": "MTR",
+        "weight_kg": 111.79,
+        "value_usd": 706.59
+      }
+    ],
+    "total_weight_kg": 2662.46,
+    "total_value_usd": 165625.57,
+    "service": "Air Freight",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 32273.99,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-273697",
+    "destination_country": "South Korea"
+  }
+}

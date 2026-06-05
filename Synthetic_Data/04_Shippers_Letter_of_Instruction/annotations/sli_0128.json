@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0128",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202311-4400",
+    "usppi_name": "Trade Jones LLC",
+    "usppi_address": "425 Ford Vista Apt. 193, Claytonfurt, NC 15299, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "54-4349307",
+    "consignee_name": "Donovan Industry GmbH",
+    "consignee_address": "Unit 4742 Box 3331, DPO AE 87230, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Tech Beltran AG",
+    "forwarder": "Expeditors",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Michael Hernandez",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/20",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 151,
+        "unit": "CTN",
+        "weight_kg": 616.98,
+        "value_usd": 3777.83
+      },
+      {
+        "marks": "ABC/5",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 149,
+        "unit": "LTR",
+        "weight_kg": 134.43,
+        "value_usd": 697.28
+      },
+      {
+        "marks": "EXP/32",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 83,
+        "unit": "MTR",
+        "weight_kg": 53.99,
+        "value_usd": 327.24
+      },
+      {
+        "marks": "EXP/27",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 138,
+        "unit": "KGS",
+        "weight_kg": 138.0,
+        "value_usd": 123.76
+      },
+      {
+        "marks": "EXP/44",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 148,
+        "unit": "PCS",
+        "weight_kg": 105.42,
+        "value_usd": 221053.12
+      }
+    ],
+    "total_weight_kg": 1048.82,
+    "total_value_usd": 225979.23,
+    "service": "LCL Ocean",
+    "named_port": "Rotterdam, NL",
+    "insurance_value_usd": 9283.15,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-285449",
+    "destination_country": "Australia"
+  }
+}

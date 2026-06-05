@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0337",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Hamilton Pacific B.V.",
+    "shipper_address": "4248 Kaitlyn Radial Apt. 171, Robertsonbury, ID 14523, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Commerce Clark AG",
+    "consignee_address": "5556 Michael Keys, North Robinborough, NH 93370, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+70 361-461-7594",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 44,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 95.88,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 10,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 3.14,
+        "qty_unit": "g",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-931991",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Tom Ramirez",
+    "signature_date": "2026-04-14",
+    "signature_place": "Australia",
+    "awb_number": "074-85264773",
+    "flight_number": "UA4337",
+    "flight_date": "2026-04-30",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "HKG",
+    "destination_airport_name": "Hong Kong International"
+  }
+}

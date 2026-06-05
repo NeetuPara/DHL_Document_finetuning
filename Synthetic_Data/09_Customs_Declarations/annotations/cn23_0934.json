@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0934",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Morgan Ward",
+    "addressee_company": "Patterson Global GmbH",
+    "addressee_address": "078 Kelly Mountain Apt. 767, Lake Antoniochester, UT 27996, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 11.234,
+    "total_value": 3356.3,
+    "currency": "SGD",
+    "issue_date": "2025-07-02",
+    "reference": "REF-307796",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.435,
+        "value": 35.25,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 20,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.14,
+        "value": 1525.4,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 6,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.855,
+        "value": 372.06,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 8,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.48,
+        "value": 1127.76,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 19,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.324,
+        "value": 295.83,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_name": "John Terry",
+    "sender_company": "Industry Mcconnell B.V.",
+    "sender_address": "89640 Holly View Apt. 707, South Robertburgh, PW 86907, Belgium",
+    "sender_phone": "5763605646",
+    "sender_email": "michael27@example.org",
+    "addressee_phone": "527-542-0191",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 12.82,
+    "tracking_number": "XX132718551DZ"
+  }
+}

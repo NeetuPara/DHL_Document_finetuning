@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0635",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220228079573",
+    "export_date": "2026-04-07",
+    "aes_option": "EEI Exception",
+    "usppi_name": "West International LLC",
+    "usppi_ein": "22-0576054",
+    "usppi_address": "90948 Ralph Coves, Nathanville, HI 82000, Japan",
+    "ultimate_consignee": "Luna Trade Co.",
+    "intermediate_consignee": "Industry Johnson AG",
+    "forwarding_agent": "Pacific White Corp.",
+    "destination_country": "Spain",
+    "carrier": "Maersk",
+    "bl_awb": "074-75102910",
+    "total_value": 140395.18,
+    "currency": "USD",
+    "signatory": "Michael Gilbert",
+    "line_items": [
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 95,
+        "unit": "PCS",
+        "entered_value": 16302.0,
+        "duty_rate": 23.5,
+        "duty_amount": 3830.97,
+        "eccn": "5E992",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Spain",
+        "qty": 360,
+        "unit": "BOX",
+        "entered_value": 88542.0,
+        "duty_rate": 8.2,
+        "duty_amount": 7260.44,
+        "eccn": "9A515",
+        "schedule_b": "2936.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Canada",
+        "qty": 119,
+        "unit": "PCS",
+        "entered_value": 33349.75,
+        "duty_rate": 10.0,
+        "duty_amount": 3334.97,
+        "eccn": "9A515",
+        "schedule_b": "9401.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Australia",
+        "qty": 33,
+        "unit": "PCS",
+        "entered_value": 2201.43,
+        "duty_rate": 1.9,
+        "duty_amount": 41.83,
+        "eccn": "2B350",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

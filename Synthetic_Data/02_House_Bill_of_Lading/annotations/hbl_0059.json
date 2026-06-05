@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0059",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU117591578",
+    "shipper_name": "Peterson Pacific LLC",
+    "shipper_address": "Unit 6698 Box 2604, DPO AE 53297, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "International Thomas LLC",
+    "consignee_address": "8210 Dean Light Apt. 344, Richardview, LA 36192, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party_name": "International Reynolds AG",
+    "notify_party_address": "535 Santana Square, Lewisview, PW 30856, France",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "492W",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2024-05-19",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "MLYZ2913752",
+        "seal_no": "SL593749",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "GJEU8522200",
+        "seal_no": "CL592511",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "BHDY3256446",
+        "seal_no": "BL811588",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "KQUT8424056",
+        "seal_no": "CL367222",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 471,
+    "package_type": "Case",
+    "gross_weight_kg": 524.0,
+    "net_weight_kg": 495.6,
+    "cbm": 50.135,
+    "marks_and_numbers": "XYZ/7"
+  }
+}

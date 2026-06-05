@@ -1,0 +1,75 @@
+{
+  "document_id": "cn23_0600",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Brandon Martin",
+    "addressee_company": "Morales Pacific Inc.",
+    "addressee_address": "67422 Rivera Mount, North Ricardo, CO 41218, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 16.75,
+    "total_value": 5583.2,
+    "currency": "CNY",
+    "issue_date": "2026-02-14",
+    "reference": "REF-643677",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.245,
+        "value": 285.67,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 20,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.913,
+        "value": 2151.2,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 9,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.066,
+        "value": 477.09,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 1,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.547,
+        "value": 41.53,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 19,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.055,
+        "value": 2315.15,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 4,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.924,
+        "value": 312.56,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Brazil"
+      }
+    ],
+    "sender_country": "Germany",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "860-66030965-1",
+    "entry_type": "Formal Entry",
+    "duty_rate": 9.1,
+    "estimated_duty": 508.07,
+    "importer_ein": "92-7893506",
+    "customs_broker": "International Lee S.A."
+  }
+}

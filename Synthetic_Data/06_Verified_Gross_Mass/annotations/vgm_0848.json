@@ -1,0 +1,61 @@
+{
+  "document_id": "vgm_0848",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Yang International AG",
+    "shipper_address": "64398 Briggs Point, Timothyberg, VA 94524, Spain",
+    "shipper_country": "Spain",
+    "container_number": "IBRJ1495432",
+    "seal_number": "BL308368",
+    "container_size": "45'HC",
+    "iso_type_code": "L5G0",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 17453.1,
+    "packing_materials_kg": 244.6,
+    "vgm_kg": 22497.7,
+    "vessel": "MSC GULSUN",
+    "voyage": "960W",
+    "bl_number": "DHLG156500400",
+    "booking_reference": "BKG-256777",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-77236",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-18",
+    "signature_date": "2026-05-13",
+    "signatory_name": "John Jones",
+    "signatory_title": "Operations Director",
+    "number_of_packages": 4,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Pallet",
+        "n_units": 20,
+        "gross_wt_kg": 590.5
+      },
+      {
+        "item_no": 2,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Case",
+        "n_units": 1,
+        "gross_wt_kg": 461.9
+      },
+      {
+        "item_no": 3,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Roll",
+        "n_units": 17,
+        "gross_wt_kg": 1118.8
+      },
+      {
+        "item_no": 4,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Case",
+        "n_units": 10,
+        "gross_wt_kg": 15281.9
+      }
+    ]
+  }
+}

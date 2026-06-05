@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0280",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202001-7430",
+    "usppi_name": "Harvey Global Inc.",
+    "usppi_address": "7551 Megan Brooks, Besthaven, AR 30552, France",
+    "usppi_country": "France",
+    "ein": "94-5695765",
+    "consignee_name": "Daniel Trade Co.",
+    "consignee_address": "771 Carrie Ridge Apt. 606, Whitefurt, AR 94963, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Murillo Tech Inc.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DDP",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Deborah Meyer",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/17",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 171,
+        "unit": "CTN",
+        "weight_kg": 231.63,
+        "value_usd": 895.92
+      },
+      {
+        "marks": "ABC/8",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 125,
+        "unit": "KGS",
+        "weight_kg": 125.0,
+        "value_usd": 168.21
+      },
+      {
+        "marks": "ABC/46",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 18,
+        "unit": "PCS",
+        "weight_kg": 2.06,
+        "value_usd": 1624.34
+      }
+    ],
+    "total_weight_kg": 358.69,
+    "total_value_usd": 2688.47,
+    "service": "Air Freight",
+    "named_port": "Shanghai Pudong",
+    "insurance_value_usd": 49625.29,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-532154",
+    "destination_country": "Japan"
+  }
+}

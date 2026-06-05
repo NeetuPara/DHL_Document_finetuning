@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0647",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250204015779",
+    "export_date": "2025-07-04",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Powell Industry Pte Ltd",
+    "usppi_ein": "69-7303601",
+    "usppi_address": "417 Terri Island, North Jasonview, CO 45029, Netherlands",
+    "ultimate_consignee": "Mcgee International S.A.",
+    "intermediate_consignee": "Jones Pacific Pte Ltd",
+    "forwarding_agent": "Pacific Carlson S.A.",
+    "destination_country": "Sweden",
+    "carrier": "MSC",
+    "bl_awb": "618-97785233",
+    "total_value": 301287.04,
+    "currency": "JPY",
+    "signatory": "Jessica Harris",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Switzerland",
+        "qty": 262,
+        "unit": "MTR",
+        "entered_value": 121892.88,
+        "duty_rate": 5.9,
+        "duty_amount": 7191.68,
+        "eccn": "1A002",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Belgium",
+        "qty": 271,
+        "unit": "KGS",
+        "entered_value": 71728.28,
+        "duty_rate": 7.6,
+        "duty_amount": 5451.35,
+        "eccn": "2B350",
+        "schedule_b": "7208.37.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Malaysia",
+        "qty": 317,
+        "unit": "SET",
+        "entered_value": 107665.88,
+        "duty_rate": 5.9,
+        "duty_amount": 6352.29,
+        "eccn": "3A992",
+        "schedule_b": "8708.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

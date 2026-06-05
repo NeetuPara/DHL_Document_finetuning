@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0803",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU217523503",
+    "shipper_name": "Trade Barnett Ltd",
+    "shipper_address": "06687 Sarah Bypass, New Michael, ME 43304, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Kirby Pacific Inc.",
+    "consignee_address": "01844 Savage Avenue, Marshallfort, AS 71850, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party_name": "Frey Commerce GmbH",
+    "notify_party_address": "2551 Rodriguez Throughway Suite 859, East James, KS 59812, Brazil",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "278E",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Tanjung Pelepas, MY",
+    "issue_date": "2026-02-11",
+    "issue_place": "Antwerp",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "OTGD8680207",
+        "seal_no": "CL132406",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "ZRTS7692272",
+        "seal_no": "CL340951",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "KPUT4454655",
+        "seal_no": "CL639959",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "SXOA1633633",
+        "seal_no": "CL287063",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 118,
+    "package_type": "Pallet",
+    "gross_weight_kg": 7316.8,
+    "net_weight_kg": 6978.6,
+    "cbm": 6.693,
+    "marks_and_numbers": "XYZ/2"
+  }
+}

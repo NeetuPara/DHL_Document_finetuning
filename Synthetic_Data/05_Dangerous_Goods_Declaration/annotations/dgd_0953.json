@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0953",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Serrano AG",
+    "shipper_address": "9343 Kimberly Causeway Apt. 797, Lake Katieton, MT 48272, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Richardson Tech AG",
+    "consignee_address": "80489 Dwayne Common Apt. 950, Rosston, TN 51616, Spain",
+    "consignee_country": "Spain",
+    "emergency_telephone": "+86 295-950-5856",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 43,
+        "pkg_type": "Steel Drum",
+        "net_qty": 99.05,
+        "qty_unit": "g",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Richard Garrett",
+    "signature_date": "2026-04-15",
+    "signature_place": "Mexico",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "848N",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Tokyo, JP"
+  }
+}

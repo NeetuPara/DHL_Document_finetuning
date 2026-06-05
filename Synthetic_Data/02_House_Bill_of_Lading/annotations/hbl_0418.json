@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0418",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU259968168",
+    "shipper_name": "Fischer Global GmbH",
+    "shipper_address": "Unit 9662 Box 4783, DPO AE 34847, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Pacific Allen B.V.",
+    "consignee_address": "Unit 4167 Box 8174, DPO AE 82132, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Harrington Global LLC",
+    "notify_party_address": "0079 Coleman Plaza, Port Katherinechester, MH 30690, United Kingdom",
+    "vessel": "EVER GOLDEN",
+    "voyage": "379W",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2025-08-01",
+    "issue_place": "New York",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "WKVK9191769",
+        "seal_no": "CL806700",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "KXOG7929743",
+        "seal_no": "SL224942",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "LZXS8504466",
+        "seal_no": "CL769531",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "JWFV4140087",
+        "seal_no": "CL980904",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 135,
+    "package_type": "Bundle",
+    "gross_weight_kg": 17151.5,
+    "net_weight_kg": 15105.5,
+    "cbm": 10.723,
+    "marks_and_numbers": "GLB/35"
+  }
+}

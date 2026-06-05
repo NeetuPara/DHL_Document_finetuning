@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0305",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202412-2153",
+    "usppi_name": "Trade Watson B.V.",
+    "usppi_address": "5170 Sims Pine Apt. 842, Allisonside, SD 46436, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "82-1127654",
+    "consignee_name": "International Munoz Ltd",
+    "consignee_address": "2236 Cruz Valleys Apt. 269, Jonathanberg, VA 68284, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Global Ayala B.V.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Jennifer Johnson",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/1",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 173,
+        "unit": "KGS",
+        "weight_kg": 173.0,
+        "value_usd": 2790.15
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 9,
+        "unit": "BOX",
+        "weight_kg": 15.8,
+        "value_usd": 575.48
+      }
+    ],
+    "total_weight_kg": 188.8,
+    "total_value_usd": 3365.63,
+    "service": "LCL Ocean",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 41827.29,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-764148",
+    "destination_country": "Canada"
+  }
+}

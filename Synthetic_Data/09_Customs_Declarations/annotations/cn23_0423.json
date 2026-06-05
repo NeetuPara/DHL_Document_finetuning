@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0423",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Brooke Moody",
+    "addressee_company": "Huang Commerce Corp.",
+    "addressee_address": "1251 Joshua Isle, Hollyton, IN 23572, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 6.252,
+    "total_value": 868.07,
+    "currency": "CHF",
+    "issue_date": "2025-08-14",
+    "reference": "REF-836656",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.261,
+        "value": 198.42,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 7,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.383,
+        "value": 587.72,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 3,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 0.608,
+        "value": 81.93,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_country": "Germany",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "060-04710336-1",
+    "entry_type": "Formal Entry",
+    "duty_rate": 15.9,
+    "estimated_duty": 138.02,
+    "importer_ein": "41-9333724",
+    "customs_broker": "Henderson Global AG"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0574",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202105-5968",
+    "usppi_name": "Arnold Commerce Corp.",
+    "usppi_address": "575 Dawn Ville, Mackmouth, MH 59344, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "62-5189577",
+    "consignee_name": "Gregory Industry S.A.",
+    "consignee_address": "07769 David Fields, Erinchester, WV 32840, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Global Clark Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Morgan Lane",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/33",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 48,
+        "unit": "CTN",
+        "weight_kg": 62.72,
+        "value_usd": 623.98
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 82,
+        "unit": "CTN",
+        "weight_kg": 354.3,
+        "value_usd": 5073.47
+      },
+      {
+        "marks": "EXP/25",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 50,
+        "unit": "PCS",
+        "weight_kg": 65.52,
+        "value_usd": 779.99
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 93,
+        "unit": "BOX",
+        "weight_kg": 54.71,
+        "value_usd": 4636.71
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 93,
+        "unit": "SET",
+        "weight_kg": 189.23,
+        "value_usd": 7524.41
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 27,
+        "unit": "PCS",
+        "weight_kg": 8.16,
+        "value_usd": 727.02
+      }
+    ],
+    "total_weight_kg": 734.64,
+    "total_value_usd": 19365.58,
+    "service": "Ground",
+    "named_port": "Toronto Pearson",
+    "insurance_value_usd": 41184.1,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-164142",
+    "destination_country": "Hong Kong"
+  }
+}

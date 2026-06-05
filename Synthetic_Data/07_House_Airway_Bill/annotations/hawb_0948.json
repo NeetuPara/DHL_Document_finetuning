@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0948",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-80606065",
+    "mawb_number": "057-24182115",
+    "shipper_name": "Global Thompson AG",
+    "shipper_address": "9003 Johnson Fords Suite 546, Christensenside, NE 47615, Japan",
+    "consignee_name": "Moran Trade Co.",
+    "consignee_address": "31343 Hernandez Track, Port Kimberlyburgh, IN 19105, Thailand",
+    "agent_name": "Lewis Pacific Inc.",
+    "airport_departure": "SIN",
+    "airport_destination": "CDG",
+    "currency": "USD",
+    "charge_code": "CC",
+    "declared_value_carriage": "GBP 32,242.75",
+    "declared_value_customs": "NCV",
+    "n_pieces": 23,
+    "gross_weight_kg": 33.7,
+    "chargeable_weight": 36.0,
+    "rate": 11.9,
+    "total_charge": 428.4,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-02-13",
+    "signatory": "Christina Norton MD",
+    "iata_code": "41-714",
+    "agent_cass": "0095-6225",
+    "consolidation_ref": "CONS-9731-232010",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-79315730",
+        "pieces": 1,
+        "weight": 36.3,
+        "destination": "LHR",
+        "consignee": "Payne Global LLC",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "160-22174797",
+        "pieces": 6,
+        "weight": 62.7,
+        "destination": "CDG",
+        "consignee": "Global Nelson Inc.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "125-11023753",
+        "pieces": 4,
+        "weight": 42.3,
+        "destination": "CDG",
+        "consignee": "Montgomery Pacific Pte Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "125-94816727",
+        "pieces": 14,
+        "weight": 1.1,
+        "destination": "AMS",
+        "consignee": "Johnson International Co.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "057-62606735",
+        "pieces": 15,
+        "weight": 46.7,
+        "destination": "LHR",
+        "consignee": "Rose Trade Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "006-62937016",
+        "pieces": 15,
+        "weight": 77.2,
+        "destination": "SIN",
+        "consignee": "Hughes Commerce Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "618-32421115",
+        "pieces": 1,
+        "weight": 94.3,
+        "destination": "HKG",
+        "consignee": "Pacific Johnson S.A.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "045-83419760",
+        "pieces": 13,
+        "weight": 78.1,
+        "destination": "LAX",
+        "consignee": "International Mccall S.A.",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

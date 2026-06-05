@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0948",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG407373997",
+    "shipper_name": "Johnson Industry Pte Ltd",
+    "shipper_address": "5116 Jones Mills Apt. 069, South Eric, FM 29244, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Patrick Trade LLC",
+    "consignee_address": "03816 Brett Falls, East Jennifer, MH 75417, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Bennett Global GmbH",
+    "notify_party_address": "73783 Johnson Harbors, South Jason, VA 65517, Singapore",
+    "vessel": "YANG MING MYTH",
+    "voyage": "190W",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2025-09-12",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "IAME1021485",
+        "seal_no": "BL110043",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "EXLR9959183",
+        "seal_no": "BL461903",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "WKNJ8966440",
+        "seal_no": "BL669586",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "number_of_packages": 277,
+    "package_type": "Roll",
+    "gross_weight_kg": 18223.2,
+    "net_weight_kg": 16540.2,
+    "cbm": 22.922,
+    "marks_and_numbers": "ABC/8"
+  }
+}

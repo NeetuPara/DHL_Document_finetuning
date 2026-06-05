@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0856",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202208-2753",
+    "usppi_name": "Trade Palmer GmbH",
+    "usppi_address": "668 Simpson Manor Suite 331, New Kimberlyfurt, PA 30255, United States",
+    "usppi_country": "United States",
+    "ein": "84-9212215",
+    "consignee_name": "Gray Pacific B.V.",
+    "consignee_address": "2692 Randolph Point Apt. 520, Autumnborough, FL 42660, China",
+    "consignee_country": "China",
+    "notify_party": "Pacific Andrade Corp.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIF",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "7A994",
+    "signatory_name": "Adriana Andrade",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/22",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 117,
+        "unit": "PCS",
+        "weight_kg": 9.84,
+        "value_usd": 9318.82
+      },
+      {
+        "marks": "EXP/41",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 52,
+        "unit": "PCS",
+        "weight_kg": 49.33,
+        "value_usd": 217.4
+      },
+      {
+        "marks": "EXP/42",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 111,
+        "unit": "LTR",
+        "weight_kg": 105.23,
+        "value_usd": 4184.03
+      },
+      {
+        "marks": "EXP/28",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 166,
+        "unit": "MTR",
+        "weight_kg": 59.36,
+        "value_usd": 460.41
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 103,
+        "unit": "PCS",
+        "weight_kg": 144.85,
+        "value_usd": 148192.82
+      }
+    ],
+    "total_weight_kg": 368.61,
+    "total_value_usd": 162373.48,
+    "service": "Air Freight",
+    "named_port": "Tokyo Narita",
+    "insurance_value_usd": 24937.1,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-875818",
+    "destination_country": "China"
+  }
+}

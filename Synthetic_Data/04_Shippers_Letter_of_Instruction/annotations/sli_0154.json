@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0154",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202008-7518",
+    "usppi_name": "Powell Trade B.V.",
+    "usppi_address": "0860 Kyle Heights Apt. 853, West Heather, NE 20509, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "69-6397579",
+    "consignee_name": "Wells Tech Corp.",
+    "consignee_address": "11803 Garrett Spring Suite 124, Johnville, AL 38111, India",
+    "consignee_country": "India",
+    "notify_party": "Global Parker Corp.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "4A994",
+    "signatory_name": "Shane Lowery",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/47",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 127,
+        "unit": "PCS",
+        "weight_kg": 118.4,
+        "value_usd": 176008.74
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 73,
+        "unit": "PKG",
+        "weight_kg": 132.02,
+        "value_usd": 5841.02
+      },
+      {
+        "marks": "ABC/25",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 199,
+        "unit": "PCS",
+        "weight_kg": 1535.35,
+        "value_usd": 40005.85
+      }
+    ],
+    "total_weight_kg": 1785.77,
+    "total_value_usd": 221855.61,
+    "service": "LCL Ocean",
+    "named_port": "Los Angeles, US",
+    "insurance_value_usd": 7226.54,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "India"
+  }
+}

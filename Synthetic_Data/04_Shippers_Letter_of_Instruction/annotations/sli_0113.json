@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0113",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202508-6109",
+    "usppi_name": "International Welch Corp.",
+    "usppi_address": "8580 Noble Haven, West Lisa, MN 49977, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "99-8440788",
+    "consignee_name": "Schneider International LLC",
+    "consignee_address": "411 Lauren Lakes Suite 108, Murphyland, PR 36877, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Carr Tech B.V.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DDP",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "EAR99",
+    "signatory_name": "Timothy White",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/2",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 53,
+        "unit": "SET",
+        "weight_kg": 189.44,
+        "value_usd": 2648.55
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 117,
+        "unit": "LTR",
+        "weight_kg": 125.87,
+        "value_usd": 964.49
+      },
+      {
+        "marks": "ABC/39",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 22,
+        "unit": "MTR",
+        "weight_kg": 18.22,
+        "value_usd": 79.6
+      },
+      {
+        "marks": "ABC/5",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 47,
+        "unit": "PCS",
+        "weight_kg": 7.99,
+        "value_usd": 857.77
+      }
+    ],
+    "total_weight_kg": 341.52,
+    "total_value_usd": 4550.41,
+    "service": "Express Courier",
+    "named_port": "Seoul Incheon",
+    "insurance_value_usd": 10232.21,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Hong Kong"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0329",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240508583671",
+    "export_date": "2025-05-20",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Murphy Commerce Co.",
+    "usppi_ein": "73-2563957",
+    "usppi_address": "148 Hannah Vista, Mooreview, HI 17601, Thailand",
+    "ultimate_consignee": "Commerce Stephens B.V.",
+    "intermediate_consignee": "Commerce Phillips GmbH",
+    "forwarding_agent": "International Harris Co.",
+    "destination_country": "Spain",
+    "carrier": "UPS",
+    "bl_awb": "125-98013132",
+    "total_value": 231572.8,
+    "currency": "CHF",
+    "signatory": "Jim Wilkinson",
+    "line_items": [
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Malaysia",
+        "qty": 104,
+        "unit": "PCS",
+        "entered_value": 41934.88,
+        "duty_rate": 12.1,
+        "duty_amount": 5074.12,
+        "eccn": "9A515",
+        "schedule_b": "8534.00.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Poland",
+        "qty": 333,
+        "unit": "PKG",
+        "entered_value": 76633.29,
+        "duty_rate": 12.9,
+        "duty_amount": 9885.69,
+        "eccn": "7A994",
+        "schedule_b": "4016.93.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Australia",
+        "qty": 229,
+        "unit": "MTR",
+        "entered_value": 113004.63,
+        "duty_rate": 10.8,
+        "duty_amount": 12204.5,
+        "eccn": "2B350",
+        "schedule_b": "5407.42.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

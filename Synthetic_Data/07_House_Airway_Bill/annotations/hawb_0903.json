@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0903",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-67268401",
+    "mawb_number": "125-43844106",
+    "shipper_name": "Walker International Ltd",
+    "shipper_address": "52341 Brent Stream, Jenkinshaven, NJ 36465, Germany",
+    "consignee_name": "International Ramirez Corp.",
+    "consignee_address": "620 Dana Ridge Apt. 649, North Johnview, NH 45423, Hong Kong",
+    "agent_name": "Trade Thompson Inc.",
+    "airport_departure": "YYZ",
+    "airport_destination": "NRT",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "CHF 36,678.47",
+    "declared_value_customs": "CAD 30,403.24",
+    "n_pieces": 44,
+    "gross_weight_kg": 31.4,
+    "chargeable_weight": 35.5,
+    "rate": 8.61,
+    "total_charge": 305.65,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-05-06",
+    "signatory": "Michael Mitchell",
+    "iata_code": "69-246",
+    "agent_cass": "4068-5093",
+    "consolidation_ref": "CONS-8439-188665",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-68583703",
+        "pieces": 1,
+        "weight": 2.0,
+        "destination": "YYZ",
+        "consignee": "Pacific Hendrix AG",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "160-33801144",
+        "pieces": 7,
+        "weight": 75.9,
+        "destination": "CDG",
+        "consignee": "Branch Commerce LLC",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "125-71488032",
+        "pieces": 15,
+        "weight": 44.6,
+        "destination": "SIN",
+        "consignee": "Commerce Harmon GmbH",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "020-68753566",
+        "pieces": 5,
+        "weight": 10.3,
+        "destination": "LHR",
+        "consignee": "Tech Thompson Inc.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "074-26238407",
+        "pieces": 10,
+        "weight": 73.3,
+        "destination": "CDG",
+        "consignee": "Global Newman AG",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "057-96603824",
+        "pieces": 5,
+        "weight": 52.7,
+        "destination": "HKG",
+        "consignee": "Commerce Johnson B.V.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "057-59130401",
+        "pieces": 3,
+        "weight": 89.4,
+        "destination": "FRA",
+        "consignee": "International Johnson Co.",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

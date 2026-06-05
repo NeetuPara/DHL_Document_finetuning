@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0138",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202602-6841",
+    "usppi_name": "Trade Campbell B.V.",
+    "usppi_address": "9423 Dixon Overpass Suite 673, East Gabrielle, SC 48549, Italy",
+    "usppi_country": "Italy",
+    "ein": "44-2475509",
+    "consignee_name": "Martinez Tech S.A.",
+    "consignee_address": "0655 Cynthia Falls Suite 442, Calvinport, KS 20770, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Global Randall AG",
+    "forwarder": "DB Schenker",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Nicholas Jordan",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/26",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 183,
+        "unit": "PCS",
+        "weight_kg": 44.96,
+        "value_usd": 76596.86
+      },
+      {
+        "marks": "EXP/7",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 47,
+        "unit": "SET",
+        "weight_kg": 53.14,
+        "value_usd": 4774.98
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 124,
+        "unit": "PCS",
+        "weight_kg": 112.95,
+        "value_usd": 355.2
+      },
+      {
+        "marks": "SLI/26",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 107,
+        "unit": "PKG",
+        "weight_kg": 228.48,
+        "value_usd": 6293.72
+      }
+    ],
+    "total_weight_kg": 439.53,
+    "total_value_usd": 88020.76,
+    "vessel": "CSCL GLOBE",
+    "voyage": "468W",
+    "booking_ref": "BKG-706283",
+    "bl_number": "YMLU659737092",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Singapore, SG",
+    "container_number": "TKDC6452759",
+    "seal_number": "BL591965",
+    "container_type": "20'GP",
+    "cbm": 36.31
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0608",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202510-8986",
+    "usppi_name": "Smith Tech Corp.",
+    "usppi_address": "USS Wallace, FPO AP 52259, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "94-8994851",
+    "consignee_name": "Tech Reynolds LLC",
+    "consignee_address": "383 Lee Lights Apt. 528, Port Tiffanyville, DE 22061, India",
+    "consignee_country": "India",
+    "notify_party": "International Gray GmbH",
+    "forwarder": "Expeditors",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Randall Miller",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/10",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 143,
+        "unit": "CTN",
+        "weight_kg": 423.13,
+        "value_usd": 1697.63
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 113,
+        "unit": "KGS",
+        "weight_kg": 113.0,
+        "value_usd": 1423.91
+      },
+      {
+        "marks": "SLI/37",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 80,
+        "unit": "PCS",
+        "weight_kg": 20.02,
+        "value_usd": 12437.28
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 75,
+        "unit": "PCS",
+        "weight_kg": 93.11,
+        "value_usd": 944.87
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 9,
+        "unit": "PCS",
+        "weight_kg": 55.83,
+        "value_usd": 6376.38
+      },
+      {
+        "marks": "SLI/34",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 19,
+        "unit": "PCS",
+        "weight_kg": 14.09,
+        "value_usd": 26568.67
+      },
+      {
+        "marks": "EXP/25",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 161,
+        "unit": "BOX",
+        "weight_kg": 205.73,
+        "value_usd": 9436.48
+      }
+    ],
+    "total_weight_kg": 924.91,
+    "total_value_usd": 58885.22,
+    "service": "Express Courier",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 31566.14,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-979670",
+    "destination_country": "India"
+  }
+}

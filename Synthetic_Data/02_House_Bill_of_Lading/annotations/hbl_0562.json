@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0562",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG289923821",
+    "shipper_name": "Tran Trade Inc.",
+    "shipper_address": "10597 Valentine Forge, North Kevin, ME 82827, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Little Trade AG",
+    "consignee_address": "USS Werner, FPO AA 79980, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Industry Valdez LLC",
+    "notify_party_address": "6361 Taylor Trafficway, Sarahburgh, HI 43813, Hong Kong",
+    "vessel": "PIL PACIFIC",
+    "voyage": "851N",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Tanjung Pelepas, MY",
+    "place_of_delivery": "Antwerp, BE",
+    "issue_date": "2024-08-20",
+    "issue_place": "Qingdao",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "KNGX6383864",
+        "seal_no": "SL430209",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "WKPR8661621",
+        "seal_no": "BL475092",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "ZDRE2052476",
+        "seal_no": "SL988543",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 159,
+    "package_type": "Bag",
+    "gross_weight_kg": 8585.3,
+    "net_weight_kg": 7694.4,
+    "cbm": 14.235,
+    "marks_and_numbers": "GLB/16"
+  }
+}

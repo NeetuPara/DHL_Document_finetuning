@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0781",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202311-4619",
+    "usppi_name": "Graves Pacific Inc.",
+    "usppi_address": "2878 Lee Point Apt. 017, South Frances, PA 14008, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "80-2082561",
+    "consignee_name": "Trade Fitzpatrick Pte Ltd",
+    "consignee_address": "288 Macdonald Island Apt. 817, Williamshire, IL 70815, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Moreno Trade Pte Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Carol Cooper",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/50",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 140,
+        "unit": "CTN",
+        "weight_kg": 669.91,
+        "value_usd": 2658.75
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 14,
+        "unit": "PCS",
+        "weight_kg": 6.83,
+        "value_usd": 57.27
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 67,
+        "unit": "PCS",
+        "weight_kg": 1001.5,
+        "value_usd": 8792.33
+      },
+      {
+        "marks": "EXP/12",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 54,
+        "unit": "PKG",
+        "weight_kg": 83.08,
+        "value_usd": 3371.42
+      },
+      {
+        "marks": "SLI/10",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 192,
+        "unit": "CTN",
+        "weight_kg": 138.04,
+        "value_usd": 1413.65
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 136,
+        "unit": "PCS",
+        "weight_kg": 18.46,
+        "value_usd": 7698.37
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 112,
+        "unit": "PCS",
+        "weight_kg": 2112.75,
+        "value_usd": 33231.87
+      }
+    ],
+    "total_weight_kg": 4030.57,
+    "total_value_usd": 57223.66,
+    "service": "Ocean Freight",
+    "named_port": "Tokyo, JP",
+    "insurance_value_usd": 30702.89,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-400392",
+    "destination_country": "Hong Kong"
+  }
+}

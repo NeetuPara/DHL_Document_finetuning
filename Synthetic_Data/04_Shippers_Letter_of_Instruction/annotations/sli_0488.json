@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0488",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202307-2429",
+    "usppi_name": "Thompson Tech Pte Ltd",
+    "usppi_address": "951 Nichols Square Suite 693, East David, SD 99035, China",
+    "usppi_country": "China",
+    "ein": "34-7733360",
+    "consignee_name": "Tech Mckinney Co.",
+    "consignee_address": "070 Carrie Knolls, East Gloriashire, ND 58237, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Frazier International LLC",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Kimberly Santos",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/30",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 44,
+        "unit": "PCS",
+        "weight_kg": 6.06,
+        "value_usd": 3025.13
+      },
+      {
+        "marks": "ABC/46",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 117,
+        "unit": "PCS",
+        "weight_kg": 35.23,
+        "value_usd": 28586.24
+      },
+      {
+        "marks": "SLI/2",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 182,
+        "unit": "PCS",
+        "weight_kg": 95.84,
+        "value_usd": 5688.23
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 146,
+        "unit": "PKG",
+        "weight_kg": 98.51,
+        "value_usd": 8623.88
+      },
+      {
+        "marks": "SLI/34",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 110,
+        "unit": "KGS",
+        "weight_kg": 110.0,
+        "value_usd": 2067.79
+      },
+      {
+        "marks": "EXP/31",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 62,
+        "unit": "KGS",
+        "weight_kg": 62.0,
+        "value_usd": 47.29
+      }
+    ],
+    "total_weight_kg": 407.64,
+    "total_value_usd": 48038.56,
+    "service": "Express Courier",
+    "named_port": "Dubai International",
+    "insurance_value_usd": 12729.05,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-780642",
+    "destination_country": "Mexico"
+  }
+}

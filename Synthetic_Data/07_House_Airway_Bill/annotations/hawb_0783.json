@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0783",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-26868424",
+    "mawb_number": "074-40288545",
+    "shipper_name": "Robinson Commerce S.A.",
+    "shipper_address": "78612 Michael Pass Apt. 126, Port Alex, KY 27791, China",
+    "consignee_name": "Global Crawford Co.",
+    "consignee_address": "40581 Margaret Mall, East Amanda, GU 79305, Spain",
+    "agent_name": "Foster Commerce Ltd",
+    "airport_departure": "MIA",
+    "airport_destination": "SIN",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 23,
+    "gross_weight_kg": 80.6,
+    "chargeable_weight": 88.8,
+    "rate": 5.96,
+    "total_charge": 529.25,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-06-05",
+    "signatory": "Monica Turner",
+    "iata_code": "48-086",
+    "agent_cass": "4227-4063",
+    "consolidation_ref": "CONS-3222-927765",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-79367941",
+        "pieces": 15,
+        "weight": 98.0,
+        "destination": "LAX",
+        "consignee": "Commerce Mejia Pte Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "057-82225418",
+        "pieces": 13,
+        "weight": 89.3,
+        "destination": "AMS",
+        "consignee": "Wells Global Inc.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "006-28770427",
+        "pieces": 17,
+        "weight": 6.4,
+        "destination": "SIN",
+        "consignee": "Tech Maldonado AG",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "020-25317211",
+        "pieces": 10,
+        "weight": 91.4,
+        "destination": "YYZ",
+        "consignee": "Lewis Trade Corp.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "176-41786021",
+        "pieces": 16,
+        "weight": 93.8,
+        "destination": "PVG",
+        "consignee": "Industry Rice LLC",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "020-12380493",
+        "pieces": 6,
+        "weight": 39.7,
+        "destination": "NRT",
+        "consignee": "International Smith B.V.",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

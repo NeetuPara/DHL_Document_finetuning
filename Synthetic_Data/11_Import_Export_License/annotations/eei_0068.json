@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0068",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220913417351",
+    "export_date": "2025-11-23",
+    "aes_option": "AES Filing",
+    "usppi_name": "Gardner Commerce Pte Ltd",
+    "usppi_ein": "74-3686227",
+    "usppi_address": "762 Richardson Locks Apt. 433, East Karen, SD 05998, United States",
+    "ultimate_consignee": "International Odom Inc.",
+    "intermediate_consignee": "Trade Lynch B.V.",
+    "forwarding_agent": "Reeves Tech Pte Ltd",
+    "destination_country": "Switzerland",
+    "carrier": "FedEx",
+    "bl_awb": "057-47919975",
+    "total_value": 248132.96,
+    "currency": "AUD",
+    "signatory": "Michael Lloyd",
+    "line_items": [
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Brazil",
+        "qty": 11,
+        "unit": "LTR",
+        "entered_value": 5094.43,
+        "duty_rate": 18.0,
+        "duty_amount": 917.0,
+        "eccn": "EAR99",
+        "schedule_b": "2901.10.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Switzerland",
+        "qty": 340,
+        "unit": "CTN",
+        "entered_value": 24534.4,
+        "duty_rate": 2.3,
+        "duty_amount": 564.29,
+        "eccn": "9A515",
+        "schedule_b": "9018.31.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "United States",
+        "qty": 210,
+        "unit": "PCS",
+        "entered_value": 67798.5,
+        "duty_rate": 20.6,
+        "duty_amount": 13966.49,
+        "eccn": "EAR99",
+        "schedule_b": "9002.11.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "United States",
+        "qty": 48,
+        "unit": "PCS",
+        "entered_value": 12866.4,
+        "duty_rate": 15.3,
+        "duty_amount": 1968.56,
+        "eccn": "0A919",
+        "schedule_b": "9401.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 391,
+        "unit": "LTR",
+        "entered_value": 137839.23,
+        "duty_rate": 5.6,
+        "duty_amount": 7719.0,
+        "eccn": "2B350",
+        "schedule_b": "2901.10.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

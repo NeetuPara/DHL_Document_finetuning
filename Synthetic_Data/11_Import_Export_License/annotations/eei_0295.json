@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0295",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "143-22394402-6",
+    "entry_type": "11 - Informal - Free",
+    "entry_date": "2025-07-03",
+    "port_of_entry": "SEA - Seattle",
+    "transport_mode": "Ocean",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "618-52319560",
+    "importer_name": "Long Pacific AG",
+    "importer_ein": "96-5024352",
+    "consignee_name": "Industry Yates Inc.",
+    "customs_broker": "Commerce White Corp.",
+    "broker_filer_code": "Hyu",
+    "country_of_origin": "Spain",
+    "total_value": 167394.87,
+    "total_duty": 4086.72,
+    "currency": "AED",
+    "signatory": "Alexandra Wade",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "China",
+        "qty": 108,
+        "unit": "SET",
+        "entered_value": 21336.48,
+        "duty_rate": 17.1,
+        "duty_amount": 3648.54,
+        "eccn": "3A992",
+        "schedule_b": "8708.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Switzerland",
+        "qty": 459,
+        "unit": "PCS",
+        "entered_value": 146058.39,
+        "duty_rate": 0.3,
+        "duty_amount": 438.18,
+        "eccn": "0A919",
+        "schedule_b": "9401.30.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

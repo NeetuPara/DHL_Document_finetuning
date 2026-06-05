@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0441",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202401-6426",
+    "usppi_name": "Thomas Industry Ltd",
+    "usppi_address": "PSC 2432, Box 7339, APO AE 54328, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "61-8666294",
+    "consignee_name": "Hill International GmbH",
+    "consignee_address": "USS Barron, FPO AE 89157, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Commerce Stone Inc.",
+    "forwarder": "Panalpina",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Andrea Ballard",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/30",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 88,
+        "unit": "PCS",
+        "weight_kg": 1670.17,
+        "value_usd": 25848.1
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 98,
+        "unit": "CTN",
+        "weight_kg": 249.09,
+        "value_usd": 727.03
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 198,
+        "unit": "BOX",
+        "weight_kg": 49.77,
+        "value_usd": 21412.63
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 144,
+        "unit": "PCS",
+        "weight_kg": 397.49,
+        "value_usd": 111284.25
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 101,
+        "unit": "PCS",
+        "weight_kg": 144.35,
+        "value_usd": 2523.2
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 152,
+        "unit": "KGS",
+        "weight_kg": 152.0,
+        "value_usd": 379.05
+      },
+      {
+        "marks": "EXP/10",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 144,
+        "unit": "PCS",
+        "weight_kg": 134.92,
+        "value_usd": 256453.0
+      }
+    ],
+    "total_weight_kg": 2797.79,
+    "total_value_usd": 418627.26,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "522N",
+    "booking_ref": "BKG-526375",
+    "bl_number": "MAEU151128088",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Dubai, AE",
+    "container_number": "CYUL6779343",
+    "seal_number": "SL151312",
+    "container_type": "45'HC",
+    "cbm": 42.865
+  }
+}

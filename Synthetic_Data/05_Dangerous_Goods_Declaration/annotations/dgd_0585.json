@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0585",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Maldonado S.A.",
+    "shipper_address": "8550 Stevens Plaza Suite 206, Fullerberg, MO 02083, India",
+    "shipper_country": "India",
+    "consignee_name": "Foster Trade B.V.",
+    "consignee_address": "365 Allen Way, Maddoxstad, WA 07784, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+41 138-190-5056",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 8,
+        "pkg_type": "Steel Drum",
+        "net_qty": 77.73,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-674224",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 22,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 32.3,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Matthew Lopez",
+    "signature_date": "2026-04-29",
+    "signature_place": "India",
+    "awb_number": "160-31903827",
+    "flight_number": "UA1597",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "LHR",
+    "destination_airport_name": "London Heathrow",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

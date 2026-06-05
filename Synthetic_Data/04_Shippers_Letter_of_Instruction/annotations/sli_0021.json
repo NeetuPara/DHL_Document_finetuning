@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0021",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202103-4662",
+    "usppi_name": "Garcia Industry GmbH",
+    "usppi_address": "046 Daniel Views, Andersonside, TX 64092, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "85-4470192",
+    "consignee_name": "Tate Pacific Co.",
+    "consignee_address": "65206 Robert Row Suite 819, New Spencerport, IA 26516, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Trade Munoz Pte Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "EAR99",
+    "signatory_name": "Kristen Hoffman",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/17",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 171,
+        "unit": "BOX",
+        "weight_kg": 149.88,
+        "value_usd": 8172.65
+      },
+      {
+        "marks": "ABC/21",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 48,
+        "unit": "PCS",
+        "weight_kg": 14.8,
+        "value_usd": 2168.78
+      },
+      {
+        "marks": "EXP/36",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 100,
+        "unit": "KGS",
+        "weight_kg": 100.0,
+        "value_usd": 468.51
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 157,
+        "unit": "MTR",
+        "weight_kg": 103.49,
+        "value_usd": 776.74
+      },
+      {
+        "marks": "EXP/40",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 165,
+        "unit": "LTR",
+        "weight_kg": 179.95,
+        "value_usd": 4745.28
+      }
+    ],
+    "total_weight_kg": 548.12,
+    "total_value_usd": 16331.96,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "252N",
+    "booking_ref": "BKG-901000",
+    "bl_number": "EGLV430212088",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "KBVZ2438788",
+    "seal_number": "SL746080",
+    "container_type": "40'GP",
+    "cbm": 13.03
+  }
+}

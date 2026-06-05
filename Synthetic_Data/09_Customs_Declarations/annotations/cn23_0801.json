@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0801",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Erika White",
+    "addressee_company": "Fowler Commerce Pte Ltd",
+    "addressee_address": "401 Rollins Vista Suite 206, New Kim, WI 47626, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 9.237,
+    "total_value": 1697.14,
+    "currency": "CNY",
+    "issue_date": "2026-01-28",
+    "reference": "REF-990658",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.669,
+        "value": 232.08,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 15,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.024,
+        "value": 318.75,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 17,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.544,
+        "value": 1146.31,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_country": "Brazil",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "074-94695389-6",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 7.8,
+    "estimated_duty": 132.38,
+    "importer_ein": "51-6803016",
+    "customs_broker": "Krueger Trade GmbH"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0057",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-25428980",
+    "mawb_number": "020-32792504",
+    "shipper_name": "Black Trade LLC",
+    "shipper_address": "4783 Ruiz Rue, Lake Taylor, KS 09030, Sweden",
+    "consignee_name": "Pacific Gomez LLC",
+    "consignee_address": "979 James Mount, Edwardsmouth, RI 15399, Mexico",
+    "agent_name": "Bentley International AG",
+    "airport_departure": "ICN",
+    "airport_destination": "JFK",
+    "currency": "EUR",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "SGD 12,260.49",
+    "n_pieces": 16,
+    "gross_weight_kg": 152.6,
+    "chargeable_weight": 192.6,
+    "rate": 10.27,
+    "total_charge": 1978.0,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-10-19",
+    "signatory": "Jennifer Hahn",
+    "iata_code": "23-789",
+    "agent_cass": "6777-1506",
+    "consolidation_ref": "CONS-2063-128739",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-27593811",
+        "pieces": 5,
+        "weight": 50.5,
+        "destination": "LAX",
+        "consignee": "International Solomon S.A.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "618-84454346",
+        "pieces": 3,
+        "weight": 15.5,
+        "destination": "SIN",
+        "consignee": "Salazar Industry Corp.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "074-57411982",
+        "pieces": 17,
+        "weight": 99.1,
+        "destination": "FRA",
+        "consignee": "Global Mills Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0644",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Nguyen Global Corp.",
+    "shipper_address": "PSC 4502, Box 8891, APO AP 46098, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Pacific Jones Pte Ltd",
+    "consignee_address": "46984 Hunter Well, Mccannburgh, FL 52571, Spain",
+    "consignee_country": "Spain",
+    "emergency_telephone": "+10 320-481-8835",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 17,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 43.07,
+        "qty_unit": "L",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 21,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 3.01,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-305569",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Terri Nelson",
+    "signature_date": "2026-04-28",
+    "signature_place": "United Kingdom",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "487S",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Los Angeles, US"
+  }
+}

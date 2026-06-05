@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0243",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Rodriguez Pacific Ltd",
+    "shipper_address": "858 Vega Via Suite 382, New Tiffanystad, UT 34706, India",
+    "shipper_country": "India",
+    "consignee_name": "Tech Barton Pte Ltd",
+    "consignee_address": "1272 Esparza Common, East Elizabethstad, AL 68129, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+34 900-823-5261",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 10,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 54.92,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 4,
+        "pkg_type": "Steel Drum",
+        "net_qty": 74.8,
+        "qty_unit": "mL",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-177742",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Bianca Gomez",
+    "signature_date": "2026-05-01",
+    "signature_place": "India",
+    "awb_number": "045-88743144",
+    "flight_number": "LH4548",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

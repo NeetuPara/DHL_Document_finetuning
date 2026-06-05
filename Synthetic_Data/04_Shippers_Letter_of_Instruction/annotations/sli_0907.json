@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0907",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202004-8795",
+    "usppi_name": "Harris Trade Pte Ltd",
+    "usppi_address": "2922 Sonya Falls Apt. 809, North Jessica, PR 74264, France",
+    "usppi_country": "France",
+    "ein": "19-8908131",
+    "consignee_name": "Commerce Robertson GmbH",
+    "consignee_address": "4950 Charles Trail, East Joanne, OH 38755, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "International Phillips Pte Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "EAR99",
+    "signatory_name": "Amy Mejia",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/40",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 146,
+        "unit": "MTR",
+        "weight_kg": 155.5,
+        "value_usd": 1414.0
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 93,
+        "unit": "KGS",
+        "weight_kg": 93.0,
+        "value_usd": 64.39
+      },
+      {
+        "marks": "SLI/19",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 42,
+        "unit": "PCS",
+        "weight_kg": 8.37,
+        "value_usd": 10340.4
+      },
+      {
+        "marks": "EXP/14",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 194,
+        "unit": "PCS",
+        "weight_kg": 2598.9,
+        "value_usd": 16902.13
+      },
+      {
+        "marks": "ABC/49",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 98,
+        "unit": "CTN",
+        "weight_kg": 230.85,
+        "value_usd": 912.84
+      }
+    ],
+    "total_weight_kg": 3086.62,
+    "total_value_usd": 29633.76,
+    "service": "Ground",
+    "named_port": "London Heathrow",
+    "insurance_value_usd": 45863.33,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-847791",
+    "destination_country": "Mexico"
+  }
+}

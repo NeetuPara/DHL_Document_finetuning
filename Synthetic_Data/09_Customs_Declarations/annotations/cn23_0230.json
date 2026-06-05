@@ -1,0 +1,75 @@
+{
+  "document_id": "cn23_0230",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Amber Griffith",
+    "addressee_company": "Wright Pacific Co.",
+    "addressee_address": "8567 Roberts Squares Suite 495, East Amandachester, WY 95346, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 20.2,
+    "total_value": 3571.04,
+    "currency": "USD",
+    "issue_date": "2025-08-04",
+    "reference": "REF-893810",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.708,
+        "value": 1669.14,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 14,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.874,
+        "value": 290.64,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 9,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.78,
+        "value": 26.1,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 3,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.851,
+        "value": 439.29,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 11,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 5.0,
+        "value": 971.19,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 11,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.987,
+        "value": 174.68,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_name": "Daniel Carter",
+    "sender_company": "Tech Lewis Corp.",
+    "sender_address": "745 Richard Inlet, Phillipsmouth, DC 67984, Thailand",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 3928.14,
+    "postal_charges": 9.59,
+    "tracking_number": "WV185065859NN"
+  }
+}

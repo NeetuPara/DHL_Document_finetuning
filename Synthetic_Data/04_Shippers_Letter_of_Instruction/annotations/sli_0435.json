@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0435",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202402-9869",
+    "usppi_name": "Trade Solis Corp.",
+    "usppi_address": "36699 Wu Forge Suite 514, New Carrie, DC 01109, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "22-6675279",
+    "consignee_name": "Mclaughlin Industry B.V.",
+    "consignee_address": "8425 Lopez Skyway, Matthewmouth, FM 36942, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "International Lutz Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Ashley Sanchez",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/37",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 163,
+        "unit": "SET",
+        "weight_kg": 648.13,
+        "value_usd": 13339.61
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 92,
+        "unit": "PKG",
+        "weight_kg": 130.96,
+        "value_usd": 3453.51
+      },
+      {
+        "marks": "ABC/6",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 120,
+        "unit": "KGS",
+        "weight_kg": 120.0,
+        "value_usd": 1846.8
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 43,
+        "unit": "PCS",
+        "weight_kg": 684.99,
+        "value_usd": 18610.03
+      },
+      {
+        "marks": "SLI/11",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 181,
+        "unit": "LTR",
+        "weight_kg": 182.39,
+        "value_usd": 1566.09
+      },
+      {
+        "marks": "SLI/17",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 62,
+        "unit": "PCS",
+        "weight_kg": 43.35,
+        "value_usd": 104378.14
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 120,
+        "unit": "BOX",
+        "weight_kg": 57.68,
+        "value_usd": 5774.12
+      }
+    ],
+    "total_weight_kg": 1867.5,
+    "total_value_usd": 148968.3,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "101N",
+    "booking_ref": "BKG-658861",
+    "bl_number": "COSU765870163",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Busan, KR",
+    "container_number": "YIPM9390591",
+    "seal_number": "CL404672",
+    "container_type": "40'HC",
+    "cbm": 34.751
+  }
+}

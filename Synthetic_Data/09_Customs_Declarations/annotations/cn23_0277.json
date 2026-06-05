@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0277",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Stephen Nichols",
+    "addressee_company": "Industry Pratt AG",
+    "addressee_address": "91075 Brooke Radial Suite 247, Serranofurt, ID 82491, France",
+    "addressee_country": "France",
+    "total_weight_kg": 13.5,
+    "total_value": 5826.99,
+    "currency": "GBP",
+    "issue_date": "2026-01-16",
+    "reference": "REF-919794",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.229,
+        "value": 1139.34,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 14,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.785,
+        "value": 342.86,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 10,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.94,
+        "value": 1198.4,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 18,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.625,
+        "value": 571.14,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 2,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.635,
+        "value": 206.3,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 17,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.286,
+        "value": 2368.95,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Mr. Christopher Lawrence MD",
+    "sender_company": "Pacific Ward B.V.",
+    "sender_address": "751 Glenn Street, Lake Jenna, WA 57869, Germany",
+    "sender_phone": "7902935411",
+    "sender_email": "nelsonedward@example.org",
+    "addressee_phone": "001-215-327-8332x1126",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 38.61,
+    "tracking_number": "IN212173862UQ"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0338",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tate Commerce Inc.",
+    "shipper_address": "4769 Cochran Harbors Apt. 478, Angelborough, MN 19295, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Mack Global Ltd",
+    "consignee_address": "37232 Albert Village Apt. 394, New Johnhaven, NE 71081, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+97 353-298-7887",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 21,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 99.5,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Lori Jenkins",
+    "signature_date": "2026-05-09",
+    "signature_place": "Thailand",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "454S",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Felixstowe, GB"
+  }
+}

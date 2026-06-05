@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0528",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202311-4960",
+    "usppi_name": "Day Pacific Inc.",
+    "usppi_address": "7869 Amanda Port, Port Douglas, AR 68503, Australia",
+    "usppi_country": "Australia",
+    "ein": "32-7144686",
+    "consignee_name": "Mcintyre Trade Pte Ltd",
+    "consignee_address": "449 Julie Fields Apt. 856, East Diana, FM 62646, United States",
+    "consignee_country": "United States",
+    "notify_party": "Trade Lopez Corp.",
+    "forwarder": "Expeditors",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Suzanne Salinas",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/38",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 164,
+        "unit": "SET",
+        "weight_kg": 144.86,
+        "value_usd": 25653.0
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 170,
+        "unit": "PCS",
+        "weight_kg": 737.24,
+        "value_usd": 31564.98
+      }
+    ],
+    "total_weight_kg": 882.1,
+    "total_value_usd": 57217.98,
+    "vessel": "MSC GULSUN",
+    "voyage": "895W",
+    "booking_ref": "BKG-670000",
+    "bl_number": "OOLU402586120",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Dubai, AE",
+    "container_number": "QTIS1079712",
+    "seal_number": "SL104109",
+    "container_type": "45'HC",
+    "cbm": 10.836
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0688",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Mark Smith",
+    "addressee_company": "Martinez Industry AG",
+    "addressee_address": "Unit 4313 Box 5070, DPO AE 83881, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 0.29,
+    "total_value": 410.75,
+    "currency": "CNY",
+    "issue_date": "2026-02-13",
+    "reference": "REF-814569",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.29,
+        "value": 410.75,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_name": "Stephen White",
+    "sender_company": "Commerce Davis Co.",
+    "sender_address": "7657 Harris Islands, Jessicaton, AK 00899, United States",
+    "sender_phone": "+1-293-785-4220x046",
+    "sender_email": "sean72@example.com",
+    "addressee_phone": "+1-440-474-3370x8865",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 451.83,
+    "postal_charges": 58.53,
+    "tracking_number": "JX680744614PM"
+  }
+}

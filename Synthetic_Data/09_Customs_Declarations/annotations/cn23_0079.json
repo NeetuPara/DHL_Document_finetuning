@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0079",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Martha Acevedo",
+    "addressee_company": "Bird International Ltd",
+    "addressee_address": "47008 Arnold Loaf, South Johnmouth, TN 52738, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 8.4,
+    "total_value": 2428.7,
+    "currency": "AUD",
+    "issue_date": "2026-03-18",
+    "reference": "REF-679606",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.277,
+        "value": 1448.48,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 2,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.868,
+        "value": 41.94,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 14,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.255,
+        "value": 938.28,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Sheri Nguyen",
+    "sender_company": "Lopez Tech Co.",
+    "sender_address": "0753 Campbell Village, West Melissa, MN 12240, India",
+    "sender_phone": "865-498-3622",
+    "sender_email": "whickman@example.net",
+    "addressee_phone": "5245974630",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 34.84,
+    "tracking_number": "WZ185299770XD"
+  }
+}

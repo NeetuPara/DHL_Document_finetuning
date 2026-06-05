@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0168",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202208-6763",
+    "usppi_name": "Pacific Woods B.V.",
+    "usppi_address": "26285 Kelsey Ports, New Robertborough, WV 77751, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "42-6904140",
+    "consignee_name": "Jones International LLC",
+    "consignee_address": "440 Brock Haven, West Benjamintown, LA 61277, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Patel Pacific Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "DDP",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Tina Cherry",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/48",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 95,
+        "unit": "CTN",
+        "weight_kg": 202.95,
+        "value_usd": 927.67
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 198,
+        "unit": "BOX",
+        "weight_kg": 231.24,
+        "value_usd": 11269.58
+      }
+    ],
+    "total_weight_kg": 434.19,
+    "total_value_usd": 12197.25,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "707N",
+    "booking_ref": "BKG-977304",
+    "bl_number": "EGLV321531446",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "YLAS6569555",
+    "seal_number": "CL785738",
+    "container_type": "45'HC",
+    "cbm": 20.229
+  }
+}

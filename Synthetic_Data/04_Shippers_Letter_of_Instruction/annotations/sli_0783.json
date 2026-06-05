@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0783",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202306-3622",
+    "usppi_name": "Industry Ellis Inc.",
+    "usppi_address": "101 Matthew Turnpike Apt. 804, New Samuel, MO 14892, United States",
+    "usppi_country": "United States",
+    "ein": "98-3491172",
+    "consignee_name": "Gibson Global Corp.",
+    "consignee_address": "34809 Jennings Estates Apt. 805, New Brandonton, NH 42186, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Diaz Commerce Inc.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "David Smith",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/49",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 196,
+        "unit": "SET",
+        "weight_kg": 555.48,
+        "value_usd": 23442.36
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 145,
+        "unit": "PCS",
+        "weight_kg": 2332.48,
+        "value_usd": 49855.65
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 55,
+        "unit": "PCS",
+        "weight_kg": 25.5,
+        "value_usd": 70416.43
+      }
+    ],
+    "total_weight_kg": 2913.46,
+    "total_value_usd": 143714.44,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "390E",
+    "booking_ref": "BKG-965787",
+    "bl_number": "OOLU462686397",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Los Angeles, US",
+    "container_number": "ENWV5467898",
+    "seal_number": "SL631491",
+    "container_type": "45'HC",
+    "cbm": 12.158
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0595",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202102-6759",
+    "usppi_name": "Roberts Global Pte Ltd",
+    "usppi_address": "823 Brown Land, Port Alyssa, GU 98528, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "19-5613707",
+    "consignee_name": "International James Co.",
+    "consignee_address": "045 Daniel Dale Apt. 623, Lake Cassandramouth, MA 92604, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Tucker Global LLC",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Pamela Curtis",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/38",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 117,
+        "unit": "PCS",
+        "weight_kg": 13.43,
+        "value_usd": 5720.97
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 16,
+        "unit": "PCS",
+        "weight_kg": 8.08,
+        "value_usd": 6770.89
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 137,
+        "unit": "CTN",
+        "weight_kg": 642.87,
+        "value_usd": 3524.19
+      },
+      {
+        "marks": "EXP/14",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 182,
+        "unit": "CTN",
+        "weight_kg": 303.67,
+        "value_usd": 1304.36
+      },
+      {
+        "marks": "ABC/25",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 185,
+        "unit": "PCS",
+        "weight_kg": 274.77,
+        "value_usd": 3350.84
+      },
+      {
+        "marks": "SLI/18",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 181,
+        "unit": "PCS",
+        "weight_kg": 16.38,
+        "value_usd": 38785.82
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 147,
+        "unit": "KGS",
+        "weight_kg": 147.0,
+        "value_usd": 159.17
+      }
+    ],
+    "total_weight_kg": 1406.2,
+    "total_value_usd": 59616.24,
+    "service": "LCL Ocean",
+    "named_port": "Antwerp, BE",
+    "insurance_value_usd": 36470.46,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Canada"
+  }
+}

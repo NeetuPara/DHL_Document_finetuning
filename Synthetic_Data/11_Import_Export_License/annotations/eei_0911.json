@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0911",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250103521342",
+    "export_date": "2025-08-30",
+    "aes_option": "AES Filing",
+    "usppi_name": "Trade Stokes Pte Ltd",
+    "usppi_ein": "20-5402706",
+    "usppi_address": "USS Swanson, FPO AP 33765, Canada",
+    "ultimate_consignee": "Industry Morris Pte Ltd",
+    "intermediate_consignee": "Global Weiss S.A.",
+    "forwarding_agent": "Olson International B.V.",
+    "destination_country": "Spain",
+    "carrier": "MSC",
+    "bl_awb": "085-75830446",
+    "total_value": 18688.56,
+    "currency": "CNY",
+    "signatory": "Nicholas Taylor",
+    "line_items": [
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Australia",
+        "qty": 9,
+        "unit": "PCS",
+        "entered_value": 2116.26,
+        "duty_rate": 24.1,
+        "duty_amount": 510.02,
+        "eccn": "EAR99",
+        "schedule_b": "8534.00.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Singapore",
+        "qty": 37,
+        "unit": "PCS",
+        "entered_value": 16572.3,
+        "duty_rate": 4.3,
+        "duty_amount": 712.61,
+        "eccn": "9A515",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

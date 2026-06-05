@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0204",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-66088257",
+    "mawb_number": "057-41847639",
+    "shipper_name": "Marshall Global Inc.",
+    "shipper_address": "486 Rosales Spur, Flemingmouth, LA 47871, Canada",
+    "consignee_name": "Stafford Pacific Inc.",
+    "consignee_address": "PSC 1991, Box 4502, APO AP 36127, Switzerland",
+    "agent_name": "Mcbride Pacific Corp.",
+    "airport_departure": "ICN",
+    "airport_destination": "SYD",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "CAD 22,697.82",
+    "declared_value_customs": "AED 30,297.26",
+    "n_pieces": 35,
+    "gross_weight_kg": 332.4,
+    "chargeable_weight": 431.9,
+    "rate": 5.23,
+    "total_charge": 2258.84,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-09-15",
+    "signatory": "Matthew Bruce",
+    "iata_code": "55-628",
+    "agent_cass": "3808-7101",
+    "consolidation_ref": "CONS-8664-838916",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-27632796",
+        "pieces": 18,
+        "weight": 61.3,
+        "destination": "AMS",
+        "consignee": "Anderson Tech GmbH",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "074-39516386",
+        "pieces": 11,
+        "weight": 43.0,
+        "destination": "HKG",
+        "consignee": "Chen Pacific AG",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "006-66153321",
+        "pieces": 20,
+        "weight": 43.1,
+        "destination": "CDG",
+        "consignee": "Global Cervantes S.A.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "006-95591144",
+        "pieces": 19,
+        "weight": 54.5,
+        "destination": "AMS",
+        "consignee": "Pacific Burns Co.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "020-22445136",
+        "pieces": 18,
+        "weight": 40.3,
+        "destination": "FRA",
+        "consignee": "Pacific Brown Corp.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "020-19037676",
+        "pieces": 3,
+        "weight": 32.7,
+        "destination": "MIA",
+        "consignee": "Global Pierce GmbH",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

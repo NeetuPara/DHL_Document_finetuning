@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0970",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202503-9229",
+    "usppi_name": "Trade Lopez S.A.",
+    "usppi_address": "1345 Thomas Wells, East Lindsey, NE 33841, France",
+    "usppi_country": "France",
+    "ein": "43-4082520",
+    "consignee_name": "Trade Hudson Ltd",
+    "consignee_address": "254 Jessica Causeway, Leahview, VA 80490, India",
+    "consignee_country": "India",
+    "notify_party": "Smith Global B.V.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Dustin Kirk",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/7",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 75,
+        "unit": "CTN",
+        "weight_kg": 199.82,
+        "value_usd": 1673.08
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 141,
+        "unit": "PCS",
+        "weight_kg": 2078.6,
+        "value_usd": 63164.38
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 171,
+        "unit": "KGS",
+        "weight_kg": 171.0,
+        "value_usd": 2771.73
+      },
+      {
+        "marks": "EXP/48",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 155,
+        "unit": "PKG",
+        "weight_kg": 203.32,
+        "value_usd": 3507.16
+      },
+      {
+        "marks": "ABC/29",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 112,
+        "unit": "CTN",
+        "weight_kg": 254.27,
+        "value_usd": 1092.65
+      }
+    ],
+    "total_weight_kg": 2907.01,
+    "total_value_usd": 72209.0,
+    "service": "LCL Ocean",
+    "named_port": "Singapore, SG",
+    "insurance_value_usd": 14345.97,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-611412",
+    "destination_country": "India"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0043",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Mark Terrell",
+    "addressee_company": "Roberts Commerce AG",
+    "addressee_address": "18072 Hayes Drive Suite 711, Davisstad, AL 80413, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 5.346,
+    "total_value": 1389.79,
+    "currency": "AED",
+    "issue_date": "2026-03-14",
+    "reference": "REF-183774",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.618,
+        "value": 955.0,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 15,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.178,
+        "value": 358.35,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 4,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.55,
+        "value": 76.44,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_name": "Debra Reed",
+    "sender_company": "Young Trade LLC",
+    "sender_address": "754 Erica Extension, North Connorville, FL 12006, Belgium",
+    "sender_phone": "294-840-2034x55941",
+    "sender_email": "seanwyatt@example.org",
+    "addressee_phone": "(968)956-1191",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 1528.77,
+    "postal_charges": 17.55,
+    "tracking_number": "MB387416641ZK"
+  }
+}

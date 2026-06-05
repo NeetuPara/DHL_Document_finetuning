@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0857",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202111-4437",
+    "usppi_name": "Trade Robinson Corp.",
+    "usppi_address": "3401 Catherine Meadows Suite 107, Davidborough, WA 01138, Australia",
+    "usppi_country": "Australia",
+    "ein": "66-2052463",
+    "consignee_name": "Garrett International LLC",
+    "consignee_address": "742 Carney Port Suite 246, East Brandon, MH 61838, United States",
+    "consignee_country": "United States",
+    "notify_party": "Moore International AG",
+    "forwarder": "Panalpina",
+    "incoterm": "CPT",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Abigail Porter",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/32",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 73,
+        "unit": "PCS",
+        "weight_kg": 84.63,
+        "value_usd": 2248.88
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 180,
+        "unit": "PKG",
+        "weight_kg": 397.18,
+        "value_usd": 9390.4
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 158,
+        "unit": "LTR",
+        "weight_kg": 160.63,
+        "value_usd": 2124.31
+      }
+    ],
+    "total_weight_kg": 642.44,
+    "total_value_usd": 13763.59,
+    "service": "Ocean Freight",
+    "named_port": "Qingdao, CN",
+    "insurance_value_usd": 8748.21,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-519923",
+    "destination_country": "United States"
+  }
+}

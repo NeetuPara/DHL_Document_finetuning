@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0971",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV980211221",
+    "shipper_name": "Industry King LLC",
+    "shipper_address": "856 Christian Villages, Lake Jacob, PW 82074, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Perez International LLC",
+    "consignee_address": "9567 Perez Keys, Kaylaburgh, CO 06297, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party_name": "Global Rodriguez S.A.",
+    "notify_party_address": "04569 Schultz Village Apt. 171, Andersonberg, LA 09989, France",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "836E",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2025-01-20",
+    "issue_place": "Long Beach",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "ACNC8016466",
+        "seal_no": "SL275703",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "FMCE0119973",
+        "seal_no": "SL144401",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "JWFF4131174",
+        "seal_no": "SL690315",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 230,
+    "package_type": "Bag",
+    "gross_weight_kg": 23108.8,
+    "net_weight_kg": 22019.3,
+    "cbm": 24.641,
+    "marks_and_numbers": "XYZ/22"
+  }
+}

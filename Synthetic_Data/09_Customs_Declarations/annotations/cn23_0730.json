@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0730",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Henry Knight",
+    "addressee_company": "Robles Tech GmbH",
+    "addressee_address": "242 Christine Rue, North Alicia, MD 62790, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 10.587,
+    "total_value": 2161.42,
+    "currency": "CNY",
+    "issue_date": "2025-05-28",
+    "reference": "REF-063991",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.242,
+        "value": 343.7,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 12,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.679,
+        "value": 25.32,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 7,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.833,
+        "value": 657.72,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 19,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.833,
+        "value": 1134.68,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_name": "Dana Gonzalez",
+    "sender_company": "Commerce Banks Ltd",
+    "sender_address": "347 Davis Place Apt. 202, New Katie, MP 13195, Germany",
+    "sender_phone": "+1-259-558-7347x7984",
+    "sender_email": "kvasquez@example.com",
+    "addressee_phone": "7138961545",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 65.08,
+    "tracking_number": "ET505941155IL"
+  }
+}

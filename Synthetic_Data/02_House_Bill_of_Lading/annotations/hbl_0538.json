@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0538",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU684047539",
+    "shipper_name": "Global Rodriguez Co.",
+    "shipper_address": "USCGC Smith, FPO AE 03120, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Johnson Tech Corp.",
+    "consignee_address": "19822 Daniel Bypass, North Christinabury, RI 69456, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "Global James S.A.",
+    "notify_party_address": "278 Nancy Point, Lake Amandafort, FM 99436, Brazil",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "691W",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Tanjung Pelepas, MY",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2025-08-27",
+    "issue_place": "Long Beach",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "VIQP0073075",
+        "seal_no": "BL708993",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "MPFN3952345",
+        "seal_no": "CL198565",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "TBQW2980375",
+        "seal_no": "BL408140",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 418,
+    "package_type": "Roll",
+    "gross_weight_kg": 11101.5,
+    "net_weight_kg": 10424.8,
+    "cbm": 46.302,
+    "marks_and_numbers": "GLB/41"
+  }
+}

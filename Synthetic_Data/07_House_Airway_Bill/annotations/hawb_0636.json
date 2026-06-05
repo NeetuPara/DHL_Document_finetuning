@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0636",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-12813861",
+    "mawb_number": "057-35590280",
+    "shipper_name": "Pacific Barnett AG",
+    "shipper_address": "1253 Stephanie Trail Suite 199, North Robinborough, IN 29985, Mexico",
+    "consignee_name": "Industry Prince Corp.",
+    "consignee_address": "9497 Brown Point Suite 977, Port Douglasstad, CT 38262, Belgium",
+    "agent_name": "Industry Phillips GmbH",
+    "airport_departure": "SYD",
+    "airport_destination": "FRA",
+    "currency": "CAD",
+    "charge_code": "PP",
+    "declared_value_carriage": "CHF 32,675.96",
+    "declared_value_customs": "NCV",
+    "n_pieces": 29,
+    "gross_weight_kg": 258.5,
+    "chargeable_weight": 287.1,
+    "rate": 9.84,
+    "total_charge": 2825.06,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "HANDLING CODE: AVI",
+    "issue_date": "2026-03-22",
+    "signatory": "Nicole Hamilton",
+    "iata_code": "81-542",
+    "agent_cass": "2707-7777",
+    "consolidation_ref": "CONS-1330-990788",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-97473266",
+        "pieces": 6,
+        "weight": 53.2,
+        "destination": "CDG",
+        "consignee": "Industry Sullivan GmbH",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "618-38114687",
+        "pieces": 3,
+        "weight": 33.2,
+        "destination": "PVG",
+        "consignee": "Garcia Industry Pte Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "085-86292142",
+        "pieces": 7,
+        "weight": 69.3,
+        "destination": "PVG",
+        "consignee": "Commerce Garcia Inc.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "057-11357580",
+        "pieces": 14,
+        "weight": 43.2,
+        "destination": "SYD",
+        "consignee": "Smith Global LLC",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "125-21134804",
+        "pieces": 16,
+        "weight": 9.3,
+        "destination": "HKG",
+        "consignee": "Acevedo Tech Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "006-48231823",
+        "pieces": 5,
+        "weight": 46.8,
+        "destination": "SYD",
+        "consignee": "Flores Industry Co.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0926",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Michael Woods",
+    "addressee_company": "Global Hurst GmbH",
+    "addressee_address": "26013 Terry Canyon Apt. 188, Welchborough, MS 20751, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 17.329,
+    "total_value": 2660.92,
+    "currency": "EUR",
+    "issue_date": "2025-07-31",
+    "reference": "REF-698232",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.93,
+        "value": 1138.16,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 15,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.577,
+        "value": 793.8,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 16,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.58,
+        "value": 148.16,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 6,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.262,
+        "value": 492.6,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 3,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.98,
+        "value": 88.2,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Robert Gardner",
+    "sender_company": "Pacific Wilson LLC",
+    "sender_address": "3172 Warner Drive, East Oscarstad, IN 76115, Poland",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 2927.01,
+    "postal_charges": 35.54,
+    "tracking_number": "JV463021010SO"
+  }
+}

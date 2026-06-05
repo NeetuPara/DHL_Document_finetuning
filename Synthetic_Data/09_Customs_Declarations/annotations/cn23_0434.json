@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0434",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Sara Kim",
+    "addressee_company": "Terry Trade S.A.",
+    "addressee_address": "Unit 8035 Box 0273, DPO AA 11368, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 13.901,
+    "total_value": 1975.99,
+    "currency": "CHF",
+    "issue_date": "2026-04-30",
+    "reference": "REF-029296",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.278,
+        "value": 138.44,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 5,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.359,
+        "value": 77.2,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 2,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.757,
+        "value": 286.66,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 12,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.643,
+        "value": 1299.6,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 7,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.864,
+        "value": 174.09,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_name": "Andrew Torres",
+    "sender_company": "Industry Hughes AG",
+    "sender_address": "USCGC Steele, FPO AE 28370, Australia",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 21.59,
+    "tracking_number": "TH490679869EB"
+  }
+}

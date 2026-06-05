@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0189",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Michelle Morales",
+    "addressee_company": "Commerce Duarte GmbH",
+    "addressee_address": "782 Smith Bypass, Lake Stevenmouth, CA 41749, United Kingdom",
+    "addressee_country": "United Kingdom",
+    "total_weight_kg": 5.351,
+    "total_value": 310.14,
+    "currency": "CHF",
+    "issue_date": "2025-10-20",
+    "reference": "REF-185177",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.127,
+        "value": 9.12,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 3,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.224,
+        "value": 301.02,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_country": "Australia",
+    "port_of_entry": "Miami, FL",
+    "entry_number": "081-87760544-1",
+    "entry_type": "Informal Entry",
+    "duty_rate": 4.7,
+    "estimated_duty": 14.58,
+    "importer_ein": "65-0544353",
+    "customs_broker": "Industry Zamora Co."
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0775",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "846-95313128-2",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2025-06-27",
+    "port_of_entry": "MIA - Miami",
+    "transport_mode": "Truck",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "045-67329041",
+    "importer_name": "Industry Boyle B.V.",
+    "importer_ein": "31-7041439",
+    "consignee_name": "Huynh Tech Pte Ltd",
+    "customs_broker": "Gonzales Trade B.V.",
+    "broker_filer_code": "xeh",
+    "country_of_origin": "Singapore",
+    "total_value": 367633.52,
+    "total_duty": 34340.44,
+    "currency": "EUR",
+    "signatory": "Randall Cook",
+    "signatory_title": "Trade Finance Manager",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Canada",
+        "qty": 210,
+        "unit": "PCS",
+        "entered_value": 72246.3,
+        "duty_rate": 7.2,
+        "duty_amount": 5201.73,
+        "eccn": "7A994",
+        "schedule_b": "8483.40.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Switzerland",
+        "qty": 2,
+        "unit": "KGS",
+        "entered_value": 700.16,
+        "duty_rate": 15.0,
+        "duty_amount": 105.02,
+        "eccn": "9A515",
+        "schedule_b": "2008.19.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Australia",
+        "qty": 340,
+        "unit": "CTN",
+        "entered_value": 166637.4,
+        "duty_rate": 3.8,
+        "duty_amount": 6332.22,
+        "eccn": "5E992",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Mexico",
+        "qty": 162,
+        "unit": "LTR",
+        "entered_value": 62645.4,
+        "duty_rate": 14.0,
+        "duty_amount": 8770.36,
+        "eccn": "5E992",
+        "schedule_b": "2901.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Hong Kong",
+        "qty": 423,
+        "unit": "PCS",
+        "entered_value": 65404.26,
+        "duty_rate": 21.3,
+        "duty_amount": 13931.11,
+        "eccn": "0A919",
+        "schedule_b": "8483.40.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

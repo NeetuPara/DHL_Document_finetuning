@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0968",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU739302183",
+    "shipper_name": "Tech Lewis Inc.",
+    "shipper_address": "61454 Reed Prairie, Lake Kristinshire, PA 79520, France",
+    "shipper_country": "France",
+    "consignee_name": "Pacific Williams GmbH",
+    "consignee_address": "380 Timothy Loaf, East Gregoryland, NH 44615, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "Thomas International Inc.",
+    "notify_party_address": "465 Zavala Landing Suite 061, Reynoldsshire, OH 30688, Spain",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "207N",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Felixstowe, GB",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2025-01-29",
+    "issue_place": "Shanghai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "ZGTV3266655",
+        "seal_no": "BL523364",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "QTUI5836137",
+        "seal_no": "BL615977",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 176,
+    "package_type": "Drum",
+    "gross_weight_kg": 10422.8,
+    "net_weight_kg": 9689.1,
+    "cbm": 18.656,
+    "marks_and_numbers": "XYZ/23"
+  }
+}

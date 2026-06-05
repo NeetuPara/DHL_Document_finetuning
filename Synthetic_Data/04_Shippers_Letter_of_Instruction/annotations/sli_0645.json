@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0645",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202308-5330",
+    "usppi_name": "Jackson Industry Ltd",
+    "usppi_address": "52239 Short Bridge Suite 591, Charlesview, AZ 28842, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "53-6871343",
+    "consignee_name": "Jackson Pacific Ltd",
+    "consignee_address": "128 Samantha Circle, Port Tammy, DE 96312, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Industry Snow Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Lisa Lee",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/17",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 142,
+        "unit": "PCS",
+        "weight_kg": 2135.53,
+        "value_usd": 35616.15
+      },
+      {
+        "marks": "EXP/40",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 141,
+        "unit": "CTN",
+        "weight_kg": 503.66,
+        "value_usd": 5095.67
+      },
+      {
+        "marks": "EXP/41",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 161,
+        "unit": "PCS",
+        "weight_kg": 81.98,
+        "value_usd": 144453.37
+      },
+      {
+        "marks": "SLI/3",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 72,
+        "unit": "PCS",
+        "weight_kg": 22.28,
+        "value_usd": 2198.81
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 85,
+        "unit": "PCS",
+        "weight_kg": 5.96,
+        "value_usd": 2985.71
+      }
+    ],
+    "total_weight_kg": 2749.41,
+    "total_value_usd": 190349.71,
+    "vessel": "MSC OSCAR",
+    "voyage": "447S",
+    "booking_ref": "BKG-177319",
+    "bl_number": "COSU519156553",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Hong Kong, HK",
+    "container_number": "DDLF0689698",
+    "seal_number": "CL749023",
+    "container_type": "45'HC",
+    "cbm": 41.896
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0804",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-13559019",
+    "mawb_number": "020-59315465",
+    "shipper_name": "Rosales International Pte Ltd",
+    "shipper_address": "355 Edward Mews Suite 088, North Samantha, OK 77316, Belgium",
+    "consignee_name": "Rogers Commerce S.A.",
+    "consignee_address": "622 Armstrong Ports, Douglasside, DE 20991, Germany",
+    "agent_name": "Ingram Tech Co.",
+    "airport_departure": "SIN",
+    "airport_destination": "ORD",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "CNY 48,836.83",
+    "declared_value_customs": "USD 26,294.01",
+    "n_pieces": 37,
+    "gross_weight_kg": 168.2,
+    "chargeable_weight": 208.4,
+    "rate": 1.66,
+    "total_charge": 345.94,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "HANDLING CODE: AVI",
+    "issue_date": "2026-03-26",
+    "signatory": "Kimberly Henderson",
+    "iata_code": "61-982",
+    "agent_cass": "6394-9281",
+    "consolidation_ref": "CONS-1534-165443",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-36299957",
+        "pieces": 9,
+        "weight": 1.3,
+        "destination": "HKG",
+        "consignee": "Allen Industry GmbH",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "160-53988628",
+        "pieces": 19,
+        "weight": 98.3,
+        "destination": "LAX",
+        "consignee": "Hicks International AG",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "160-12092284",
+        "pieces": 19,
+        "weight": 49.9,
+        "destination": "LAX",
+        "consignee": "Martinez Commerce AG",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "160-88042447",
+        "pieces": 3,
+        "weight": 82.3,
+        "destination": "FRA",
+        "consignee": "Global Lopez LLC",
+        "description": "Optical Equipment - Camera Lenses"
+      }
+    ]
+  }
+}

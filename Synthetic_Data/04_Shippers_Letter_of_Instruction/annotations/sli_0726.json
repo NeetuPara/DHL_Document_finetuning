@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0726",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202307-5627",
+    "usppi_name": "White Tech AG",
+    "usppi_address": "51370 Guzman Field Apt. 624, Melissafurt, TX 17933, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "26-3012866",
+    "consignee_name": "Jones Global Co.",
+    "consignee_address": "0229 Ryan Center Suite 942, East Thomas, MD 05493, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Commerce Lucero Co.",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "Kevin Norris",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/30",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 16,
+        "unit": "PKG",
+        "weight_kg": 42.51,
+        "value_usd": 753.93
+      },
+      {
+        "marks": "SLI/40",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 81,
+        "unit": "BOX",
+        "weight_kg": 121.34,
+        "value_usd": 7071.71
+      },
+      {
+        "marks": "ABC/19",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 76,
+        "unit": "PCS",
+        "weight_kg": 29.72,
+        "value_usd": 5497.16
+      },
+      {
+        "marks": "ABC/12",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 46,
+        "unit": "LTR",
+        "weight_kg": 43.52,
+        "value_usd": 1029.09
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 104,
+        "unit": "PCS",
+        "weight_kg": 111.98,
+        "value_usd": 2617.52
+      },
+      {
+        "marks": "ABC/35",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 19,
+        "unit": "PCS",
+        "weight_kg": 22.05,
+        "value_usd": 4336.68
+      },
+      {
+        "marks": "SLI/7",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 183,
+        "unit": "PCS",
+        "weight_kg": 1450.46,
+        "value_usd": 104828.97
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 72,
+        "unit": "KGS",
+        "weight_kg": 72.0,
+        "value_usd": 447.82
+      }
+    ],
+    "total_weight_kg": 1893.58,
+    "total_value_usd": 126582.88,
+    "vessel": "MSC OSCAR",
+    "voyage": "221S",
+    "booking_ref": "BKG-549958",
+    "bl_number": "OOLU393700344",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Qingdao, CN",
+    "container_number": "TSSK0667946",
+    "seal_number": "SL943929",
+    "container_type": "45'HC",
+    "cbm": 16.374
+  }
+}

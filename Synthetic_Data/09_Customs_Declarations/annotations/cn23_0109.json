@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0109",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Michael Valdez",
+    "addressee_company": "Lewis International S.A.",
+    "addressee_address": "34329 Reese Shoal Suite 531, North Brandonville, RI 04536, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 6.347,
+    "total_value": 940.76,
+    "currency": "EUR",
+    "issue_date": "2026-04-23",
+    "reference": "REF-165336",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.256,
+        "value": 149.22,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 19,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.091,
+        "value": 791.54,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Italy"
+      }
+    ],
+    "sender_name": "Krystal Butler",
+    "sender_company": "Nelson Pacific GmbH",
+    "sender_address": "419 Jason Mall, South Charlenetown, MT 84393, United States",
+    "sender_phone": "+1-393-303-8781",
+    "sender_email": "allison26@example.org",
+    "addressee_phone": "347-929-6197x38156",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 39.44,
+    "tracking_number": "SU180132909GL"
+  }
+}

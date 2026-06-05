@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0046",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Parrish Commerce LLC",
+    "shipper_address": "USS Griffith, FPO AP 03844, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Bryant Global B.V.",
+    "consignee_address": "907 Michael Passage Suite 457, Nicholasberg, MI 19117, China",
+    "consignee_country": "China",
+    "emergency_telephone": "+13 618-243-3320",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 42,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 56.13,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-344713",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Daniel Powers",
+    "signature_date": "2026-05-11",
+    "signature_place": "Germany",
+    "awb_number": "125-11526614",
+    "flight_number": "QR4637",
+    "flight_date": "2026-05-03",
+    "departure_airport_code": "AMS",
+    "departure_airport_name": "Amsterdam Schiphol",
+    "destination_airport_code": "JFK",
+    "destination_airport_name": "JFK New York"
+  }
+}

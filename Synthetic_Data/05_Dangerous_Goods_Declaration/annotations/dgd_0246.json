@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0246",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Evans Global Corp.",
+    "shipper_address": "44003 Peterson Path Apt. 077, East Josephville, NV 15219, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Kelly International Co.",
+    "consignee_address": "USCGC Stewart, FPO AA 33905, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+80 564-265-3777",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 3,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 91.56,
+        "qty_unit": "mL",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Lisa Williams",
+    "signature_date": "2026-04-27",
+    "signature_place": "Japan",
+    "awb_number": "074-22037913",
+    "flight_number": "LH4069",
+    "departure_airport_code": "PVG",
+    "departure_airport_name": "Shanghai Pudong",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

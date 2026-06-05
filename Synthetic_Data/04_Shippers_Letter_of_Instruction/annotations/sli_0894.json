@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0894",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202208-4996",
+    "usppi_name": "Commerce Wells Ltd",
+    "usppi_address": "693 Smith Plaza, Allenton, IN 31930, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "30-5170068",
+    "consignee_name": "Fernandez International LLC",
+    "consignee_address": "Unit 2412 Box 9089, DPO AA 49129, United States",
+    "consignee_country": "United States",
+    "notify_party": "International Humphrey GmbH",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Tami Nguyen",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/39",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 66,
+        "unit": "PCS",
+        "weight_kg": 7.38,
+        "value_usd": 5469.4
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 10,
+        "unit": "PCS",
+        "weight_kg": 14.56,
+        "value_usd": 288.97
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 48,
+        "unit": "PKG",
+        "weight_kg": 37.63,
+        "value_usd": 2022.42
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 81,
+        "unit": "CTN",
+        "weight_kg": 296.43,
+        "value_usd": 1225.61
+      },
+      {
+        "marks": "EXP/42",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 167,
+        "unit": "CTN",
+        "weight_kg": 309.72,
+        "value_usd": 1146.01
+      },
+      {
+        "marks": "SLI/46",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 181,
+        "unit": "PCS",
+        "weight_kg": 27.66,
+        "value_usd": 3508.14
+      },
+      {
+        "marks": "SLI/17",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 124,
+        "unit": "KGS",
+        "weight_kg": 124.0,
+        "value_usd": 1892.12
+      }
+    ],
+    "total_weight_kg": 817.38,
+    "total_value_usd": 15552.67,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "560W",
+    "booking_ref": "BKG-383662",
+    "bl_number": "EGLV752891988",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Antwerp, BE",
+    "container_number": "GXWJ6381882",
+    "seal_number": "SL495719",
+    "container_type": "20'GP",
+    "cbm": 40.613
+  }
+}

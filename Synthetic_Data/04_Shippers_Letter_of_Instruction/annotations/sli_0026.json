@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0026",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202307-6407",
+    "usppi_name": "Pacific Sparks Ltd",
+    "usppi_address": "162 Ruiz Extensions, Pittshaven, SC 83190, United States",
+    "usppi_country": "United States",
+    "ein": "26-1924746",
+    "consignee_name": "Commerce Jones Ltd",
+    "consignee_address": "4789 Matthew Glens, Blanchardchester, WI 26653, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Pacific Martin AG",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5A002",
+    "signatory_name": "Shannon Hoffman",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/28",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 64,
+        "unit": "PCS",
+        "weight_kg": 538.94,
+        "value_usd": 6368.83
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 13,
+        "unit": "CTN",
+        "weight_kg": 11.29,
+        "value_usd": 181.15
+      },
+      {
+        "marks": "EXP/15",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 23,
+        "unit": "PCS",
+        "weight_kg": 4.91,
+        "value_usd": 15640.51
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 124,
+        "unit": "PCS",
+        "weight_kg": 83.45,
+        "value_usd": 225.69
+      }
+    ],
+    "total_weight_kg": 638.59,
+    "total_value_usd": 22416.18,
+    "service": "Air Freight",
+    "named_port": "Seoul Incheon",
+    "insurance_value_usd": 17180.85,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-814222",
+    "destination_country": "Germany"
+  }
+}

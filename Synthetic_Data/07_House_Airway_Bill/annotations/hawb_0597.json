@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0597",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-98620060",
+    "mawb_number": "074-15217634",
+    "shipper_name": "Trade Beck Pte Ltd",
+    "shipper_address": "USCGC Walls, FPO AA 55196, United States",
+    "consignee_name": "International Johnson B.V.",
+    "consignee_address": "735 Vance Pass Apt. 004, South Sergiochester, MN 23347, South Korea",
+    "agent_name": "Commerce Becker AG",
+    "airport_departure": "LAX",
+    "airport_destination": "JFK",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "CAD 2,489.15",
+    "declared_value_customs": "EUR 41,499.85",
+    "n_pieces": 32,
+    "gross_weight_kg": 350.5,
+    "chargeable_weight": 358.0,
+    "rate": 4.53,
+    "total_charge": 1621.74,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "HANDLING CODE: PER",
+    "issue_date": "2025-12-12",
+    "signatory": "Joseph Adams",
+    "iata_code": "34-218",
+    "agent_cass": "7645-0449",
+    "consolidation_ref": "CONS-1968-645968",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-40213811",
+        "pieces": 10,
+        "weight": 59.7,
+        "destination": "JFK",
+        "consignee": "Vazquez Industry S.A.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "020-62597935",
+        "pieces": 8,
+        "weight": 17.7,
+        "destination": "DXB",
+        "consignee": "Hendrix Tech S.A.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "057-97808162",
+        "pieces": 14,
+        "weight": 50.3,
+        "destination": "SYD",
+        "consignee": "Global Jackson B.V.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "160-13133779",
+        "pieces": 8,
+        "weight": 7.7,
+        "destination": "DXB",
+        "consignee": "Sullivan Trade LLC",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "006-11828784",
+        "pieces": 15,
+        "weight": 81.6,
+        "destination": "SYD",
+        "consignee": "Morgan Pacific Corp.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "176-74086625",
+        "pieces": 20,
+        "weight": 10.1,
+        "destination": "LHR",
+        "consignee": "Fleming International Corp.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "618-67372099",
+        "pieces": 9,
+        "weight": 18.4,
+        "destination": "ORD",
+        "consignee": "Commerce Clay Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "020-23307982",
+        "pieces": 2,
+        "weight": 20.7,
+        "destination": "ICN",
+        "consignee": "Trade Smith Co.",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

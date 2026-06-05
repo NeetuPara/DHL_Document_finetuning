@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0355",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Barry Hunt",
+    "addressee_company": "Williams Industry Inc.",
+    "addressee_address": "USS Galloway, FPO AP 25238, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 17.811,
+    "total_value": 3184.03,
+    "currency": "CNY",
+    "issue_date": "2025-08-03",
+    "reference": "REF-343013",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.69,
+        "value": 553.5,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 14,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.438,
+        "value": 1279.74,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 5,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.771,
+        "value": 249.9,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 17,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.964,
+        "value": 186.66,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 18,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.929,
+        "value": 719.28,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 7,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.019,
+        "value": 194.95,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Switzerland"
+      }
+    ],
+    "sender_name": "William Campbell",
+    "sender_company": "Moreno Pacific Pte Ltd",
+    "sender_address": "2101 Margaret Crossing Suite 670, South Christopher, AS 00533, Spain",
+    "sender_phone": "7478761755",
+    "sender_email": "coreygalvan@example.org",
+    "addressee_phone": "444-220-9682x68713",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 3502.43,
+    "postal_charges": 55.25,
+    "tracking_number": "LB607611032TX"
+  }
+}

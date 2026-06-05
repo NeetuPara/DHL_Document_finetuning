@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0277",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Vega Inc.",
+    "shipper_address": "585 Jennifer Row Suite 535, Jordanborough, IA 84011, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Global Michael B.V.",
+    "consignee_address": "2697 Cynthia Villages, New Courtneyton, SD 55892, Thailand",
+    "consignee_country": "Thailand",
+    "emergency_telephone": "+41 512-895-6723",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 35,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 15.26,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-864900",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 24,
+        "pkg_type": "Steel Drum",
+        "net_qty": 97.41,
+        "qty_unit": "L",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Vanessa Hill",
+    "signature_date": "2026-04-16",
+    "signature_place": "Netherlands",
+    "awb_number": "085-82509836",
+    "flight_number": "CX6529",
+    "flight_date": "2026-04-21",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson"
+  }
+}

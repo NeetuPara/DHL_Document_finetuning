@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0109",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU511603999",
+    "shipper_name": "Industry Harrison Co.",
+    "shipper_address": "31002 Andrew Shoals Suite 263, Deleonfort, IA 54317, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Trade Patterson LLC",
+    "consignee_address": "126 Bailey Loop Suite 250, East Charles, FM 84766, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party_name": "Pacific Powell S.A.",
+    "notify_party_address": "527 Katherine Manors, South Edward, HI 80582, Switzerland",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "711W",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Qingdao, CN",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2024-10-31",
+    "issue_place": "Singapore",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "BIXI1978893",
+        "seal_no": "BL973130",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "GPUL8701414",
+        "seal_no": "CL821114",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "number_of_packages": 11,
+    "package_type": "Bundle",
+    "gross_weight_kg": 9720.5,
+    "net_weight_kg": 8629.7,
+    "cbm": 0.927,
+    "marks_and_numbers": "ABC/10"
+  }
+}

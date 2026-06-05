@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0675",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202212-4969",
+    "usppi_name": "Mcfarland International GmbH",
+    "usppi_address": "5959 Jennifer Prairie, Lake Bethview, LA 97682, Australia",
+    "usppi_country": "Australia",
+    "ein": "71-4059508",
+    "consignee_name": "Trade Wright S.A.",
+    "consignee_address": "085 Drake Crossroad Apt. 923, Patelland, DE 80003, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Austin Commerce Corp.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Yvette Lucas",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/19",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 71,
+        "unit": "SET",
+        "weight_kg": 144.64,
+        "value_usd": 12476.57
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 78,
+        "unit": "BOX",
+        "weight_kg": 149.77,
+        "value_usd": 1817.87
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 187,
+        "unit": "KGS",
+        "weight_kg": 187.0,
+        "value_usd": 2090.91
+      },
+      {
+        "marks": "SLI/46",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 170,
+        "unit": "PCS",
+        "weight_kg": 14.61,
+        "value_usd": 33311.09
+      },
+      {
+        "marks": "EXP/15",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 171,
+        "unit": "PCS",
+        "weight_kg": 1518.82,
+        "value_usd": 34400.34
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 25,
+        "unit": "PKG",
+        "weight_kg": 21.4,
+        "value_usd": 207.63
+      },
+      {
+        "marks": "SLI/20",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 58,
+        "unit": "CTN",
+        "weight_kg": 99.99,
+        "value_usd": 3982.75
+      }
+    ],
+    "total_weight_kg": 2136.23,
+    "total_value_usd": 88287.16,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "439W",
+    "booking_ref": "BKG-218081",
+    "bl_number": "YMLU506727008",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Hamburg, DE",
+    "container_number": "SECA0676647",
+    "seal_number": "CL285009",
+    "container_type": "20'GP",
+    "cbm": 28.17
+  }
+}

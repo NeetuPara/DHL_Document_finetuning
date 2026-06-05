@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0127",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202405-1800",
+    "usppi_name": "Huber International Inc.",
+    "usppi_address": "3978 Fisher Station, South Christopher, KY 53884, India",
+    "usppi_country": "India",
+    "ein": "53-6164756",
+    "consignee_name": "Fletcher Global Ltd",
+    "consignee_address": "Unit 6365 Box 1866, DPO AA 50007, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Carr Industry AG",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Susan Jones",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/24",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 67,
+        "unit": "PCS",
+        "weight_kg": 30.25,
+        "value_usd": 1910.38
+      },
+      {
+        "marks": "EXP/40",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 139,
+        "unit": "CTN",
+        "weight_kg": 610.85,
+        "value_usd": 10774.16
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 73,
+        "unit": "CTN",
+        "weight_kg": 103.71,
+        "value_usd": 1059.54
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 54,
+        "unit": "KGS",
+        "weight_kg": 54.0,
+        "value_usd": 221.45
+      },
+      {
+        "marks": "EXP/7",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 170,
+        "unit": "PKG",
+        "weight_kg": 267.45,
+        "value_usd": 5124.82
+      },
+      {
+        "marks": "ABC/19",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 51,
+        "unit": "MTR",
+        "weight_kg": 22.76,
+        "value_usd": 442.02
+      },
+      {
+        "marks": "SLI/14",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 35,
+        "unit": "PCS",
+        "weight_kg": 41.91,
+        "value_usd": 43769.66
+      }
+    ],
+    "total_weight_kg": 1130.93,
+    "total_value_usd": 63302.03,
+    "service": "Air Freight",
+    "named_port": "Shanghai Pudong",
+    "insurance_value_usd": 18901.66,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Singapore"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0822",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202311-8424",
+    "usppi_name": "Lee Industry B.V.",
+    "usppi_address": "PSC 6181, Box 9383, APO AP 10279, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "32-3280982",
+    "consignee_name": "Tech Alvarado GmbH",
+    "consignee_address": "65450 Oneal Vista Suite 667, East Darin, CT 44624, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Global Hester Inc.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Paul Hall",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/13",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 153,
+        "unit": "PKG",
+        "weight_kg": 166.69,
+        "value_usd": 11756.88
+      },
+      {
+        "marks": "ABC/12",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 26,
+        "unit": "KGS",
+        "weight_kg": 26.0,
+        "value_usd": 64.57
+      },
+      {
+        "marks": "ABC/7",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 180,
+        "unit": "MTR",
+        "weight_kg": 120.25,
+        "value_usd": 2143.24
+      },
+      {
+        "marks": "ABC/5",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 93,
+        "unit": "CTN",
+        "weight_kg": 141.24,
+        "value_usd": 1854.02
+      },
+      {
+        "marks": "ABC/25",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 32,
+        "unit": "CTN",
+        "weight_kg": 38.21,
+        "value_usd": 121.5
+      },
+      {
+        "marks": "ABC/10",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 200,
+        "unit": "PCS",
+        "weight_kg": 14.26,
+        "value_usd": 8745.95
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 134,
+        "unit": "PCS",
+        "weight_kg": 1529.61,
+        "value_usd": 56982.44
+      }
+    ],
+    "total_weight_kg": 2036.26,
+    "total_value_usd": 81668.6,
+    "vessel": "ONE INNOVATION",
+    "voyage": "600N",
+    "booking_ref": "BKG-743896",
+    "bl_number": "DHLG878444730",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "RAFA0872553",
+    "seal_number": "CL810302",
+    "container_type": "45'HC",
+    "cbm": 59.63
+  }
+}

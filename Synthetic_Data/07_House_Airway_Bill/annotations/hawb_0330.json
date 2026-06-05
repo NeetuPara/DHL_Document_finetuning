@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0330",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-56033902",
+    "mawb_number": "020-54269525",
+    "shipper_name": "Brown International AG",
+    "shipper_address": "203 Erik Plains, South Richardburgh, PR 15587, Belgium",
+    "consignee_name": "Trade Henderson S.A.",
+    "consignee_address": "Unit 4345 Box 6583, DPO AE 97095, Hong Kong",
+    "agent_name": "Global Huffman S.A.",
+    "airport_departure": "FRA",
+    "airport_destination": "JFK",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "GBP 16,928.97",
+    "declared_value_customs": "EUR 24,130.61",
+    "n_pieces": 45,
+    "gross_weight_kg": 168.2,
+    "chargeable_weight": 182.8,
+    "rate": 5.46,
+    "total_charge": 998.09,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-05-13",
+    "signatory": "Kimberly Carroll",
+    "iata_code": "19-815",
+    "agent_cass": "5630-0430",
+    "consolidation_ref": "CONS-2641-190060",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-29656326",
+        "pieces": 18,
+        "weight": 58.9,
+        "destination": "HKG",
+        "consignee": "Smith Pacific S.A.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "160-45106679",
+        "pieces": 17,
+        "weight": 69.8,
+        "destination": "LHR",
+        "consignee": "Commerce Gibbs Corp.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "160-30811100",
+        "pieces": 14,
+        "weight": 57.7,
+        "destination": "DXB",
+        "consignee": "Commerce Gonzalez S.A.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "160-72577345",
+        "pieces": 4,
+        "weight": 2.5,
+        "destination": "YYZ",
+        "consignee": "Lynch Industry S.A.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "045-76582364",
+        "pieces": 12,
+        "weight": 71.5,
+        "destination": "NRT",
+        "consignee": "White Tech GmbH",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "006-84795998",
+        "pieces": 17,
+        "weight": 60.0,
+        "destination": "YYZ",
+        "consignee": "Tech Lee Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

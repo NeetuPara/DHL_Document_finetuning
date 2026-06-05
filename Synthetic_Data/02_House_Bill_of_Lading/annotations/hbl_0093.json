@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0093",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV966255394",
+    "shipper_name": "Global Brown GmbH",
+    "shipper_address": "865 Christopher Hill Suite 894, West Lisa, ME 21919, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Tech Tucker Corp.",
+    "consignee_address": "77341 Alexis Plain Suite 280, Brettport, ME 05367, Italy",
+    "consignee_country": "Italy",
+    "notify_party_name": "Stewart Global Corp.",
+    "notify_party_address": "49758 Stephanie Hill Suite 982, Morrisborough, AL 31745, Japan",
+    "vessel": "CSCL GLOBE",
+    "voyage": "961S",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Hamburg, DE",
+    "issue_date": "2024-08-17",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "LOTW6010086",
+        "seal_no": "SL173237",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "PWFY2384868",
+        "seal_no": "CL705010",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "LCUM3040514",
+        "seal_no": "BL937542",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 462,
+    "package_type": "Roll",
+    "gross_weight_kg": 7614.6,
+    "net_weight_kg": 6746.8,
+    "cbm": 52.325,
+    "marks_and_numbers": "GLB/40"
+  }
+}

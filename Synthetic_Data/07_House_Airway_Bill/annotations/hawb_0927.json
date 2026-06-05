@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0927",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-46310502",
+    "mawb_number": "125-25166171",
+    "shipper_name": "International Fisher Inc.",
+    "shipper_address": "117 Gomez Mission Suite 703, New Larryshire, MI 08836, Mexico",
+    "consignee_name": "Harvey Tech LLC",
+    "consignee_address": "2151 Anderson Field, New Virginiafort, VA 79036, China",
+    "agent_name": "Evans Industry LLC",
+    "airport_departure": "HKG",
+    "airport_destination": "FRA",
+    "currency": "CHF",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 17,
+    "gross_weight_kg": 129.3,
+    "chargeable_weight": 151.6,
+    "rate": 7.76,
+    "total_charge": 1176.42,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-06-20",
+    "signatory": "Julia Hudson",
+    "iata_code": "81-412",
+    "agent_cass": "9191-3611",
+    "consolidation_ref": "CONS-3905-835468",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-34311926",
+        "pieces": 16,
+        "weight": 38.1,
+        "destination": "NRT",
+        "consignee": "Trade Goodwin Pte Ltd",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "006-95949814",
+        "pieces": 13,
+        "weight": 65.9,
+        "destination": "SIN",
+        "consignee": "Yates Global Co.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "045-32686809",
+        "pieces": 3,
+        "weight": 44.2,
+        "destination": "ICN",
+        "consignee": "Spencer Pacific GmbH",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "006-61450958",
+        "pieces": 19,
+        "weight": 26.6,
+        "destination": "LHR",
+        "consignee": "Global Trevino Corp.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "074-51933930",
+        "pieces": 6,
+        "weight": 97.8,
+        "destination": "LAX",
+        "consignee": "Bell Tech GmbH",
+        "description": "Optical Equipment - Camera Lenses"
+      }
+    ]
+  }
+}

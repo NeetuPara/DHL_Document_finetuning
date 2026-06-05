@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0611",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV546109930",
+    "shipper_name": "Wilson Tech Co.",
+    "shipper_address": "147 Sophia Port, Port Janet, NH 40204, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Richardson Tech AG",
+    "consignee_address": "365 Lee Vista Apt. 969, New Jerry, MN 52538, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "Pacific Trujillo Pte Ltd",
+    "notify_party_address": "79996 Henderson Tunnel Apt. 235, Kimton, FL 55536, France",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "910E",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2025-07-22",
+    "issue_place": "Felixstowe",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "RGNJ3095755",
+        "seal_no": "BL950744",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "JRMS5467522",
+        "seal_no": "SL126214",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "CKAJ4141333",
+        "seal_no": "SL596607",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "number_of_packages": 177,
+    "package_type": "Crate",
+    "gross_weight_kg": 8001.3,
+    "net_weight_kg": 7262.0,
+    "cbm": 7.772,
+    "marks_and_numbers": "GLB/30"
+  }
+}

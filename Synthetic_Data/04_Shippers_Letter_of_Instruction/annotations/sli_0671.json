@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0671",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202311-7000",
+    "usppi_name": "Bush Industry AG",
+    "usppi_address": "712 Simpson Knolls, Butlerland, TN 63843, Italy",
+    "usppi_country": "Italy",
+    "ein": "68-5267685",
+    "consignee_name": "Trade Campos Inc.",
+    "consignee_address": "9305 Sara Fort, Jessicamouth, SD 66812, France",
+    "consignee_country": "France",
+    "notify_party": "Global Johnson Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Bradley Stephens",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/12",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 150,
+        "unit": "PCS",
+        "weight_kg": 15.79,
+        "value_usd": 8903.9
+      },
+      {
+        "marks": "EXP/33",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 157,
+        "unit": "CTN",
+        "weight_kg": 471.24,
+        "value_usd": 7190.29
+      },
+      {
+        "marks": "ABC/31",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 152,
+        "unit": "PCS",
+        "weight_kg": 17.75,
+        "value_usd": 2839.22
+      },
+      {
+        "marks": "SLI/18",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 8,
+        "unit": "BOX",
+        "weight_kg": 6.17,
+        "value_usd": 299.82
+      },
+      {
+        "marks": "ABC/31",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 57,
+        "unit": "KGS",
+        "weight_kg": 57.0,
+        "value_usd": 89.35
+      },
+      {
+        "marks": "EXP/9",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 116,
+        "unit": "PCS",
+        "weight_kg": 34.29,
+        "value_usd": 156881.38
+      },
+      {
+        "marks": "SLI/21",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 36,
+        "unit": "PCS",
+        "weight_kg": 484.85,
+        "value_usd": 8941.1
+      },
+      {
+        "marks": "EXP/12",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 186,
+        "unit": "PKG",
+        "weight_kg": 331.08,
+        "value_usd": 9119.19
+      }
+    ],
+    "total_weight_kg": 1418.17,
+    "total_value_usd": 194264.25,
+    "service": "LCL Ocean",
+    "named_port": "Antwerp, BE",
+    "insurance_value_usd": 33746.49,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-234167",
+    "destination_country": "France"
+  }
+}

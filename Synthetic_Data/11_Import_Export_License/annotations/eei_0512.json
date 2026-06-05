@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0512",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220308316832",
+    "export_date": "2026-01-24",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Hansen Commerce LLC",
+    "usppi_ein": "26-8858009",
+    "usppi_address": "USNS Hughes, FPO AE 81116, Thailand",
+    "ultimate_consignee": "Jarvis Tech Corp.",
+    "intermediate_consignee": "Pacific Sanchez S.A.",
+    "forwarding_agent": "Industry Elliott Co.",
+    "destination_country": "Canada",
+    "carrier": "UPS",
+    "bl_awb": "160-57371706",
+    "total_value": 164652.81,
+    "currency": "CAD",
+    "signatory": "Christine Stone",
+    "line_items": [
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Japan",
+        "qty": 281,
+        "unit": "PCS",
+        "entered_value": 23696.73,
+        "duty_rate": 17.4,
+        "duty_amount": 4123.23,
+        "eccn": "EAR99",
+        "schedule_b": "8534.00.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Hong Kong",
+        "qty": 60,
+        "unit": "MTR",
+        "entered_value": 28441.8,
+        "duty_rate": 6.5,
+        "duty_amount": 1848.72,
+        "eccn": "2B350",
+        "schedule_b": "5407.42.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Germany",
+        "qty": 397,
+        "unit": "KGS",
+        "entered_value": 80051.08,
+        "duty_rate": 3.1,
+        "duty_amount": 2481.58,
+        "eccn": "1A002",
+        "schedule_b": "2008.19.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Sweden",
+        "qty": 341,
+        "unit": "MTR",
+        "entered_value": 32463.2,
+        "duty_rate": 8.3,
+        "duty_amount": 2694.45,
+        "eccn": "5E992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

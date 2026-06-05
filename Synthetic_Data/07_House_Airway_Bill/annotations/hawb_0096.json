@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0096",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-98097479",
+    "mawb_number": "176-64329596",
+    "shipper_name": "Kim Global Corp.",
+    "shipper_address": "835 Bowen Run Suite 246, West Nicholas, CA 20611, Belgium",
+    "consignee_name": "Wilkins Industry Co.",
+    "consignee_address": "872 Hughes Stravenue, Lake Nathanton, HI 89611, Germany",
+    "agent_name": "David Tech Co.",
+    "airport_departure": "SIN",
+    "airport_destination": "YYZ",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 10,
+    "gross_weight_kg": 456.1,
+    "chargeable_weight": 475.0,
+    "rate": 8.1,
+    "total_charge": 3847.5,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "HANDLING CODE: DGR",
+    "issue_date": "2026-04-23",
+    "signatory": "Ronald Copeland",
+    "iata_code": "22-522",
+    "agent_cass": "4901-1506",
+    "consolidation_ref": "CONS-0393-544398",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-91406592",
+        "pieces": 7,
+        "weight": 3.8,
+        "destination": "FRA",
+        "consignee": "Rivera Tech AG",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "618-40645596",
+        "pieces": 7,
+        "weight": 44.8,
+        "destination": "AMS",
+        "consignee": "Commerce Frost Co.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "057-11129375",
+        "pieces": 12,
+        "weight": 43.8,
+        "destination": "SYD",
+        "consignee": "Bell International LLC",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

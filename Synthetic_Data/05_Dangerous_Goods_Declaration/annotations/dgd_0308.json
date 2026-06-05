@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0308",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Clark Corp.",
+    "shipper_address": "62007 Campbell Underpass Suite 263, Santosland, CA 74057, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Tech Dunn B.V.",
+    "consignee_address": "052 Knight Plaza, Port Elizabethfurt, KS 87741, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+37 144-681-3825",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 36,
+        "pkg_type": "Steel Drum",
+        "net_qty": 20.42,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 13,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 13.73,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Erica Hartman",
+    "signature_date": "2026-04-20",
+    "signature_place": "Hong Kong",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "106N",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Antwerp, BE"
+  }
+}

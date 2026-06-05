@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0380",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Colin Mcintosh",
+    "addressee_company": "Garner Tech S.A.",
+    "addressee_address": "92595 Shannon Village Suite 356, Gilesmouth, AK 21093, Brazil",
+    "addressee_country": "Brazil",
+    "total_weight_kg": 3.515,
+    "total_value": 157.76,
+    "currency": "SGD",
+    "issue_date": "2025-08-02",
+    "reference": "REF-936356",
+    "line_items": [
+      {
+        "qty": 16,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.515,
+        "value": 157.76,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Poland"
+      }
+    ],
+    "sender_name": "Ariel Lopez",
+    "sender_company": "Logan Tech S.A.",
+    "sender_address": "589 Stacy Point, West Garyberg, WY 65108, Spain",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 17.66,
+    "tracking_number": "BP662521696UH"
+  }
+}

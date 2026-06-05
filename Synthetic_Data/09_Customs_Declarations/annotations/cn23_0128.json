@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0128",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jacqueline Garcia",
+    "addressee_company": "Global Schneider Co.",
+    "addressee_address": "39500 Watkins Plaza Apt. 565, Lake Scottburgh, ND 95627, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 7.16,
+    "total_value": 337.03,
+    "currency": "SGD",
+    "issue_date": "2025-08-18",
+    "reference": "REF-757904",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.823,
+        "value": 273.63,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 20,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.337,
+        "value": 63.4,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_name": "John Davis",
+    "sender_company": "Global Williams GmbH",
+    "sender_address": "038 Vargas Brooks Suite 180, North Michael, RI 98233, Sweden",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 63.15,
+    "tracking_number": "CN720041441HR"
+  }
+}

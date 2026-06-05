@@ -1,0 +1,40 @@
+{
+  "packet_id": "packet_0196",
+  "total_pages": 3,
+  "n_documents": 3,
+  "class_sequence": [
+    "Import/Export License",
+    "Certificate of Origin",
+    "Commercial Invoice"
+  ],
+  "documents": [
+    {
+      "doc_class": "Import/Export License",
+      "class_index": 11,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "eei_0705.pdf",
+      "source_class_folder": "11_Import_Export_License"
+    },
+    {
+      "doc_class": "Certificate of Origin",
+      "class_index": 3,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "coo_0315.pdf",
+      "source_class_folder": "03_Certificate_of_Origin"
+    },
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "commercial_invoice_0003.pdf",
+      "source_class_folder": "01_Commercial_Invoice"
+    }
+  ],
+  "task": "splitting"
+}

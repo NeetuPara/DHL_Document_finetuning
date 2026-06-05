@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0503",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Johnson GmbH",
+    "shipper_address": "11254 Elizabeth Grove, Higginschester, KS 41319, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Long Global S.A.",
+    "consignee_address": "566 Murphy Manors, South Kathymouth, VI 95949, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+73 464-774-1024",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 48,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 78.47,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-399727",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 15,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 63.12,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Steven Gonzales",
+    "signature_date": "2026-05-04",
+    "signature_place": "South Korea",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "602E",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Long Beach, US"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0519",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-74758580",
+    "mawb_number": "618-79637287",
+    "shipper_name": "International Sullivan LLC",
+    "shipper_address": "8665 Michael Row, Fitzgeraldfort, MA 30244, Mexico",
+    "consignee_name": "Kennedy Industry GmbH",
+    "consignee_address": "36130 Robert Brook, Bradton, FM 54262, India",
+    "agent_name": "Pacific Robertson Ltd",
+    "airport_departure": "ORD",
+    "airport_destination": "LHR",
+    "currency": "AED",
+    "charge_code": "CC",
+    "declared_value_carriage": "EUR 45,591.93",
+    "declared_value_customs": "CAD 37,069.50",
+    "n_pieces": 13,
+    "gross_weight_kg": 436.0,
+    "chargeable_weight": 556.2,
+    "rate": 5.6,
+    "total_charge": 3114.72,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-06-13",
+    "signatory": "Madison Davis",
+    "iata_code": "64-698",
+    "agent_cass": "9058-2367",
+    "consolidation_ref": "CONS-7372-386713",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-20564040",
+        "pieces": 19,
+        "weight": 12.8,
+        "destination": "ICN",
+        "consignee": "Tech Lindsey LLC",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "176-97430217",
+        "pieces": 10,
+        "weight": 30.6,
+        "destination": "FRA",
+        "consignee": "Tech Le LLC",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "160-21037169",
+        "pieces": 9,
+        "weight": 9.0,
+        "destination": "LAX",
+        "consignee": "Commerce Snyder Co.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "176-67701940",
+        "pieces": 20,
+        "weight": 21.7,
+        "destination": "MIA",
+        "consignee": "Lawrence International AG",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "057-55385252",
+        "pieces": 14,
+        "weight": 36.8,
+        "destination": "NRT",
+        "consignee": "Trade Herrera B.V.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "618-77374258",
+        "pieces": 7,
+        "weight": 86.0,
+        "destination": "HKG",
+        "consignee": "Burns Industry B.V.",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

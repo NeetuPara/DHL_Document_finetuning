@@ -1,0 +1,40 @@
+{
+  "packet_id": "packet_1379",
+  "total_pages": 3,
+  "n_documents": 3,
+  "class_sequence": [
+    "Commercial Invoice",
+    "House Airway Bill",
+    "Packing List"
+  ],
+  "documents": [
+    {
+      "doc_class": "Commercial Invoice",
+      "class_index": 1,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "commercial_invoice_0630.pdf",
+      "source_class_folder": "01_Commercial_Invoice"
+    },
+    {
+      "doc_class": "House Airway Bill",
+      "class_index": 7,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "hawb_0797.pdf",
+      "source_class_folder": "07_House_Airway_Bill"
+    },
+    {
+      "doc_class": "Packing List",
+      "class_index": 8,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "packing_list_0621.pdf",
+      "source_class_folder": "08_Packing_List"
+    }
+  ],
+  "task": "splitting"
+}

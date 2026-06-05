@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0298",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202505-9401",
+    "usppi_name": "Trade Mcgee Pte Ltd",
+    "usppi_address": "4130 Holly Place Apt. 242, Josephbury, NJ 03385, Canada",
+    "usppi_country": "Canada",
+    "ein": "47-9700832",
+    "consignee_name": "Ward Tech B.V.",
+    "consignee_address": "001 Martinez Squares, New Wesley, FL 90556, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Trade Walton Co.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIF",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Thomas Johnson",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/38",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 178,
+        "unit": "KGS",
+        "weight_kg": 178.0,
+        "value_usd": 233.69
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 69,
+        "unit": "MTR",
+        "weight_kg": 44.73,
+        "value_usd": 782.17
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 80,
+        "unit": "SET",
+        "weight_kg": 232.7,
+        "value_usd": 6812.61
+      },
+      {
+        "marks": "ABC/21",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 199,
+        "unit": "CTN",
+        "weight_kg": 168.41,
+        "value_usd": 2858.96
+      },
+      {
+        "marks": "ABC/35",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 49,
+        "unit": "CTN",
+        "weight_kg": 203.66,
+        "value_usd": 1034.93
+      },
+      {
+        "marks": "SLI/3",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 73,
+        "unit": "PCS",
+        "weight_kg": 344.35,
+        "value_usd": 13272.86
+      },
+      {
+        "marks": "EXP/36",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 62,
+        "unit": "PCS",
+        "weight_kg": 27.78,
+        "value_usd": 10634.89
+      },
+      {
+        "marks": "ABC/37",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 147,
+        "unit": "PKG",
+        "weight_kg": 129.6,
+        "value_usd": 8587.08
+      }
+    ],
+    "total_weight_kg": 1329.23,
+    "total_value_usd": 44217.19,
+    "service": "Air Freight",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 24112.93,
+    "license_type": "Distributor License",
+    "license_number": "LIC-677488",
+    "destination_country": "Singapore"
+  }
+}

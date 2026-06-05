@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0201",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU813094655",
+    "shipper_name": "Salas Trade B.V.",
+    "shipper_address": "35188 Rios Hollow Suite 586, Lake Danielle, ID 25495, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Lee Commerce Corp.",
+    "consignee_address": "7404 Mcdaniel Manors Suite 404, Lake Andrea, OH 38321, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party_name": "Pacific Murray Ltd",
+    "notify_party_address": "03172 Williams Point Suite 339, Simmonsfurt, MI 25458, South Korea",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "684W",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2026-03-20",
+    "issue_place": "Hamburg",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "QSIE6066037",
+        "seal_no": "CL840102",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "ZPBX1178897",
+        "seal_no": "CL154223",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 307,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 20585.8,
+    "net_weight_kg": 18747.2,
+    "cbm": 32.419,
+    "marks_and_numbers": "GLB/44"
+  }
+}

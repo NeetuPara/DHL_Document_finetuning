@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0885",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-50286962",
+    "mawb_number": "020-47860134",
+    "shipper_name": "Tech Wilson Pte Ltd",
+    "shipper_address": "9643 Antonio Underpass, South Jacobshire, AZ 69668, Netherlands",
+    "consignee_name": "Industry Mccoy AG",
+    "consignee_address": "99109 Bennett Roads, Baileymouth, WA 37582, Sweden",
+    "agent_name": "Pacific Bass S.A.",
+    "airport_departure": "LHR",
+    "airport_destination": "PVG",
+    "currency": "AED",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "AED 28,994.31",
+    "n_pieces": 20,
+    "gross_weight_kg": 474.6,
+    "chargeable_weight": 566.5,
+    "rate": 5.85,
+    "total_charge": 3314.02,
+    "nature_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-03-27",
+    "signatory": "Veronica Crawford",
+    "iata_code": "22-659",
+    "agent_cass": "4531-3945",
+    "consolidation_ref": "CONS-4751-112635",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-64516067",
+        "pieces": 14,
+        "weight": 58.8,
+        "destination": "SIN",
+        "consignee": "International Hinton B.V.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "618-35814789",
+        "pieces": 12,
+        "weight": 66.8,
+        "destination": "LHR",
+        "consignee": "Long Commerce LLC",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "176-76428575",
+        "pieces": 17,
+        "weight": 48.2,
+        "destination": "NRT",
+        "consignee": "Moran Trade Inc.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "176-88604078",
+        "pieces": 19,
+        "weight": 21.3,
+        "destination": "SYD",
+        "consignee": "Dunn Commerce Co.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "057-38764690",
+        "pieces": 19,
+        "weight": 49.4,
+        "destination": "JFK",
+        "consignee": "Pacific Young AG",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

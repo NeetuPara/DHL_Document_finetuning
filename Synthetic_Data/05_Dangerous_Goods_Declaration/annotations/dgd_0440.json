@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0440",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Murphy S.A.",
+    "shipper_address": "USNS Velasquez, FPO AA 99050, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Pacific Jordan Corp.",
+    "consignee_address": "7741 Cervantes Lane, Loriland, LA 87174, Switzerland",
+    "consignee_country": "Switzerland",
+    "emergency_telephone": "+69 675-860-5834",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 29,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 80.08,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-800192",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "James Clay MD",
+    "signature_date": "2026-05-07",
+    "signature_place": "Poland",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "961N",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Hong Kong, HK"
+  }
+}

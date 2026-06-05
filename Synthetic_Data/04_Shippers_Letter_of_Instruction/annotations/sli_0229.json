@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0229",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202304-1919",
+    "usppi_name": "Global Clark Pte Ltd",
+    "usppi_address": "3438 Kristin Estate Suite 914, Brownport, MH 44387, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "91-1782767",
+    "consignee_name": "Trade Davis B.V.",
+    "consignee_address": "70900 Timothy Drives Apt. 853, Chambersstad, NY 29409, India",
+    "consignee_country": "India",
+    "notify_party": "Industry Davis B.V.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Melissa Munoz",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/20",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 100,
+        "unit": "PCS",
+        "weight_kg": 141.16,
+        "value_usd": 111618.73
+      },
+      {
+        "marks": "EXP/22",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 166,
+        "unit": "LTR",
+        "weight_kg": 164.91,
+        "value_usd": 5187.39
+      }
+    ],
+    "total_weight_kg": 306.07,
+    "total_value_usd": 116806.12,
+    "service": "Air Freight",
+    "named_port": "Miami International",
+    "insurance_value_usd": 1099.6,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "India"
+  }
+}

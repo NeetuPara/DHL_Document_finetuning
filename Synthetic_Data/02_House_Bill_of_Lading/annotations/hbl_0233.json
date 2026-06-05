@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0233",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU611909150",
+    "shipper_name": "Lewis Trade AG",
+    "shipper_address": "404 Williams Lights, Lake Jennifer, RI 24737, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Tech Scott Ltd",
+    "consignee_address": "7337 Trevino Trace Suite 240, Stacymouth, FL 52532, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party_name": "Tech Matthews S.A.",
+    "notify_party_address": "353 Regina Expressway Apt. 577, North Benjamin, CT 37865, Malaysia",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "113W",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Hong Kong, HK",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Los Angeles, US",
+    "issue_date": "2025-08-10",
+    "issue_place": "Long Beach",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "GORV7916049",
+        "seal_no": "CL520632",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "QEJH3579067",
+        "seal_no": "BL303140",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "CWFD3893971",
+        "seal_no": "BL313389",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 118,
+    "package_type": "Pallet",
+    "gross_weight_kg": 3641.9,
+    "net_weight_kg": 3354.3,
+    "cbm": 9.094,
+    "marks_and_numbers": "GLB/32"
+  }
+}

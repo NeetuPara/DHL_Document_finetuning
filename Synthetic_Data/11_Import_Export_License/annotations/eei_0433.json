@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0433",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "948-98777419-5",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2025-06-26",
+    "port_of_entry": "SEA - Seattle",
+    "transport_mode": "Truck",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "176-12474681",
+    "importer_name": "Miles Global Co.",
+    "importer_ein": "97-6772696",
+    "consignee_name": "Myers Trade Inc.",
+    "customs_broker": "International Perry Corp.",
+    "broker_filer_code": "oaB",
+    "country_of_origin": "United Arab Emirates",
+    "total_value": 332697.76,
+    "total_duty": 25855.59,
+    "currency": "CHF",
+    "signatory": "Amanda Williams",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Switzerland",
+        "qty": 311,
+        "unit": "PCS",
+        "entered_value": 86691.25,
+        "duty_rate": 6.3,
+        "duty_amount": 5461.55,
+        "eccn": "9A515",
+        "schedule_b": "8518.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "China",
+        "qty": 366,
+        "unit": "SET",
+        "entered_value": 84341.04,
+        "duty_rate": 15.0,
+        "duty_amount": 12651.16,
+        "eccn": "2B350",
+        "schedule_b": "8708.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "South Korea",
+        "qty": 197,
+        "unit": "PCS",
+        "entered_value": 13303.41,
+        "duty_rate": 21.4,
+        "duty_amount": 2846.93,
+        "eccn": "0A919",
+        "schedule_b": "3926.90.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 374,
+        "unit": "PCS",
+        "entered_value": 148362.06,
+        "duty_rate": 3.3,
+        "duty_amount": 4895.95,
+        "eccn": "1A002",
+        "schedule_b": "8518.30.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

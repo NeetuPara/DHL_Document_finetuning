@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0313",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Tanner Smith",
+    "addressee_company": "Garcia Industry Pte Ltd",
+    "addressee_address": "6573 Hubbard Shoals Apt. 343, Williamtown, MD 56483, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 1.052,
+    "total_value": 840.06,
+    "currency": "AUD",
+    "issue_date": "2026-01-12",
+    "reference": "REF-239384",
+    "line_items": [
+      {
+        "qty": 13,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.052,
+        "value": 840.06,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_name": "Patricia Mcmillan",
+    "sender_company": "Trade Smith B.V.",
+    "sender_address": "81441 Bill Gateway Apt. 934, Port Krystalville, KY 90014, Italy",
+    "sender_phone": "(664)602-5500x8005",
+    "sender_email": "sarahcohen@example.org",
+    "addressee_phone": "001-444-508-4420x89330",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 924.07,
+    "postal_charges": 40.19,
+    "tracking_number": "EZ858620949DC"
+  }
+}

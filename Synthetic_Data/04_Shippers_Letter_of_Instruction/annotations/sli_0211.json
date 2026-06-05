@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0211",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202111-6507",
+    "usppi_name": "Pacific Hernandez Pte Ltd",
+    "usppi_address": "PSC 5337, Box 4884, APO AA 29008, Australia",
+    "usppi_country": "Australia",
+    "ein": "84-4844624",
+    "consignee_name": "Brooks Global GmbH",
+    "consignee_address": "52225 Harper View Apt. 117, North Kelly, OH 88471, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Rivera International Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Matthew Johnson",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/18",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 62,
+        "unit": "SET",
+        "weight_kg": 118.1,
+        "value_usd": 10246.76
+      },
+      {
+        "marks": "SLI/33",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 29,
+        "unit": "CTN",
+        "weight_kg": 54.67,
+        "value_usd": 1329.43
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 69,
+        "unit": "PCS",
+        "weight_kg": 34.71,
+        "value_usd": 96900.45
+      },
+      {
+        "marks": "ABC/14",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 31,
+        "unit": "PCS",
+        "weight_kg": 584.15,
+        "value_usd": 5276.89
+      },
+      {
+        "marks": "SLI/27",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 167,
+        "unit": "PCS",
+        "weight_kg": 81.36,
+        "value_usd": 25941.06
+      }
+    ],
+    "total_weight_kg": 872.99,
+    "total_value_usd": 139694.59,
+    "service": "Express Courier",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 25913.8,
+    "license_type": "Distributor License",
+    "license_number": "LIC-256625",
+    "destination_country": "Malaysia"
+  }
+}

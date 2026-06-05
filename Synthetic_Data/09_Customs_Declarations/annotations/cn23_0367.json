@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0367",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Robert Sexton",
+    "addressee_company": "International Bond Corp.",
+    "addressee_address": "4172 Rachel Forge Suite 664, Port Jeffrey, OK 61932, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 6.82,
+    "total_value": 860.07,
+    "currency": "CNY",
+    "issue_date": "2026-02-15",
+    "reference": "REF-845718",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.993,
+        "value": 565.82,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 11,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.827,
+        "value": 294.25,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "Aaron Schneider",
+    "sender_company": "Bennett Pacific LLC",
+    "sender_address": "14076 Ross Grove, Harrischester, UT 79893, Belgium",
+    "sender_phone": "886.486.3354x65830",
+    "sender_email": "kellydavis@example.net",
+    "addressee_phone": "(817)839-1657x66560",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 39.98,
+    "tracking_number": "CA758043598IB"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0665",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20200512797620",
+    "export_date": "2025-10-10",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Pacific Clark Ltd",
+    "usppi_ein": "57-2338381",
+    "usppi_address": "99317 Cassandra Brook, East Keith, MD 11913, United States",
+    "ultimate_consignee": "Spears International Pte Ltd",
+    "intermediate_consignee": "International Robinson B.V.",
+    "forwarding_agent": "Global Wagner Co.",
+    "destination_country": "Hong Kong",
+    "carrier": "UPS",
+    "bl_awb": "618-35021769",
+    "total_value": 103100.02,
+    "currency": "AED",
+    "signatory": "Damon Sanchez",
+    "line_items": [
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Brazil",
+        "qty": 62,
+        "unit": "KGS",
+        "entered_value": 25359.86,
+        "duty_rate": 8.3,
+        "duty_amount": 2104.87,
+        "eccn": "0A919",
+        "schedule_b": "7208.37.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "United States",
+        "qty": 21,
+        "unit": "PCS",
+        "entered_value": 3936.87,
+        "duty_rate": 0.0,
+        "duty_amount": 0.0,
+        "eccn": "EAR99",
+        "schedule_b": "9002.11.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "United Kingdom",
+        "qty": 187,
+        "unit": "KGS",
+        "entered_value": 73803.29,
+        "duty_rate": 3.0,
+        "duty_amount": 2214.1,
+        "eccn": "3A992",
+        "schedule_b": "2008.19.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

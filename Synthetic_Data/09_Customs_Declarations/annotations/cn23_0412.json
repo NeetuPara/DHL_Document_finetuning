@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0412",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Justin Herring",
+    "addressee_company": "Byrd Industry Co.",
+    "addressee_address": "09441 Ashley Springs, North Alexandraside, NV 31082, India",
+    "addressee_country": "India",
+    "total_weight_kg": 8.466,
+    "total_value": 1506.56,
+    "currency": "JPY",
+    "issue_date": "2025-05-16",
+    "reference": "REF-688872",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.992,
+        "value": 729.2,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 6,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.474,
+        "value": 777.36,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Julian Stevenson III",
+    "sender_company": "Mcclure Commerce GmbH",
+    "sender_address": "48207 Amanda Cliffs Apt. 765, Kentmouth, WV 30986, Switzerland",
+    "sender_phone": "001-416-411-0546x916",
+    "sender_email": "teresa88@example.net",
+    "addressee_phone": "+1-566-957-8226x279",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 1657.22,
+    "postal_charges": 19.54,
+    "tracking_number": "SB550761957FR"
+  }
+}

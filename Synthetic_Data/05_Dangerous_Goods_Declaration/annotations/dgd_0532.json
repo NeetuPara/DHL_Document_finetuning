@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0532",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Smith AG",
+    "shipper_address": "77458 Carlos Fords Suite 763, Malonefort, OK 82335, France",
+    "shipper_country": "France",
+    "consignee_name": "Trade Carey GmbH",
+    "consignee_address": "USS Gomez, FPO AP 33751, China",
+    "consignee_country": "China",
+    "emergency_telephone": "+89 476-437-6438",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 40,
+        "pkg_type": "Steel Drum",
+        "net_qty": 28.67,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-643695",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Theresa Chapman",
+    "signature_date": "2026-04-24",
+    "signature_place": "France",
+    "awb_number": "006-55761151",
+    "flight_number": "QR1302",
+    "flight_date": "2026-06-08",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson"
+  }
+}

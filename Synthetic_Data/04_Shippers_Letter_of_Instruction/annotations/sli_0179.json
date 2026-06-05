@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0179",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202404-5651",
+    "usppi_name": "Meadows Pacific LLC",
+    "usppi_address": "1625 Jacob Junction, East Edgar, NJ 23335, India",
+    "usppi_country": "India",
+    "ein": "20-5003214",
+    "consignee_name": "Haynes Tech Inc.",
+    "consignee_address": "9876 Michael Underpass Apt. 847, Timothyton, NC 49939, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Stout Global B.V.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Michael Johnson",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/39",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 150,
+        "unit": "KGS",
+        "weight_kg": 150.0,
+        "value_usd": 124.86
+      },
+      {
+        "marks": "ABC/1",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 38,
+        "unit": "PCS",
+        "weight_kg": 37.71,
+        "value_usd": 836.24
+      }
+    ],
+    "total_weight_kg": 187.71,
+    "total_value_usd": 961.1,
+    "service": "LCL Ocean",
+    "named_port": "Los Angeles, US",
+    "insurance_value_usd": 30425.18,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-307301",
+    "destination_country": "Japan"
+  }
+}

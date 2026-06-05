@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0630",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-27830658",
+    "mawb_number": "020-38739474",
+    "shipper_name": "Brooks Global Co.",
+    "shipper_address": "044 Pierce Landing, West George, MS 06576, Belgium",
+    "consignee_name": "Reeves Global AG",
+    "consignee_address": "619 Stephanie Spur Suite 363, Port Matthewport, CO 83795, United States",
+    "agent_name": "Lopez Tech AG",
+    "airport_departure": "LAX",
+    "airport_destination": "SIN",
+    "currency": "SGD",
+    "charge_code": "PP",
+    "declared_value_carriage": "CHF 28,555.66",
+    "declared_value_customs": "NCV",
+    "n_pieces": 11,
+    "gross_weight_kg": 288.9,
+    "chargeable_weight": 321.1,
+    "rate": 4.9,
+    "total_charge": 1573.39,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-08-13",
+    "signatory": "Melissa Smith",
+    "iata_code": "16-033",
+    "agent_cass": "6325-3639",
+    "consolidation_ref": "CONS-0108-230864",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-48249851",
+        "pieces": 5,
+        "weight": 2.2,
+        "destination": "HKG",
+        "consignee": "Lewis Pacific Co.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "618-32204622",
+        "pieces": 12,
+        "weight": 4.9,
+        "destination": "LAX",
+        "consignee": "Johnston Pacific Co.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "160-57520973",
+        "pieces": 16,
+        "weight": 41.7,
+        "destination": "FRA",
+        "consignee": "Williams Pacific LLC",
+        "description": "Optical Equipment - Camera Lenses"
+      }
+    ]
+  }
+}

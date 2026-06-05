@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0051",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-12967573",
+    "mawb_number": "125-18568680",
+    "shipper_name": "Phillips Global Co.",
+    "shipper_address": "174 Kaitlyn Points, Isaiahland, GU 03028, Mexico",
+    "consignee_name": "Roberts International Co.",
+    "consignee_address": "174 Williams Islands Apt. 676, South Michaelview, AR 69137, Sweden",
+    "agent_name": "Everett Commerce S.A.",
+    "airport_departure": "NRT",
+    "airport_destination": "CDG",
+    "currency": "AED",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "SGD 7,660.48",
+    "n_pieces": 23,
+    "gross_weight_kg": 369.5,
+    "chargeable_weight": 416.4,
+    "rate": 6.82,
+    "total_charge": 2839.85,
+    "nature_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-12-11",
+    "signatory": "David Schmidt",
+    "iata_code": "48-847",
+    "agent_cass": "4472-9177",
+    "consolidation_ref": "CONS-3874-016435",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-30980641",
+        "pieces": 11,
+        "weight": 8.2,
+        "destination": "CDG",
+        "consignee": "Adkins Trade Co.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "160-26822173",
+        "pieces": 12,
+        "weight": 38.4,
+        "destination": "ORD",
+        "consignee": "Holmes Industry Corp.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "160-82551009",
+        "pieces": 15,
+        "weight": 20.6,
+        "destination": "YYZ",
+        "consignee": "Trade Marshall AG",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "057-11090703",
+        "pieces": 2,
+        "weight": 83.3,
+        "destination": "CDG",
+        "consignee": "Weber Tech Corp.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "085-21256384",
+        "pieces": 6,
+        "weight": 59.5,
+        "destination": "HKG",
+        "consignee": "Day Trade Co.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "176-10509959",
+        "pieces": 4,
+        "weight": 90.3,
+        "destination": "ICN",
+        "consignee": "Smith Tech LLC",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "160-96156502",
+        "pieces": 12,
+        "weight": 99.6,
+        "destination": "SYD",
+        "consignee": "Tech English AG",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "125-45589421",
+        "pieces": 5,
+        "weight": 93.1,
+        "destination": "ORD",
+        "consignee": "International Davenport B.V.",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

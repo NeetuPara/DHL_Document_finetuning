@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0509",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202510-9160",
+    "usppi_name": "Trade Estrada S.A.",
+    "usppi_address": "9178 Mark Knolls, East Edward, MH 85866, France",
+    "usppi_country": "France",
+    "ein": "69-2687895",
+    "consignee_name": "Pacific Robbins LLC",
+    "consignee_address": "01261 Cohen Islands, South Brittanyland, ME 05545, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Industry Nolan B.V.",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Jordan Adams",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/40",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 198,
+        "unit": "PCS",
+        "weight_kg": 889.46,
+        "value_usd": 45712.15
+      },
+      {
+        "marks": "EXP/32",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 76,
+        "unit": "PCS",
+        "weight_kg": 648.12,
+        "value_usd": 12785.39
+      },
+      {
+        "marks": "EXP/42",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 87,
+        "unit": "PCS",
+        "weight_kg": 11.85,
+        "value_usd": 4697.12
+      }
+    ],
+    "total_weight_kg": 1549.43,
+    "total_value_usd": 63194.66,
+    "service": "LCL Ocean",
+    "named_port": "Tokyo, JP",
+    "insurance_value_usd": 14066.82,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-947710",
+    "destination_country": "South Korea"
+  }
+}

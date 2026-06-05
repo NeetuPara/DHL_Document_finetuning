@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0129",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202207-7780",
+    "usppi_name": "Conrad Industry Inc.",
+    "usppi_address": "PSC 9464, Box 6151, APO AA 42287, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "96-2897880",
+    "consignee_name": "Thompson Tech S.A.",
+    "consignee_address": "0535 Barrera Streets Suite 503, East Robertburgh, WY 74516, China",
+    "consignee_country": "China",
+    "notify_party": "Tech Cannon Corp.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Nicole Weber",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/14",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 83,
+        "unit": "MTR",
+        "weight_kg": 78.12,
+        "value_usd": 1461.91
+      },
+      {
+        "marks": "EXP/31",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 30,
+        "unit": "KGS",
+        "weight_kg": 30.0,
+        "value_usd": 55.66
+      },
+      {
+        "marks": "SLI/3",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 7,
+        "unit": "CTN",
+        "weight_kg": 10.08,
+        "value_usd": 37.82
+      },
+      {
+        "marks": "ABC/7",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 52,
+        "unit": "PCS",
+        "weight_kg": 573.77,
+        "value_usd": 16837.31
+      },
+      {
+        "marks": "ABC/31",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 26,
+        "unit": "PKG",
+        "weight_kg": 11.36,
+        "value_usd": 1782.29
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 64,
+        "unit": "PCS",
+        "weight_kg": 468.77,
+        "value_usd": 12852.52
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 54,
+        "unit": "PCS",
+        "weight_kg": 14.79,
+        "value_usd": 1201.01
+      }
+    ],
+    "total_weight_kg": 1186.89,
+    "total_value_usd": 34228.52,
+    "vessel": "EVER GOLDEN",
+    "voyage": "760S",
+    "booking_ref": "BKG-242077",
+    "bl_number": "YMLU586430589",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Hong Kong, HK",
+    "container_number": "JEHK1810359",
+    "seal_number": "CL127356",
+    "container_type": "40'HC",
+    "cbm": 17.664
+  }
+}

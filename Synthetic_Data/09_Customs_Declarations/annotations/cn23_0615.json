@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0615",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Karen Richardson",
+    "addressee_company": "Tech Olsen Pte Ltd",
+    "addressee_address": "7317 Michelle Hill, New Zachary, CO 92077, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 7.715,
+    "total_value": 2449.62,
+    "currency": "CAD",
+    "issue_date": "2025-08-24",
+    "reference": "REF-491107",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.051,
+        "value": 866.43,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 18,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.741,
+        "value": 1442.16,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 3,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.923,
+        "value": 141.03,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_country": "Japan",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "948-27795710-9",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 10.9,
+    "estimated_duty": 267.01,
+    "importer_ein": "57-6534783",
+    "customs_broker": "Bradshaw Tech GmbH"
+  }
+}

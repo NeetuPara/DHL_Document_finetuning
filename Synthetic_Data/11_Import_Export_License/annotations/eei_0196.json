@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0196",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "610-31078555-9",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2025-07-16",
+    "port_of_entry": "SFO - San Francisco",
+    "transport_mode": "Ocean",
+    "carrier": "UPS",
+    "bl_awb": "618-54346814",
+    "importer_name": "Norman International Inc.",
+    "importer_ein": "53-6441320",
+    "consignee_name": "Lawrence Global GmbH",
+    "customs_broker": "Gonzalez Tech Pte Ltd",
+    "broker_filer_code": "QwW",
+    "country_of_origin": "China",
+    "total_value": 273976.19,
+    "total_duty": 34581.65,
+    "currency": "GBP",
+    "signatory": "Michael Stout",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Brazil",
+        "qty": 387,
+        "unit": "PCS",
+        "entered_value": 129741.75,
+        "duty_rate": 3.4,
+        "duty_amount": 4411.22,
+        "eccn": "2B350",
+        "schedule_b": "8483.40.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Switzerland",
+        "qty": 252,
+        "unit": "PCS",
+        "entered_value": 117164.88,
+        "duty_rate": 22.1,
+        "duty_amount": 25893.44,
+        "eccn": "2B350",
+        "schedule_b": "8518.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "South Korea",
+        "qty": 343,
+        "unit": "KGS",
+        "entered_value": 27069.56,
+        "duty_rate": 15.8,
+        "duty_amount": 4276.99,
+        "eccn": "0A919",
+        "schedule_b": "7208.37.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

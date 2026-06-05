@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0850",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Nicolas Jones",
+    "addressee_company": "Conner Trade Co.",
+    "addressee_address": "442 Smith Forge Apt. 316, New Jacobside, CA 95542, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 10.367,
+    "total_value": 5324.38,
+    "currency": "EUR",
+    "issue_date": "2026-01-09",
+    "reference": "REF-724457",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 4.62,
+        "value": 1248.5,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 20,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.866,
+        "value": 650.0,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 10,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.587,
+        "value": 864.3,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 18,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.294,
+        "value": 2561.58,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_name": "Erin Mitchell",
+    "sender_company": "Jones Tech LLC",
+    "sender_address": "6741 Robert Ridge, Richardsfurt, ND 16339, Malaysia",
+    "sender_phone": "(345)398-0842x066",
+    "sender_email": "doughertyricky@example.net",
+    "addressee_phone": "899.261.8646x001",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 5856.82,
+    "postal_charges": 72.46,
+    "tracking_number": "WN004916268SN"
+  }
+}

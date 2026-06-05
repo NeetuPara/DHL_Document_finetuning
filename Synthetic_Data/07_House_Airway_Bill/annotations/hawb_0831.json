@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0831",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-97822922",
+    "mawb_number": "085-43064330",
+    "shipper_name": "Tech Diaz S.A.",
+    "shipper_address": "92863 Thompson Circle, Port Michaelport, FM 93681, Italy",
+    "consignee_name": "Greene Global Ltd",
+    "consignee_address": "862 Perez Inlet Apt. 085, Carlaborough, WI 79631, Australia",
+    "agent_name": "Pacific Adams S.A.",
+    "airport_departure": "FRA",
+    "airport_destination": "NRT",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CNY 14,660.80",
+    "n_pieces": 44,
+    "gross_weight_kg": 361.7,
+    "chargeable_weight": 464.2,
+    "rate": 6.99,
+    "total_charge": 3244.76,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-04-03",
+    "signatory": "Jessica Phillips",
+    "iata_code": "33-498",
+    "agent_cass": "6889-9056",
+    "consolidation_ref": "CONS-7575-595810",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-25794136",
+        "pieces": 8,
+        "weight": 55.8,
+        "destination": "HKG",
+        "consignee": "Gutierrez Tech Co.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "057-44772149",
+        "pieces": 10,
+        "weight": 48.5,
+        "destination": "HKG",
+        "consignee": "Commerce Juarez AG",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "160-45926811",
+        "pieces": 7,
+        "weight": 79.1,
+        "destination": "FRA",
+        "consignee": "Commerce Kline B.V.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "176-33978457",
+        "pieces": 15,
+        "weight": 12.0,
+        "destination": "LAX",
+        "consignee": "Williams Commerce AG",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "020-79290499",
+        "pieces": 2,
+        "weight": 48.4,
+        "destination": "ORD",
+        "consignee": "Global Forbes LLC",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "074-42541880",
+        "pieces": 8,
+        "weight": 77.4,
+        "destination": "SIN",
+        "consignee": "Jordan Global B.V.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "045-71429591",
+        "pieces": 10,
+        "weight": 75.2,
+        "destination": "AMS",
+        "consignee": "Hunter Commerce Co.",
+        "description": "Rubber Goods - Industrial Seals and"
+      }
+    ]
+  }
+}

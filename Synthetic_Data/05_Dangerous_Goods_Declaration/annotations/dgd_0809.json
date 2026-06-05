@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0809",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Lee Ltd",
+    "shipper_address": "997 White Land, West Scott, UT 54862, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Adams Pacific Pte Ltd",
+    "consignee_address": "5949 White Row, Deniseville, CA 97807, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+91 805-199-4576",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 1,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 1.18,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-167681",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Kayla Powell",
+    "signature_date": "2026-05-13",
+    "signature_place": "Switzerland",
+    "vessel": "MSC GULSUN",
+    "voyage": "611S",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Rotterdam, NL"
+  }
+}

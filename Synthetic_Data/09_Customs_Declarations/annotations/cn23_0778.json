@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0778",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Monica Schmidt",
+    "addressee_company": "Trade Lewis Inc.",
+    "addressee_address": "7328 Bailey Corner Apt. 197, Leonardmouth, VI 62396, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 14.933,
+    "total_value": 3127.58,
+    "currency": "CAD",
+    "issue_date": "2025-08-25",
+    "reference": "REF-843169",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.6,
+        "value": 250.74,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 1,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.661,
+        "value": 82.49,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 5,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.689,
+        "value": 121.65,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 15,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.75,
+        "value": 2115.15,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 9,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 1.233,
+        "value": 557.55,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Thomas Weaver",
+    "sender_company": "Fisher Global Pte Ltd",
+    "sender_address": "4518 Flores Island, Barrport, NC 17163, Brazil",
+    "sender_phone": "250.550.6975",
+    "sender_email": "esmith@example.com",
+    "addressee_phone": "330.383.7542x9567",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 3440.34,
+    "postal_charges": 59.16,
+    "tracking_number": "WI005491505DG"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0160",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202307-7041",
+    "usppi_name": "Shaw Trade S.A.",
+    "usppi_address": "480 Michaela Ways Apt. 569, Christianstad, AR 06875, India",
+    "usppi_country": "India",
+    "ein": "22-2132675",
+    "consignee_name": "Bowers Trade Ltd",
+    "consignee_address": "7734 Johnson Pike Apt. 677, North Richardport, FM 76199, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Commerce Stevens Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Tommy Arias",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/17",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 170,
+        "unit": "PKG",
+        "weight_kg": 248.03,
+        "value_usd": 4937.08
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 96,
+        "unit": "KGS",
+        "weight_kg": 96.0,
+        "value_usd": 635.55
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 159,
+        "unit": "SET",
+        "weight_kg": 493.74,
+        "value_usd": 25361.55
+      },
+      {
+        "marks": "SLI/16",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 126,
+        "unit": "BOX",
+        "weight_kg": 48.88,
+        "value_usd": 3355.66
+      },
+      {
+        "marks": "EXP/35",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 94,
+        "unit": "KGS",
+        "weight_kg": 94.0,
+        "value_usd": 182.69
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 112,
+        "unit": "PCS",
+        "weight_kg": 2370.65,
+        "value_usd": 34452.15
+      },
+      {
+        "marks": "EXP/9",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 24,
+        "unit": "MTR",
+        "weight_kg": 15.74,
+        "value_usd": 215.34
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 167,
+        "unit": "PCS",
+        "weight_kg": 1752.71,
+        "value_usd": 9377.2
+      }
+    ],
+    "total_weight_kg": 5119.75,
+    "total_value_usd": 78517.22,
+    "service": "Ground",
+    "named_port": "Frankfurt Airport",
+    "insurance_value_usd": 34498.68,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Thailand"
+  }
+}

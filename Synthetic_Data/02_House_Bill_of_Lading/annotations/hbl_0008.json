@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0008",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU382005950",
+    "shipper_name": "Trade Adams Ltd",
+    "shipper_address": "7476 Wall Glen Apt. 769, East Katherinefurt, OH 15635, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Butler Commerce B.V.",
+    "consignee_address": "378 Eric Stravenue, Larryshire, TN 75277, United States",
+    "consignee_country": "United States",
+    "notify_party_name": "Sosa Trade LLC",
+    "notify_party_address": "17852 Davila Radial Suite 330, Debrafort, KY 38639, Japan",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "998S",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2024-08-25",
+    "issue_place": "Antwerp",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "BANU4096739",
+        "seal_no": "CL199089",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "CUKT8985066",
+        "seal_no": "CL297430",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "EAKI3780619",
+        "seal_no": "SL948190",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "number_of_packages": 114,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 18144.1,
+    "net_weight_kg": 16285.5,
+    "cbm": 11.908,
+    "marks_and_numbers": "GLB/1"
+  }
+}

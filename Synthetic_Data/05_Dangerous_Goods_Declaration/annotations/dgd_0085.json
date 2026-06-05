@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0085",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Jackson Global S.A.",
+    "shipper_address": "930 Sanchez Springs Suite 964, Matthewbury, IN 41956, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Hammond Global Inc.",
+    "consignee_address": "035 Gray Park Apt. 072, East Nathan, MH 04423, Mexico",
+    "consignee_country": "Mexico",
+    "emergency_telephone": "+87 381-613-4161",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 45,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 74.73,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-133383",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Jason Larson",
+    "signature_date": "2026-05-08",
+    "signature_place": "Brazil",
+    "awb_number": "074-14987475",
+    "flight_number": "LH6998",
+    "flight_date": "2026-05-19",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol"
+  }
+}

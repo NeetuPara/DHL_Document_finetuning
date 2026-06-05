@@ -1,0 +1,40 @@
+{
+  "packet_id": "packet_2727",
+  "total_pages": 3,
+  "n_documents": 3,
+  "class_sequence": [
+    "Packing List",
+    "House Bill of Lading",
+    "Dangerous Goods Declaration"
+  ],
+  "documents": [
+    {
+      "doc_class": "Packing List",
+      "class_index": 8,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "packing_list_0446.pdf",
+      "source_class_folder": "08_Packing_List"
+    },
+    {
+      "doc_class": "House Bill of Lading",
+      "class_index": 2,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "hbl_0428.pdf",
+      "source_class_folder": "02_House_Bill_of_Lading"
+    },
+    {
+      "doc_class": "Dangerous Goods Declaration",
+      "class_index": 5,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "dgd_0758.pdf",
+      "source_class_folder": "05_Dangerous_Goods_Declaration"
+    }
+  ],
+  "task": "splitting"
+}

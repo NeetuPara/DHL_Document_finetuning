@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0335",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Lewis LLC",
+    "shipper_address": "054 Denise Groves Apt. 440, New Ericaton, TX 24531, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Tech Mcdonald Inc.",
+    "consignee_address": "8506 Harris Underpass, West Ashleymouth, IA 66932, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+24 484-818-7695",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 14,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 87.15,
+        "qty_unit": "L",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-881698",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 38,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 74.62,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Betty Richardson",
+    "signature_date": "2026-05-11",
+    "signature_place": "Hong Kong",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "208S",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Hong Kong, HK"
+  }
+}

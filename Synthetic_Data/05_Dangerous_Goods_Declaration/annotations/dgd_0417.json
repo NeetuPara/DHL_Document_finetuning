@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0417",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tran Trade Pte Ltd",
+    "shipper_address": "39781 Hart Overpass, West Katherine, WI 53034, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Smith International LLC",
+    "consignee_address": "6207 Lee Valleys, New Katelynburgh, AL 16473, Germany",
+    "consignee_country": "Germany",
+    "emergency_telephone": "+16 990-414-7377",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 37,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 17.69,
+        "qty_unit": "g",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Angela Martinez",
+    "signature_date": "2026-05-07",
+    "signature_place": "Spain",
+    "awb_number": "085-47698461",
+    "flight_number": "UA5615",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

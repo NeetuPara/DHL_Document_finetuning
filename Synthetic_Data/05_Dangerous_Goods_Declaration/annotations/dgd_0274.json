@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0274",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Stewart Ltd",
+    "shipper_address": "9852 Pamela Rue Suite 679, Vaughnton, NC 51959, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Williams Trade Pte Ltd",
+    "consignee_address": "0961 Smith Cape Apt. 288, Taylormouth, FL 58233, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+46 415-678-6603",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 7,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 98.83,
+        "qty_unit": "g",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 46,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 41.72,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Robert Cross",
+    "signature_date": "2026-04-27",
+    "signature_place": "Japan",
+    "awb_number": "125-13552806",
+    "flight_number": "UA331",
+    "flight_date": "2026-05-13",
+    "departure_airport_code": "AMS",
+    "departure_airport_name": "Amsterdam Schiphol",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport"
+  }
+}

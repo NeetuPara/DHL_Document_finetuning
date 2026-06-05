@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0491",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Debbie Murphy",
+    "addressee_company": "Miller Trade GmbH",
+    "addressee_address": "021 Welch Valley Suite 069, East Michellechester, IN 39380, Brazil",
+    "addressee_country": "Brazil",
+    "total_weight_kg": 9.972,
+    "total_value": 827.26,
+    "currency": "EUR",
+    "issue_date": "2025-12-02",
+    "reference": "REF-443463",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.323,
+        "value": 599.83,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 8,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.522,
+        "value": 200.96,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 1,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.127,
+        "value": 26.47,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_name": "Sara Knox",
+    "sender_company": "International Torres AG",
+    "sender_address": "631 Eugene Locks, Port Scott, NV 87761, Hong Kong",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 909.99,
+    "postal_charges": 45.99,
+    "tracking_number": "DG699626592NM"
+  }
+}

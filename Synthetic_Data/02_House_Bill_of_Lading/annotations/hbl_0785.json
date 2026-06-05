@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0785",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV899580771",
+    "shipper_name": "International Gallegos LLC",
+    "shipper_address": "3568 Luis Ridges, West Kenneth, IN 78154, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Industry Smith S.A.",
+    "consignee_address": "173 Smith Summit Apt. 509, North Ryanhaven, AL 44507, France",
+    "consignee_country": "France",
+    "notify_party_name": "Torres Pacific Inc.",
+    "notify_party_address": "71783 Jorge Tunnel Apt. 179, Johnsmouth, TX 96002, Malaysia",
+    "vessel": "EVER GOLDEN",
+    "voyage": "256S",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Antwerp, BE",
+    "issue_date": "2024-08-26",
+    "issue_place": "Busan",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "OCTU1156534",
+        "seal_no": "CL142897",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "HXYO4811410",
+        "seal_no": "CL363437",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "number_of_packages": 488,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 22097.1,
+    "net_weight_kg": 21000.8,
+    "cbm": 41.447,
+    "marks_and_numbers": "GLB/7"
+  }
+}

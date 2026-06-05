@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0704",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU707885352",
+    "shipper_name": "Simpson Commerce Pte Ltd",
+    "shipper_address": "168 Annette Ridge, East Rachaelview, MP 18637, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Industry Bell Corp.",
+    "consignee_address": "848 Sheila Isle, Lake Mary, GA 23500, Germany",
+    "consignee_country": "Germany",
+    "notify_party_name": "Davis International B.V.",
+    "notify_party_address": "USS Raymond, FPO AP 54442, Malaysia",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "810W",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2025-06-03",
+    "issue_place": "Antwerp",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "TYFQ3210027",
+        "seal_no": "CL134359",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "BJJT3966196",
+        "seal_no": "CL643160",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "SOUV5288189",
+        "seal_no": "BL615098",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "JWLM8992009",
+        "seal_no": "CL255340",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "number_of_packages": 353,
+    "package_type": "Pallet",
+    "gross_weight_kg": 11971.7,
+    "net_weight_kg": 10631.4,
+    "cbm": 14.294,
+    "marks_and_numbers": "XYZ/48"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0786",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202211-4279",
+    "usppi_name": "Industry Jacobs LLC",
+    "usppi_address": "USS Price, FPO AE 97156, Canada",
+    "usppi_country": "Canada",
+    "ein": "29-7232937",
+    "consignee_name": "Allen Trade Corp.",
+    "consignee_address": "Unit 7152 Box 3789, DPO AE 77440, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Abbott Tech GmbH",
+    "forwarder": "Panalpina",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Terry Bridges",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/6",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 89,
+        "unit": "LTR",
+        "weight_kg": 96.85,
+        "value_usd": 1847.37
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 125,
+        "unit": "SET",
+        "weight_kg": 420.19,
+        "value_usd": 19269.3
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 37,
+        "unit": "PCS",
+        "weight_kg": 543.45,
+        "value_usd": 7531.82
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 176,
+        "unit": "CTN",
+        "weight_kg": 229.24,
+        "value_usd": 10193.99
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 43,
+        "unit": "PCS",
+        "weight_kg": 638.77,
+        "value_usd": 31752.74
+      }
+    ],
+    "total_weight_kg": 1928.5,
+    "total_value_usd": 70595.22,
+    "vessel": "MOL TRIUMPH",
+    "voyage": "572E",
+    "booking_ref": "BKG-568700",
+    "bl_number": "MAEU196772884",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Dubai, AE",
+    "container_number": "MBQD9978024",
+    "seal_number": "BL604934",
+    "container_type": "20'GP",
+    "cbm": 27.159
+  }
+}

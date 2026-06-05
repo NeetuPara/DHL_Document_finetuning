@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0164",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Maria Andrews",
+    "addressee_company": "Global Fry Inc.",
+    "addressee_address": "Unit 8961 Box 4522, DPO AP 80489, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 9.913,
+    "total_value": 2776.27,
+    "currency": "EUR",
+    "issue_date": "2025-06-12",
+    "reference": "REF-444155",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.722,
+        "value": 84.68,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 18,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.84,
+        "value": 1016.28,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 13,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.351,
+        "value": 1675.31,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_name": "Jeff Mccall",
+    "sender_company": "Commerce Bowman GmbH",
+    "sender_address": "4397 Guzman Lodge Suite 983, Rodriguezfort, SC 81811, France",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 3053.9,
+    "postal_charges": 34.76,
+    "tracking_number": "ON808630024DT"
+  }
+}

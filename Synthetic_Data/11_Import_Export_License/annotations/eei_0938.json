@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0938",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240526043741",
+    "export_date": "2026-04-18",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Perkins Tech Ltd",
+    "usppi_ein": "79-6932004",
+    "usppi_address": "92680 Harrington Rapid, Port Donaldfurt, TX 71439, Spain",
+    "ultimate_consignee": "Frank Trade LLC",
+    "intermediate_consignee": "Industry Howell AG",
+    "forwarding_agent": "Johnson International Co.",
+    "destination_country": "India",
+    "carrier": "DHL Express",
+    "bl_awb": "176-27690333",
+    "total_value": 240773.89,
+    "currency": "CHF",
+    "signatory": "Nathan Shaw",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Mexico",
+        "qty": 373,
+        "unit": "PCS",
+        "entered_value": 151281.34,
+        "duty_rate": 7.9,
+        "duty_amount": 11951.23,
+        "eccn": "7A994",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Germany",
+        "qty": 203,
+        "unit": "PCS",
+        "entered_value": 89492.55,
+        "duty_rate": 23.2,
+        "duty_amount": 20762.27,
+        "eccn": "1A002",
+        "schedule_b": "3926.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0533",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20200103108155",
+    "export_date": "2025-10-01",
+    "aes_option": "AES Filing",
+    "usppi_name": "International Roth Co.",
+    "usppi_ein": "89-5039588",
+    "usppi_address": "804 Diaz Lodge, Karenmouth, AK 93590, Spain",
+    "ultimate_consignee": "Campbell International S.A.",
+    "intermediate_consignee": "Diaz Pacific GmbH",
+    "forwarding_agent": "Commerce Hernandez Inc.",
+    "destination_country": "Sweden",
+    "carrier": "Maersk",
+    "bl_awb": "085-13956039",
+    "total_value": 508884.15,
+    "currency": "SGD",
+    "signatory": "Kevin Rocha",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Singapore",
+        "qty": 304,
+        "unit": "PCS",
+        "entered_value": 144202.4,
+        "duty_rate": 20.8,
+        "duty_amount": 29994.1,
+        "eccn": "9A515",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Spain",
+        "qty": 275,
+        "unit": "CTN",
+        "entered_value": 97875.25,
+        "duty_rate": 12.4,
+        "duty_amount": 12136.53,
+        "eccn": "2B350",
+        "schedule_b": "4819.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Switzerland",
+        "qty": 291,
+        "unit": "CTN",
+        "entered_value": 21039.3,
+        "duty_rate": 10.8,
+        "duty_amount": 2272.24,
+        "eccn": "1A002",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 420,
+        "unit": "KGS",
+        "entered_value": 166920.6,
+        "duty_rate": 18.7,
+        "duty_amount": 31214.15,
+        "eccn": "7A994",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Sweden",
+        "qty": 420,
+        "unit": "CTN",
+        "entered_value": 78846.6,
+        "duty_rate": 15.8,
+        "duty_amount": 12457.76,
+        "eccn": "EAR99",
+        "schedule_b": "4819.10.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

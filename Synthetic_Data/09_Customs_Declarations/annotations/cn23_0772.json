@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0772",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Joseph Kim",
+    "addressee_company": "Commerce Townsend B.V.",
+    "addressee_address": "526 Larson Fork, Kristintown, OH 73944, China",
+    "addressee_country": "China",
+    "total_weight_kg": 3.039,
+    "total_value": 2425.15,
+    "currency": "GBP",
+    "issue_date": "2025-10-14",
+    "reference": "REF-081896",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.083,
+        "value": 1924.91,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 4,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.956,
+        "value": 500.24,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Amber Jones",
+    "sender_company": "Global Mays GmbH",
+    "sender_address": "4569 Daniel Grove, Allenberg, NM 35192, South Korea",
+    "sender_phone": "001-745-557-4820x18956",
+    "sender_email": "scott82@example.com",
+    "addressee_phone": "+1-836-534-0728x9510",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 55.75,
+    "tracking_number": "HV110499781OD"
+  }
+}

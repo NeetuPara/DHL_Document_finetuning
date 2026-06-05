@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0810",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Melanie Williams",
+    "addressee_company": "Matthews Commerce Corp.",
+    "addressee_address": "3829 Guzman Forks, Lake Daniel, PW 96174, Mexico",
+    "addressee_country": "Mexico",
+    "total_weight_kg": 5.886,
+    "total_value": 3485.34,
+    "currency": "CAD",
+    "issue_date": "2026-05-13",
+    "reference": "REF-604186",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.367,
+        "value": 1209.72,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 1,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.133,
+        "value": 20.28,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 15,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.115,
+        "value": 2079.0,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 6,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.271,
+        "value": 176.34,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_country": "Brazil",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "254-73971983-7",
+    "entry_type": "Formal Entry",
+    "duty_rate": 4.2,
+    "estimated_duty": 146.38,
+    "importer_ein": "17-1693355",
+    "customs_broker": "International Ayala Ltd"
+  }
+}

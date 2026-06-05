@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0835",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202509-9793",
+    "usppi_name": "International Davis AG",
+    "usppi_address": "4850 Amanda Springs Suite 785, Deanport, MN 39189, China",
+    "usppi_country": "China",
+    "ein": "75-4576984",
+    "consignee_name": "Global Sexton Inc.",
+    "consignee_address": "3484 Alexandra Crossing Apt. 975, Sarahville, CO 18294, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Trade Smith Co.",
+    "forwarder": "Expeditors",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Jordan Guzman",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/12",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 36,
+        "unit": "LTR",
+        "weight_kg": 39.52,
+        "value_usd": 898.03
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 197,
+        "unit": "SET",
+        "weight_kg": 410.89,
+        "value_usd": 16933.86
+      },
+      {
+        "marks": "ABC/35",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 119,
+        "unit": "PCS",
+        "weight_kg": 9.33,
+        "value_usd": 22248.2
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 25,
+        "unit": "PCS",
+        "weight_kg": 18.87,
+        "value_usd": 27956.03
+      }
+    ],
+    "total_weight_kg": 478.61,
+    "total_value_usd": 68036.12,
+    "service": "Ground",
+    "named_port": "London Heathrow",
+    "insurance_value_usd": 30642.21,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Japan"
+  }
+}

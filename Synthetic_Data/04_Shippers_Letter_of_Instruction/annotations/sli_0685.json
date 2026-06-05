@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0685",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202202-5407",
+    "usppi_name": "Global Gomez S.A.",
+    "usppi_address": "9516 Crystal Pike Suite 830, Burgessshire, MT 41970, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "77-7814821",
+    "consignee_name": "Coleman Industry Pte Ltd",
+    "consignee_address": "USCGC Sanford, FPO AA 52405, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Pacific Henry Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Angela Ross",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/49",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 85,
+        "unit": "PCS",
+        "weight_kg": 8.2,
+        "value_usd": 3732.8
+      },
+      {
+        "marks": "SLI/9",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 86,
+        "unit": "PCS",
+        "weight_kg": 1806.13,
+        "value_usd": 24695.97
+      },
+      {
+        "marks": "ABC/12",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 103,
+        "unit": "SET",
+        "weight_kg": 196.4,
+        "value_usd": 14864.27
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 117,
+        "unit": "LTR",
+        "weight_kg": 116.4,
+        "value_usd": 4364.82
+      },
+      {
+        "marks": "EXP/25",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 75,
+        "unit": "CTN",
+        "weight_kg": 339.51,
+        "value_usd": 1392.37
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 182,
+        "unit": "PCS",
+        "weight_kg": 236.22,
+        "value_usd": 293027.53
+      },
+      {
+        "marks": "SLI/49",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 89,
+        "unit": "BOX",
+        "weight_kg": 177.68,
+        "value_usd": 2414.21
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 189,
+        "unit": "PCS",
+        "weight_kg": 73.97,
+        "value_usd": 1389.32
+      }
+    ],
+    "total_weight_kg": 2954.51,
+    "total_value_usd": 345881.29,
+    "service": "Express Courier",
+    "named_port": "London Heathrow",
+    "insurance_value_usd": 48582.96,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Canada"
+  }
+}

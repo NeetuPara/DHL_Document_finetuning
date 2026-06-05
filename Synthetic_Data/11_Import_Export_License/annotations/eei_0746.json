@@ -1,0 +1,103 @@
+{
+  "document_id": "eei_0746",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20200513753685",
+    "export_date": "2025-10-05",
+    "aes_option": "AES Filing",
+    "usppi_name": "Commerce Parker AG",
+    "usppi_ein": "43-1857074",
+    "usppi_address": "7854 Allen Courts Suite 824, Lake Carlyville, ND 97060, Italy",
+    "ultimate_consignee": "International Reynolds B.V.",
+    "intermediate_consignee": "Howard Pacific Ltd",
+    "forwarding_agent": "Gaines Tech Inc.",
+    "destination_country": "Australia",
+    "carrier": "Maersk",
+    "bl_awb": "057-25663329",
+    "total_value": 285154.53,
+    "currency": "AED",
+    "signatory": "Terry Ayers",
+    "line_items": [
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "United Kingdom",
+        "qty": 214,
+        "unit": "BOX",
+        "entered_value": 34145.84,
+        "duty_rate": 14.3,
+        "duty_amount": 4882.86,
+        "eccn": "3A992",
+        "schedule_b": "2936.90.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "United Kingdom",
+        "qty": 312,
+        "unit": "KGS",
+        "entered_value": 1950.0,
+        "duty_rate": 7.4,
+        "duty_amount": 144.3,
+        "eccn": "EAR99",
+        "schedule_b": "7208.37.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Netherlands",
+        "qty": 25,
+        "unit": "MTR",
+        "entered_value": 2099.5,
+        "duty_rate": 10.2,
+        "duty_amount": 214.15,
+        "eccn": "9A515",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Hong Kong",
+        "qty": 83,
+        "unit": "PCS",
+        "entered_value": 38462.2,
+        "duty_rate": 10.5,
+        "duty_amount": 4038.53,
+        "eccn": "0A919",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "France",
+        "qty": 307,
+        "unit": "LTR",
+        "entered_value": 65572.13,
+        "duty_rate": 5.3,
+        "duty_amount": 3475.32,
+        "eccn": "9A515",
+        "schedule_b": "2901.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Malaysia",
+        "qty": 309,
+        "unit": "CTN",
+        "entered_value": 142924.86,
+        "duty_rate": 18.3,
+        "duty_amount": 26155.25,
+        "eccn": "9A515",
+        "schedule_b": "4819.10.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

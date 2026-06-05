@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0163",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "John Peck",
+    "addressee_company": "Trade Wilson Co.",
+    "addressee_address": "79137 Christopher Underpass, North Cynthiaberg, WV 74495, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 2.595,
+    "total_value": 334.44,
+    "currency": "SGD",
+    "issue_date": "2025-06-29",
+    "reference": "REF-043663",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.414,
+        "value": 193.77,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 1,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.181,
+        "value": 140.67,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Canada"
+      }
+    ],
+    "sender_name": "Deborah Kelley",
+    "sender_company": "White International Pte Ltd",
+    "sender_address": "17839 Maldonado Corners Apt. 394, South Alicia, VT 20220, Switzerland",
+    "sender_phone": "(483)547-2989x6032",
+    "sender_email": "angela12@example.org",
+    "addressee_phone": "(594)997-5972x12762",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 58.14,
+    "tracking_number": "WX166615305FF"
+  }
+}

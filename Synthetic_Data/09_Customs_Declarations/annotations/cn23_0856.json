@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0856",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Crystal Harris",
+    "addressee_company": "Trade Rodriguez Co.",
+    "addressee_address": "52125 Paul Mews, Berrymouth, NJ 23485, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 16.054,
+    "total_value": 5463.83,
+    "currency": "GBP",
+    "issue_date": "2026-04-24",
+    "reference": "REF-811210",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 4.672,
+        "value": 60.96,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 13,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.982,
+        "value": 1721.07,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 20,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 1.492,
+        "value": 2383.0,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 10,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.908,
+        "value": 1298.8,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Michele Ferguson",
+    "sender_company": "Ingram International Inc.",
+    "sender_address": "66017 Kristina Ridges, Aguilarburgh, MT 93306, Italy",
+    "sender_phone": "971.313.1804",
+    "sender_email": "rose99@example.com",
+    "addressee_phone": "001-486-248-1045x456",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 6010.21,
+    "postal_charges": 40.7,
+    "tracking_number": "AJ634254392YV"
+  }
+}

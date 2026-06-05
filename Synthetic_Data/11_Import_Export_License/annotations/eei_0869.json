@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0869",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250409021788",
+    "export_date": "2026-01-15",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Pacific Johnson AG",
+    "usppi_ein": "96-2311243",
+    "usppi_address": "3054 Jermaine Port Suite 319, New Elizabethport, IA 03226, Australia",
+    "ultimate_consignee": "Global Wright GmbH",
+    "intermediate_consignee": "Palmer Pacific S.A.",
+    "forwarding_agent": "International Scott S.A.",
+    "destination_country": "Japan",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "057-36337280",
+    "total_value": 227002.77,
+    "currency": "CNY",
+    "signatory": "Eric Smith",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Singapore",
+        "qty": 275,
+        "unit": "CTN",
+        "entered_value": 135212.0,
+        "duty_rate": 17.9,
+        "duty_amount": 24202.95,
+        "eccn": "EAR99",
+        "schedule_b": "9018.31.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Australia",
+        "qty": 77,
+        "unit": "PCS",
+        "entered_value": 21160.37,
+        "duty_rate": 24.4,
+        "duty_amount": 5163.13,
+        "eccn": "9A515",
+        "schedule_b": "9401.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Germany",
+        "qty": 178,
+        "unit": "PCS",
+        "entered_value": 70630.4,
+        "duty_rate": 7.6,
+        "duty_amount": 5367.91,
+        "eccn": "0A919",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

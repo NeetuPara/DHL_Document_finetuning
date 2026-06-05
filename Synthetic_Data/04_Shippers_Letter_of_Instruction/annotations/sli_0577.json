@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0577",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202208-4135",
+    "usppi_name": "Olson Industry Corp.",
+    "usppi_address": "64922 Ruiz Common, Port John, NE 22480, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "90-8505078",
+    "consignee_name": "Commerce Anderson Inc.",
+    "consignee_address": "PSC 0239, Box 4360, APO AP 16354, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Tech Bailey Co.",
+    "forwarder": "Expeditors",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Robert Nicholson",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/32",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 140,
+        "unit": "MTR",
+        "weight_kg": 136.45,
+        "value_usd": 2355.28
+      },
+      {
+        "marks": "ABC/12",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 109,
+        "unit": "PCS",
+        "weight_kg": 8.12,
+        "value_usd": 4599.37
+      },
+      {
+        "marks": "SLI/46",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 75,
+        "unit": "PCS",
+        "weight_kg": 1393.01,
+        "value_usd": 14101.33
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 123,
+        "unit": "PCS",
+        "weight_kg": 61.3,
+        "value_usd": 3935.12
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 127,
+        "unit": "LTR",
+        "weight_kg": 119.98,
+        "value_usd": 477.98
+      }
+    ],
+    "total_weight_kg": 1718.86,
+    "total_value_usd": 25469.08,
+    "service": "LCL Ocean",
+    "named_port": "Los Angeles, US",
+    "insurance_value_usd": 37688.46,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-869788",
+    "destination_country": "Singapore"
+  }
+}

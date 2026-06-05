@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0364",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Chris Mathews",
+    "addressee_company": "Robinson Commerce AG",
+    "addressee_address": "09428 Lauren Ford Suite 868, North Anthonychester, NE 21843, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 14.458,
+    "total_value": 4110.07,
+    "currency": "EUR",
+    "issue_date": "2026-04-05",
+    "reference": "REF-727845",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 4.862,
+        "value": 245.4,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 16,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.694,
+        "value": 1255.2,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 10,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.998,
+        "value": 524.8,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 1,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.052,
+        "value": 60.47,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 20,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.852,
+        "value": 2024.2,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Mark Turner",
+    "sender_company": "Townsend Trade Corp.",
+    "sender_address": "Unit 7077 Box 6194, DPO AE 62896, Australia",
+    "sender_phone": "337.275.7306x1837",
+    "sender_email": "williamsemily@example.org",
+    "addressee_phone": "545.840.5702",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 4521.08,
+    "postal_charges": 27.02,
+    "tracking_number": "ZG968642053AR"
+  }
+}

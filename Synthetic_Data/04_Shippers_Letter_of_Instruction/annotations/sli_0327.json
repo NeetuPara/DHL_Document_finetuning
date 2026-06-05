@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0327",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202103-8366",
+    "usppi_name": "Young International Pte Ltd",
+    "usppi_address": "6114 Russell Forks Apt. 908, Davidtown, OR 25133, Poland",
+    "usppi_country": "Poland",
+    "ein": "14-8083413",
+    "consignee_name": "Tyler International LLC",
+    "consignee_address": "PSC 5918, Box 8370, APO AA 64719, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Commerce Martinez GmbH",
+    "forwarder": "DB Schenker",
+    "incoterm": "FOB",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Patricia Kim",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/38",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 75,
+        "unit": "KGS",
+        "weight_kg": 75.0,
+        "value_usd": 803.13
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 188,
+        "unit": "BOX",
+        "weight_kg": 101.26,
+        "value_usd": 12157.35
+      },
+      {
+        "marks": "EXP/49",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 82,
+        "unit": "CTN",
+        "weight_kg": 170.64,
+        "value_usd": 918.4
+      },
+      {
+        "marks": "SLI/46",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 16,
+        "unit": "KGS",
+        "weight_kg": 16.0,
+        "value_usd": 29.76
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 165,
+        "unit": "PCS",
+        "weight_kg": 3602.43,
+        "value_usd": 51399.61
+      }
+    ],
+    "total_weight_kg": 3965.33,
+    "total_value_usd": 65308.25,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "280E",
+    "booking_ref": "BKG-246235",
+    "bl_number": "OOLU169217394",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Dubai, AE",
+    "container_number": "BLTK3388061",
+    "seal_number": "CL466165",
+    "container_type": "45'HC",
+    "cbm": 25.654
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0890",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU711914396",
+    "shipper_name": "Allen Industry Co.",
+    "shipper_address": "30075 Berry Bridge Suite 121, East Traceybury, IL 92977, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Trade Forbes Co.",
+    "consignee_address": "862 William Extension, East Ronald, VA 80682, Japan",
+    "consignee_country": "Japan",
+    "notify_party_name": "Pacific Mccarthy Co.",
+    "notify_party_address": "PSC 0854, Box 2804, APO AA 78341, Singapore",
+    "vessel": "PIL PACIFIC",
+    "voyage": "234S",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Dubai, AE",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2024-09-21",
+    "issue_place": "Hamburg",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "ZZRU6675736",
+        "seal_no": "BL416549",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "MGCZ1560250",
+        "seal_no": "BL900343",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "YAXX1684298",
+        "seal_no": "CL766215",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "HPYE5734769",
+        "seal_no": "CL347956",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "number_of_packages": 95,
+    "package_type": "Bundle",
+    "gross_weight_kg": 1420.5,
+    "net_weight_kg": 1352.2,
+    "cbm": 6.975,
+    "marks_and_numbers": "GLB/9"
+  }
+}

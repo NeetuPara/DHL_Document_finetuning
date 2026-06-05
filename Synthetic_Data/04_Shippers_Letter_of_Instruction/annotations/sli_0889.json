@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0889",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202102-5745",
+    "usppi_name": "Commerce Norris B.V.",
+    "usppi_address": "9283 Ronald Forge, Jonesmouth, IN 64353, France",
+    "usppi_country": "France",
+    "ein": "25-8515629",
+    "consignee_name": "Reyes Commerce Corp.",
+    "consignee_address": "Unit 2444 Box 3646, DPO AE 50492, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Barajas Pacific LLC",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Shawn Smith",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/24",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 126,
+        "unit": "PKG",
+        "weight_kg": 241.72,
+        "value_usd": 3443.09
+      },
+      {
+        "marks": "SLI/37",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 65,
+        "unit": "LTR",
+        "weight_kg": 68.59,
+        "value_usd": 2254.12
+      },
+      {
+        "marks": "SLI/3",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 16,
+        "unit": "PCS",
+        "weight_kg": 279.28,
+        "value_usd": 2486.74
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 50,
+        "unit": "KGS",
+        "weight_kg": 50.0,
+        "value_usd": 95.82
+      }
+    ],
+    "total_weight_kg": 639.59,
+    "total_value_usd": 8279.77,
+    "service": "Ocean Freight",
+    "named_port": "Shanghai, CN",
+    "insurance_value_usd": 1180.81,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-340195",
+    "destination_country": "United Arab Emirates"
+  }
+}

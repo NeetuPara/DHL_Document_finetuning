@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0127",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jennifer Lopez",
+    "addressee_company": "Johnson Global Co.",
+    "addressee_address": "481 Lindsey Stream Suite 083, Morrisburgh, IL 16163, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 6.374,
+    "total_value": 1104.05,
+    "currency": "AED",
+    "issue_date": "2025-10-08",
+    "reference": "REF-150012",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.823,
+        "value": 692.12,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 3,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.551,
+        "value": 411.93,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Poland"
+      }
+    ],
+    "sender_name": "Christopher Ramirez",
+    "sender_company": "Harris Tech AG",
+    "sender_address": "121 Joanne Overpass Suite 025, South Amystad, UT 59254, Belgium",
+    "sender_phone": "+1-256-537-6623x2086",
+    "sender_email": "david34@example.com",
+    "addressee_phone": "(280)822-2924x2332",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 1214.46,
+    "postal_charges": 55.0,
+    "tracking_number": "WP946272978ZS"
+  }
+}

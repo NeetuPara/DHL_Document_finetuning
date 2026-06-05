@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0862",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202408-7226",
+    "usppi_name": "Evans Industry GmbH",
+    "usppi_address": "4282 Christopher Island, New Jacob, TN 93310, Spain",
+    "usppi_country": "Spain",
+    "ein": "35-9208966",
+    "consignee_name": "Trade Fernandez AG",
+    "consignee_address": "67363 Horne Hill Suite 699, Port Kylestad, NH 11029, United States",
+    "consignee_country": "United States",
+    "notify_party": "International Morris AG",
+    "forwarder": "Panalpina",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Derrick Campbell",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/38",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 154,
+        "unit": "CTN",
+        "weight_kg": 238.26,
+        "value_usd": 700.54
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 89,
+        "unit": "KGS",
+        "weight_kg": 89.0,
+        "value_usd": 180.52
+      }
+    ],
+    "total_weight_kg": 327.26,
+    "total_value_usd": 881.06,
+    "service": "Ocean Freight",
+    "named_port": "Busan, KR",
+    "insurance_value_usd": 16844.26,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-223765",
+    "destination_country": "United States"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0521",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202411-9153",
+    "usppi_name": "International Scott Inc.",
+    "usppi_address": "182 Wright Rapid Suite 637, Popeview, NJ 84992, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "68-9397046",
+    "consignee_name": "Crawford Tech Co.",
+    "consignee_address": "80441 Buckley Field, Port Shanefurt, TX 15862, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Trade Doyle AG",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Margaret Stewart",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/40",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 38,
+        "unit": "LTR",
+        "weight_kg": 39.72,
+        "value_usd": 284.25
+      },
+      {
+        "marks": "SLI/7",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 28,
+        "unit": "KGS",
+        "weight_kg": 28.0,
+        "value_usd": 582.28
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 6,
+        "unit": "PKG",
+        "weight_kg": 6.02,
+        "value_usd": 562.86
+      },
+      {
+        "marks": "SLI/2",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 79,
+        "unit": "CTN",
+        "weight_kg": 136.88,
+        "value_usd": 5859.95
+      },
+      {
+        "marks": "EXP/10",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 41,
+        "unit": "PCS",
+        "weight_kg": 20.04,
+        "value_usd": 130.97
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 184,
+        "unit": "PCS",
+        "weight_kg": 2227.96,
+        "value_usd": 95911.9
+      },
+      {
+        "marks": "ABC/11",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 80,
+        "unit": "PCS",
+        "weight_kg": 924.47,
+        "value_usd": 33303.23
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 154,
+        "unit": "PCS",
+        "weight_kg": 215.06,
+        "value_usd": 150524.01
+      }
+    ],
+    "total_weight_kg": 3598.15,
+    "total_value_usd": 287159.45,
+    "service": "Ground",
+    "named_port": "Paris CDG",
+    "insurance_value_usd": 12946.7,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-429695",
+    "destination_country": "South Korea"
+  }
+}

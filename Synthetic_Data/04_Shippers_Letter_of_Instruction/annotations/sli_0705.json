@@ -1,0 +1,118 @@
+{
+  "document_id": "sli_0705",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202402-7111",
+    "usppi_name": "Lawson Global LLC",
+    "usppi_address": "982 Stanley Club Suite 039, South Vanessachester, VA 95720, Poland",
+    "usppi_country": "Poland",
+    "ein": "63-4865849",
+    "consignee_name": "Bryan Tech Co.",
+    "consignee_address": "535 Scott Parkways, Teresaton, SC 89850, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Global Roth Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Richard Little",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/48",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 184,
+        "unit": "PCS",
+        "weight_kg": 63.56,
+        "value_usd": 257430.69
+      },
+      {
+        "marks": "ABC/20",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 35,
+        "unit": "BOX",
+        "weight_kg": 19.08,
+        "value_usd": 2951.67
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 144,
+        "unit": "PCS",
+        "weight_kg": 204.86,
+        "value_usd": 42420.4
+      },
+      {
+        "marks": "EXP/7",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 35,
+        "unit": "LTR",
+        "weight_kg": 32.54,
+        "value_usd": 261.29
+      },
+      {
+        "marks": "EXP/28",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 40,
+        "unit": "KGS",
+        "weight_kg": 40.0,
+        "value_usd": 42.33
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 58,
+        "unit": "PCS",
+        "weight_kg": 47.33,
+        "value_usd": 1057.69
+      },
+      {
+        "marks": "EXP/7",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 144,
+        "unit": "MTR",
+        "weight_kg": 51.02,
+        "value_usd": 679.9
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 134,
+        "unit": "PCS",
+        "weight_kg": 1809.37,
+        "value_usd": 13063.95
+      }
+    ],
+    "total_weight_kg": 2267.76,
+    "total_value_usd": 317907.92,
+    "vessel": "MSC OSCAR",
+    "voyage": "969W",
+    "booking_ref": "BKG-291415",
+    "bl_number": "MAEU976190145",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Los Angeles, US",
+    "container_number": "ZUKB6586789",
+    "seal_number": "CL406424",
+    "container_type": "40'HC",
+    "cbm": 49.37
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0363",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202001-3974",
+    "usppi_name": "Dean Commerce Corp.",
+    "usppi_address": "2864 Hughes Rapids, Hardyfurt, DE 93833, France",
+    "usppi_country": "France",
+    "ein": "17-4883390",
+    "consignee_name": "Tech Webster Pte Ltd",
+    "consignee_address": "460 Arellano Junctions Suite 855, Juanview, IL 93848, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Industry Tucker B.V.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Julie Rojas",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/3",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 73,
+        "unit": "BOX",
+        "weight_kg": 55.86,
+        "value_usd": 4897.43
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 162,
+        "unit": "CTN",
+        "weight_kg": 534.45,
+        "value_usd": 9222.15
+      },
+      {
+        "marks": "ABC/9",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 32,
+        "unit": "PCS",
+        "weight_kg": 29.74,
+        "value_usd": 739.06
+      }
+    ],
+    "total_weight_kg": 620.05,
+    "total_value_usd": 14858.64,
+    "vessel": "CSCL GLOBE",
+    "voyage": "504E",
+    "booking_ref": "BKG-668695",
+    "bl_number": "YMLU290156453",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Qingdao, CN",
+    "container_number": "IIKE8578653",
+    "seal_number": "SL872167",
+    "container_type": "20'GP",
+    "cbm": 10.539
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0611",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202104-1587",
+    "usppi_name": "Pacific Diaz Pte Ltd",
+    "usppi_address": "2696 Powell Mountain, Gordonside, VI 07323, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "86-9563404",
+    "consignee_name": "International Duffy Corp.",
+    "consignee_address": "503 Shane Inlet Apt. 869, Powellstad, IN 03453, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Ramirez Tech GmbH",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "1C351",
+    "signatory_name": "Steven Wagner",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/42",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 30,
+        "unit": "SET",
+        "weight_kg": 36.61,
+        "value_usd": 4238.42
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 160,
+        "unit": "CTN",
+        "weight_kg": 231.75,
+        "value_usd": 8092.58
+      },
+      {
+        "marks": "SLI/50",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 76,
+        "unit": "PKG",
+        "weight_kg": 143.33,
+        "value_usd": 1785.55
+      },
+      {
+        "marks": "ABC/14",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 63,
+        "unit": "CTN",
+        "weight_kg": 103.6,
+        "value_usd": 879.57
+      },
+      {
+        "marks": "SLI/35",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 29,
+        "unit": "MTR",
+        "weight_kg": 15.26,
+        "value_usd": 136.25
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 159,
+        "unit": "KGS",
+        "weight_kg": 159.0,
+        "value_usd": 128.83
+      },
+      {
+        "marks": "SLI/5",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 52,
+        "unit": "PCS",
+        "weight_kg": 58.59,
+        "value_usd": 537.84
+      }
+    ],
+    "total_weight_kg": 748.14,
+    "total_value_usd": 15799.04,
+    "service": "Ground",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 32167.08,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "United Arab Emirates"
+  }
+}

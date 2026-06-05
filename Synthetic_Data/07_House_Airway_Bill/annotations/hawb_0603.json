@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0603",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-69923963",
+    "mawb_number": "085-73442210",
+    "shipper_name": "Howard Pacific GmbH",
+    "shipper_address": "PSC 5087, Box 9340, APO AP 10837, Spain",
+    "consignee_name": "Rodriguez Industry Pte Ltd",
+    "consignee_address": "68259 Contreras Ville Suite 074, New Michelle, CA 34690, Mexico",
+    "agent_name": "Tech Stephens Ltd",
+    "airport_departure": "SYD",
+    "airport_destination": "HKG",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "CHF 7,737.90",
+    "declared_value_customs": "NCV",
+    "n_pieces": 18,
+    "gross_weight_kg": 140.4,
+    "chargeable_weight": 160.9,
+    "rate": 3.6,
+    "total_charge": 579.24,
+    "nature_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-03-17",
+    "signatory": "Jessica Williams",
+    "iata_code": "97-783",
+    "agent_cass": "6504-2714",
+    "consolidation_ref": "CONS-3028-679080",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-47703848",
+        "pieces": 6,
+        "weight": 68.4,
+        "destination": "LHR",
+        "consignee": "Commerce King Pte Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "085-52344528",
+        "pieces": 4,
+        "weight": 24.3,
+        "destination": "CDG",
+        "consignee": "Jackson Commerce Corp.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "006-43500956",
+        "pieces": 12,
+        "weight": 35.1,
+        "destination": "AMS",
+        "consignee": "Pacific Garcia AG",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "074-38934282",
+        "pieces": 13,
+        "weight": 19.0,
+        "destination": "CDG",
+        "consignee": "International Grant Corp.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "125-81910366",
+        "pieces": 15,
+        "weight": 33.7,
+        "destination": "FRA",
+        "consignee": "Harris Industry Pte Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "176-15823919",
+        "pieces": 2,
+        "weight": 84.5,
+        "destination": "PVG",
+        "consignee": "Dunn Commerce Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "125-68203850",
+        "pieces": 8,
+        "weight": 29.3,
+        "destination": "FRA",
+        "consignee": "Industry Keller Corp.",
+        "description": "Chemical Compounds - Industrial Sol"
+      }
+    ]
+  }
+}

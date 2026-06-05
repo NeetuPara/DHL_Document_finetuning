@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0847",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Frey Corp.",
+    "shipper_address": "506 Harris Course Suite 253, Kennethview, MO 73382, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Ward Global S.A.",
+    "consignee_address": "72581 Kelly Parkways, Lake Kristinetown, MI 28152, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+83 690-836-3115",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 34,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 97.01,
+        "qty_unit": "L",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-562536",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 30,
+        "pkg_type": "Steel Drum",
+        "net_qty": 46.02,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-608290",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Elizabeth Reyes",
+    "signature_date": "2026-05-06",
+    "signature_place": "Netherlands",
+    "awb_number": "085-84133229",
+    "flight_number": "DL557",
+    "flight_date": "2026-05-25",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "ICN",
+    "destination_airport_name": "Seoul Incheon"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0243",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-86575373",
+    "mawb_number": "057-36993650",
+    "shipper_name": "Johnson Global Ltd",
+    "shipper_address": "4058 Kelsey Land Apt. 783, Ericfort, CA 21764, Canada",
+    "consignee_name": "Lee Global Pte Ltd",
+    "consignee_address": "7675 Lutz Wall Apt. 006, Hernandezberg, LA 30864, Belgium",
+    "agent_name": "Rodgers Tech Corp.",
+    "airport_departure": "ICN",
+    "airport_destination": "LAX",
+    "currency": "USD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "USD 37,787.07",
+    "n_pieces": 33,
+    "gross_weight_kg": 234.3,
+    "chargeable_weight": 250.1,
+    "rate": 2.76,
+    "total_charge": 690.28,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-04-29",
+    "signatory": "Nichole Reyes",
+    "iata_code": "45-460",
+    "agent_cass": "3880-6786",
+    "consolidation_ref": "CONS-4861-533313",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-29471926",
+        "pieces": 17,
+        "weight": 74.0,
+        "destination": "LAX",
+        "consignee": "Elliott Trade Ltd",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "006-22482844",
+        "pieces": 8,
+        "weight": 66.0,
+        "destination": "ORD",
+        "consignee": "Hester Trade B.V.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "057-25296696",
+        "pieces": 4,
+        "weight": 81.0,
+        "destination": "DXB",
+        "consignee": "Commerce Taylor S.A.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "045-85963050",
+        "pieces": 7,
+        "weight": 97.7,
+        "destination": "AMS",
+        "consignee": "Nguyen Commerce Pte Ltd",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "085-80006028",
+        "pieces": 17,
+        "weight": 54.2,
+        "destination": "SIN",
+        "consignee": "Global Lee S.A.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "057-73555005",
+        "pieces": 14,
+        "weight": 46.1,
+        "destination": "CDG",
+        "consignee": "Evans Trade Pte Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "618-37912246",
+        "pieces": 15,
+        "weight": 5.6,
+        "destination": "ORD",
+        "consignee": "Pacific Anderson Pte Ltd",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0895",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "818-02224840-9",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2026-02-05",
+    "port_of_entry": "LAX - Los Angeles",
+    "transport_mode": "Air",
+    "carrier": "DHL Express",
+    "bl_awb": "020-16503001",
+    "importer_name": "Industry Villegas S.A.",
+    "importer_ein": "08-2602867",
+    "consignee_name": "Patterson International B.V.",
+    "customs_broker": "Pacific Osborn Inc.",
+    "broker_filer_code": "JyC",
+    "country_of_origin": "India",
+    "total_value": 344154.37,
+    "total_duty": 52333.18,
+    "currency": "JPY",
+    "signatory": "Albert Lambert",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Singapore",
+        "qty": 245,
+        "unit": "MTR",
+        "entered_value": 109113.2,
+        "duty_rate": 3.9,
+        "duty_amount": 4255.41,
+        "eccn": "2B350",
+        "schedule_b": "5407.42.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "France",
+        "qty": 74,
+        "unit": "PCS",
+        "entered_value": 15898.16,
+        "duty_rate": 11.3,
+        "duty_amount": 1796.49,
+        "eccn": "2B350",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Germany",
+        "qty": 444,
+        "unit": "KGS",
+        "entered_value": 177036.12,
+        "duty_rate": 21.1,
+        "duty_amount": 37354.62,
+        "eccn": "1A002",
+        "schedule_b": "2008.19.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Thailand",
+        "qty": 301,
+        "unit": "KGS",
+        "entered_value": 42106.89,
+        "duty_rate": 21.2,
+        "duty_amount": 8926.66,
+        "eccn": "9A515",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

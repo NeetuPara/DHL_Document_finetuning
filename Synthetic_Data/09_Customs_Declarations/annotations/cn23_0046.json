@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0046",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Dalton Kim",
+    "addressee_company": "Martinez Tech Ltd",
+    "addressee_address": "027 Brady Drive Suite 812, South Nicole, AK 34247, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 7.643,
+    "total_value": 2186.41,
+    "currency": "CHF",
+    "issue_date": "2026-02-28",
+    "reference": "REF-043096",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.631,
+        "value": 444.29,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 8,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.142,
+        "value": 624.0,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 2,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.595,
+        "value": 141.32,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 12,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.923,
+        "value": 565.2,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 7,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.352,
+        "value": 411.6,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Monica Mitchell",
+    "sender_company": "Pacific Howard Pte Ltd",
+    "sender_address": "808 Robert Manor, South Danaborough, WA 89117, United States",
+    "sender_phone": "+1-416-687-6339x45239",
+    "sender_email": "peter69@example.net",
+    "addressee_phone": "215.983.9274",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 2405.05,
+    "postal_charges": 27.57,
+    "tracking_number": "DS913130436HV"
+  }
+}

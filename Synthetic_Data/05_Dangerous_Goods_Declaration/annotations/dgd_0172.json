@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0172",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Clark Tech LLC",
+    "shipper_address": "USCGC Alexander, FPO AA 53305, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Industry Walsh Ltd",
+    "consignee_address": "9330 Martin Knolls, Gonzalezstad, CT 56268, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+19 738-391-8334",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 42,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 9.67,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Dwayne Gould",
+    "signature_date": "2026-04-24",
+    "signature_place": "Belgium",
+    "awb_number": "020-23666761",
+    "flight_number": "LH2830",
+    "flight_date": "2026-06-05",
+    "departure_airport_code": "PVG",
+    "departure_airport_name": "Shanghai Pudong",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi"
+  }
+}

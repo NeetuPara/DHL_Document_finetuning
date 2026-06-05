@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0332",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250406639767",
+    "export_date": "2026-01-30",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Tech Sexton AG",
+    "usppi_ein": "23-5502296",
+    "usppi_address": "580 Wheeler Throughway, South Eric, MA 40953, Mexico",
+    "ultimate_consignee": "Cunningham Trade GmbH",
+    "intermediate_consignee": "Shelton Trade B.V.",
+    "forwarding_agent": "Lopez Pacific Corp.",
+    "destination_country": "United States",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "176-16472160",
+    "total_value": 190215.25,
+    "currency": "AED",
+    "signatory": "Matthew Grant",
+    "line_items": [
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Singapore",
+        "qty": 427,
+        "unit": "LTR",
+        "entered_value": 159779.13,
+        "duty_rate": 24.8,
+        "duty_amount": 39625.22,
+        "eccn": "3A992",
+        "schedule_b": "2901.10.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "France",
+        "qty": 68,
+        "unit": "KGS",
+        "entered_value": 30436.12,
+        "duty_rate": 20.5,
+        "duty_amount": 6239.4,
+        "eccn": "0A919",
+        "schedule_b": "2008.19.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

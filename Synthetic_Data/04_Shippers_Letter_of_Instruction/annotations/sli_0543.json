@@ -1,0 +1,98 @@
+{
+  "document_id": "sli_0543",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202510-5823",
+    "usppi_name": "Trade Williams Corp.",
+    "usppi_address": "51704 Matthew Haven, Heidimouth, IL 56043, Spain",
+    "usppi_country": "Spain",
+    "ein": "90-9946506",
+    "consignee_name": "Trade Stephens LLC",
+    "consignee_address": "362 Rachel Stravenue Apt. 352, South Zacharystad, FM 68661, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Trade Wade GmbH",
+    "forwarder": "Panalpina",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Theresa Payne",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/14",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 150,
+        "unit": "PCS",
+        "weight_kg": 70.67,
+        "value_usd": 16426.71
+      },
+      {
+        "marks": "ABC/44",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 28,
+        "unit": "KGS",
+        "weight_kg": 28.0,
+        "value_usd": 409.66
+      },
+      {
+        "marks": "EXP/17",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 136,
+        "unit": "BOX",
+        "weight_kg": 213.41,
+        "value_usd": 15495.79
+      },
+      {
+        "marks": "ABC/14",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 15,
+        "unit": "PCS",
+        "weight_kg": 257.86,
+        "value_usd": 2651.16
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 136,
+        "unit": "LTR",
+        "weight_kg": 144.86,
+        "value_usd": 855.1
+      },
+      {
+        "marks": "EXP/48",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 80,
+        "unit": "PCS",
+        "weight_kg": 64.62,
+        "value_usd": 39657.85
+      }
+    ],
+    "total_weight_kg": 779.42,
+    "total_value_usd": 75496.27,
+    "vessel": "CSCL GLOBE",
+    "voyage": "262W",
+    "booking_ref": "BKG-485551",
+    "bl_number": "EGLV249933380",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Dubai, AE",
+    "container_number": "MLWP9152622",
+    "seal_number": "BL105121",
+    "container_type": "20'GP",
+    "cbm": 43.098
+  }
+}

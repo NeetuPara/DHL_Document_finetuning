@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0506",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG987780860",
+    "shipper_name": "Rogers International Pte Ltd",
+    "shipper_address": "01926 Linda Square, Lake Christina, CO 89103, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Tech Sanders Pte Ltd",
+    "consignee_address": "84592 Lisa Village Suite 721, West Benjaminstad, NM 13341, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Martin International B.V.",
+    "notify_party_address": "369 Michael Crossroad Suite 343, New Michael, NM 10619, Malaysia",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "200S",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Singapore, SG",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2024-07-11",
+    "issue_place": "Long Beach",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "QJVV6968037",
+        "seal_no": "CL337142",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "SFUK7290873",
+        "seal_no": "BL146673",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "TBJH2352985",
+        "seal_no": "BL479022",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 493,
+    "package_type": "Pallet",
+    "gross_weight_kg": 11078.7,
+    "net_weight_kg": 10255.5,
+    "cbm": 16.568,
+    "marks_and_numbers": "GLB/21"
+  }
+}

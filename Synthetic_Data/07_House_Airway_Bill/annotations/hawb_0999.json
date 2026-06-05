@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0999",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-34824216",
+    "mawb_number": "074-74315479",
+    "shipper_name": "Tech Wells Pte Ltd",
+    "shipper_address": "9651 David Crest, South Craigfurt, DE 08254, United Kingdom",
+    "consignee_name": "Obrien Pacific GmbH",
+    "consignee_address": "4126 Cameron Roads, Lake Melissa, LA 84404, United States",
+    "agent_name": "Garcia Pacific Co.",
+    "airport_departure": "LHR",
+    "airport_destination": "HKG",
+    "currency": "CNY",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "AUD 30,568.21",
+    "n_pieces": 38,
+    "gross_weight_kg": 278.5,
+    "chargeable_weight": 301.0,
+    "rate": 5.68,
+    "total_charge": 1709.68,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-04-18",
+    "signatory": "Lisa Taylor",
+    "iata_code": "86-925",
+    "agent_cass": "8288-8976",
+    "consolidation_ref": "CONS-8768-706260",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-43143327",
+        "pieces": 13,
+        "weight": 85.6,
+        "destination": "MIA",
+        "consignee": "Johnston International Co.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "176-51566972",
+        "pieces": 16,
+        "weight": 59.8,
+        "destination": "DXB",
+        "consignee": "Tech Williams B.V.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "160-98403969",
+        "pieces": 6,
+        "weight": 46.1,
+        "destination": "MIA",
+        "consignee": "International Gonzalez Corp.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "045-34039612",
+        "pieces": 9,
+        "weight": 99.7,
+        "destination": "ICN",
+        "consignee": "Lynch Trade B.V.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "618-48738386",
+        "pieces": 13,
+        "weight": 73.3,
+        "destination": "ICN",
+        "consignee": "Pacific Brock B.V.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "160-20642282",
+        "pieces": 2,
+        "weight": 78.7,
+        "destination": "HKG",
+        "consignee": "Industry Thomas Inc.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "160-97128240",
+        "pieces": 10,
+        "weight": 25.8,
+        "destination": "NRT",
+        "consignee": "Industry Harris Corp.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "020-63199366",
+        "pieces": 11,
+        "weight": 87.4,
+        "destination": "JFK",
+        "consignee": "Trade Wright S.A.",
+        "description": "Plastic Products - Injection Moulde"
+      }
+    ]
+  }
+}

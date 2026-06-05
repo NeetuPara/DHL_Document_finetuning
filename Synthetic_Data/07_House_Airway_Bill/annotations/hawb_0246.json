@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0246",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-28069099",
+    "mawb_number": "057-56258837",
+    "shipper_name": "Haas Global Ltd",
+    "shipper_address": "95137 Francis Plain, West Brittanyhaven, SD 24986, Singapore",
+    "consignee_name": "Tech Cline AG",
+    "consignee_address": "3347 Lisa Gateway, Susanshire, WY 47266, Italy",
+    "agent_name": "Bender Industry B.V.",
+    "airport_departure": "CDG",
+    "airport_destination": "SYD",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "SGD 25,786.45",
+    "declared_value_customs": "NCV",
+    "n_pieces": 6,
+    "gross_weight_kg": 378.8,
+    "chargeable_weight": 406.4,
+    "rate": 11.81,
+    "total_charge": 4799.58,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-02-01",
+    "signatory": "Whitney Griffin",
+    "iata_code": "96-312",
+    "agent_cass": "2108-6522",
+    "consolidation_ref": "CONS-9607-346408",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-69826032",
+        "pieces": 18,
+        "weight": 85.9,
+        "destination": "NRT",
+        "consignee": "Brown Pacific LLC",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "006-67795170",
+        "pieces": 20,
+        "weight": 18.9,
+        "destination": "ORD",
+        "consignee": "Hale Pacific Co.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "160-40880746",
+        "pieces": 2,
+        "weight": 49.7,
+        "destination": "FRA",
+        "consignee": "Trade Oneill Corp.",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

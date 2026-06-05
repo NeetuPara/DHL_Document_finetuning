@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0054",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202012-2671",
+    "usppi_name": "Williams Pacific Corp.",
+    "usppi_address": "6138 Colon Station, Alexandraside, ME 70635, Spain",
+    "usppi_country": "Spain",
+    "ein": "11-9701045",
+    "consignee_name": "Trade Ross Corp.",
+    "consignee_address": "68242 Julia Ridges, Lake Lauren, NJ 34745, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Trade Hartman AG",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Laura Murphy",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/23",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 91,
+        "unit": "LTR",
+        "weight_kg": 96.31,
+        "value_usd": 2555.82
+      },
+      {
+        "marks": "EXP/19",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 121,
+        "unit": "CTN",
+        "weight_kg": 179.62,
+        "value_usd": 2039.32
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 72,
+        "unit": "PKG",
+        "weight_kg": 117.5,
+        "value_usd": 2804.19
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 146,
+        "unit": "MTR",
+        "weight_kg": 145.32,
+        "value_usd": 1786.46
+      },
+      {
+        "marks": "SLI/9",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 71,
+        "unit": "PCS",
+        "weight_kg": 6.65,
+        "value_usd": 4596.34
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 7,
+        "unit": "PCS",
+        "weight_kg": 8.63,
+        "value_usd": 10398.25
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 121,
+        "unit": "PCS",
+        "weight_kg": 32.62,
+        "value_usd": 12665.23
+      }
+    ],
+    "total_weight_kg": 586.65,
+    "total_value_usd": 36845.61,
+    "vessel": "MOL TRIUMPH",
+    "voyage": "391W",
+    "booking_ref": "BKG-526881",
+    "bl_number": "OOLU342712981",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "AUBT7007995",
+    "seal_number": "CL396440",
+    "container_type": "45'HC",
+    "cbm": 13.38
+  }
+}

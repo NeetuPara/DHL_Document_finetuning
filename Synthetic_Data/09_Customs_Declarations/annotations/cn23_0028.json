@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0028",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Earl Kelly",
+    "addressee_company": "Haas Global LLC",
+    "addressee_address": "17297 Lori Meadow, West Natalieberg, ND 66059, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 11.646,
+    "total_value": 2786.99,
+    "currency": "GBP",
+    "issue_date": "2026-01-22",
+    "reference": "REF-451818",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.771,
+        "value": 44.94,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 3,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.194,
+        "value": 422.85,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 17,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.151,
+        "value": 300.73,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 7,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.266,
+        "value": 138.95,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 16,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.264,
+        "value": 1879.52,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_name": "Peter Griffin",
+    "sender_company": "Global Smith Ltd",
+    "sender_address": "370 Amy Corner, Lake Timothy, NY 07343, Netherlands",
+    "sender_phone": "6546321407",
+    "sender_email": "andreaevans@example.net",
+    "addressee_phone": "727.863.6551",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 3065.69,
+    "postal_charges": 15.04,
+    "tracking_number": "WU758863699SD"
+  }
+}

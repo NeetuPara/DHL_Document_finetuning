@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0987",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Warren GmbH",
+    "shipper_address": "7002 Luke Inlet Apt. 385, South Maryhaven, UT 02104, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Pacific Lewis S.A.",
+    "consignee_address": "89100 Carl Park, West Jasonstad, ND 62232, Thailand",
+    "consignee_country": "Thailand",
+    "emergency_telephone": "+93 247-357-5427",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 11,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 61.05,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-613231",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Christina Henderson",
+    "signature_date": "2026-05-12",
+    "signature_place": "Mexico",
+    "awb_number": "618-66470514",
+    "flight_number": "EK8293",
+    "departure_airport_code": "PVG",
+    "departure_airport_name": "Shanghai Pudong",
+    "destination_airport_code": "ICN",
+    "destination_airport_name": "Seoul Incheon",
+    "non_dg_reason": "Consumer commodity ORM-D"
+  }
+}

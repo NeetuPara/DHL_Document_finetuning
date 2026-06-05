@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0658",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202212-2176",
+    "usppi_name": "Weaver Commerce B.V.",
+    "usppi_address": "152 Ryan Ville, Wallerfort, AZ 06299, India",
+    "usppi_country": "India",
+    "ein": "93-6671050",
+    "consignee_name": "Williams Pacific Inc.",
+    "consignee_address": "840 Underwood Plaza Apt. 632, Port Linda, MH 51357, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Commerce Thompson Co.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "Robert Davis",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/13",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 71,
+        "unit": "CTN",
+        "weight_kg": 62.89,
+        "value_usd": 772.48
+      },
+      {
+        "marks": "ABC/5",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 8,
+        "unit": "LTR",
+        "weight_kg": 8.67,
+        "value_usd": 81.45
+      }
+    ],
+    "total_weight_kg": 71.56,
+    "total_value_usd": 853.93,
+    "service": "LCL Ocean",
+    "named_port": "Los Angeles, US",
+    "insurance_value_usd": 45131.18,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-243315",
+    "destination_country": "Brazil"
+  }
+}

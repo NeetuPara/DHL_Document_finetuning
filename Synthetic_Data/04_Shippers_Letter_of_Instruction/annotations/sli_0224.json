@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0224",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202406-1709",
+    "usppi_name": "International Young AG",
+    "usppi_address": "77052 Kirby Rapids, East Caitlinport, NY 39556, Italy",
+    "usppi_country": "Italy",
+    "ein": "40-3313883",
+    "consignee_name": "Jennings Industry Corp.",
+    "consignee_address": "105 Ronald Meadows Suite 340, Mossport, MA 89275, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Industry Carson LLC",
+    "forwarder": "Panalpina",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Mary Atkinson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/33",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 10,
+        "unit": "MTR",
+        "weight_kg": 10.09,
+        "value_usd": 65.47
+      },
+      {
+        "marks": "ABC/36",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 90,
+        "unit": "PKG",
+        "weight_kg": 206.12,
+        "value_usd": 6016.44
+      },
+      {
+        "marks": "EXP/48",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 50,
+        "unit": "CTN",
+        "weight_kg": 116.78,
+        "value_usd": 690.2
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 78,
+        "unit": "KGS",
+        "weight_kg": 78.0,
+        "value_usd": 147.05
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 17,
+        "unit": "BOX",
+        "weight_kg": 6.72,
+        "value_usd": 1150.78
+      },
+      {
+        "marks": "ABC/14",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 98,
+        "unit": "CTN",
+        "weight_kg": 340.07,
+        "value_usd": 5313.34
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 136,
+        "unit": "PCS",
+        "weight_kg": 17.9,
+        "value_usd": 8787.44
+      },
+      {
+        "marks": "SLI/21",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 181,
+        "unit": "LTR",
+        "weight_kg": 180.17,
+        "value_usd": 5008.01
+      }
+    ],
+    "total_weight_kg": 955.85,
+    "total_value_usd": 27178.73,
+    "service": "LCL Ocean",
+    "named_port": "Tokyo, JP",
+    "insurance_value_usd": 11381.47,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-344483",
+    "destination_country": "Brazil"
+  }
+}

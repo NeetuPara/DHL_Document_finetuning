@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0253",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU580436974",
+    "shipper_name": "Smith Global S.A.",
+    "shipper_address": "834 Dean Underpass Suite 722, West Norma, WI 24076, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Jimenez International Corp.",
+    "consignee_address": "295 Victoria Shoals Suite 051, Angelaside, GU 49155, Canada",
+    "consignee_country": "Canada",
+    "notify_party_name": "Mcdonald Commerce Corp.",
+    "notify_party_address": "572 Dwayne Court Apt. 840, Kristinton, ME 50073, Singapore",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "722E",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2024-05-22",
+    "issue_place": "Dubai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "NEYO8990446",
+        "seal_no": "CL288217",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "BMEQ5088230",
+        "seal_no": "CL814677",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "BKGL5074960",
+        "seal_no": "BL779655",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 11,
+    "package_type": "Crate",
+    "gross_weight_kg": 17813.1,
+    "net_weight_kg": 16162.3,
+    "cbm": 1.227,
+    "marks_and_numbers": "GLB/29"
+  }
+}

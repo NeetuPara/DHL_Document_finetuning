@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0146",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU202320714",
+    "shipper_name": "Trade Castro Ltd",
+    "shipper_address": "303 Beck Haven Suite 419, Deborahmouth, SC 99478, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Trade Silva B.V.",
+    "consignee_address": "532 Susan Shores, Angelaport, MH 63170, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "Commerce Wilson LLC",
+    "notify_party_address": "392 Kaufman Burg, South Russellland, FM 89370, Mexico",
+    "vessel": "EVER GOLDEN",
+    "voyage": "765W",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Felixstowe, GB",
+    "place_of_receipt": "Dubai, AE",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2026-01-04",
+    "issue_place": "Dubai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "TYTN8921639",
+        "seal_no": "BL770892",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "QLRQ6486946",
+        "seal_no": "BL902957",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "OGRT0489748",
+        "seal_no": "CL220674",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "BVYY6244211",
+        "seal_no": "BL323412",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 161,
+    "package_type": "Carton",
+    "gross_weight_kg": 23264.8,
+    "net_weight_kg": 22385.0,
+    "cbm": 17.035,
+    "marks_and_numbers": "XYZ/2"
+  }
+}

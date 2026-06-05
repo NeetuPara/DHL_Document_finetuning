@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0612",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Moore Trade Corp.",
+    "shipper_address": "80665 Kerr Stravenue Apt. 687, Port Dylanhaven, IL 39874, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Global Hudson S.A.",
+    "consignee_address": "77222 Dawn Light Apt. 668, Hernandezton, MO 33463, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "emergency_telephone": "+43 183-718-7786",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 50,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 24.36,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-799382",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Willie Boyd",
+    "signature_date": "2026-04-29",
+    "signature_place": "United Kingdom",
+    "awb_number": "057-38586471",
+    "flight_number": "DL2345",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

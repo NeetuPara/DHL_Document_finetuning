@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0158",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Parker B.V.",
+    "shipper_address": "944 Rebecca Ridge, West Steven, VA 84481, United States",
+    "shipper_country": "United States",
+    "consignee_name": "International Rios Pte Ltd",
+    "consignee_address": "2788 Manning Skyway Suite 215, North Patricia, NV 43034, China",
+    "consignee_country": "China",
+    "emergency_telephone": "+64 897-251-6510",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 46,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 74.02,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Laura Mcdowell",
+    "signature_date": "2026-05-06",
+    "signature_place": "United States",
+    "vessel": "MSC OSCAR",
+    "voyage": "883E",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Busan, KR"
+  }
+}

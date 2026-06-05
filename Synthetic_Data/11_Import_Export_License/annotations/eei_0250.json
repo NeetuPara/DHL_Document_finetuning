@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0250",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "145-25149150-5",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2025-08-29",
+    "port_of_entry": "ORD - Chicago",
+    "transport_mode": "Air",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "618-16993762",
+    "importer_name": "Bishop Pacific S.A.",
+    "importer_ein": "28-1029768",
+    "consignee_name": "Frye Tech GmbH",
+    "customs_broker": "Industry Jarvis Ltd",
+    "broker_filer_code": "Aej",
+    "country_of_origin": "United Arab Emirates",
+    "total_value": 329932.26,
+    "total_duty": 29111.49,
+    "currency": "AUD",
+    "signatory": "Corey Mcbride Jr.",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Italy",
+        "qty": 386,
+        "unit": "MTR",
+        "entered_value": 42390.52,
+        "duty_rate": 1.8,
+        "duty_amount": 763.03,
+        "eccn": "3A992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Spain",
+        "qty": 442,
+        "unit": "SET",
+        "entered_value": 144653.34,
+        "duty_rate": 11.3,
+        "duty_amount": 16345.83,
+        "eccn": "7A994",
+        "schedule_b": "8708.30.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Japan",
+        "qty": 340,
+        "unit": "MTR",
+        "entered_value": 142888.4,
+        "duty_rate": 8.4,
+        "duty_amount": 12002.63,
+        "eccn": "2B350",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

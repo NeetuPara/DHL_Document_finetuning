@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0729",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-12552382",
+    "mawb_number": "176-22160276",
+    "shipper_name": "Global Johnson AG",
+    "shipper_address": "Unit 9084 Box 9607, DPO AE 38782, United Kingdom",
+    "consignee_name": "Holland Pacific Co.",
+    "consignee_address": "63995 Michelle Divide Apt. 195, Lake Christopher, SC 94647, Germany",
+    "agent_name": "Taylor Tech LLC",
+    "airport_departure": "CDG",
+    "airport_destination": "ICN",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 24,
+    "gross_weight_kg": 25.9,
+    "chargeable_weight": 28.3,
+    "rate": 9.29,
+    "total_charge": 262.91,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-12-28",
+    "signatory": "Jamie Jones",
+    "iata_code": "96-139",
+    "agent_cass": "4595-1915",
+    "consolidation_ref": "CONS-1577-920124",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-68002495",
+        "pieces": 2,
+        "weight": 62.8,
+        "destination": "DXB",
+        "consignee": "Jimenez Tech B.V.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "176-19413887",
+        "pieces": 2,
+        "weight": 66.8,
+        "destination": "YYZ",
+        "consignee": "Green Industry B.V.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "176-82143407",
+        "pieces": 6,
+        "weight": 57.4,
+        "destination": "ORD",
+        "consignee": "Commerce Walters Pte Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      }
+    ]
+  }
+}

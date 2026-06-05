@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0242",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202409-6482",
+    "usppi_name": "Commerce Hood B.V.",
+    "usppi_address": "81834 Ellis Isle Apt. 074, New Dianaview, OH 01557, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "21-3951217",
+    "consignee_name": "Taylor Global Inc.",
+    "consignee_address": "77768 Malone Wall Apt. 879, North Melissa, MP 15686, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Vazquez Tech S.A.",
+    "forwarder": "Panalpina",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Amber Quinn",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/16",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 177,
+        "unit": "KGS",
+        "weight_kg": 177.0,
+        "value_usd": 390.45
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 96,
+        "unit": "BOX",
+        "weight_kg": 39.58,
+        "value_usd": 3997.14
+      }
+    ],
+    "total_weight_kg": 216.58,
+    "total_value_usd": 4387.59,
+    "service": "LCL Ocean",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 43443.06,
+    "license_type": "Distributor License",
+    "license_number": "LIC-577686",
+    "destination_country": "South Korea"
+  }
+}

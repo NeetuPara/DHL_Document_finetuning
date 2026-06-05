@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0358",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Ryan Mullins",
+    "addressee_company": "Porter Global Co.",
+    "addressee_address": "653 Luna Stravenue, Donaldton, FM 57297, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 20.556,
+    "total_value": 8323.21,
+    "currency": "GBP",
+    "issue_date": "2026-04-12",
+    "reference": "REF-017603",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.938,
+        "value": 379.25,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 14,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.85,
+        "value": 2095.24,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 14,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.976,
+        "value": 1821.4,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 18,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.627,
+        "value": 1668.06,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 17,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.636,
+        "value": 874.14,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 12,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.529,
+        "value": 1485.12,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_name": "Christine Pope",
+    "sender_company": "Webb Industry S.A.",
+    "sender_address": "318 Jackson Stravenue Suite 576, Walkermouth, FL 37307, South Korea",
+    "sender_phone": "001-423-674-0597x7775",
+    "sender_email": "tcunningham@example.net",
+    "addressee_phone": "726.518.0121x69003",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 9155.53,
+    "postal_charges": 23.02,
+    "tracking_number": "KB622524363PI"
+  }
+}

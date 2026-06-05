@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0860",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Scott Pacific AG",
+    "shipper_address": "84186 Pena Glens, Port Peterbury, MA 36045, India",
+    "shipper_country": "India",
+    "consignee_name": "Ross Pacific S.A.",
+    "consignee_address": "USS Brown, FPO AE 81507, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+35 982-261-7726",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 1,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 58.98,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-202290",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jack Hall",
+    "signature_date": "2026-04-19",
+    "signature_place": "India",
+    "vessel": "ONE INNOVATION",
+    "voyage": "659W",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Busan, KR"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0285",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202305-1184",
+    "usppi_name": "Cooke International Ltd",
+    "usppi_address": "93996 Smith Garden, Holmesport, SD 69903, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "87-5055775",
+    "consignee_name": "Pacific White Pte Ltd",
+    "consignee_address": "14922 Romero Highway, Cherryside, PW 03505, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Gutierrez Trade Inc.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Mr. Christopher Montgomery",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/14",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 30,
+        "unit": "PCS",
+        "weight_kg": 36.53,
+        "value_usd": 852.15
+      },
+      {
+        "marks": "SLI/26",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 14,
+        "unit": "PCS",
+        "weight_kg": 1.21,
+        "value_usd": 886.35
+      },
+      {
+        "marks": "EXP/2",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 46,
+        "unit": "PCS",
+        "weight_kg": 11.7,
+        "value_usd": 1673.09
+      },
+      {
+        "marks": "SLI/49",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 111,
+        "unit": "PKG",
+        "weight_kg": 91.33,
+        "value_usd": 1546.48
+      }
+    ],
+    "total_weight_kg": 140.77,
+    "total_value_usd": 4958.07,
+    "vessel": "ONE INNOVATION",
+    "voyage": "486E",
+    "booking_ref": "BKG-190278",
+    "bl_number": "DHLG678120354",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Tokyo, JP",
+    "container_number": "IWLT1467655",
+    "seal_number": "SL465646",
+    "container_type": "40'GP",
+    "cbm": 14.24
+  }
+}

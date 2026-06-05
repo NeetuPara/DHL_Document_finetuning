@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0964",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Thomas Gay",
+    "addressee_company": "Reese Trade AG",
+    "addressee_address": "Unit 3769 Box 5467, DPO AP 65898, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 13.693,
+    "total_value": 2849.87,
+    "currency": "CAD",
+    "issue_date": "2025-12-04",
+    "reference": "REF-911782",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.115,
+        "value": 1597.0,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 2,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.801,
+        "value": 35.98,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 11,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.805,
+        "value": 809.49,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 12,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.972,
+        "value": 407.4,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Tricia Horn",
+    "sender_company": "Global Dorsey Corp.",
+    "sender_address": "1111 Davenport Port Suite 507, South Sarah, AR 71595, Switzerland",
+    "sender_phone": "681-508-5491x0190",
+    "sender_email": "stephanie03@example.net",
+    "addressee_phone": "203.794.7088x509",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 3134.86,
+    "postal_charges": 13.85,
+    "tracking_number": "LY580338121QH"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0287",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202406-2368",
+    "usppi_name": "Silva International AG",
+    "usppi_address": "820 Juan Harbor Apt. 129, Lake Chelsey, MT 71243, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "32-2591112",
+    "consignee_name": "Trade Gill Ltd",
+    "consignee_address": "073 Morrison Park, East Kimberly, LA 21425, United States",
+    "consignee_country": "United States",
+    "notify_party": "Guzman Tech Co.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "EAR99",
+    "signatory_name": "Laura Hughes",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/16",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 102,
+        "unit": "PKG",
+        "weight_kg": 260.78,
+        "value_usd": 5988.63
+      },
+      {
+        "marks": "SLI/34",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 167,
+        "unit": "PCS",
+        "weight_kg": 3181.17,
+        "value_usd": 66579.03
+      },
+      {
+        "marks": "SLI/40",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 100,
+        "unit": "KGS",
+        "weight_kg": 100.0,
+        "value_usd": 209.79
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 12,
+        "unit": "CTN",
+        "weight_kg": 36.4,
+        "value_usd": 849.83
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 111,
+        "unit": "PCS",
+        "weight_kg": 39.22,
+        "value_usd": 3644.14
+      }
+    ],
+    "total_weight_kg": 3617.57,
+    "total_value_usd": 77271.42,
+    "service": "Ocean Freight",
+    "named_port": "Busan, KR",
+    "insurance_value_usd": 18516.68,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "United States"
+  }
+}

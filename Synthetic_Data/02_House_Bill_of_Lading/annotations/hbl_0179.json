@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0179",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU845960693",
+    "shipper_name": "Commerce Farley Corp.",
+    "shipper_address": "65433 Morgan Pines, West Hannah, WV 70487, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Pacific Carrillo S.A.",
+    "consignee_address": "570 Mcclain Cove Suite 118, Ryanchester, IL 75162, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party_name": "Peterson Industry Ltd",
+    "notify_party_address": "9211 Williams Parkway Apt. 150, Perezchester, VA 41845, China",
+    "vessel": "YANG MING MYTH",
+    "voyage": "246W",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2025-09-18",
+    "issue_place": "Tokyo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "COJC1491987",
+        "seal_no": "CL347939",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "LFJF7579541",
+        "seal_no": "BL957488",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "CLHL0344716",
+        "seal_no": "BL470964",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 125,
+    "package_type": "Crate",
+    "gross_weight_kg": 6657.7,
+    "net_weight_kg": 5947.2,
+    "cbm": 9.621,
+    "marks_and_numbers": "GLB/8"
+  }
+}

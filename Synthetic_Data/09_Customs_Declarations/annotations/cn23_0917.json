@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0917",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Lynn Alvarado",
+    "addressee_company": "International Beard B.V.",
+    "addressee_address": "74905 Lopez Drives, New Sarahshire, DE 97243, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 8.874,
+    "total_value": 3116.92,
+    "currency": "EUR",
+    "issue_date": "2025-10-29",
+    "reference": "REF-517797",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.269,
+        "value": 840.87,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 18,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.298,
+        "value": 1630.8,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 5,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.307,
+        "value": 645.25,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Brandon Davidson",
+    "sender_company": "Pacific Stewart Inc.",
+    "sender_address": "88781 Daniel Brook, Lake Christianport, MA 23239, Mexico",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 36.69,
+    "tracking_number": "KS204348031WZ"
+  }
+}

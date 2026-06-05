@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0152",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG320868654",
+    "shipper_name": "International Hernandez LLC",
+    "shipper_address": "37267 Briggs Garden Suite 490, New Travisfort, RI 90832, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Pacific Henry Ltd",
+    "consignee_address": "3907 Natalie Route Suite 233, East Kelseytown, TX 54442, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Perez Industry S.A.",
+    "notify_party_address": "03402 Jacqueline Field, Brettland, MS 26870, Germany",
+    "vessel": "ONE INNOVATION",
+    "voyage": "257N",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2024-12-24",
+    "issue_place": "Shanghai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "LHCD0327315",
+        "seal_no": "BL765671",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "HKIG3980899",
+        "seal_no": "BL559382",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "EPIR5303647",
+        "seal_no": "CL266255",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "CBFG3096779",
+        "seal_no": "SL519689",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 352,
+    "package_type": "Roll",
+    "gross_weight_kg": 5349.8,
+    "net_weight_kg": 4859.9,
+    "cbm": 23.832,
+    "marks_and_numbers": "GLB/20"
+  }
+}

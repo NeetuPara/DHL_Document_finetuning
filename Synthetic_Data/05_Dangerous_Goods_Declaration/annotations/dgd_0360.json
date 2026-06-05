@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0360",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Jordan Commerce Inc.",
+    "shipper_address": "Unit 6592 Box 0105, DPO AP 87068, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Smith Trade Co.",
+    "consignee_address": "29713 Jay Vista Apt. 804, West Alexandraville, KY 82830, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+14 414-508-6638",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 8,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 17.09,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Justin Hamilton",
+    "signature_date": "2026-05-12",
+    "signature_place": "Sweden",
+    "awb_number": "057-34373679",
+    "flight_number": "LH9887",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

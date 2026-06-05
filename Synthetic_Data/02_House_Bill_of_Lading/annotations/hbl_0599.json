@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0599",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG430716650",
+    "shipper_name": "Pierce Industry B.V.",
+    "shipper_address": "09035 Gray Village, North William, ND 57662, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Boyd International Inc.",
+    "consignee_address": "97868 Rachael Estates Suite 820, New Karinaview, MO 72138, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party_name": "Pacific Blevins S.A.",
+    "notify_party_address": "4082 Melinda Locks Suite 666, Lake Jerryshire, MN 76924, United Kingdom",
+    "vessel": "YANG MING MYTH",
+    "voyage": "568S",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2026-01-27",
+    "issue_place": "Antwerp",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "TIKD4974217",
+        "seal_no": "BL563030",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "VNMX4650838",
+        "seal_no": "SL789420",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "KCKD6947444",
+        "seal_no": "BL472918",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "BGRV4900723",
+        "seal_no": "SL443630",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 434,
+    "package_type": "Carton",
+    "gross_weight_kg": 13707.1,
+    "net_weight_kg": 13258.0,
+    "cbm": 30.361,
+    "marks_and_numbers": "ABC/13"
+  }
+}

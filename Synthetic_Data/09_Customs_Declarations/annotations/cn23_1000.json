@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_1000",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jonathan Young",
+    "addressee_company": "International Bailey B.V.",
+    "addressee_address": "4800 Karen Avenue, Shieldsland, NY 28310, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 8.971,
+    "total_value": 576.26,
+    "currency": "SGD",
+    "issue_date": "2025-07-10",
+    "reference": "REF-179529",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.6,
+        "value": 193.82,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 12,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.371,
+        "value": 382.44,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Melissa Wright",
+    "sender_company": "Trade Lopez Ltd",
+    "sender_address": "9352 Moore Village Suite 553, Hallport, FL 51347, China",
+    "sender_phone": "995-452-0886x699",
+    "sender_email": "tvillanueva@example.net",
+    "addressee_phone": "(536)645-6558x6005",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 8.63,
+    "tracking_number": "BN425790083RZ"
+  }
+}

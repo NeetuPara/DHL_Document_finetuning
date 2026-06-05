@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0885",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202011-2952",
+    "usppi_name": "Shannon Trade Inc.",
+    "usppi_address": "733 Heather Lodge, Crystalbury, WY 89192, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "38-1673677",
+    "consignee_name": "Williams International S.A.",
+    "consignee_address": "5993 Calhoun Course Apt. 643, West Rachel, NV 60651, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Industry Wilcox Inc.",
+    "forwarder": "Expeditors",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5A002",
+    "signatory_name": "Elizabeth Murphy",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/33",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 77,
+        "unit": "PCS",
+        "weight_kg": 1054.09,
+        "value_usd": 34021.59
+      },
+      {
+        "marks": "SLI/46",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 92,
+        "unit": "PCS",
+        "weight_kg": 127.92,
+        "value_usd": 12557.7
+      },
+      {
+        "marks": "ABC/28",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 64,
+        "unit": "KGS",
+        "weight_kg": 64.0,
+        "value_usd": 271.51
+      },
+      {
+        "marks": "SLI/14",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 29,
+        "unit": "KGS",
+        "weight_kg": 29.0,
+        "value_usd": 52.46
+      }
+    ],
+    "total_weight_kg": 1275.01,
+    "total_value_usd": 46903.26,
+    "vessel": "OOCL HONG KONG",
+    "voyage": "438N",
+    "booking_ref": "BKG-884304",
+    "bl_number": "MAEU977695941",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Tokyo, JP",
+    "container_number": "MDCW5982406",
+    "seal_number": "BL727387",
+    "container_type": "20'GP",
+    "cbm": 8.417
+  }
+}

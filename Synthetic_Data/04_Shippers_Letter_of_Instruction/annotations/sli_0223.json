@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0223",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202209-7636",
+    "usppi_name": "Pacific Henry LLC",
+    "usppi_address": "748 Fischer Course, Kristenbury, LA 27931, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "20-7575870",
+    "consignee_name": "Guzman International B.V.",
+    "consignee_address": "353 James Station Apt. 241, East Robertland, MT 14521, United States",
+    "consignee_country": "United States",
+    "notify_party": "Industry West S.A.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Monica Williams",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/46",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 180,
+        "unit": "CTN",
+        "weight_kg": 561.58,
+        "value_usd": 2449.01
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 54,
+        "unit": "LTR",
+        "weight_kg": 55.89,
+        "value_usd": 808.9
+      }
+    ],
+    "total_weight_kg": 617.47,
+    "total_value_usd": 3257.91,
+    "service": "LCL Ocean",
+    "named_port": "Hong Kong, HK",
+    "insurance_value_usd": 29964.25,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-942651",
+    "destination_country": "United States"
+  }
+}

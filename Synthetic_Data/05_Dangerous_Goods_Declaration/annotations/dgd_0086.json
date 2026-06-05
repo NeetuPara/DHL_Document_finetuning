@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0086",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Ray Tech B.V.",
+    "shipper_address": "281 Samantha Plaza, East Michaelberg, WI 51995, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Hill Global Inc.",
+    "consignee_address": "Unit 0234 Box 9231, DPO AE 20240, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+18 357-269-1342",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 17,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 82.45,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 42,
+        "pkg_type": "Steel Drum",
+        "net_qty": 90.37,
+        "qty_unit": "kg",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-600175",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Melissa Watson",
+    "signature_date": "2026-05-06",
+    "signature_place": "Malaysia",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "889S",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Rotterdam, NL"
+  }
+}

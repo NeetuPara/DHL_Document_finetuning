@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0056",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV893814702",
+    "shipper_name": "Flores International S.A.",
+    "shipper_address": "424 Jack Canyon Suite 155, New Cory, NY 87680, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Industry Anderson S.A.",
+    "consignee_address": "54413 Barbara Green, Alexanderland, WY 20556, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "Industry Tran Inc.",
+    "notify_party_address": "6514 Laura Manor Apt. 172, West Jimmymouth, OK 53487, India",
+    "vessel": "MSC GULSUN",
+    "voyage": "160S",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2024-09-22",
+    "issue_place": "Long Beach",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "KFBK6061569",
+        "seal_no": "SL382489",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "PKND3531606",
+        "seal_no": "SL595803",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "BJRY9151534",
+        "seal_no": "BL182965",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 437,
+    "package_type": "Drum",
+    "gross_weight_kg": 8089.9,
+    "net_weight_kg": 7579.7,
+    "cbm": 19.81,
+    "marks_and_numbers": "GLB/36"
+  }
+}

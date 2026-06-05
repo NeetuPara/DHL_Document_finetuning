@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0431",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202305-9756",
+    "usppi_name": "Gonzales Trade Inc.",
+    "usppi_address": "02773 Todd Extension Suite 439, Matthewchester, PA 75867, China",
+    "usppi_country": "China",
+    "ein": "63-6089596",
+    "consignee_name": "Thomas Tech Pte Ltd",
+    "consignee_address": "54418 Kevin Union Suite 977, Jordanberg, IN 81488, United States",
+    "consignee_country": "United States",
+    "notify_party": "Hall Global S.A.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "4A994",
+    "signatory_name": "Kathy Evans",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/37",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 61,
+        "unit": "PCS",
+        "weight_kg": 852.51,
+        "value_usd": 16765.39
+      },
+      {
+        "marks": "EXP/31",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 92,
+        "unit": "MTR",
+        "weight_kg": 81.16,
+        "value_usd": 576.97
+      },
+      {
+        "marks": "SLI/46",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 180,
+        "unit": "LTR",
+        "weight_kg": 183.96,
+        "value_usd": 1022.94
+      }
+    ],
+    "total_weight_kg": 1117.63,
+    "total_value_usd": 18365.3,
+    "service": "Express Courier",
+    "named_port": "Seoul Incheon",
+    "insurance_value_usd": 48826.77,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-674013",
+    "destination_country": "United States"
+  }
+}

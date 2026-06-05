@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0983",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Harris Inc.",
+    "shipper_address": "6344 Lambert Terrace Apt. 007, Lake Edward, MT 42703, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Simmons Commerce AG",
+    "consignee_address": "USNV Washington, FPO AA 21886, Malaysia",
+    "consignee_country": "Malaysia",
+    "emergency_telephone": "+96 461-539-2760",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 41,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 41.8,
+        "qty_unit": "kg",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Alicia Andrews",
+    "signature_date": "2026-04-29",
+    "signature_place": "Sweden",
+    "vessel": "PIL PACIFIC",
+    "voyage": "179W",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "New York, US"
+  }
+}

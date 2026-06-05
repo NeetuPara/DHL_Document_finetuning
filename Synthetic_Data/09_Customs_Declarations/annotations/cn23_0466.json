@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0466",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Sarah Hunt",
+    "addressee_company": "Ford Global Pte Ltd",
+    "addressee_address": "66400 Donna Walks Suite 838, Catherineton, MO 82439, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 13.068,
+    "total_value": 8969.44,
+    "currency": "CNY",
+    "issue_date": "2025-09-02",
+    "reference": "REF-282445",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.759,
+        "value": 1801.2,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 18,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.11,
+        "value": 2055.24,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 10,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.26,
+        "value": 598.5,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 13,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.739,
+        "value": 787.41,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 15,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.324,
+        "value": 1482.75,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 17,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.876,
+        "value": 2244.34,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Sharon Brennan",
+    "sender_company": "Jackson Global Co.",
+    "sender_address": "USS Williams, FPO AP 68783, Australia",
+    "sender_phone": "417.261.3540",
+    "sender_email": "jluna@example.net",
+    "addressee_phone": "886.227.7054x1520",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 9866.38,
+    "postal_charges": 55.61,
+    "tracking_number": "GU100324929YW"
+  }
+}

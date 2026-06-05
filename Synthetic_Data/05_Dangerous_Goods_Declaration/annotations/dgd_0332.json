@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0332",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Barton Tech Pte Ltd",
+    "shipper_address": "912 Paul Springs Apt. 874, Lake Jeffery, DC 42838, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Tech Richardson B.V.",
+    "consignee_address": "028 Julie Fall, Lake Michaelville, PA 08314, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+5 155-977-5598",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 28,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 2.76,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-318701",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Kathy Rogers",
+    "signature_date": "2026-04-26",
+    "signature_place": "Sweden",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "971E",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Hamburg, DE"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0811",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "259-25258313-8",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2025-12-25",
+    "port_of_entry": "SFO - San Francisco",
+    "transport_mode": "Hand-Carried",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "074-81054750",
+    "importer_name": "Trade Peterson GmbH",
+    "importer_ein": "68-6846376",
+    "consignee_name": "Jenkins Tech GmbH",
+    "customs_broker": "Torres International GmbH",
+    "broker_filer_code": "Dhh",
+    "country_of_origin": "Australia",
+    "total_value": 224192.34,
+    "total_duty": 24329.23,
+    "currency": "USD",
+    "signatory": "Joseph Johnson",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Netherlands",
+        "qty": 290,
+        "unit": "MTR",
+        "entered_value": 29217.5,
+        "duty_rate": 17.3,
+        "duty_amount": 5054.63,
+        "eccn": "5E992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Brazil",
+        "qty": 286,
+        "unit": "CTN",
+        "entered_value": 49649.6,
+        "duty_rate": 11.6,
+        "duty_amount": 5759.35,
+        "eccn": "5E992",
+        "schedule_b": "4819.10.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "United States",
+        "qty": 316,
+        "unit": "PCS",
+        "entered_value": 145325.24,
+        "duty_rate": 9.3,
+        "duty_amount": 13515.25,
+        "eccn": "9A515",
+        "schedule_b": "8518.30.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

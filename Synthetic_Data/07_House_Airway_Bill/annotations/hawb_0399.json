@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0399",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-71880576",
+    "mawb_number": "125-66167659",
+    "shipper_name": "Jones Commerce LLC",
+    "shipper_address": "1089 Ward Burgs Apt. 548, Boydville, NC 54509, India",
+    "consignee_name": "Johnson Trade Corp.",
+    "consignee_address": "06376 Durham Greens, Conleyborough, PR 74223, Japan",
+    "agent_name": "Anderson Global GmbH",
+    "airport_departure": "ORD",
+    "airport_destination": "SYD",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "EUR 23,860.17",
+    "n_pieces": 32,
+    "gross_weight_kg": 86.9,
+    "chargeable_weight": 109.3,
+    "rate": 3.75,
+    "total_charge": 409.88,
+    "nature_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "handling_info": "HANDLING CODE: AVI",
+    "issue_date": "2025-10-11",
+    "signatory": "Allen Williams",
+    "iata_code": "36-191",
+    "agent_cass": "0045-4011",
+    "consolidation_ref": "CONS-8404-918445",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-62295795",
+        "pieces": 16,
+        "weight": 77.3,
+        "destination": "ORD",
+        "consignee": "Mccoy Commerce B.V.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "006-18921729",
+        "pieces": 9,
+        "weight": 40.7,
+        "destination": "SIN",
+        "consignee": "Miller Industry AG",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "006-12005736",
+        "pieces": 16,
+        "weight": 7.0,
+        "destination": "SYD",
+        "consignee": "Industry Turner Ltd",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

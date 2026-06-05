@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0841",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Wolf Co.",
+    "shipper_address": "23632 William Ways Apt. 423, Proctorville, MO 24913, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Bishop International LLC",
+    "consignee_address": "USCGC Soto, FPO AE 40135, Netherlands",
+    "consignee_country": "Netherlands",
+    "emergency_telephone": "+99 365-918-4110",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 36,
+        "pkg_type": "Steel Drum",
+        "net_qty": 97.92,
+        "qty_unit": "g",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-381057",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jerry Mosley",
+    "signature_date": "2026-04-30",
+    "signature_place": "Mexico",
+    "awb_number": "006-75333663",
+    "flight_number": "QR113",
+    "flight_date": "2026-05-28",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi"
+  }
+}

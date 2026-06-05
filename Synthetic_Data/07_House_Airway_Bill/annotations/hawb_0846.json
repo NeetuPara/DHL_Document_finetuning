@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0846",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-10830812",
+    "mawb_number": "057-15473112",
+    "shipper_name": "Haas Tech S.A.",
+    "shipper_address": "207 Hernandez Highway Suite 375, West Shannon, VA 78397, Germany",
+    "consignee_name": "Herring Tech Corp.",
+    "consignee_address": "467 Laurie Crest Suite 076, South Rebecca, AL 54600, Belgium",
+    "agent_name": "Durham Pacific AG",
+    "airport_departure": "FRA",
+    "airport_destination": "JFK",
+    "currency": "CNY",
+    "charge_code": "CC",
+    "declared_value_carriage": "CNY 1,912.87",
+    "declared_value_customs": "AUD 40,351.60",
+    "n_pieces": 2,
+    "gross_weight_kg": 239.8,
+    "chargeable_weight": 279.3,
+    "rate": 9.98,
+    "total_charge": 2787.41,
+    "nature_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-01-07",
+    "signatory": "Ashley Houston",
+    "iata_code": "98-048",
+    "agent_cass": "8617-8919",
+    "consolidation_ref": "CONS-9548-183865",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-58811073",
+        "pieces": 8,
+        "weight": 30.5,
+        "destination": "ORD",
+        "consignee": "Henry Industry GmbH",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "176-51136983",
+        "pieces": 9,
+        "weight": 5.7,
+        "destination": "HKG",
+        "consignee": "Beasley Pacific Inc.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "020-36535224",
+        "pieces": 17,
+        "weight": 53.9,
+        "destination": "AMS",
+        "consignee": "Pacific Wright Pte Ltd",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "057-73679093",
+        "pieces": 5,
+        "weight": 92.6,
+        "destination": "NRT",
+        "consignee": "Rocha Industry LLC",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "057-40987896",
+        "pieces": 10,
+        "weight": 15.2,
+        "destination": "ICN",
+        "consignee": "Tech Morales Pte Ltd",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

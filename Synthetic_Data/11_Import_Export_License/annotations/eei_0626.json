@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0626",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20211207683336",
+    "export_date": "2025-07-12",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Perez Pacific S.A.",
+    "usppi_ein": "18-5500819",
+    "usppi_address": "78042 Daniel Grove Suite 434, Port Stephanie, MN 44679, India",
+    "ultimate_consignee": "Pacific Johnson Ltd",
+    "intermediate_consignee": "Tech Lee AG",
+    "forwarding_agent": "Commerce Johnson Pte Ltd",
+    "destination_country": "Australia",
+    "carrier": "UPS",
+    "bl_awb": "618-31986397",
+    "total_value": 27743.07,
+    "currency": "CNY",
+    "signatory": "Bradley Neal",
+    "line_items": [
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Netherlands",
+        "qty": 252,
+        "unit": "PCS",
+        "entered_value": 1622.88,
+        "duty_rate": 13.6,
+        "duty_amount": 220.71,
+        "eccn": "1A002",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Australia",
+        "qty": 26,
+        "unit": "PCS",
+        "entered_value": 6258.46,
+        "duty_rate": 13.8,
+        "duty_amount": 863.67,
+        "eccn": "EAR99",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Brazil",
+        "qty": 329,
+        "unit": "PCS",
+        "entered_value": 19861.73,
+        "duty_rate": 6.7,
+        "duty_amount": 1330.74,
+        "eccn": "5E992",
+        "schedule_b": "9002.11.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

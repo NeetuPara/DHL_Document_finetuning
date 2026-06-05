@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0172",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202503-9700",
+    "usppi_name": "Industry Dickson S.A.",
+    "usppi_address": "65115 Bradley Street, Port Brooke, AK 62247, India",
+    "usppi_country": "India",
+    "ein": "12-4883815",
+    "consignee_name": "International Clark GmbH",
+    "consignee_address": "Unit 0540 Box 6910, DPO AA 83007, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party": "Gonzales Global Pte Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DPU",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "3A992",
+    "signatory_name": "Brandon Lewis",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/25",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 137,
+        "unit": "MTR",
+        "weight_kg": 73.84,
+        "value_usd": 2272.02
+      },
+      {
+        "marks": "SLI/35",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 29,
+        "unit": "PCS",
+        "weight_kg": 1.51,
+        "value_usd": 2749.32
+      }
+    ],
+    "total_weight_kg": 75.35,
+    "total_value_usd": 5021.34,
+    "service": "LCL Ocean",
+    "named_port": "New York, US",
+    "insurance_value_usd": 22282.95,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-838120",
+    "destination_country": "United Arab Emirates"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0011",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU453848865",
+    "shipper_name": "Industry George B.V.",
+    "shipper_address": "997 Mary Burg, West Marymouth, PA 10300, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Howe International Corp.",
+    "consignee_address": "947 Bradford Expressway, East Jamesland, CO 95395, Poland",
+    "consignee_country": "Poland",
+    "notify_party_name": "Watts Tech B.V.",
+    "notify_party_address": "682 Brandon Terrace, Port Nancy, PW 62609, France",
+    "vessel": "ONE INNOVATION",
+    "voyage": "803N",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "Felixstowe, GB",
+    "place_of_delivery": "Hong Kong, HK",
+    "issue_date": "2024-09-11",
+    "issue_place": "Los Angeles",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "JDST2019653",
+        "seal_no": "CL714813",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "RUXZ4737983",
+        "seal_no": "BL533467",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "TBAU2502579",
+        "seal_no": "BL348874",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 388,
+    "package_type": "Bag",
+    "gross_weight_kg": 20529.4,
+    "net_weight_kg": 19220.5,
+    "cbm": 38.448,
+    "marks_and_numbers": "XYZ/26"
+  }
+}

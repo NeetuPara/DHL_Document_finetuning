@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0711",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202505-9207",
+    "usppi_name": "Chavez Tech LLC",
+    "usppi_address": "238 Vanessa Estates Suite 110, South Rhondamouth, KY 47058, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "93-1577135",
+    "consignee_name": "Global Hughes Co.",
+    "consignee_address": "4919 Rebecca Track Suite 675, Nguyenborough, KY 55154, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Wade Tech B.V.",
+    "forwarder": "Expeditors",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Alexandra Becker",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/31",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 191,
+        "unit": "PCS",
+        "weight_kg": 966.99,
+        "value_usd": 93445.3
+      },
+      {
+        "marks": "ABC/30",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 49,
+        "unit": "PCS",
+        "weight_kg": 55.88,
+        "value_usd": 11416.12
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 45,
+        "unit": "KGS",
+        "weight_kg": 45.0,
+        "value_usd": 651.02
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 91,
+        "unit": "LTR",
+        "weight_kg": 85.95,
+        "value_usd": 2065.74
+      },
+      {
+        "marks": "SLI/9",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 180,
+        "unit": "PKG",
+        "weight_kg": 277.52,
+        "value_usd": 10789.44
+      }
+    ],
+    "total_weight_kg": 1431.34,
+    "total_value_usd": 118367.62,
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "351E",
+    "booking_ref": "BKG-929128",
+    "bl_number": "COSU973523318",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Singapore, SG",
+    "container_number": "JSXW6259208",
+    "seal_number": "SL278710",
+    "container_type": "45'HC",
+    "cbm": 43.295
+  }
+}

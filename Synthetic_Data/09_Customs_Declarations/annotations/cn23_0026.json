@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0026",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Peter Garcia",
+    "addressee_company": "Industry Davila Pte Ltd",
+    "addressee_address": "52435 Tyler Turnpike Suite 453, New Kristine, VA 75065, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 9.302,
+    "total_value": 5111.44,
+    "currency": "USD",
+    "issue_date": "2025-06-27",
+    "reference": "REF-554999",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 4.736,
+        "value": 1212.0,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 10,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.524,
+        "value": 212.0,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 4,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.219,
+        "value": 389.24,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 12,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.065,
+        "value": 1487.04,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 18,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.758,
+        "value": 1811.16,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Nancy Hughes",
+    "sender_company": "Castillo Pacific LLC",
+    "sender_address": "7982 Massey Village, Meganhaven, NV 93916, Netherlands",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 5622.58,
+    "postal_charges": 8.57,
+    "tracking_number": "NF944671046AK"
+  }
+}

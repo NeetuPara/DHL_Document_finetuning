@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0485",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20200902474883",
+    "export_date": "2025-06-30",
+    "aes_option": "AES Filing",
+    "usppi_name": "Global Jones Co.",
+    "usppi_ein": "10-6648776",
+    "usppi_address": "86519 Williams Mount, East Christianville, SD 15368, Switzerland",
+    "ultimate_consignee": "Industry Thompson S.A.",
+    "intermediate_consignee": "Hart Industry Pte Ltd",
+    "forwarding_agent": "Commerce Shields Pte Ltd",
+    "destination_country": "Hong Kong",
+    "carrier": "UPS",
+    "bl_awb": "020-25795891",
+    "total_value": 324208.09,
+    "currency": "CHF",
+    "signatory": "Ryan Rodriguez",
+    "line_items": [
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Australia",
+        "qty": 292,
+        "unit": "PCS",
+        "entered_value": 66213.92,
+        "duty_rate": 13.7,
+        "duty_amount": 9071.31,
+        "eccn": "9A515",
+        "schedule_b": "8534.00.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "France",
+        "qty": 377,
+        "unit": "BOX",
+        "entered_value": 158042.17,
+        "duty_rate": 14.3,
+        "duty_amount": 22600.03,
+        "eccn": "5E992",
+        "schedule_b": "2936.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "United States",
+        "qty": 320,
+        "unit": "KGS",
+        "entered_value": 99952.0,
+        "duty_rate": 1.2,
+        "duty_amount": 1199.42,
+        "eccn": "9A515",
+        "schedule_b": "2008.19.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

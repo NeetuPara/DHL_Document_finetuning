@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0082",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Ward Pacific Pte Ltd",
+    "shipper_address": "Unit 9886 Box 0479, DPO AE 53598, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Carter Pacific LLC",
+    "consignee_address": "652 Collier Mountain, West Joychester, DC 96267, Brazil",
+    "consignee_country": "Brazil",
+    "emergency_telephone": "+72 891-934-3685",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 12,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 71.03,
+        "qty_unit": "L",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Barbara Newman",
+    "signature_date": "2026-05-06",
+    "signature_place": "Mexico",
+    "awb_number": "020-39693876",
+    "flight_number": "QR8903",
+    "flight_date": "2026-05-23",
+    "departure_airport_code": "PVG",
+    "departure_airport_name": "Shanghai Pudong",
+    "destination_airport_code": "HKG",
+    "destination_airport_name": "Hong Kong International"
+  }
+}

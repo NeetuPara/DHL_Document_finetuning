@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0381",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV243425924",
+    "shipper_name": "Mendez Global B.V.",
+    "shipper_address": "3907 John Creek, Port Donaldton, TX 24653, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Carr Industry Inc.",
+    "consignee_address": "1807 Brown Plaza Apt. 766, Mistybury, PR 94350, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party_name": "Parker Pacific Corp.",
+    "notify_party_address": "89288 Richard Stream, South Teresa, AR 03998, Hong Kong",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "686S",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2026-02-13",
+    "issue_place": "Hong Kong",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "SZQP4747412",
+        "seal_no": "SL464295",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "ANLC5575464",
+        "seal_no": "BL935838",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "NEDP6444522",
+        "seal_no": "BL452768",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 198,
+    "package_type": "Carton",
+    "gross_weight_kg": 746.2,
+    "net_weight_kg": 684.0,
+    "cbm": 22.779,
+    "marks_and_numbers": "ABC/20"
+  }
+}

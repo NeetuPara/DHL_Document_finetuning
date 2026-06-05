@@ -1,0 +1,75 @@
+{
+  "document_id": "vgm_0950",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Vasquez Pacific AG",
+    "shipper_address": "30453 Chris Hills Apt. 098, Robertstad, NC 90525, Canada",
+    "shipper_country": "Canada",
+    "container_number": "JTBQ2746207",
+    "seal_number": "SL342793",
+    "container_size": "40'RF",
+    "iso_type_code": "42R1",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 17070.5,
+    "packing_materials_kg": 325.8,
+    "vgm_kg": 22196.3,
+    "vessel": "MSC OSCAR",
+    "voyage": "731S",
+    "bl_number": "DHLG900271177",
+    "booking_reference": "BKG-321440",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-43540",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-15",
+    "signature_date": "2026-05-08",
+    "signatory_name": "Shelly Harris",
+    "signatory_title": "Export Manager",
+    "number_of_packages": 6,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "pkg_type": "Crate",
+        "n_units": 19,
+        "gross_wt_kg": 259.9
+      },
+      {
+        "item_no": 2,
+        "description": "Plastic Products - Injection Moulded Components",
+        "pkg_type": "Case",
+        "n_units": 13,
+        "gross_wt_kg": 3552.5
+      },
+      {
+        "item_no": 3,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Case",
+        "n_units": 2,
+        "gross_wt_kg": 3562.5
+      },
+      {
+        "item_no": 4,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Bag",
+        "n_units": 10,
+        "gross_wt_kg": 3530.2
+      },
+      {
+        "item_no": 5,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "pkg_type": "Crate",
+        "n_units": 5,
+        "gross_wt_kg": 1680.2
+      },
+      {
+        "item_no": 6,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Bag",
+        "n_units": 15,
+        "gross_wt_kg": 4485.2
+      }
+    ]
+  }
+}

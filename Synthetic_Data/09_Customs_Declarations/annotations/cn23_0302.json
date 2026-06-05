@@ -1,0 +1,67 @@
+{
+  "document_id": "cn23_0302",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kenneth Gilmore",
+    "addressee_company": "Industry Pierce Co.",
+    "addressee_address": "59399 Denise Plaza, New Deniseville, TN 47526, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 12.48,
+    "total_value": 5712.54,
+    "currency": "USD",
+    "issue_date": "2025-08-05",
+    "reference": "REF-764806",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.063,
+        "value": 1127.2,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 20,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.145,
+        "value": 2379.6,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 2,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.159,
+        "value": 62.14,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 8,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.203,
+        "value": 1153.04,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 8,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.91,
+        "value": 990.56,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Jessica Meyer",
+    "sender_company": "Commerce Walton LLC",
+    "sender_address": "Unit 3393 Box 5679, DPO AE 51566, Japan",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 6283.79,
+    "postal_charges": 39.05,
+    "tracking_number": "ZG655978169BQ"
+  }
+}

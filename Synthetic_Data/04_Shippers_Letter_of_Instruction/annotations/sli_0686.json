@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0686",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202209-8221",
+    "usppi_name": "Trade Nolan B.V.",
+    "usppi_address": "8554 Davis Corners, Stephenborough, FM 81384, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "70-1810035",
+    "consignee_name": "Brown Tech Pte Ltd",
+    "consignee_address": "3217 Alexandra Street, Port Susanhaven, NE 75620, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Trade Brown B.V.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Mark Ward",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/11",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 43,
+        "unit": "MTR",
+        "weight_kg": 35.45,
+        "value_usd": 414.81
+      },
+      {
+        "marks": "ABC/39",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 155,
+        "unit": "SET",
+        "weight_kg": 240.97,
+        "value_usd": 8025.82
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 138,
+        "unit": "CTN",
+        "weight_kg": 165.74,
+        "value_usd": 2521.9
+      },
+      {
+        "marks": "SLI/8",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 163,
+        "unit": "PCS",
+        "weight_kg": 67.47,
+        "value_usd": 3203.88
+      }
+    ],
+    "total_weight_kg": 509.63,
+    "total_value_usd": 14166.41,
+    "service": "Express Courier",
+    "named_port": "Amsterdam Schiphol",
+    "insurance_value_usd": 37326.08,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-511742",
+    "destination_country": "Italy"
+  }
+}

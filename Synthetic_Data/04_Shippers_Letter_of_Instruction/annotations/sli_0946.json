@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0946",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202004-4350",
+    "usppi_name": "Chan Trade Ltd",
+    "usppi_address": "158 Kelly Greens Suite 270, Lake Josestad, MI 18966, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "80-1858037",
+    "consignee_name": "Henderson Tech S.A.",
+    "consignee_address": "72595 Glenn Row, North Kylie, NH 08866, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Mills Commerce Co.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Michelle Bond",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/6",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 33,
+        "unit": "CTN",
+        "weight_kg": 43.74,
+        "value_usd": 215.83
+      },
+      {
+        "marks": "ABC/10",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 130,
+        "unit": "PCS",
+        "weight_kg": 484.05,
+        "value_usd": 29334.49
+      },
+      {
+        "marks": "SLI/20",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 49,
+        "unit": "PCS",
+        "weight_kg": 452.6,
+        "value_usd": 12301.39
+      }
+    ],
+    "total_weight_kg": 980.39,
+    "total_value_usd": 41851.71,
+    "service": "LCL Ocean",
+    "named_port": "Felixstowe, GB",
+    "insurance_value_usd": 3485.82,
+    "license_type": "Distributor License",
+    "license_number": "LIC-731926",
+    "destination_country": "Malaysia"
+  }
+}

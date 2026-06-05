@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0179",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Perkins Pte Ltd",
+    "shipper_address": "5973 Ayers Lodge Apt. 594, East Shawnborough, FL 49267, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Tech Schultz Inc.",
+    "consignee_address": "933 Murphy Flat Apt. 577, Stanleyside, DE 61927, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+40 255-880-9921",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 11,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 66.06,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Mrs. Ashley Garner PhD",
+    "signature_date": "2026-05-04",
+    "signature_place": "Poland",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "345S",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Hong Kong, HK"
+  }
+}

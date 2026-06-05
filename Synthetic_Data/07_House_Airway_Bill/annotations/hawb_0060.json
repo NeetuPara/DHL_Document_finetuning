@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0060",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-82136434",
+    "mawb_number": "618-21426299",
+    "shipper_name": "Global Skinner AG",
+    "shipper_address": "60860 Quinn Center, South Tyler, MD 78841, United Arab Emirates",
+    "consignee_name": "International Kirby Pte Ltd",
+    "consignee_address": "3455 Brittany Parkway, Port Elizabethshire, TN 41866, India",
+    "agent_name": "Murphy Pacific GmbH",
+    "airport_departure": "LHR",
+    "airport_destination": "SYD",
+    "currency": "JPY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 37,
+    "gross_weight_kg": 245.3,
+    "chargeable_weight": 277.9,
+    "rate": 10.01,
+    "total_charge": 2781.78,
+    "nature_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-07-01",
+    "signatory": "Michael Benjamin",
+    "iata_code": "68-101",
+    "agent_cass": "1878-6119",
+    "consolidation_ref": "CONS-2631-151247",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-83412481",
+        "pieces": 5,
+        "weight": 62.8,
+        "destination": "FRA",
+        "consignee": "Thornton Commerce B.V.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "125-38715521",
+        "pieces": 16,
+        "weight": 9.2,
+        "destination": "ORD",
+        "consignee": "Herring Pacific AG",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "125-64799609",
+        "pieces": 12,
+        "weight": 57.1,
+        "destination": "AMS",
+        "consignee": "Vega Commerce Corp.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "045-51130637",
+        "pieces": 12,
+        "weight": 27.0,
+        "destination": "CDG",
+        "consignee": "Williams Tech AG",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "006-55986931",
+        "pieces": 19,
+        "weight": 53.4,
+        "destination": "LHR",
+        "consignee": "Industry Williams Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "045-79962689",
+        "pieces": 13,
+        "weight": 75.1,
+        "destination": "LAX",
+        "consignee": "Tech Valdez Co.",
+        "description": "Electronic Components - Printed Cir"
+      }
+    ]
+  }
+}

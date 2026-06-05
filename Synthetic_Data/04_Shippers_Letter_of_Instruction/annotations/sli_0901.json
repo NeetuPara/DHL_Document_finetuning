@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0901",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202203-6247",
+    "usppi_name": "Global Lawrence B.V.",
+    "usppi_address": "4072 Bauer Lakes, New Janetborough, WA 63922, Italy",
+    "usppi_country": "Italy",
+    "ein": "10-9060348",
+    "consignee_name": "Industry Green B.V.",
+    "consignee_address": "739 Hickman Street, East Dawn, MP 43011, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Obrien International Pte Ltd",
+    "forwarder": "DB Schenker",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Thomas Tran",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/24",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 76,
+        "unit": "MTR",
+        "weight_kg": 27.18,
+        "value_usd": 1103.17
+      },
+      {
+        "marks": "EXP/47",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 180,
+        "unit": "PKG",
+        "weight_kg": 225.08,
+        "value_usd": 7387.66
+      }
+    ],
+    "total_weight_kg": 252.26,
+    "total_value_usd": 8490.83,
+    "service": "LCL Ocean",
+    "named_port": "Qingdao, CN",
+    "insurance_value_usd": 20945.01,
+    "license_type": "Distributor License",
+    "license_number": "LIC-788748",
+    "destination_country": "Singapore"
+  }
+}

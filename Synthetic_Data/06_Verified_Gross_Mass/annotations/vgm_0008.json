@@ -1,0 +1,61 @@
+{
+  "document_id": "vgm_0008",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Lynch Industry LLC",
+    "shipper_address": "8481 Sheryl Village Apt. 135, Palmermouth, AS 09291, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "container_number": "QSUL2997942",
+    "seal_number": "BL691598",
+    "container_size": "20'GP",
+    "iso_type_code": "22G0",
+    "tare_weight_kg": 2200,
+    "cargo_weight_kg": 15620.3,
+    "packing_materials_kg": 132.5,
+    "vgm_kg": 17952.8,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "948S",
+    "bl_number": "COSU539059989",
+    "booking_reference": "BKG-564657",
+    "weighing_scale_type": "Certified Static Scale",
+    "scale_serial": "Serial No.-29893",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-19",
+    "signature_date": "2026-05-12",
+    "signatory_name": "Lauren Little",
+    "signatory_title": "Export Manager",
+    "number_of_packages": 4,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Cylinder",
+        "n_units": 8,
+        "gross_wt_kg": 1596.3
+      },
+      {
+        "item_no": 2,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Cylinder",
+        "n_units": 5,
+        "gross_wt_kg": 793.4
+      },
+      {
+        "item_no": 3,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Carton",
+        "n_units": 11,
+        "gross_wt_kg": 9139.3
+      },
+      {
+        "item_no": 4,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Pallet",
+        "n_units": 17,
+        "gross_wt_kg": 4091.3
+      }
+    ]
+  }
+}

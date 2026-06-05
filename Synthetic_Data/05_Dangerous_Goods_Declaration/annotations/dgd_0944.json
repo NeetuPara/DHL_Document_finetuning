@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0944",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Simpson Tech AG",
+    "shipper_address": "227 Courtney View Apt. 625, Deborahtown, MH 81985, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Trade Jordan Corp.",
+    "consignee_address": "3762 Kent Plaza, Perezbury, WI 43726, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+71 426-822-5201",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 29,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 82.45,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-981833",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 19,
+        "pkg_type": "Steel Drum",
+        "net_qty": 38.76,
+        "qty_unit": "mL",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-685557",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Sarah Gomez DDS",
+    "signature_date": "2026-05-10",
+    "signature_place": "Italy",
+    "vessel": "MSC OSCAR",
+    "voyage": "313N",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Colombo, LK"
+  }
+}

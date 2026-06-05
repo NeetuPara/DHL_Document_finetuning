@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0378",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202408-8945",
+    "usppi_name": "Wall Global B.V.",
+    "usppi_address": "262 Green View Suite 572, North Bruce, MI 81301, India",
+    "usppi_country": "India",
+    "ein": "32-8712388",
+    "consignee_name": "International Jefferson S.A.",
+    "consignee_address": "7784 Turner Meadows Suite 144, Kington, UT 68445, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "International Adkins Pte Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIP",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Mr. David Mitchell",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/50",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 185,
+        "unit": "PCS",
+        "weight_kg": 144.18,
+        "value_usd": 47488.82
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 93,
+        "unit": "PCS",
+        "weight_kg": 245.43,
+        "value_usd": 67175.8
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 99,
+        "unit": "LTR",
+        "weight_kg": 101.24,
+        "value_usd": 2857.08
+      },
+      {
+        "marks": "ABC/5",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 170,
+        "unit": "PKG",
+        "weight_kg": 225.19,
+        "value_usd": 8929.58
+      },
+      {
+        "marks": "SLI/33",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 166,
+        "unit": "KGS",
+        "weight_kg": 166.0,
+        "value_usd": 1579.91
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 32,
+        "unit": "BOX",
+        "weight_kg": 54.49,
+        "value_usd": 1601.07
+      },
+      {
+        "marks": "ABC/18",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 25,
+        "unit": "PCS",
+        "weight_kg": 8.41,
+        "value_usd": 2055.53
+      }
+    ],
+    "total_weight_kg": 944.94,
+    "total_value_usd": 131687.79,
+    "vessel": "ONE INNOVATION",
+    "voyage": "886S",
+    "booking_ref": "BKG-639469",
+    "bl_number": "MAEU438562568",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Hong Kong, HK",
+    "container_number": "VWMI8255379",
+    "seal_number": "BL655247",
+    "container_type": "20'GP",
+    "cbm": 26.353
+  }
+}

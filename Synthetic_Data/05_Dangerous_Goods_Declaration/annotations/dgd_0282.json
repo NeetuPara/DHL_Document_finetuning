@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0282",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Chan Ltd",
+    "shipper_address": "027 Allison Squares, East Jennifer, NJ 37007, France",
+    "shipper_country": "France",
+    "consignee_name": "Brown Industry Pte Ltd",
+    "consignee_address": "PSC 3965, Box 2560, APO AP 89853, Japan",
+    "consignee_country": "Japan",
+    "emergency_telephone": "+90 202-628-5614",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 42,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 37.9,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Brian Walton DDS",
+    "signature_date": "2026-04-16",
+    "signature_place": "France",
+    "awb_number": "618-45131937",
+    "flight_number": "EK8618",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

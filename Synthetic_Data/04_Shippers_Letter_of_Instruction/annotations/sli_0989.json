@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0989",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202112-9859",
+    "usppi_name": "Wilson International Co.",
+    "usppi_address": "206 Paul Springs Apt. 809, New Victor, FM 40192, United Kingdom",
+    "usppi_country": "United Kingdom",
+    "ein": "33-5068683",
+    "consignee_name": "International Rhodes AG",
+    "consignee_address": "61511 Brent Roads Apt. 351, Lopezville, OR 26505, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Industry Jennings AG",
+    "forwarder": "Expeditors",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Whitney James",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/38",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 170,
+        "unit": "PCS",
+        "weight_kg": 1378.98,
+        "value_usd": 19029.1
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 93,
+        "unit": "PCS",
+        "weight_kg": 134.55,
+        "value_usd": 2540.36
+      }
+    ],
+    "total_weight_kg": 1513.53,
+    "total_value_usd": 21569.46,
+    "service": "Ocean Freight",
+    "named_port": "Rotterdam, NL",
+    "insurance_value_usd": 25422.48,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-252670",
+    "destination_country": "Canada"
+  }
+}

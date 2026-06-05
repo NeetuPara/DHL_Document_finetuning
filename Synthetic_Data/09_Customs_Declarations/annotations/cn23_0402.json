@@ -1,0 +1,35 @@
+{
+  "document_id": "cn23_0402",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jason Buchanan",
+    "addressee_company": "Abbott Tech Co.",
+    "addressee_address": "865 William Ramp, Reevesburgh, PW 42480, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 0.547,
+    "total_value": 299.7,
+    "currency": "EUR",
+    "issue_date": "2026-02-25",
+    "reference": "REF-617017",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.547,
+        "value": 299.7,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Netherlands"
+      }
+    ],
+    "sender_country": "Mexico",
+    "port_of_entry": "Miami, FL",
+    "entry_number": "375-39375829-8",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 7.0,
+    "estimated_duty": 20.98,
+    "importer_ein": "70-5280021",
+    "customs_broker": "Tech Calderon LLC"
+  }
+}

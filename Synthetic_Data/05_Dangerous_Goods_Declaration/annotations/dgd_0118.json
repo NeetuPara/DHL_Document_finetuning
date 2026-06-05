@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0118",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Rodriguez B.V.",
+    "shipper_address": "5927 Gina Forges Apt. 491, West Christopher, WA 54386, China",
+    "shipper_country": "China",
+    "consignee_name": "Industry Martinez AG",
+    "consignee_address": "1739 Freeman Cliffs, Clarkfort, PA 38967, Mexico",
+    "consignee_country": "Mexico",
+    "emergency_telephone": "+68 712-986-3799",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 32,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 18.97,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 6,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 55.61,
+        "qty_unit": "L",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Nicholas Gardner",
+    "signature_date": "2026-05-12",
+    "signature_place": "China",
+    "awb_number": "057-23536388",
+    "flight_number": "EK5487",
+    "flight_date": "2026-05-11",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong"
+  }
+}

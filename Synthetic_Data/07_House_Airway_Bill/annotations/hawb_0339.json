@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0339",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-76193192",
+    "mawb_number": "085-67802836",
+    "shipper_name": "Sanchez International Pte Ltd",
+    "shipper_address": "PSC 4615, Box 8301, APO AE 47385, Switzerland",
+    "consignee_name": "Bryant Commerce Co.",
+    "consignee_address": "754 Ryan Greens, Bergerchester, MD 89466, Netherlands",
+    "agent_name": "Commerce Hobbs Ltd",
+    "airport_departure": "ORD",
+    "airport_destination": "HKG",
+    "currency": "AED",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "JPY 8,463.35",
+    "n_pieces": 39,
+    "gross_weight_kg": 301.5,
+    "chargeable_weight": 369.6,
+    "rate": 2.64,
+    "total_charge": 975.74,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-03-07",
+    "signatory": "Beth Potts",
+    "iata_code": "30-262",
+    "agent_cass": "3430-4969",
+    "consolidation_ref": "CONS-1729-977231",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-71194792",
+        "pieces": 12,
+        "weight": 48.8,
+        "destination": "CDG",
+        "consignee": "Reynolds International Pte Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "618-35671574",
+        "pieces": 13,
+        "weight": 36.9,
+        "destination": "ORD",
+        "consignee": "Savage Tech GmbH",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "085-61620783",
+        "pieces": 15,
+        "weight": 74.9,
+        "destination": "SIN",
+        "consignee": "Trade Howard Pte Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "045-74543006",
+        "pieces": 15,
+        "weight": 2.1,
+        "destination": "HKG",
+        "consignee": "Commerce Foster Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "074-97705705",
+        "pieces": 13,
+        "weight": 65.0,
+        "destination": "DXB",
+        "consignee": "Industry Burton GmbH",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "020-17977146",
+        "pieces": 17,
+        "weight": 75.3,
+        "destination": "MIA",
+        "consignee": "Tech Wise GmbH",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "125-36996704",
+        "pieces": 19,
+        "weight": 37.9,
+        "destination": "LAX",
+        "consignee": "Harrison Global Corp.",
+        "description": "Steel Products - Hot Rolled Coils"
+      }
+    ]
+  }
+}

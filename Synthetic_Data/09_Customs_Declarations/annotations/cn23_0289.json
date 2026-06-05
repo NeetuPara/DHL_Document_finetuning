@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0289",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Tiffany Ross",
+    "addressee_company": "Industry Torres Co.",
+    "addressee_address": "35758 Kramer Rest, Marcustown, PA 96261, Belgium",
+    "addressee_country": "Belgium",
+    "total_weight_kg": 7.343,
+    "total_value": 1691.81,
+    "currency": "AUD",
+    "issue_date": "2025-08-13",
+    "reference": "REF-764560",
+    "line_items": [
+      {
+        "qty": 13,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.42,
+        "value": 1156.61,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 10,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.923,
+        "value": 535.2,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Poland"
+      }
+    ],
+    "sender_name": "Charles Gonzalez",
+    "sender_company": "Trade Curtis S.A.",
+    "sender_address": "945 Carr Well, South Markport, NM 23539, France",
+    "sender_phone": "4319234885",
+    "sender_email": "nelsonsydney@example.com",
+    "addressee_phone": "(326)250-4107x50013",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 1860.99,
+    "postal_charges": 26.18,
+    "tracking_number": "QG930622472GH"
+  }
+}

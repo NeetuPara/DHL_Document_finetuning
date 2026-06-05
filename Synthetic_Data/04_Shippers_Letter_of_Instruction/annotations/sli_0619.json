@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0619",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202411-9407",
+    "usppi_name": "Thompson Industry LLC",
+    "usppi_address": "2585 Parker Roads, Johnland, WY 49163, Germany",
+    "usppi_country": "Germany",
+    "ein": "89-2430407",
+    "consignee_name": "Global Ferguson B.V.",
+    "consignee_address": "917 Jacobs Club, Brownview, KS 23179, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Burton Trade Pte Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "EAR99",
+    "signatory_name": "Benjamin Chen",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/5",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 79,
+        "unit": "PCS",
+        "weight_kg": 25.16,
+        "value_usd": 17853.72
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 88,
+        "unit": "PCS",
+        "weight_kg": 1526.26,
+        "value_usd": 23817.15
+      },
+      {
+        "marks": "EXP/32",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 128,
+        "unit": "PCS",
+        "weight_kg": 447.84,
+        "value_usd": 57126.5
+      },
+      {
+        "marks": "EXP/16",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 111,
+        "unit": "LTR",
+        "weight_kg": 121.16,
+        "value_usd": 3855.07
+      },
+      {
+        "marks": "EXP/38",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 67,
+        "unit": "PCS",
+        "weight_kg": 9.46,
+        "value_usd": 5477.84
+      },
+      {
+        "marks": "SLI/27",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 167,
+        "unit": "PCS",
+        "weight_kg": 185.97,
+        "value_usd": 42380.92
+      },
+      {
+        "marks": "EXP/35",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 161,
+        "unit": "PCS",
+        "weight_kg": 106.84,
+        "value_usd": 3684.92
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 179,
+        "unit": "CTN",
+        "weight_kg": 225.44,
+        "value_usd": 2194.93
+      }
+    ],
+    "total_weight_kg": 2648.13,
+    "total_value_usd": 156391.05,
+    "service": "Express Courier",
+    "named_port": "Miami International",
+    "insurance_value_usd": 17610.32,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-669325",
+    "destination_country": "United Kingdom"
+  }
+}

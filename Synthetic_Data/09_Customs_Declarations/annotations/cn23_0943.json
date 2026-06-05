@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0943",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "James Walker",
+    "addressee_company": "Commerce Smith S.A.",
+    "addressee_address": "PSC 2803, Box 7559, APO AP 70472, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 19.764,
+    "total_value": 3380.84,
+    "currency": "CHF",
+    "issue_date": "2025-07-05",
+    "reference": "REF-014522",
+    "line_items": [
+      {
+        "qty": 13,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.05,
+        "value": 322.27,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 20,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.522,
+        "value": 1711.0,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 19,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.083,
+        "value": 51.11,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 16,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.135,
+        "value": 820.16,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 4,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.336,
+        "value": 241.64,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 6,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 2.638,
+        "value": 234.66,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Christopher May",
+    "sender_company": "Commerce Collins B.V.",
+    "sender_address": "7496 Christian Cliffs Apt. 190, Michaelmouth, AR 57275, Sweden",
+    "sender_phone": "+1-282-522-4339x98498",
+    "sender_email": "debra56@example.org",
+    "addressee_phone": "+1-743-777-6319",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 52.25,
+    "tracking_number": "ZH274973907XK"
+  }
+}

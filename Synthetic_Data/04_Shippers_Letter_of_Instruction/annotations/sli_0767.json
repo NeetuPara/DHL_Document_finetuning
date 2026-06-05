@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0767",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202010-6652",
+    "usppi_name": "Rowe Global S.A.",
+    "usppi_address": "Unit 0096 Box 2777, DPO AA 81450, Japan",
+    "usppi_country": "Japan",
+    "ein": "25-4468252",
+    "consignee_name": "Tech Watson LLC",
+    "consignee_address": "8604 Michael Ports Apt. 859, Timothyside, PA 68172, India",
+    "consignee_country": "India",
+    "notify_party": "International Koch Co.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Colleen Mack",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/7",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 13,
+        "unit": "PCS",
+        "weight_kg": 0.68,
+        "value_usd": 990.92
+      },
+      {
+        "marks": "SLI/30",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 117,
+        "unit": "LTR",
+        "weight_kg": 106.93,
+        "value_usd": 2087.81
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 156,
+        "unit": "PCS",
+        "weight_kg": 73.42,
+        "value_usd": 10178.38
+      },
+      {
+        "marks": "ABC/13",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 73,
+        "unit": "BOX",
+        "weight_kg": 89.93,
+        "value_usd": 6584.77
+      }
+    ],
+    "total_weight_kg": 270.96,
+    "total_value_usd": 19841.88,
+    "service": "Air Freight",
+    "named_port": "Shanghai Pudong",
+    "insurance_value_usd": 49307.19,
+    "license_type": "Distributor License",
+    "license_number": "LIC-514772",
+    "destination_country": "India"
+  }
+}

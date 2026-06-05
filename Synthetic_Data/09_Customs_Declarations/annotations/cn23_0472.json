@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0472",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Adam Harris",
+    "addressee_company": "Harrell Commerce Inc.",
+    "addressee_address": "609 Henry Common, Terryborough, FM 88666, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 3.563,
+    "total_value": 154.8,
+    "currency": "CHF",
+    "issue_date": "2025-12-01",
+    "reference": "REF-748138",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.563,
+        "value": 154.8,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "Donna Copeland",
+    "sender_company": "Trade Fox B.V.",
+    "sender_address": "2428 Anne Curve Apt. 574, Newmanberg, KS 36104, United Arab Emirates",
+    "sender_phone": "+1-442-432-9802",
+    "sender_email": "tyler82@example.com",
+    "addressee_phone": "(787)724-6787",
+    "category": "Sale of Goods",
+    "insured": true,
+    "insured_amount": 170.28,
+    "postal_charges": 46.65,
+    "tracking_number": "OT899475927QI"
+  }
+}

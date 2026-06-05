@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0276",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202411-3829",
+    "usppi_name": "Commerce Wagner LLC",
+    "usppi_address": "4346 Robert Track Suite 907, Lake Cheryl, MD 97357, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "30-1476008",
+    "consignee_name": "Trade Thornton Pte Ltd",
+    "consignee_address": "381 Laurie Pike Apt. 678, West Scottton, TX 03260, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Commerce Yates GmbH",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Mary Nelson",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/14",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 44,
+        "unit": "PCS",
+        "weight_kg": 9.52,
+        "value_usd": 8680.21
+      },
+      {
+        "marks": "SLI/28",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 126,
+        "unit": "MTR",
+        "weight_kg": 114.25,
+        "value_usd": 1956.67
+      },
+      {
+        "marks": "SLI/38",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 94,
+        "unit": "CTN",
+        "weight_kg": 281.94,
+        "value_usd": 1307.35
+      }
+    ],
+    "total_weight_kg": 405.71,
+    "total_value_usd": 11944.23,
+    "vessel": "ONE INNOVATION",
+    "voyage": "687S",
+    "booking_ref": "BKG-938099",
+    "bl_number": "OOLU680876222",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Long Beach, US",
+    "container_number": "OGXJ6873497",
+    "seal_number": "SL877786",
+    "container_type": "40'HC",
+    "cbm": 19.858
+  }
+}

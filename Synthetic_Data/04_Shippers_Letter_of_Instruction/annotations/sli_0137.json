@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0137",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202008-8667",
+    "usppi_name": "Swanson International GmbH",
+    "usppi_address": "52706 Thomas Wells Apt. 528, Port Joseborough, RI 86410, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "62-3363739",
+    "consignee_name": "Mason Tech S.A.",
+    "consignee_address": "Unit 4437 Box 8972, DPO AP 94747, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Long International Co.",
+    "forwarder": "Panalpina",
+    "incoterm": "DDP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Michael Long",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/5",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 35,
+        "unit": "MTR",
+        "weight_kg": 41.65,
+        "value_usd": 300.34
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 89,
+        "unit": "PCS",
+        "weight_kg": 72.93,
+        "value_usd": 1768.88
+      },
+      {
+        "marks": "ABC/7",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 118,
+        "unit": "CTN",
+        "weight_kg": 150.78,
+        "value_usd": 1187.82
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 71,
+        "unit": "LTR",
+        "weight_kg": 70.99,
+        "value_usd": 985.07
+      }
+    ],
+    "total_weight_kg": 336.35,
+    "total_value_usd": 4242.11,
+    "service": "LCL Ocean",
+    "named_port": "Shanghai, CN",
+    "insurance_value_usd": 13050.63,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-849259",
+    "destination_country": "Mexico"
+  }
+}

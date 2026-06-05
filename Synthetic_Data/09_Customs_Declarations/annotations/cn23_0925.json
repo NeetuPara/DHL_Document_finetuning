@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0925",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Danielle Snyder",
+    "addressee_company": "Deleon International Pte Ltd",
+    "addressee_address": "PSC 0544, Box 2003, APO AP 16227, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 11.253,
+    "total_value": 2307.56,
+    "currency": "JPY",
+    "issue_date": "2026-02-20",
+    "reference": "REF-478253",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.547,
+        "value": 412.68,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 13,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.977,
+        "value": 1413.88,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 20,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.729,
+        "value": 481.0,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_name": "Johnny Owen",
+    "sender_company": "Allen Pacific Co.",
+    "sender_address": "99415 Kelley Ports Suite 888, South Paulchester, ID 64322, Switzerland",
+    "sender_phone": "767-385-5302",
+    "sender_email": "fsharp@example.com",
+    "addressee_phone": "(757)770-5375x529",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 2538.32,
+    "postal_charges": 26.4,
+    "tracking_number": "ET443853484AK"
+  }
+}

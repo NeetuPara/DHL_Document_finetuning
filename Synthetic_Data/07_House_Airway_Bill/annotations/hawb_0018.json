@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0018",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-12257196",
+    "mawb_number": "176-40453316",
+    "shipper_name": "Cardenas Industry Ltd",
+    "shipper_address": "95938 Kaufman Crossing Suite 390, Lake Hunter, MA 75999, United States",
+    "consignee_name": "International Daniel AG",
+    "consignee_address": "304 Micheal Lights Suite 503, Martinside, IL 66365, Netherlands",
+    "agent_name": "Pacific Reed AG",
+    "airport_departure": "ICN",
+    "airport_destination": "NRT",
+    "currency": "JPY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 45,
+    "gross_weight_kg": 184.5,
+    "chargeable_weight": 216.6,
+    "rate": 6.18,
+    "total_charge": 1338.59,
+    "nature_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-05-26",
+    "signatory": "Scott Austin",
+    "iata_code": "46-501",
+    "agent_cass": "1121-9783",
+    "consolidation_ref": "CONS-7526-154720",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-43785562",
+        "pieces": 20,
+        "weight": 72.2,
+        "destination": "LAX",
+        "consignee": "Commerce Gonzalez Pte Ltd",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "085-32781865",
+        "pieces": 2,
+        "weight": 12.9,
+        "destination": "NRT",
+        "consignee": "Tran Trade Pte Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "074-51188046",
+        "pieces": 9,
+        "weight": 18.4,
+        "destination": "LHR",
+        "consignee": "Harvey International LLC",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "057-70663043",
+        "pieces": 3,
+        "weight": 98.3,
+        "destination": "ICN",
+        "consignee": "Marsh Trade S.A.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "160-14377883",
+        "pieces": 18,
+        "weight": 30.7,
+        "destination": "HKG",
+        "consignee": "Weaver Commerce S.A.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "057-49861662",
+        "pieces": 20,
+        "weight": 75.8,
+        "destination": "LAX",
+        "consignee": "Commerce King S.A.",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

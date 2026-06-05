@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0601",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202101-8779",
+    "usppi_name": "Duarte Global Corp.",
+    "usppi_address": "Unit 2151 Box 4019, DPO AA 58278, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "66-1860467",
+    "consignee_name": "Tech Wells Pte Ltd",
+    "consignee_address": "34645 Bartlett Parkway, Elizabethchester, NV 75980, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "May Trade Co.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Mark Schmitt",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/9",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 177,
+        "unit": "MTR",
+        "weight_kg": 68.86,
+        "value_usd": 2673.84
+      },
+      {
+        "marks": "EXP/14",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 55,
+        "unit": "LTR",
+        "weight_kg": 53.38,
+        "value_usd": 1070.61
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 140,
+        "unit": "PCS",
+        "weight_kg": 52.9,
+        "value_usd": 1508.88
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 82,
+        "unit": "KGS",
+        "weight_kg": 82.0,
+        "value_usd": 852.04
+      }
+    ],
+    "total_weight_kg": 257.14,
+    "total_value_usd": 6105.37,
+    "service": "LCL Ocean",
+    "named_port": "Hamburg, DE",
+    "insurance_value_usd": 33634.36,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-155953",
+    "destination_country": "Sweden"
+  }
+}

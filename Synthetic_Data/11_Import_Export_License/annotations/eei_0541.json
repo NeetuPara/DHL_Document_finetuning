@@ -1,0 +1,67 @@
+{
+  "document_id": "eei_0541",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "928-47003170-2",
+    "entry_type": "01 - Free and Dutiable",
+    "entry_date": "2025-05-18",
+    "port_of_entry": "MIA - Miami",
+    "transport_mode": "Hand-Carried",
+    "carrier": "UPS",
+    "bl_awb": "125-63521313",
+    "importer_name": "Pacific Price LLC",
+    "importer_ein": "49-7656855",
+    "consignee_name": "Stewart Pacific LLC",
+    "customs_broker": "Global Quinn Ltd",
+    "broker_filer_code": "dfG",
+    "country_of_origin": "Sweden",
+    "total_value": 304235.32,
+    "total_duty": 39082.86,
+    "currency": "EUR",
+    "signatory": "Anna Lopez",
+    "signatory_title": "Trade Finance Manager",
+    "line_items": [
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Canada",
+        "qty": 290,
+        "unit": "KGS",
+        "entered_value": 123928.6,
+        "duty_rate": 4.6,
+        "duty_amount": 5700.72,
+        "eccn": "3A992",
+        "schedule_b": "7208.37.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Netherlands",
+        "qty": 384,
+        "unit": "PCS",
+        "entered_value": 175226.88,
+        "duty_rate": 18.5,
+        "duty_amount": 32416.97,
+        "eccn": "9A515",
+        "schedule_b": "8483.40.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Canada",
+        "qty": 16,
+        "unit": "PCS",
+        "entered_value": 5079.84,
+        "duty_rate": 19.0,
+        "duty_amount": 965.17,
+        "eccn": "7A994",
+        "schedule_b": "8534.00.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

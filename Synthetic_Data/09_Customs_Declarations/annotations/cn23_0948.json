@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0948",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Amanda Cantrell",
+    "addressee_company": "Knight Commerce Co.",
+    "addressee_address": "500 Kathleen Tunnel, South Kennethchester, MD 26260, Australia",
+    "addressee_country": "Australia",
+    "total_weight_kg": 1.068,
+    "total_value": 1209.55,
+    "currency": "JPY",
+    "issue_date": "2025-06-23",
+    "reference": "REF-193421",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 0.229,
+        "value": 92.16,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 19,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.839,
+        "value": 1117.39,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Hong Kong"
+      }
+    ],
+    "sender_country": "United States",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "310-95040625-0",
+    "entry_type": "Informal Entry",
+    "duty_rate": 9.9,
+    "estimated_duty": 119.75,
+    "importer_ein": "74-7828526",
+    "customs_broker": "Reynolds Global Corp."
+  }
+}

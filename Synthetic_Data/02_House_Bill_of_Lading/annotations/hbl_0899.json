@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0899",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV691392977",
+    "shipper_name": "Nichols Tech Inc.",
+    "shipper_address": "44990 Sonya Falls Suite 053, Timothyshire, UT 65546, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Chambers Pacific Pte Ltd",
+    "consignee_address": "78878 Valerie Fields, North Seanstad, MP 88706, Australia",
+    "consignee_country": "Australia",
+    "notify_party_name": "Tech Thomas Ltd",
+    "notify_party_address": "9873 Ferguson Fort, South Lucasview, MA 51583, Sweden",
+    "vessel": "YANG MING MYTH",
+    "voyage": "927W",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2025-05-26",
+    "issue_place": "Tanjung Pelepas",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "JIIF1553703",
+        "seal_no": "CL912847",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "JVTZ0471887",
+        "seal_no": "BL488164",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "QSMN4657943",
+        "seal_no": "CL326329",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "FEFC0409257",
+        "seal_no": "CL446720",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "number_of_packages": 45,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 13355.0,
+    "net_weight_kg": 12586.2,
+    "cbm": 1.422,
+    "marks_and_numbers": "ABC/29"
+  }
+}

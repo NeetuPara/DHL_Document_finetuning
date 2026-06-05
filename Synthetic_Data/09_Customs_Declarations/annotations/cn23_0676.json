@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0676",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Travis Howard",
+    "addressee_company": "Trade Porter AG",
+    "addressee_address": "1269 Lamb Ramp, West Megan, GU 04160, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 2.079,
+    "total_value": 321.63,
+    "currency": "AED",
+    "issue_date": "2025-12-27",
+    "reference": "REF-061139",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.079,
+        "value": 321.63,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "Eric Mcbride",
+    "sender_company": "Tech Williams GmbH",
+    "sender_address": "93178 Laura Walks, Lake Wayneland, MI 21132, Switzerland",
+    "sender_phone": "+1-814-401-9230x3400",
+    "sender_email": "kimberly32@example.net",
+    "addressee_phone": "001-614-240-9757",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 37.09,
+    "tracking_number": "NS103015803UC"
+  }
+}

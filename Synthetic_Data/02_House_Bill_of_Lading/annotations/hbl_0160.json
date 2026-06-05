@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0160",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG802018974",
+    "shipper_name": "Tech Schwartz AG",
+    "shipper_address": "52842 Huynh Gardens Apt. 805, Molinaberg, GU 73137, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "International Hooper Inc.",
+    "consignee_address": "7533 Rachel Mountains, West Patrickland, MP 31583, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party_name": "Trade Jenkins LLC",
+    "notify_party_address": "15897 Carter Manor, Brownchester, NH 49391, Spain",
+    "vessel": "MSC GULSUN",
+    "voyage": "781N",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Singapore, SG",
+    "place_of_receipt": "Hong Kong, HK",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2024-06-29",
+    "issue_place": "New York",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "TKGL8465947",
+        "seal_no": "SL962675",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "IQDX3991645",
+        "seal_no": "BL894444",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "NNYO0280168",
+        "seal_no": "CL175609",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "MVPJ0500710",
+        "seal_no": "BL101470",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 463,
+    "package_type": "Crate",
+    "gross_weight_kg": 6984.5,
+    "net_weight_kg": 6532.2,
+    "cbm": 16.577,
+    "marks_and_numbers": "ABC/17"
+  }
+}

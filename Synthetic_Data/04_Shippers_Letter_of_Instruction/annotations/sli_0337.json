@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0337",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202307-4930",
+    "usppi_name": "Global Jones Co.",
+    "usppi_address": "9325 Ryan Cape, Port Gregorychester, WI 25981, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "88-4675746",
+    "consignee_name": "Commerce Cunningham Corp.",
+    "consignee_address": "29085 Christine Hills Apt. 943, New Angelaton, NE 41074, Italy",
+    "consignee_country": "Italy",
+    "notify_party": "Higgins Commerce Corp.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "EXW",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Karen Jenkins",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/13",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 108,
+        "unit": "KGS",
+        "weight_kg": 108.0,
+        "value_usd": 219.11
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 54,
+        "unit": "PCS",
+        "weight_kg": 13.98,
+        "value_usd": 735.0
+      },
+      {
+        "marks": "EXP/40",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 63,
+        "unit": "MTR",
+        "weight_kg": 35.94,
+        "value_usd": 458.11
+      },
+      {
+        "marks": "EXP/13",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 10,
+        "unit": "CTN",
+        "weight_kg": 24.62,
+        "value_usd": 112.44
+      },
+      {
+        "marks": "EXP/27",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 40,
+        "unit": "CTN",
+        "weight_kg": 128.59,
+        "value_usd": 1461.24
+      },
+      {
+        "marks": "SLI/6",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 114,
+        "unit": "PKG",
+        "weight_kg": 256.63,
+        "value_usd": 3225.38
+      },
+      {
+        "marks": "SLI/28",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 22,
+        "unit": "PCS",
+        "weight_kg": 26.32,
+        "value_usd": 10769.69
+      }
+    ],
+    "total_weight_kg": 594.08,
+    "total_value_usd": 16980.97,
+    "service": "Ocean Freight",
+    "named_port": "Felixstowe, GB",
+    "insurance_value_usd": 23160.97,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-223127",
+    "destination_country": "Italy"
+  }
+}

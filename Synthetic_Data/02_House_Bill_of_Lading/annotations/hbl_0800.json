@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0800",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG353310389",
+    "shipper_name": "Johnson Industry Ltd",
+    "shipper_address": "319 Thomas Springs, Cheyenneborough, NE 09683, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Olson Commerce Corp.",
+    "consignee_address": "USNS Valdez, FPO AP 42418, United Arab Emirates",
+    "consignee_country": "United Arab Emirates",
+    "notify_party_name": "Commerce Fuentes B.V.",
+    "notify_party_address": "48932 Page Lane, Angelaville, AZ 72585, Sweden",
+    "vessel": "PIL PACIFIC",
+    "voyage": "986W",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2024-08-11",
+    "issue_place": "Dubai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "BTSA1260826",
+        "seal_no": "SL576196",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "SXSP1747982",
+        "seal_no": "BL972591",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "number_of_packages": 59,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 13393.5,
+    "net_weight_kg": 12474.8,
+    "cbm": 5.543,
+    "marks_and_numbers": "ABC/12"
+  }
+}

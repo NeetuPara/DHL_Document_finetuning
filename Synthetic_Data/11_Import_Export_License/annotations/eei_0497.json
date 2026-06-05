@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0497",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210213762835",
+    "export_date": "2026-01-20",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Farley International B.V.",
+    "usppi_ein": "89-0831545",
+    "usppi_address": "637 Julia Locks Apt. 495, Lake Heatherville, IL 80947, Poland",
+    "ultimate_consignee": "Gonzalez International Corp.",
+    "intermediate_consignee": "Pacific Patterson Ltd",
+    "forwarding_agent": "Rollins Global Inc.",
+    "destination_country": "Spain",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "074-83805626",
+    "total_value": 174723.49,
+    "currency": "JPY",
+    "signatory": "Katelyn Gonzalez",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Poland",
+        "qty": 71,
+        "unit": "CTN",
+        "entered_value": 34986.67,
+        "duty_rate": 12.1,
+        "duty_amount": 4233.39,
+        "eccn": "1A002",
+        "schedule_b": "9018.31.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Spain",
+        "qty": 233,
+        "unit": "PCS",
+        "entered_value": 20879.13,
+        "duty_rate": 11.4,
+        "duty_amount": 2380.22,
+        "eccn": "3A992",
+        "schedule_b": "8483.40.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8483.40.00",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "country_of_origin": "Spain",
+        "qty": 333,
+        "unit": "PCS",
+        "entered_value": 118857.69,
+        "duty_rate": 20.3,
+        "duty_amount": 24128.11,
+        "eccn": "2B350",
+        "schedule_b": "8483.40.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

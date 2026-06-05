@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0909",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Patricia Wood",
+    "addressee_company": "Industry Wilson Co.",
+    "addressee_address": "365 Bradley Islands Suite 066, Suzanneview, WI 19309, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 5.226,
+    "total_value": 902.85,
+    "currency": "AUD",
+    "issue_date": "2025-06-11",
+    "reference": "REF-476020",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.144,
+        "value": 521.07,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 3,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.082,
+        "value": 381.78,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_country": "Australia",
+    "port_of_entry": "New York, NY",
+    "entry_number": "474-14259811-6",
+    "entry_type": "Formal Entry",
+    "duty_rate": 8.7,
+    "estimated_duty": 78.55,
+    "importer_ein": "28-1832672",
+    "customs_broker": "Weeks International Pte Ltd"
+  }
+}

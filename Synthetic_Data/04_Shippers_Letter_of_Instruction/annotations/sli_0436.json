@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0436",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202209-4028",
+    "usppi_name": "Jarvis Global Inc.",
+    "usppi_address": "25345 William Field, Melissachester, ID 34767, India",
+    "usppi_country": "India",
+    "ein": "92-5694079",
+    "consignee_name": "International Johnston B.V.",
+    "consignee_address": "5458 Collins Causeway Apt. 688, East Shelby, NM 44445, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "Nolan Pacific Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Douglas Lawrence",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/7",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 94,
+        "unit": "BOX",
+        "weight_kg": 48.16,
+        "value_usd": 7282.34
+      },
+      {
+        "marks": "SLI/24",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 35,
+        "unit": "PCS",
+        "weight_kg": 768.99,
+        "value_usd": 13901.94
+      }
+    ],
+    "total_weight_kg": 817.15,
+    "total_value_usd": 21184.28,
+    "service": "Ocean Freight",
+    "named_port": "Antwerp, BE",
+    "insurance_value_usd": 33159.3,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-635358",
+    "destination_country": "Belgium"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0633",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202102-9158",
+    "usppi_name": "International Mayer GmbH",
+    "usppi_address": "6974 Teresa Garden, Port Julia, NY 53396, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "68-4997610",
+    "consignee_name": "Thompson Pacific Ltd",
+    "consignee_address": "2717 Jesse Manor Suite 855, East Lorraine, NY 36994, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Commerce Becker Pte Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Jamie Obrien",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/41",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 69,
+        "unit": "PCS",
+        "weight_kg": 1115.3,
+        "value_usd": 26398.46
+      },
+      {
+        "marks": "ABC/31",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 47,
+        "unit": "PKG",
+        "weight_kg": 81.64,
+        "value_usd": 1297.61
+      }
+    ],
+    "total_weight_kg": 1196.94,
+    "total_value_usd": 27696.07,
+    "vessel": "ONE INNOVATION",
+    "voyage": "729S",
+    "booking_ref": "BKG-402948",
+    "bl_number": "MAEU387545674",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Antwerp, BE",
+    "container_number": "ZVSL5922007",
+    "seal_number": "SL453488",
+    "container_type": "20'GP",
+    "cbm": 7.459
+  }
+}

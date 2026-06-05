@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0472",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Davis Corp.",
+    "shipper_address": "8605 Blankenship Centers Apt. 399, Terriport, TX 83011, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Bruce Trade AG",
+    "consignee_address": "178 Fleming Mountains Apt. 751, Jamesburgh, PA 03011, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+82 314-211-1879",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 31,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 92.42,
+        "qty_unit": "g",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-351364",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 46,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 63.17,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Amanda Bender",
+    "signature_date": "2026-05-01",
+    "signature_place": "Poland",
+    "awb_number": "006-66563223",
+    "flight_number": "EK6957",
+    "flight_date": "2026-05-20",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare"
+  }
+}

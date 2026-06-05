@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0761",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Dwayne Mejia",
+    "addressee_company": "Graham Tech Inc.",
+    "addressee_address": "069 Tucker Path Apt. 600, East Kellystad, OH 33930, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 9.763,
+    "total_value": 3869.24,
+    "currency": "USD",
+    "issue_date": "2025-07-24",
+    "reference": "REF-260835",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.149,
+        "value": 579.9,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 10,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.86,
+        "value": 1481.3,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 13,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.754,
+        "value": 1808.04,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Cynthia Johnston",
+    "sender_company": "International Patton Co.",
+    "sender_address": "40406 Hall Pines, Jameschester, SC 32428, South Korea",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 58.94,
+    "tracking_number": "KT286818838ME"
+  }
+}

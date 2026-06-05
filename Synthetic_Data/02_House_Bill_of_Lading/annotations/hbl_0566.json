@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0566",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU141555488",
+    "shipper_name": "Odonnell Industry AG",
+    "shipper_address": "20514 Christina Key, Port Melinda, HI 36357, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Commerce Stevens Pte Ltd",
+    "consignee_address": "95999 Jones Centers, West Sarashire, MS 73595, Japan",
+    "consignee_country": "Japan",
+    "notify_party_name": "Chan International Pte Ltd",
+    "notify_party_address": "582 Brian Mission, Cameronfurt, SC 39685, Poland",
+    "vessel": "COSCO SHIPPING UNIVERSE",
+    "voyage": "855N",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Dubai, AE",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2026-03-20",
+    "issue_place": "Long Beach",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "VQPJ0842506",
+        "seal_no": "SL754881",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "HQXG2303109",
+        "seal_no": "CL489331",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 382,
+    "package_type": "Roll",
+    "gross_weight_kg": 22100.5,
+    "net_weight_kg": 20832.9,
+    "cbm": 36.317,
+    "marks_and_numbers": "ABC/32"
+  }
+}

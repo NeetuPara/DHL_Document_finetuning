@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0481",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Thompson Ltd",
+    "shipper_address": "092 Ray Vista, Michaelburgh, HI 85271, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Global Cohen Co.",
+    "consignee_address": "57680 Amy Brook, Sonyaberg, RI 34436, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+1 413-546-4762",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 9,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 52.46,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Robert Jenkins",
+    "signature_date": "2026-04-18",
+    "signature_place": "Spain",
+    "awb_number": "006-67758604",
+    "flight_number": "CX4622",
+    "flight_date": "2026-04-18",
+    "departure_airport_code": "SIN",
+    "departure_airport_name": "Singapore Changi",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong"
+  }
+}

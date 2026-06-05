@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0756",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-79719502",
+    "mawb_number": "618-86129175",
+    "shipper_name": "Industry Burke Ltd",
+    "shipper_address": "USNS Diaz, FPO AE 58660, Singapore",
+    "consignee_name": "Trade Maxwell Corp.",
+    "consignee_address": "0686 Stephen Islands Suite 322, Port Adam, KY 41683, Germany",
+    "agent_name": "Trade Davis LLC",
+    "airport_departure": "YYZ",
+    "airport_destination": "CDG",
+    "currency": "CHF",
+    "charge_code": "CC",
+    "declared_value_carriage": "EUR 28,894.26",
+    "declared_value_customs": "USD 49,729.13",
+    "n_pieces": 44,
+    "gross_weight_kg": 423.3,
+    "chargeable_weight": 450.6,
+    "rate": 3.4,
+    "total_charge": 1532.04,
+    "nature_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-08-26",
+    "signatory": "April Richards",
+    "iata_code": "16-452",
+    "agent_cass": "9078-5373",
+    "consolidation_ref": "CONS-2722-776105",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-56382688",
+        "pieces": 2,
+        "weight": 27.6,
+        "destination": "SYD",
+        "consignee": "Global Madden AG",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "160-48798017",
+        "pieces": 4,
+        "weight": 41.5,
+        "destination": "JFK",
+        "consignee": "Tech Mcclure Corp.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "057-47903114",
+        "pieces": 11,
+        "weight": 24.1,
+        "destination": "FRA",
+        "consignee": "Moore Industry GmbH",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "176-20011130",
+        "pieces": 8,
+        "weight": 8.3,
+        "destination": "HKG",
+        "consignee": "Trade Wilson Corp.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "074-73921683",
+        "pieces": 16,
+        "weight": 56.5,
+        "destination": "LAX",
+        "consignee": "Global Johnson B.V.",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

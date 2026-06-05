@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0737",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Heidi Chavez",
+    "addressee_company": "Wood Trade Corp.",
+    "addressee_address": "PSC 3261, Box 9621, APO AE 70575, China",
+    "addressee_country": "China",
+    "total_weight_kg": 7.775,
+    "total_value": 1082.42,
+    "currency": "AED",
+    "issue_date": "2026-01-23",
+    "reference": "REF-968715",
+    "line_items": [
+      {
+        "qty": 10,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.996,
+        "value": 917.7,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 2,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 3.779,
+        "value": 164.72,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Michael Rodriguez",
+    "sender_company": "Herrera Commerce Corp.",
+    "sender_address": "9271 Jerry Pass, Warrentown, ME 22546, United Arab Emirates",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 34.82,
+    "tracking_number": "DQ459494660SV"
+  }
+}

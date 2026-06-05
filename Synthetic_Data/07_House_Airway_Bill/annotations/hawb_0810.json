@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0810",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-40671928",
+    "mawb_number": "085-86179240",
+    "shipper_name": "Pacific Allen Pte Ltd",
+    "shipper_address": "Unit 4466 Box 2931, DPO AE 35998, Sweden",
+    "consignee_name": "Industry Stout GmbH",
+    "consignee_address": "94830 Hernandez Estate, Jaredhaven, AZ 06099, Switzerland",
+    "agent_name": "Global Washington AG",
+    "airport_departure": "YYZ",
+    "airport_destination": "SYD",
+    "currency": "CHF",
+    "charge_code": "PP",
+    "declared_value_carriage": "GBP 21,428.58",
+    "declared_value_customs": "NCV",
+    "n_pieces": 20,
+    "gross_weight_kg": 323.6,
+    "chargeable_weight": 333.4,
+    "rate": 5.56,
+    "total_charge": 1853.7,
+    "nature_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2026-02-04",
+    "signatory": "Sabrina Strong",
+    "iata_code": "77-097",
+    "agent_cass": "5796-3276",
+    "consolidation_ref": "CONS-2826-403181",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-79411250",
+        "pieces": 16,
+        "weight": 72.5,
+        "destination": "LHR",
+        "consignee": "Tech Fleming Pte Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "020-86469694",
+        "pieces": 19,
+        "weight": 80.7,
+        "destination": "AMS",
+        "consignee": "Global Mercado Inc.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "160-51495881",
+        "pieces": 2,
+        "weight": 60.1,
+        "destination": "CDG",
+        "consignee": "Pacific Turner Ltd",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0431",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Berry Global Co.",
+    "shipper_address": "64351 Parker Knoll, West Rebeccahaven, NV 46997, China",
+    "shipper_country": "China",
+    "consignee_name": "Wolf Global Ltd",
+    "consignee_address": "881 Margaret Key, Lisaport, WA 14252, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+86 727-305-5463",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 16,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 82.84,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-899803",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 34,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 85.36,
+        "qty_unit": "g",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-186317",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Kathy Garcia",
+    "signature_date": "2026-05-13",
+    "signature_place": "China",
+    "vessel": "MSC GULSUN",
+    "voyage": "789W",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Colombo, LK"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0852",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Diaz Global GmbH",
+    "shipper_address": "7650 Kim Plains Suite 633, Michaelchester, TX 47363, India",
+    "shipper_country": "India",
+    "consignee_name": "Tech Taylor S.A.",
+    "consignee_address": "39240 Brian Wells, Benjaminchester, DE 91034, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+64 322-397-6542",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 43,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 83.06,
+        "qty_unit": "g",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 14,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 26.0,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Jared Adams",
+    "signature_date": "2026-04-19",
+    "signature_place": "India",
+    "awb_number": "020-26580677",
+    "flight_number": "UA6744",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "SYD",
+    "destination_airport_name": "Sydney Kingsford Smith",
+    "non_dg_reason": "Excepted quantities (EQ) per IATA DGR 2.6"
+  }
+}

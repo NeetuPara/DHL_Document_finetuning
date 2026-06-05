@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0466",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202304-4185",
+    "usppi_name": "Global Mclaughlin Co.",
+    "usppi_address": "3042 Reginald Field, East Timothyberg, UT 00932, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "97-6983126",
+    "consignee_name": "Commerce Kelley Inc.",
+    "consignee_address": "PSC 3100, Box 2658, APO AE 22891, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Industry Allen Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Kevin Maddox",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/50",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 191,
+        "unit": "KGS",
+        "weight_kg": 191.0,
+        "value_usd": 1126.9
+      },
+      {
+        "marks": "ABC/41",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 87,
+        "unit": "PCS",
+        "weight_kg": 81.56,
+        "value_usd": 1269.5
+      },
+      {
+        "marks": "ABC/39",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 47,
+        "unit": "BOX",
+        "weight_kg": 37.58,
+        "value_usd": 3567.32
+      },
+      {
+        "marks": "ABC/21",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 171,
+        "unit": "CTN",
+        "weight_kg": 439.16,
+        "value_usd": 2944.48
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 52,
+        "unit": "MTR",
+        "weight_kg": 24.65,
+        "value_usd": 373.03
+      },
+      {
+        "marks": "ABC/18",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 129,
+        "unit": "PKG",
+        "weight_kg": 84.99,
+        "value_usd": 1925.49
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 30,
+        "unit": "PCS",
+        "weight_kg": 3.04,
+        "value_usd": 2477.55
+      },
+      {
+        "marks": "EXP/38",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 102,
+        "unit": "PCS",
+        "weight_kg": 566.27,
+        "value_usd": 53728.69
+      }
+    ],
+    "total_weight_kg": 1428.25,
+    "total_value_usd": 67412.96,
+    "service": "Ground",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 42729.46,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-342761",
+    "destination_country": "South Korea"
+  }
+}

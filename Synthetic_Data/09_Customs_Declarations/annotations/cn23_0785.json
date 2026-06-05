@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0785",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Julie Taylor",
+    "addressee_company": "Global Martinez Ltd",
+    "addressee_address": "78898 Lisa Greens, South Melissa, AS 68931, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 7.302,
+    "total_value": 2853.45,
+    "currency": "CAD",
+    "issue_date": "2025-06-02",
+    "reference": "REF-966793",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.552,
+        "value": 91.63,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 20,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.363,
+        "value": 1161.2,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 14,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 0.387,
+        "value": 1600.62,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Italy"
+      }
+    ],
+    "sender_name": "Shirley Taylor",
+    "sender_company": "Pacific Jones GmbH",
+    "sender_address": "4635 Christina Estates, Port Phillip, NJ 54229, Germany",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 3138.8,
+    "postal_charges": 29.7,
+    "tracking_number": "VP385331869CQ"
+  }
+}

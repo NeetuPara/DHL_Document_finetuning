@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0309",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-14832033",
+    "mawb_number": "085-13267458",
+    "shipper_name": "Tech Brown Inc.",
+    "shipper_address": "49372 Olson Gardens Apt. 342, North Heidi, PW 90094, Hong Kong",
+    "consignee_name": "International Barnes B.V.",
+    "consignee_address": "USNV Hardin, FPO AE 47114, Poland",
+    "agent_name": "Haney Global B.V.",
+    "airport_departure": "ICN",
+    "airport_destination": "ORD",
+    "currency": "CAD",
+    "charge_code": "CC",
+    "declared_value_carriage": "AED 16,850.11",
+    "declared_value_customs": "AUD 5,184.74",
+    "n_pieces": 10,
+    "gross_weight_kg": 159.0,
+    "chargeable_weight": 194.5,
+    "rate": 7.8,
+    "total_charge": 1517.1,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "TEMP CONTROLLED: 3\u00b0C - 25\u00b0C",
+    "issue_date": "2025-08-20",
+    "signatory": "James Murray",
+    "iata_code": "32-904",
+    "agent_cass": "6899-4371",
+    "consolidation_ref": "CONS-6596-054461",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-20345610",
+        "pieces": 15,
+        "weight": 25.8,
+        "destination": "LAX",
+        "consignee": "International Dean Pte Ltd",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "006-40294784",
+        "pieces": 18,
+        "weight": 91.3,
+        "destination": "FRA",
+        "consignee": "Baker Global LLC",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "057-73281511",
+        "pieces": 10,
+        "weight": 71.6,
+        "destination": "LHR",
+        "consignee": "Merritt Trade Corp.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "176-81629262",
+        "pieces": 9,
+        "weight": 18.5,
+        "destination": "YYZ",
+        "consignee": "Tech Cervantes Pte Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "085-22356295",
+        "pieces": 8,
+        "weight": 22.9,
+        "destination": "SYD",
+        "consignee": "Simpson Industry Co.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "125-92121117",
+        "pieces": 13,
+        "weight": 59.3,
+        "destination": "SIN",
+        "consignee": "Spears Pacific LLC",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

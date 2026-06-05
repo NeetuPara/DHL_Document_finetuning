@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0368",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210908289811",
+    "export_date": "2025-12-01",
+    "aes_option": "AES Filing",
+    "usppi_name": "Mcdaniel Pacific Co.",
+    "usppi_ein": "94-2766302",
+    "usppi_address": "05887 Nixon Haven, Walterberg, SC 48145, Switzerland",
+    "ultimate_consignee": "Industry Atkins GmbH",
+    "intermediate_consignee": "White International S.A.",
+    "forwarding_agent": "Pacific Moore LLC",
+    "destination_country": "Belgium",
+    "carrier": "Maersk",
+    "bl_awb": "006-45937353",
+    "total_value": 359265.28,
+    "currency": "JPY",
+    "signatory": "Kenneth Torres",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Belgium",
+        "qty": 328,
+        "unit": "PCS",
+        "entered_value": 9498.88,
+        "duty_rate": 15.6,
+        "duty_amount": 1481.83,
+        "eccn": "EAR99",
+        "schedule_b": "9002.11.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Singapore",
+        "qty": 362,
+        "unit": "KGS",
+        "entered_value": 138113.86,
+        "duty_rate": 0.0,
+        "duty_amount": 0.0,
+        "eccn": "0A919",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "United States",
+        "qty": 466,
+        "unit": "LTR",
+        "entered_value": 211652.54,
+        "duty_rate": 13.6,
+        "duty_amount": 28784.75,
+        "eccn": "3A992",
+        "schedule_b": "2901.10.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

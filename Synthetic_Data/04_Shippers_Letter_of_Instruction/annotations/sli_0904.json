@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0904",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202208-6885",
+    "usppi_name": "Tech Black Inc.",
+    "usppi_address": "Unit 8030 Box 4616, DPO AA 35998, China",
+    "usppi_country": "China",
+    "ein": "27-9009674",
+    "consignee_name": "Brewer Tech AG",
+    "consignee_address": "789 Richardson Street, East Brianville, VI 04346, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Commerce Chandler LLC",
+    "forwarder": "Panalpina",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Brenda Donaldson",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/13",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 144,
+        "unit": "BOX",
+        "weight_kg": 158.76,
+        "value_usd": 16399.69
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 20,
+        "unit": "MTR",
+        "weight_kg": 11.19,
+        "value_usd": 330.14
+      },
+      {
+        "marks": "SLI/19",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 190,
+        "unit": "PKG",
+        "weight_kg": 236.86,
+        "value_usd": 15013.61
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 184,
+        "unit": "PCS",
+        "weight_kg": 117.32,
+        "value_usd": 197077.47
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 60,
+        "unit": "KGS",
+        "weight_kg": 60.0,
+        "value_usd": 57.7
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 108,
+        "unit": "PCS",
+        "weight_kg": 35.23,
+        "value_usd": 16417.32
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 62,
+        "unit": "CTN",
+        "weight_kg": 147.83,
+        "value_usd": 746.34
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 53,
+        "unit": "KGS",
+        "weight_kg": 53.0,
+        "value_usd": 641.58
+      }
+    ],
+    "total_weight_kg": 820.19,
+    "total_value_usd": 246683.85,
+    "service": "Express Courier",
+    "named_port": "London Heathrow",
+    "insurance_value_usd": 26888.43,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-278417",
+    "destination_country": "United Kingdom"
+  }
+}

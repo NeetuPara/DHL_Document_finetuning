@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0009",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-47205560",
+    "mawb_number": "085-80451650",
+    "shipper_name": "Pacific Ryan AG",
+    "shipper_address": "6196 Grace Path, Ryanmouth, GA 01738, Brazil",
+    "consignee_name": "Commerce Miranda Inc.",
+    "consignee_address": "77105 Dickerson Harbors Suite 712, North Carla, HI 97889, Thailand",
+    "agent_name": "Richardson Global Co.",
+    "airport_departure": "ICN",
+    "airport_destination": "AMS",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "JPY 49,469.51",
+    "n_pieces": 9,
+    "gross_weight_kg": 66.0,
+    "chargeable_weight": 70.5,
+    "rate": 2.69,
+    "total_charge": 189.65,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-08-06",
+    "signatory": "Tracy Schultz",
+    "iata_code": "83-654",
+    "agent_cass": "5925-7467",
+    "consolidation_ref": "CONS-4429-461686",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-73362223",
+        "pieces": 3,
+        "weight": 73.2,
+        "destination": "AMS",
+        "consignee": "Ellis Global Inc.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "160-77587032",
+        "pieces": 5,
+        "weight": 79.1,
+        "destination": "LAX",
+        "consignee": "Pacific Hernandez LLC",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "045-16647240",
+        "pieces": 7,
+        "weight": 32.3,
+        "destination": "HKG",
+        "consignee": "Cook Global Co.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "020-73583687",
+        "pieces": 16,
+        "weight": 87.7,
+        "destination": "SIN",
+        "consignee": "Jones Tech Corp.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      }
+    ]
+  }
+}

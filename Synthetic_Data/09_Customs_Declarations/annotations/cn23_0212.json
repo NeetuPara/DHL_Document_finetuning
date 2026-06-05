@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0212",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Tracy Banks",
+    "addressee_company": "Clark Global Co.",
+    "addressee_address": "897 Jeffrey Flat, Dennisside, UT 52453, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 2.729,
+    "total_value": 2285.34,
+    "currency": "CNY",
+    "issue_date": "2025-09-06",
+    "reference": "REF-954837",
+    "line_items": [
+      {
+        "qty": 17,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.679,
+        "value": 2028.44,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 5,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 1.05,
+        "value": 256.9,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Nathaniel Horton",
+    "sender_company": "Edwards Trade B.V.",
+    "sender_address": "90943 William Mill, Kentberg, VT 95011, South Korea",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 2513.87,
+    "postal_charges": 39.5,
+    "tracking_number": "FP082797652TL"
+  }
+}

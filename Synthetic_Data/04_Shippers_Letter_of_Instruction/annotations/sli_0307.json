@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0307",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202112-1735",
+    "usppi_name": "Trade Warren AG",
+    "usppi_address": "8089 Orozco Extension, South Nichole, SC 46934, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "89-9304510",
+    "consignee_name": "Higgins Industry Inc.",
+    "consignee_address": "5328 Bonilla Via Apt. 930, Grantshire, VT 85765, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party": "Long Industry Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "3A992",
+    "signatory_name": "Barbara Stuart",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/29",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 176,
+        "unit": "KGS",
+        "weight_kg": 176.0,
+        "value_usd": 3734.82
+      },
+      {
+        "marks": "ABC/45",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 165,
+        "unit": "PCS",
+        "weight_kg": 1028.42,
+        "value_usd": 28127.9
+      }
+    ],
+    "total_weight_kg": 1204.42,
+    "total_value_usd": 31862.72,
+    "service": "Air Freight",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 14167.43,
+    "license_type": "Distributor License",
+    "license_number": "LIC-633604",
+    "destination_country": "Netherlands"
+  }
+}

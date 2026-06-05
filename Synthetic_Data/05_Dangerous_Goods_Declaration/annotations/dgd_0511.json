@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0511",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Day Corp.",
+    "shipper_address": "489 Daniels Union Suite 027, South Megan, GU 03897, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "International Woods B.V.",
+    "consignee_address": "428 Daniel Mission Suite 258, Samanthachester, NV 37045, Canada",
+    "consignee_country": "Canada",
+    "emergency_telephone": "+20 587-575-7529",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 43,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 79.81,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 16,
+        "pkg_type": "Steel Drum",
+        "net_qty": 96.56,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-694662",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Rebecca Edwards",
+    "signature_date": "2026-04-26",
+    "signature_place": "Poland",
+    "awb_number": "618-41686578",
+    "flight_number": "CX706",
+    "flight_date": "2026-04-27",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0115",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Peters Commerce LLC",
+    "shipper_address": "996 Anderson Lake Apt. 760, Marialand, RI 75024, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Pacific Morse B.V.",
+    "consignee_address": "5038 Berry Spur, Justinburgh, CA 05345, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+42 708-350-5399",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 7,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 92.55,
+        "qty_unit": "g",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-879500",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 8,
+        "pkg_type": "Steel Drum",
+        "net_qty": 37.04,
+        "qty_unit": "g",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "John Stokes",
+    "signature_date": "2026-05-08",
+    "signature_place": "Germany",
+    "awb_number": "125-90368891",
+    "flight_number": "CX5477",
+    "flight_date": "2026-06-08",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "NRT",
+    "destination_airport_name": "Tokyo Narita"
+  }
+}

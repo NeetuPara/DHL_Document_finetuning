@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0863",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202109-3777",
+    "usppi_name": "Fisher Industry Co.",
+    "usppi_address": "7665 Avila Freeway Apt. 473, East Jamie, WY 90680, Brazil",
+    "usppi_country": "Brazil",
+    "ein": "44-7873738",
+    "consignee_name": "Evans Tech Corp.",
+    "consignee_address": "PSC 8804, Box 3336, APO AP 40959, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Tech Campos Pte Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5A002",
+    "signatory_name": "Jesse Williams",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/12",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 76,
+        "unit": "CTN",
+        "weight_kg": 128.97,
+        "value_usd": 5961.15
+      },
+      {
+        "marks": "EXP/22",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 92,
+        "unit": "PCS",
+        "weight_kg": 45.84,
+        "value_usd": 68620.0
+      },
+      {
+        "marks": "SLI/12",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 173,
+        "unit": "KGS",
+        "weight_kg": 173.0,
+        "value_usd": 381.38
+      },
+      {
+        "marks": "EXP/35",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 119,
+        "unit": "LTR",
+        "weight_kg": 129.29,
+        "value_usd": 1561.84
+      },
+      {
+        "marks": "SLI/12",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 81,
+        "unit": "PCS",
+        "weight_kg": 76.58,
+        "value_usd": 1164.52
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 175,
+        "unit": "PCS",
+        "weight_kg": 1956.87,
+        "value_usd": 132539.79
+      },
+      {
+        "marks": "EXP/10",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 131,
+        "unit": "PCS",
+        "weight_kg": 18.56,
+        "value_usd": 5501.11
+      }
+    ],
+    "total_weight_kg": 2529.11,
+    "total_value_usd": 215729.79,
+    "service": "LCL Ocean",
+    "named_port": "Colombo, LK",
+    "insurance_value_usd": 27374.79,
+    "license_type": "Distributor License",
+    "license_number": "LIC-968582",
+    "destination_country": "Hong Kong"
+  }
+}

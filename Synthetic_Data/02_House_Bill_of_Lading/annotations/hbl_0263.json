@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0263",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG565245783",
+    "shipper_name": "Patel Pacific S.A.",
+    "shipper_address": "32846 Lauren Cape Suite 003, New Bobby, FM 68308, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Jensen Tech GmbH",
+    "consignee_address": "983 Sarah Falls, Keithtown, FM 50514, Australia",
+    "consignee_country": "Australia",
+    "notify_party_name": "Franco Trade GmbH",
+    "notify_party_address": "20903 Kimberly Heights, Kelleyberg, FL 67391, Mexico",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "704S",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2024-07-25",
+    "issue_place": "Tokyo",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "QDBA3325682",
+        "seal_no": "SL855041",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "RTRU0952010",
+        "seal_no": "SL238750",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "EWHR4980950",
+        "seal_no": "SL579256",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "number_of_packages": 218,
+    "package_type": "Crate",
+    "gross_weight_kg": 8743.9,
+    "net_weight_kg": 7891.9,
+    "cbm": 11.876,
+    "marks_and_numbers": "XYZ/17"
+  }
+}

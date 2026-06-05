@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0937",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202308-5157",
+    "usppi_name": "International Shannon Ltd",
+    "usppi_address": "64119 Mendez Port Apt. 701, Reevesburgh, WA 42975, Spain",
+    "usppi_country": "Spain",
+    "ein": "32-8411173",
+    "consignee_name": "Serrano International Ltd",
+    "consignee_address": "98781 Tina Stravenue, New Madisonhaven, AR 28878, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Global Obrien Co.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "EAR99",
+    "signatory_name": "Frank Gordon",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/47",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 33,
+        "unit": "PCS",
+        "weight_kg": 41.46,
+        "value_usd": 14621.36
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 96,
+        "unit": "LTR",
+        "weight_kg": 100.35,
+        "value_usd": 1491.78
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 162,
+        "unit": "BOX",
+        "weight_kg": 38.42,
+        "value_usd": 1403.68
+      }
+    ],
+    "total_weight_kg": 180.23,
+    "total_value_usd": 17516.82,
+    "service": "LCL Ocean",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 15644.49,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-973460",
+    "destination_country": "Poland"
+  }
+}

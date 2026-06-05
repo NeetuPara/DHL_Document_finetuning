@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0840",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Williams Inc.",
+    "shipper_address": "132 Charles Island, Port Daniel, WY 92585, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Commerce Huang S.A.",
+    "consignee_address": "8547 Williams Flat, West John, IN 37144, Japan",
+    "consignee_country": "Japan",
+    "emergency_telephone": "+14 609-793-1272",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 42,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 85.81,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Donald Curry",
+    "signature_date": "2026-05-10",
+    "signature_place": "Malaysia",
+    "awb_number": "074-21428949",
+    "flight_number": "DL9146",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "NRT",
+    "destination_airport_name": "Tokyo Narita",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

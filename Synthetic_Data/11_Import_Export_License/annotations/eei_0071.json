@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0071",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240411563757",
+    "export_date": "2026-02-05",
+    "aes_option": "EEI Exemption",
+    "usppi_name": "Industry Landry Ltd",
+    "usppi_ein": "00-6166936",
+    "usppi_address": "3139 Kenneth Drive Suite 222, New Claire, LA 51449, Mexico",
+    "ultimate_consignee": "Anderson Commerce Corp.",
+    "intermediate_consignee": "Tech Butler GmbH",
+    "forwarding_agent": "Commerce Holmes GmbH",
+    "destination_country": "Japan",
+    "carrier": "FedEx",
+    "bl_awb": "618-10784138",
+    "total_value": 275010.38,
+    "currency": "AED",
+    "signatory": "Emily Parsons",
+    "line_items": [
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Poland",
+        "qty": 418,
+        "unit": "PCS",
+        "entered_value": 149639.82,
+        "duty_rate": 10.1,
+        "duty_amount": 15113.62,
+        "eccn": "EAR99",
+        "schedule_b": "3926.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "United Kingdom",
+        "qty": 320,
+        "unit": "PCS",
+        "entered_value": 104099.2,
+        "duty_rate": 9.7,
+        "duty_amount": 10097.62,
+        "eccn": "3A992",
+        "schedule_b": "8534.00.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Netherlands",
+        "qty": 44,
+        "unit": "CTN",
+        "entered_value": 21271.36,
+        "duty_rate": 10.5,
+        "duty_amount": 2233.49,
+        "eccn": "9A515",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

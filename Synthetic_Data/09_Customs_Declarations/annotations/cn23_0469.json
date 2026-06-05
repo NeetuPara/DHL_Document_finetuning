@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0469",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Lisa Estrada",
+    "addressee_company": "Galvan International LLC",
+    "addressee_address": "61983 Frederick Rapids, Calvinview, NE 97720, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 15.817,
+    "total_value": 1643.74,
+    "currency": "SGD",
+    "issue_date": "2026-04-16",
+    "reference": "REF-002984",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.628,
+        "value": 86.51,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 12,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.469,
+        "value": 183.96,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 15,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.737,
+        "value": 947.4,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 1,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.563,
+        "value": 68.99,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 3,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.42,
+        "value": 356.88,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Eric Middleton",
+    "sender_company": "Sanders Global Co.",
+    "sender_address": "478 Miller Cape, East Levi, OH 93607, Canada",
+    "sender_phone": "(477)271-0534x13319",
+    "sender_email": "owebb@example.org",
+    "addressee_phone": "8194316611",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 1808.11,
+    "postal_charges": 11.11,
+    "tracking_number": "FT057465100IP"
+  }
+}

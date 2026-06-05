@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0296",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG616383479",
+    "shipper_name": "Trade Smith LLC",
+    "shipper_address": "54932 Tiffany Station Apt. 268, Harrellbury, RI 37401, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Industry Mejia Corp.",
+    "consignee_address": "48932 Jeffrey Throughway, Lake Aprilland, WA 27420, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Frey Commerce AG",
+    "notify_party_address": "08589 Mark Lake Suite 181, New Andrew, NV 27865, India",
+    "vessel": "MADRID MAERSK",
+    "voyage": "899E",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Hong Kong, HK",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Qingdao, CN",
+    "issue_date": "2025-09-06",
+    "issue_place": "Long Beach",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "VSOI1676422",
+        "seal_no": "CL110037",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "ZPYI8797457",
+        "seal_no": "SL605131",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "KSCV7560516",
+        "seal_no": "BL803177",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "WYAX1791013",
+        "seal_no": "SL921362",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "number_of_packages": 257,
+    "package_type": "Roll",
+    "gross_weight_kg": 21906.4,
+    "net_weight_kg": 20445.1,
+    "cbm": 16.53,
+    "marks_and_numbers": "XYZ/39"
+  }
+}

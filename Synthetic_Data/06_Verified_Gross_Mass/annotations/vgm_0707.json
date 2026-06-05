@@ -1,0 +1,61 @@
+{
+  "document_id": "vgm_0707",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Morales Tech LLC",
+    "shipper_address": "06490 Thomas Forges Apt. 967, Hannahport, NJ 35332, United States",
+    "shipper_country": "United States",
+    "container_number": "BJPI7468908",
+    "seal_number": "CL363481",
+    "container_size": "40'RF",
+    "iso_type_code": "42R1",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 9722.2,
+    "packing_materials_kg": 131.7,
+    "vgm_kg": 14653.9,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "283S",
+    "bl_number": "COSU331854273",
+    "booking_reference": "BKG-679179",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-45295",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-20",
+    "signature_date": "2026-05-13",
+    "signatory_name": "Heather Roach",
+    "signatory_title": "Shipping Coordinator",
+    "number_of_packages": 4,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Cylinder",
+        "n_units": 19,
+        "gross_wt_kg": 3336.4
+      },
+      {
+        "item_no": 2,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Roll",
+        "n_units": 18,
+        "gross_wt_kg": 554.2
+      },
+      {
+        "item_no": 3,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Bag",
+        "n_units": 16,
+        "gross_wt_kg": 532.6
+      },
+      {
+        "item_no": 4,
+        "description": "Textile Fabrics - Woven Polyester",
+        "pkg_type": "Cylinder",
+        "n_units": 5,
+        "gross_wt_kg": 5299.0
+      }
+    ]
+  }
+}

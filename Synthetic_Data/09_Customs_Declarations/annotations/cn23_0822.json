@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0822",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Noah Ponce",
+    "addressee_company": "Jones Global Ltd",
+    "addressee_address": "998 Mclean Court, New Kristinatown, ME 42628, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 5.851,
+    "total_value": 4020.12,
+    "currency": "USD",
+    "issue_date": "2026-04-14",
+    "reference": "REF-566493",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.249,
+        "value": 203.7,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 1,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.819,
+        "value": 85.52,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Netherlands"
+      },
+      {
+        "qty": 18,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.234,
+        "value": 1527.66,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 19,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.549,
+        "value": 2203.24,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_country": "United States",
+    "port_of_entry": "Miami, FL",
+    "entry_number": "190-75638469-5",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 10.1,
+    "estimated_duty": 406.03,
+    "importer_ein": "50-6516436",
+    "customs_broker": "International Morrison GmbH"
+  }
+}

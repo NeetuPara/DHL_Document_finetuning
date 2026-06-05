@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0195",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Schneider Industry S.A.",
+    "shipper_address": "68950 Perez Junctions Suite 832, Lake Sonya, AL 20916, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Pham Tech S.A.",
+    "consignee_address": "832 Ronald Road, Kathleenbury, MS 71893, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+31 177-808-3043",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 4,
+        "pkg_type": "Steel Drum",
+        "net_qty": 94.03,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "David Figueroa",
+    "signature_date": "2026-04-17",
+    "signature_place": "Italy",
+    "awb_number": "160-61792775",
+    "flight_number": "SQ5532",
+    "departure_airport_code": "CDG",
+    "departure_airport_name": "Paris CDG",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0944",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Charles Harrison",
+    "addressee_company": "Tech Brown LLC",
+    "addressee_address": "22779 Mckee River Suite 047, Jacksonbury, IA 94093, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 8.222,
+    "total_value": 2347.07,
+    "currency": "CAD",
+    "issue_date": "2025-05-22",
+    "reference": "REF-532186",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.819,
+        "value": 1313.1,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 11,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.023,
+        "value": 146.41,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 7,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.906,
+        "value": 638.26,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 5,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 0.474,
+        "value": 249.3,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Melissa Hays",
+    "sender_company": "Lewis Commerce LLC",
+    "sender_address": "Unit 5212 Box 7222, DPO AE 41752, Malaysia",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 35.59,
+    "tracking_number": "XW124450032YC"
+  }
+}

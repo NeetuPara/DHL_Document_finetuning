@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0545",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Gary Sosa",
+    "addressee_company": "Nichols International Corp.",
+    "addressee_address": "094 Page Plaza Suite 199, Dennismouth, MH 95931, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 7.631,
+    "total_value": 1985.13,
+    "currency": "AED",
+    "issue_date": "2026-01-20",
+    "reference": "REF-702812",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.949,
+        "value": 1162.81,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 4,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.428,
+        "value": 394.2,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 4,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.254,
+        "value": 428.12,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_name": "Sheila Miller",
+    "sender_company": "Faulkner Industry Inc.",
+    "sender_address": "01624 Susan Union Apt. 662, West Fernandomouth, VI 34229, Malaysia",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 2183.64,
+    "postal_charges": 54.52,
+    "tracking_number": "FI489916282AC"
+  }
+}

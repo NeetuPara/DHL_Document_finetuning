@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0956",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202301-3700",
+    "usppi_name": "Global Park AG",
+    "usppi_address": "01165 Sean Lodge Suite 049, Johnsonberg, SD 14586, Japan",
+    "usppi_country": "Japan",
+    "ein": "13-5340681",
+    "consignee_name": "Commerce Hansen Ltd",
+    "consignee_address": "13224 White Trace Apt. 611, Nelsonmouth, NE 06484, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Flynn Trade Co.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "5E992",
+    "signatory_name": "Kyle Morris",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/11",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 169,
+        "unit": "KGS",
+        "weight_kg": 169.0,
+        "value_usd": 1490.28
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 119,
+        "unit": "PCS",
+        "weight_kg": 81.17,
+        "value_usd": 2348.67
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 143,
+        "unit": "CTN",
+        "weight_kg": 378.58,
+        "value_usd": 1806.91
+      },
+      {
+        "marks": "SLI/7",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 180,
+        "unit": "CTN",
+        "weight_kg": 425.63,
+        "value_usd": 8655.34
+      },
+      {
+        "marks": "SLI/32",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 192,
+        "unit": "MTR",
+        "weight_kg": 119.75,
+        "value_usd": 3111.59
+      },
+      {
+        "marks": "EXP/49",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 135,
+        "unit": "PCS",
+        "weight_kg": 165.86,
+        "value_usd": 24949.47
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 66,
+        "unit": "PCS",
+        "weight_kg": 69.55,
+        "value_usd": 117721.2
+      }
+    ],
+    "total_weight_kg": 1409.54,
+    "total_value_usd": 160083.46,
+    "service": "Ground",
+    "named_port": "Amsterdam Schiphol",
+    "insurance_value_usd": 48503.2,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-654283",
+    "destination_country": "Thailand"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0926",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202602-2531",
+    "usppi_name": "Moreno Tech Ltd",
+    "usppi_address": "685 Everett Mills, Williamsmouth, NM 38687, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "86-1713661",
+    "consignee_name": "Williams International Corp.",
+    "consignee_address": "973 Wiggins Summit Suite 161, New Peter, WI 95545, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Randolph Global B.V.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Donna Cooley",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/29",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 175,
+        "unit": "MTR",
+        "weight_kg": 86.13,
+        "value_usd": 1386.25
+      },
+      {
+        "marks": "EXP/27",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 22,
+        "unit": "PCS",
+        "weight_kg": 13.89,
+        "value_usd": 13680.65
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 5,
+        "unit": "PCS",
+        "weight_kg": 84.5,
+        "value_usd": 1649.92
+      }
+    ],
+    "total_weight_kg": 184.52,
+    "total_value_usd": 16716.82,
+    "service": "Ocean Freight",
+    "named_port": "Los Angeles, US",
+    "insurance_value_usd": 31820.9,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-261165",
+    "destination_country": "Germany"
+  }
+}

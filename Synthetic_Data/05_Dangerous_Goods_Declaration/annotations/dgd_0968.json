@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0968",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Cobb LLC",
+    "shipper_address": "USCGC Long, FPO AE 23729, South Korea",
+    "shipper_country": "South Korea",
+    "consignee_name": "Chapman International Co.",
+    "consignee_address": "435 Richard Orchard, Juanborough, ID 36656, United States",
+    "consignee_country": "United States",
+    "emergency_telephone": "+15 344-461-5454",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 14,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 72.28,
+        "qty_unit": "L",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-724974",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Daniel Johnson",
+    "signature_date": "2026-05-09",
+    "signature_place": "South Korea",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "211E",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Singapore, SG"
+  }
+}

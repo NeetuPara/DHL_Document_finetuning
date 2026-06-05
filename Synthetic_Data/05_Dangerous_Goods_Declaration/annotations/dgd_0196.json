@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0196",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry West B.V.",
+    "shipper_address": "USS Montes, FPO AA 42635, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Industry Gutierrez Ltd",
+    "consignee_address": "554 Parker Parkways, Lake Blakemouth, MN 46953, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+44 996-977-8220",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 40,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 95.98,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-663885",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 37,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 26.03,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-286523",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Patrick Strickland",
+    "signature_date": "2026-05-08",
+    "signature_place": "Brazil",
+    "awb_number": "160-98066980",
+    "flight_number": "UA9583",
+    "flight_date": "2026-05-03",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "LHR",
+    "destination_airport_name": "London Heathrow"
+  }
+}

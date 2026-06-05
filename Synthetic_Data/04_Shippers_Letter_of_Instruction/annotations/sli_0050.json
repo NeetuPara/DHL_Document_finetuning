@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0050",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202305-6205",
+    "usppi_name": "Porter Global S.A.",
+    "usppi_address": "701 Dennis Glens, Kathryntown, MH 94991, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "98-7933629",
+    "consignee_name": "Global Smith LLC",
+    "consignee_address": "857 Morgan Manors, New Shane, DE 79726, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "International Sanchez AG",
+    "forwarder": "Panalpina",
+    "incoterm": "DAP",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Angel Gutierrez",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/1",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "F",
+        "qty": 119,
+        "unit": "KGS",
+        "weight_kg": 119.0,
+        "value_usd": 132.68
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 63,
+        "unit": "SET",
+        "weight_kg": 147.93,
+        "value_usd": 3540.44
+      },
+      {
+        "marks": "EXP/20",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 190,
+        "unit": "PKG",
+        "weight_kg": 474.1,
+        "value_usd": 3272.29
+      }
+    ],
+    "total_weight_kg": 741.03,
+    "total_value_usd": 6945.41,
+    "service": "Air Freight",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 40444.11,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-821174",
+    "destination_country": "Switzerland"
+  }
+}

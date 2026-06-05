@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0315",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU610547591",
+    "shipper_name": "Global Herrera AG",
+    "shipper_address": "7743 Timothy Via Apt. 978, Bakerhaven, AZ 33527, Brazil",
+    "shipper_country": "Brazil",
+    "consignee_name": "Trade Farley Co.",
+    "consignee_address": "272 Williams Highway Suite 650, Harperton, AS 27283, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Commerce Bailey GmbH",
+    "notify_party_address": "USCGC Farrell, FPO AP 32453, Germany",
+    "vessel": "MADRID MAERSK",
+    "voyage": "227W",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Dubai, AE",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2026-04-15",
+    "issue_place": "Long Beach",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "SEXC1229495",
+        "seal_no": "CL776660",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "WQPC6541431",
+        "seal_no": "BL580248",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "TMOD9860321",
+        "seal_no": "SL396638",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "XPOP0491572",
+        "seal_no": "SL594391",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 142,
+    "package_type": "Crate",
+    "gross_weight_kg": 15628.4,
+    "net_weight_kg": 14592.8,
+    "cbm": 11.66,
+    "marks_and_numbers": "GLB/2"
+  }
+}

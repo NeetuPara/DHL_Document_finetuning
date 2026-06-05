@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0068",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202004-7472",
+    "usppi_name": "International Gonzales Pte Ltd",
+    "usppi_address": "PSC 1384, Box 8632, APO AP 08549, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "45-7547287",
+    "consignee_name": "Smith Tech LLC",
+    "consignee_address": "084 Carlson Highway, New Jacob, FM 06522, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Spence Industry AG",
+    "forwarder": "DB Schenker",
+    "incoterm": "FCA",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Julie Garza",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/31",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 188,
+        "unit": "PCS",
+        "weight_kg": 244.93,
+        "value_usd": 324405.43
+      },
+      {
+        "marks": "ABC/27",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 56,
+        "unit": "PCS",
+        "weight_kg": 5.16,
+        "value_usd": 1808.92
+      }
+    ],
+    "total_weight_kg": 250.09,
+    "total_value_usd": 326214.35,
+    "service": "LCL Ocean",
+    "named_port": "Los Angeles, US",
+    "insurance_value_usd": 18496.98,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Singapore"
+  }
+}

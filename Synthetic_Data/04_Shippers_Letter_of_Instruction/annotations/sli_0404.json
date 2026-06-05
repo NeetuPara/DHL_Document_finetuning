@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0404",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202012-7076",
+    "usppi_name": "Pacific Diaz Inc.",
+    "usppi_address": "Unit 0178 Box 4077, DPO AE 53957, Australia",
+    "usppi_country": "Australia",
+    "ein": "84-9918694",
+    "consignee_name": "Industry Crosby GmbH",
+    "consignee_address": "858 Sarah Passage Suite 088, West Cheryl, GA 42109, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Henry Industry LLC",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "EAR99",
+    "signatory_name": "Heather Nichols",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/37",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 97,
+        "unit": "LTR",
+        "weight_kg": 95.23,
+        "value_usd": 1554.73
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 149,
+        "unit": "MTR",
+        "weight_kg": 79.85,
+        "value_usd": 2637.22
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 54,
+        "unit": "KGS",
+        "weight_kg": 54.0,
+        "value_usd": 466.36
+      },
+      {
+        "marks": "ABC/18",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 43,
+        "unit": "KGS",
+        "weight_kg": 43.0,
+        "value_usd": 57.69
+      },
+      {
+        "marks": "EXP/14",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 137,
+        "unit": "PCS",
+        "weight_kg": 48.23,
+        "value_usd": 22975.36
+      },
+      {
+        "marks": "ABC/19",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 144,
+        "unit": "PCS",
+        "weight_kg": 1370.22,
+        "value_usd": 93612.66
+      }
+    ],
+    "total_weight_kg": 1690.53,
+    "total_value_usd": 121304.02,
+    "service": "Express Courier",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 10480.02,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-393569",
+    "destination_country": "Hong Kong"
+  }
+}

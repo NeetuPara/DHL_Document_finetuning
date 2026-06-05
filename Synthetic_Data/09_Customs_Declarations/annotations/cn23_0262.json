@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0262",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Nicholas Robinson DVM",
+    "addressee_company": "Ramos Industry B.V.",
+    "addressee_address": "2109 Scott Plaza, West Christopherton, ID 19083, Switzerland",
+    "addressee_country": "Switzerland",
+    "total_weight_kg": 18.925,
+    "total_value": 6557.08,
+    "currency": "GBP",
+    "issue_date": "2025-11-24",
+    "reference": "REF-546128",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 2.578,
+        "value": 443.04,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 18,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.036,
+        "value": 175.14,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 13,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 3.309,
+        "value": 1883.05,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 19,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.127,
+        "value": 2173.41,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 16,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.891,
+        "value": 1082.24,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 10,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 4.984,
+        "value": 800.2,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Raymond Lewis",
+    "sender_company": "International Lyons AG",
+    "sender_address": "1995 Jeffrey Freeway, Savannahhaven, FM 37014, Sweden",
+    "sender_phone": "+1-364-739-6072",
+    "sender_email": "heather06@example.com",
+    "addressee_phone": "386.648.8160",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 13.2,
+    "tracking_number": "JM794120540PT"
+  }
+}

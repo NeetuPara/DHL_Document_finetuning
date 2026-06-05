@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0082",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202412-2228",
+    "usppi_name": "Commerce Montgomery LLC",
+    "usppi_address": "04252 Williams Field, West Deanna, LA 13253, China",
+    "usppi_country": "China",
+    "ein": "90-8979538",
+    "consignee_name": "Smith Tech AG",
+    "consignee_address": "1584 Cox Ports, South Robin, NC 81224, United States",
+    "consignee_country": "United States",
+    "notify_party": "Stewart Commerce Pte Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Sandra Aguilar",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/34",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 173,
+        "unit": "PCS",
+        "weight_kg": 198.73,
+        "value_usd": 208907.8
+      },
+      {
+        "marks": "EXP/45",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 85,
+        "unit": "KGS",
+        "weight_kg": 85.0,
+        "value_usd": 695.27
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 152,
+        "unit": "PCS",
+        "weight_kg": 2222.5,
+        "value_usd": 35900.36
+      },
+      {
+        "marks": "EXP/4",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 157,
+        "unit": "PCS",
+        "weight_kg": 421.17,
+        "value_usd": 107562.94
+      },
+      {
+        "marks": "ABC/22",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 56,
+        "unit": "KGS",
+        "weight_kg": 56.0,
+        "value_usd": 35.69
+      },
+      {
+        "marks": "ABC/18",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 157,
+        "unit": "PCS",
+        "weight_kg": 28.99,
+        "value_usd": 37227.57
+      }
+    ],
+    "total_weight_kg": 3012.39,
+    "total_value_usd": 390329.63,
+    "service": "LCL Ocean",
+    "named_port": "Busan, KR",
+    "insurance_value_usd": 47780.29,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-472442",
+    "destination_country": "United States"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0834",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-82965755",
+    "mawb_number": "125-29766784",
+    "shipper_name": "Industry Cook Co.",
+    "shipper_address": "3197 Valerie Green, Henrymouth, MD 66426, Poland",
+    "consignee_name": "Boone Global LLC",
+    "consignee_address": "USNV Allen, FPO AE 82440, Italy",
+    "agent_name": "International Snyder S.A.",
+    "airport_departure": "CDG",
+    "airport_destination": "AMS",
+    "currency": "CAD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 30,
+    "gross_weight_kg": 116.4,
+    "chargeable_weight": 145.5,
+    "rate": 2.28,
+    "total_charge": 331.74,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "TEMP CONTROLLED: 8\u00b0C - 16\u00b0C",
+    "issue_date": "2025-10-23",
+    "signatory": "James Ramos",
+    "iata_code": "76-559",
+    "agent_cass": "8390-3288",
+    "consolidation_ref": "CONS-8551-252475",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-23416088",
+        "pieces": 4,
+        "weight": 65.2,
+        "destination": "CDG",
+        "consignee": "Industry Mcclain Inc.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "057-82244521",
+        "pieces": 20,
+        "weight": 33.4,
+        "destination": "AMS",
+        "consignee": "Pacific Hamilton B.V.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "125-89029534",
+        "pieces": 8,
+        "weight": 26.5,
+        "destination": "ICN",
+        "consignee": "Evans Trade B.V.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "618-91835814",
+        "pieces": 5,
+        "weight": 66.2,
+        "destination": "ICN",
+        "consignee": "Pacific Davila AG",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "057-60041677",
+        "pieces": 3,
+        "weight": 96.8,
+        "destination": "AMS",
+        "consignee": "Tech Lin LLC",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

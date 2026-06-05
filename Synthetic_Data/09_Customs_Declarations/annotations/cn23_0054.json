@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0054",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Karen Jones",
+    "addressee_company": "Trade Mitchell LLC",
+    "addressee_address": "Unit 7986 Box 9686, DPO AA 44217, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 3.502,
+    "total_value": 1032.81,
+    "currency": "CHF",
+    "issue_date": "2025-06-03",
+    "reference": "REF-448067",
+    "line_items": [
+      {
+        "qty": 13,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.587,
+        "value": 1009.71,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 11,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.915,
+        "value": 23.1,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_country": "United States",
+    "port_of_entry": "Chicago, IL",
+    "entry_number": "864-90572192-9",
+    "entry_type": "Informal Entry",
+    "duty_rate": 15.6,
+    "estimated_duty": 161.12,
+    "importer_ein": "18-8007141",
+    "customs_broker": "Hughes Commerce LLC"
+  }
+}

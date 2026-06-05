@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0119",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Mason Rice",
+    "addressee_company": "Tech Cruz Inc.",
+    "addressee_address": "4316 Kimberly Path, Lake Davidmouth, NV 88132, Brazil",
+    "addressee_country": "Brazil",
+    "total_weight_kg": 9.427,
+    "total_value": 1931.22,
+    "currency": "CAD",
+    "issue_date": "2025-06-11",
+    "reference": "REF-492266",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.384,
+        "value": 183.48,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 7,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.636,
+        "value": 174.09,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 13,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.407,
+        "value": 1573.65,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Manuel Cruz",
+    "sender_company": "Tech Randolph B.V.",
+    "sender_address": "4725 Myers Trace Apt. 140, Tracyton, GA 71895, Sweden",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 74.73,
+    "tracking_number": "MM908941784BM"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0767",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20200522451552",
+    "export_date": "2025-05-24",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Pacific Mitchell Inc.",
+    "usppi_ein": "75-7280216",
+    "usppi_address": "USS Snyder, FPO AP 06879, Thailand",
+    "ultimate_consignee": "Industry Davis S.A.",
+    "intermediate_consignee": "Trade Murray Inc.",
+    "forwarding_agent": "Industry Jennings Ltd",
+    "destination_country": "Poland",
+    "carrier": "MSC",
+    "bl_awb": "618-88525902",
+    "total_value": 258225.93,
+    "currency": "CHF",
+    "signatory": "Jessica Reese",
+    "line_items": [
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Belgium",
+        "qty": 14,
+        "unit": "KGS",
+        "entered_value": 1033.9,
+        "duty_rate": 13.0,
+        "duty_amount": 134.41,
+        "eccn": "1A002",
+        "schedule_b": "7208.37.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "United Kingdom",
+        "qty": 345,
+        "unit": "SET",
+        "entered_value": 111272.85,
+        "duty_rate": 19.9,
+        "duty_amount": 22143.3,
+        "eccn": "7A994",
+        "schedule_b": "8708.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "China",
+        "qty": 416,
+        "unit": "PCS",
+        "entered_value": 119238.08,
+        "duty_rate": 6.9,
+        "duty_amount": 8227.43,
+        "eccn": "0A919",
+        "schedule_b": "3926.90.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Sweden",
+        "qty": 266,
+        "unit": "PCS",
+        "entered_value": 14286.86,
+        "duty_rate": 6.7,
+        "duty_amount": 957.22,
+        "eccn": "7A994",
+        "schedule_b": "8518.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Poland",
+        "qty": 421,
+        "unit": "KGS",
+        "entered_value": 12394.24,
+        "duty_rate": 7.3,
+        "duty_amount": 904.78,
+        "eccn": "5E992",
+        "schedule_b": "2008.19.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

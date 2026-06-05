@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0419",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20250809955742",
+    "export_date": "2026-01-26",
+    "aes_option": "AES Filing",
+    "usppi_name": "Tech Richards S.A.",
+    "usppi_ein": "49-4777078",
+    "usppi_address": "150 Martinez Plaza Suite 965, Tonyville, WY 29038, Switzerland",
+    "ultimate_consignee": "Trade Gonzales Corp.",
+    "intermediate_consignee": "Commerce Harris Co.",
+    "forwarding_agent": "Patel Tech AG",
+    "destination_country": "Australia",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "618-90582018",
+    "total_value": 92431.89,
+    "currency": "CAD",
+    "signatory": "Jesus Cardenas",
+    "line_items": [
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Spain",
+        "qty": 55,
+        "unit": "PCS",
+        "entered_value": 11919.05,
+        "duty_rate": 23.4,
+        "duty_amount": 2789.06,
+        "eccn": "5E992",
+        "schedule_b": "8534.00.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "South Korea",
+        "qty": 288,
+        "unit": "PCS",
+        "entered_value": 64805.76,
+        "duty_rate": 5.5,
+        "duty_amount": 3564.32,
+        "eccn": "2B350",
+        "schedule_b": "3926.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Mexico",
+        "qty": 53,
+        "unit": "MTR",
+        "entered_value": 15707.08,
+        "duty_rate": 4.9,
+        "duty_amount": 769.65,
+        "eccn": "5E992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

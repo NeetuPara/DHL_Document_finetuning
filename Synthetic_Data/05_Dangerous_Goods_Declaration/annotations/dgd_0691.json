@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0691",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Ford LLC",
+    "shipper_address": "50780 Crystal Mountain, South Kathryn, DC 91371, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Global Nielsen GmbH",
+    "consignee_address": "4575 Angela Vista, Taylorshire, AZ 71317, Japan",
+    "consignee_country": "Japan",
+    "emergency_telephone": "+51 232-572-9384",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 22,
+        "pkg_type": "Steel Drum",
+        "net_qty": 33.81,
+        "qty_unit": "g",
+        "packing_instruction": "Y206",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Steven Cox",
+    "signature_date": "2026-05-02",
+    "signature_place": "Malaysia",
+    "awb_number": "160-51161577",
+    "flight_number": "DL904",
+    "flight_date": "2026-06-06",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson"
+  }
+}

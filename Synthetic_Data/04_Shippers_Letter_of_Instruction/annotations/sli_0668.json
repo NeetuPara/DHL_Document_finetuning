@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0668",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202302-6486",
+    "usppi_name": "Commerce King S.A.",
+    "usppi_address": "USNV Nicholson, FPO AA 20666, United Arab Emirates",
+    "usppi_country": "United Arab Emirates",
+    "ein": "53-8109354",
+    "consignee_name": "Global Cook GmbH",
+    "consignee_address": "70499 Brady Junction, Patelmouth, PA 91722, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Hanson Industry LLC",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Robert Green",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/22",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 36,
+        "unit": "PKG",
+        "weight_kg": 28.17,
+        "value_usd": 2084.21
+      },
+      {
+        "marks": "SLI/6",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 22,
+        "unit": "PCS",
+        "weight_kg": 7.69,
+        "value_usd": 1354.22
+      }
+    ],
+    "total_weight_kg": 35.86,
+    "total_value_usd": 3438.43,
+    "service": "LCL Ocean",
+    "named_port": "Shanghai, CN",
+    "insurance_value_usd": 35024.14,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-126201",
+    "destination_country": "Australia"
+  }
+}

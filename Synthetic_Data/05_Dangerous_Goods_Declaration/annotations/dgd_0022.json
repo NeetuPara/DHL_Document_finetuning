@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0022",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Trade Garcia AG",
+    "shipper_address": "USNV Medina, FPO AA 36145, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Commerce Robinson Inc.",
+    "consignee_address": "92561 Amy Ways, Braunchester, TX 69089, Germany",
+    "consignee_country": "Germany",
+    "emergency_telephone": "+87 596-739-2647",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 6,
+        "pkg_type": "Steel Drum",
+        "net_qty": 87.54,
+        "qty_unit": "L",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 3,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 82.23,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "CA-589009",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jennifer Fox",
+    "signature_date": "2026-05-12",
+    "signature_place": "Switzerland",
+    "awb_number": "020-69216900",
+    "flight_number": "EK7623",
+    "flight_date": "2026-05-18",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "FRA",
+    "destination_airport_name": "Frankfurt Airport"
+  }
+}

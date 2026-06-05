@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0249",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202010-7720",
+    "usppi_name": "Global Stephens Co.",
+    "usppi_address": "35940 Harding Junctions, Port Colleenstad, OH 49781, United States",
+    "usppi_country": "United States",
+    "ein": "75-8461874",
+    "consignee_name": "Tech Dixon Co.",
+    "consignee_address": "7979 Anthony Villages Apt. 267, West Rachaelport, FM 92996, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Tech Lee GmbH",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Christopher Pena",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/17",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 13,
+        "unit": "PCS",
+        "weight_kg": 66.08,
+        "value_usd": 2821.37
+      },
+      {
+        "marks": "ABC/15",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 137,
+        "unit": "PKG",
+        "weight_kg": 43.64,
+        "value_usd": 2701.16
+      },
+      {
+        "marks": "SLI/48",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 29,
+        "unit": "KGS",
+        "weight_kg": 29.0,
+        "value_usd": 483.76
+      }
+    ],
+    "total_weight_kg": 138.72,
+    "total_value_usd": 6006.29,
+    "vessel": "PIL PACIFIC",
+    "voyage": "789E",
+    "booking_ref": "BKG-340044",
+    "bl_number": "MAEU513027557",
+    "port_of_loading": "Felixstowe, GB",
+    "port_of_discharge": "Antwerp, BE",
+    "container_number": "YIQX2276105",
+    "seal_number": "CL744640",
+    "container_type": "40'GP",
+    "cbm": 10.786
+  }
+}

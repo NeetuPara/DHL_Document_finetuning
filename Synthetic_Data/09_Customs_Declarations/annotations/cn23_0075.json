@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0075",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Theresa Adkins",
+    "addressee_company": "Commerce Pope Pte Ltd",
+    "addressee_address": "353 Blair Viaduct Apt. 489, Williamborough, LA 02559, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 6.169,
+    "total_value": 2671.12,
+    "currency": "JPY",
+    "issue_date": "2025-09-12",
+    "reference": "REF-990185",
+    "line_items": [
+      {
+        "qty": 18,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.485,
+        "value": 301.14,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 10,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.487,
+        "value": 1122.7,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 12,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 0.197,
+        "value": 1247.28,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_country": "Switzerland",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "866-33200041-0",
+    "entry_type": "Informal Entry",
+    "duty_rate": 4.4,
+    "estimated_duty": 117.53,
+    "importer_ein": "80-0600428",
+    "customs_broker": "Reese Pacific GmbH"
+  }
+}

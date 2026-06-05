@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0675",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG847311829",
+    "shipper_name": "International Hardin S.A.",
+    "shipper_address": "71921 Jillian Land Suite 746, Pearsonberg, MA 32867, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Thomas International Co.",
+    "consignee_address": "7474 Osborne Lights, West Kristinmouth, SC 76117, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party_name": "Pacific Parker GmbH",
+    "notify_party_address": "128 Medina Mall Suite 108, East Jillton, CO 55945, Brazil",
+    "vessel": "EVER GOLDEN",
+    "voyage": "122S",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Rotterdam, NL",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2025-12-05",
+    "issue_place": "New York",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "TIWX1737040",
+        "seal_no": "CL565774",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "IYQC3205284",
+        "seal_no": "CL537715",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "ZHGF2444770",
+        "seal_no": "SL777915",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "TPHA0494577",
+        "seal_no": "SL903702",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 132,
+    "package_type": "Case",
+    "gross_weight_kg": 17861.5,
+    "net_weight_kg": 17266.7,
+    "cbm": 4.399,
+    "marks_and_numbers": "GLB/16"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0738",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202510-9567",
+    "usppi_name": "Tech Moses Ltd",
+    "usppi_address": "Unit 5774 Box 1071, DPO AE 76382, India",
+    "usppi_country": "India",
+    "ein": "38-6171137",
+    "consignee_name": "Robinson Tech Inc.",
+    "consignee_address": "470 Bennett Mountains, New Nicole, ME 96392, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Martinez Commerce GmbH",
+    "forwarder": "DB Schenker",
+    "incoterm": "CIP",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Angela Henderson",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/10",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 122,
+        "unit": "LTR",
+        "weight_kg": 130.96,
+        "value_usd": 3173.69
+      },
+      {
+        "marks": "ABC/34",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 123,
+        "unit": "BOX",
+        "weight_kg": 104.2,
+        "value_usd": 8071.61
+      }
+    ],
+    "total_weight_kg": 235.16,
+    "total_value_usd": 11245.3,
+    "vessel": "MSC OSCAR",
+    "voyage": "572W",
+    "booking_ref": "BKG-814944",
+    "bl_number": "EGLV103716464",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "New York, US",
+    "container_number": "JPXO8608507",
+    "seal_number": "SL526503",
+    "container_type": "40'GP",
+    "cbm": 17.825
+  }
+}

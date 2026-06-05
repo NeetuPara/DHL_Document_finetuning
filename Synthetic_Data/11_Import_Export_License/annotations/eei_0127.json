@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0127",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "219-77410073-2",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2025-09-08",
+    "port_of_entry": "SFO - San Francisco",
+    "transport_mode": "Rail",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "020-21215871",
+    "importer_name": "International Grant Ltd",
+    "importer_ein": "22-4703517",
+    "consignee_name": "Industry Ortiz Corp.",
+    "customs_broker": "Page International GmbH",
+    "broker_filer_code": "rmS",
+    "country_of_origin": "Canada",
+    "total_value": 210753.92,
+    "total_duty": 34333.6,
+    "currency": "AUD",
+    "signatory": "Jack Rodriguez",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Brazil",
+        "qty": 211,
+        "unit": "PCS",
+        "entered_value": 73368.92,
+        "duty_rate": 21.0,
+        "duty_amount": 15407.47,
+        "eccn": "3A992",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Spain",
+        "qty": 370,
+        "unit": "CTN",
+        "entered_value": 64694.5,
+        "duty_rate": 9.5,
+        "duty_amount": 6145.98,
+        "eccn": "EAR99",
+        "schedule_b": "9018.31.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Australia",
+        "qty": 457,
+        "unit": "MTR",
+        "entered_value": 56905.64,
+        "duty_rate": 20.6,
+        "duty_amount": 11722.56,
+        "eccn": "1A002",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "China",
+        "qty": 177,
+        "unit": "SET",
+        "entered_value": 15784.86,
+        "duty_rate": 6.7,
+        "duty_amount": 1057.59,
+        "eccn": "2B350",
+        "schedule_b": "8708.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

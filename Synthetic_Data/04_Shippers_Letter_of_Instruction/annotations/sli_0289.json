@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0289",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202002-2995",
+    "usppi_name": "Global Weaver Ltd",
+    "usppi_address": "965 Pamela Roads, Lake Markbury, NJ 27026, Mexico",
+    "usppi_country": "Mexico",
+    "ein": "32-4207400",
+    "consignee_name": "Global Lawrence GmbH",
+    "consignee_address": "7243 Odom Falls Suite 880, Curtiston, PR 78443, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Tech Johnson Corp.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Kathleen Aguilar",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "ABC/43",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 131,
+        "unit": "PCS",
+        "weight_kg": 407.06,
+        "value_usd": 66701.54
+      },
+      {
+        "marks": "EXP/46",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 114,
+        "unit": "PCS",
+        "weight_kg": 67.21,
+        "value_usd": 3154.18
+      },
+      {
+        "marks": "EXP/48",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 32,
+        "unit": "PCS",
+        "weight_kg": 379.13,
+        "value_usd": 8233.67
+      },
+      {
+        "marks": "ABC/6",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 39,
+        "unit": "CTN",
+        "weight_kg": 131.09,
+        "value_usd": 3113.59
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 43,
+        "unit": "PKG",
+        "weight_kg": 81.12,
+        "value_usd": 1051.29
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 132,
+        "unit": "BOX",
+        "weight_kg": 92.33,
+        "value_usd": 6237.7
+      },
+      {
+        "marks": "EXP/15",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 141,
+        "unit": "MTR",
+        "weight_kg": 111.23,
+        "value_usd": 804.02
+      },
+      {
+        "marks": "EXP/25",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 20,
+        "unit": "LTR",
+        "weight_kg": 18.52,
+        "value_usd": 519.11
+      }
+    ],
+    "total_weight_kg": 1287.69,
+    "total_value_usd": 89815.1,
+    "service": "Ground",
+    "named_port": "Toronto Pearson",
+    "insurance_value_usd": 20864.13,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-150026",
+    "destination_country": "South Korea"
+  }
+}

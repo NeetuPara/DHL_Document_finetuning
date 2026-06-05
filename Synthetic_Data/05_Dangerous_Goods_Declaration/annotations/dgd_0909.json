@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0909",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Bradford Pte Ltd",
+    "shipper_address": "84692 Jordan Villages Apt. 910, Tanyachester, NV 14169, India",
+    "shipper_country": "India",
+    "consignee_name": "Johnson Trade LLC",
+    "consignee_address": "3425 Donna Loaf Suite 970, Dunnmouth, SC 81210, Germany",
+    "consignee_country": "Germany",
+    "emergency_telephone": "+21 476-704-6662",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 38,
+        "pkg_type": "Steel Drum",
+        "net_qty": 22.82,
+        "qty_unit": "kg",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-283158",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 7,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 26.46,
+        "qty_unit": "mL",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-666593",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "James Bowen",
+    "signature_date": "2026-05-10",
+    "signature_place": "India",
+    "awb_number": "125-61256964",
+    "flight_number": "UA5696",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "JFK",
+    "destination_airport_name": "JFK New York",
+    "non_dg_reason": "Excepted quantities (EQ) per IATA DGR 2.6"
+  }
+}

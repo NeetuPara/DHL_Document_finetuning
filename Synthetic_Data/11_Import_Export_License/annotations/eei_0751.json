@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0751",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "494-18477734-5",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2025-08-02",
+    "port_of_entry": "HOU - Houston",
+    "transport_mode": "Rail",
+    "carrier": "DHL Express",
+    "bl_awb": "006-58614663",
+    "importer_name": "Commerce Simmons LLC",
+    "importer_ein": "14-8327652",
+    "consignee_name": "Robinson Tech LLC",
+    "customs_broker": "Commerce Miller B.V.",
+    "broker_filer_code": "KXx",
+    "country_of_origin": "Japan",
+    "total_value": 183934.73,
+    "total_duty": 13045.09,
+    "currency": "EUR",
+    "signatory": "Valerie Hensley",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Spain",
+        "qty": 163,
+        "unit": "PCS",
+        "entered_value": 78026.47,
+        "duty_rate": 9.0,
+        "duty_amount": 7022.38,
+        "eccn": "3A992",
+        "schedule_b": "3926.90.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Thailand",
+        "qty": 234,
+        "unit": "CTN",
+        "entered_value": 101375.82,
+        "duty_rate": 5.4,
+        "duty_amount": 5474.29,
+        "eccn": "9A515",
+        "schedule_b": "4819.10.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Malaysia",
+        "qty": 126,
+        "unit": "LTR",
+        "entered_value": 2472.12,
+        "duty_rate": 13.1,
+        "duty_amount": 323.85,
+        "eccn": "2B350",
+        "schedule_b": "2901.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Belgium",
+        "qty": 158,
+        "unit": "SET",
+        "entered_value": 2060.32,
+        "duty_rate": 10.9,
+        "duty_amount": 224.57,
+        "eccn": "EAR99",
+        "schedule_b": "8708.30.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0824",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20240504048306",
+    "export_date": "2025-12-25",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Johnston Global AG",
+    "usppi_ein": "79-6324389",
+    "usppi_address": "43503 Weber Burg, South Cynthia, MS 63446, Poland",
+    "ultimate_consignee": "Trade Kim LLC",
+    "intermediate_consignee": "Pacific Smith B.V.",
+    "forwarding_agent": "Industry Green S.A.",
+    "destination_country": "Singapore",
+    "carrier": "Maersk",
+    "bl_awb": "160-64183988",
+    "total_value": 178142.76,
+    "currency": "USD",
+    "signatory": "Alfred Gross",
+    "line_items": [
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Japan",
+        "qty": 284,
+        "unit": "LTR",
+        "entered_value": 10258.08,
+        "duty_rate": 3.5,
+        "duty_amount": 359.03,
+        "eccn": "2B350",
+        "schedule_b": "2901.10.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Switzerland",
+        "qty": 435,
+        "unit": "PCS",
+        "entered_value": 108558.6,
+        "duty_rate": 14.1,
+        "duty_amount": 15306.76,
+        "eccn": "0A919",
+        "schedule_b": "8534.00.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "Thailand",
+        "qty": 132,
+        "unit": "PCS",
+        "entered_value": 59326.08,
+        "duty_rate": 2.3,
+        "duty_amount": 1364.5,
+        "eccn": "3A992",
+        "schedule_b": "3926.90.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

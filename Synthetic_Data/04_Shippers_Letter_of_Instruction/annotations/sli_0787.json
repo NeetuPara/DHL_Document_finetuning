@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0787",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202512-4460",
+    "usppi_name": "Henson Tech Pte Ltd",
+    "usppi_address": "618 Linda Manors Apt. 956, South Marie, PR 15047, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "57-6609128",
+    "consignee_name": "Sheppard Pacific GmbH",
+    "consignee_address": "40491 Gill Street, Deannaside, GA 62557, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Munoz Pacific Inc.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FOB",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Jenny Byrd",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/27",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 22,
+        "unit": "KGS",
+        "weight_kg": 22.0,
+        "value_usd": 23.41
+      },
+      {
+        "marks": "SLI/21",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 13,
+        "unit": "MTR",
+        "weight_kg": 13.51,
+        "value_usd": 215.05
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 112,
+        "unit": "PCS",
+        "weight_kg": 60.39,
+        "value_usd": 1096.74
+      },
+      {
+        "marks": "EXP/48",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 114,
+        "unit": "LTR",
+        "weight_kg": 118.36,
+        "value_usd": 671.57
+      }
+    ],
+    "total_weight_kg": 214.26,
+    "total_value_usd": 2006.77,
+    "service": "LCL Ocean",
+    "named_port": "Antwerp, BE",
+    "insurance_value_usd": 17704.03,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-625875",
+    "destination_country": "Canada"
+  }
+}

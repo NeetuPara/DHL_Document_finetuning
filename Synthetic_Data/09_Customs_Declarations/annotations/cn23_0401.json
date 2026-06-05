@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0401",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Amy Ellis",
+    "addressee_company": "Nguyen Pacific Co.",
+    "addressee_address": "2556 Katelyn Harbor, Jonathonville, OH 90568, Netherlands",
+    "addressee_country": "Netherlands",
+    "total_weight_kg": 11.93,
+    "total_value": 999.08,
+    "currency": "CHF",
+    "issue_date": "2026-02-08",
+    "reference": "REF-143292",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.376,
+        "value": 12.78,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 4,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.326,
+        "value": 562.0,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 9,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 3.987,
+        "value": 373.32,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 1,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 1.241,
+        "value": 50.98,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Hailey Bonilla",
+    "sender_company": "Pacific Goodman AG",
+    "sender_address": "0747 Melissa Field Apt. 792, South Amanda, WI 92937, Poland",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 1098.99,
+    "postal_charges": 66.84,
+    "tracking_number": "WR069815225KI"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0647",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Graham LLC",
+    "shipper_address": "7085 Matthew Burg, West Cynthiabury, GA 62626, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "International Larson LLC",
+    "consignee_address": "3688 Johnson Cove, West Carlos, OK 03926, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+7 696-421-7053",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 44,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 63.65,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Carolyn Hall",
+    "signature_date": "2026-04-18",
+    "signature_place": "Australia",
+    "vessel": "MSC GULSUN",
+    "voyage": "537E",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Tanjung Pelepas, MY"
+  }
+}

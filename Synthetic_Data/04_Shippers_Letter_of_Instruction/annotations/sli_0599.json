@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0599",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202011-8391",
+    "usppi_name": "Commerce Matthews GmbH",
+    "usppi_address": "11939 Cervantes Forges, Rhondamouth, WI 77491, India",
+    "usppi_country": "India",
+    "ein": "49-3062738",
+    "consignee_name": "Tate International S.A.",
+    "consignee_address": "11952 Kyle Path, South James, SC 73032, China",
+    "consignee_country": "China",
+    "notify_party": "International Pearson Co.",
+    "forwarder": "Panalpina",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "4A994",
+    "signatory_name": "Cynthia Burns",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/30",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 14,
+        "unit": "PCS",
+        "weight_kg": 170.91,
+        "value_usd": 1319.25
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 152,
+        "unit": "PCS",
+        "weight_kg": 19.73,
+        "value_usd": 12078.08
+      },
+      {
+        "marks": "ABC/9",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 185,
+        "unit": "KGS",
+        "weight_kg": 185.0,
+        "value_usd": 2299.53
+      },
+      {
+        "marks": "ABC/23",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 33,
+        "unit": "PKG",
+        "weight_kg": 41.22,
+        "value_usd": 2539.84
+      }
+    ],
+    "total_weight_kg": 416.86,
+    "total_value_usd": 18236.7,
+    "service": "LCL Ocean",
+    "named_port": "Singapore, SG",
+    "insurance_value_usd": 22176.74,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-212407",
+    "destination_country": "China"
+  }
+}

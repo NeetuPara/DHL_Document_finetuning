@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0414",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-42959399",
+    "mawb_number": "020-21474921",
+    "shipper_name": "Trade Cross AG",
+    "shipper_address": "357 King Cliff, Steveside, IL 42195, Poland",
+    "consignee_name": "Moore Commerce B.V.",
+    "consignee_address": "075 Amanda Burg Apt. 960, West Marissaborough, CO 81154, Singapore",
+    "agent_name": "International Mann Inc.",
+    "airport_departure": "FRA",
+    "airport_destination": "AMS",
+    "currency": "AED",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CHF 48,018.52",
+    "n_pieces": 26,
+    "gross_weight_kg": 20.3,
+    "chargeable_weight": 24.7,
+    "rate": 3.26,
+    "total_charge": 80.52,
+    "nature_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "handling_info": "HANDLING CODE: PIL",
+    "issue_date": "2026-04-21",
+    "signatory": "Audrey Robbins",
+    "iata_code": "12-989",
+    "agent_cass": "7744-2633",
+    "consolidation_ref": "CONS-7073-143225",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-16353760",
+        "pieces": 6,
+        "weight": 95.3,
+        "destination": "SIN",
+        "consignee": "White Tech AG",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "160-33096768",
+        "pieces": 17,
+        "weight": 38.9,
+        "destination": "ICN",
+        "consignee": "Merritt Industry Ltd",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "006-70837156",
+        "pieces": 1,
+        "weight": 39.0,
+        "destination": "LHR",
+        "consignee": "Long Commerce B.V.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "020-24601822",
+        "pieces": 10,
+        "weight": 40.6,
+        "destination": "MIA",
+        "consignee": "Tech Ferguson B.V.",
+        "description": "Industrial Machinery Parts - Steel "
+      }
+    ]
+  }
+}

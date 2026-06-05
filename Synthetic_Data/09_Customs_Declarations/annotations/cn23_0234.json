@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0234",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Matthew Ortega",
+    "addressee_company": "Macdonald Tech GmbH",
+    "addressee_address": "00842 Margaret Fork Suite 945, South Lori, CO 66941, India",
+    "addressee_country": "India",
+    "total_weight_kg": 10.255,
+    "total_value": 1223.79,
+    "currency": "CNY",
+    "issue_date": "2026-03-04",
+    "reference": "REF-525509",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.555,
+        "value": 416.78,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 5,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.878,
+        "value": 19.45,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 6,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.822,
+        "value": 787.56,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Brazil"
+      }
+    ],
+    "sender_country": "Japan",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "483-62098949-3",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 10.2,
+    "estimated_duty": 124.83,
+    "importer_ein": "63-8696407",
+    "customs_broker": "Livingston Pacific Inc."
+  }
+}

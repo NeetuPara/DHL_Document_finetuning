@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0103",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU809475616",
+    "shipper_name": "Stanley Trade Inc.",
+    "shipper_address": "USNS Schneider, FPO AA 59656, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Industry Bass LLC",
+    "consignee_address": "0146 Jessica Prairie, North Jeremy, NV 90129, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Industry Soto Pte Ltd",
+    "notify_party_address": "94006 Lauren Club, Victorberg, CT 97702, Malaysia",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "477W",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2024-08-10",
+    "issue_place": "Hamburg",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "AEIH5931892",
+        "seal_no": "CL928863",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "PZVL4498675",
+        "seal_no": "CL853995",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 384,
+    "package_type": "Carton",
+    "gross_weight_kg": 22945.6,
+    "net_weight_kg": 20582.7,
+    "cbm": 20.107,
+    "marks_and_numbers": "GLB/11"
+  }
+}

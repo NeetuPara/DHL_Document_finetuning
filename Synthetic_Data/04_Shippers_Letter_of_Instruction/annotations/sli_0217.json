@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0217",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202101-8743",
+    "usppi_name": "Pacific Terry B.V.",
+    "usppi_address": "1967 Annette Villages Suite 903, Foxshire, MS 42041, Canada",
+    "usppi_country": "Canada",
+    "ein": "12-1272807",
+    "consignee_name": "Ortega Pacific Inc.",
+    "consignee_address": "254 Danielle Ports, Monicaburgh, FM 43827, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Tech Beasley Co.",
+    "forwarder": "DB Schenker",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "William Bray",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "EXP/39",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 179,
+        "unit": "BOX",
+        "weight_kg": 337.33,
+        "value_usd": 9902.71
+      },
+      {
+        "marks": "EXP/21",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 79,
+        "unit": "KGS",
+        "weight_kg": 79.0,
+        "value_usd": 109.09
+      },
+      {
+        "marks": "EXP/16",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 169,
+        "unit": "PKG",
+        "weight_kg": 152.33,
+        "value_usd": 15863.23
+      },
+      {
+        "marks": "SLI/34",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 169,
+        "unit": "CTN",
+        "weight_kg": 828.67,
+        "value_usd": 12421.66
+      },
+      {
+        "marks": "SLI/17",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 128,
+        "unit": "PCS",
+        "weight_kg": 114.21,
+        "value_usd": 33243.18
+      },
+      {
+        "marks": "ABC/46",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 54,
+        "unit": "PCS",
+        "weight_kg": 6.08,
+        "value_usd": 3411.78
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 89,
+        "unit": "CTN",
+        "weight_kg": 104.7,
+        "value_usd": 599.79
+      },
+      {
+        "marks": "EXP/33",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 86,
+        "unit": "PCS",
+        "weight_kg": 1609.73,
+        "value_usd": 29039.05
+      }
+    ],
+    "total_weight_kg": 3232.05,
+    "total_value_usd": 104590.49,
+    "service": "Express Courier",
+    "named_port": "Singapore Changi",
+    "insurance_value_usd": 5184.66,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-939043",
+    "destination_country": "United Kingdom"
+  }
+}

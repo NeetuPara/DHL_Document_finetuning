@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0402",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU830142107",
+    "shipper_name": "Pacific Kennedy Co.",
+    "shipper_address": "7593 Kellie Gardens, North Curtisport, KY 19244, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Merritt Pacific Co.",
+    "consignee_address": "6293 Darren Shores, West Ryanburgh, NM 22801, Spain",
+    "consignee_country": "Spain",
+    "notify_party_name": "Fox International Corp.",
+    "notify_party_address": "7941 Boone Crossroad, West Markshire, FM 22721, United Kingdom",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "948N",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Dubai, AE",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2024-11-25",
+    "issue_place": "Hamburg",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "JIFO4660510",
+        "seal_no": "BL789544",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "GNMI0969996",
+        "seal_no": "BL868292",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "PCBP2344146",
+        "seal_no": "BL181352",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "WPYU6640090",
+        "seal_no": "BL754162",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "number_of_packages": 236,
+    "package_type": "Bundle",
+    "gross_weight_kg": 6453.0,
+    "net_weight_kg": 5988.7,
+    "cbm": 17.931,
+    "marks_and_numbers": "XYZ/23"
+  }
+}

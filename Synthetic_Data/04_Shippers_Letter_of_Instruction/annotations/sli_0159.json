@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0159",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202106-8590",
+    "usppi_name": "Rose Tech Co.",
+    "usppi_address": "048 Tiffany Village Suite 255, Maldonadohaven, SC 81502, Spain",
+    "usppi_country": "Spain",
+    "ein": "58-8056595",
+    "consignee_name": "Green Industry Corp.",
+    "consignee_address": "1422 Smith Inlet, West Chelseamouth, DE 86305, India",
+    "consignee_country": "India",
+    "notify_party": "Thomas Industry Inc.",
+    "forwarder": "Expeditors",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "2B350",
+    "signatory_name": "Joanna Martin",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/17",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 133,
+        "unit": "PCS",
+        "weight_kg": 106.34,
+        "value_usd": 184201.87
+      },
+      {
+        "marks": "ABC/35",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 163,
+        "unit": "PCS",
+        "weight_kg": 132.53,
+        "value_usd": 40145.48
+      },
+      {
+        "marks": "ABC/42",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 61,
+        "unit": "BOX",
+        "weight_kg": 79.59,
+        "value_usd": 1468.32
+      },
+      {
+        "marks": "ABC/17",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 163,
+        "unit": "KGS",
+        "weight_kg": 163.0,
+        "value_usd": 3527.08
+      }
+    ],
+    "total_weight_kg": 481.46,
+    "total_value_usd": 229342.75,
+    "vessel": "PIL PACIFIC",
+    "voyage": "448E",
+    "booking_ref": "BKG-277229",
+    "bl_number": "OOLU583509449",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Hong Kong, HK",
+    "container_number": "KCOU4056737",
+    "seal_number": "CL276598",
+    "container_type": "40'HC",
+    "cbm": 32.77
+  }
+}

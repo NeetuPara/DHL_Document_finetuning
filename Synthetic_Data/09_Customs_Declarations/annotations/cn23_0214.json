@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0214",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Debra Castillo",
+    "addressee_company": "Pacific Hall GmbH",
+    "addressee_address": "PSC 7076, Box 6014, APO AP 94081, India",
+    "addressee_country": "India",
+    "total_weight_kg": 4.984,
+    "total_value": 730.46,
+    "currency": "EUR",
+    "issue_date": "2026-01-22",
+    "reference": "REF-602326",
+    "line_items": [
+      {
+        "qty": 8,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.498,
+        "value": 405.68,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 3,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.486,
+        "value": 324.78,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Thailand"
+      }
+    ],
+    "sender_name": "Larry Mills",
+    "sender_company": "Trade Martin Inc.",
+    "sender_address": "44144 Richardson Mill, North Whitneyburgh, AK 60472, France",
+    "sender_phone": "964-665-3304x32393",
+    "sender_email": "ballardrichard@example.org",
+    "addressee_phone": "+1-971-218-6287x046",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 803.51,
+    "postal_charges": 66.29,
+    "tracking_number": "KY930064602OR"
+  }
+}

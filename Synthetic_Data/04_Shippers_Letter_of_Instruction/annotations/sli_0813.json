@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0813",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202206-6063",
+    "usppi_name": "Trade Elliott B.V.",
+    "usppi_address": "4700 Taylor Rapid, North Melissa, VA 39365, Germany",
+    "usppi_country": "Germany",
+    "ein": "68-8354277",
+    "consignee_name": "Reyes Tech B.V.",
+    "consignee_address": "26467 Fitzpatrick Turnpike Apt. 044, East Kelly, NM 86009, India",
+    "consignee_country": "India",
+    "notify_party": "Owen Global Pte Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Angie Martinez",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/27",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 25,
+        "unit": "PCS",
+        "weight_kg": 521.21,
+        "value_usd": 8149.4
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 152,
+        "unit": "PCS",
+        "weight_kg": 14.27,
+        "value_usd": 9186.94
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 53,
+        "unit": "CTN",
+        "weight_kg": 235.45,
+        "value_usd": 2604.23
+      }
+    ],
+    "total_weight_kg": 770.93,
+    "total_value_usd": 19940.57,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "479N",
+    "booking_ref": "BKG-968216",
+    "bl_number": "MAEU245527540",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Qingdao, CN",
+    "container_number": "PJOQ2267823",
+    "seal_number": "BL460982",
+    "container_type": "45'HC",
+    "cbm": 8.029
+  }
+}

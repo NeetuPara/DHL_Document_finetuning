@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0088",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Nelson Co.",
+    "shipper_address": "440 Timothy Mission Suite 284, North Linda, TN 89934, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Tech Simon LLC",
+    "consignee_address": "33265 Calderon Lock, West Johnfort, AR 11397, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+8 474-939-1866",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 44,
+        "pkg_type": "Steel Drum",
+        "net_qty": 87.55,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-410241",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 38,
+        "pkg_type": "Steel Drum",
+        "net_qty": 79.19,
+        "qty_unit": "kg",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "William Anderson",
+    "signature_date": "2026-05-10",
+    "signature_place": "Belgium",
+    "awb_number": "085-11539883",
+    "flight_number": "UA8857",
+    "flight_date": "2026-04-26",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0350",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202508-4384",
+    "usppi_name": "Trade Lin B.V.",
+    "usppi_address": "5032 King Land, Simpsonview, HI 35088, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "97-8972120",
+    "consignee_name": "Pacific Hooper S.A.",
+    "consignee_address": "566 Montgomery Ports Apt. 125, Hurstmouth, OR 00902, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party": "Dominguez Tech Pte Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Zachary Jones",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/11",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 155,
+        "unit": "PCS",
+        "weight_kg": 150.37,
+        "value_usd": 187488.11
+      },
+      {
+        "marks": "EXP/36",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 19,
+        "unit": "PCS",
+        "weight_kg": 24.38,
+        "value_usd": 604.21
+      },
+      {
+        "marks": "EXP/31",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D/F",
+        "qty": 32,
+        "unit": "LTR",
+        "weight_kg": 28.88,
+        "value_usd": 823.13
+      },
+      {
+        "marks": "SLI/49",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 132,
+        "unit": "PCS",
+        "weight_kg": 701.42,
+        "value_usd": 58412.67
+      },
+      {
+        "marks": "ABC/48",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 136,
+        "unit": "PCS",
+        "weight_kg": 2819.57,
+        "value_usd": 39036.04
+      },
+      {
+        "marks": "EXP/26",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 106,
+        "unit": "BOX",
+        "weight_kg": 87.61,
+        "value_usd": 5571.38
+      },
+      {
+        "marks": "ABC/14",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 148,
+        "unit": "PCS",
+        "weight_kg": 61.27,
+        "value_usd": 24737.04
+      }
+    ],
+    "total_weight_kg": 3873.5,
+    "total_value_usd": 316672.58,
+    "service": "LCL Ocean",
+    "named_port": "Colombo, LK",
+    "insurance_value_usd": 43115.46,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Malaysia"
+  }
+}

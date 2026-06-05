@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0292",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "675-37479180-4",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2025-10-19",
+    "port_of_entry": "ORD - Chicago",
+    "transport_mode": "Hand-Carried",
+    "carrier": "MSC",
+    "bl_awb": "020-32945195",
+    "importer_name": "Global Bowman AG",
+    "importer_ein": "40-2567924",
+    "consignee_name": "Industry Miller Corp.",
+    "customs_broker": "Industry Smith AG",
+    "broker_filer_code": "Ufk",
+    "country_of_origin": "Mexico",
+    "total_value": 354795.03,
+    "total_duty": 37398.49,
+    "currency": "AED",
+    "signatory": "Alvin Berry",
+    "signatory_title": "Compliance Officer",
+    "line_items": [
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Switzerland",
+        "qty": 401,
+        "unit": "BOX",
+        "entered_value": 183048.48,
+        "duty_rate": 8.4,
+        "duty_amount": 15376.07,
+        "eccn": "5E992",
+        "schedule_b": "2936.90.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Sweden",
+        "qty": 182,
+        "unit": "PCS",
+        "entered_value": 51316.72,
+        "duty_rate": 15.3,
+        "duty_amount": 7851.46,
+        "eccn": "7A994",
+        "schedule_b": "9002.11.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Singapore",
+        "qty": 189,
+        "unit": "SET",
+        "entered_value": 1878.66,
+        "duty_rate": 20.0,
+        "duty_amount": 375.73,
+        "eccn": "3A992",
+        "schedule_b": "8708.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "South Korea",
+        "qty": 114,
+        "unit": "MTR",
+        "entered_value": 25733.22,
+        "duty_rate": 17.9,
+        "duty_amount": 4606.25,
+        "eccn": "7A994",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Netherlands",
+        "qty": 311,
+        "unit": "CTN",
+        "entered_value": 92817.95,
+        "duty_rate": 9.9,
+        "duty_amount": 9188.98,
+        "eccn": "9A515",
+        "schedule_b": "4819.10.00",
+        "export_reason": "TMP - Temporary"
+      }
+    ]
+  }
+}

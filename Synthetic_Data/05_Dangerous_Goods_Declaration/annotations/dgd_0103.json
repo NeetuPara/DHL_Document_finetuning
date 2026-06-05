@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0103",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Pacific Nelson Ltd",
+    "shipper_address": "58932 Poole Way, Port Johnside, VT 60303, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Tech Burgess AG",
+    "consignee_address": "94073 Osborne Trail, Swansonfurt, MO 77671, Mexico",
+    "consignee_country": "Mexico",
+    "emergency_telephone": "+68 649-604-5672",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 37,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 6.27,
+        "qty_unit": "g",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-740172",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 12,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 87.71,
+        "qty_unit": "mL",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-320880",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Patricia White",
+    "signature_date": "2026-04-15",
+    "signature_place": "Thailand",
+    "awb_number": "020-53401542",
+    "flight_number": "CX9366",
+    "flight_date": "2026-04-25",
+    "departure_airport_code": "ORD",
+    "departure_airport_name": "Chicago O'Hare",
+    "destination_airport_code": "HKG",
+    "destination_airport_name": "Hong Kong International"
+  }
+}

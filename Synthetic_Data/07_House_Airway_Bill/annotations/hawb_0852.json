@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0852",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-87731885",
+    "mawb_number": "020-43854617",
+    "shipper_name": "Tech Rodriguez AG",
+    "shipper_address": "Unit 3800 Box 4371, DPO AA 78803, Switzerland",
+    "consignee_name": "Payne Commerce GmbH",
+    "consignee_address": "39914 Case Vista, North Ashley, UT 42039, France",
+    "agent_name": "Trade Clark GmbH",
+    "airport_departure": "AMS",
+    "airport_destination": "CDG",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "AUD 104.69",
+    "declared_value_customs": "USD 39,288.78",
+    "n_pieces": 9,
+    "gross_weight_kg": 423.0,
+    "chargeable_weight": 437.6,
+    "rate": 10.28,
+    "total_charge": 4498.53,
+    "nature_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-02-23",
+    "signatory": "Debra Wilkins",
+    "iata_code": "26-019",
+    "agent_cass": "9653-1989",
+    "consolidation_ref": "CONS-5894-399858",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-80602806",
+        "pieces": 3,
+        "weight": 31.3,
+        "destination": "LAX",
+        "consignee": "Ruiz Pacific Corp.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "074-29870596",
+        "pieces": 8,
+        "weight": 74.6,
+        "destination": "ICN",
+        "consignee": "Commerce Carroll Corp.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "618-93195382",
+        "pieces": 12,
+        "weight": 44.6,
+        "destination": "MIA",
+        "consignee": "Industry Evans Inc.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "618-20847491",
+        "pieces": 20,
+        "weight": 39.6,
+        "destination": "DXB",
+        "consignee": "White Global Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "125-74379817",
+        "pieces": 9,
+        "weight": 47.4,
+        "destination": "YYZ",
+        "consignee": "Russell Pacific LLC",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0385",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Christian Nelson",
+    "addressee_company": "Commerce Hardy Corp.",
+    "addressee_address": "78611 Stephanie Fields, North Courtneytown, NM 61032, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 5.507,
+    "total_value": 3033.53,
+    "currency": "EUR",
+    "issue_date": "2026-01-29",
+    "reference": "REF-026448",
+    "line_items": [
+      {
+        "qty": 20,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.563,
+        "value": 2004.6,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 7,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.944,
+        "value": 1028.93,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Megan Coleman",
+    "sender_company": "Henderson Pacific Ltd",
+    "sender_address": "6371 Harris Flat Suite 446, Ericaport, PA 65622, United Kingdom",
+    "sender_phone": "7469710274",
+    "sender_email": "christopher14@example.org",
+    "addressee_phone": "(775)557-1873x9778",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 7.81,
+    "tracking_number": "IE131254995QL"
+  }
+}

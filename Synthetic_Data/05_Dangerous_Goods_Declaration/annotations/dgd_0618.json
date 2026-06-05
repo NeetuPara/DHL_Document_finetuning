@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0618",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Heath Ltd",
+    "shipper_address": "719 Miller Lodge, Terryburgh, LA 58410, China",
+    "shipper_country": "China",
+    "consignee_name": "Krause Commerce LLC",
+    "consignee_address": "02788 Chang Alley, South Jennifer, FM 53741, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+67 495-363-9961",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 38,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 48.45,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Joshua Rodriguez",
+    "signature_date": "2026-05-13",
+    "signature_place": "China",
+    "awb_number": "045-92320106",
+    "flight_number": "DL9675",
+    "departure_airport_code": "LAX",
+    "departure_airport_name": "Los Angeles International",
+    "destination_airport_code": "NRT",
+    "destination_airport_name": "Tokyo Narita",
+    "non_dg_reason": "Lithium Ion Batteries \u2014 Section II (PI 967/Section II)"
+  }
+}

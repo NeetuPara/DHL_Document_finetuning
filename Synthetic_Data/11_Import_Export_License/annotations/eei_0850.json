@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0850",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "472-42646477-2",
+    "entry_type": "06 - FTZ Consumption",
+    "entry_date": "2025-12-23",
+    "port_of_entry": "SEA - Seattle",
+    "transport_mode": "Hand-Carried",
+    "carrier": "Maersk",
+    "bl_awb": "085-85911473",
+    "importer_name": "Robinson Global B.V.",
+    "importer_ein": "22-2701369",
+    "consignee_name": "Gray Pacific Pte Ltd",
+    "customs_broker": "Industry Blake Co.",
+    "broker_filer_code": "aBH",
+    "country_of_origin": "Thailand",
+    "total_value": 81347.98,
+    "total_duty": 13718.96,
+    "currency": "SGD",
+    "signatory": "Brandon Young",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Singapore",
+        "qty": 296,
+        "unit": "MTR",
+        "entered_value": 61724.88,
+        "duty_rate": 20.7,
+        "duty_amount": 12777.05,
+        "eccn": "1A002",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Hong Kong",
+        "qty": 485,
+        "unit": "CTN",
+        "entered_value": 19623.1,
+        "duty_rate": 4.8,
+        "duty_amount": 941.91,
+        "eccn": "7A994",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

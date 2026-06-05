@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0016",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "043-13670315-2",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2026-01-05",
+    "port_of_entry": "LAX - Los Angeles",
+    "transport_mode": "Air",
+    "carrier": "DHL Express",
+    "bl_awb": "176-72551950",
+    "importer_name": "Wolfe Industry Co.",
+    "importer_ein": "51-9324268",
+    "consignee_name": "Pacific Castillo Co.",
+    "customs_broker": "Escobar Tech S.A.",
+    "broker_filer_code": "Hbn",
+    "country_of_origin": "United Arab Emirates",
+    "total_value": 83135.79,
+    "total_duty": 7501.05,
+    "currency": "CNY",
+    "signatory": "Trevor Nichols",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "China",
+        "qty": 103,
+        "unit": "KGS",
+        "entered_value": 17597.55,
+        "duty_rate": 6.5,
+        "duty_amount": 1143.84,
+        "eccn": "3A992",
+        "schedule_b": "2008.19.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 233,
+        "unit": "PCS",
+        "entered_value": 65538.24,
+        "duty_rate": 9.7,
+        "duty_amount": 6357.21,
+        "eccn": "7A994",
+        "schedule_b": "3926.90.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

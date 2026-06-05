@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0873",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202502-5328",
+    "usppi_name": "Lopez International GmbH",
+    "usppi_address": "603 Kristina Lakes, Wilsonton, IA 61576, India",
+    "usppi_country": "India",
+    "ein": "48-5919079",
+    "consignee_name": "Tech West Inc.",
+    "consignee_address": "085 Mary Summit Suite 068, Jeffreyport, OK 24043, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Williams Tech Co.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DAP",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Richard Davidson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/45",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 16,
+        "unit": "KGS",
+        "weight_kg": 16.0,
+        "value_usd": 14.33
+      },
+      {
+        "marks": "EXP/30",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 174,
+        "unit": "PCS",
+        "weight_kg": 219.34,
+        "value_usd": 137057.51
+      },
+      {
+        "marks": "ABC/20",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 87,
+        "unit": "PCS",
+        "weight_kg": 65.57,
+        "value_usd": 977.52
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 24,
+        "unit": "MTR",
+        "weight_kg": 8.17,
+        "value_usd": 369.04
+      },
+      {
+        "marks": "ABC/40",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 7,
+        "unit": "CTN",
+        "weight_kg": 33.94,
+        "value_usd": 364.72
+      }
+    ],
+    "total_weight_kg": 343.02,
+    "total_value_usd": 138783.12,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "627E",
+    "booking_ref": "BKG-777951",
+    "bl_number": "OOLU859655277",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Los Angeles, US",
+    "container_number": "QHQB1645679",
+    "seal_number": "CL250739",
+    "container_type": "45'HC",
+    "cbm": 15.089
+  }
+}

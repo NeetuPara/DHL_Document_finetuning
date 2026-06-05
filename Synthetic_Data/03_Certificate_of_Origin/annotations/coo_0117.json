@@ -1,0 +1,60 @@
+{
+  "document_id": "coo_0117",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202108-7668",
+    "exporter_name": "Industry Robinson Corp.",
+    "exporter_address": "1066 Baker Wells, Gatesside, TX 18020, Italy",
+    "exporter_country": "Italy",
+    "consignee_name": "Perkins Global LLC",
+    "consignee_address": "USCGC Lewis, FPO AP 01897, Germany",
+    "consignee_country": "Germany",
+    "country_of_origin": "Italy",
+    "country_of_destination": "Germany",
+    "bl_or_awb": "045-96075121",
+    "issue_date": "2025-02-07",
+    "certifier_name": "Vincent Martin",
+    "goods": [
+      {
+        "description": "Wooden Furniture - Office Chairs",
+        "hs_code": "9401.30.00",
+        "qty": 355,
+        "unit": "PCS",
+        "weight_kg": 3748.44,
+        "origin_criterion": "B",
+        "value": 142108.91
+      },
+      {
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "hs_code": "8483.40.00",
+        "qty": 315,
+        "unit": "PCS",
+        "weight_kg": 789.35,
+        "origin_criterion": "D",
+        "value": 88719.18
+      },
+      {
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "hs_code": "8518.30.00",
+        "qty": 327,
+        "unit": "PCS",
+        "weight_kg": 45.7,
+        "origin_criterion": "F",
+        "value": 24418.11
+      },
+      {
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "hs_code": "2936.90.00",
+        "qty": 372,
+        "unit": "BOX",
+        "weight_kg": 711.59,
+        "origin_criterion": "A",
+        "value": 33510.73
+      }
+    ],
+    "fta_agreement": "US-Korea FTA (KORUS)",
+    "chamber": "Chamber of Commerce"
+  }
+}

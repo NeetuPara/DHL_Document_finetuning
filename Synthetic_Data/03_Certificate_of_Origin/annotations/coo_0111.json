@@ -1,0 +1,60 @@
+{
+  "document_id": "coo_0111",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202106-7167",
+    "exporter_name": "Industry Thompson Co.",
+    "exporter_address": "0392 Harris Island, East Sarah, ID 78885, Belgium",
+    "exporter_country": "Belgium",
+    "consignee_name": "Edwards Pacific Pte Ltd",
+    "consignee_address": "3928 York Gateway, Port Justinmouth, MP 75852, Germany",
+    "consignee_country": "Germany",
+    "country_of_origin": "Belgium",
+    "country_of_destination": "Germany",
+    "bl_or_awb": "006-95374660",
+    "issue_date": "2025-09-27",
+    "certifier_name": "Philip Small",
+    "goods": [
+      {
+        "description": "Paper Products - Packaging Cartons",
+        "hs_code": "4819.10.00",
+        "qty": 13,
+        "unit": "CTN",
+        "weight_kg": 29.08,
+        "origin_criterion": "D",
+        "value": 126.33
+      },
+      {
+        "description": "Steel Products - Hot Rolled Coils",
+        "hs_code": "7208.37.00",
+        "qty": 265,
+        "unit": "KGS",
+        "weight_kg": 265.0,
+        "origin_criterion": "B",
+        "value": 410.48
+      },
+      {
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "hs_code": "8483.40.00",
+        "qty": 98,
+        "unit": "PCS",
+        "weight_kg": 236.71,
+        "origin_criterion": "F",
+        "value": 47822.49
+      },
+      {
+        "description": "Chemical Compounds - Industrial Solvents",
+        "hs_code": "2901.10.00",
+        "qty": 251,
+        "unit": "LTR",
+        "weight_kg": 270.7,
+        "origin_criterion": "A",
+        "value": 7093.8
+      }
+    ],
+    "fta_agreement": "UK-Australia FTA",
+    "chamber": "Trade Association"
+  }
+}

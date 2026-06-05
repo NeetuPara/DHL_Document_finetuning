@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0033",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Howard Commerce GmbH",
+    "shipper_address": "6956 Villanueva Station, Michaelshire, AL 78084, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Trade Gibson Inc.",
+    "consignee_address": "321 Donald Isle, Martintown, MI 23036, Italy",
+    "consignee_country": "Italy",
+    "emergency_telephone": "+86 637-703-9626",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 33,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 93.08,
+        "qty_unit": "kg",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 3,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 36.11,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-517131",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Kathryn Webster",
+    "signature_date": "2026-04-18",
+    "signature_place": "Mexico",
+    "awb_number": "085-85477979",
+    "flight_number": "SQ6730",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

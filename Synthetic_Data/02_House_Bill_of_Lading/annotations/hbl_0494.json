@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0494",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG997035384",
+    "shipper_name": "Pacific Sharp Corp.",
+    "shipper_address": "742 Victor Radial, Lake Carlosmouth, MP 05779, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Trade Levine GmbH",
+    "consignee_address": "1068 Lee Drives Apt. 149, Thomaston, VA 24041, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Miles Commerce GmbH",
+    "notify_party_address": "48269 Taylor Hollow, Waltonstad, PW 67151, Spain",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "235E",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2024-07-08",
+    "issue_place": "Tanjung Pelepas",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "FBNI9714437",
+        "seal_no": "SL805958",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "YSVO1139182",
+        "seal_no": "SL847334",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "ANVY1104419",
+        "seal_no": "CL293330",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 88,
+    "package_type": "Roll",
+    "gross_weight_kg": 5570.2,
+    "net_weight_kg": 5036.7,
+    "cbm": 8.05,
+    "marks_and_numbers": "GLB/44"
+  }
+}

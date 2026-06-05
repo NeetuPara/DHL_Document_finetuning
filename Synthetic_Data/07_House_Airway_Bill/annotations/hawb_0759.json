@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0759",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-65309057",
+    "mawb_number": "618-53766024",
+    "shipper_name": "Davis Industry Corp.",
+    "shipper_address": "04940 Little Shoals Apt. 154, Rodriguezburgh, NY 74274, Spain",
+    "consignee_name": "Mcdonald Pacific Corp.",
+    "consignee_address": "3007 Wilson Divide Suite 046, Heathermouth, FM 60995, India",
+    "agent_name": "Contreras Tech LLC",
+    "airport_departure": "NRT",
+    "airport_destination": "ICN",
+    "currency": "USD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "CHF 508.77",
+    "n_pieces": 40,
+    "gross_weight_kg": 272.3,
+    "chargeable_weight": 289.5,
+    "rate": 10.86,
+    "total_charge": 3143.97,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-06-22",
+    "signatory": "David Holmes",
+    "iata_code": "30-034",
+    "agent_cass": "0893-4808",
+    "consolidation_ref": "CONS-1304-712106",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-22984834",
+        "pieces": 11,
+        "weight": 85.1,
+        "destination": "DXB",
+        "consignee": "Walsh Trade AG",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "057-67719617",
+        "pieces": 18,
+        "weight": 70.5,
+        "destination": "AMS",
+        "consignee": "Pacific Jones Inc.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "074-21821208",
+        "pieces": 14,
+        "weight": 40.2,
+        "destination": "CDG",
+        "consignee": "International Hobbs Inc.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "176-70382811",
+        "pieces": 6,
+        "weight": 91.5,
+        "destination": "AMS",
+        "consignee": "International Montgomery Inc.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "045-77163478",
+        "pieces": 12,
+        "weight": 3.5,
+        "destination": "SIN",
+        "consignee": "Miller Global GmbH",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "020-25971612",
+        "pieces": 10,
+        "weight": 10.1,
+        "destination": "JFK",
+        "consignee": "Chapman Tech AG",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "020-93458068",
+        "pieces": 6,
+        "weight": 38.9,
+        "destination": "ICN",
+        "consignee": "Pacific Rosales Corp.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "045-48768047",
+        "pieces": 1,
+        "weight": 24.6,
+        "destination": "AMS",
+        "consignee": "Tech Burns Corp.",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

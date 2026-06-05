@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0166",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Adam Pierce",
+    "addressee_company": "Commerce Baldwin Co.",
+    "addressee_address": "USS Mason, FPO AE 20107, Germany",
+    "addressee_country": "Germany",
+    "total_weight_kg": 6.432,
+    "total_value": 302.46,
+    "currency": "GBP",
+    "issue_date": "2025-11-02",
+    "reference": "REF-194483",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.799,
+        "value": 15.96,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 6,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 3.633,
+        "value": 286.5,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Canada"
+      }
+    ],
+    "sender_name": "Zachary Rodriguez",
+    "sender_company": "Warren Commerce S.A.",
+    "sender_address": "93260 Rhonda Freeway Suite 958, Castillofort, MS 12278, United Kingdom",
+    "sender_phone": "+1-746-300-9845",
+    "sender_email": "icamacho@example.net",
+    "addressee_phone": "(764)961-1743",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 332.71,
+    "postal_charges": 36.39,
+    "tracking_number": "DX220570242AT"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0385",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202310-3777",
+    "usppi_name": "Industry Parker LLC",
+    "usppi_address": "752 Jill Road, Jamesshire, VI 60053, South Korea",
+    "usppi_country": "South Korea",
+    "ein": "91-1540055",
+    "consignee_name": "Russell Trade LLC",
+    "consignee_address": "2168 Sanchez Station Suite 716, Ryanview, DE 68977, China",
+    "consignee_country": "China",
+    "notify_party": "Chavez Industry GmbH",
+    "forwarder": "DB Schenker",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Veronica Holmes",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/22",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 75,
+        "unit": "CTN",
+        "weight_kg": 208.55,
+        "value_usd": 5311.78
+      },
+      {
+        "marks": "ABC/21",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D",
+        "qty": 192,
+        "unit": "PKG",
+        "weight_kg": 272.34,
+        "value_usd": 5784.4
+      }
+    ],
+    "total_weight_kg": 480.89,
+    "total_value_usd": 11096.18,
+    "service": "Ocean Freight",
+    "named_port": "Long Beach, US",
+    "insurance_value_usd": 33251.22,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-990466",
+    "destination_country": "China"
+  }
+}

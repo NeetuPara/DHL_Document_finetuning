@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0717",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Amanda Snow",
+    "addressee_company": "Parsons Industry LLC",
+    "addressee_address": "Unit 4357 Box 4768, DPO AE 42104, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 7.034,
+    "total_value": 3053.21,
+    "currency": "GBP",
+    "issue_date": "2026-03-06",
+    "reference": "REF-612217",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.572,
+        "value": 1193.76,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 9,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.495,
+        "value": 799.65,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 20,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.967,
+        "value": 1059.8,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_country": "Malaysia",
+    "port_of_entry": "Boston, MA",
+    "entry_number": "657-47678703-9",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 15.9,
+    "estimated_duty": 485.46,
+    "importer_ein": "95-3926370",
+    "customs_broker": "International Cunningham AG"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0185",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Angela Davis",
+    "addressee_company": "Mcbride Commerce LLC",
+    "addressee_address": "405 Jessica Canyon, Lake Jessica, NM 48149, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 7.31,
+    "total_value": 1521.88,
+    "currency": "AUD",
+    "issue_date": "2025-10-15",
+    "reference": "REF-403096",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.474,
+        "value": 484.9,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 9,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.836,
+        "value": 1036.98,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_name": "Kristin Mitchell",
+    "sender_company": "Tech Meyer Pte Ltd",
+    "sender_address": "8031 Richard Station, New Stephanieberg, KS 69700, Australia",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 51.99,
+    "tracking_number": "ZH952439526UX"
+  }
+}

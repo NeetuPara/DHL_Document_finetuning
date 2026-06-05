@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0717",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-55538721",
+    "mawb_number": "074-86823850",
+    "shipper_name": "Barber Pacific AG",
+    "shipper_address": "4273 Whitney Shoal, Port Stephaniechester, AZ 24040, France",
+    "consignee_name": "International Hahn Co.",
+    "consignee_address": "3146 Michael Keys, Sheahaven, IL 59547, Singapore",
+    "agent_name": "Commerce Parsons Co.",
+    "airport_departure": "YYZ",
+    "airport_destination": "LAX",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "AUD 8,938.56",
+    "n_pieces": 47,
+    "gross_weight_kg": 23.4,
+    "chargeable_weight": 29.2,
+    "rate": 8.39,
+    "total_charge": 244.99,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "TEMP CONTROLLED: 3\u00b0C - 10\u00b0C",
+    "issue_date": "2025-10-10",
+    "signatory": "Jamie Benson",
+    "iata_code": "12-315",
+    "agent_cass": "7211-1929",
+    "consolidation_ref": "CONS-2874-855960",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-11567132",
+        "pieces": 4,
+        "weight": 62.1,
+        "destination": "SIN",
+        "consignee": "Scott Commerce Co.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "045-74308681",
+        "pieces": 1,
+        "weight": 53.9,
+        "destination": "HKG",
+        "consignee": "Commerce Griffith Co.",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "160-89950410",
+        "pieces": 18,
+        "weight": 35.6,
+        "destination": "SYD",
+        "consignee": "Commerce Boyd S.A.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "160-24996090",
+        "pieces": 12,
+        "weight": 14.1,
+        "destination": "ICN",
+        "consignee": "Parker Trade B.V.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "618-77421309",
+        "pieces": 1,
+        "weight": 94.3,
+        "destination": "AMS",
+        "consignee": "International Jensen B.V.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "085-67695501",
+        "pieces": 3,
+        "weight": 83.6,
+        "destination": "HKG",
+        "consignee": "White Trade Corp.",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}

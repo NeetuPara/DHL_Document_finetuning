@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0475",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "059-25574076-9",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2025-12-17",
+    "port_of_entry": "LAX - Los Angeles",
+    "transport_mode": "Hand-Carried",
+    "carrier": "Maersk",
+    "bl_awb": "057-19855946",
+    "importer_name": "Hall Industry AG",
+    "importer_ein": "75-0473924",
+    "consignee_name": "Pacific Miller Inc.",
+    "customs_broker": "Moore Global S.A.",
+    "broker_filer_code": "NkQ",
+    "country_of_origin": "Germany",
+    "total_value": 80083.85,
+    "total_duty": 7617.53,
+    "currency": "GBP",
+    "signatory": "Deborah Wilson",
+    "signatory_title": "Import Coordinator",
+    "line_items": [
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "India",
+        "qty": 271,
+        "unit": "PCS",
+        "entered_value": 58449.28,
+        "duty_rate": 6.0,
+        "duty_amount": 3506.96,
+        "eccn": "3A992",
+        "schedule_b": "8534.00.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Spain",
+        "qty": 47,
+        "unit": "PKG",
+        "entered_value": 21634.57,
+        "duty_rate": 19.0,
+        "duty_amount": 4110.57,
+        "eccn": "EAR99",
+        "schedule_b": "4016.93.00",
+        "export_reason": "BIS - Bureau of Industry"
+      }
+    ]
+  }
+}

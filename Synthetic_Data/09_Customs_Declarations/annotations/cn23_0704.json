@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0704",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Victor Medina",
+    "addressee_company": "Bass International LLC",
+    "addressee_address": "2472 Katherine Harbors Suite 118, Connieville, MT 36901, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 13.574,
+    "total_value": 4302.5,
+    "currency": "AED",
+    "issue_date": "2026-04-29",
+    "reference": "REF-485842",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 4.912,
+        "value": 1891.35,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 5,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.484,
+        "value": 252.3,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 10,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.774,
+        "value": 1401.8,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 15,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 2.404,
+        "value": 757.05,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Kyle Allen",
+    "sender_company": "Lane Pacific AG",
+    "sender_address": "35748 Williams Shore Apt. 777, Port John, VI 45743, United Kingdom",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 49.5,
+    "tracking_number": "NP393954995FB"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0832",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Charles Cook",
+    "addressee_company": "International Smith Inc.",
+    "addressee_address": "USNV White, FPO AA 20323, Brazil",
+    "addressee_country": "Brazil",
+    "total_weight_kg": 7.115,
+    "total_value": 4198.26,
+    "currency": "AED",
+    "issue_date": "2025-11-13",
+    "reference": "REF-327997",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.419,
+        "value": 1352.78,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 5,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 2.016,
+        "value": 154.85,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 1,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.303,
+        "value": 126.53,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 18,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 1.377,
+        "value": 2564.1,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Jennifer Moore",
+    "sender_company": "Meyer Tech Co.",
+    "sender_address": "70936 Thompson Lights Apt. 832, West Amanda, SD 44652, France",
+    "sender_phone": "+1-579-245-1909",
+    "sender_email": "samuelflynn@example.net",
+    "addressee_phone": "727-364-9215x9706",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 76.06,
+    "tracking_number": "EH671287760SO"
+  }
+}

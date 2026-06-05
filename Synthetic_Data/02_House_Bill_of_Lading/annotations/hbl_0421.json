@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0421",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG199114337",
+    "shipper_name": "Pacific Shaffer B.V.",
+    "shipper_address": "8963 Jeremy Plaza, Leestad, WY 02983, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Martinez International B.V.",
+    "consignee_address": "290 Richardson Canyon, West Barbara, WV 59423, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "Marsh Trade Corp.",
+    "notify_party_address": "87576 Mccall Mills Suite 418, Deniseton, SD 69898, Italy",
+    "vessel": "MSC OSCAR",
+    "voyage": "969E",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Qingdao, CN",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Qingdao, CN",
+    "issue_date": "2024-11-14",
+    "issue_place": "Rotterdam",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "BOFM3118215",
+        "seal_no": "SL330013",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "URWZ2516359",
+        "seal_no": "CL648384",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "DNEN3361999",
+        "seal_no": "BL533465",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "number_of_packages": 160,
+    "package_type": "Pallet",
+    "gross_weight_kg": 1835.1,
+    "net_weight_kg": 1724.1,
+    "cbm": 11.198,
+    "marks_and_numbers": "GLB/48"
+  }
+}

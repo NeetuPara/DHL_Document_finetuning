@@ -1,0 +1,90 @@
+{
+  "document_id": "eei_0257",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220910477671",
+    "export_date": "2026-02-24",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Global Callahan AG",
+    "usppi_ein": "50-1829272",
+    "usppi_address": "819 Joel Port, Devinville, NV 84594, Malaysia",
+    "ultimate_consignee": "International Waters B.V.",
+    "intermediate_consignee": "Wolfe Industry S.A.",
+    "forwarding_agent": "Commerce Terry B.V.",
+    "destination_country": "Italy",
+    "carrier": "UPS",
+    "bl_awb": "057-85573823",
+    "total_value": 413450.65,
+    "currency": "JPY",
+    "signatory": "Ryan Austin",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Japan",
+        "qty": 357,
+        "unit": "CTN",
+        "entered_value": 97218.24,
+        "duty_rate": 3.4,
+        "duty_amount": 3305.42,
+        "eccn": "0A919",
+        "schedule_b": "9018.31.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "South Korea",
+        "qty": 82,
+        "unit": "PCS",
+        "entered_value": 15120.8,
+        "duty_rate": 7.8,
+        "duty_amount": 1179.42,
+        "eccn": "5E992",
+        "schedule_b": "8518.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Poland",
+        "qty": 294,
+        "unit": "PCS",
+        "entered_value": 99830.64,
+        "duty_rate": 23.0,
+        "duty_amount": 22961.05,
+        "eccn": "EAR99",
+        "schedule_b": "9002.11.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "China",
+        "qty": 291,
+        "unit": "BOX",
+        "entered_value": 115876.2,
+        "duty_rate": 7.0,
+        "duty_amount": 8111.33,
+        "eccn": "9A515",
+        "schedule_b": "2936.90.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "South Korea",
+        "qty": 187,
+        "unit": "PCS",
+        "entered_value": 85404.77,
+        "duty_rate": 3.7,
+        "duty_amount": 3159.98,
+        "eccn": "7A994",
+        "schedule_b": "9002.11.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

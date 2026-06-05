@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0129",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce James LLC",
+    "shipper_address": "9413 Derek Plains, Lake Davidland, MN 54360, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Camacho Pacific Inc.",
+    "consignee_address": "8498 Wolfe Ways, Lisafort, MN 42706, Germany",
+    "consignee_country": "Germany",
+    "emergency_telephone": "+83 327-197-4864",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 36,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 95.12,
+        "qty_unit": "kg",
+        "packing_instruction": "PI 965",
+        "auth_no": "CA-219127",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 1,
+        "pkg_type": "Steel Drum",
+        "net_qty": 46.34,
+        "qty_unit": "mL",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Michael Gordon",
+    "signature_date": "2026-04-16",
+    "signature_place": "United States",
+    "awb_number": "045-32777263",
+    "flight_number": "SQ4237",
+    "departure_airport_code": "LAX",
+    "departure_airport_name": "Los Angeles International",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

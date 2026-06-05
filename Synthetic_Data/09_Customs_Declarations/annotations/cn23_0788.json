@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0788",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Angela Cox",
+    "addressee_company": "Trade Wood Corp.",
+    "addressee_address": "702 Miller Prairie Suite 763, Leonardshire, AR 87091, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 11.166,
+    "total_value": 1931.68,
+    "currency": "CAD",
+    "issue_date": "2025-10-14",
+    "reference": "REF-900397",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.858,
+        "value": 369.05,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 11,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 2.577,
+        "value": 688.71,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 16,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 4.731,
+        "value": 873.92,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Austin Maxwell",
+    "sender_company": "Martinez Pacific Pte Ltd",
+    "sender_address": "19688 Michael Center Apt. 716, Port Claudiaberg, UT 17994, Italy",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 6.36,
+    "tracking_number": "VK715407149FS"
+  }
+}

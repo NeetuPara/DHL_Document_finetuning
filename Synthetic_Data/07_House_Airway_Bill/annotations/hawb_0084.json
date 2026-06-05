@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0084",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "160-77270655",
+    "mawb_number": "020-62326589",
+    "shipper_name": "Wallace International LLC",
+    "shipper_address": "USNS Wagner, FPO AA 48782, United Kingdom",
+    "consignee_name": "Wolfe International Corp.",
+    "consignee_address": "281 Dustin Union Suite 155, Brownside, KY 41376, China",
+    "agent_name": "Baker International Pte Ltd",
+    "airport_departure": "JFK",
+    "airport_destination": "ICN",
+    "currency": "AUD",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 21,
+    "gross_weight_kg": 272.2,
+    "chargeable_weight": 318.5,
+    "rate": 9.05,
+    "total_charge": 2882.43,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-08-06",
+    "signatory": "Laura Williams",
+    "iata_code": "80-508",
+    "agent_cass": "9857-9310",
+    "consolidation_ref": "CONS-5485-114051",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-88254785",
+        "pieces": 18,
+        "weight": 34.3,
+        "destination": "LAX",
+        "consignee": "Pacific Sutton Co.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "125-20465514",
+        "pieces": 16,
+        "weight": 24.0,
+        "destination": "LAX",
+        "consignee": "Pacific King S.A.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "020-35316407",
+        "pieces": 17,
+        "weight": 47.8,
+        "destination": "ORD",
+        "consignee": "International Powers LLC",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

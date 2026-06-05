@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0498",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Hernandez Industry S.A.",
+    "shipper_address": "45366 Johnny Harbor Apt. 867, East Jimville, MI 79885, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Commerce Parker Ltd",
+    "consignee_address": "8370 Gutierrez Freeway Apt. 601, Nashport, AS 85275, Thailand",
+    "consignee_country": "Thailand",
+    "emergency_telephone": "+37 196-693-7155",
+    "dg_entries": [
+      {
+        "un_no": "UN1072",
+        "proper_name": "Oxygen, compressed",
+        "class": "2.2",
+        "packing_group": "N/A",
+        "n_packages": 50,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 49.3,
+        "qty_unit": "mL",
+        "packing_instruction": "Y206",
+        "auth_no": "CA-282324",
+        "special_provision": "",
+        "hazard_label": "Non-flammable Gas (Oxidizing)",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-W",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Patrick King",
+    "signature_date": "2026-05-01",
+    "signature_place": "United Kingdom",
+    "awb_number": "125-12042073",
+    "flight_number": "DL4731",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

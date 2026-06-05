@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0073",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV319776070",
+    "shipper_name": "Pacific Frazier LLC",
+    "shipper_address": "248 James Courts, East Stephaniemouth, CA 50078, Hong Kong",
+    "shipper_country": "Hong Kong",
+    "consignee_name": "Commerce Herring GmbH",
+    "consignee_address": "USCGC Nguyen, FPO AA 09909, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "Leonard Pacific Pte Ltd",
+    "notify_party_address": "PSC 8445, Box 7735, APO AP 49753, France",
+    "vessel": "EVER GOLDEN",
+    "voyage": "339N",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Shanghai, CN",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2025-09-25",
+    "issue_place": "Shanghai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "IBHO4828533",
+        "seal_no": "SL454062",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "JPRQ3447822",
+        "seal_no": "CL158835",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "RGLE7863419",
+        "seal_no": "BL399887",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 489,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 846.0,
+    "net_weight_kg": 803.4,
+    "cbm": 14.902,
+    "marks_and_numbers": "XYZ/28"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0016",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202603-7303",
+    "usppi_name": "Tech Peterson Inc.",
+    "usppi_address": "26597 Russell Rapid Suite 723, Lake Nathan, MT 57135, Germany",
+    "usppi_country": "Germany",
+    "ein": "31-2451440",
+    "consignee_name": "Industry Berry Inc.",
+    "consignee_address": "350 Jason Drive, Austinborough, AL 08229, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "International Willis S.A.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "9A515",
+    "signatory_name": "Janice Taylor",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/9",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D/F",
+        "qty": 187,
+        "unit": "KGS",
+        "weight_kg": 187.0,
+        "value_usd": 173.73
+      },
+      {
+        "marks": "EXP/10",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 191,
+        "unit": "PCS",
+        "weight_kg": 18.5,
+        "value_usd": 16875.9
+      },
+      {
+        "marks": "EXP/33",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 81,
+        "unit": "LTR",
+        "weight_kg": 77.28,
+        "value_usd": 1422.51
+      },
+      {
+        "marks": "ABC/11",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 59,
+        "unit": "PCS",
+        "weight_kg": 84.01,
+        "value_usd": 203.41
+      }
+    ],
+    "total_weight_kg": 366.79,
+    "total_value_usd": 18675.55,
+    "service": "Air Freight",
+    "named_port": "JFK New York",
+    "insurance_value_usd": 13299.8,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-437574",
+    "destination_country": "Sweden"
+  }
+}

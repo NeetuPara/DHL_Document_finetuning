@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0024",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-66396881",
+    "mawb_number": "074-47744800",
+    "shipper_name": "Wright Trade GmbH",
+    "shipper_address": "USS Keller, FPO AP 08756, India",
+    "consignee_name": "Brown Tech Corp.",
+    "consignee_address": "PSC 9165, Box 5757, APO AE 24001, Belgium",
+    "agent_name": "Beasley Pacific GmbH",
+    "airport_departure": "LAX",
+    "airport_destination": "DXB",
+    "currency": "JPY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "USD 34,114.28",
+    "n_pieces": 27,
+    "gross_weight_kg": 32.2,
+    "chargeable_weight": 37.3,
+    "rate": 6.35,
+    "total_charge": 236.85,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-08-18",
+    "signatory": "Antonio Yoder",
+    "iata_code": "79-262",
+    "agent_cass": "1323-3045",
+    "consolidation_ref": "CONS-0930-502929",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-18589131",
+        "pieces": 4,
+        "weight": 45.2,
+        "destination": "CDG",
+        "consignee": "Pacific Macdonald Co.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "020-21202803",
+        "pieces": 16,
+        "weight": 84.9,
+        "destination": "SIN",
+        "consignee": "Industry Wheeler B.V.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "020-42425941",
+        "pieces": 9,
+        "weight": 46.8,
+        "destination": "SIN",
+        "consignee": "Wallace Tech AG",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "057-93989340",
+        "pieces": 14,
+        "weight": 5.3,
+        "destination": "MIA",
+        "consignee": "Trade Woods GmbH",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "057-98760822",
+        "pieces": 9,
+        "weight": 80.7,
+        "destination": "ORD",
+        "consignee": "Tech Jones Co.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "176-42861415",
+        "pieces": 16,
+        "weight": 29.7,
+        "destination": "NRT",
+        "consignee": "Davis Industry Inc.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "074-39655542",
+        "pieces": 1,
+        "weight": 48.5,
+        "destination": "SYD",
+        "consignee": "International Sanchez Corp.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "176-35076083",
+        "pieces": 4,
+        "weight": 85.5,
+        "destination": "YYZ",
+        "consignee": "Industry Fernandez Inc.",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0428",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV126878146",
+    "shipper_name": "Pacific Bennett B.V.",
+    "shipper_address": "14714 Dylan Extensions, Jasonland, IN 12802, China",
+    "shipper_country": "China",
+    "consignee_name": "Tech Floyd GmbH",
+    "consignee_address": "4383 Amy Stream, South Wendy, VT 68945, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Pacific Neal Corp.",
+    "notify_party_address": "82191 Amanda Drive Suite 853, Christopherstad, MH 38410, Switzerland",
+    "vessel": "MSC GULSUN",
+    "voyage": "118E",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Dubai, AE",
+    "issue_date": "2026-01-04",
+    "issue_place": "Shanghai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CIF",
+    "containers": [
+      {
+        "container_no": "WGXW7329165",
+        "seal_no": "BL531097",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "XNPP9009263",
+        "seal_no": "SL440375",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "ZRJF2660872",
+        "seal_no": "CL895016",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 225,
+    "package_type": "Cylinder",
+    "gross_weight_kg": 16409.9,
+    "net_weight_kg": 14749.8,
+    "cbm": 26.639,
+    "marks_and_numbers": "XYZ/41"
+  }
+}

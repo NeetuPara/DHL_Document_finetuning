@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0720",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Tech Preston S.A.",
+    "shipper_address": "471 Dawn Bypass Suite 409, Lake James, MD 00719, France",
+    "shipper_country": "France",
+    "consignee_name": "Smith International Corp.",
+    "consignee_address": "68854 Lauren Wall, Lake Davidton, OR 02123, Mexico",
+    "consignee_country": "Mexico",
+    "emergency_telephone": "+58 461-870-7809",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 40,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 24.25,
+        "qty_unit": "mL",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-345035",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 11,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 27.48,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-867397",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Mary Jackson",
+    "signature_date": "2026-05-01",
+    "signature_place": "France",
+    "awb_number": "160-32124400",
+    "flight_number": "EK3870",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

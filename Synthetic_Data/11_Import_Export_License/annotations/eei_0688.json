@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0688",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "189-37925502-6",
+    "entry_type": "12 - Informal - Dutiable",
+    "entry_date": "2025-11-06",
+    "port_of_entry": "HOU - Houston",
+    "transport_mode": "Truck",
+    "carrier": "DHL Express",
+    "bl_awb": "045-32747379",
+    "importer_name": "Commerce Benson B.V.",
+    "importer_ein": "36-7593545",
+    "consignee_name": "Cole Commerce LLC",
+    "customs_broker": "Walker Commerce Inc.",
+    "broker_filer_code": "imd",
+    "country_of_origin": "Germany",
+    "total_value": 299030.46,
+    "total_duty": 21385.19,
+    "currency": "EUR",
+    "signatory": "Samantha Carlson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Brazil",
+        "qty": 408,
+        "unit": "CTN",
+        "entered_value": 39000.72,
+        "duty_rate": 15.2,
+        "duty_amount": 5928.11,
+        "eccn": "0A919",
+        "schedule_b": "4819.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "United Kingdom",
+        "qty": 186,
+        "unit": "MTR",
+        "entered_value": 70890.18,
+        "duty_rate": 9.0,
+        "duty_amount": 6380.12,
+        "eccn": "5E992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "China",
+        "qty": 344,
+        "unit": "LTR",
+        "entered_value": 50540.48,
+        "duty_rate": 9.0,
+        "duty_amount": 4548.64,
+        "eccn": "9A515",
+        "schedule_b": "2901.10.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "United Kingdom",
+        "qty": 404,
+        "unit": "SET",
+        "entered_value": 136434.84,
+        "duty_rate": 3.3,
+        "duty_amount": 4502.35,
+        "eccn": "2B350",
+        "schedule_b": "8708.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Brazil",
+        "qty": 13,
+        "unit": "BOX",
+        "entered_value": 2164.24,
+        "duty_rate": 1.2,
+        "duty_amount": 25.97,
+        "eccn": "9A515",
+        "schedule_b": "2936.90.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

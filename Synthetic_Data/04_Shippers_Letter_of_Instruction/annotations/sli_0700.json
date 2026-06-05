@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0700",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202511-1156",
+    "usppi_name": "Industry Carlson GmbH",
+    "usppi_address": "076 Alejandro Mall Apt. 807, Elizabethville, AL 07487, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "90-9199436",
+    "consignee_name": "Smith International GmbH",
+    "consignee_address": "764 Ricardo Views Suite 187, Wellschester, KY 73693, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "International Alvarado Pte Ltd",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Chad Jones",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/18",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 142,
+        "unit": "CTN",
+        "weight_kg": 238.8,
+        "value_usd": 4023.97
+      },
+      {
+        "marks": "SLI/41",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 194,
+        "unit": "MTR",
+        "weight_kg": 211.35,
+        "value_usd": 2020.68
+      },
+      {
+        "marks": "SLI/33",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 163,
+        "unit": "PCS",
+        "weight_kg": 2319.5,
+        "value_usd": 22220.67
+      }
+    ],
+    "total_weight_kg": 2769.65,
+    "total_value_usd": 28265.32,
+    "service": "Ground",
+    "named_port": "Shanghai Pudong",
+    "insurance_value_usd": 39969.53,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-106739",
+    "destination_country": "Singapore"
+  }
+}

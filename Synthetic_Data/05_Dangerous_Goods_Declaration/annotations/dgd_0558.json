@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0558",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Alvarez International Co.",
+    "shipper_address": "5739 Vance Manor, Lake Henrytown, ME 74633, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Robertson Industry LLC",
+    "consignee_address": "1834 Michael Islands, Port Robert, FL 45836, Australia",
+    "consignee_country": "Australia",
+    "emergency_telephone": "+2 448-866-4306",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 19,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 36.01,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Cynthia Cain",
+    "signature_date": "2026-04-21",
+    "signature_place": "Netherlands",
+    "awb_number": "125-44465738",
+    "flight_number": "EK1594",
+    "departure_airport_code": "SYD",
+    "departure_airport_name": "Sydney Kingsford Smith",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International",
+    "non_dg_reason": "Lithium Ion Batteries \u2014 Section II (PI 967/Section II)"
+  }
+}

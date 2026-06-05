@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0536",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20200425701583",
+    "export_date": "2025-10-15",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Garcia Industry GmbH",
+    "usppi_ein": "98-9501737",
+    "usppi_address": "5334 Larry Mount, New Glenn, VA 65791, Hong Kong",
+    "ultimate_consignee": "Pacific Galvan B.V.",
+    "intermediate_consignee": "Brooks Tech Inc.",
+    "forwarding_agent": "Industry Nelson S.A.",
+    "destination_country": "Australia",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "176-39448913",
+    "total_value": 323591.96,
+    "currency": "GBP",
+    "signatory": "Jacqueline Williams",
+    "line_items": [
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "United States",
+        "qty": 361,
+        "unit": "BOX",
+        "entered_value": 125526.92,
+        "duty_rate": 5.5,
+        "duty_amount": 6903.98,
+        "eccn": "EAR99",
+        "schedule_b": "2936.90.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Netherlands",
+        "qty": 404,
+        "unit": "LTR",
+        "entered_value": 198065.04,
+        "duty_rate": 24.2,
+        "duty_amount": 47931.74,
+        "eccn": "0A919",
+        "schedule_b": "2901.10.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

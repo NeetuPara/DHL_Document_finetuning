@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0208",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Reynolds Corp.",
+    "shipper_address": "Unit 2178 Box 0705, DPO AE 40839, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "Tech Griffin AG",
+    "consignee_address": "42545 Joshua Plains, Ambertown, MN 70350, Germany",
+    "consignee_country": "Germany",
+    "emergency_telephone": "+74 867-352-2075",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 41,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 80.99,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Shawn Turner",
+    "signature_date": "2026-05-01",
+    "signature_place": "Australia",
+    "awb_number": "176-91055763",
+    "flight_number": "UA4726",
+    "flight_date": "2026-05-26",
+    "departure_airport_code": "LHR",
+    "departure_airport_name": "London Heathrow",
+    "destination_airport_code": "YYZ",
+    "destination_airport_name": "Toronto Pearson"
+  }
+}

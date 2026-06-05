@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0098",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Megan Diaz",
+    "addressee_company": "International Cummings GmbH",
+    "addressee_address": "13098 Cheryl Union, Port Ronaldshire, ND 80330, Thailand",
+    "addressee_country": "Thailand",
+    "total_weight_kg": 6.65,
+    "total_value": 1018.77,
+    "currency": "USD",
+    "issue_date": "2025-11-25",
+    "reference": "REF-852350",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.121,
+        "value": 144.85,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 1,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.094,
+        "value": 136.72,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 20,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 3.435,
+        "value": 737.2,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "Danielle Brown",
+    "sender_company": "Hood Industry Ltd",
+    "sender_address": "3851 William Flat Suite 614, South Jamesfort, OH 71827, United Kingdom",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 1120.65,
+    "postal_charges": 10.24,
+    "tracking_number": "UV773790977RL"
+  }
+}

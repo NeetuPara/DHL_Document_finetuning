@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0561",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-66008225",
+    "mawb_number": "074-53371191",
+    "shipper_name": "Tech Murphy GmbH",
+    "shipper_address": "6547 Salas Extensions Suite 897, South Deborahhaven, LA 06943, Singapore",
+    "consignee_name": "Gomez Pacific GmbH",
+    "consignee_address": "73275 Gibson Locks Suite 705, North Dianaburgh, DC 36124, Belgium",
+    "agent_name": "Tech Martinez Inc.",
+    "airport_departure": "ORD",
+    "airport_destination": "MIA",
+    "currency": "CNY",
+    "charge_code": "PP",
+    "declared_value_carriage": "GBP 40,169.27",
+    "declared_value_customs": "NCV",
+    "n_pieces": 23,
+    "gross_weight_kg": 204.8,
+    "chargeable_weight": 239.5,
+    "rate": 6.09,
+    "total_charge": 1458.56,
+    "nature_of_goods": "Chemical Compounds - Industrial Solvents",
+    "hs_code": "2901.10.00",
+    "handling_info": "KEEP DRY - FRAGILE",
+    "issue_date": "2025-06-16",
+    "signatory": "Kathleen Hensley",
+    "iata_code": "09-088",
+    "agent_cass": "5046-0633",
+    "consolidation_ref": "CONS-2130-989877",
+    "sub_shipments": [
+      {
+        "hawb_ref": "125-95588329",
+        "pieces": 8,
+        "weight": 54.6,
+        "destination": "ICN",
+        "consignee": "Trade Mack Inc.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "074-17112839",
+        "pieces": 5,
+        "weight": 22.5,
+        "destination": "SIN",
+        "consignee": "Weber Global B.V.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "618-57202719",
+        "pieces": 6,
+        "weight": 20.7,
+        "destination": "MIA",
+        "consignee": "International Barr GmbH",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "045-76911188",
+        "pieces": 6,
+        "weight": 57.1,
+        "destination": "SYD",
+        "consignee": "Harris Industry S.A.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "045-55305856",
+        "pieces": 9,
+        "weight": 38.3,
+        "destination": "LHR",
+        "consignee": "Global Edwards LLC",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "160-44091638",
+        "pieces": 4,
+        "weight": 19.3,
+        "destination": "MIA",
+        "consignee": "Anderson Global Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "045-70696421",
+        "pieces": 3,
+        "weight": 35.7,
+        "destination": "NRT",
+        "consignee": "Boyd Pacific Inc.",
+        "description": "Plastic Products - Injection Moulde"
+      }
+    ]
+  }
+}

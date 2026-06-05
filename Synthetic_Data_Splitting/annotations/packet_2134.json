@@ -1,0 +1,40 @@
+{
+  "packet_id": "packet_2134",
+  "total_pages": 3,
+  "n_documents": 3,
+  "class_sequence": [
+    "Cargo Manifest",
+    "Packing List",
+    "Shipper's Letter of Instruction"
+  ],
+  "documents": [
+    {
+      "doc_class": "Cargo Manifest",
+      "class_index": 10,
+      "page_start": 1,
+      "page_end": 1,
+      "n_pages": 1,
+      "source_file": "manifest_0224.pdf",
+      "source_class_folder": "10_Cargo_Manifest"
+    },
+    {
+      "doc_class": "Packing List",
+      "class_index": 8,
+      "page_start": 2,
+      "page_end": 2,
+      "n_pages": 1,
+      "source_file": "packing_list_0625.pdf",
+      "source_class_folder": "08_Packing_List"
+    },
+    {
+      "doc_class": "Shipper's Letter of Instruction",
+      "class_index": 4,
+      "page_start": 3,
+      "page_end": 3,
+      "n_pages": 1,
+      "source_file": "sli_0195.pdf",
+      "source_class_folder": "04_Shippers_Letter_of_Instruction"
+    }
+  ],
+  "task": "splitting"
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0196",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Dustin Hill",
+    "addressee_company": "Guerrero International Pte Ltd",
+    "addressee_address": "103 Rosales Vista, West Tammy, TX 73150, Hong Kong",
+    "addressee_country": "Hong Kong",
+    "total_weight_kg": 4.307,
+    "total_value": 221.34,
+    "currency": "JPY",
+    "issue_date": "2025-08-23",
+    "reference": "REF-177370",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.307,
+        "value": 221.34,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_name": "April Jones",
+    "sender_company": "Trade Lowe LLC",
+    "sender_address": "06140 Mitchell Mountain, Lake Johnhaven, MT 49934, Belgium",
+    "sender_phone": "645.763.0363x6782",
+    "sender_email": "joebeltran@example.org",
+    "addressee_phone": "7592056359",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 243.47,
+    "postal_charges": 54.52,
+    "tracking_number": "NF991285115GN"
+  }
+}

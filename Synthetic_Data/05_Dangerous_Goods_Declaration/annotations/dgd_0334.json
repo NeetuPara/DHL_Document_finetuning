@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0334",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Brown International Inc.",
+    "shipper_address": "907 Anthony Junction Suite 551, West Williammouth, TN 33305, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Valdez Industry Co.",
+    "consignee_address": "07478 Dustin Vista Apt. 745, Port Kimberly, VI 02970, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+23 202-298-9942",
+    "dg_entries": [
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 30,
+        "pkg_type": "Steel Drum",
+        "net_qty": 33.82,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-319559",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Margaret Cook",
+    "signature_date": "2026-05-02",
+    "signature_place": "Canada",
+    "awb_number": "057-10007591",
+    "flight_number": "CX6107",
+    "flight_date": "2026-06-04",
+    "departure_airport_code": "LAX",
+    "departure_airport_name": "Los Angeles International",
+    "destination_airport_code": "AMS",
+    "destination_airport_name": "Amsterdam Schiphol"
+  }
+}

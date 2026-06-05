@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0762",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-54443783",
+    "mawb_number": "020-63982835",
+    "shipper_name": "Pacific Ortiz S.A.",
+    "shipper_address": "5006 Brian Stream Suite 625, Amberland, NJ 62002, Canada",
+    "consignee_name": "Fisher Industry AG",
+    "consignee_address": "170 Murphy Well Apt. 339, New Kevinland, ME 61307, United States",
+    "agent_name": "Tucker Trade AG",
+    "airport_departure": "MIA",
+    "airport_destination": "LAX",
+    "currency": "SGD",
+    "charge_code": "PP",
+    "declared_value_carriage": "AED 14,851.09",
+    "declared_value_customs": "SGD 14,419.77",
+    "n_pieces": 43,
+    "gross_weight_kg": 217.2,
+    "chargeable_weight": 278.6,
+    "rate": 10.3,
+    "total_charge": 2869.58,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-12-29",
+    "signatory": "Lisa Harris",
+    "iata_code": "51-701",
+    "agent_cass": "4305-7332",
+    "consolidation_ref": "CONS-7150-035372",
+    "sub_shipments": [
+      {
+        "hawb_ref": "045-12259215",
+        "pieces": 6,
+        "weight": 83.6,
+        "destination": "CDG",
+        "consignee": "Martinez Trade LLC",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "085-89803680",
+        "pieces": 10,
+        "weight": 67.9,
+        "destination": "NRT",
+        "consignee": "Global Russell S.A.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "125-69743099",
+        "pieces": 3,
+        "weight": 66.8,
+        "destination": "SIN",
+        "consignee": "Trade Fernandez AG",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "176-71166283",
+        "pieces": 13,
+        "weight": 93.1,
+        "destination": "YYZ",
+        "consignee": "Commerce Stevens Inc.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "006-28245660",
+        "pieces": 15,
+        "weight": 89.9,
+        "destination": "NRT",
+        "consignee": "Klein Industry Ltd",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

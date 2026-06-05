@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0723",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "176-74434697",
+    "mawb_number": "074-29592488",
+    "shipper_name": "Oneal Trade S.A.",
+    "shipper_address": "525 Brown Light, Julianberg, NE 89049, Netherlands",
+    "consignee_name": "Kelly Trade Inc.",
+    "consignee_address": "50930 Angie Bridge, Sharihaven, TX 79677, Sweden",
+    "agent_name": "Thomas Global Inc.",
+    "airport_departure": "LHR",
+    "airport_destination": "ICN",
+    "currency": "GBP",
+    "charge_code": "PP",
+    "declared_value_carriage": "SGD 38,099.81",
+    "declared_value_customs": "NCV",
+    "n_pieces": 49,
+    "gross_weight_kg": 448.8,
+    "chargeable_weight": 521.3,
+    "rate": 9.57,
+    "total_charge": 4988.84,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-04-08",
+    "signatory": "Alexander Cook",
+    "iata_code": "37-249",
+    "agent_cass": "3286-7003",
+    "consolidation_ref": "CONS-1961-795039",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-40283992",
+        "pieces": 3,
+        "weight": 46.4,
+        "destination": "ICN",
+        "consignee": "Industry Smith Inc.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "006-55101888",
+        "pieces": 11,
+        "weight": 19.3,
+        "destination": "ICN",
+        "consignee": "Trade Martinez Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "618-44055421",
+        "pieces": 1,
+        "weight": 50.4,
+        "destination": "AMS",
+        "consignee": "Adams Trade GmbH",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "045-37326930",
+        "pieces": 4,
+        "weight": 41.6,
+        "destination": "NRT",
+        "consignee": "Trade Cameron LLC",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "176-44211801",
+        "pieces": 2,
+        "weight": 94.7,
+        "destination": "JFK",
+        "consignee": "Galloway Commerce Inc.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "057-92382948",
+        "pieces": 5,
+        "weight": 50.2,
+        "destination": "YYZ",
+        "consignee": "Pacific Hartman Ltd",
+        "description": "Textile Fabrics - Woven Polyester"
+      }
+    ]
+  }
+}

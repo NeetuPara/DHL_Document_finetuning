@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0787",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Stephanie Miller",
+    "addressee_company": "Weaver Industry Corp.",
+    "addressee_address": "516 Brooks Divide, Rebeccaport, DE 95502, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 3.802,
+    "total_value": 2712.18,
+    "currency": "CHF",
+    "issue_date": "2025-05-29",
+    "reference": "REF-127645",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 0.777,
+        "value": 963.9,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 17,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.025,
+        "value": 1748.28,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "United States"
+      }
+    ],
+    "sender_name": "Jill Barnett",
+    "sender_company": "Commerce Sanders Ltd",
+    "sender_address": "2835 Daniels Route Apt. 709, South Tammymouth, TN 03892, India",
+    "sender_phone": "+1-415-392-9392x896",
+    "sender_email": "sevans@example.com",
+    "addressee_phone": "+1-948-605-0022x48784",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 2983.4,
+    "postal_charges": 23.72,
+    "tracking_number": "VC141499948AY"
+  }
+}

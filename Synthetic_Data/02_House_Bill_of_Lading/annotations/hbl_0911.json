@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0911",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU443755184",
+    "shipper_name": "Tech Mendoza Pte Ltd",
+    "shipper_address": "064 Molly Course, South Amy, MN 48580, Australia",
+    "shipper_country": "Australia",
+    "consignee_name": "International Walton GmbH",
+    "consignee_address": "01823 Rivas Plaza, South Matthewmouth, TN 75563, Spain",
+    "consignee_country": "Spain",
+    "notify_party_name": "Commerce Ramirez LLC",
+    "notify_party_address": "4267 Mccullough Expressway, Lake Joelfurt, WI 51216, France",
+    "vessel": "ONE INNOVATION",
+    "voyage": "614N",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Tanjung Pelepas, MY",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2025-05-05",
+    "issue_place": "Qingdao",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "KIYJ8974027",
+        "seal_no": "CL715246",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "AETT2046594",
+        "seal_no": "CL401480",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "UTOL7514828",
+        "seal_no": "SL828235",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "number_of_packages": 398,
+    "package_type": "Pallet",
+    "gross_weight_kg": 20903.9,
+    "net_weight_kg": 20020.0,
+    "cbm": 15.565,
+    "marks_and_numbers": "GLB/50"
+  }
+}

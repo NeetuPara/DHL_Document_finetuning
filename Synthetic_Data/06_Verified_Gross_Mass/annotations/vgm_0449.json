@@ -1,0 +1,75 @@
+{
+  "document_id": "vgm_0449",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Commerce Bowers Ltd",
+    "shipper_address": "23546 Woodward Keys, South Richardberg, OR 05887, Spain",
+    "shipper_country": "Spain",
+    "container_number": "CVJI4666306",
+    "seal_number": "SL424753",
+    "container_size": "40'GP",
+    "iso_type_code": "42G0",
+    "tare_weight_kg": 3800,
+    "cargo_weight_kg": 7172.3,
+    "packing_materials_kg": 329.7,
+    "vgm_kg": 11302.0,
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "772W",
+    "bl_number": "YMLU812366836",
+    "booking_reference": "BKG-737524",
+    "weighing_scale_type": "Calibrated Platform Scale",
+    "scale_serial": "ID-15403",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-19",
+    "signature_date": "2026-05-11",
+    "signatory_name": "Derrick Valenzuela",
+    "signatory_title": "Shipping Coordinator",
+    "number_of_packages": 6,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "pkg_type": "Case",
+        "n_units": 7,
+        "gross_wt_kg": 516.5
+      },
+      {
+        "item_no": 2,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Carton",
+        "n_units": 10,
+        "gross_wt_kg": 95.3
+      },
+      {
+        "item_no": 3,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Bundle",
+        "n_units": 15,
+        "gross_wt_kg": 1565.0
+      },
+      {
+        "item_no": 4,
+        "description": "Medical Devices - Disposable Syringes",
+        "pkg_type": "Bag",
+        "n_units": 6,
+        "gross_wt_kg": 194.8
+      },
+      {
+        "item_no": 5,
+        "description": "Optical Equipment - Camera Lenses",
+        "pkg_type": "Roll",
+        "n_units": 12,
+        "gross_wt_kg": 2703.4
+      },
+      {
+        "item_no": 6,
+        "description": "Steel Products - Hot Rolled Coils",
+        "pkg_type": "Pallet",
+        "n_units": 15,
+        "gross_wt_kg": 2097.3
+      }
+    ]
+  }
+}

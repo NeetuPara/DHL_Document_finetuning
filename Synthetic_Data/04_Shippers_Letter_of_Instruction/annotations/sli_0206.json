@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0206",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202404-7618",
+    "usppi_name": "Ray Industry B.V.",
+    "usppi_address": "3290 Kim River Apt. 106, West Savannahfurt, OR 13013, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "98-4912612",
+    "consignee_name": "Commerce Warner Co.",
+    "consignee_address": "4360 Michelle Via, West Andrea, AS 92506, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Brooks Commerce Co.",
+    "forwarder": "Panalpina",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Danielle Fletcher",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/31",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 8,
+        "unit": "PCS",
+        "weight_kg": 13.78,
+        "value_usd": 6058.8
+      },
+      {
+        "marks": "ABC/39",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 175,
+        "unit": "PCS",
+        "weight_kg": 191.89,
+        "value_usd": 209582.45
+      }
+    ],
+    "total_weight_kg": 205.67,
+    "total_value_usd": 215641.25,
+    "service": "Express Courier",
+    "named_port": "Seoul Incheon",
+    "insurance_value_usd": 46204.01,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Canada"
+  }
+}

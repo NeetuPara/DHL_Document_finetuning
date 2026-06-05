@@ -1,0 +1,108 @@
+{
+  "document_id": "sli_0063",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202001-5593",
+    "usppi_name": "Global Baldwin S.A.",
+    "usppi_address": "47225 Taylor Station Suite 400, West Matthewland, WY 45740, Germany",
+    "usppi_country": "Germany",
+    "ein": "26-6991760",
+    "consignee_name": "Morris Global Inc.",
+    "consignee_address": "57127 Silva Creek, West Tamaraside, AZ 47421, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Global Martin Inc.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Kenneth Norman",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/34",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 93,
+        "unit": "PKG",
+        "weight_kg": 239.95,
+        "value_usd": 8583.91
+      },
+      {
+        "marks": "EXP/37",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 58,
+        "unit": "KGS",
+        "weight_kg": 58.0,
+        "value_usd": 83.9
+      },
+      {
+        "marks": "SLI/43",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 105,
+        "unit": "MTR",
+        "weight_kg": 84.82,
+        "value_usd": 1194.19
+      },
+      {
+        "marks": "SLI/4",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 150,
+        "unit": "KGS",
+        "weight_kg": 150.0,
+        "value_usd": 1486.66
+      },
+      {
+        "marks": "EXP/3",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 197,
+        "unit": "PCS",
+        "weight_kg": 975.56,
+        "value_usd": 95781.7
+      },
+      {
+        "marks": "SLI/11",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "F",
+        "qty": 200,
+        "unit": "PCS",
+        "weight_kg": 52.28,
+        "value_usd": 16741.61
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 170,
+        "unit": "PCS",
+        "weight_kg": 76.97,
+        "value_usd": 4092.28
+      }
+    ],
+    "total_weight_kg": 1637.58,
+    "total_value_usd": 127964.25,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "520S",
+    "booking_ref": "BKG-441000",
+    "bl_number": "EGLV603382383",
+    "port_of_loading": "Los Angeles, US",
+    "port_of_discharge": "Hong Kong, HK",
+    "container_number": "HLEX8745676",
+    "seal_number": "SL795179",
+    "container_type": "40'HC",
+    "cbm": 63.843
+  }
+}

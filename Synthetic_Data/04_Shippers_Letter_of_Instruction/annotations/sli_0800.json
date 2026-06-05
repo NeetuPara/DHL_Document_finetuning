@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0800",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202107-9869",
+    "usppi_name": "Trade Hart Pte Ltd",
+    "usppi_address": "320 Cory Bypass Suite 349, Port Andretown, MA 78174, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "75-2693827",
+    "consignee_name": "Trade Browning LLC",
+    "consignee_address": "18544 Joshua Parkways Apt. 667, Jonmouth, MT 50549, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Joyce Pacific Pte Ltd",
+    "forwarder": "Panalpina",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "EAR99",
+    "signatory_name": "Monica Ruiz",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/15",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 49,
+        "unit": "CTN",
+        "weight_kg": 71.93,
+        "value_usd": 142.53
+      },
+      {
+        "marks": "SLI/44",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 158,
+        "unit": "BOX",
+        "weight_kg": 49.93,
+        "value_usd": 12409.32
+      },
+      {
+        "marks": "SLI/29",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 81,
+        "unit": "PKG",
+        "weight_kg": 149.22,
+        "value_usd": 1795.92
+      },
+      {
+        "marks": "EXP/3",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 83,
+        "unit": "PCS",
+        "weight_kg": 19.51,
+        "value_usd": 77321.16
+      },
+      {
+        "marks": "EXP/39",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 115,
+        "unit": "CTN",
+        "weight_kg": 374.7,
+        "value_usd": 7617.1
+      }
+    ],
+    "total_weight_kg": 665.29,
+    "total_value_usd": 99286.03,
+    "service": "Express Courier",
+    "named_port": "Dubai International",
+    "insurance_value_usd": 9879.54,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-640996",
+    "destination_country": "Hong Kong"
+  }
+}

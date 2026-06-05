@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0251",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Lloyd Co.",
+    "shipper_address": "07452 Pittman Forks Suite 484, Taylorhaven, UT 10072, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Johnson Pacific AG",
+    "consignee_address": "9369 Colleen Valley, Huffmouth, VI 31164, France",
+    "consignee_country": "France",
+    "emergency_telephone": "+83 376-579-5429",
+    "dg_entries": [
+      {
+        "un_no": "UN3480",
+        "proper_name": "Lithium ion batteries",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 33,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 58.59,
+        "qty_unit": "mL",
+        "packing_instruction": "PI 965",
+        "auth_no": "N/A",
+        "special_provision": "SP188",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-I",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Steven Wolf",
+    "signature_date": "2026-05-13",
+    "signature_place": "Japan",
+    "vessel": "CSCL GLOBE",
+    "voyage": "720W",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Tanjung Pelepas, MY"
+  }
+}

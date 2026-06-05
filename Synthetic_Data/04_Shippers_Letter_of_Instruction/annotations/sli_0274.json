@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0274",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202009-1520",
+    "usppi_name": "Pacific Decker AG",
+    "usppi_address": "60782 Friedman Crest Suite 544, Leeshire, DC 53732, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "17-2280550",
+    "consignee_name": "Gross Global LLC",
+    "consignee_address": "7306 Amanda Rapid Suite 409, Jordanville, DE 26077, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Commerce Estrada Ltd",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CIF",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Melinda Nelson",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "EXP/45",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 160,
+        "unit": "PKG",
+        "weight_kg": 363.1,
+        "value_usd": 11666.6
+      },
+      {
+        "marks": "SLI/23",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 55,
+        "unit": "KGS",
+        "weight_kg": 55.0,
+        "value_usd": 46.78
+      },
+      {
+        "marks": "SLI/35",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 131,
+        "unit": "KGS",
+        "weight_kg": 131.0,
+        "value_usd": 1130.36
+      },
+      {
+        "marks": "SLI/18",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 72,
+        "unit": "PCS",
+        "weight_kg": 16.36,
+        "value_usd": 108491.97
+      },
+      {
+        "marks": "SLI/38",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 112,
+        "unit": "PCS",
+        "weight_kg": 111.15,
+        "value_usd": 2046.93
+      },
+      {
+        "marks": "SLI/35",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 94,
+        "unit": "PCS",
+        "weight_kg": 37.76,
+        "value_usd": 6528.15
+      }
+    ],
+    "total_weight_kg": 714.37,
+    "total_value_usd": 129910.79,
+    "service": "LCL Ocean",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 33917.68,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Poland"
+  }
+}

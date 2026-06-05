@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0093",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202003-6983",
+    "usppi_name": "Bradley Tech AG",
+    "usppi_address": "Unit 4731 Box 4108, DPO AP 21021, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "62-8449964",
+    "consignee_name": "Mccarty Trade GmbH",
+    "consignee_address": "917 Dougherty Pike, South Courtneyville, MO 34375, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Pacific Anderson Inc.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIP",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "2B350",
+    "signatory_name": "Brian Smith",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "ABC/9",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 40,
+        "unit": "PCS",
+        "weight_kg": 15.43,
+        "value_usd": 9621.99
+      },
+      {
+        "marks": "SLI/28",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 178,
+        "unit": "MTR",
+        "weight_kg": 62.57,
+        "value_usd": 1997.26
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 195,
+        "unit": "KGS",
+        "weight_kg": 195.0,
+        "value_usd": 884.42
+      },
+      {
+        "marks": "SLI/5",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 10,
+        "unit": "PCS",
+        "weight_kg": 131.67,
+        "value_usd": 1393.69
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 131,
+        "unit": "PCS",
+        "weight_kg": 8.92,
+        "value_usd": 12256.59
+      }
+    ],
+    "total_weight_kg": 413.59,
+    "total_value_usd": 26153.95,
+    "vessel": "EVER GOLDEN",
+    "voyage": "993W",
+    "booking_ref": "BKG-389429",
+    "bl_number": "YMLU841144801",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "New York, US",
+    "container_number": "POPK5202171",
+    "seal_number": "BL914967",
+    "container_type": "40'GP",
+    "cbm": 23.984
+  }
+}

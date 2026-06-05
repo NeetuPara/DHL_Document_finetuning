@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0554",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Melanie Knight",
+    "addressee_company": "Tech Hall GmbH",
+    "addressee_address": "80139 Gordon Trafficway Apt. 916, Timothychester, AL 46656, China",
+    "addressee_country": "China",
+    "total_weight_kg": 7.597,
+    "total_value": 2974.22,
+    "currency": "JPY",
+    "issue_date": "2026-03-01",
+    "reference": "REF-378243",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.116,
+        "value": 294.21,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 15,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.003,
+        "value": 1718.25,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Hong Kong"
+      },
+      {
+        "qty": 16,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.478,
+        "value": 961.76,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Larry Anderson",
+    "sender_company": "Wright Commerce LLC",
+    "sender_address": "596 Nichole Isle, Jonathanside, HI 96359, India",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 31.31,
+    "tracking_number": "EY493291518SY"
+  }
+}

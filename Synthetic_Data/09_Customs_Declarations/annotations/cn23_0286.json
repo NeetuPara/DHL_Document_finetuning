@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0286",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Amber Jackson",
+    "addressee_company": "Commerce Hunter Co.",
+    "addressee_address": "8545 Jeffrey Corner Apt. 747, Port Matthew, GU 99605, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 5.259,
+    "total_value": 1400.92,
+    "currency": "AUD",
+    "issue_date": "2026-03-22",
+    "reference": "REF-894133",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 0.48,
+        "value": 583.8,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 16,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 4.779,
+        "value": 817.12,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Spain"
+      }
+    ],
+    "sender_name": "Rachel Powell",
+    "sender_company": "Trade Carr B.V.",
+    "sender_address": "8725 Christopher Place Apt. 297, New Jessica, NE 95549, France",
+    "sender_phone": "(736)239-5755",
+    "sender_email": "jamesdawn@example.net",
+    "addressee_phone": "(803)213-2779",
+    "category": "Gift",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 44.08,
+    "tracking_number": "DK820308749TS"
+  }
+}

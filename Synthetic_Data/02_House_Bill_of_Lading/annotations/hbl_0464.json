@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0464",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU634486803",
+    "shipper_name": "Trade Peters Ltd",
+    "shipper_address": "105 Hunt Fords, Port Crystalland, AZ 10355, Sweden",
+    "shipper_country": "Sweden",
+    "consignee_name": "Peters Pacific GmbH",
+    "consignee_address": "33028 John Shoal Suite 576, Williamton, MA 57462, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party_name": "Tech Davis Inc.",
+    "notify_party_address": "3528 Dustin Way Apt. 100, Cynthiabury, KY 96012, Germany",
+    "vessel": "EVER GOLDEN",
+    "voyage": "426N",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Colombo, LK",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Colombo, LK",
+    "issue_date": "2025-02-19",
+    "issue_place": "New York",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "WBKM7534071",
+        "seal_no": "SL209633",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "DWSY4470137",
+        "seal_no": "BL497570",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "BOJX8450733",
+        "seal_no": "SL207948",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 199,
+    "package_type": "Bundle",
+    "gross_weight_kg": 4747.3,
+    "net_weight_kg": 4236.3,
+    "cbm": 23.599,
+    "marks_and_numbers": "XYZ/16"
+  }
+}

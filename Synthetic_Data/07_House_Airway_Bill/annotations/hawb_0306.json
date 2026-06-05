@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0306",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "045-89053822",
+    "mawb_number": "057-80986581",
+    "shipper_name": "Industry Rodriguez LLC",
+    "shipper_address": "USS Williams, FPO AE 26069, Italy",
+    "consignee_name": "Commerce Liu GmbH",
+    "consignee_address": "961 Brooks Parkways, East Ashley, MT 01086, Spain",
+    "agent_name": "Pacific Barnett Co.",
+    "airport_departure": "LAX",
+    "airport_destination": "DXB",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "JPY 26,320.81",
+    "declared_value_customs": "EUR 16,952.08",
+    "n_pieces": 35,
+    "gross_weight_kg": 483.0,
+    "chargeable_weight": 557.5,
+    "rate": 8.93,
+    "total_charge": 4978.47,
+    "nature_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "handling_info": "TEMP CONTROLLED: 7\u00b0C - 10\u00b0C",
+    "issue_date": "2026-02-20",
+    "signatory": "Steven Novak",
+    "iata_code": "51-255",
+    "agent_cass": "2730-0016",
+    "consolidation_ref": "CONS-1092-232118",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-44794789",
+        "pieces": 12,
+        "weight": 42.1,
+        "destination": "LAX",
+        "consignee": "Levine Trade LLC",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "125-40132503",
+        "pieces": 17,
+        "weight": 64.5,
+        "destination": "HKG",
+        "consignee": "Rose International Pte Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "057-44499240",
+        "pieces": 11,
+        "weight": 10.4,
+        "destination": "DXB",
+        "consignee": "Bell Trade Co.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "618-26137429",
+        "pieces": 10,
+        "weight": 78.6,
+        "destination": "MIA",
+        "consignee": "Global Hurley LLC",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "074-86527764",
+        "pieces": 19,
+        "weight": 46.2,
+        "destination": "SYD",
+        "consignee": "Webb Commerce Ltd",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

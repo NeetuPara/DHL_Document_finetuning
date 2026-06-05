@@ -1,0 +1,61 @@
+{
+  "document_id": "vgm_0590",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "Schmidt Industry LLC",
+    "shipper_address": "45989 Rodriguez Points, West Jennifermouth, NC 04044, Netherlands",
+    "shipper_country": "Netherlands",
+    "container_number": "DKVX1790703",
+    "seal_number": "SL610019",
+    "container_size": "40'OT",
+    "iso_type_code": "42U0",
+    "tare_weight_kg": 4200,
+    "cargo_weight_kg": 6493.5,
+    "packing_materials_kg": 474.0,
+    "vgm_kg": 11167.5,
+    "vessel": "CSCL GLOBE",
+    "voyage": "793N",
+    "bl_number": "MAEU563202392",
+    "booking_reference": "BKG-212437",
+    "weighing_scale_type": "Approved Weighbridge",
+    "scale_serial": "Ref-97443",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-17",
+    "signature_date": "2026-05-13",
+    "signatory_name": "Holly Roberts",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 4,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "pkg_type": "Case",
+        "n_units": 5,
+        "gross_wt_kg": 905.4
+      },
+      {
+        "item_no": 2,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "pkg_type": "Crate",
+        "n_units": 3,
+        "gross_wt_kg": 232.4
+      },
+      {
+        "item_no": 3,
+        "description": "Wooden Furniture - Office Chairs",
+        "pkg_type": "Case",
+        "n_units": 19,
+        "gross_wt_kg": 3428.4
+      },
+      {
+        "item_no": 4,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "pkg_type": "Carton",
+        "n_units": 1,
+        "gross_wt_kg": 1927.3
+      }
+    ]
+  }
+}

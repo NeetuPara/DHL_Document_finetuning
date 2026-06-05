@@ -1,0 +1,60 @@
+{
+  "document_id": "coo_0282",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202207-4692",
+    "exporter_name": "International Kirby Pte Ltd",
+    "exporter_address": "627 Smith Path, Dawnport, IA 25499, India",
+    "exporter_country": "India",
+    "consignee_name": "Thompson International GmbH",
+    "consignee_address": "5667 James View, New Janicemouth, DE 50261, Netherlands",
+    "consignee_country": "Netherlands",
+    "country_of_origin": "India",
+    "country_of_destination": "Netherlands",
+    "bl_or_awb": "074-36700343",
+    "issue_date": "2025-12-27",
+    "certifier_name": "Benjamin Newton",
+    "goods": [
+      {
+        "description": "Electronic Components - Printed Circuit Boards",
+        "hs_code": "8534.00.00",
+        "qty": 150,
+        "unit": "PCS",
+        "weight_kg": 26.22,
+        "origin_criterion": "F",
+        "value": 10059.59
+      },
+      {
+        "description": "Plastic Products - Injection Moulded Components",
+        "hs_code": "3926.90.00",
+        "qty": 233,
+        "unit": "PCS",
+        "weight_kg": 269.88,
+        "origin_criterion": "F",
+        "value": 1533.85
+      },
+      {
+        "description": "Textile Fabrics - Woven Polyester",
+        "hs_code": "5407.42.00",
+        "qty": 212,
+        "unit": "MTR",
+        "weight_kg": 169.71,
+        "origin_criterion": "F",
+        "value": 3337.03
+      },
+      {
+        "description": "Medical Devices - Disposable Syringes",
+        "hs_code": "9018.31.00",
+        "qty": 197,
+        "unit": "CTN",
+        "weight_kg": 498.03,
+        "origin_criterion": "A",
+        "value": 2590.04
+      }
+    ],
+    "fta_agreement": "USMCA",
+    "chamber": "Board of Trade"
+  }
+}

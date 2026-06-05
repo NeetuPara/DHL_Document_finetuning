@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0336",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU791051033",
+    "shipper_name": "International Marshall AG",
+    "shipper_address": "442 Chloe Loop, South Pamela, UT 12178, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "Johnston Commerce Corp.",
+    "consignee_address": "327 Derek Trafficway Suite 794, Chavezview, NH 51381, Spain",
+    "consignee_country": "Spain",
+    "notify_party_name": "Jackson International Pte Ltd",
+    "notify_party_address": "1342 Doyle Brooks, Lake Katie, MA 78479, South Korea",
+    "vessel": "CSCL GLOBE",
+    "voyage": "978E",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Singapore, SG",
+    "place_of_delivery": "Antwerp, BE",
+    "issue_date": "2026-05-06",
+    "issue_place": "Colombo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "NIDZ2572488",
+        "seal_no": "BL982763",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "EDUK7234111",
+        "seal_no": "SL302892",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "RRFB8575019",
+        "seal_no": "CL902778",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "QMJR8021046",
+        "seal_no": "BL367537",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "number_of_packages": 293,
+    "package_type": "Crate",
+    "gross_weight_kg": 17903.1,
+    "net_weight_kg": 16929.2,
+    "cbm": 14.177,
+    "marks_and_numbers": "XYZ/30"
+  }
+}

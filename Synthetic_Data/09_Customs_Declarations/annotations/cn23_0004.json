@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0004",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Tina Juarez",
+    "addressee_company": "Global Carr Ltd",
+    "addressee_address": "993 Catherine Path Suite 237, Sherrybury, FL 50660, Sweden",
+    "addressee_country": "Sweden",
+    "total_weight_kg": 1.892,
+    "total_value": 3219.52,
+    "currency": "GBP",
+    "issue_date": "2026-02-28",
+    "reference": "REF-586781",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 0.769,
+        "value": 281.7,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 14,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.077,
+        "value": 1441.02,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 20,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.046,
+        "value": 1496.8,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Sweden"
+      }
+    ],
+    "sender_name": "Brandon Mooney",
+    "sender_company": "Hayes International GmbH",
+    "sender_address": "0476 Simmons Neck, Port Jessica, GU 59469, South Korea",
+    "sender_phone": "6759863468",
+    "sender_email": "atkinsonrandy@example.com",
+    "addressee_phone": "(553)543-2324",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 3541.47,
+    "postal_charges": 33.94,
+    "tracking_number": "YM645063634EI"
+  }
+}

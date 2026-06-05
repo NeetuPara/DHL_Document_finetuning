@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0872",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20221108353985",
+    "export_date": "2025-07-08",
+    "aes_option": "AES Filing",
+    "usppi_name": "Green Commerce Ltd",
+    "usppi_ein": "97-0128866",
+    "usppi_address": "178 Joseph Square, North Cynthiatown, NJ 09380, France",
+    "ultimate_consignee": "Trade Anderson AG",
+    "intermediate_consignee": "International Fleming Co.",
+    "forwarding_agent": "Evans Commerce Pte Ltd",
+    "destination_country": "Sweden",
+    "carrier": "MSC",
+    "bl_awb": "160-31283404",
+    "total_value": 177420.96,
+    "currency": "EUR",
+    "signatory": "Michael Cooper",
+    "line_items": [
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Brazil",
+        "qty": 460,
+        "unit": "BOX",
+        "entered_value": 7286.4,
+        "duty_rate": 21.2,
+        "duty_amount": 1544.72,
+        "eccn": "5E992",
+        "schedule_b": "2936.90.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Germany",
+        "qty": 392,
+        "unit": "KGS",
+        "entered_value": 90222.72,
+        "duty_rate": 16.7,
+        "duty_amount": 15067.19,
+        "eccn": "2B350",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Mexico",
+        "qty": 224,
+        "unit": "PCS",
+        "entered_value": 60748.8,
+        "duty_rate": 20.4,
+        "duty_amount": 12392.76,
+        "eccn": "0A919",
+        "schedule_b": "9401.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "South Korea",
+        "qty": 104,
+        "unit": "CTN",
+        "entered_value": 19163.04,
+        "duty_rate": 3.4,
+        "duty_amount": 651.54,
+        "eccn": "2B350",
+        "schedule_b": "4819.10.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

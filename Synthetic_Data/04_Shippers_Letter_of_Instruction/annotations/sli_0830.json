@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0830",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202409-4992",
+    "usppi_name": "Mccoy Industry Pte Ltd",
+    "usppi_address": "4112 Barton Spurs, Austinborough, KS 20469, Belgium",
+    "usppi_country": "Belgium",
+    "ein": "42-5646416",
+    "consignee_name": "Trade Cox Inc.",
+    "consignee_address": "PSC 6729, Box 1876, APO AA 14763, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party": "Tech Gill Co.",
+    "forwarder": "Panalpina",
+    "incoterm": "FOB",
+    "dangerous_goods": true,
+    "payment_terms": "Collect",
+    "eccn": "6A002",
+    "signatory_name": "Cathy Mitchell",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/13",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 195,
+        "unit": "PCS",
+        "weight_kg": 1384.68,
+        "value_usd": 148770.95
+      },
+      {
+        "marks": "ABC/14",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 191,
+        "unit": "PCS",
+        "weight_kg": 169.17,
+        "value_usd": 1890.46
+      }
+    ],
+    "total_weight_kg": 1553.85,
+    "total_value_usd": 150661.41,
+    "service": "Express Courier",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 1490.11,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-986422",
+    "destination_country": "Sweden"
+  }
+}

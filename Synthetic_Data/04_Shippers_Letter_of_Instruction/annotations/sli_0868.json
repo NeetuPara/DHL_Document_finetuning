@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0868",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202310-8557",
+    "usppi_name": "Johnson Pacific B.V.",
+    "usppi_address": "480 Michael Turnpike Suite 490, Harperstad, OH 98910, Sweden",
+    "usppi_country": "Sweden",
+    "ein": "65-5650613",
+    "consignee_name": "International Gilbert Pte Ltd",
+    "consignee_address": "177 Mark Road Suite 373, New Ellenhaven, GA 28622, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "King International Corp.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "1C351",
+    "signatory_name": "Bailey Fitzgerald",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/8",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D/F",
+        "qty": 175,
+        "unit": "KGS",
+        "weight_kg": 175.0,
+        "value_usd": 329.06
+      },
+      {
+        "marks": "ABC/25",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 91,
+        "unit": "SET",
+        "weight_kg": 128.19,
+        "value_usd": 15092.99
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D",
+        "qty": 45,
+        "unit": "CTN",
+        "weight_kg": 114.6,
+        "value_usd": 1700.36
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 50,
+        "unit": "PCS",
+        "weight_kg": 45.44,
+        "value_usd": 1413.56
+      },
+      {
+        "marks": "ABC/20",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 169,
+        "unit": "CTN",
+        "weight_kg": 325.09,
+        "value_usd": 1470.5
+      },
+      {
+        "marks": "SLI/13",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 55,
+        "unit": "MTR",
+        "weight_kg": 55.52,
+        "value_usd": 948.68
+      },
+      {
+        "marks": "EXP/22",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 158,
+        "unit": "LTR",
+        "weight_kg": 170.76,
+        "value_usd": 4908.8
+      }
+    ],
+    "total_weight_kg": 1014.6,
+    "total_value_usd": 25863.95,
+    "service": "Express Courier",
+    "named_port": "Chicago O'Hare",
+    "insurance_value_usd": 5923.92,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-849058",
+    "destination_country": "Singapore"
+  }
+}

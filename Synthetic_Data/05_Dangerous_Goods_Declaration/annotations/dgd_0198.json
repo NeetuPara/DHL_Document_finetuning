@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0198",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Morgan Global Ltd",
+    "shipper_address": "686 Jonathan Avenue Suite 590, South Emily, MI 87111, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "Davis Pacific S.A.",
+    "consignee_address": "18372 Yoder Avenue Suite 340, Brendaberg, NC 63173, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "emergency_telephone": "+91 157-664-1073",
+    "dg_entries": [
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 12,
+        "pkg_type": "Steel Drum",
+        "net_qty": 40.05,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-347125",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Gregory Hernandez",
+    "signature_date": "2026-05-03",
+    "signature_place": "Poland",
+    "awb_number": "020-34766806",
+    "flight_number": "QR1912",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "LAX",
+    "destination_airport_name": "Los Angeles International",
+    "non_dg_reason": "Magnetized material \u2014 not subject to IATA DGR"
+  }
+}

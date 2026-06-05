@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0742",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU228352192",
+    "shipper_name": "Trade Wood Corp.",
+    "shipper_address": "PSC 2556, Box 9952, APO AA 53639, Spain",
+    "shipper_country": "Spain",
+    "consignee_name": "Tech Edwards LLC",
+    "consignee_address": "9160 Mariah Circle Suite 693, Jeremyton, CT 43871, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party_name": "Commerce Brown Pte Ltd",
+    "notify_party_address": "4097 Diane Streets, East Christine, OK 90007, Thailand",
+    "vessel": "ONE INNOVATION",
+    "voyage": "786W",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Felixstowe, GB",
+    "issue_date": "2024-12-25",
+    "issue_place": "Long Beach",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "YYXI6804150",
+        "seal_no": "BL137399",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "DERD1936495",
+        "seal_no": "CL402827",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "ZYBK1769157",
+        "seal_no": "SL922484",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "HPNI8207949",
+        "seal_no": "BL924299",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 239,
+    "package_type": "Case",
+    "gross_weight_kg": 2108.0,
+    "net_weight_kg": 2044.0,
+    "cbm": 18.103,
+    "marks_and_numbers": "GLB/43"
+  }
+}

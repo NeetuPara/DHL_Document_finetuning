@@ -1,0 +1,42 @@
+{
+  "document_id": "coo_0006",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202102-6216",
+    "exporter_name": "Cook Trade AG",
+    "exporter_address": "8943 Nixon Track, North Sarahbury, IN 49093, Mexico",
+    "exporter_country": "Mexico",
+    "consignee_name": "Industry Walker Ltd",
+    "consignee_address": "PSC 0775, Box 3817, APO AP 65081, United States",
+    "consignee_country": "United States",
+    "country_of_origin": "Mexico",
+    "country_of_destination": "United States",
+    "bl_or_awb": "618-51257058",
+    "issue_date": "2026-03-21",
+    "certifier_name": "Calvin Gomez",
+    "goods": [
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 324,
+        "unit": "KGS",
+        "weight_kg": 324.0,
+        "origin_criterion": "A",
+        "value": 2402.41
+      },
+      {
+        "description": "Paper Products - Packaging Cartons",
+        "hs_code": "4819.10.00",
+        "qty": 481,
+        "unit": "CTN",
+        "weight_kg": 945.09,
+        "origin_criterion": "A",
+        "value": 7199.47
+      }
+    ],
+    "fta_agreement": "RCEP",
+    "chamber": "Chamber of Commerce"
+  }
+}

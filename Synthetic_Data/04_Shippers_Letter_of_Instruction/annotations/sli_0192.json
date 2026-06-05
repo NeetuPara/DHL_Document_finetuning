@@ -1,0 +1,88 @@
+{
+  "document_id": "sli_0192",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202411-5204",
+    "usppi_name": "Cruz Industry Inc.",
+    "usppi_address": "242 Wood Estate, Johnland, AZ 58557, Germany",
+    "usppi_country": "Germany",
+    "ein": "48-3589443",
+    "consignee_name": "Tech Townsend LLC",
+    "consignee_address": "81373 Brown Trail, North Kennethhaven, WA 49221, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Warren Trade Corp.",
+    "forwarder": "Panalpina",
+    "incoterm": "CIF",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Anthony Miller",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/23",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 6,
+        "unit": "LTR",
+        "weight_kg": 5.7,
+        "value_usd": 86.73
+      },
+      {
+        "marks": "EXP/8",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "F",
+        "qty": 45,
+        "unit": "KGS",
+        "weight_kg": 45.0,
+        "value_usd": 38.68
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 39,
+        "unit": "PCS",
+        "weight_kg": 14.18,
+        "value_usd": 673.48
+      },
+      {
+        "marks": "EXP/48",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 185,
+        "unit": "PCS",
+        "weight_kg": 241.73,
+        "value_usd": 101430.07
+      },
+      {
+        "marks": "EXP/6",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 155,
+        "unit": "BOX",
+        "weight_kg": 157.31,
+        "value_usd": 5023.69
+      }
+    ],
+    "total_weight_kg": 463.92,
+    "total_value_usd": 107252.65,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "383W",
+    "booking_ref": "BKG-681355",
+    "bl_number": "COSU225745505",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Shanghai, CN",
+    "container_number": "WMOW7047452",
+    "seal_number": "SL271519",
+    "container_type": "45'HC",
+    "cbm": 19.844
+  }
+}

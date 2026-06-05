@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0673",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202302-3742",
+    "usppi_name": "Wiley International Co.",
+    "usppi_address": "446 Erica Burg Apt. 795, Roachland, AL 34705, United States",
+    "usppi_country": "United States",
+    "ein": "36-9348670",
+    "consignee_name": "Quinn Global Co.",
+    "consignee_address": "PSC 6982, Box 1093, APO AE 65325, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Estes Trade GmbH",
+    "forwarder": "Expeditors",
+    "incoterm": "EXW",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Brenda Perry",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "EXP/50",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 60,
+        "unit": "KGS",
+        "weight_kg": 60.0,
+        "value_usd": 104.36
+      },
+      {
+        "marks": "EXP/38",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 18,
+        "unit": "MTR",
+        "weight_kg": 7.15,
+        "value_usd": 141.42
+      },
+      {
+        "marks": "EXP/22",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 186,
+        "unit": "PCS",
+        "weight_kg": 1235.01,
+        "value_usd": 116175.77
+      },
+      {
+        "marks": "EXP/11",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D/F",
+        "qty": 184,
+        "unit": "PCS",
+        "weight_kg": 74.96,
+        "value_usd": 22631.91
+      },
+      {
+        "marks": "ABC/12",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 95,
+        "unit": "KGS",
+        "weight_kg": 95.0,
+        "value_usd": 814.3
+      },
+      {
+        "marks": "EXP/23",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 198,
+        "unit": "CTN",
+        "weight_kg": 566.01,
+        "value_usd": 939.7
+      },
+      {
+        "marks": "EXP/4",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 16,
+        "unit": "PKG",
+        "weight_kg": 43.19,
+        "value_usd": 194.51
+      },
+      {
+        "marks": "ABC/11",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 87,
+        "unit": "PCS",
+        "weight_kg": 7.47,
+        "value_usd": 2266.29
+      }
+    ],
+    "total_weight_kg": 2088.79,
+    "total_value_usd": 143268.26,
+    "service": "Express Courier",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 42618.05,
+    "license_type": "License Exception GBS",
+    "license_number": "LIC-613414",
+    "destination_country": "Switzerland"
+  }
+}

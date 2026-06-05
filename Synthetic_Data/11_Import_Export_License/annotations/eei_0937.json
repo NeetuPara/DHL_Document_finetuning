@@ -1,0 +1,93 @@
+{
+  "document_id": "eei_0937",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "895-60402530-3",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2025-06-24",
+    "port_of_entry": "MIA - Miami",
+    "transport_mode": "Hand-Carried",
+    "carrier": "DHL Express",
+    "bl_awb": "074-31553291",
+    "importer_name": "Williams Tech Ltd",
+    "importer_ein": "93-2883961",
+    "consignee_name": "Henderson Global LLC",
+    "customs_broker": "Sanders International Inc.",
+    "broker_filer_code": "eza",
+    "country_of_origin": "Mexico",
+    "total_value": 212445.95,
+    "total_duty": 22716.7,
+    "currency": "GBP",
+    "signatory": "Lynn Kelley",
+    "signatory_title": "Trade Finance Manager",
+    "line_items": [
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Mexico",
+        "qty": 316,
+        "unit": "PCS",
+        "entered_value": 6196.76,
+        "duty_rate": 2.2,
+        "duty_amount": 136.33,
+        "eccn": "2B350",
+        "schedule_b": "9401.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Thailand",
+        "qty": 480,
+        "unit": "PKG",
+        "entered_value": 152726.4,
+        "duty_rate": 12.5,
+        "duty_amount": 19090.8,
+        "eccn": "EAR99",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Sweden",
+        "qty": 21,
+        "unit": "PKG",
+        "entered_value": 9642.15,
+        "duty_rate": 10.1,
+        "duty_amount": 973.86,
+        "eccn": "2B350",
+        "schedule_b": "4016.93.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Mexico",
+        "qty": 16,
+        "unit": "KGS",
+        "entered_value": 7383.36,
+        "duty_rate": 14.3,
+        "duty_amount": 1055.82,
+        "eccn": "1A002",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Malaysia",
+        "qty": 192,
+        "unit": "PCS",
+        "entered_value": 36497.28,
+        "duty_rate": 4.0,
+        "duty_amount": 1459.89,
+        "eccn": "2B350",
+        "schedule_b": "9002.11.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

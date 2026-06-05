@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0564",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "085-29578210",
+    "mawb_number": "074-25826802",
+    "shipper_name": "Villa Tech B.V.",
+    "shipper_address": "28990 Rivera Pine, Pattonbury, TN 84897, Malaysia",
+    "consignee_name": "International Harrison Pte Ltd",
+    "consignee_address": "5461 Gonzalez Manors Suite 174, Port Ashleyborough, RI 66928, Sweden",
+    "agent_name": "Berg Pacific Co.",
+    "airport_departure": "SIN",
+    "airport_destination": "FRA",
+    "currency": "GBP",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 23,
+    "gross_weight_kg": 320.6,
+    "chargeable_weight": 326.8,
+    "rate": 5.44,
+    "total_charge": 1777.79,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "TEMP CONTROLLED: 8\u00b0C - 21\u00b0C",
+    "issue_date": "2025-10-18",
+    "signatory": "Eric Goodman",
+    "iata_code": "26-121",
+    "agent_cass": "8357-7152",
+    "consolidation_ref": "CONS-0334-964310",
+    "sub_shipments": [
+      {
+        "hawb_ref": "085-36664396",
+        "pieces": 18,
+        "weight": 45.2,
+        "destination": "YYZ",
+        "consignee": "Carter Global Inc.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "176-37257898",
+        "pieces": 2,
+        "weight": 43.8,
+        "destination": "DXB",
+        "consignee": "Tech Blake LLC",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "006-64975026",
+        "pieces": 3,
+        "weight": 94.4,
+        "destination": "JFK",
+        "consignee": "Trade Allen Co.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "618-82797708",
+        "pieces": 10,
+        "weight": 95.6,
+        "destination": "CDG",
+        "consignee": "International Gonzalez S.A.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "057-17802171",
+        "pieces": 6,
+        "weight": 68.2,
+        "destination": "SIN",
+        "consignee": "Fisher Trade Co.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "176-82715747",
+        "pieces": 16,
+        "weight": 2.1,
+        "destination": "CDG",
+        "consignee": "Jackson Tech Ltd",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "045-76483169",
+        "pieces": 1,
+        "weight": 47.8,
+        "destination": "HKG",
+        "consignee": "Rice Industry Co.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "085-65061083",
+        "pieces": 18,
+        "weight": 81.3,
+        "destination": "ORD",
+        "consignee": "International Ray Corp.",
+        "description": "Optical Equipment - Camera Lenses"
+      }
+    ]
+  }
+}

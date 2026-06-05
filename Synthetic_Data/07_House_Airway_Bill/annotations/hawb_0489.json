@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0489",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-34385301",
+    "mawb_number": "125-35639893",
+    "shipper_name": "Global Dennis B.V.",
+    "shipper_address": "027 Williams Knolls Apt. 615, Jessicaberg, ME 28639, Hong Kong",
+    "consignee_name": "Middleton Global LLC",
+    "consignee_address": "90583 Monica Lights, East Jamesview, NJ 25692, United Arab Emirates",
+    "agent_name": "Trade Boyer Ltd",
+    "airport_departure": "JFK",
+    "airport_destination": "ICN",
+    "currency": "JPY",
+    "charge_code": "CC",
+    "declared_value_carriage": "SGD 31,644.24",
+    "declared_value_customs": "NCV",
+    "n_pieces": 5,
+    "gross_weight_kg": 53.4,
+    "chargeable_weight": 59.9,
+    "rate": 1.97,
+    "total_charge": 118.0,
+    "nature_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "handling_info": "HANDLING CODE: AVI",
+    "issue_date": "2026-03-30",
+    "signatory": "Brent Hayden",
+    "iata_code": "35-447",
+    "agent_cass": "2168-3243",
+    "consolidation_ref": "CONS-6754-783637",
+    "sub_shipments": [
+      {
+        "hawb_ref": "160-40302701",
+        "pieces": 15,
+        "weight": 95.2,
+        "destination": "FRA",
+        "consignee": "Gonzalez Commerce B.V.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "020-75946673",
+        "pieces": 5,
+        "weight": 58.4,
+        "destination": "MIA",
+        "consignee": "Mendoza Commerce LLC",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "125-66306780",
+        "pieces": 1,
+        "weight": 67.7,
+        "destination": "JFK",
+        "consignee": "Global Gonzalez Ltd",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "020-41492695",
+        "pieces": 15,
+        "weight": 48.5,
+        "destination": "HKG",
+        "consignee": "Tech Jackson Inc.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "125-38542564",
+        "pieces": 16,
+        "weight": 52.0,
+        "destination": "NRT",
+        "consignee": "Global Cox Inc.",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "057-59139484",
+        "pieces": 8,
+        "weight": 50.7,
+        "destination": "CDG",
+        "consignee": "Industry Rogers GmbH",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

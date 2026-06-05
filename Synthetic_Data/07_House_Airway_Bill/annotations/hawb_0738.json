@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0738",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "006-72359570",
+    "mawb_number": "176-16855646",
+    "shipper_name": "Rich Commerce Ltd",
+    "shipper_address": "250 Moody Lane Apt. 748, West Jessica, ND 86202, Mexico",
+    "consignee_name": "Pacific Munoz Co.",
+    "consignee_address": "405 Makayla Harbors, Port David, LA 50420, Brazil",
+    "agent_name": "Cameron Trade Ltd",
+    "airport_departure": "YYZ",
+    "airport_destination": "MIA",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "AUD 19,819.31",
+    "declared_value_customs": "NCV",
+    "n_pieces": 24,
+    "gross_weight_kg": 346.3,
+    "chargeable_weight": 387.3,
+    "rate": 8.66,
+    "total_charge": 3354.02,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2026-03-01",
+    "signatory": "Robert Kent",
+    "iata_code": "39-656",
+    "agent_cass": "3939-9105",
+    "consolidation_ref": "CONS-7500-538087",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-96047163",
+        "pieces": 14,
+        "weight": 13.5,
+        "destination": "LHR",
+        "consignee": "Anthony Industry Ltd",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "006-98411729",
+        "pieces": 6,
+        "weight": 59.7,
+        "destination": "MIA",
+        "consignee": "Williams Global LLC",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "045-66368835",
+        "pieces": 19,
+        "weight": 17.3,
+        "destination": "NRT",
+        "consignee": "Quinn Tech B.V.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "020-69420830",
+        "pieces": 16,
+        "weight": 7.9,
+        "destination": "PVG",
+        "consignee": "Commerce Henderson Corp.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "045-61831851",
+        "pieces": 8,
+        "weight": 1.4,
+        "destination": "MIA",
+        "consignee": "Carter International GmbH",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "125-93666117",
+        "pieces": 6,
+        "weight": 93.8,
+        "destination": "HKG",
+        "consignee": "Delgado International Ltd",
+        "description": "Food Products - Processed Nuts and "
+      }
+    ]
+  }
+}

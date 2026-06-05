@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0076",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Chad Adams",
+    "addressee_company": "Tech Thompson GmbH",
+    "addressee_address": "56111 Curry Lane Apt. 877, East Elizabeth, NE 36717, France",
+    "addressee_country": "France",
+    "total_weight_kg": 6.767,
+    "total_value": 2031.39,
+    "currency": "SGD",
+    "issue_date": "2025-11-09",
+    "reference": "REF-337291",
+    "line_items": [
+      {
+        "qty": 9,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.718,
+        "value": 71.37,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 6,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.863,
+        "value": 572.94,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 6,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.423,
+        "value": 414.6,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 8,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.763,
+        "value": 972.48,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Brazil"
+      }
+    ],
+    "sender_name": "Connor Wood",
+    "sender_company": "Commerce Paul S.A.",
+    "sender_address": "804 Davis Ports Suite 788, Tylerville, NJ 08313, Italy",
+    "sender_phone": "950-987-6927x509",
+    "sender_email": "tjackson@example.net",
+    "addressee_phone": "506.763.9655x2377",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 23.1,
+    "tracking_number": "EC555852953JR"
+  }
+}

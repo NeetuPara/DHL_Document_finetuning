@@ -1,0 +1,80 @@
+{
+  "document_id": "eei_0544",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "656-45943938-4",
+    "entry_type": "11 - Informal - Free",
+    "entry_date": "2025-08-04",
+    "port_of_entry": "SEA - Seattle",
+    "transport_mode": "Ocean",
+    "carrier": "UPS",
+    "bl_awb": "176-11819813",
+    "importer_name": "Trade Nelson Co.",
+    "importer_ein": "32-1424743",
+    "consignee_name": "Commerce Burnett Pte Ltd",
+    "customs_broker": "International Campbell GmbH",
+    "broker_filer_code": "VdT",
+    "country_of_origin": "Sweden",
+    "total_value": 115280.25,
+    "total_duty": 19435.2,
+    "currency": "AUD",
+    "signatory": "Paul Peterson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Spain",
+        "qty": 120,
+        "unit": "LTR",
+        "entered_value": 16747.2,
+        "duty_rate": 20.1,
+        "duty_amount": 3366.19,
+        "eccn": "5E992",
+        "schedule_b": "2901.10.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "United Kingdom",
+        "qty": 137,
+        "unit": "PKG",
+        "entered_value": 35714.53,
+        "duty_rate": 23.7,
+        "duty_amount": 8464.34,
+        "eccn": "EAR99",
+        "schedule_b": "4016.93.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2901.10.00",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "country_of_origin": "Netherlands",
+        "qty": 278,
+        "unit": "LTR",
+        "entered_value": 23493.78,
+        "duty_rate": 16.3,
+        "duty_amount": 3829.49,
+        "eccn": "EAR99",
+        "schedule_b": "2901.10.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Hong Kong",
+        "qty": 221,
+        "unit": "PCS",
+        "entered_value": 39324.74,
+        "duty_rate": 9.6,
+        "duty_amount": 3775.18,
+        "eccn": "0A919",
+        "schedule_b": "9401.30.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

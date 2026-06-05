@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0471",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU326276459",
+    "shipper_name": "Marshall Pacific Co.",
+    "shipper_address": "PSC 7665, Box 7256, APO AP 85029, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Gilbert International GmbH",
+    "consignee_address": "391 Patricia Lake Suite 817, South Samantha, IN 25116, Netherlands",
+    "consignee_country": "Netherlands",
+    "notify_party_name": "Reed International Corp.",
+    "notify_party_address": "505 Christopher Drive Suite 582, North Christopher, GA 37730, Belgium",
+    "vessel": "CSCL GLOBE",
+    "voyage": "740W",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2025-04-11",
+    "issue_place": "Busan",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "DDP",
+    "containers": [
+      {
+        "container_no": "KGEA0093779",
+        "seal_no": "SL919905",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "BRSZ2576780",
+        "seal_no": "CL827342",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "EFUF4092853",
+        "seal_no": "BL345182",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 433,
+    "package_type": "Crate",
+    "gross_weight_kg": 4612.5,
+    "net_weight_kg": 4413.7,
+    "cbm": 34.551,
+    "marks_and_numbers": "ABC/47"
+  }
+}

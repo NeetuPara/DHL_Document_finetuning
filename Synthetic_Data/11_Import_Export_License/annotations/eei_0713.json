@@ -1,0 +1,103 @@
+{
+  "document_id": "eei_0713",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20260205695905",
+    "export_date": "2026-01-25",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Commerce Thompson AG",
+    "usppi_ein": "22-2881515",
+    "usppi_address": "4307 Alexis Way, Nicholasmouth, MT 52299, Malaysia",
+    "ultimate_consignee": "Pacific Fischer Ltd",
+    "intermediate_consignee": "Morales Tech Corp.",
+    "forwarding_agent": "Newman International Inc.",
+    "destination_country": "Netherlands",
+    "carrier": "UPS",
+    "bl_awb": "618-91021607",
+    "total_value": 320059.99,
+    "currency": "CHF",
+    "signatory": "Arthur Thompson",
+    "line_items": [
+      {
+        "hts_no": "9002.11.00",
+        "description": "Optical Equipment - Camera Lenses",
+        "country_of_origin": "Australia",
+        "qty": 207,
+        "unit": "PCS",
+        "entered_value": 20925.63,
+        "duty_rate": 18.6,
+        "duty_amount": 3892.17,
+        "eccn": "0A919",
+        "schedule_b": "9002.11.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "United States",
+        "qty": 349,
+        "unit": "MTR",
+        "entered_value": 120432.92,
+        "duty_rate": 9.8,
+        "duty_amount": 11802.43,
+        "eccn": "EAR99",
+        "schedule_b": "5407.42.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "China",
+        "qty": 230,
+        "unit": "SET",
+        "entered_value": 27889.8,
+        "duty_rate": 16.2,
+        "duty_amount": 4518.15,
+        "eccn": "5E992",
+        "schedule_b": "8708.30.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Malaysia",
+        "qty": 249,
+        "unit": "KGS",
+        "entered_value": 34058.22,
+        "duty_rate": 6.2,
+        "duty_amount": 2111.61,
+        "eccn": "0A919",
+        "schedule_b": "2008.19.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Netherlands",
+        "qty": 245,
+        "unit": "MTR",
+        "entered_value": 107853.9,
+        "duty_rate": 24.0,
+        "duty_amount": 25884.94,
+        "eccn": "3A992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "8534.00.00",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "country_of_origin": "Switzerland",
+        "qty": 203,
+        "unit": "PCS",
+        "entered_value": 8899.52,
+        "duty_rate": 23.6,
+        "duty_amount": 2100.29,
+        "eccn": "9A515",
+        "schedule_b": "8534.00.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

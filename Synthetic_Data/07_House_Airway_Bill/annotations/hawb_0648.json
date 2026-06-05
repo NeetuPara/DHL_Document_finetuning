@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0648",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-82186455",
+    "mawb_number": "057-40696496",
+    "shipper_name": "Trade Mendoza Corp.",
+    "shipper_address": "955 Caitlin Causeway, Moorehaven, MI 12476, United Kingdom",
+    "consignee_name": "Tech Davenport GmbH",
+    "consignee_address": "3579 Antonio Village Apt. 420, Markton, DE 32563, Poland",
+    "agent_name": "Myers International GmbH",
+    "airport_departure": "ICN",
+    "airport_destination": "JFK",
+    "currency": "CAD",
+    "charge_code": "CC",
+    "declared_value_carriage": "JPY 1,248.05",
+    "declared_value_customs": "NCV",
+    "n_pieces": 45,
+    "gross_weight_kg": 437.0,
+    "chargeable_weight": 515.7,
+    "rate": 11.35,
+    "total_charge": 5853.2,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "HANDLING CODE: HUM",
+    "issue_date": "2025-08-10",
+    "signatory": "Jennifer Townsend",
+    "iata_code": "03-204",
+    "agent_cass": "9235-9614",
+    "consolidation_ref": "CONS-7229-216099",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-25561856",
+        "pieces": 11,
+        "weight": 69.2,
+        "destination": "LHR",
+        "consignee": "Trade Johnson B.V.",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "020-86902995",
+        "pieces": 14,
+        "weight": 74.9,
+        "destination": "AMS",
+        "consignee": "Global Barnes S.A.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "618-37889384",
+        "pieces": 4,
+        "weight": 93.0,
+        "destination": "DXB",
+        "consignee": "Bright International Inc.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "085-93484786",
+        "pieces": 15,
+        "weight": 38.1,
+        "destination": "ORD",
+        "consignee": "Robertson International Corp.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "085-51627456",
+        "pieces": 14,
+        "weight": 91.9,
+        "destination": "LHR",
+        "consignee": "Reilly Pacific Ltd",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "085-81693598",
+        "pieces": 8,
+        "weight": 31.5,
+        "destination": "ORD",
+        "consignee": "Industry Reed S.A.",
+        "description": "Optical Equipment - Camera Lenses"
+      }
+    ]
+  }
+}

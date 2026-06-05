@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0843",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "020-97444811",
+    "mawb_number": "074-28381678",
+    "shipper_name": "Tech Martinez S.A.",
+    "shipper_address": "642 Andrea Rapid, Jasmineshire, WI 10676, Netherlands",
+    "consignee_name": "Global Watson Corp.",
+    "consignee_address": "076 Becky Ways Apt. 090, Nicolechester, SC 81364, France",
+    "agent_name": "Wright Trade Inc.",
+    "airport_departure": "NRT",
+    "airport_destination": "SYD",
+    "currency": "AUD",
+    "charge_code": "PP",
+    "declared_value_carriage": "CAD 48,849.08",
+    "declared_value_customs": "AUD 5,196.70",
+    "n_pieces": 2,
+    "gross_weight_kg": 426.4,
+    "chargeable_weight": 471.8,
+    "rate": 9.41,
+    "total_charge": 4439.64,
+    "nature_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "handling_info": "HANDLING CODE: SUR",
+    "issue_date": "2026-04-05",
+    "signatory": "Ricardo Schroeder",
+    "iata_code": "24-652",
+    "agent_cass": "8419-1877",
+    "consolidation_ref": "CONS-2178-749562",
+    "sub_shipments": [
+      {
+        "hawb_ref": "618-68412559",
+        "pieces": 12,
+        "weight": 57.0,
+        "destination": "CDG",
+        "consignee": "Industry Zamora B.V.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "085-88084346",
+        "pieces": 12,
+        "weight": 97.2,
+        "destination": "LHR",
+        "consignee": "Commerce Watts Co.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "085-81287109",
+        "pieces": 20,
+        "weight": 89.3,
+        "destination": "CDG",
+        "consignee": "Rosales Industry LLC",
+        "description": "Optical Equipment - Camera Lenses"
+      },
+      {
+        "hawb_ref": "074-34190360",
+        "pieces": 20,
+        "weight": 5.7,
+        "destination": "LHR",
+        "consignee": "Trade Howard Co.",
+        "description": "Medical Devices - Disposable Syring"
+      }
+    ]
+  }
+}

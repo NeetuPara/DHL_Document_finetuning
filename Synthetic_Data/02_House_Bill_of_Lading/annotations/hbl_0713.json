@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0713",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU508086126",
+    "shipper_name": "Pacific Joseph B.V.",
+    "shipper_address": "09741 Taylor Squares Apt. 185, South Stevenfurt, MH 02588, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Stark Pacific Co.",
+    "consignee_address": "329 Martin Point, New Lisa, ND 29641, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Moore Industry Pte Ltd",
+    "notify_party_address": "92658 Lopez Lodge, Changborough, PW 80069, Germany",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "722S",
+    "port_of_loading": "Rotterdam, NL",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2025-01-14",
+    "issue_place": "Rotterdam",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "IHVB1235741",
+        "seal_no": "SL918889",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "DSDL2429168",
+        "seal_no": "BL305430",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "LKTX6321290",
+        "seal_no": "CL964761",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "QJFN4122011",
+        "seal_no": "SL249692",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "number_of_packages": 371,
+    "package_type": "Carton",
+    "gross_weight_kg": 21313.6,
+    "net_weight_kg": 18901.4,
+    "cbm": 15.572,
+    "marks_and_numbers": "GLB/8"
+  }
+}

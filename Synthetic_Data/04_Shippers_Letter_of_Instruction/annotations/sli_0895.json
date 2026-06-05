@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0895",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202404-9017",
+    "usppi_name": "International White AG",
+    "usppi_address": "USCGC Goodwin, FPO AP 41668, Netherlands",
+    "usppi_country": "Netherlands",
+    "ein": "22-4456680",
+    "consignee_name": "Howe Global Ltd",
+    "consignee_address": "98597 Mills Place, Port Shawnmouth, OR 96416, Australia",
+    "consignee_country": "Australia",
+    "notify_party": "Commerce Chavez Co.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "2B350",
+    "signatory_name": "Brian Erickson",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "SLI/40",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 180,
+        "unit": "SET",
+        "weight_kg": 429.31,
+        "value_usd": 5098.36
+      },
+      {
+        "marks": "EXP/33",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "F",
+        "qty": 101,
+        "unit": "CTN",
+        "weight_kg": 450.11,
+        "value_usd": 6108.65
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 194,
+        "unit": "CTN",
+        "weight_kg": 570.98,
+        "value_usd": 2516.51
+      },
+      {
+        "marks": "EXP/24",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 8,
+        "unit": "PCS",
+        "weight_kg": 11.21,
+        "value_usd": 9468.04
+      },
+      {
+        "marks": "ABC/32",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 49,
+        "unit": "PCS",
+        "weight_kg": 722.56,
+        "value_usd": 21164.58
+      },
+      {
+        "marks": "SLI/2",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 90,
+        "unit": "PKG",
+        "weight_kg": 164.29,
+        "value_usd": 7631.55
+      }
+    ],
+    "total_weight_kg": 2348.46,
+    "total_value_usd": 51987.69,
+    "service": "Express Courier",
+    "named_port": "Frankfurt Airport",
+    "insurance_value_usd": 3818.58,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-135191",
+    "destination_country": "Australia"
+  }
+}

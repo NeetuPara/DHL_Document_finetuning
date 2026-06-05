@@ -1,0 +1,58 @@
+{
+  "document_id": "sli_0027",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202105-6655",
+    "usppi_name": "Jones Tech S.A.",
+    "usppi_address": "9638 Zhang Village Apt. 035, Tyroneshire, NY 63664, Japan",
+    "usppi_country": "Japan",
+    "ein": "85-7749440",
+    "consignee_name": "Estrada Tech B.V.",
+    "consignee_address": "PSC 6022, Box 7743, APO AA 11669, Poland",
+    "consignee_country": "Poland",
+    "notify_party": "Pacific Kim LLC",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DDP",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "5E992",
+    "signatory_name": "Christy Douglas",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/9",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "D/F",
+        "qty": 179,
+        "unit": "CTN",
+        "weight_kg": 464.91,
+        "value_usd": 13790.34
+      },
+      {
+        "marks": "ABC/16",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 105,
+        "unit": "PCS",
+        "weight_kg": 49.14,
+        "value_usd": 17828.07
+      }
+    ],
+    "total_weight_kg": 514.05,
+    "total_value_usd": 31618.41,
+    "vessel": "MSC OSCAR",
+    "voyage": "705S",
+    "booking_ref": "BKG-926198",
+    "bl_number": "COSU945043623",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Tanjung Pelepas, MY",
+    "container_number": "UMYO8084226",
+    "seal_number": "SL454523",
+    "container_type": "45'HC",
+    "cbm": 14.459
+  }
+}

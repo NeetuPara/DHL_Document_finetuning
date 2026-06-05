@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0425",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20201208853896",
+    "export_date": "2025-07-07",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Barajas International Corp.",
+    "usppi_ein": "27-5228442",
+    "usppi_address": "273 Perez Gardens Suite 823, South Susan, PA 57331, United Arab Emirates",
+    "ultimate_consignee": "Saunders Tech GmbH",
+    "intermediate_consignee": "Industry Morgan Ltd",
+    "forwarding_agent": "Global Wilson B.V.",
+    "destination_country": "Thailand",
+    "carrier": "Maersk",
+    "bl_awb": "057-58712383",
+    "total_value": 112835.36,
+    "currency": "AED",
+    "signatory": "Kimberly Mckenzie",
+    "line_items": [
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "India",
+        "qty": 486,
+        "unit": "MTR",
+        "entered_value": 7241.4,
+        "duty_rate": 4.8,
+        "duty_amount": 347.59,
+        "eccn": "9A515",
+        "schedule_b": "5407.42.00",
+        "export_reason": "NLR - No License Required"
+      },
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "Thailand",
+        "qty": 244,
+        "unit": "PCS",
+        "entered_value": 46294.12,
+        "duty_rate": 21.6,
+        "duty_amount": 9999.53,
+        "eccn": "9A515",
+        "schedule_b": "9401.30.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Sweden",
+        "qty": 128,
+        "unit": "KGS",
+        "entered_value": 59299.84,
+        "duty_rate": 14.8,
+        "duty_amount": 8776.38,
+        "eccn": "7A994",
+        "schedule_b": "7208.37.00",
+        "export_reason": "NLR - No License Required"
+      }
+    ]
+  }
+}

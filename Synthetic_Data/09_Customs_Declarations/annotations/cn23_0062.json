@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0062",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Dr. Scott Thompson DDS",
+    "addressee_company": "Ramos Global Co.",
+    "addressee_address": "0258 Alvarez Bridge, Lake Kevinville, SC 36456, Japan",
+    "addressee_country": "Japan",
+    "total_weight_kg": 8.962,
+    "total_value": 2244.52,
+    "currency": "CNY",
+    "issue_date": "2025-09-14",
+    "reference": "REF-596001",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 2.996,
+        "value": 454.92,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 1,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.734,
+        "value": 30.92,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Canada"
+      },
+      {
+        "qty": 14,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.232,
+        "value": 1758.68,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "France"
+      }
+    ],
+    "sender_name": "Heather Nelson",
+    "sender_company": "Shields International Pte Ltd",
+    "sender_address": "20938 Rogers Light, North Johnfort, MI 60660, Australia",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 2468.97,
+    "postal_charges": 14.23,
+    "tracking_number": "TQ610577023UF"
+  }
+}

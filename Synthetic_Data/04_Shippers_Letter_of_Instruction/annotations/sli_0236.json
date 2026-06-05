@@ -1,0 +1,94 @@
+{
+  "document_id": "sli_0236",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202005-7788",
+    "usppi_name": "Bautista Pacific Pte Ltd",
+    "usppi_address": "622 Brandon Underpass Apt. 059, South Jeffreyfort, SC 38906, China",
+    "usppi_country": "China",
+    "ein": "93-1984512",
+    "consignee_name": "Lee International AG",
+    "consignee_address": "8530 Sean Extensions Suite 730, Port Charlesland, SC 75475, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party": "Bass Pacific GmbH",
+    "forwarder": "Panalpina",
+    "incoterm": "CPT",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Christina Clark",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "EXP/44",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 167,
+        "unit": "PCS",
+        "weight_kg": 37.8,
+        "value_usd": 216976.68
+      },
+      {
+        "marks": "ABC/39",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 181,
+        "unit": "PCS",
+        "weight_kg": 2441.66,
+        "value_usd": 88754.36
+      },
+      {
+        "marks": "SLI/20",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 117,
+        "unit": "PKG",
+        "weight_kg": 122.15,
+        "value_usd": 2227.77
+      },
+      {
+        "marks": "ABC/9",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 55,
+        "unit": "CTN",
+        "weight_kg": 126.81,
+        "value_usd": 2661.19
+      },
+      {
+        "marks": "SLI/28",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D/F",
+        "qty": 189,
+        "unit": "PCS",
+        "weight_kg": 152.48,
+        "value_usd": 2507.17
+      },
+      {
+        "marks": "SLI/14",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 41,
+        "unit": "PCS",
+        "weight_kg": 16.01,
+        "value_usd": 4380.94
+      }
+    ],
+    "total_weight_kg": 2896.91,
+    "total_value_usd": 317508.11,
+    "service": "Express Courier",
+    "named_port": "Hong Kong International",
+    "insurance_value_usd": 3178.01,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-920728",
+    "destination_country": "Switzerland"
+  }
+}

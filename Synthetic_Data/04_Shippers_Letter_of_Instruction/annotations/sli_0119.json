@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0119",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202602-8272",
+    "usppi_name": "Pacific Johnson Co.",
+    "usppi_address": "Unit 8751 Box 7946, DPO AE 72375, Germany",
+    "usppi_country": "Germany",
+    "ein": "23-7580338",
+    "consignee_name": "International Copeland Ltd",
+    "consignee_address": "4147 Ruth Falls, Joebury, MD 14025, Canada",
+    "consignee_country": "Canada",
+    "notify_party": "Gonzalez International B.V.",
+    "forwarder": "Ceva Logistics",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "6A002",
+    "signatory_name": "Aaron Hernandez",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/7",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D",
+        "qty": 82,
+        "unit": "CTN",
+        "weight_kg": 164.98,
+        "value_usd": 298.51
+      },
+      {
+        "marks": "SLI/15",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 185,
+        "unit": "PCS",
+        "weight_kg": 61.86,
+        "value_usd": 5050.45
+      }
+    ],
+    "total_weight_kg": 226.84,
+    "total_value_usd": 5348.96,
+    "service": "Air Freight",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 4227.93,
+    "license_type": "License Exception TSR",
+    "license_number": "LIC-794889",
+    "destination_country": "Canada"
+  }
+}

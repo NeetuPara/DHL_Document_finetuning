@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0727",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU115075353",
+    "shipper_name": "Pacific Miles B.V.",
+    "shipper_address": "44319 Campbell Inlet, Sarahtown, OH 90195, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Hayes Commerce GmbH",
+    "consignee_address": "2041 Randy Park, Lake Madison, FM 64061, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "Burns Pacific S.A.",
+    "notify_party_address": "97912 Huff Loaf, Johnsonberg, MA 07722, Switzerland",
+    "vessel": "MADRID MAERSK",
+    "voyage": "550N",
+    "port_of_loading": "Long Beach, US",
+    "port_of_discharge": "Dubai, AE",
+    "place_of_receipt": "Busan, KR",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2024-12-05",
+    "issue_place": "Long Beach",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CFR",
+    "containers": [
+      {
+        "container_no": "OGFJ7020819",
+        "seal_no": "CL612194",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "SGUQ1055571",
+        "seal_no": "CL838653",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "QNCV4039581",
+        "seal_no": "SL272172",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "RLTQ6970354",
+        "seal_no": "SL271879",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 26,
+    "package_type": "Carton",
+    "gross_weight_kg": 10983.4,
+    "net_weight_kg": 9886.2,
+    "cbm": 3.119,
+    "marks_and_numbers": "ABC/15"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0138",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Mark Houston",
+    "addressee_company": "Global Rosario Corp.",
+    "addressee_address": "7610 Hoffman Centers Suite 879, Port Jamesbury, FL 24205, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 2.687,
+    "total_value": 3150.06,
+    "currency": "CNY",
+    "issue_date": "2025-08-30",
+    "reference": "REF-565215",
+    "line_items": [
+      {
+        "qty": 4,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 1.652,
+        "value": 287.88,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 12,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 0.109,
+        "value": 1262.76,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 19,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.926,
+        "value": 1599.42,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Malaysia"
+      }
+    ],
+    "sender_country": "India",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "792-75373886-9",
+    "entry_type": "Informal Entry",
+    "duty_rate": 22.0,
+    "estimated_duty": 693.01,
+    "importer_ein": "88-4567964",
+    "customs_broker": "Global Keith AG"
+  }
+}

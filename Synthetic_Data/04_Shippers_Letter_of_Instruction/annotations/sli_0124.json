@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0124",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202602-3424",
+    "usppi_name": "Potts Industry Inc.",
+    "usppi_address": "736 Adams Walks Suite 121, Lake Chris, UT 30631, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "70-5416858",
+    "consignee_name": "Graham International Pte Ltd",
+    "consignee_address": "89897 Pope Hills, Ashleyberg, ID 48702, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "Meyer Tech S.A.",
+    "forwarder": "Expeditors",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "3A992",
+    "signatory_name": "Mark Sanford",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/39",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 82,
+        "unit": "CTN",
+        "weight_kg": 66.27,
+        "value_usd": 1110.82
+      },
+      {
+        "marks": "ABC/19",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 132,
+        "unit": "MTR",
+        "weight_kg": 106.2,
+        "value_usd": 1629.05
+      },
+      {
+        "marks": "ABC/25",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 88,
+        "unit": "PKG",
+        "weight_kg": 185.73,
+        "value_usd": 2880.49
+      },
+      {
+        "marks": "ABC/19",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 30,
+        "unit": "SET",
+        "weight_kg": 85.35,
+        "value_usd": 4499.76
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 181,
+        "unit": "PCS",
+        "weight_kg": 964.4,
+        "value_usd": 86618.56
+      },
+      {
+        "marks": "SLI/27",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D/F",
+        "qty": 156,
+        "unit": "PCS",
+        "weight_kg": 2367.25,
+        "value_usd": 69521.17
+      },
+      {
+        "marks": "EXP/18",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 54,
+        "unit": "KGS",
+        "weight_kg": 54.0,
+        "value_usd": 74.48
+      },
+      {
+        "marks": "EXP/50",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 8,
+        "unit": "LTR",
+        "weight_kg": 7.63,
+        "value_usd": 89.42
+      }
+    ],
+    "total_weight_kg": 3836.83,
+    "total_value_usd": 166423.75,
+    "service": "Air Freight",
+    "named_port": "Dubai International",
+    "insurance_value_usd": 12570.26,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-251364",
+    "destination_country": "Spain"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "document_id": "vgm_0680",
+  "document_class": "Verified Gross Mass",
+  "format_variant": "VGM-Method2-Sum-of-Packages",
+  "class_index": 6,
+  "fields": {
+    "shipper_name": "International Soto Ltd",
+    "shipper_address": "3559 David Squares Suite 425, East Laurie, PR 34202, South Korea",
+    "shipper_country": "South Korea",
+    "container_number": "JQOS0140519",
+    "seal_number": "CL450212",
+    "container_size": "45'HC",
+    "iso_type_code": "L5G0",
+    "tare_weight_kg": 4800,
+    "cargo_weight_kg": 21079.3,
+    "packing_materials_kg": 206.5,
+    "vgm_kg": 26085.8,
+    "vessel": "ONE INNOVATION",
+    "voyage": "912W",
+    "bl_number": "MAEU840108322",
+    "booking_reference": "BKG-998941",
+    "weighing_scale_type": "Certified Electronic Scale",
+    "scale_serial": "Unit-27243",
+    "calibration_date": "2026-05-13",
+    "cutoff_date": "2026-05-25",
+    "signature_date": "2026-05-12",
+    "signatory_name": "Donald Gibbs",
+    "signatory_title": "Logistics Manager",
+    "number_of_packages": 5,
+    "packages": [
+      {
+        "item_no": 1,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Case",
+        "n_units": 14,
+        "gross_wt_kg": 2275.0
+      },
+      {
+        "item_no": 2,
+        "description": "Electronic Components - Printed Circuit Boards",
+        "pkg_type": "Crate",
+        "n_units": 4,
+        "gross_wt_kg": 503.6
+      },
+      {
+        "item_no": 3,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Pallet",
+        "n_units": 4,
+        "gross_wt_kg": 3883.2
+      },
+      {
+        "item_no": 4,
+        "description": "Paper Products - Packaging Cartons",
+        "pkg_type": "Cylinder",
+        "n_units": 13,
+        "gross_wt_kg": 9461.9
+      },
+      {
+        "item_no": 5,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "pkg_type": "Cylinder",
+        "n_units": 15,
+        "gross_wt_kg": 4955.6
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0310",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Margaret Adkins",
+    "addressee_company": "Commerce Hawkins Corp.",
+    "addressee_address": "7656 Barton Points, New Jerryfort, KS 04843, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 6.638,
+    "total_value": 5958.35,
+    "currency": "AUD",
+    "issue_date": "2026-01-16",
+    "reference": "REF-293672",
+    "line_items": [
+      {
+        "qty": 2,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.289,
+        "value": 190.44,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "South Korea"
+      },
+      {
+        "qty": 15,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 0.82,
+        "value": 1834.05,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 16,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.051,
+        "value": 2037.28,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 19,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.478,
+        "value": 1896.58,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Italy"
+      }
+    ],
+    "sender_name": "Daniel Lopez",
+    "sender_company": "Industry Martinez Co.",
+    "sender_address": "2625 Danny Overpass Apt. 671, North Laurahaven, IN 58627, Sweden",
+    "sender_phone": "001-305-771-2595x667",
+    "sender_email": "jessica03@example.com",
+    "addressee_phone": "+1-639-688-7743x299",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 58.18,
+    "tracking_number": "ZH174004643KB"
+  }
+}

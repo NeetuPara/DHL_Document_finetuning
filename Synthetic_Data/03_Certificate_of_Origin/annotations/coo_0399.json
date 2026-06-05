@@ -1,0 +1,42 @@
+{
+  "document_id": "coo_0399",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202312-6850",
+    "exporter_name": "Perkins Industry B.V.",
+    "exporter_address": "246 Shannon Centers Suite 733, New Williamview, ME 85355, Poland",
+    "exporter_country": "Poland",
+    "consignee_name": "International Brown AG",
+    "consignee_address": "0142 Rebecca Meadows Suite 229, Sarahport, CT 83167, Belgium",
+    "consignee_country": "Belgium",
+    "country_of_origin": "Poland",
+    "country_of_destination": "Belgium",
+    "bl_or_awb": "COSU506364467",
+    "issue_date": "2026-05-12",
+    "certifier_name": "Gabriel Williams",
+    "goods": [
+      {
+        "description": "Food Products - Processed Nuts and Seeds",
+        "hs_code": "2008.19.00",
+        "qty": 372,
+        "unit": "KGS",
+        "weight_kg": 372.0,
+        "origin_criterion": "F",
+        "value": 2643.63
+      },
+      {
+        "description": "Plastic Products - Injection Moulded Components",
+        "hs_code": "3926.90.00",
+        "qty": 258,
+        "unit": "PCS",
+        "weight_kg": 65.19,
+        "origin_criterion": "C",
+        "value": 4283.75
+      }
+    ],
+    "fta_agreement": "EU-Canada CETA",
+    "chamber": "Export Council"
+  }
+}

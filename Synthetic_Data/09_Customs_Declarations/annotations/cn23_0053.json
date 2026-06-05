@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0053",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Brian Gomez",
+    "addressee_company": "International Burton Co.",
+    "addressee_address": "40655 Deanna Ports Suite 826, New Bryanside, MI 12522, Poland",
+    "addressee_country": "Poland",
+    "total_weight_kg": 4.983,
+    "total_value": 525.7,
+    "currency": "GBP",
+    "issue_date": "2025-08-19",
+    "reference": "REF-334983",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.334,
+        "value": 197.67,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 5,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 0.87,
+        "value": 291.85,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 2,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.779,
+        "value": 36.18,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Canada"
+      }
+    ],
+    "sender_name": "Courtney Taylor",
+    "sender_company": "Clark Pacific B.V.",
+    "sender_address": "32214 Karen Streets, Lake Emily, MT 79963, Switzerland",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 7.27,
+    "tracking_number": "UH287081597CD"
+  }
+}

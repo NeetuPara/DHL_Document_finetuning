@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0042",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-86590881",
+    "mawb_number": "085-85805171",
+    "shipper_name": "Global Tate Ltd",
+    "shipper_address": "124 Patricia Keys, Richardsburgh, CO 39630, Netherlands",
+    "consignee_name": "Industry Garner B.V.",
+    "consignee_address": "28134 Stephanie Falls Apt. 860, Melissashire, FL 59958, France",
+    "agent_name": "Miles Industry Inc.",
+    "airport_departure": "LHR",
+    "airport_destination": "HKG",
+    "currency": "GBP",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 11,
+    "gross_weight_kg": 322.3,
+    "chargeable_weight": 331.9,
+    "rate": 11.27,
+    "total_charge": 3740.51,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "TEMP CONTROLLED: 6\u00b0C - 13\u00b0C",
+    "issue_date": "2025-11-23",
+    "signatory": "Kelly Blake",
+    "iata_code": "52-048",
+    "agent_cass": "9422-6922",
+    "consolidation_ref": "CONS-0920-163829",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-77826685",
+        "pieces": 15,
+        "weight": 6.5,
+        "destination": "ORD",
+        "consignee": "Davis International Co.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "085-55681172",
+        "pieces": 13,
+        "weight": 65.1,
+        "destination": "AMS",
+        "consignee": "Trade Marsh AG",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "020-59116750",
+        "pieces": 16,
+        "weight": 66.7,
+        "destination": "LAX",
+        "consignee": "Hammond Industry AG",
+        "description": "Automotive Spare Parts - Brake Pads"
+      },
+      {
+        "hawb_ref": "006-53764720",
+        "pieces": 9,
+        "weight": 46.8,
+        "destination": "DXB",
+        "consignee": "Industry Bruce AG",
+        "description": "Pharmaceutical Products - Vitamins "
+      }
+    ]
+  }
+}

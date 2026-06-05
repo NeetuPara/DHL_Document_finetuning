@@ -1,0 +1,64 @@
+{
+  "document_id": "eei_0404",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20200729015657",
+    "export_date": "2025-07-12",
+    "aes_option": "AES Post Departure",
+    "usppi_name": "Sharp Industry Ltd",
+    "usppi_ein": "06-3558459",
+    "usppi_address": "94382 Ford Cape, Mendezport, MA 90286, Poland",
+    "ultimate_consignee": "Commerce Jennings S.A.",
+    "intermediate_consignee": "Industry Abbott B.V.",
+    "forwarding_agent": "Wolf Trade LLC",
+    "destination_country": "Mexico",
+    "carrier": "DHL Express",
+    "bl_awb": "045-12049532",
+    "total_value": 127974.29,
+    "currency": "CNY",
+    "signatory": "Tammie Wood",
+    "line_items": [
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "India",
+        "qty": 100,
+        "unit": "KGS",
+        "entered_value": 25060.0,
+        "duty_rate": 11.5,
+        "duty_amount": 2881.9,
+        "eccn": "0A919",
+        "schedule_b": "7208.37.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "7208.37.00",
+        "description": "Steel Products - Hot Rolled Coils",
+        "country_of_origin": "Sweden",
+        "qty": 272,
+        "unit": "KGS",
+        "entered_value": 48965.44,
+        "duty_rate": 11.3,
+        "duty_amount": 5533.09,
+        "eccn": "7A994",
+        "schedule_b": "7208.37.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "Spain",
+        "qty": 457,
+        "unit": "CTN",
+        "entered_value": 53948.85,
+        "duty_rate": 21.1,
+        "duty_amount": 11383.21,
+        "eccn": "2B350",
+        "schedule_b": "9018.31.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

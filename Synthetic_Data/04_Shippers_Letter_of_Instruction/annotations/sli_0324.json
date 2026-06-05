@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0324",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202504-9749",
+    "usppi_name": "Ferguson International GmbH",
+    "usppi_address": "5948 Barnes Gardens, Rogerside, NY 45904, Germany",
+    "usppi_country": "Germany",
+    "ein": "92-3947103",
+    "consignee_name": "Powell Pacific GmbH",
+    "consignee_address": "793 Jose Common, North Andrewfort, AK 90082, Spain",
+    "consignee_country": "Spain",
+    "notify_party": "International Gonzalez Pte Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "CIP",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Patricia Orr",
+    "signatory_title": "Operations Manager",
+    "line_items": [
+      {
+        "marks": "SLI/25",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 38,
+        "unit": "BOX",
+        "weight_kg": 21.04,
+        "value_usd": 1381.5
+      },
+      {
+        "marks": "EXP/27",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 61,
+        "unit": "CTN",
+        "weight_kg": 97.32,
+        "value_usd": 888.13
+      },
+      {
+        "marks": "EXP/38",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 11,
+        "unit": "PCS",
+        "weight_kg": 3.15,
+        "value_usd": 168.48
+      },
+      {
+        "marks": "EXP/10",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "8708.30.5060",
+        "dom_for": "D",
+        "qty": 60,
+        "unit": "PKG",
+        "weight_kg": 46.52,
+        "value_usd": 5149.18
+      }
+    ],
+    "total_weight_kg": 168.03,
+    "total_value_usd": 7587.29,
+    "vessel": "ONE INNOVATION",
+    "voyage": "254W",
+    "booking_ref": "BKG-312267",
+    "bl_number": "YMLU265664138",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Qingdao, CN",
+    "container_number": "YCSP3676945",
+    "seal_number": "BL159998",
+    "container_type": "45'HC",
+    "cbm": 7.513
+  }
+}

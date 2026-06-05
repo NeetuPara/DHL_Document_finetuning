@@ -1,0 +1,104 @@
+{
+  "document_id": "sli_0442",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202005-4296",
+    "usppi_name": "Pacific Lynch GmbH",
+    "usppi_address": "60044 Elliott Meadows, New Nancy, FL 99357, Italy",
+    "usppi_country": "Italy",
+    "ein": "50-6556994",
+    "consignee_name": "Barnes Tech S.A.",
+    "consignee_address": "73113 John Field Suite 574, Marcusview, PW 45523, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party": "Hunt International Corp.",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Brittany Peck",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/39",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 154,
+        "unit": "KGS",
+        "weight_kg": 154.0,
+        "value_usd": 2434.12
+      },
+      {
+        "marks": "EXP/1",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 19,
+        "unit": "PCS",
+        "weight_kg": 10.73,
+        "value_usd": 15211.85
+      },
+      {
+        "marks": "ABC/38",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "D/F",
+        "qty": 133,
+        "unit": "PCS",
+        "weight_kg": 2539.86,
+        "value_usd": 30790.45
+      },
+      {
+        "marks": "ABC/12",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 47,
+        "unit": "MTR",
+        "weight_kg": 29.3,
+        "value_usd": 281.83
+      },
+      {
+        "marks": "ABC/2",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 7,
+        "unit": "BOX",
+        "weight_kg": 1.63,
+        "value_usd": 195.68
+      },
+      {
+        "marks": "ABC/15",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "F",
+        "qty": 42,
+        "unit": "KGS",
+        "weight_kg": 42.0,
+        "value_usd": 89.76
+      },
+      {
+        "marks": "ABC/47",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 127,
+        "unit": "LTR",
+        "weight_kg": 123.07,
+        "value_usd": 3824.17
+      }
+    ],
+    "total_weight_kg": 2900.59,
+    "total_value_usd": 52827.86,
+    "service": "Air Freight",
+    "named_port": "Toronto Pearson",
+    "insurance_value_usd": 19608.76,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "United Kingdom"
+  }
+}

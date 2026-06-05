@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0440",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Aaron Velez",
+    "addressee_company": "Trade Scott Inc.",
+    "addressee_address": "0656 Hester Circles Suite 645, Landryside, MT 24614, United Arab Emirates",
+    "addressee_country": "United Arab Emirates",
+    "total_weight_kg": 4.86,
+    "total_value": 2343.13,
+    "currency": "JPY",
+    "issue_date": "2025-12-24",
+    "reference": "REF-525681",
+    "line_items": [
+      {
+        "qty": 14,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 2.307,
+        "value": 951.58,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 15,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.553,
+        "value": 1391.55,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Singapore"
+      }
+    ],
+    "sender_name": "Terri Peterson",
+    "sender_company": "Delacruz Trade AG",
+    "sender_address": "21774 Miller Mountain Suite 545, Dustinfort, MN 24805, Germany",
+    "category": "Returned Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 43.91,
+    "tracking_number": "XP960114122CP"
+  }
+}

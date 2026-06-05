@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0550",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202404-3234",
+    "usppi_name": "International Baldwin Pte Ltd",
+    "usppi_address": "405 Dennis Lock Apt. 903, North Amy, AL 58398, Spain",
+    "usppi_country": "Spain",
+    "ein": "95-3155493",
+    "consignee_name": "Trade Castro Inc.",
+    "consignee_address": "71969 Lisa Mountain, Davisbury, VT 77416, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party": "Thompson Commerce Co.",
+    "forwarder": "Panalpina",
+    "incoterm": "FCA",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "9A515",
+    "signatory_name": "Mrs. Misty Nicholson",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/41",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "F",
+        "qty": 24,
+        "unit": "SET",
+        "weight_kg": 91.46,
+        "value_usd": 1803.75
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 73,
+        "unit": "PCS",
+        "weight_kg": 44.93,
+        "value_usd": 117819.14
+      },
+      {
+        "marks": "ABC/33",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 60,
+        "unit": "BOX",
+        "weight_kg": 38.07,
+        "value_usd": 551.21
+      },
+      {
+        "marks": "SLI/7",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 174,
+        "unit": "LTR",
+        "weight_kg": 158.28,
+        "value_usd": 2609.31
+      },
+      {
+        "marks": "SLI/29",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 80,
+        "unit": "CTN",
+        "weight_kg": 360.08,
+        "value_usd": 1683.46
+      }
+    ],
+    "total_weight_kg": 692.82,
+    "total_value_usd": 124466.87,
+    "service": "LCL Ocean",
+    "named_port": "Dubai, AE",
+    "insurance_value_usd": 41716.27,
+    "license_type": "License Exception ENC",
+    "license_number": "LIC-206858",
+    "destination_country": "Thailand"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0125",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "YMLU706665194",
+    "shipper_name": "Lawrence Industry S.A.",
+    "shipper_address": "164 Anderson Drive Apt. 745, Davisbury, ME 65334, France",
+    "shipper_country": "France",
+    "consignee_name": "International Duncan LLC",
+    "consignee_address": "3495 Nelson Place Suite 322, North Jennifer, NE 57887, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "Trevino Pacific Ltd",
+    "notify_party_address": "790 Ashley Lakes Apt. 590, Jessicaview, OK 91802, Germany",
+    "vessel": "PIL PACIFIC",
+    "voyage": "502S",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Rotterdam, NL",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Rotterdam, NL",
+    "issue_date": "2024-10-01",
+    "issue_place": "Qingdao",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "LSQN7166417",
+        "seal_no": "BL673583",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "IXMH5053156",
+        "seal_no": "SL644774",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "MRKZ7863953",
+        "seal_no": "SL303950",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "number_of_packages": 129,
+    "package_type": "Drum",
+    "gross_weight_kg": 8896.0,
+    "net_weight_kg": 8237.8,
+    "cbm": 15.222,
+    "marks_and_numbers": "GLB/46"
+  }
+}

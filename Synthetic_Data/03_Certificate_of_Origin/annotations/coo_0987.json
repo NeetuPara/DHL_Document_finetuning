@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0987",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202205-1751",
+    "exporter_name": "Haas Global Co.",
+    "exporter_address": "00436 Harrington Wall, East Andrea, CO 96010, Brazil",
+    "exporter_country": "Brazil",
+    "consignee_name": "Bennett Trade Ltd",
+    "consignee_address": "82027 Morgan Village, New Barbara, AS 28596, Netherlands",
+    "consignee_country": "Netherlands",
+    "country_of_origin": "Brazil",
+    "country_of_destination": "Netherlands",
+    "bl_or_awb": "045-12027399",
+    "issue_date": "2025-05-30",
+    "certifier_name": "Sara Berg",
+    "goods": [
+      {
+        "description": "Wooden Furniture - Office Chairs",
+        "hs_code": "9401.30.00",
+        "qty": 116,
+        "unit": "PCS",
+        "weight_kg": 2480.78,
+        "origin_criterion": "C",
+        "value": 51543.83
+      },
+      {
+        "description": "Paper Products - Packaging Cartons",
+        "hs_code": "4819.10.00",
+        "qty": 374,
+        "unit": "CTN",
+        "weight_kg": 259.28,
+        "origin_criterion": "D",
+        "value": 3443.28
+      },
+      {
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "hs_code": "4016.93.00",
+        "qty": 284,
+        "unit": "PKG",
+        "weight_kg": 599.49,
+        "origin_criterion": "B",
+        "value": 17701.72
+      }
+    ],
+    "fta_agreement": "US-Korea FTA (KORUS)",
+    "chamber": "Chamber of Commerce"
+  }
+}

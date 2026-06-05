@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0315",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-98115070",
+    "mawb_number": "125-51683565",
+    "shipper_name": "Trade Williams B.V.",
+    "shipper_address": "4613 Cindy Lodge, Williebury, WA 69476, Sweden",
+    "consignee_name": "Industry Gonzalez Inc.",
+    "consignee_address": "09829 Mays Inlet Apt. 368, Lake Williamshire, AS 89585, Canada",
+    "agent_name": "Sellers Industry B.V.",
+    "airport_departure": "HKG",
+    "airport_destination": "ORD",
+    "currency": "SGD",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 14,
+    "gross_weight_kg": 90.7,
+    "chargeable_weight": 91.2,
+    "rate": 10.5,
+    "total_charge": 957.6,
+    "nature_of_goods": "Automotive Spare Parts - Brake Pads",
+    "hs_code": "8708.30.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-07-03",
+    "signatory": "Juan Williams",
+    "iata_code": "60-194",
+    "agent_cass": "0640-7051",
+    "consolidation_ref": "CONS-2840-907754",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-31126519",
+        "pieces": 11,
+        "weight": 51.5,
+        "destination": "CDG",
+        "consignee": "Industry Chapman GmbH",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "160-44006312",
+        "pieces": 9,
+        "weight": 98.4,
+        "destination": "MIA",
+        "consignee": "Roberts Pacific B.V.",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "045-64016133",
+        "pieces": 13,
+        "weight": 64.6,
+        "destination": "LHR",
+        "consignee": "Lawson Pacific S.A.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "125-71002256",
+        "pieces": 18,
+        "weight": 24.1,
+        "destination": "SYD",
+        "consignee": "Tech Olsen LLC",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "074-62358470",
+        "pieces": 16,
+        "weight": 70.9,
+        "destination": "DXB",
+        "consignee": "Delgado International Co.",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "618-49937629",
+        "pieces": 4,
+        "weight": 70.9,
+        "destination": "ORD",
+        "consignee": "Becker Trade Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "045-18378669",
+        "pieces": 8,
+        "weight": 19.5,
+        "destination": "SYD",
+        "consignee": "Hill Commerce Pte Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "176-70467926",
+        "pieces": 19,
+        "weight": 87.2,
+        "destination": "NRT",
+        "consignee": "Pacific Medina AG",
+        "description": "Rubber Goods - Industrial Seals and"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "eei_0545",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20210603140158",
+    "export_date": "2025-05-26",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Industry Carr AG",
+    "usppi_ein": "76-9172757",
+    "usppi_address": "0801 Erin Roads Suite 795, Lake Cynthiahaven, MI 73513, Poland",
+    "ultimate_consignee": "Terry Tech GmbH",
+    "intermediate_consignee": "Tech Campbell Pte Ltd",
+    "forwarding_agent": "Nunez Commerce AG",
+    "destination_country": "Mexico",
+    "carrier": "Maersk",
+    "bl_awb": "085-27278584",
+    "total_value": 48916.76,
+    "currency": "GBP",
+    "signatory": "Robert Evans",
+    "line_items": [
+      {
+        "hts_no": "9401.30.00",
+        "description": "Wooden Furniture - Office Chairs",
+        "country_of_origin": "India",
+        "qty": 422,
+        "unit": "PCS",
+        "entered_value": 19614.56,
+        "duty_rate": 9.8,
+        "duty_amount": 1922.23,
+        "eccn": "9A515",
+        "schedule_b": "9401.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "United Arab Emirates",
+        "qty": 365,
+        "unit": "PKG",
+        "entered_value": 29302.2,
+        "duty_rate": 16.3,
+        "duty_amount": 4776.26,
+        "eccn": "7A994",
+        "schedule_b": "4016.93.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

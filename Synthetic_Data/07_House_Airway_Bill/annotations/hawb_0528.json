@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0528",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-41724257",
+    "mawb_number": "020-93681752",
+    "shipper_name": "Bishop Tech GmbH",
+    "shipper_address": "2699 Wu Coves, Clarkburgh, MO 46521, France",
+    "consignee_name": "Wagner Pacific LLC",
+    "consignee_address": "USS Cook, FPO AP 13088, Canada",
+    "agent_name": "Shelton Commerce AG",
+    "airport_departure": "DXB",
+    "airport_destination": "PVG",
+    "currency": "JPY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "AUD 47,002.98",
+    "n_pieces": 12,
+    "gross_weight_kg": 392.0,
+    "chargeable_weight": 461.5,
+    "rate": 5.62,
+    "total_charge": 2593.63,
+    "nature_of_goods": "Rubber Goods - Industrial Seals and Gaskets",
+    "hs_code": "4016.93.00",
+    "handling_info": "RUSH - PRIORITY HANDLING",
+    "issue_date": "2025-12-22",
+    "signatory": "Jose Lester",
+    "iata_code": "50-285",
+    "agent_cass": "6331-3229",
+    "consolidation_ref": "CONS-8159-735652",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-36514263",
+        "pieces": 3,
+        "weight": 55.1,
+        "destination": "HKG",
+        "consignee": "Reed Pacific Corp.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "176-69488868",
+        "pieces": 7,
+        "weight": 89.8,
+        "destination": "CDG",
+        "consignee": "Perez Tech Ltd",
+        "description": "Chemical Compounds - Industrial Sol"
+      },
+      {
+        "hawb_ref": "176-24310529",
+        "pieces": 20,
+        "weight": 35.1,
+        "destination": "LAX",
+        "consignee": "Romero Commerce B.V.",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "074-43782873",
+        "pieces": 11,
+        "weight": 81.6,
+        "destination": "PVG",
+        "consignee": "Williams Global B.V.",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "618-59111066",
+        "pieces": 11,
+        "weight": 35.3,
+        "destination": "MIA",
+        "consignee": "Haley Tech Inc.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "160-73953521",
+        "pieces": 17,
+        "weight": 5.4,
+        "destination": "HKG",
+        "consignee": "Smith Pacific Corp.",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

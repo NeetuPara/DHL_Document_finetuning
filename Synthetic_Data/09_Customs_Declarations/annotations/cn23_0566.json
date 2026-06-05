@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0566",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Meredith Lloyd",
+    "addressee_company": "Sullivan Trade S.A.",
+    "addressee_address": "75464 Powell Mill Apt. 114, Jesseberg, ND 37936, China",
+    "addressee_country": "China",
+    "total_weight_kg": 4.9,
+    "total_value": 3929.81,
+    "currency": "SGD",
+    "issue_date": "2026-02-11",
+    "reference": "REF-518375",
+    "line_items": [
+      {
+        "qty": 5,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.193,
+        "value": 707.35,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Sweden"
+      },
+      {
+        "qty": 19,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 3.404,
+        "value": 2778.94,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 4,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.303,
+        "value": 443.52,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "United Kingdom"
+      }
+    ],
+    "sender_name": "Martha Soto",
+    "sender_company": "Hernandez Pacific Co.",
+    "sender_address": "6014 Denise Landing, Hardingmouth, NV 85406, Switzerland",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 4322.79,
+    "postal_charges": 33.96,
+    "tracking_number": "CF110726118ZX"
+  }
+}

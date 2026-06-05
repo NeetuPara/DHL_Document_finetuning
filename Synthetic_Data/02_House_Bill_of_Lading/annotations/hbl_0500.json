@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0500",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "DHLG605915763",
+    "shipper_name": "Hamilton Pacific Co.",
+    "shipper_address": "561 Snyder Causeway Apt. 863, East Jessicamouth, MP 30666, United Kingdom",
+    "shipper_country": "United Kingdom",
+    "consignee_name": "Carey Commerce AG",
+    "consignee_address": "315 Hamilton Parks, East Marctown, PA 19898, Thailand",
+    "consignee_country": "Thailand",
+    "notify_party_name": "Pacific Jones Co.",
+    "notify_party_address": "207 Christina Throughway, Bradyborough, ND 70453, Singapore",
+    "vessel": "MOL TRIUMPH",
+    "voyage": "550E",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Singapore, SG",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2025-10-10",
+    "issue_place": "Dubai",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FCA",
+    "containers": [
+      {
+        "container_no": "WVKR9362200",
+        "seal_no": "BL657903",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "TFSD0898091",
+        "seal_no": "BL573663",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "PFNF4622604",
+        "seal_no": "CL258878",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "SEXJ1453976",
+        "seal_no": "CL572800",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Wooden Furniture - Office Chairs",
+    "hs_code": "9401.30.00",
+    "number_of_packages": 10,
+    "package_type": "Carton",
+    "gross_weight_kg": 15891.5,
+    "net_weight_kg": 14175.3,
+    "cbm": 0.815,
+    "marks_and_numbers": "XYZ/48"
+  }
+}

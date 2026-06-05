@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0384",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202202-1145",
+    "usppi_name": "International Williams Corp.",
+    "usppi_address": "USNS Frye, FPO AE 42241, Malaysia",
+    "usppi_country": "Malaysia",
+    "ein": "59-7720071",
+    "consignee_name": "Lopez Commerce S.A.",
+    "consignee_address": "616 Tiffany Stravenue, Jamesstad, IN 18952, India",
+    "consignee_country": "India",
+    "notify_party": "International Gray Inc.",
+    "forwarder": "DB Schenker",
+    "incoterm": "EXW",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "7A994",
+    "signatory_name": "Christine Cisneros",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/24",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D",
+        "qty": 186,
+        "unit": "BOX",
+        "weight_kg": 51.96,
+        "value_usd": 13552.99
+      },
+      {
+        "marks": "SLI/39",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 88,
+        "unit": "PCS",
+        "weight_kg": 1766.19,
+        "value_usd": 28078.89
+      },
+      {
+        "marks": "EXP/9",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D/F",
+        "qty": 119,
+        "unit": "CTN",
+        "weight_kg": 338.86,
+        "value_usd": 1562.59
+      },
+      {
+        "marks": "ABC/4",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 105,
+        "unit": "KGS",
+        "weight_kg": 105.0,
+        "value_usd": 112.53
+      }
+    ],
+    "total_weight_kg": 2262.01,
+    "total_value_usd": 43307.0,
+    "vessel": "ONE INNOVATION",
+    "voyage": "532N",
+    "booking_ref": "BKG-406038",
+    "bl_number": "EGLV957859763",
+    "port_of_loading": "Tanjung Pelepas, MY",
+    "port_of_discharge": "Busan, KR",
+    "container_number": "MXKL4861599",
+    "seal_number": "CL616168",
+    "container_type": "45'HC",
+    "cbm": 22.9
+  }
+}

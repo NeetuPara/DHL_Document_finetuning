@@ -1,0 +1,114 @@
+{
+  "document_id": "sli_0193",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202007-9004",
+    "usppi_name": "Pacific Jones AG",
+    "usppi_address": "2691 Anderson Harbors Apt. 470, Port Carlosport, PA 22087, Hong Kong",
+    "usppi_country": "Hong Kong",
+    "ein": "82-2444852",
+    "consignee_name": "Rowland Pacific GmbH",
+    "consignee_address": "955 Cole Fords Suite 850, Smithhaven, UT 66704, Belgium",
+    "consignee_country": "Belgium",
+    "notify_party": "International Hill LLC",
+    "forwarder": "Expeditors",
+    "incoterm": "FOB",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Ashley Jackson",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "SLI/38",
+        "description": "Textile Fabrics - Woven Polyester",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 135,
+        "unit": "MTR",
+        "weight_kg": 81.31,
+        "value_usd": 1987.8
+      },
+      {
+        "marks": "ABC/5",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "D",
+        "qty": 112,
+        "unit": "SET",
+        "weight_kg": 270.28,
+        "value_usd": 17409.95
+      },
+      {
+        "marks": "EXP/29",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 18,
+        "unit": "CTN",
+        "weight_kg": 34.29,
+        "value_usd": 258.58
+      },
+      {
+        "marks": "EXP/17",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "F",
+        "qty": 94,
+        "unit": "PCS",
+        "weight_kg": 28.31,
+        "value_usd": 10647.19
+      },
+      {
+        "marks": "SLI/27",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "F",
+        "qty": 59,
+        "unit": "CTN",
+        "weight_kg": 126.13,
+        "value_usd": 4495.19
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 24,
+        "unit": "PCS",
+        "weight_kg": 22.03,
+        "value_usd": 34068.33
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 104,
+        "unit": "PCS",
+        "weight_kg": 1903.7,
+        "value_usd": 37341.3
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 149,
+        "unit": "KGS",
+        "weight_kg": 149.0,
+        "value_usd": 2763.65
+      }
+    ],
+    "total_weight_kg": 2615.05,
+    "total_value_usd": 108971.99,
+    "service": "LCL Ocean",
+    "named_port": "Rotterdam, NL",
+    "insurance_value_usd": 24198.32,
+    "license_type": "License Exception LVS",
+    "license_number": "LIC-548487",
+    "destination_country": "Belgium"
+  }
+}

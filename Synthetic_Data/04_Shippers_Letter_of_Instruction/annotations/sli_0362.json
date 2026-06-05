@@ -1,0 +1,64 @@
+{
+  "document_id": "sli_0362",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202106-3518",
+    "usppi_name": "Tech Young S.A.",
+    "usppi_address": "58153 Strickland Plains Apt. 209, New Amy, GA 72284, Italy",
+    "usppi_country": "Italy",
+    "ein": "60-2096021",
+    "consignee_name": "Jimenez Industry GmbH",
+    "consignee_address": "USNS Wolfe, FPO AP 92162, Singapore",
+    "consignee_country": "Singapore",
+    "notify_party": "Hardin Tech Corp.",
+    "forwarder": "DB Schenker",
+    "incoterm": "DAP",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5E992",
+    "signatory_name": "Andrew Lloyd",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/5",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2901.10.0010",
+        "dom_for": "D",
+        "qty": 92,
+        "unit": "SET",
+        "weight_kg": 199.2,
+        "value_usd": 7970.36
+      },
+      {
+        "marks": "SLI/47",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "D",
+        "qty": 152,
+        "unit": "PCS",
+        "weight_kg": 1974.94,
+        "value_usd": 54981.28
+      },
+      {
+        "marks": "SLI/25",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "8534.00.0020",
+        "dom_for": "F",
+        "qty": 114,
+        "unit": "CTN",
+        "weight_kg": 132.41,
+        "value_usd": 395.25
+      }
+    ],
+    "total_weight_kg": 2306.55,
+    "total_value_usd": 63346.89,
+    "service": "Air Freight",
+    "named_port": "Miami International",
+    "insurance_value_usd": 37360.1,
+    "license_type": "Individual Validated License",
+    "license_number": "LIC-813017",
+    "destination_country": "Singapore"
+  }
+}

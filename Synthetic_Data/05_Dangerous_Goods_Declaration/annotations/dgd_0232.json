@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0232",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Brown LLC",
+    "shipper_address": "4669 Reese Dam Suite 757, Lake Jesse, NJ 99829, France",
+    "shipper_country": "France",
+    "consignee_name": "Hobbs Tech GmbH",
+    "consignee_address": "9956 Hays Bridge Suite 577, South Calvintown, UT 78106, Thailand",
+    "consignee_country": "Thailand",
+    "emergency_telephone": "+60 825-553-4821",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 43,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 31.91,
+        "qty_unit": "L",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-440183",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Melanie Mcdaniel",
+    "signature_date": "2026-05-02",
+    "signature_place": "France",
+    "awb_number": "085-71080311",
+    "flight_number": "SQ7707",
+    "flight_date": "2026-06-06",
+    "departure_airport_code": "PVG",
+    "departure_airport_name": "Shanghai Pudong",
+    "destination_airport_code": "NRT",
+    "destination_airport_name": "Tokyo Narita"
+  }
+}

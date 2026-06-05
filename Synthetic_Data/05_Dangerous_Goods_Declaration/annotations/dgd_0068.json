@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0068",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Industry Lee LLC",
+    "shipper_address": "USNV Rivas, FPO AA 43801, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Zuniga International Ltd",
+    "consignee_address": "262 Hodges Plains Suite 814, Myersfurt, MS 17766, United States",
+    "consignee_country": "United States",
+    "emergency_telephone": "+85 763-813-7023",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 30,
+        "pkg_type": "Steel Drum",
+        "net_qty": 20.21,
+        "qty_unit": "L",
+        "packing_instruction": "Forbidden",
+        "auth_no": "CA-702630",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 34,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 64.22,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Nicole Hudson",
+    "signature_date": "2026-04-15",
+    "signature_place": "Germany",
+    "vessel": "YANG MING MYTH",
+    "voyage": "481S",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Tanjung Pelepas, MY"
+  }
+}

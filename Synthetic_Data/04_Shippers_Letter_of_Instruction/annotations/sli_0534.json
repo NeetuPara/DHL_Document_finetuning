@@ -1,0 +1,78 @@
+{
+  "document_id": "sli_0534",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202507-8813",
+    "usppi_name": "Industry Snyder Corp.",
+    "usppi_address": "467 Tran Hollow Suite 354, South Toddmouth, NV 78116, Poland",
+    "usppi_country": "Poland",
+    "ein": "19-7380831",
+    "consignee_name": "International Washington Co.",
+    "consignee_address": "7735 Jody Skyway Suite 635, Jenningsmouth, MH 72500, Japan",
+    "consignee_country": "Japan",
+    "notify_party": "Global Sullivan GmbH",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "FOB",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "6A002",
+    "signatory_name": "Walter Santiago",
+    "signatory_title": "Logistics Director",
+    "line_items": [
+      {
+        "marks": "ABC/43",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D",
+        "qty": 185,
+        "unit": "PCS",
+        "weight_kg": 2135.71,
+        "value_usd": 102465.91
+      },
+      {
+        "marks": "EXP/16",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "F",
+        "qty": 51,
+        "unit": "PCS",
+        "weight_kg": 447.08,
+        "value_usd": 9744.1
+      },
+      {
+        "marks": "ABC/12",
+        "description": "Electronic Components - Printed Circuit Boards",
+        "schedule_b": "4016.93.5000",
+        "dom_for": "D",
+        "qty": 154,
+        "unit": "PCS",
+        "weight_kg": 14.28,
+        "value_usd": 34175.38
+      },
+      {
+        "marks": "EXP/4",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D/F",
+        "qty": 63,
+        "unit": "SET",
+        "weight_kg": 67.77,
+        "value_usd": 11042.65
+      }
+    ],
+    "total_weight_kg": 2664.84,
+    "total_value_usd": 157428.04,
+    "vessel": "MSC GULSUN",
+    "voyage": "702E",
+    "booking_ref": "BKG-439467",
+    "bl_number": "OOLU812839576",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Tokyo, JP",
+    "container_number": "WDGO1567904",
+    "seal_number": "BL794924",
+    "container_type": "40'GP",
+    "cbm": 17.69
+  }
+}

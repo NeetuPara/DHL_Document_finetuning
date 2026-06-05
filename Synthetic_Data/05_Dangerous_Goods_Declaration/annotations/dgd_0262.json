@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0262",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "International Lucas Pte Ltd",
+    "shipper_address": "Unit 3002 Box 9062, DPO AA 04869, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Berry Global Corp.",
+    "consignee_address": "56859 Lori Loaf, Lisaville, MD 63677, Sweden",
+    "consignee_country": "Sweden",
+    "emergency_telephone": "+38 757-830-5782",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 32,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 40.48,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Erica Ford",
+    "signature_date": "2026-05-07",
+    "signature_place": "Thailand",
+    "awb_number": "045-71685522",
+    "flight_number": "DL4801",
+    "flight_date": "2026-05-09",
+    "departure_airport_code": "MIA",
+    "departure_airport_name": "Miami International",
+    "destination_airport_code": "SIN",
+    "destination_airport_name": "Singapore Changi"
+  }
+}

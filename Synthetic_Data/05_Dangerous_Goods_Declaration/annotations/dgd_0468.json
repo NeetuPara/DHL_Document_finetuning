@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0468",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Commerce Smith LLC",
+    "shipper_address": "631 Lopez Station, New Alexandra, RI 56744, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Trade Knapp AG",
+    "consignee_address": "719 Sharon Prairie, Jasonberg, MP 31549, India",
+    "consignee_country": "India",
+    "emergency_telephone": "+82 860-114-7152",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 46,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 14.24,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Kaitlin Cruz",
+    "signature_date": "2026-05-10",
+    "signature_place": "Italy",
+    "awb_number": "176-75109336",
+    "flight_number": "UA8265",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

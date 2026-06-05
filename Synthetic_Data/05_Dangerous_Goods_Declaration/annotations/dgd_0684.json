@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0684",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Lawson International Co.",
+    "shipper_address": "596 Paul Ville, Jacksonfort, KS 96270, Malaysia",
+    "shipper_country": "Malaysia",
+    "consignee_name": "Trade Brown Co.",
+    "consignee_address": "509 Jordan Ramp Apt. 089, Lammouth, ME 02767, Mexico",
+    "consignee_country": "Mexico",
+    "emergency_telephone": "+10 146-344-8857",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 16,
+        "pkg_type": "Steel Drum",
+        "net_qty": 51.39,
+        "qty_unit": "mL",
+        "packing_instruction": "Y344",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 9,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 64.55,
+        "qty_unit": "L",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Michael Johnson",
+    "signature_date": "2026-05-04",
+    "signature_place": "Malaysia",
+    "awb_number": "006-49473905",
+    "flight_number": "QR6823",
+    "departure_airport_code": "FRA",
+    "departure_airport_name": "Frankfurt Airport",
+    "destination_airport_code": "ICN",
+    "destination_airport_name": "Seoul Incheon",
+    "non_dg_reason": "Non-regulated chemical \u2014 not classified as DG per IATA/IMDG"
+  }
+}

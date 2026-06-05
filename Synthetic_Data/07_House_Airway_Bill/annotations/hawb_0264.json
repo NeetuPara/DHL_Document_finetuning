@@ -1,0 +1,76 @@
+{
+  "document_id": "hawb_0264",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "125-79523276",
+    "mawb_number": "085-56520878",
+    "shipper_name": "Tech Dixon AG",
+    "shipper_address": "783 Hughes Views Apt. 548, Burkeshire, NC 36828, Mexico",
+    "consignee_name": "Industry Pearson Corp.",
+    "consignee_address": "53821 Phillips Keys, Jefferybury, IN 14829, Malaysia",
+    "agent_name": "Jackson Tech Ltd",
+    "airport_departure": "FRA",
+    "airport_destination": "ORD",
+    "currency": "CNY",
+    "charge_code": "PP",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 49,
+    "gross_weight_kg": 205.1,
+    "chargeable_weight": 232.8,
+    "rate": 11.62,
+    "total_charge": 2705.14,
+    "nature_of_goods": "Optical Equipment - Camera Lenses",
+    "hs_code": "9002.11.00",
+    "handling_info": "HANDLING CODE: SUR",
+    "issue_date": "2026-04-08",
+    "signatory": "Diana Mendoza",
+    "iata_code": "93-582",
+    "agent_cass": "4973-1082",
+    "consolidation_ref": "CONS-0803-558955",
+    "sub_shipments": [
+      {
+        "hawb_ref": "006-80327706",
+        "pieces": 11,
+        "weight": 47.4,
+        "destination": "HKG",
+        "consignee": "Wilson Pacific LLC",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "125-63222663",
+        "pieces": 10,
+        "weight": 51.7,
+        "destination": "ICN",
+        "consignee": "Gonzales Industry Pte Ltd",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "618-16493765",
+        "pieces": 6,
+        "weight": 24.5,
+        "destination": "HKG",
+        "consignee": "International Chapman AG",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "125-57174499",
+        "pieces": 8,
+        "weight": 86.1,
+        "destination": "ORD",
+        "consignee": "Thomas Industry AG",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "176-59633011",
+        "pieces": 16,
+        "weight": 69.8,
+        "destination": "PVG",
+        "consignee": "International Ross Pte Ltd",
+        "description": "Steel Products - Hot Rolled Coils"
+      }
+    ]
+  }
+}

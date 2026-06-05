@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0871",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV559302211",
+    "shipper_name": "Trade Burke Pte Ltd",
+    "shipper_address": "658 Robert Hollow Suite 707, Lisaport, SC 17273, United Arab Emirates",
+    "shipper_country": "United Arab Emirates",
+    "consignee_name": "Lambert Global Pte Ltd",
+    "consignee_address": "41610 Burke Village Apt. 750, Harrisside, KS 36901, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party_name": "Ritter Trade GmbH",
+    "notify_party_address": "365 Jones View Apt. 989, Johnport, AK 44954, Italy",
+    "vessel": "MSC GULSUN",
+    "voyage": "513E",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Antwerp, BE",
+    "place_of_receipt": "Long Beach, US",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2026-04-08",
+    "issue_place": "Singapore",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "MKOJ4383612",
+        "seal_no": "SL720345",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "XYLQ9766157",
+        "seal_no": "BL425219",
+        "size_type": "40'GP"
+      },
+      {
+        "container_no": "OUAW5628416",
+        "seal_no": "CL654039",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "HODF3087359",
+        "seal_no": "BL295412",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 469,
+    "package_type": "Roll",
+    "gross_weight_kg": 7466.4,
+    "net_weight_kg": 6814.0,
+    "cbm": 26.846,
+    "marks_and_numbers": "ABC/44"
+  }
+}

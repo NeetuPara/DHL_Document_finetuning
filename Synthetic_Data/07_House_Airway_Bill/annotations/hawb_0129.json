@@ -1,0 +1,60 @@
+{
+  "document_id": "hawb_0129",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "074-35186689",
+    "mawb_number": "176-33728081",
+    "shipper_name": "Tech Frank Corp.",
+    "shipper_address": "USS Oneal, FPO AA 84186, Germany",
+    "consignee_name": "Porter Industry S.A.",
+    "consignee_address": "19733 Robert Turnpike Apt. 468, East Joseph, MS 91316, France",
+    "agent_name": "Tech Morgan LLC",
+    "airport_departure": "SYD",
+    "airport_destination": "CDG",
+    "currency": "AED",
+    "charge_code": "PP",
+    "declared_value_carriage": "JPY 14,502.29",
+    "declared_value_customs": "NCV",
+    "n_pieces": 25,
+    "gross_weight_kg": 35.6,
+    "chargeable_weight": 39.7,
+    "rate": 5.3,
+    "total_charge": 210.41,
+    "nature_of_goods": "Food Products - Processed Nuts and Seeds",
+    "hs_code": "2008.19.00",
+    "handling_info": "TEMP CONTROLLED: 3\u00b0C - 12\u00b0C",
+    "issue_date": "2026-04-24",
+    "signatory": "Brian Berger",
+    "iata_code": "09-857",
+    "agent_cass": "5034-8366",
+    "consolidation_ref": "CONS-8311-477372",
+    "sub_shipments": [
+      {
+        "hawb_ref": "176-95044920",
+        "pieces": 9,
+        "weight": 15.5,
+        "destination": "SYD",
+        "consignee": "Tech Suarez Inc.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "074-42857988",
+        "pieces": 10,
+        "weight": 97.0,
+        "destination": "ICN",
+        "consignee": "Parker Pacific Corp.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "618-93338709",
+        "pieces": 13,
+        "weight": 17.9,
+        "destination": "ORD",
+        "consignee": "Commerce Knox LLC",
+        "description": "Consumer Electronics - Wireless Ear"
+      }
+    ]
+  }
+}

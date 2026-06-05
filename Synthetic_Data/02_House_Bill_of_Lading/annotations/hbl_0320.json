@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0320",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU779455492",
+    "shipper_name": "International Thompson LLC",
+    "shipper_address": "4528 Rodriguez Alley Suite 749, Erikhaven, MN 33794, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Benson Industry Ltd",
+    "consignee_address": "PSC 6461, Box 8140, APO AA 82332, China",
+    "consignee_country": "China",
+    "notify_party_name": "Industry Day Ltd",
+    "notify_party_address": "795 Schmidt Valley, New Michelle, NH 75346, India",
+    "vessel": "PIL PACIFIC",
+    "voyage": "284S",
+    "port_of_loading": "Tokyo, JP",
+    "port_of_discharge": "Los Angeles, US",
+    "place_of_receipt": "Tokyo, JP",
+    "place_of_delivery": "Qingdao, CN",
+    "issue_date": "2025-11-07",
+    "issue_place": "Tokyo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 3,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "JGLZ5521001",
+        "seal_no": "BL427202",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "WPXZ6468195",
+        "seal_no": "SL793283",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "YXKZ1896043",
+        "seal_no": "BL242093",
+        "size_type": "45'HC"
+      }
+    ],
+    "description_of_goods": "Consumer Electronics - Wireless Earbuds",
+    "hs_code": "8518.30.00",
+    "number_of_packages": 25,
+    "package_type": "Case",
+    "gross_weight_kg": 5158.7,
+    "net_weight_kg": 4784.1,
+    "cbm": 2.059,
+    "marks_and_numbers": "ABC/6"
+  }
+}

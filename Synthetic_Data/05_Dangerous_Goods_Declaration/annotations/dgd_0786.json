@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0786",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Ford Global Inc.",
+    "shipper_address": "3755 Cooper Green Suite 103, Bernardfort, TX 80471, Canada",
+    "shipper_country": "Canada",
+    "consignee_name": "Barrera Industry Corp.",
+    "consignee_address": "09428 Fowler Creek Suite 617, Port Danbury, WA 87244, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "emergency_telephone": "+9 796-430-7805",
+    "dg_entries": [
+      {
+        "un_no": "UN3077",
+        "proper_name": "Environmentally hazardous substance, solid, n.o.s.",
+        "class": "9",
+        "packing_group": "III",
+        "n_packages": 40,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 28.44,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "N/A",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Misc / Marine Pollutant",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Corey Simmons",
+    "signature_date": "2026-05-06",
+    "signature_place": "Canada",
+    "awb_number": "057-29685194",
+    "flight_number": "UA5391",
+    "departure_airport_code": "ICN",
+    "departure_airport_name": "Seoul Incheon",
+    "destination_airport_code": "DXB",
+    "destination_airport_name": "Dubai International",
+    "non_dg_reason": "Lithium Ion Batteries \u2014 Section II (PI 967/Section II)"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "document_id": "hawb_0456",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-94638035",
+    "mawb_number": "074-19724607",
+    "shipper_name": "Industry Peterson Pte Ltd",
+    "shipper_address": "10490 Matthew Meadow Apt. 651, Priceside, MH 24092, China",
+    "consignee_name": "White Pacific Ltd",
+    "consignee_address": "581 Maria Coves, Amyborough, NY 21217, Japan",
+    "agent_name": "Global Poole Ltd",
+    "airport_departure": "HKG",
+    "airport_destination": "MIA",
+    "currency": "CAD",
+    "charge_code": "CC",
+    "declared_value_carriage": "CAD 19,260.41",
+    "declared_value_customs": "AUD 9,081.99",
+    "n_pieces": 34,
+    "gross_weight_kg": 349.8,
+    "chargeable_weight": 427.7,
+    "rate": 7.6,
+    "total_charge": 3250.52,
+    "nature_of_goods": "Textile Fabrics - Woven Polyester",
+    "hs_code": "5407.42.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2025-12-01",
+    "signatory": "Briana Oconnor",
+    "iata_code": "84-532",
+    "agent_cass": "8240-5585",
+    "consolidation_ref": "CONS-8291-542832",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-78851399",
+        "pieces": 10,
+        "weight": 95.0,
+        "destination": "ORD",
+        "consignee": "Tech Choi S.A.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "160-96757693",
+        "pieces": 5,
+        "weight": 15.6,
+        "destination": "NRT",
+        "consignee": "Johnson Tech Co.",
+        "description": "Plastic Products - Injection Moulde"
+      },
+      {
+        "hawb_ref": "618-34303084",
+        "pieces": 7,
+        "weight": 83.6,
+        "destination": "ICN",
+        "consignee": "Berger Commerce Inc.",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "057-19450716",
+        "pieces": 13,
+        "weight": 2.6,
+        "destination": "MIA",
+        "consignee": "Rodriguez Trade LLC",
+        "description": "Wooden Furniture - Office Chairs"
+      }
+    ]
+  }
+}

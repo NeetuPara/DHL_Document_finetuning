@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0041",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20230704525776",
+    "export_date": "2025-08-02",
+    "aes_option": "AES Filing",
+    "usppi_name": "Vaughn International LLC",
+    "usppi_ein": "83-1087959",
+    "usppi_address": "836 Reyes Street Suite 995, Vanessaburgh, PA 45238, Japan",
+    "ultimate_consignee": "Global Rivers GmbH",
+    "intermediate_consignee": "Beck Industry Co.",
+    "forwarding_agent": "Jones Trade Ltd",
+    "destination_country": "Belgium",
+    "carrier": "Maersk",
+    "bl_awb": "125-78870029",
+    "total_value": 521867.47,
+    "currency": "USD",
+    "signatory": "Christopher Hernandez",
+    "line_items": [
+      {
+        "hts_no": "8708.30.00",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "country_of_origin": "Brazil",
+        "qty": 95,
+        "unit": "SET",
+        "entered_value": 42330.1,
+        "duty_rate": 4.1,
+        "duty_amount": 1735.53,
+        "eccn": "EAR99",
+        "schedule_b": "8708.30.00",
+        "export_reason": "BIS - Bureau of Industry"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Italy",
+        "qty": 475,
+        "unit": "KGS",
+        "entered_value": 142751.75,
+        "duty_rate": 2.6,
+        "duty_amount": 3711.55,
+        "eccn": "EAR99",
+        "schedule_b": "2008.19.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2936.90.00",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "country_of_origin": "Singapore",
+        "qty": 413,
+        "unit": "BOX",
+        "entered_value": 185536.12,
+        "duty_rate": 8.2,
+        "duty_amount": 15213.96,
+        "eccn": "9A515",
+        "schedule_b": "2936.90.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "3926.90.00",
+        "description": "Plastic Products - Injection Moulded Components",
+        "country_of_origin": "India",
+        "qty": 366,
+        "unit": "PCS",
+        "entered_value": 151249.5,
+        "duty_rate": 14.6,
+        "duty_amount": 22082.43,
+        "eccn": "2B350",
+        "schedule_b": "3926.90.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

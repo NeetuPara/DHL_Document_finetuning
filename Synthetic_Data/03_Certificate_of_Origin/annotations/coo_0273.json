@@ -1,0 +1,42 @@
+{
+  "document_id": "coo_0273",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202201-9955",
+    "exporter_name": "Butler Tech B.V.",
+    "exporter_address": "211 Allen Trail Apt. 012, South Christopher, WY 18879, United Kingdom",
+    "exporter_country": "United Kingdom",
+    "consignee_name": "Macias Commerce Inc.",
+    "consignee_address": "376 Matthew Fort Suite 900, Carolynberg, VI 16378, Canada",
+    "consignee_country": "Canada",
+    "country_of_origin": "United Kingdom",
+    "country_of_destination": "Canada",
+    "bl_or_awb": "045-69027479",
+    "issue_date": "2025-10-25",
+    "certifier_name": "Richard Barnes",
+    "goods": [
+      {
+        "description": "Automotive Spare Parts - Brake Pads",
+        "hs_code": "8708.30.00",
+        "qty": 155,
+        "unit": "SET",
+        "weight_kg": 497.19,
+        "origin_criterion": "B",
+        "value": 20861.32
+      },
+      {
+        "description": "Electronic Components - Printed Circuit Boards",
+        "hs_code": "8534.00.00",
+        "qty": 492,
+        "unit": "PCS",
+        "weight_kg": 201.03,
+        "origin_criterion": "E",
+        "value": 112308.87
+      }
+    ],
+    "fta_agreement": "EU-Canada CETA",
+    "chamber": "Board of Trade"
+  }
+}

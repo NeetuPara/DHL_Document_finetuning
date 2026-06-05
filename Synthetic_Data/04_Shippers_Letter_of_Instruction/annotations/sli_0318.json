@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0318",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202402-9545",
+    "usppi_name": "Mayo Global LLC",
+    "usppi_address": "9219 Sanchez Manors Apt. 108, Armstrongbury, VA 19656, Singapore",
+    "usppi_country": "Singapore",
+    "ein": "32-8486907",
+    "consignee_name": "Industry Olson LLC",
+    "consignee_address": "Unit 9544 Box 0918, DPO AE 35685, France",
+    "consignee_country": "France",
+    "notify_party": "Jones International Pte Ltd",
+    "forwarder": "DHL Global Forwarding",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "EAR99",
+    "signatory_name": "Tara Garcia",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "SLI/15",
+        "description": "Plastic Products - Injection Moulded Components",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 73,
+        "unit": "PCS",
+        "weight_kg": 24.1,
+        "value_usd": 964.31
+      },
+      {
+        "marks": "EXP/42",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9018.31.0000",
+        "dom_for": "D",
+        "qty": 109,
+        "unit": "BOX",
+        "weight_kg": 117.97,
+        "value_usd": 9159.29
+      },
+      {
+        "marks": "SLI/1",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "3926.90.9995",
+        "dom_for": "F",
+        "qty": 109,
+        "unit": "KGS",
+        "weight_kg": 109.0,
+        "value_usd": 2284.89
+      }
+    ],
+    "total_weight_kg": 251.07,
+    "total_value_usd": 12408.49,
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "648N",
+    "booking_ref": "BKG-724731",
+    "bl_number": "OOLU689810831",
+    "port_of_loading": "Busan, KR",
+    "port_of_discharge": "Hamburg, DE",
+    "container_number": "PBHL2299965",
+    "seal_number": "SL100599",
+    "container_type": "40'GP",
+    "cbm": 10.43
+  }
+}

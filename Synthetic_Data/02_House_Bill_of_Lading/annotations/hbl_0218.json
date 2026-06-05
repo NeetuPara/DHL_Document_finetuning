@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0218",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU196634812",
+    "shipper_name": "Global Ward Inc.",
+    "shipper_address": "84800 Brandon Divide Suite 655, Jasminebury, MD 93876, United States",
+    "shipper_country": "United States",
+    "consignee_name": "Industry Gonzalez Corp.",
+    "consignee_address": "57990 Andrew Street, Staceytown, HI 43260, Switzerland",
+    "consignee_country": "Switzerland",
+    "notify_party_name": "International Jones Corp.",
+    "notify_party_address": "172 Jeffrey Stream, East Kelsey, AK 89272, United Kingdom",
+    "vessel": "CSCL GLOBE",
+    "voyage": "668N",
+    "port_of_loading": "Colombo, LK",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2026-01-08",
+    "issue_place": "Colombo",
+    "freight_terms": "COLLECT",
+    "originals_issued": 2,
+    "incoterm": "CPT",
+    "containers": [
+      {
+        "container_no": "IWOL9773314",
+        "seal_no": "BL994876",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "DDOA1236482",
+        "seal_no": "SL209991",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "VRVU8624320",
+        "seal_no": "SL178132",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "XOJJ6404140",
+        "seal_no": "CL377840",
+        "size_type": "40'OT"
+      }
+    ],
+    "description_of_goods": "Medical Devices - Disposable Syringes",
+    "hs_code": "9018.31.00",
+    "number_of_packages": 464,
+    "package_type": "Pallet",
+    "gross_weight_kg": 8396.6,
+    "net_weight_kg": 7989.4,
+    "cbm": 28.478,
+    "marks_and_numbers": "XYZ/15"
+  }
+}

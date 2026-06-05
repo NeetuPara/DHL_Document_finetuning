@@ -1,0 +1,59 @@
+{
+  "document_id": "cn23_0519",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Matthew Clark",
+    "addressee_company": "Martin Commerce S.A.",
+    "addressee_address": "30863 Baker Corners, Wrightside, TX 21165, Singapore",
+    "addressee_country": "Singapore",
+    "total_weight_kg": 11.054,
+    "total_value": 3039.04,
+    "currency": "GBP",
+    "issue_date": "2026-04-29",
+    "reference": "REF-364822",
+    "line_items": [
+      {
+        "qty": 13,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.362,
+        "value": 920.14,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 2,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 0.826,
+        "value": 88.6,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 10,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 4.516,
+        "value": 437.7,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 20,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 3.35,
+        "value": 1592.6,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "China"
+      }
+    ],
+    "sender_country": "France",
+    "port_of_entry": "Houston, TX",
+    "entry_number": "451-43052682-7",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 13.0,
+    "estimated_duty": 395.08,
+    "importer_ein": "28-8032536",
+    "customs_broker": "Tech Zimmerman Corp."
+  }
+}

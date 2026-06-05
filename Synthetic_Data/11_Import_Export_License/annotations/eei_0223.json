@@ -1,0 +1,54 @@
+{
+  "document_id": "eei_0223",
+  "document_class": "Import Export License",
+  "format_variant": "CBP-Entry-Summary-7501",
+  "class_index": 11,
+  "fields": {
+    "entry_number": "315-22885268-2",
+    "entry_type": "03 - Consumption - Quota",
+    "entry_date": "2026-01-19",
+    "port_of_entry": "SFO - San Francisco",
+    "transport_mode": "Air",
+    "carrier": "Lufthansa Cargo",
+    "bl_awb": "085-67258384",
+    "importer_name": "Trade Sanders Inc.",
+    "importer_ein": "27-6503588",
+    "consignee_name": "Sharp Global Co.",
+    "customs_broker": "Leonard Tech Pte Ltd",
+    "broker_filer_code": "bQs",
+    "country_of_origin": "Malaysia",
+    "total_value": 303356.74,
+    "total_duty": 46791.43,
+    "currency": "SGD",
+    "signatory": "Raymond Johnston",
+    "signatory_title": "Trade Finance Manager",
+    "line_items": [
+      {
+        "hts_no": "8518.30.00",
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "country_of_origin": "Sweden",
+        "qty": 344,
+        "unit": "PCS",
+        "entered_value": 167686.24,
+        "duty_rate": 9.7,
+        "duty_amount": 16265.57,
+        "eccn": "EAR99",
+        "schedule_b": "8518.30.00",
+        "export_reason": "GBS - License Exception"
+      },
+      {
+        "hts_no": "2008.19.00",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "country_of_origin": "Japan",
+        "qty": 365,
+        "unit": "KGS",
+        "entered_value": 135670.5,
+        "duty_rate": 22.5,
+        "duty_amount": 30525.86,
+        "eccn": "1A002",
+        "schedule_b": "2008.19.00",
+        "export_reason": "GBS - License Exception"
+      }
+    ]
+  }
+}

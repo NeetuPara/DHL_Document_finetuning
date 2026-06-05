@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0808",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU935830349",
+    "shipper_name": "Global Andrade S.A.",
+    "shipper_address": "4518 Griffin Haven Apt. 284, North Lisahaven, OK 73377, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Stone Tech Corp.",
+    "consignee_address": "57767 Brenda Cape, Merrittmouth, AL 45615, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party_name": "Lopez Trade Inc.",
+    "notify_party_address": "5203 White Highway Apt. 575, West Richard, MA 75918, Poland",
+    "vessel": "MSC GULSUN",
+    "voyage": "530S",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Singapore, SG",
+    "place_of_receipt": "Tanjung Pelepas, MY",
+    "place_of_delivery": "Singapore, SG",
+    "issue_date": "2024-06-12",
+    "issue_place": "Shanghai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "FAS",
+    "containers": [
+      {
+        "container_no": "HNTU1452735",
+        "seal_no": "SL546545",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "YUAI6155667",
+        "seal_no": "CL782968",
+        "size_type": "20'GP"
+      },
+      {
+        "container_no": "BXIM6263813",
+        "seal_no": "CL327096",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "URUD0326355",
+        "seal_no": "CL371375",
+        "size_type": "20'RF"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 385,
+    "package_type": "Pallet",
+    "gross_weight_kg": 22793.1,
+    "net_weight_kg": 21259.5,
+    "cbm": 41.674,
+    "marks_and_numbers": "XYZ/2"
+  }
+}

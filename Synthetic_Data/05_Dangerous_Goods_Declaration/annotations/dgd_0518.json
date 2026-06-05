@@ -1,0 +1,60 @@
+{
+  "document_id": "dgd_0518",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Scott Commerce Co.",
+    "shipper_address": "5127 Danielle Center Suite 969, Michaelshire, VT 58792, Mexico",
+    "shipper_country": "Mexico",
+    "consignee_name": "Tech Roberts B.V.",
+    "consignee_address": "36522 Mary Square, Claytonchester, AK 55206, Japan",
+    "consignee_country": "Japan",
+    "emergency_telephone": "+27 152-814-2996",
+    "dg_entries": [
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 43,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 4.74,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-962631",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 2,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 70.52,
+        "qty_unit": "g",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Nicole Cruz",
+    "signature_date": "2026-04-25",
+    "signature_place": "Mexico",
+    "vessel": "HMM ALGECIRAS",
+    "voyage": "313N",
+    "port_of_loading": "Shanghai, CN",
+    "port_of_discharge": "Tanjung Pelepas, MY"
+  }
+}

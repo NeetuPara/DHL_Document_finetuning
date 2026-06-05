@@ -1,0 +1,46 @@
+{
+  "document_id": "cn23_0019",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Veronica Smith MD",
+    "addressee_company": "Pacific Callahan Pte Ltd",
+    "addressee_address": "757 Timothy Shoals, Heathermouth, MN 94055, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 5.788,
+    "total_value": 220.99,
+    "currency": "CHF",
+    "issue_date": "2026-03-10",
+    "reference": "REF-710282",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 2.167,
+        "value": 31.75,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 2,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.621,
+        "value": 189.24,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Italy"
+      }
+    ],
+    "sender_name": "Kevin Kelly",
+    "sender_company": "Commerce Brown Corp.",
+    "sender_address": "2358 Jeff Divide, Travisview, DC 39749, United Arab Emirates",
+    "sender_phone": "+1-270-601-7462x7671",
+    "sender_email": "millsamber@example.com",
+    "addressee_phone": "(957)843-8112",
+    "category": "Other",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 68.47,
+    "tracking_number": "GJ558790334DW"
+  }
+}

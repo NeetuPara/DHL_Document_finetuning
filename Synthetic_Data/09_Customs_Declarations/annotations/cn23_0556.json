@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0556",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jacob Jackson",
+    "addressee_company": "International Sanders Corp.",
+    "addressee_address": "257 Laura Estate Suite 135, New Shawn, AZ 53607, Italy",
+    "addressee_country": "Italy",
+    "total_weight_kg": 16.876,
+    "total_value": 4131.13,
+    "currency": "CAD",
+    "issue_date": "2025-08-11",
+    "reference": "REF-331439",
+    "line_items": [
+      {
+        "qty": 1,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 4.809,
+        "value": 78.28,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 17,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 2.853,
+        "value": 2488.29,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 4,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 2.498,
+        "value": 191.32,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "United States"
+      },
+      {
+        "qty": 17,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.323,
+        "value": 1200.2,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 6,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.393,
+        "value": 173.04,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_name": "Juan Davis",
+    "sender_company": "Pacific Smith LLC",
+    "sender_address": "16441 Walters Courts, Kevintown, UT 48896, China",
+    "sender_phone": "401.453.7849",
+    "sender_email": "emily14@example.net",
+    "addressee_phone": "001-916-659-5515x6990",
+    "category": "Commercial Sample",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 23.81,
+    "tracking_number": "TZ944624834MQ"
+  }
+}

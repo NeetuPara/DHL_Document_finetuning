@@ -1,0 +1,74 @@
+{
+  "document_id": "sli_0047",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202402-2645",
+    "usppi_name": "Hancock International Inc.",
+    "usppi_address": "518 Greg Via Apt. 391, Jennifermouth, GU 26643, Switzerland",
+    "usppi_country": "Switzerland",
+    "ein": "79-8151944",
+    "consignee_name": "Commerce Mckee Corp.",
+    "consignee_address": "83898 Rivera Drives Apt. 787, Michelleville, MT 34913, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party": "Ellis Commerce Ltd",
+    "forwarder": "Expeditors",
+    "incoterm": "FAS",
+    "dangerous_goods": true,
+    "payment_terms": "Prepaid",
+    "eccn": "7A994",
+    "signatory_name": "Erica Zimmerman MD",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/12",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 157,
+        "unit": "SET",
+        "weight_kg": 610.66,
+        "value_usd": 5717.49
+      },
+      {
+        "marks": "SLI/27",
+        "description": "Optical Equipment - Camera Lenses",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 169,
+        "unit": "PCS",
+        "weight_kg": 46.39,
+        "value_usd": 78899.27
+      },
+      {
+        "marks": "EXP/43",
+        "description": "Paper Products - Packaging Cartons",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D",
+        "qty": 94,
+        "unit": "CTN",
+        "weight_kg": 140.63,
+        "value_usd": 1291.72
+      },
+      {
+        "marks": "SLI/23",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 103,
+        "unit": "BOX",
+        "weight_kg": 65.95,
+        "value_usd": 10622.6
+      }
+    ],
+    "total_weight_kg": 863.63,
+    "total_value_usd": 96531.08,
+    "service": "Air Freight",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 12474.17,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Mexico"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "document_id": "hbl_0331",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU861788665",
+    "shipper_name": "Wright Pacific Corp.",
+    "shipper_address": "5932 Todd Glen Suite 444, Lake Thomas, AK 95604, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Huffman Pacific B.V.",
+    "consignee_address": "015 Hill Fords, West Corey, AZ 24149, Australia",
+    "consignee_country": "Australia",
+    "notify_party_name": "Williams International Pte Ltd",
+    "notify_party_address": "8089 Chang Wall Suite 903, New Pamela, WA 53902, Germany",
+    "vessel": "OOCL HONG KONG",
+    "voyage": "540N",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Tokyo, JP",
+    "place_of_receipt": "Hamburg, DE",
+    "place_of_delivery": "Tokyo, JP",
+    "issue_date": "2024-08-17",
+    "issue_place": "New York",
+    "freight_terms": "COLLECT",
+    "originals_issued": 1,
+    "incoterm": "CIP",
+    "containers": [
+      {
+        "container_no": "JHNM1038585",
+        "seal_no": "BL283956",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "WMEQ3130647",
+        "seal_no": "SL712210",
+        "size_type": "40'HC"
+      }
+    ],
+    "description_of_goods": "Plastic Products - Injection Moulded Components",
+    "hs_code": "3926.90.00",
+    "number_of_packages": 311,
+    "package_type": "Roll",
+    "gross_weight_kg": 3661.7,
+    "net_weight_kg": 3406.8,
+    "cbm": 13.116,
+    "marks_and_numbers": "XYZ/47"
+  }
+}

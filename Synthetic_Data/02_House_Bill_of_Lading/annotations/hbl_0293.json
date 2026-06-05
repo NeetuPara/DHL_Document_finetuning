@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0293",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV831529249",
+    "shipper_name": "Robinson Tech Co.",
+    "shipper_address": "428 Jay Route Apt. 741, East Kenneth, WV 06778, Poland",
+    "shipper_country": "Poland",
+    "consignee_name": "International Townsend GmbH",
+    "consignee_address": "81263 Hood Pine Suite 847, Lake Derekstad, RI 96640, Italy",
+    "consignee_country": "Italy",
+    "notify_party_name": "Commerce Foster Pte Ltd",
+    "notify_party_address": "59965 Yolanda Lodge Suite 759, North David, KY 61429, United States",
+    "vessel": "MSC GULSUN",
+    "voyage": "422W",
+    "port_of_loading": "New York, US",
+    "port_of_discharge": "Busan, KR",
+    "place_of_receipt": "New York, US",
+    "place_of_delivery": "Busan, KR",
+    "issue_date": "2025-12-03",
+    "issue_place": "New York",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "DPU",
+    "containers": [
+      {
+        "container_no": "HBKH5150121",
+        "seal_no": "SL525046",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "XTHO3392489",
+        "seal_no": "BL122468",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "SKST8419432",
+        "seal_no": "SL524992",
+        "size_type": "45'HC"
+      },
+      {
+        "container_no": "XMDP8533183",
+        "seal_no": "SL484986",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "number_of_packages": 75,
+    "package_type": "Pallet",
+    "gross_weight_kg": 12788.0,
+    "net_weight_kg": 12366.9,
+    "cbm": 5.402,
+    "marks_and_numbers": "ABC/41"
+  }
+}

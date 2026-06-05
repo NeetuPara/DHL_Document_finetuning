@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0047",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Albert Taylor",
+    "addressee_company": "Tech Reynolds S.A.",
+    "addressee_address": "6317 Lyons Tunnel, Port Georgehaven, AR 23732, Sweden",
+    "addressee_country": "Sweden",
+    "total_weight_kg": 10.637,
+    "total_value": 2342.3,
+    "currency": "CNY",
+    "issue_date": "2026-01-31",
+    "reference": "REF-518127",
+    "line_items": [
+      {
+        "qty": 7,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.181,
+        "value": 441.0,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 17,
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "weight_kg": 4.922,
+        "value": 1115.54,
+        "hs_code": "8518.30.00",
+        "country_of_origin": "Japan"
+      },
+      {
+        "qty": 16,
+        "description": "Automotive Spare Parts - Brake Pads",
+        "weight_kg": 4.534,
+        "value": 785.76,
+        "hs_code": "8708.30.00",
+        "country_of_origin": "Germany"
+      }
+    ],
+    "sender_name": "Lawrence Lee",
+    "sender_company": "Pacific Terry Inc.",
+    "sender_address": "387 Horn Locks, Luisburgh, PA 84580, Mexico",
+    "category": "Gift",
+    "insured": true,
+    "insured_amount": 2576.53,
+    "postal_charges": 12.5,
+    "tracking_number": "ME215813859JG"
+  }
+}

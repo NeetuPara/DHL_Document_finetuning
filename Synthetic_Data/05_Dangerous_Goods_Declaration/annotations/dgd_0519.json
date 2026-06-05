@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0519",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Mitchell Pacific Co.",
+    "shipper_address": "339 Pam Parkway Apt. 214, Johnsonside, IA 83097, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Mills Industry S.A.",
+    "consignee_address": "1918 William Land Suite 013, Riggstown, ND 07300, Germany",
+    "consignee_country": "Germany",
+    "emergency_telephone": "+68 753-337-2549",
+    "dg_entries": [
+      {
+        "un_no": "UN2794",
+        "proper_name": "Batteries, wet, filled with acid",
+        "class": "8",
+        "packing_group": "N/A",
+        "n_packages": 33,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 26.11,
+        "qty_unit": "L",
+        "packing_instruction": "Y820",
+        "auth_no": "N/A",
+        "special_provision": "SP207",
+        "hazard_label": "Corrosive",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-B",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN2315",
+        "proper_name": "Polychlorinated biphenyls (liquid)",
+        "class": "9",
+        "packing_group": "II",
+        "n_packages": 26,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 91.97,
+        "qty_unit": "kg",
+        "packing_instruction": "Y956",
+        "auth_no": "CA-596033",
+        "special_provision": "SP274",
+        "hazard_label": "Class 9 Miscellaneous",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-A, S-F",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jamie Hicks",
+    "signature_date": "2026-04-21",
+    "signature_place": "Singapore",
+    "awb_number": "020-66410122",
+    "flight_number": "DL2367",
+    "departure_airport_code": "DXB",
+    "departure_airport_name": "Dubai International",
+    "destination_airport_code": "JFK",
+    "destination_airport_name": "JFK New York",
+    "non_dg_reason": "Lithium Metal Batteries \u2014 Section II (PI 970/Section II)"
+  }
+}

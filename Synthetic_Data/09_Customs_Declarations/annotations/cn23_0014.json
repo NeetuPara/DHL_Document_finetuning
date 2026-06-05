@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0014",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Kimberly Castaneda",
+    "addressee_company": "Davis International Pte Ltd",
+    "addressee_address": "318 Jacobs Ways Suite 394, Davisland, MD 25716, Canada",
+    "addressee_country": "Canada",
+    "total_weight_kg": 8.743,
+    "total_value": 2812.83,
+    "currency": "AUD",
+    "issue_date": "2026-02-10",
+    "reference": "REF-541886",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 4.165,
+        "value": 583.14,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 5,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 0.929,
+        "value": 268.85,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Italy"
+      },
+      {
+        "qty": 14,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 3.649,
+        "value": 1960.84,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "Japan"
+      }
+    ],
+    "sender_name": "William Carpenter",
+    "sender_company": "Sandoval Commerce S.A.",
+    "sender_address": "213 Brown Terrace, North Elizabeth, RI 35417, Spain",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 3094.11,
+    "postal_charges": 67.21,
+    "tracking_number": "GQ439185243UX"
+  }
+}

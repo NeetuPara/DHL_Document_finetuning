@@ -1,0 +1,43 @@
+{
+  "document_id": "cn23_0635",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN22-Small-Parcel-Form",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Madison Stevens",
+    "addressee_company": "Garner Pacific B.V.",
+    "addressee_address": "34314 Stephanie Trail Suite 996, Hunterborough, TN 95477, India",
+    "addressee_country": "India",
+    "total_weight_kg": 5.149,
+    "total_value": 1474.42,
+    "currency": "CHF",
+    "issue_date": "2026-02-11",
+    "reference": "REF-346360",
+    "line_items": [
+      {
+        "qty": 11,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 1.754,
+        "value": 1431.76,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 9,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.395,
+        "value": 42.66,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Belgium"
+      }
+    ],
+    "sender_name": "Alexandra Little",
+    "sender_company": "Trade Robinson AG",
+    "sender_address": "0381 Christina Shores, South Jonathanside, CA 74290, South Korea",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 65.92,
+    "tracking_number": "RP667780018XW"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "document_id": "sli_0247",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "DHL-US-SLI-Full-Form",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202309-6964",
+    "usppi_name": "Gomez Tech Inc.",
+    "usppi_address": "6478 Weaver Squares, Brianport, MD 47008, Canada",
+    "usppi_country": "Canada",
+    "ein": "60-5309025",
+    "consignee_name": "Lee Trade Co.",
+    "consignee_address": "953 Elizabeth Highway Suite 140, North Jeffreyburgh, WI 25528, South Korea",
+    "consignee_country": "South Korea",
+    "notify_party": "Tech Payne Inc.",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "DPU",
+    "dangerous_goods": false,
+    "payment_terms": "Collect",
+    "eccn": "9A515",
+    "signatory_name": "Glenn Nelson",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "SLI/4",
+        "description": "Chemical Compounds - Industrial Solvents",
+        "schedule_b": "8483.40.5010",
+        "dom_for": "D/F",
+        "qty": 129,
+        "unit": "LTR",
+        "weight_kg": 119.27,
+        "value_usd": 4434.24
+      },
+      {
+        "marks": "EXP/38",
+        "description": "Food Products - Processed Nuts and Seeds",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "D",
+        "qty": 153,
+        "unit": "KGS",
+        "weight_kg": 153.0,
+        "value_usd": 1933.7
+      },
+      {
+        "marks": "SLI/36",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9401.30.8040",
+        "dom_for": "F",
+        "qty": 44,
+        "unit": "BOX",
+        "weight_kg": 76.56,
+        "value_usd": 1932.42
+      },
+      {
+        "marks": "ABC/15",
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "schedule_b": "8518.30.2000",
+        "dom_for": "D/F",
+        "qty": 46,
+        "unit": "PCS",
+        "weight_kg": 234.16,
+        "value_usd": 8472.81
+      },
+      {
+        "marks": "SLI/31",
+        "description": "Automotive Spare Parts - Brake Pads",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "D",
+        "qty": 63,
+        "unit": "SET",
+        "weight_kg": 80.93,
+        "value_usd": 4276.3
+      }
+    ],
+    "total_weight_kg": 663.92,
+    "total_value_usd": 21049.47,
+    "service": "Air Freight",
+    "named_port": "Los Angeles International",
+    "insurance_value_usd": 3792.01,
+    "license_type": "Distributor License",
+    "license_number": "LIC-310530",
+    "destination_country": "South Korea"
+  }
+}

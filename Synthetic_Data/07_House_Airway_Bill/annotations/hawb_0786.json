@@ -1,0 +1,84 @@
+{
+  "document_id": "hawb_0786",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "618-72885029",
+    "mawb_number": "074-40653000",
+    "shipper_name": "Commerce Fuentes LLC",
+    "shipper_address": "70793 Lisa Drive Apt. 932, New Coryfort, GA 18797, Hong Kong",
+    "consignee_name": "Commerce Warren Co.",
+    "consignee_address": "1800 Carter Plain Suite 447, Jeffreyfurt, VT 34858, Sweden",
+    "agent_name": "Commerce Barber Co.",
+    "airport_departure": "ICN",
+    "airport_destination": "DXB",
+    "currency": "EUR",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "AUD 49,787.81",
+    "n_pieces": 50,
+    "gross_weight_kg": 241.9,
+    "chargeable_weight": 272.1,
+    "rate": 6.2,
+    "total_charge": 1687.02,
+    "nature_of_goods": "Paper Products - Packaging Cartons",
+    "hs_code": "4819.10.00",
+    "handling_info": "NO SPECIAL HANDLING REQUIRED",
+    "issue_date": "2026-02-03",
+    "signatory": "Amber Davis",
+    "iata_code": "66-496",
+    "agent_cass": "4461-4621",
+    "consolidation_ref": "CONS-5075-359223",
+    "sub_shipments": [
+      {
+        "hawb_ref": "074-16599616",
+        "pieces": 19,
+        "weight": 20.2,
+        "destination": "LAX",
+        "consignee": "Tech Taylor B.V.",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "057-87040551",
+        "pieces": 16,
+        "weight": 82.9,
+        "destination": "HKG",
+        "consignee": "Trade Stokes Pte Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "074-32351957",
+        "pieces": 6,
+        "weight": 39.8,
+        "destination": "HKG",
+        "consignee": "Global Carter AG",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "006-17579979",
+        "pieces": 2,
+        "weight": 83.5,
+        "destination": "DXB",
+        "consignee": "International Parker S.A.",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "618-21611503",
+        "pieces": 1,
+        "weight": 26.1,
+        "destination": "YYZ",
+        "consignee": "Trade Chung Ltd",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "020-76030011",
+        "pieces": 19,
+        "weight": 13.1,
+        "destination": "ORD",
+        "consignee": "Martin Pacific GmbH",
+        "description": "Rubber Goods - Industrial Seals and"
+      }
+    ]
+  }
+}

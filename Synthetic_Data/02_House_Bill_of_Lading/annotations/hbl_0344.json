@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0344",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "OOLU626181225",
+    "shipper_name": "Webb Tech Co.",
+    "shipper_address": "05076 Tran Grove, Zacharyville, AK 82098, Thailand",
+    "shipper_country": "Thailand",
+    "consignee_name": "Johnston International AG",
+    "consignee_address": "PSC 0883, Box 0699, APO AP 09983, Sweden",
+    "consignee_country": "Sweden",
+    "notify_party_name": "Becker Industry Corp.",
+    "notify_party_address": "32658 James Plains Apt. 449, Lake Amybury, VT 14982, Spain",
+    "vessel": "MSC OSCAR",
+    "voyage": "852W",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "New York, US",
+    "place_of_receipt": "Hong Kong, HK",
+    "place_of_delivery": "Antwerp, BE",
+    "issue_date": "2025-08-25",
+    "issue_place": "Dubai",
+    "freight_terms": "PREPAID",
+    "originals_issued": 1,
+    "incoterm": "EXW",
+    "containers": [
+      {
+        "container_no": "MTCS2462431",
+        "seal_no": "CL395877",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "TVWA9498475",
+        "seal_no": "SL223622",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "JORV9370904",
+        "seal_no": "SL517067",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "DXXG6449548",
+        "seal_no": "BL900832",
+        "size_type": "20'GP"
+      }
+    ],
+    "description_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "number_of_packages": 488,
+    "package_type": "Pallet",
+    "gross_weight_kg": 14075.3,
+    "net_weight_kg": 13016.9,
+    "cbm": 28.704,
+    "marks_and_numbers": "GLB/23"
+  }
+}

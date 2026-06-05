@@ -1,0 +1,100 @@
+{
+  "document_id": "hawb_0234",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-19718693",
+    "mawb_number": "176-69252999",
+    "shipper_name": "Global Sullivan AG",
+    "shipper_address": "612 Smith Spring Suite 290, South Gregstad, NJ 21601, Spain",
+    "consignee_name": "Sparks Pacific AG",
+    "consignee_address": "380 Michele Vista, Kaylamouth, MN 68606, Malaysia",
+    "agent_name": "Commerce Arellano Corp.",
+    "airport_departure": "MIA",
+    "airport_destination": "NRT",
+    "currency": "AED",
+    "charge_code": "CC",
+    "declared_value_carriage": "NVD",
+    "declared_value_customs": "NCV",
+    "n_pieces": 3,
+    "gross_weight_kg": 298.0,
+    "chargeable_weight": 333.1,
+    "rate": 4.07,
+    "total_charge": 1355.72,
+    "nature_of_goods": "Industrial Machinery Parts - Steel Gears",
+    "hs_code": "8483.40.00",
+    "handling_info": "TEMP CONTROLLED: 7\u00b0C - 20\u00b0C",
+    "issue_date": "2025-12-09",
+    "signatory": "Tiffany Smith",
+    "iata_code": "01-130",
+    "agent_cass": "2987-4849",
+    "consolidation_ref": "CONS-5852-701163",
+    "sub_shipments": [
+      {
+        "hawb_ref": "020-10613810",
+        "pieces": 12,
+        "weight": 52.0,
+        "destination": "YYZ",
+        "consignee": "Commerce Vincent Ltd",
+        "description": "Food Products - Processed Nuts and "
+      },
+      {
+        "hawb_ref": "074-38941114",
+        "pieces": 3,
+        "weight": 63.3,
+        "destination": "ICN",
+        "consignee": "Commerce Flores GmbH",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "045-41701384",
+        "pieces": 8,
+        "weight": 97.3,
+        "destination": "ORD",
+        "consignee": "Pacific Chaney AG",
+        "description": "Consumer Electronics - Wireless Ear"
+      },
+      {
+        "hawb_ref": "618-71760121",
+        "pieces": 16,
+        "weight": 59.2,
+        "destination": "ICN",
+        "consignee": "Global Roth Ltd",
+        "description": "Industrial Machinery Parts - Steel "
+      },
+      {
+        "hawb_ref": "057-48835891",
+        "pieces": 15,
+        "weight": 25.2,
+        "destination": "YYZ",
+        "consignee": "Todd International Inc.",
+        "description": "Electronic Components - Printed Cir"
+      },
+      {
+        "hawb_ref": "125-68455465",
+        "pieces": 18,
+        "weight": 83.3,
+        "destination": "SYD",
+        "consignee": "Howard Commerce B.V.",
+        "description": "Medical Devices - Disposable Syring"
+      },
+      {
+        "hawb_ref": "176-91294196",
+        "pieces": 20,
+        "weight": 3.1,
+        "destination": "SYD",
+        "consignee": "International Leon Corp.",
+        "description": "Pharmaceutical Products - Vitamins "
+      },
+      {
+        "hawb_ref": "057-73035114",
+        "pieces": 11,
+        "weight": 47.8,
+        "destination": "SIN",
+        "consignee": "Tech Hernandez S.A.",
+        "description": "Plastic Products - Injection Moulde"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "document_id": "cn23_0415",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Robert Spears",
+    "addressee_company": "Rogers Global Co.",
+    "addressee_address": "0806 Evans Valley, Craigfurt, KS 68523, France",
+    "addressee_country": "France",
+    "total_weight_kg": 4.392,
+    "total_value": 610.44,
+    "currency": "AUD",
+    "issue_date": "2025-07-27",
+    "reference": "REF-914482",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 4.392,
+        "value": 610.44,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "United Arab Emirates"
+      }
+    ],
+    "sender_name": "Theresa Miranda",
+    "sender_company": "Commerce Stephens GmbH",
+    "sender_address": "USS Mcdaniel, FPO AE 06337, Italy",
+    "sender_phone": "972.618.3145x928",
+    "sender_email": "wandanewman@example.com",
+    "addressee_phone": "251.309.1338x619",
+    "category": "Other",
+    "insured": true,
+    "insured_amount": 671.48,
+    "postal_charges": 24.88,
+    "tracking_number": "RF075222751LH"
+  }
+}

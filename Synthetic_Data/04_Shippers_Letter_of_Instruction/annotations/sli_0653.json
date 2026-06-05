@@ -1,0 +1,54 @@
+{
+  "document_id": "sli_0653",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Simple-Export-Instructions",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202305-5686",
+    "usppi_name": "Commerce Turner B.V.",
+    "usppi_address": "31686 Samantha Village, North Hannahfort, VA 83634, Thailand",
+    "usppi_country": "Thailand",
+    "ein": "83-8758572",
+    "consignee_name": "Pacific Ross Ltd",
+    "consignee_address": "93761 Michael Valley, Port Garyberg, NV 50995, Germany",
+    "consignee_country": "Germany",
+    "notify_party": "Commerce Waters GmbH",
+    "forwarder": "Panalpina",
+    "incoterm": "FAS",
+    "dangerous_goods": false,
+    "payment_terms": "Third Party",
+    "eccn": "1C351",
+    "signatory_name": "Kathryn Andrews",
+    "signatory_title": "Trade Compliance Officer",
+    "line_items": [
+      {
+        "marks": "EXP/13",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D",
+        "qty": 36,
+        "unit": "BOX",
+        "weight_kg": 49.84,
+        "value_usd": 1085.22
+      },
+      {
+        "marks": "EXP/34",
+        "description": "Wooden Furniture - Office Chairs",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 17,
+        "unit": "PCS",
+        "weight_kg": 214.81,
+        "value_usd": 5688.79
+      }
+    ],
+    "total_weight_kg": 264.65,
+    "total_value_usd": 6774.01,
+    "service": "LCL Ocean",
+    "named_port": "Hamburg, DE",
+    "insurance_value_usd": 18586.29,
+    "license_type": "NLR",
+    "license_number": "N/A",
+    "destination_country": "Germany"
+  }
+}

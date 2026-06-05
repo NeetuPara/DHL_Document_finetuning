@@ -1,0 +1,53 @@
+{
+  "document_id": "hbl_0447",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Short-Form-Straight-BOL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "EGLV227376237",
+    "shipper_name": "Commerce Carter Ltd",
+    "shipper_address": "84719 Gray Ways, West Kelly, UT 80603, Japan",
+    "shipper_country": "Japan",
+    "consignee_name": "Walker Global GmbH",
+    "consignee_address": "37900 Brian Lakes, Port Warrenborough, VA 53475, Mexico",
+    "consignee_country": "Mexico",
+    "notify_party_name": "Trade Potts GmbH",
+    "notify_party_address": "PSC 8269, Box 9912, APO AP 33966, Thailand",
+    "vessel": "PIL PACIFIC",
+    "voyage": "866E",
+    "port_of_loading": "Qingdao, CN",
+    "port_of_discharge": "Hamburg, DE",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "New York, US",
+    "issue_date": "2024-12-01",
+    "issue_place": "Qingdao",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "KRCY5789124",
+        "seal_no": "CL157817",
+        "size_type": "20'RF"
+      },
+      {
+        "container_no": "EYCN4080482",
+        "seal_no": "BL526072",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "YGOO7363090",
+        "seal_no": "BL870390",
+        "size_type": "40'RF"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 330,
+    "package_type": "Bag",
+    "gross_weight_kg": 10004.0,
+    "net_weight_kg": 9053.7,
+    "cbm": 36.533,
+    "marks_and_numbers": "GLB/28"
+  }
+}

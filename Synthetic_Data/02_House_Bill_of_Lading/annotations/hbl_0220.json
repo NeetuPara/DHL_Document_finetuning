@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0220",
+  "document_class": "House Bill of Lading",
+  "format_variant": "Standard-Ocean-HBL",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "MAEU394295679",
+    "shipper_name": "Baxter Trade B.V.",
+    "shipper_address": "4867 Shawn Ports, Reynoldschester, SD 16928, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Williams Tech Pte Ltd",
+    "consignee_address": "2158 Jenkins Green, New Samantha, OK 04136, Malaysia",
+    "consignee_country": "Malaysia",
+    "notify_party_name": "Commerce Parker Pte Ltd",
+    "notify_party_address": "5806 Julie Groves Suite 823, Port Nicholas, MI 79044, Hong Kong",
+    "vessel": "YANG MING MYTH",
+    "voyage": "615S",
+    "port_of_loading": "Hamburg, DE",
+    "port_of_discharge": "Long Beach, US",
+    "place_of_receipt": "Colombo, LK",
+    "place_of_delivery": "Long Beach, US",
+    "issue_date": "2026-02-04",
+    "issue_place": "Hamburg",
+    "freight_terms": "PREPAID",
+    "originals_issued": 2,
+    "incoterm": "DAP",
+    "containers": [
+      {
+        "container_no": "EBPR6189036",
+        "seal_no": "SL844465",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "TDYP5206079",
+        "seal_no": "SL650763",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "XCNK2919906",
+        "seal_no": "BL519675",
+        "size_type": "40'HC"
+      },
+      {
+        "container_no": "RDSH4634954",
+        "seal_no": "BL191333",
+        "size_type": "40'GP"
+      }
+    ],
+    "description_of_goods": "Electronic Components - Printed Circuit Boards",
+    "hs_code": "8534.00.00",
+    "number_of_packages": 331,
+    "package_type": "Crate",
+    "gross_weight_kg": 13349.5,
+    "net_weight_kg": 12398.7,
+    "cbm": 23.007,
+    "marks_and_numbers": "GLB/2"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0655",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "James Hunt",
+    "addressee_company": "Adams Global Co.",
+    "addressee_address": "321 Christina Highway, Scottport, HI 43281, South Korea",
+    "addressee_country": "South Korea",
+    "total_weight_kg": 9.565,
+    "total_value": 1446.73,
+    "currency": "AUD",
+    "issue_date": "2025-06-21",
+    "reference": "REF-130199",
+    "line_items": [
+      {
+        "qty": 6,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.726,
+        "value": 555.84,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "United Kingdom"
+      },
+      {
+        "qty": 14,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.559,
+        "value": 69.72,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Switzerland"
+      },
+      {
+        "qty": 14,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.12,
+        "value": 479.92,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "United Arab Emirates"
+      },
+      {
+        "qty": 15,
+        "description": "Textile Fabrics - Woven Polyester",
+        "weight_kg": 3.16,
+        "value": 341.25,
+        "hs_code": "5407.42.00",
+        "country_of_origin": "Brazil"
+      }
+    ],
+    "sender_name": "Howard Wright",
+    "sender_company": "Taylor Tech Co.",
+    "sender_address": "769 Davila Harbor, East Reginaside, MH 01569, Thailand",
+    "sender_phone": "(749)873-5316",
+    "sender_email": "sullivanmelissa@example.com",
+    "addressee_phone": "(504)755-3440",
+    "category": "Returned Goods",
+    "insured": true,
+    "insured_amount": 1591.4,
+    "postal_charges": 10.42,
+    "tracking_number": "XS103263491PJ"
+  }
+}

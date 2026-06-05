@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0153",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202407-5627",
+    "usppi_name": "Global Myers Ltd",
+    "usppi_address": "653 Erin Flat, North Kristin, FM 33932, Spain",
+    "usppi_country": "Spain",
+    "ein": "24-4563259",
+    "consignee_name": "Mcmahon Global Ltd",
+    "consignee_address": "470 Lewis Loaf Suite 233, Justinfurt, SC 71994, Brazil",
+    "consignee_country": "Brazil",
+    "notify_party": "Church Pacific GmbH",
+    "forwarder": "Kuehne+Nagel",
+    "incoterm": "CFR",
+    "dangerous_goods": false,
+    "payment_terms": "Prepaid",
+    "eccn": "5A002",
+    "signatory_name": "Patricia Pollard",
+    "signatory_title": "Export Manager",
+    "line_items": [
+      {
+        "marks": "ABC/48",
+        "description": "Steel Products - Hot Rolled Coils",
+        "schedule_b": "5407.42.0010",
+        "dom_for": "D/F",
+        "qty": 158,
+        "unit": "KGS",
+        "weight_kg": 158.0,
+        "value_usd": 242.1
+      },
+      {
+        "marks": "ABC/31",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "7208.37.0060",
+        "dom_for": "D/F",
+        "qty": 168,
+        "unit": "BOX",
+        "weight_kg": 233.42,
+        "value_usd": 18350.24
+      },
+      {
+        "marks": "SLI/42",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "4819.10.0040",
+        "dom_for": "F",
+        "qty": 171,
+        "unit": "CTN",
+        "weight_kg": 794.48,
+        "value_usd": 4212.79
+      }
+    ],
+    "total_weight_kg": 1185.9,
+    "total_value_usd": 22805.13,
+    "vessel": "YANG MING MYTH",
+    "voyage": "977S",
+    "booking_ref": "BKG-654433",
+    "bl_number": "YMLU823987985",
+    "port_of_loading": "Singapore, SG",
+    "port_of_discharge": "Tokyo, JP",
+    "container_number": "QZUE5040520",
+    "seal_number": "BL772843",
+    "container_type": "20'GP",
+    "cbm": 26.607
+  }
+}

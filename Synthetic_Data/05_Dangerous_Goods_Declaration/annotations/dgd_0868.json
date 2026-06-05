@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0868",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Howell Industry GmbH",
+    "shipper_address": "6192 Allison Spur, Serranoshire, NJ 22761, Belgium",
+    "shipper_country": "Belgium",
+    "consignee_name": "Global Hull Pte Ltd",
+    "consignee_address": "7159 Penny Trafficway, Sheamouth, GA 41741, Switzerland",
+    "consignee_country": "Switzerland",
+    "emergency_telephone": "+27 515-636-2699",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 33,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 14.36,
+        "qty_unit": "g",
+        "packing_instruction": "Y203",
+        "auth_no": "CA-776227",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      },
+      {
+        "un_no": "UN1263",
+        "proper_name": "Paint",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 31,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 93.34,
+        "qty_unit": "L",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-500158",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-18\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Karla Sutton",
+    "signature_date": "2026-04-19",
+    "signature_place": "Belgium",
+    "awb_number": "057-31184072",
+    "flight_number": "LH9999",
+    "flight_date": "2026-06-07",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "MIA",
+    "destination_airport_name": "Miami International"
+  }
+}

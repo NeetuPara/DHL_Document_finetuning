@@ -1,0 +1,58 @@
+{
+  "document_id": "hbl_0839",
+  "document_class": "House Bill of Lading",
+  "format_variant": "FIATA-FBL-Multimodal",
+  "class_index": 2,
+  "fields": {
+    "bl_number": "COSU884102608",
+    "shipper_name": "Gray Pacific Pte Ltd",
+    "shipper_address": "9520 James Mill, New Ian, NH 61221, Germany",
+    "shipper_country": "Germany",
+    "consignee_name": "Hill Pacific Inc.",
+    "consignee_address": "Unit 1062 Box 5417, DPO AA 91891, United Kingdom",
+    "consignee_country": "United Kingdom",
+    "notify_party_name": "Pena Tech Ltd",
+    "notify_party_address": "720 Jeffery Views Apt. 981, Mooremouth, IN 68907, China",
+    "vessel": "CMA CGM ANTOINE DE SAINT EXUPERY",
+    "voyage": "649N",
+    "port_of_loading": "Antwerp, BE",
+    "port_of_discharge": "Shanghai, CN",
+    "place_of_receipt": "Antwerp, BE",
+    "place_of_delivery": "Shanghai, CN",
+    "issue_date": "2025-01-14",
+    "issue_place": "Antwerp",
+    "freight_terms": "PREPAID",
+    "originals_issued": 3,
+    "incoterm": "FOB",
+    "containers": [
+      {
+        "container_no": "IEMK1069127",
+        "seal_no": "SL999240",
+        "size_type": "20'OT"
+      },
+      {
+        "container_no": "CUKY6189929",
+        "seal_no": "BL211907",
+        "size_type": "40'OT"
+      },
+      {
+        "container_no": "IGGL8395617",
+        "seal_no": "SL664682",
+        "size_type": "40'RF"
+      },
+      {
+        "container_no": "XELK4272356",
+        "seal_no": "SL725973",
+        "size_type": "20'OT"
+      }
+    ],
+    "description_of_goods": "Steel Products - Hot Rolled Coils",
+    "hs_code": "7208.37.00",
+    "number_of_packages": 111,
+    "package_type": "Case",
+    "gross_weight_kg": 5266.1,
+    "net_weight_kg": 4688.6,
+    "cbm": 6.118,
+    "marks_and_numbers": "GLB/10"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "document_id": "sli_0816",
+  "document_class": "Shippers Letter of Instruction",
+  "format_variant": "Ocean-Freight-SLI",
+  "class_index": 4,
+  "fields": {
+    "reference": "SLI-202204-1965",
+    "usppi_name": "Industry Byrd LLC",
+    "usppi_address": "USCGC Watson, FPO AE 89265, Australia",
+    "usppi_country": "Australia",
+    "ein": "44-7327205",
+    "consignee_name": "Trade Allen LLC",
+    "consignee_address": "859 Clayton Square Apt. 661, New Courtney, MP 93271, Hong Kong",
+    "consignee_country": "Hong Kong",
+    "notify_party": "Griffin Pacific GmbH",
+    "forwarder": "Panalpina",
+    "incoterm": "CIP",
+    "dangerous_goods": true,
+    "payment_terms": "Third Party",
+    "eccn": "5A002",
+    "signatory_name": "Matthew Ramirez",
+    "signatory_title": "Shipping Coordinator",
+    "line_items": [
+      {
+        "marks": "ABC/47",
+        "description": "Medical Devices - Disposable Syringes",
+        "schedule_b": "2008.19.9000",
+        "dom_for": "F",
+        "qty": 77,
+        "unit": "CTN",
+        "weight_kg": 375.63,
+        "value_usd": 5172.06
+      },
+      {
+        "marks": "SLI/22",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "schedule_b": "2936.90.0010",
+        "dom_for": "D/F",
+        "qty": 112,
+        "unit": "PKG",
+        "weight_kg": 227.11,
+        "value_usd": 2691.37
+      },
+      {
+        "marks": "SLI/38",
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "schedule_b": "9002.11.0010",
+        "dom_for": "F",
+        "qty": 191,
+        "unit": "BOX",
+        "weight_kg": 73.9,
+        "value_usd": 12146.24
+      }
+    ],
+    "total_weight_kg": 676.64,
+    "total_value_usd": 20009.67,
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "107N",
+    "booking_ref": "BKG-966742",
+    "bl_number": "OOLU692232739",
+    "port_of_loading": "Hong Kong, HK",
+    "port_of_discharge": "Colombo, LK",
+    "container_number": "JKED6812578",
+    "seal_number": "CL450618",
+    "container_type": "20'GP",
+    "cbm": 19.274
+  }
+}

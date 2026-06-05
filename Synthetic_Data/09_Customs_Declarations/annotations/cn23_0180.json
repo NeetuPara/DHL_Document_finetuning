@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0180",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Gabriel Smith",
+    "addressee_company": "Rocha Tech Corp.",
+    "addressee_address": "845 Cassandra Ridge Apt. 098, North Timothyland, IA 11141, Brazil",
+    "addressee_country": "Brazil",
+    "total_weight_kg": 4.32,
+    "total_value": 1830.51,
+    "currency": "SGD",
+    "issue_date": "2026-03-26",
+    "reference": "REF-118635",
+    "line_items": [
+      {
+        "qty": 19,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 2.061,
+        "value": 1063.43,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 6,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 0.187,
+        "value": 761.88,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Malaysia"
+      },
+      {
+        "qty": 1,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 2.072,
+        "value": 5.2,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "South Korea"
+      }
+    ],
+    "sender_country": "France",
+    "port_of_entry": "Chicago, IL",
+    "entry_number": "320-36797575-4",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 9.9,
+    "estimated_duty": 181.22,
+    "importer_ein": "31-0176490",
+    "customs_broker": "Walker Tech LLC"
+  }
+}

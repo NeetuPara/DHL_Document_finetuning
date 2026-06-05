@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0963",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Santiago Pacific Pte Ltd",
+    "shipper_address": "9997 John Route Apt. 596, Rogerstad, WY 89218, India",
+    "shipper_country": "India",
+    "consignee_name": "Fleming Global Ltd",
+    "consignee_address": "5448 Jeffery Cliff, North Jenniferland, VA 83291, Singapore",
+    "consignee_country": "Singapore",
+    "emergency_telephone": "+3 238-150-9227",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 46,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 51.24,
+        "qty_unit": "mL",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "William Hull",
+    "signature_date": "2026-04-19",
+    "signature_place": "India",
+    "awb_number": "006-66884428",
+    "flight_number": "CX4967",
+    "departure_airport_code": "LAX",
+    "departure_airport_name": "Los Angeles International",
+    "destination_airport_code": "HKG",
+    "destination_airport_name": "Hong Kong International",
+    "non_dg_reason": "Lithium Ion Batteries \u2014 Section II (PI 967/Section II)"
+  }
+}

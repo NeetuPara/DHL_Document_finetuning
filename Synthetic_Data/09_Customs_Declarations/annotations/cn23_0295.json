@@ -1,0 +1,70 @@
+{
+  "document_id": "cn23_0295",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Jessica Horn",
+    "addressee_company": "Tech Hensley GmbH",
+    "addressee_address": "3962 Morales Corners Suite 903, Milesfort, WA 56900, United Kingdom",
+    "addressee_country": "United Kingdom",
+    "total_weight_kg": 10.071,
+    "total_value": 7117.85,
+    "currency": "AED",
+    "issue_date": "2026-03-28",
+    "reference": "REF-581549",
+    "line_items": [
+      {
+        "qty": 15,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 1.313,
+        "value": 2189.4,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 19,
+        "description": "Food Products - Processed Nuts and Seeds",
+        "weight_kg": 1.926,
+        "value": 2488.05,
+        "hs_code": "2008.19.00",
+        "country_of_origin": "India"
+      },
+      {
+        "qty": 7,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 3.154,
+        "value": 614.39,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 1,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 3.002,
+        "value": 111.77,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Belgium"
+      },
+      {
+        "qty": 16,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 0.676,
+        "value": 1714.24,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Australia"
+      }
+    ],
+    "sender_name": "Adrian Baird",
+    "sender_company": "Tech Tran AG",
+    "sender_address": "31925 Michael Loaf Apt. 193, North Brianburgh, MN 77584, Switzerland",
+    "sender_phone": "577-854-7949x3313",
+    "sender_email": "peckrebecca@example.net",
+    "addressee_phone": "001-560-681-3344x3392",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 39.62,
+    "tracking_number": "SE466354729AI"
+  }
+}

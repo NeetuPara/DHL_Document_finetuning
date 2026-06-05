@@ -1,0 +1,77 @@
+{
+  "document_id": "eei_0224",
+  "document_class": "Import Export License",
+  "format_variant": "US-SED-EEI-Export-Filing",
+  "class_index": 11,
+  "fields": {
+    "itn_number": "X20220826746538",
+    "export_date": "2025-09-26",
+    "aes_option": "EEI Exception",
+    "usppi_name": "Trade Edwards Pte Ltd",
+    "usppi_ein": "97-0669731",
+    "usppi_address": "USNV Valenzuela, FPO AP 90429, Japan",
+    "ultimate_consignee": "International Callahan S.A.",
+    "intermediate_consignee": "Global Wright B.V.",
+    "forwarding_agent": "International Parks Co.",
+    "destination_country": "France",
+    "carrier": "DHL Express",
+    "bl_awb": "020-99129530",
+    "total_value": 217538.26,
+    "currency": "AUD",
+    "signatory": "Isabel Woods",
+    "line_items": [
+      {
+        "hts_no": "9018.31.00",
+        "description": "Medical Devices - Disposable Syringes",
+        "country_of_origin": "South Korea",
+        "qty": 23,
+        "unit": "CTN",
+        "entered_value": 2632.58,
+        "duty_rate": 14.6,
+        "duty_amount": 384.36,
+        "eccn": "5E992",
+        "schedule_b": "9018.31.00",
+        "export_reason": "TSR - Technology and Software"
+      },
+      {
+        "hts_no": "4819.10.00",
+        "description": "Paper Products - Packaging Cartons",
+        "country_of_origin": "Hong Kong",
+        "qty": 12,
+        "unit": "CTN",
+        "entered_value": 449.28,
+        "duty_rate": 12.9,
+        "duty_amount": 57.96,
+        "eccn": "7A994",
+        "schedule_b": "4819.10.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "4016.93.00",
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "country_of_origin": "Spain",
+        "qty": 144,
+        "unit": "PKG",
+        "entered_value": 23744.16,
+        "duty_rate": 12.6,
+        "duty_amount": 2991.76,
+        "eccn": "EAR99",
+        "schedule_b": "4016.93.00",
+        "export_reason": "TMP - Temporary"
+      },
+      {
+        "hts_no": "5407.42.00",
+        "description": "Textile Fabrics - Woven Polyester",
+        "country_of_origin": "Spain",
+        "qty": 404,
+        "unit": "MTR",
+        "entered_value": 190712.24,
+        "duty_rate": 0.5,
+        "duty_amount": 953.56,
+        "eccn": "5E992",
+        "schedule_b": "5407.42.00",
+        "export_reason": "TSR - Technology and Software"
+      }
+    ]
+  }
+}

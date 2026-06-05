@@ -1,0 +1,62 @@
+{
+  "document_id": "cn23_0142",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Heidi Lindsey",
+    "addressee_company": "International Williams Ltd",
+    "addressee_address": "05087 Ortiz Village Suite 496, North Michael, MP 40452, Spain",
+    "addressee_country": "Spain",
+    "total_weight_kg": 10.83,
+    "total_value": 1023.63,
+    "currency": "EUR",
+    "issue_date": "2025-06-11",
+    "reference": "REF-294541",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 0.639,
+        "value": 270.99,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "China"
+      },
+      {
+        "qty": 2,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 1.354,
+        "value": 113.04,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Poland"
+      },
+      {
+        "qty": 3,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 4.552,
+        "value": 55.35,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 15,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 4.285,
+        "value": 584.25,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_name": "Beverly Smith",
+    "sender_company": "Buck Trade S.A.",
+    "sender_address": "975 Brewer Place Suite 356, West Christophertown, NJ 24461, United Arab Emirates",
+    "sender_phone": "528-417-6860x654",
+    "sender_email": "bryanparks@example.net",
+    "addressee_phone": "235-237-7418x74774",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 1125.99,
+    "postal_charges": 17.44,
+    "tracking_number": "ZX222280072PY"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "document_id": "dgd_0591",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "Non-DG-Shippers-Declaration",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Shepard Global S.A.",
+    "shipper_address": "4972 Ashley Rapids Suite 468, West Gabrielchester, MP 07335, Switzerland",
+    "shipper_country": "Switzerland",
+    "consignee_name": "International Little Ltd",
+    "consignee_address": "9903 Owens Lights Suite 783, Thomasbury, FL 53972, Belgium",
+    "consignee_country": "Belgium",
+    "emergency_telephone": "+12 219-962-5965",
+    "dg_entries": [
+      {
+        "un_no": "UN1203",
+        "proper_name": "Gasoline (Petrol)",
+        "class": "3",
+        "packing_group": "II",
+        "n_packages": 6,
+        "pkg_type": "UN Specification Box",
+        "net_qty": 9.19,
+        "qty_unit": "g",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-667064",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "-43\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      },
+      {
+        "un_no": "UN1993",
+        "proper_name": "Flammable liquid, n.o.s. (contains Acetone, Ethanol)",
+        "class": "3",
+        "packing_group": "III",
+        "n_packages": 24,
+        "pkg_type": "Steel Drum",
+        "net_qty": 6.2,
+        "qty_unit": "kg",
+        "packing_instruction": "Y344",
+        "auth_no": "CA-694166",
+        "special_provision": "",
+        "hazard_label": "Flammable Liquid",
+        "marine_pollutant": false,
+        "flashpoint": "23\u00b0C",
+        "ems": "F-E, S-E",
+        "stow_category": "Category B"
+      }
+    ],
+    "signatory_name": "Robert Rivera",
+    "signature_date": "2026-05-04",
+    "signature_place": "Switzerland",
+    "awb_number": "125-39444604",
+    "flight_number": "CX1833",
+    "departure_airport_code": "HKG",
+    "departure_airport_name": "Hong Kong International",
+    "destination_airport_code": "JFK",
+    "destination_airport_name": "JFK New York",
+    "non_dg_reason": "Dry Ice (Carbon Dioxide, solid) \u2014 Section I small quantity"
+  }
+}

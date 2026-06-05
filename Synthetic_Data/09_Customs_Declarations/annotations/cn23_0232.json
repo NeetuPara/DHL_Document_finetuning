@@ -1,0 +1,78 @@
+{
+  "document_id": "cn23_0232",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "John Brady",
+    "addressee_company": "Coleman Industry LLC",
+    "addressee_address": "USNV Diaz, FPO AA 36889, United States",
+    "addressee_country": "United States",
+    "total_weight_kg": 15.604,
+    "total_value": 3060.81,
+    "currency": "GBP",
+    "issue_date": "2025-10-25",
+    "reference": "REF-920681",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Steel Products - Hot Rolled Coils",
+        "weight_kg": 3.114,
+        "value": 294.57,
+        "hs_code": "7208.37.00",
+        "country_of_origin": "Mexico"
+      },
+      {
+        "qty": 6,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 0.718,
+        "value": 204.96,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 11,
+        "description": "Wooden Furniture - Office Chairs",
+        "weight_kg": 2.753,
+        "value": 585.86,
+        "hs_code": "9401.30.00",
+        "country_of_origin": "Australia"
+      },
+      {
+        "qty": 20,
+        "description": "Pharmaceutical Products - Vitamins and Supple",
+        "weight_kg": 3.145,
+        "value": 199.2,
+        "hs_code": "2936.90.00",
+        "country_of_origin": "France"
+      },
+      {
+        "qty": 4,
+        "description": "Optical Equipment - Camera Lenses",
+        "weight_kg": 3.324,
+        "value": 343.12,
+        "hs_code": "9002.11.00",
+        "country_of_origin": "Singapore"
+      },
+      {
+        "qty": 10,
+        "description": "Chemical Compounds - Industrial Solvents",
+        "weight_kg": 2.55,
+        "value": 1433.1,
+        "hs_code": "2901.10.00",
+        "country_of_origin": "Mexico"
+      }
+    ],
+    "sender_name": "Andrew Wilson",
+    "sender_company": "Cox Industry Ltd",
+    "sender_address": "5299 Dylan Lane, West Richard, AL 31538, Hong Kong",
+    "sender_phone": "3719370074",
+    "sender_email": "scott27@example.net",
+    "addressee_phone": "790.297.0990x8415",
+    "category": "Sale of Goods",
+    "insured": false,
+    "insured_amount": 0.0,
+    "postal_charges": 55.09,
+    "tracking_number": "UW504039109EF"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "dgd_0092",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IMDG-Sea-DG-Manifest",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Taylor International Co.",
+    "shipper_address": "182 Burke Valleys, North Tashamouth, ND 24427, Netherlands",
+    "shipper_country": "Netherlands",
+    "consignee_name": "Trade Thompson B.V.",
+    "consignee_address": "591 Tucker Fords, Michaelborough, DC 40307, Poland",
+    "consignee_country": "Poland",
+    "emergency_telephone": "+44 622-390-7162",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 18,
+        "pkg_type": "Fibreboard Box",
+        "net_qty": 27.3,
+        "qty_unit": "L",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Angela Cross",
+    "signature_date": "2026-05-02",
+    "signature_place": "Netherlands",
+    "vessel": "EVERGREEN EVER ACE",
+    "voyage": "450W",
+    "port_of_loading": "Dubai, AE",
+    "port_of_discharge": "Tanjung Pelepas, MY"
+  }
+}

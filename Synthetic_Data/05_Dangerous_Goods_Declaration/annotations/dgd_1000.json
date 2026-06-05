@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_1000",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Escobar Trade S.A.",
+    "shipper_address": "140 Garza Mall, South Lisaville, MH 63862, Singapore",
+    "shipper_country": "Singapore",
+    "consignee_name": "Harris Global GmbH",
+    "consignee_address": "316 Rebecca Ways, Port Alexisville, NE 18466, South Korea",
+    "consignee_country": "South Korea",
+    "emergency_telephone": "+39 888-695-3905",
+    "dg_entries": [
+      {
+        "un_no": "UN1017",
+        "proper_name": "Chlorine",
+        "class": "2.3",
+        "packing_group": "N/A",
+        "n_packages": 22,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 47.04,
+        "qty_unit": "L",
+        "packing_instruction": "Forbidden",
+        "auth_no": "N/A",
+        "special_provision": "",
+        "hazard_label": "Toxic Gas",
+        "marine_pollutant": true,
+        "flashpoint": "N/A",
+        "ems": "F-C, S-U",
+        "stow_category": "Category D"
+      }
+    ],
+    "signatory_name": "Robert Morris",
+    "signature_date": "2026-04-26",
+    "signature_place": "Singapore",
+    "awb_number": "085-67874698",
+    "flight_number": "DL2851",
+    "flight_date": "2026-05-05",
+    "departure_airport_code": "YYZ",
+    "departure_airport_name": "Toronto Pearson",
+    "destination_airport_code": "ORD",
+    "destination_airport_name": "Chicago O'Hare"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "document_id": "cn23_0807",
+  "document_class": "Customs Declaration",
+  "format_variant": "US-CBP-Informal-Entry",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "Anthony Spears",
+    "addressee_company": "Murphy Pacific LLC",
+    "addressee_address": "PSC 7799, Box 8662, APO AP 10025, Malaysia",
+    "addressee_country": "Malaysia",
+    "total_weight_kg": 7.791,
+    "total_value": 2279.45,
+    "currency": "CNY",
+    "issue_date": "2025-05-30",
+    "reference": "REF-240051",
+    "line_items": [
+      {
+        "qty": 12,
+        "description": "Rubber Goods - Industrial Seals and Gaskets",
+        "weight_kg": 1.703,
+        "value": 57.24,
+        "hs_code": "4016.93.00",
+        "country_of_origin": "Spain"
+      },
+      {
+        "qty": 15,
+        "description": "Industrial Machinery Parts - Steel Gears",
+        "weight_kg": 4.2,
+        "value": 2171.25,
+        "hs_code": "8483.40.00",
+        "country_of_origin": "Germany"
+      },
+      {
+        "qty": 4,
+        "description": "Medical Devices - Disposable Syringes",
+        "weight_kg": 1.888,
+        "value": 50.96,
+        "hs_code": "9018.31.00",
+        "country_of_origin": "India"
+      }
+    ],
+    "sender_country": "Hong Kong",
+    "port_of_entry": "Seattle, WA",
+    "entry_number": "324-20410159-7",
+    "entry_type": "Section 321 De Minimis",
+    "duty_rate": 14.9,
+    "estimated_duty": 339.64,
+    "importer_ein": "16-4652615",
+    "customs_broker": "Industry Bennett LLC"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "document_id": "dgd_0853",
+  "document_class": "Dangerous Goods Declaration",
+  "format_variant": "IATA-DGD-Air-Column-Format",
+  "class_index": 5,
+  "fields": {
+    "shipper_name": "Moss International Ltd",
+    "shipper_address": "580 Jenna Trail Apt. 079, Richbury, IN 08286, Italy",
+    "shipper_country": "Italy",
+    "consignee_name": "Best International AG",
+    "consignee_address": "2235 Estrada Grove, Lewisview, MS 36164, Switzerland",
+    "consignee_country": "Switzerland",
+    "emergency_telephone": "+79 339-180-8500",
+    "dg_entries": [
+      {
+        "un_no": "UN1950",
+        "proper_name": "Aerosols, flammable",
+        "class": "2.1",
+        "packing_group": "N/A",
+        "n_packages": 40,
+        "pkg_type": "Plastic Jerry Can",
+        "net_qty": 86.98,
+        "qty_unit": "g",
+        "packing_instruction": "Y203",
+        "auth_no": "N/A",
+        "special_provision": "SP63",
+        "hazard_label": "Flammable Gas",
+        "marine_pollutant": false,
+        "flashpoint": "N/A",
+        "ems": "F-D, S-U",
+        "stow_category": "Category A"
+      }
+    ],
+    "signatory_name": "Jennifer Smith",
+    "signature_date": "2026-04-19",
+    "signature_place": "Italy",
+    "awb_number": "618-67000188",
+    "flight_number": "SQ2516",
+    "flight_date": "2026-05-02",
+    "departure_airport_code": "NRT",
+    "departure_airport_name": "Tokyo Narita",
+    "destination_airport_code": "PVG",
+    "destination_airport_name": "Shanghai Pudong"
+  }
+}

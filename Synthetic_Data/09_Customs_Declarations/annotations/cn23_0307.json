@@ -1,0 +1,54 @@
+{
+  "document_id": "cn23_0307",
+  "document_class": "Customs Declaration",
+  "format_variant": "CN23-Full-Form-UPU",
+  "class_index": 9,
+  "fields": {
+    "addressee_name": "James Sanchez",
+    "addressee_company": "Tech Woods S.A.",
+    "addressee_address": "51125 Thompson Isle Apt. 228, West Katherine, OK 78266, France",
+    "addressee_country": "France",
+    "total_weight_kg": 5.866,
+    "total_value": 1635.72,
+    "currency": "GBP",
+    "issue_date": "2026-01-07",
+    "reference": "REF-765270",
+    "line_items": [
+      {
+        "qty": 3,
+        "description": "Electronic Components - Printed Circuit Board",
+        "weight_kg": 1.202,
+        "value": 328.44,
+        "hs_code": "8534.00.00",
+        "country_of_origin": "Thailand"
+      },
+      {
+        "qty": 14,
+        "description": "Paper Products - Packaging Cartons",
+        "weight_kg": 1.281,
+        "value": 751.38,
+        "hs_code": "4819.10.00",
+        "country_of_origin": "Brazil"
+      },
+      {
+        "qty": 6,
+        "description": "Plastic Products - Injection Moulded Componen",
+        "weight_kg": 3.383,
+        "value": 555.9,
+        "hs_code": "3926.90.00",
+        "country_of_origin": "Canada"
+      }
+    ],
+    "sender_name": "Amy Haas",
+    "sender_company": "Johnson Industry LLC",
+    "sender_address": "569 Alexander Knoll, West Codyville, FM 76237, Australia",
+    "sender_phone": "612-370-9709",
+    "sender_email": "mark45@example.com",
+    "addressee_phone": "4753750936",
+    "category": "Commercial Sample",
+    "insured": true,
+    "insured_amount": 1799.29,
+    "postal_charges": 48.57,
+    "tracking_number": "HZ317714987FO"
+  }
+}

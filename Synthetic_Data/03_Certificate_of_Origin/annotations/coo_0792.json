@@ -1,0 +1,51 @@
+{
+  "document_id": "coo_0792",
+  "document_class": "Certificate of Origin",
+  "format_variant": "EUR1-Movement-Certificate",
+  "class_index": 3,
+  "fields": {
+    "document_number": "COO-202603-1883",
+    "exporter_name": "Commerce Baker Ltd",
+    "exporter_address": "PSC 1986, Box 6910, APO AE 51979, Netherlands",
+    "exporter_country": "Netherlands",
+    "consignee_name": "Commerce Vaughn B.V.",
+    "consignee_address": "7009 Mcdonald Summit, Denisemouth, CT 85981, Sweden",
+    "consignee_country": "Sweden",
+    "country_of_origin": "Netherlands",
+    "country_of_destination": "Sweden",
+    "bl_or_awb": "160-15504300",
+    "issue_date": "2025-05-20",
+    "certifier_name": "Melissa Schaefer",
+    "goods": [
+      {
+        "description": "Consumer Electronics - Wireless Earbuds",
+        "hs_code": "8518.30.00",
+        "qty": 298,
+        "unit": "PCS",
+        "weight_kg": 43.06,
+        "origin_criterion": "F",
+        "value": 27282.05
+      },
+      {
+        "description": "Pharmaceutical Products - Vitamins and Supplements",
+        "hs_code": "2936.90.00",
+        "qty": 169,
+        "unit": "BOX",
+        "weight_kg": 315.08,
+        "origin_criterion": "B",
+        "value": 1581.06
+      },
+      {
+        "description": "Chemical Compounds - Industrial Solvents",
+        "hs_code": "2901.10.00",
+        "qty": 381,
+        "unit": "LTR",
+        "weight_kg": 391.79,
+        "origin_criterion": "E",
+        "value": 10193.23
+      }
+    ],
+    "fta_agreement": "UK-Australia FTA",
+    "chamber": "Export Council"
+  }
+}

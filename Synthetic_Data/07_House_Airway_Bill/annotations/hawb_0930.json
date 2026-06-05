@@ -1,0 +1,92 @@
+{
+  "document_id": "hawb_0930",
+  "document_class": "House Airway Bill",
+  "format_variant": "Consolidated-Air-Cargo-HAWB",
+  "class_index": 7,
+  "fields": {
+    "hawb_number": "057-64290245",
+    "mawb_number": "074-96062292",
+    "shipper_name": "Bennett Global Inc.",
+    "shipper_address": "PSC 3455, Box 8649, APO AP 76101, Australia",
+    "consignee_name": "Anderson Pacific LLC",
+    "consignee_address": "23150 Taylor Centers Apt. 880, Brandiview, CO 91715, United Arab Emirates",
+    "agent_name": "Barnes Pacific AG",
+    "airport_departure": "PVG",
+    "airport_destination": "YYZ",
+    "currency": "SGD",
+    "charge_code": "CC",
+    "declared_value_carriage": "CHF 43,327.11",
+    "declared_value_customs": "NCV",
+    "n_pieces": 4,
+    "gross_weight_kg": 460.6,
+    "chargeable_weight": 485.8,
+    "rate": 4.3,
+    "total_charge": 2088.94,
+    "nature_of_goods": "Pharmaceutical Products - Vitamins and Supplements",
+    "hs_code": "2936.90.00",
+    "handling_info": "TEMP CONTROLLED: 4\u00b0C - 18\u00b0C",
+    "issue_date": "2025-06-10",
+    "signatory": "Jessica Miranda",
+    "iata_code": "15-368",
+    "agent_cass": "5794-8744",
+    "consolidation_ref": "CONS-8580-297391",
+    "sub_shipments": [
+      {
+        "hawb_ref": "057-86660125",
+        "pieces": 14,
+        "weight": 81.8,
+        "destination": "CDG",
+        "consignee": "Tech Brown LLC",
+        "description": "Steel Products - Hot Rolled Coils"
+      },
+      {
+        "hawb_ref": "085-22158496",
+        "pieces": 15,
+        "weight": 19.6,
+        "destination": "DXB",
+        "consignee": "Pacific Clark Ltd",
+        "description": "Textile Fabrics - Woven Polyester"
+      },
+      {
+        "hawb_ref": "160-30444990",
+        "pieces": 16,
+        "weight": 64.0,
+        "destination": "AMS",
+        "consignee": "Jacobs Pacific Inc.",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "006-99639322",
+        "pieces": 3,
+        "weight": 42.0,
+        "destination": "SIN",
+        "consignee": "International Baldwin Ltd",
+        "description": "Rubber Goods - Industrial Seals and"
+      },
+      {
+        "hawb_ref": "125-80959937",
+        "pieces": 19,
+        "weight": 26.7,
+        "destination": "YYZ",
+        "consignee": "Wolfe Commerce AG",
+        "description": "Paper Products - Packaging Cartons"
+      },
+      {
+        "hawb_ref": "045-85890650",
+        "pieces": 7,
+        "weight": 58.9,
+        "destination": "SIN",
+        "consignee": "Global Smith Pte Ltd",
+        "description": "Wooden Furniture - Office Chairs"
+      },
+      {
+        "hawb_ref": "176-50317543",
+        "pieces": 2,
+        "weight": 91.4,
+        "destination": "AMS",
+        "consignee": "Commerce Singleton B.V.",
+        "description": "Paper Products - Packaging Cartons"
+      }
+    ]
+  }
+}
